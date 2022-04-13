@@ -1,0 +1,905 @@
+{
+    "search_metadata": {
+        "id": "6256e0f4dc02f14bc75e50b3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e47280742e7fd437/6256e0f4dc02f14bc75e50b3.json",
+        "created_at": "2022-04-13 14:40:52 UTC",
+        "processed_at": "2022-04-13 14:40:52 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=KUcO6LAAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/e47280742e7fd437/6256e0f4dc02f14bc75e50b3.html",
+        "total_time_taken": 3.67
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "KUcO6LAAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Md Shad Akhtar",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Natural Language Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:natural_language_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing"
+            },
+            {
+                "title": "Sentiment Analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sentiment_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asentiment_analysis"
+            },
+            {
+                "title": "Emotion Analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:emotion_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aemotion_analysis"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KUcO6LAAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "How intense are you? Predicting intensities of emotions and sentiments using stacked ensemble [application notes]",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:Zph67rFs4hoC",
+            "citation_id": "KUcO6LAAAAAJ:Zph67rFs4hoC",
+            "authors": "MS Akhtar, A Ekbal, E Cambria",
+            "publication": "IEEE Computational Intelligence Magazine 15 (1), 64-75, 2020",
+            "cited_by": {
+                "value": 145,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1545254153049260589",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1545254153049260589&engine=google_scholar&hl=en",
+                "cites_id": "1545254153049260589"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Feature selection and ensemble construction: A two-step method for aspect based sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:qjMakFHDy7sC",
+            "citation_id": "KUcO6LAAAAAJ:qjMakFHDy7sC",
+            "authors": "MS Akhtar, D Gupta, A Ekbal, P Bhattacharyya",
+            "publication": "Knowledge-Based Systems 125, 116-135, 2017",
+            "cited_by": {
+                "value": 140,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8766815799901839637",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8766815799901839637&engine=google_scholar&hl=en",
+                "cites_id": "8766815799901839637"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Fighting an infodemic: Covid-19 fake news dataset",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "KUcO6LAAAAAJ:mVmsd5A6BfQC",
+            "authors": "P Patwa, S Sharma, S Pykl, V Guptha, G Kumari, MS Akhtar, A Ekbal, ...",
+            "publication": "International Workshop on\u200b Combating On\u200b line Ho\u200b st\u200b ile Posts in\u200b Regional \u2026, 2021",
+            "cited_by": {
+                "value": 102,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2858573600079164914",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2858573600079164914&engine=google_scholar&hl=en",
+                "cites_id": "2858573600079164914"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A Hybrid Deep Learning Architecture for Sentiment Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "KUcO6LAAAAAJ:2osOgNQ5qMEC",
+            "authors": "MS Akhtar, A Kumar, A Ekbal, P Bhattacharyya",
+            "publication": "COLING 2016, 2016",
+            "cited_by": {
+                "value": 87,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8728303997835244502",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8728303997835244502&engine=google_scholar&hl=en",
+                "cites_id": "8728303997835244502"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Contextual inter-modal attention for multi-modal sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:ufrVoPGSRksC",
+            "citation_id": "KUcO6LAAAAAJ:ufrVoPGSRksC",
+            "authors": "D Ghosal, MS Akhtar, D Chauhan, S Poria, A Ekbal, P Bhattacharyya",
+            "publication": "proceedings of the 2018 conference on empirical methods in natural language \u2026, 2018",
+            "cited_by": {
+                "value": 71,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6389934243885558183",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6389934243885558183&engine=google_scholar&hl=en",
+                "cites_id": "6389934243885558183"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:5nxA0vEk-isC",
+            "citation_id": "KUcO6LAAAAAJ:5nxA0vEk-isC",
+            "authors": "MS Akhtar, DS Chauhan, D Ghosal, S Poria, A Ekbal, P Bhattacharyya",
+            "publication": "Proceedings of the 2019 Conference of the North American Chapter of the \u2026, 2019",
+            "cited_by": {
+                "value": 68,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3749796521335146419",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3749796521335146419&engine=google_scholar&hl=en",
+                "cites_id": "3749796521335146419"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "IARM: Inter-aspect relation modeling with memory networks in aspect-based sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "KUcO6LAAAAAJ:_FxGoFyzp5QC",
+            "authors": "N Majumder, S Poria, A Gelbukh, MS Akhtar, E Cambria, A Ekbal",
+            "publication": "Proceedings of the 2018 conference on empirical methods in natural language \u2026, 2018",
+            "cited_by": {
+                "value": 68,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15405138038933501354",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15405138038933501354&engine=google_scholar&hl=en",
+                "cites_id": "15405138038933501354"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Aspect based sentiment analysis in Hindi: Resource creation and evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "KUcO6LAAAAAJ:9yKSN-GCB0IC",
+            "authors": "MS Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "Proceedings of the Tenth International Conference on Language Resources and \u2026, 2016",
+            "cited_by": {
+                "value": 65,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14904170912435653470",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14904170912435653470&engine=google_scholar&hl=en",
+                "cites_id": "14904170912435653470"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Overview of constraint 2021 shared tasks: Detecting english covid-19 fake news and hindi hostile posts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "KUcO6LAAAAAJ:9ZlFYXVOiuMC",
+            "authors": "P Patwa, M Bhardwaj, V Guptha, G Kumari, S Sharma, S Pykl, A Das, ...",
+            "publication": "International Workshop on\u200b Combating On\u200b line Ho\u200b st\u200b ile Posts in\u200b Regional \u2026, 2021",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8906886121897875936",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8906886121897875936&engine=google_scholar&hl=en",
+                "cites_id": "8906886121897875936"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "All-in-one: Emotion, sentiment and intensity prediction using a multi-task ensemble framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:WF5omc3nYNoC",
+            "citation_id": "KUcO6LAAAAAJ:WF5omc3nYNoC",
+            "authors": "MS Akhtar, D Ghosal, A Ekbal, P Bhattacharyya, S Kurohashi",
+            "publication": "IEEE Transactions on Affective Computing, 2019",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7184462385587583792,17284886423781535707",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7184462385587583792%2C17284886423781535707&engine=google_scholar&hl=en",
+                "cites_id": "7184462385587583792,17284886423781535707"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A multilayer perceptron based ensemble technique for fine-grained financial sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "KUcO6LAAAAAJ:Y0pCki6q_DkC",
+            "authors": "MS Akhtar, A Kumar, D Ghosal, A Ekbal, P Bhattacharyya",
+            "publication": "Proceedings of the 2017 conference on empirical methods in natural language \u2026, 2017",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8806684278986724030",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8806684278986724030&engine=google_scholar&hl=en",
+                "cites_id": "8806684278986724030"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Multi-task learning for aspect term extraction and aspect sentiment classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:4TOpqqG69KYC",
+            "citation_id": "KUcO6LAAAAAJ:4TOpqqG69KYC",
+            "authors": "MS Akhtar, T Garg, A Ekbal",
+            "publication": "Neurocomputing 398, 247-256, 2020",
+            "cited_by": {
+                "value": 40,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14702612244138071337",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14702612244138071337&engine=google_scholar&hl=en",
+                "cites_id": "14702612244138071337"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "IITP at SemEval-2017 task 5: an ensemble of deep learning and feature based models for financial sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "KUcO6LAAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "D Ghosal, S Bhatnagar, MS Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "Proceedings of the 11th International Workshop on Semantic Evaluation \u2026, 2017",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13859308023797849445",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13859308023797849445&engine=google_scholar&hl=en",
+                "cites_id": "13859308023797849445"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Context-aware interactive attention for multi-modal sentiment and emotion analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "KUcO6LAAAAAJ:MXK_kJrjxJIC",
+            "authors": "DS Chauhan, MS Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language \u2026, 2019",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13043379810458409220",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13043379810458409220&engine=google_scholar&hl=en",
+                "cites_id": "13043379810458409220"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Aspect Based Sentiment Analysis: Category Detection and Sentiment Classification for Hindi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "KUcO6LAAAAAJ:d1gkVwhDpl0C",
+            "authors": "MS Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "CICLING 2016, 2016",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=630811203776140474",
+                "serpapi_link": "https://serpapi.com/search.json?cites=630811203776140474&engine=google_scholar&hl=en",
+                "cites_id": "630811203776140474"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Hostility detection dataset in Hindi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "KUcO6LAAAAAJ:Wp0gIr-vW9MC",
+            "authors": "M Bhardwaj, MS Akhtar, A Ekbal, A Das, T Chakraborty",
+            "publication": "arXiv preprint arXiv:2011.03588, 2020",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10024660010699746102",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10024660010699746102&engine=google_scholar&hl=en",
+                "cites_id": "10024660010699746102"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Solving data sparsity for aspect based sentiment analysis using cross-linguality and multi-linguality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "KUcO6LAAAAAJ:eQOLeE2rZwMC",
+            "authors": "MS Akhtar, P Sawant, S Sen, A Ekbal, P Bhattacharyya",
+            "publication": "Association for Computational Linguistics, 2018",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8206283684253470681",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8206283684253470681&engine=google_scholar&hl=en",
+                "cites_id": "8206283684253470681"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "IITP at SemEval-2017 Task 8: A supervised approach for rumour evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "KUcO6LAAAAAJ:IjCSPb-OGe4C",
+            "authors": "V Singh, S Narayan, MS Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "Proceedings of the 11th International Workshop on Semantic Evaluation \u2026, 2017",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10940603737140248572",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10940603737140248572&engine=google_scholar&hl=en",
+                "cites_id": "10940603737140248572"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "No, that never happened!! Investigating rumors on Twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:Se3iqnhoufwC",
+            "citation_id": "KUcO6LAAAAAJ:Se3iqnhoufwC",
+            "authors": "MS Akhtar, A Ekbal, S Narayan, V Singh",
+            "publication": "IEEE Intelligent Systems 33 (5), 8-15, 2018",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15872214933291850723",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15872214933291850723&engine=google_scholar&hl=en",
+                "cites_id": "15872214933291850723"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Iitpb at semeval-2017 task 5: Sentiment prediction in financial text",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "KUcO6LAAAAAJ:zYLM7Y9cAGgC",
+            "authors": "A Kumar, A Sethi, MS Akhtar, A Ekbal, C Biemann, P Bhattacharyya",
+            "publication": "Proceedings of the 11th International Workshop on Semantic Evaluation \u2026, 2017",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13948261018146873823",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13948261018146873823&engine=google_scholar&hl=en",
+                "cites_id": "13948261018146873823"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Iitp: Hybrid approach for text normalization in twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "KUcO6LAAAAAJ:u-x6o8ySG0sC",
+            "authors": "MS Akhtar, UK Sikdar, A Ekbal",
+            "publication": "Proceedings of the Workshop on Noisy User-generated Text, 106-110, 2015",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8943638821614209590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8943638821614209590&engine=google_scholar&hl=en",
+                "cites_id": "8943638821614209590"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "IITP: Multiobjective differential evolution based Twitter named entity recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "KUcO6LAAAAAJ:u5HHmVD_uO8C",
+            "authors": "MS Akhtar, UK Sikdar, A Ekbal",
+            "publication": "Proceedings of the Workshop on Noisy User-generated Text, 61-67, 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8099575012549144042",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8099575012549144042&engine=google_scholar&hl=en",
+                "cites_id": "8099575012549144042"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A Deep Multi-task Contextual Attention Framework for Multi-modal Affect Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "KUcO6LAAAAAJ:qxL8FJ1GzNcC",
+            "authors": "MS Akhtar, DS Chauhan, A Ekbal",
+            "publication": "ACM Transactions on Knowledge Discovery from Data (TKDD), 2020",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6092625687234763695",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6092625687234763695&engine=google_scholar&hl=en",
+                "cites_id": "6092625687234763695"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Detecting harmful memes and their targets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:-f6ydRqryjwC",
+            "citation_id": "KUcO6LAAAAAJ:-f6ydRqryjwC",
+            "authors": "S Pramanick, D Dimitrov, R Mukherjee, S Sharma, M Akhtar, P Nakov, ...",
+            "publication": "arXiv preprint arXiv:2110.00413, 2021",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4544698000470585069",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4544698000470585069&engine=google_scholar&hl=en",
+                "cites_id": "4544698000470585069"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "IITP at EmoInt-2017: Measuring intensity of emotions using sentence embeddings and optimized features",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "KUcO6LAAAAAJ:W7OEmFMy1HYC",
+            "authors": "MS Akhtar, P Sawant, A Ekbal, JD Pawar, P Bhattacharyya",
+            "publication": "Association for Computational Linguistics, 2017",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3912048025587678873",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3912048025587678873&engine=google_scholar&hl=en",
+                "cites_id": "3912048025587678873"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "MOMENTA: A Multimodal Framework for Detecting Harmful Memes and Their Targets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "KUcO6LAAAAAJ:R3hNpaxXUhUC",
+            "authors": "S Pramanick, S Sharma, D Dimitrov, MS Akhtar, P Nakov, T Chakraborty",
+            "publication": "arXiv preprint arXiv:2109.05184, 2021",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15671721595733879938",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15671721595733879938&engine=google_scholar&hl=en",
+                "cites_id": "15671721595733879938"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Deep ensemble model with the fusion of character, word and lexicon level information for emotion and sentiment prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "KUcO6LAAAAAJ:LkGwnXOMwfcC",
+            "authors": "D Ghosal, MS Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "International Conference on Neural Information Processing, 162-174, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13413682581472842064",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13413682581472842064&engine=google_scholar&hl=en",
+                "cites_id": "13413682581472842064"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Feature selection using multi-objective optimization for aspect based sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "KUcO6LAAAAAJ:UeHWp8X0CEIC",
+            "authors": "MS Akhtar, S Kohail, A Kumar, A Ekbal, C Biemann",
+            "publication": "International conference on applications of natural language to information \u2026, 2017",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2705893301818073591",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2705893301818073591&engine=google_scholar&hl=en",
+                "cites_id": "2705893301818073591"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Multi-modal sarcasm detection and humor classification in code-mixed conversations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "KUcO6LAAAAAJ:ZeXyd9-uunAC",
+            "authors": "M Bedi, S Kumar, MS Akhtar, T Chakraborty",
+            "publication": "IEEE Transactions on Affective Computing, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16126136134147226847",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16126136134147226847&engine=google_scholar&hl=en",
+                "cites_id": "16126136134147226847"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "I didn\u2019t mean what I wrote! Exploring Multimodality for Sarcasm Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:4DMP91E08xMC",
+            "citation_id": "KUcO6LAAAAAJ:4DMP91E08xMC",
+            "authors": "S Sangwan, MS Akhtar, P Behera, A Ekbal",
+            "publication": "2020 International Joint Conference on Neural Networks (IJCNN), 1-8, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1764113976460515313",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1764113976460515313&engine=google_scholar&hl=en",
+                "cites_id": "1764113976460515313"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Language-agnostic model for aspect-based sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "KUcO6LAAAAAJ:hqOjcs7Dif8C",
+            "authors": "MS Akhtar, A Kumar, A Ekbal, C Biemann, P Bhattacharyya",
+            "publication": "Proceedings of the 13th International Conference on Computational Semantics \u2026, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6177984148068876574",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6177984148068876574&engine=google_scholar&hl=en",
+                "cites_id": "6177984148068876574"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Improving word embedding coverage in less-resourced languages through multi-linguality and cross-linguality: A case study with aspect-based sentiment analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:roLk4NBRz8UC",
+            "citation_id": "KUcO6LAAAAAJ:roLk4NBRz8UC",
+            "authors": "MS Akhtar, P Sawant, S Sen, A Ekbal, P Bhattacharyya",
+            "publication": "ACM Transactions on Asian and Low-Resource Language Information Processing \u2026, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1931402952311883208",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1931402952311883208&engine=google_scholar&hl=en",
+                "cites_id": "1931402952311883208"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Exercise? I thought you said'Extra Fries': Leveraging Sentence Demarcations and Multi-hop Attention for Meme Affect Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "KUcO6LAAAAAJ:L8Ckcad2t8MC",
+            "authors": "S Pramanick, MS Akhtar, T Chakraborty",
+            "publication": "arXiv preprint arXiv:2103.12377, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13130426633637655453",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13130426633637655453&engine=google_scholar&hl=en",
+                "cites_id": "13130426633637655453"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Combating Online Hostile Posts in Regional Languages During Emergency Situation: First International Workshop, CONSTRAINT 2021, Collocated with AAAI 2021, Virtual Event \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "KUcO6LAAAAAJ:hFOr9nPyWt4C",
+            "authors": "T Chakraborty, K Shu, HR Bernard, H Liu, MS Akhtar",
+            "publication": "Springer Nature, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6834968674276066023,9515049365700457678",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6834968674276066023%2C9515049365700457678&engine=google_scholar&hl=en",
+                "cites_id": "6834968674276066023,9515049365700457678"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Multi-task gated contextual cross-modal attention framework for sentiment and emotion analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "KUcO6LAAAAAJ:KlAtU1dfN6UC",
+            "authors": "S Sangwan, DS Chauhan, M Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "International Conference on Neural Information Processing, 662-669, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14589490103065403736",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14589490103065403736&engine=google_scholar&hl=en",
+                "cites_id": "14589490103065403736"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Discovering emotion and reasoning its flip in multi-party conversations using masked memory network and transformer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "KUcO6LAAAAAJ:7PzlFSSx8tAC",
+            "authors": "S Kumar, A Shrimal, MS Akhtar, T Chakraborty",
+            "publication": "Knowledge-Based Systems, 108112, 2022",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17183312270568257858",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17183312270568257858&engine=google_scholar&hl=en",
+                "cites_id": "17183312270568257858"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Nice perfume. How long did you marinate in it? Multimodal Sarcasm Explanation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "KUcO6LAAAAAJ:j3f4tGmQtD8C",
+            "authors": "P Desai, T Chakraborty, MS Akhtar",
+            "publication": "arXiv preprint arXiv:2112.04873, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2039032137475936314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2039032137475936314&engine=google_scholar&hl=en",
+                "cites_id": "2039032137475936314"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Does aggression lead to hate? Detecting and reasoning offensive traits in hinglish code-mixed texts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "KUcO6LAAAAAJ:4JMBOYKVnBMC",
+            "authors": "A Sengupta, SK Bhattacharjee, MS Akhtar, T Chakraborty",
+            "publication": "Neurocomputing, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13031727343179076479",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13031727343179076479&engine=google_scholar&hl=en",
+                "cites_id": "13031727343179076479"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "HIT: A Hierarchically Fused Deep Attention Network for Robust Code-mixed Language Representation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:qUcmZB5y_30C",
+            "citation_id": "KUcO6LAAAAAJ:qUcmZB5y_30C",
+            "authors": "A Sengupta, SK Bhattacharjee, T Chakraborty, MS Akhtar",
+            "publication": "arXiv preprint arXiv:2105.14600, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=135805749595656134",
+                "serpapi_link": "https://serpapi.com/search.json?cites=135805749595656134&engine=google_scholar&hl=en",
+                "cites_id": "135805749595656134"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Syntactically Coherent Text Augmentation for Sequence Classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:IWHjjKOFINEC",
+            "citation_id": "KUcO6LAAAAAJ:IWHjjKOFINEC",
+            "authors": "S Pandey, MS Akhtar, T Chakraborty",
+            "publication": "IEEE Transactions on Computational Social Systems 8 (6), 1323-1332, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3263511074683163909",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3263511074683163909&engine=google_scholar&hl=en",
+                "cites_id": "3263511074683163909"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Lesa: Linguistic encapsulation and semantic amalgamation based generalised claim detection from online content",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "KUcO6LAAAAAJ:QIV2ME_5wuYC",
+            "authors": "S Gupta, P Singh, M Sundriyal, MS Akhtar, T Chakraborty",
+            "publication": "arXiv preprint arXiv:2101.11891, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6735900912065851554",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6735900912065851554&engine=google_scholar&hl=en",
+                "cites_id": "6735900912065851554"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Related tasks can share! a multi-task framework for affective language",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:_kc_bZDykSQC",
+            "citation_id": "KUcO6LAAAAAJ:_kc_bZDykSQC",
+            "authors": "KS Deep, MS Akhtar, A Ekbal, P Bhattacharyya",
+            "publication": "arXiv preprint arXiv:2002.02154, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17806440378569232110",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17806440378569232110&engine=google_scholar&hl=en",
+                "cites_id": "17806440378569232110"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Detecting Anchors' Opinion in Hinghlish News Delivery",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:isC4tDSrTZIC",
+            "citation_id": "KUcO6LAAAAAJ:isC4tDSrTZIC",
+            "authors": "S Sadhwani, N Grover, M Akhtar, T Chakraborty",
+            "publication": "arXiv preprint arXiv:2204.02155, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:r0BpntZqJG4C",
+            "citation_id": "KUcO6LAAAAAJ:r0BpntZqJG4C",
+            "authors": "S Kumar, A Kulkarni, MS Akhtar, T Chakraborty",
+            "publication": "arXiv preprint arXiv:2203.06419, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "KUcO6LAAAAAJ:_Qo2XoVZTnwC",
+            "authors": "G Malhotra, A Waheed, A Srivastava, MS Akhtar, T Chakraborty",
+            "publication": "Proceedings of the Fifteenth ACM International Conference on Web Search and \u2026, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "DESYR: Definition and Syntactic Representation Based Claim Detection on the Web",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:mB3voiENLucC",
+            "citation_id": "KUcO6LAAAAAJ:mB3voiENLucC",
+            "authors": "M Sundriyal, P Singh, MS Akhtar, S Sengupta, T Chakraborty",
+            "publication": "Proceedings of the 30th ACM International Conference on Information \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Forecasting hate intensity of reply threads on twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:TFP_iSt0sucC",
+            "citation_id": "KUcO6LAAAAAJ:TFP_iSt0sucC",
+            "authors": "T Chakraborty, M Akhtar",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "HostileNet: multi-label hostile post detection in Hindi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "KUcO6LAAAAAJ:bEWYMUwI8FkC",
+            "authors": "M Bhardwaj, T Chakraborty, M Akhtar",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Multimodal sarcasm explanation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "KUcO6LAAAAAJ:iH-uZ7U-co4C",
+            "authors": "P Desai, M Akhtar, T Chakraborty",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "STHAL: Location-mention Identification in Tweets of Indian-context",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:hC7cP41nSMkC",
+            "citation_id": "KUcO6LAAAAAJ:hC7cP41nSMkC",
+            "authors": "K Verma, S Sinha, MS Akhtar, V Goyal",
+            "publication": "Proceedings of the 17th International Conference on Natural Language \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Investigations in Aspect based Sentiment Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "KUcO6LAAAAAJ:M3ejUd6NZC8C",
+            "authors": "MS Akhtar",
+            "publication": "IIT Patna, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Sentiment Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:dhFuZR0502QC",
+            "citation_id": "KUcO6LAAAAAJ:dhFuZR0502QC",
+            "authors": "MS Akhtar",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "ICON 2017 TUTORIAL ON DEEP LEARNING FOR NATURAL LANGUAGE PROCESSING",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "KUcO6LAAAAAJ:kNdYIx-mwKoC",
+            "authors": "R Murthy, K Patel, MS Akhtar",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Concept to Code: Aspect sentiment classification with Deep Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "KUcO6LAAAAAJ:3fE2CSJIrl8C",
+            "authors": "M Chelliah, A Ekbal, M Gupta, MS Akhtar",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Cross-lingual and Multi-lingual Word Embeddings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KUcO6LAAAAAJ&pagesize=100&citation_for_view=KUcO6LAAAAAJ:UebtZRa9Y70C",
+            "citation_id": "KUcO6LAAAAAJ:UebtZRa9Y70C",
+            "authors": "MS Akhtar, S Sen, Z Ahmad",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 1269,
+                    "since_2017": 1255
+                }
+            },
+            {
+                "h_index": {
+                    "all": 18,
+                    "since_2017": 18
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 25,
+                    "since_2017": 24
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 7
+            },
+            {
+                "year": 2017,
+                "citations": 20
+            },
+            {
+                "year": 2018,
+                "citations": 89
+            },
+            {
+                "year": 2019,
+                "citations": 127
+            },
+            {
+                "year": 2020,
+                "citations": 269
+            },
+            {
+                "year": 2021,
+                "citations": 556
+            },
+            {
+                "year": 2022,
+                "citations": 191
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=KUcO6LAAAAAJ",
+        "available": 7,
+        "not_available": 3
+    },
+    "co_authors": [
+        {
+            "name": "Asif Ekbal",
+            "link": "https://scholar.google.com/citations?user=IAL_F04AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IAL_F04AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IAL_F04AAAAJ",
+            "affiliations": "Department of Computer Science and Engineering, IIT Patna, India",
+            "email": "Verified email at iitp.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Dr. Pushpak Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=vvg-pAkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vvg-pAkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "vvg-pAkAAAAJ",
+            "affiliations": "Professor of Computer Science and Engineering, IIT Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vvg-pAkAAAAJ&citpid=6"
+        },
+        {
+            "name": "Deepanway Ghosal",
+            "link": "https://scholar.google.com/citations?user=95YiIWUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=95YiIWUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "95YiIWUAAAAJ",
+            "affiliations": "SUTD Singapore",
+            "email": "Verified email at mymail.sutd.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=95YiIWUAAAAJ&citpid=9"
+        },
+        {
+            "name": "Deepak Gupta",
+            "link": "https://scholar.google.com/citations?user=sIfq1eYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sIfq1eYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "sIfq1eYAAAAJ",
+            "affiliations": "National Library of Medicine (NLM) - National Institutes of Health (NIH), USA",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sIfq1eYAAAAJ&citpid=1"
+        },
+        {
+            "name": "Chris Biemann",
+            "link": "https://scholar.google.com/citations?user=BdwP-3QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BdwP-3QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BdwP-3QAAAAJ",
+            "affiliations": "Professor for Language Technology, University of Hamburg",
+            "email": "Verified email at informatik.uni-hamburg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BdwP-3QAAAAJ&citpid=4"
+        },
+        {
+            "name": "Dr. Utpal Kumar Sikdar",
+            "link": "https://scholar.google.com/citations?user=z0X_6k4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=z0X_6k4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "z0X_6k4AAAAJ",
+            "affiliations": "IIT Patna",
+            "email": "Verified email at iitp.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sarah Kohail",
+            "link": "https://scholar.google.com/citations?user=rET4QTEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rET4QTEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rET4QTEAAAAJ",
+            "email": "Verified email at informatik.uni-hamburg.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

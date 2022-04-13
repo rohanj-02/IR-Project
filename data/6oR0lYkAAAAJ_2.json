@@ -1,0 +1,958 @@
+{
+    "search_metadata": {
+        "id": "6256e128c47d3ca18f7b8106",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/3dec020f12e0cd4c/6256e128c47d3ca18f7b8106.json",
+        "created_at": "2022-04-13 14:41:44 UTC",
+        "processed_at": "2022-04-13 14:41:44 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=6oR0lYkAAAAJ&hl=en&cstart=100&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/3dec020f12e0cd4c/6256e128c47d3ca18f7b8106.html",
+        "total_time_taken": 0.76
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "6oR0lYkAAAAJ",
+        "hl": "en",
+        "start": 100,
+        "num": "100"
+    },
+    "author": {
+        "name": "Vivek Bohara",
+        "affiliations": "Associate Professor IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://sites.google.com/a/iiitd.ac.in/vivek-ashok-bohara/",
+        "interests": [
+            {
+                "title": "Wireless communication",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_communication",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_communication"
+            },
+            {
+                "title": "5G",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:5g",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3A5g"
+            },
+            {
+                "title": "VLC",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:vlc",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avlc"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6oR0lYkAAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "eSampling: Rethinking sampling with energy harvesting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:uWQEDVKXjbEC",
+            "citation_id": "6oR0lYkAAAAJ:uWQEDVKXjbEC",
+            "authors": "N Jain, B Tiwari, A Gupta, VA Bohara, PG Bahubalindruni",
+            "publication": "arXiv preprint arXiv:1912.03453, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6037297371825153504",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6037297371825153504&engine=google_scholar&hl=en",
+                "cites_id": "6037297371825153504"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "TS-MC: Two stage matrix completion algorithm for wireless sensor networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:bFI3QPDXJZMC",
+            "citation_id": "6oR0lYkAAAAJ:bFI3QPDXJZMC",
+            "authors": "N Jain, A Gupta, VA Bohara",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216078891750209930",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14216078891750209930&engine=google_scholar&hl=en",
+                "cites_id": "14216078891750209930"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "On the spectral content of nonlinear carrier aggregated windowed OFDM systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:f2IySw72cVMC",
+            "citation_id": "6oR0lYkAAAAJ:f2IySw72cVMC",
+            "authors": "MHN Shaikh, A Agarwal, P Aggarwal, VA Bohara",
+            "publication": "2018 IEEE International Conference on Advanced Networks and \u2026, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5888559336975674279",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5888559336975674279&engine=google_scholar&hl=en",
+                "cites_id": "5888559336975674279"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Outage and Power Saving Analysis for Hybrid Cellular-Visible Light Communication and Direct Cellular Downlink",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:rO6llkc54NcC",
+            "citation_id": "6oR0lYkAAAAJ:rO6llkc54NcC",
+            "authors": "A Singh, A Srivastava, VA Bohara, GSVRK Rao",
+            "publication": "2018 20th International Conference on Transparent Optical Networks (ICTON), 1-4, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17660759670403394330",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17660759670403394330&engine=google_scholar&hl=en",
+                "cites_id": "17660759670403394330"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "On the spectral content of the nonlinearly amplified carrier aggregated OFDM system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:pqnbT2bcN3wC",
+            "citation_id": "6oR0lYkAAAAJ:pqnbT2bcN3wC",
+            "authors": "P Aggarwal, A Agarwal, VA Bohara",
+            "publication": "2018 IEEE Wireless Communications and Networking Conference (WCNC), 1-5, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4886040096649721661",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4886040096649721661&engine=google_scholar&hl=en",
+                "cites_id": "4886040096649721661"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A BER Based Selection Combining Protocol for Adaptive Cooperative Cognitive Radios",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:BqipwSGYUEgC",
+            "citation_id": "6oR0lYkAAAAJ:BqipwSGYUEgC",
+            "authors": "S Mittal, N Gupta, VA Bohara",
+            "publication": "Wireless Personal Communications 97 (2), 2497-2510, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9527997459477801196",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9527997459477801196&engine=google_scholar&hl=en",
+                "cites_id": "9527997459477801196"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Powering future mobile phones through RF energy harvesting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "6oR0lYkAAAAJ:bEWYMUwI8FkC",
+            "authors": "A Jolly, M Peer, VA Bohara",
+            "publication": "arXiv preprint arXiv:1702.03799, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7476811955097304002",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7476811955097304002&engine=google_scholar&hl=en",
+                "cites_id": "7476811955097304002"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Outage analysis of two-way cooperative spectrum sharing protocol under nakagami-m fading",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:TQgYirikUcIC",
+            "citation_id": "6oR0lYkAAAAJ:TQgYirikUcIC",
+            "authors": "S Mittal, VA Bohara",
+            "publication": "2016 International Conference on Advances in Computing, Communications and \u2026, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16575240605544038471",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16575240605544038471&engine=google_scholar&hl=en",
+                "cites_id": "16575240605544038471"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "USRP based through wall radar",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:J_g5lzvAfSwC",
+            "citation_id": "6oR0lYkAAAAJ:J_g5lzvAfSwC",
+            "authors": "S Goyal, SS Ram, VA Bohara",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14050089661450167267",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14050089661450167267&engine=google_scholar&hl=en",
+                "cites_id": "14050089661450167267"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Cooperative spectrum sharing relaying protocols with energy harvesting cognitive user",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "6oR0lYkAAAAJ:KlAtU1dfN6UC",
+            "authors": "T Kalluri, M Peer, VA Bohara, DB da Costa, US Dias",
+            "publication": "arXiv preprint arXiv:1508.06589, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2248716053983127490",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2248716053983127490&engine=google_scholar&hl=en",
+                "cites_id": "2248716053983127490"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Cooperative spectrum sharing using transmit antenna selection for cognitive radio systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "6oR0lYkAAAAJ:3fE2CSJIrl8C",
+            "authors": "N Jain, S Sharma, A Vashistha, VA Bohara, N Gupta",
+            "publication": "International Conference on Cognitive Radio Oriented Wireless Networks, 780-789, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5111028196228682362",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5111028196228682362&engine=google_scholar&hl=en",
+                "cites_id": "5111028196228682362"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Fixed-point digital predistortion system for nonlinear high power amplifiers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:WF5omc3nYNoC",
+            "citation_id": "6oR0lYkAAAAJ:WF5omc3nYNoC",
+            "authors": "N Dwivedi, VA Bohara",
+            "publication": "IIIT Delhi, 2014",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9788639795678106815",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9788639795678106815&engine=google_scholar&hl=en",
+                "cites_id": "9788639795678106815"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Energy Resource Allocation for Green FiWi Network using Ensemble Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:eq2jaN3J8jMC",
+            "citation_id": "6oR0lYkAAAAJ:eq2jaN3J8jMC",
+            "authors": "A Gupta, HS Gupta, VA Bohara, A Srivastava",
+            "publication": "IEEE Transactions on Green Communications and Networking, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Heterogeneous Visible Light and Radio Communication for Improving Safety Message Dissemination at Road Intersection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:dTyEYWd-f8wC",
+            "citation_id": "6oR0lYkAAAAJ:dTyEYWd-f8wC",
+            "authors": "G Singh, A Srivastava, VA Bohara, Z Liu, M Noor-A-Rahim, G Ghatak",
+            "publication": "IEEE Transactions on Intelligent Transportation Systems, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "QoS-Aware Reliable Architecture for Broadband Fiber-Wireless Access Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:JoZmwDi-zQgC",
+            "citation_id": "6oR0lYkAAAAJ:JoZmwDi-zQgC",
+            "authors": "P Singh, A Gupta, VA Bohara, A Srivastava",
+            "publication": "IEEE Systems Journal, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Techno-Socio-Economic Impact of Joint Energy Resource Allocation Scheme in FiWi Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:PELIpwtuRlgC",
+            "citation_id": "6oR0lYkAAAAJ:PELIpwtuRlgC",
+            "authors": "A Gupta, VA Bohara, A Srivastava",
+            "publication": "IEEE Transactions on Network and Service Management, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Low-Complexity Codebook Design for SCMA based Visible Light Communication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:tkaPQYYpVKoC",
+            "citation_id": "6oR0lYkAAAAJ:tkaPQYYpVKoC",
+            "authors": "S Chaturvedi, DN Anwar, VA Bohara, A Srivastava, Z Liu",
+            "publication": "arXiv preprint arXiv:2201.02959, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "5G-and-Beyond Communications for Smart Cities: Networks, Systems and Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:_B80troHkn4C",
+            "citation_id": "6oR0lYkAAAAJ:_B80troHkn4C",
+            "authors": "M Xia, E Lai, J Hu, X Liu, N Thomos, Z Liu, T Han, VA Bohara, A Sali",
+            "publication": "Frontiers in Communications and Networks, 2, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Performance Analysis of RF/VLC Enabled UAV Base Station in Heterogeneous Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:Mojj43d5GZwC",
+            "citation_id": "6oR0lYkAAAAJ:Mojj43d5GZwC",
+            "authors": "Y Gupta, M Peer, VA Bohara",
+            "publication": "2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Intelligent Reflecting Surfaces Versus Full-Duplex Relaying: Performance Comparison for Non-Ideal Transmitter Case",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:WA5NYHcadZ8C",
+            "citation_id": "6oR0lYkAAAAJ:WA5NYHcadZ8C",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava, G Ghatak",
+            "publication": "2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Downlink Performance of Optical Power Domain NOMA for Beyond 5G Enabled V2X Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:HE397vMXCloC",
+            "citation_id": "6oR0lYkAAAAJ:HE397vMXCloC",
+            "authors": "G Singh, A Srivastava, VA Bohara, Z Liu",
+            "publication": "IEEE Open Journal of Vehicular Technology 2, 235-248, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A Tutorial to Sparse Code Multiple Access",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:t6usbXjVLHcC",
+            "citation_id": "6oR0lYkAAAAJ:t6usbXjVLHcC",
+            "authors": "S Chaturvedi, Z Liu, VA Bohara, A Srivastava, P Xiao",
+            "publication": "arXiv preprint arXiv:2105.06860, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "iDEG: integrated data and energy gathering for wireless systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:bnK-pcrLprsC",
+            "citation_id": "6oR0lYkAAAAJ:bnK-pcrLprsC",
+            "authors": "N Jain, VA Bohara, A Gupta",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A Visible Light Communication based predictive system for the height and location estimation of an obstacle",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:BrmTIyaxlBUC",
+            "citation_id": "6oR0lYkAAAAJ:BrmTIyaxlBUC",
+            "authors": "A Chakraborty, A Singh, VA Bohara, A Srivastava",
+            "publication": "2020 IEEE International Conference on Advanced Networks and \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Performance Enhancement in Full-Duplex AF Relay System through Smart Antenna Allocation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:LPZeul_q3PIC",
+            "citation_id": "6oR0lYkAAAAJ:LPZeul_q3PIC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava",
+            "publication": "2020 IEEE 3rd 5G World Forum (5GWF), 303-308, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Multi-Hop D2D Framework for Disaster-Resilient Communication Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:5Ul4iDaHHb8C",
+            "citation_id": "6oR0lYkAAAAJ:5Ul4iDaHHb8C",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "2020 IEEE 3rd 5G World Forum (5GWF), 584-589, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "EE Enhancement in FD MIMO Relay System through Adaptive Antenna Allocation and Self-Energy Recycling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:vRqMK49ujn8C",
+            "citation_id": "6oR0lYkAAAAJ:vRqMK49ujn8C",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava, G Ghatak",
+            "publication": "2020 IEEE International Conference on Communications Workshops (ICC \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Spectral Analysis of a Nonlinear WOLA-OFDM System with DPD",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:u9iWguZQMMsC",
+            "citation_id": "6oR0lYkAAAAJ:u9iWguZQMMsC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava",
+            "publication": "2020 National Conference on Communications (NCC), 1-4, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Comparison of PD-NOMA for RF and VLC Based Vehicular Communication Under Various Weather Conditions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:5ugPr518TE4C",
+            "citation_id": "6oR0lYkAAAAJ:5ugPr518TE4C",
+            "authors": "G Singh, A Srivastava, VA Bohara, Z Liu",
+            "publication": "NB! ICT Innovation, Regulation, Multi Business Model Innovation and \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Visible Light Communication Modulation Toolkit using Reconfigurable GNU Radio Framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:WbkHhVStYXYC",
+            "citation_id": "6oR0lYkAAAAJ:WbkHhVStYXYC",
+            "authors": "S Pandey, A Singh, VA Bohara, A Srivastava",
+            "publication": "2019 IEEE International Conference on Advanced Networks and \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Energy Efficiency Enhancement in Full-Duplex Relay System through Adaptive Antenna Allocation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "6oR0lYkAAAAJ:Tiz5es2fbqcC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava",
+            "publication": "2019 IEEE International Conference on Advanced Networks and \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "SDR Compatible Constant Current LED Driver Circuit Design for Visible Light Communication Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:XiSMed-E-HIC",
+            "citation_id": "6oR0lYkAAAAJ:XiSMed-E-HIC",
+            "authors": "S Agarwal, A Singh, VA Bohara, A Srivastava",
+            "publication": "2019 IEEE International Conference on Advanced Networks and \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Real-World Spatio\u2013Temporal Behavior Aware D2D Multicast Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "6oR0lYkAAAAJ:nb7KW1ujOQ8C",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "IEEE Transactions on Network Science and Engineering 7 (3), 1675-1686, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Power and SER analysis of VLC-and RF-based links in indoor environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:a0OBvERweLwC",
+            "citation_id": "6oR0lYkAAAAJ:a0OBvERweLwC",
+            "authors": "A Singh, A Srivastava, VA Bohara, GSVRK Rao",
+            "publication": "Broadband Access Communication Technologies XIII 10945, 160-168, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Physical Communication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:1sJd4Hv_s6UC",
+            "citation_id": "6oR0lYkAAAAJ:1sJd4Hv_s6UC",
+            "authors": "A Singh, A Srivastava, VA Bohara, GSVRK Rao",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "End-to-end performance analysis of MIMO-OFDM based wireless transceivers in the presence of hardware impairments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:b0M2c_1WBrUC",
+            "citation_id": "6oR0lYkAAAAJ:b0M2c_1WBrUC",
+            "authors": "P Aggarwal, VA Bohara",
+            "publication": "IIIT-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Design and Implementation of LTE Advanced Underlay Device to Device Communication Framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:dfsIfKJdRG4C",
+            "citation_id": "6oR0lYkAAAAJ:dfsIfKJdRG4C",
+            "authors": "K Joshi, VA Bohara, P Aggarwal",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Sparse Signal Recovery and Energy Harvesting for Potential 5G Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:4OULZ7Gr8RgC",
+            "citation_id": "6oR0lYkAAAAJ:4OULZ7Gr8RgC",
+            "authors": "N Jain, VA Bohara, A Gupta",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Spectrum and Energy Harvesting Protocols for Wireless Sensor Nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:GnPB-g6toBAC",
+            "citation_id": "6oR0lYkAAAAJ:GnPB-g6toBAC",
+            "authors": "M Peer, VA Bohara",
+            "publication": "Wireless Information and Power Transfer: A New Paradigm for Green \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Nonlinearity mitigation in visible light communication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:RYcK_YlVTxYC",
+            "citation_id": "6oR0lYkAAAAJ:RYcK_YlVTxYC",
+            "authors": "T Kabra, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Wavelet transform learning and applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:P5F9QuxV20EC",
+            "citation_id": "6oR0lYkAAAAJ:P5F9QuxV20EC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Cognitive subcarrier sharing schemes for cooperative D2D communication frameworks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:35N4QoGY0k4C",
+            "citation_id": "6oR0lYkAAAAJ:35N4QoGY0k4C",
+            "authors": "N Gupta, VA Bohara",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Design and Measurement Results for Cooperative Device to Device Communication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:isC4tDSrTZIC",
+            "citation_id": "6oR0lYkAAAAJ:isC4tDSrTZIC",
+            "authors": "N Gupta, VA Bohara, VK Singh",
+            "publication": "Resource Allocation in Next-Generation Broadband Wireless Access Networks, 81-97, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Cognitive spectrum sharing protocols for energy harvesting wireless sensor nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "6oR0lYkAAAAJ:j3f4tGmQtD8C",
+            "authors": "M Peer, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Cooperative device to device communication in a heterogeneous cellular network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:lSLTfruPkqcC",
+            "citation_id": "6oR0lYkAAAAJ:lSLTfruPkqcC",
+            "authors": "P Shrivastava, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Blind parameters estimation by exploiting cyclostationary features in wavelet domain",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "6oR0lYkAAAAJ:RHpTSmoSYBkC",
+            "authors": "S Kumar, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Measurement results for cooperative device-to-device communication in cellular networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:q3oQSFYPqjQC",
+            "citation_id": "6oR0lYkAAAAJ:q3oQSFYPqjQC",
+            "authors": "VK Singh, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Cooperative spectrum sharing with two-way relaying",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "6oR0lYkAAAAJ:JV2RwH3_ST0C",
+            "authors": "S Mittal, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Recursive Least Squares Channel Estimation for Rapidly Time-Varying Scenarios in IEEE 802.11 p",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:aqlVkmm33-oC",
+            "citation_id": "6oR0lYkAAAAJ:aqlVkmm33-oC",
+            "authors": "P Aggarwal, A Gupta, VA Bohara",
+            "publication": "Wireless Personal Communications 89 (1), 227-240, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "RF Energy Harvesting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:TFP_iSt0sucC",
+            "citation_id": "6oR0lYkAAAAJ:TFP_iSt0sucC",
+            "authors": "V Bohara",
+            "publication": "Indraprastha Institute of Information Technology New Delhi, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Compressive cooperative communication with decode and forward relay",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:4DMP91E08xMC",
+            "citation_id": "6oR0lYkAAAAJ:4DMP91E08xMC",
+            "authors": "N Jain, VA Bohara, A Gupta",
+            "publication": "2016 8th International Conference on Communication Systems and Networks \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Interference cancellation and energy harvesting techniques for cooperative spectrum sharing cognitive radio systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "6oR0lYkAAAAJ:M3NEmzRMIkIC",
+            "authors": "N Jain, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "HELPER: A Home assisted and cost Effective Living system for People with disabilities and homebound Elderly",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:_kc_bZDykSQC",
+            "citation_id": "6oR0lYkAAAAJ:_kc_bZDykSQC",
+            "authors": "S Baghoriya, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Cost Effective Hybrid FSO-Wireless Architecture for Broadband Access Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:5awf1xo2G04C",
+            "citation_id": "6oR0lYkAAAAJ:5awf1xo2G04C",
+            "authors": "P Singh, A Gupta, VA Bohara, A Srivastava",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Fair Multiple Subchannel Assignment and 3-D UAV-BS Placement in UAV-Enabled Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:SdhP9T11ey4C",
+            "citation_id": "6oR0lYkAAAAJ:SdhP9T11ey4C",
+            "authors": "S Dohadwalla, M Peer, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Optimum LED semiangle and the receiver FOV selection for Indoor VLC System with Human Blockages",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:9vf0nzSNQJEC",
+            "citation_id": "6oR0lYkAAAAJ:9vf0nzSNQJEC",
+            "authors": "A Singh, A Srivastava, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Centralized vs Decentralized Resource Analysis of Green FiWi Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:Y5dfb0dijaUC",
+            "citation_id": "6oR0lYkAAAAJ:Y5dfb0dijaUC",
+            "authors": "K Kumar, A Gupta, VA Bohara, A Srivastava",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "2 System Model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:wbdj-CoPYUoC",
+            "citation_id": "6oR0lYkAAAAJ:wbdj-CoPYUoC",
+            "authors": "G Singh, A Srivastava, VA Bohara, Z Liu",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "International Institute of Information Technology Y Bangalore",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:EUQCXRtRnyEC",
+            "citation_id": "6oR0lYkAAAAJ:EUQCXRtRnyEC",
+            "authors": "A Ashok, P Bellavista, V Bhatia, A Bishnu, SBIITB India, P Bithas, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Optoelectronic/Photonic Sensors Online Optical Tomography System for Detecting and Measuring the Diameters of Solid and Transparent Objects \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6oR0lYkAAAAJ&cstart=100&pagesize=100&citation_for_view=6oR0lYkAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "6oR0lYkAAAAJ:9ZlFYXVOiuMC",
+            "authors": "M Gulati, VK Singh, SK Agarwal, VA Bohara, V Kumar, VN Sunny, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 978,
+                    "since_2017": 682
+                }
+            },
+            {
+                "h_index": {
+                    "all": 15,
+                    "since_2017": 13
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 26,
+                    "since_2017": 21
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2009,
+                "citations": 7
+            },
+            {
+                "year": 2010,
+                "citations": 8
+            },
+            {
+                "year": 2011,
+                "citations": 25
+            },
+            {
+                "year": 2012,
+                "citations": 24
+            },
+            {
+                "year": 2013,
+                "citations": 25
+            },
+            {
+                "year": 2014,
+                "citations": 52
+            },
+            {
+                "year": 2015,
+                "citations": 68
+            },
+            {
+                "year": 2016,
+                "citations": 83
+            },
+            {
+                "year": 2017,
+                "citations": 107
+            },
+            {
+                "year": 2018,
+                "citations": 121
+            },
+            {
+                "year": 2019,
+                "citations": 130
+            },
+            {
+                "year": 2020,
+                "citations": 128
+            },
+            {
+                "year": 2021,
+                "citations": 147
+            },
+            {
+                "year": 2022,
+                "citations": 46
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=6oR0lYkAAAAJ",
+        "available": 3,
+        "not_available": 1
+    },
+    "co_authors": [
+        {
+            "name": "Naveen Gupta",
+            "link": "https://scholar.google.com/citations?user=lgQc0ssAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lgQc0ssAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "lgQc0ssAAAAJ",
+            "affiliations": "Asst. Professor, BITS Pilani, Goa campus",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lgQc0ssAAAAJ&citpid=6"
+        },
+        {
+            "name": "Parag Aggarwal",
+            "link": "https://scholar.google.com/citations?user=lbv6kwkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lbv6kwkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "lbv6kwkAAAAJ",
+            "affiliations": "Wipro Limited",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbv6kwkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mansi Peer",
+            "link": "https://scholar.google.com/citations?user=ydUFaQIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ydUFaQIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "ydUFaQIAAAAJ",
+            "affiliations": "PhD Scholar at IIIT, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ydUFaQIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Neha Jain",
+            "link": "https://scholar.google.com/citations?user=2HpGxWoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2HpGxWoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "2HpGxWoAAAAJ",
+            "affiliations": "PhD student, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2HpGxWoAAAAJ&citpid=4"
+        },
+        {
+            "name": "Anubha Gupta",
+            "link": "https://scholar.google.com/citations?user=VWCf3JEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VWCf3JEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "VWCf3JEAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VWCf3JEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Vibhutesh Kumar Singh",
+            "link": "https://scholar.google.com/citations?user=3bNcWy8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3bNcWy8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "3bNcWy8AAAAJ",
+            "affiliations": "MPE Sort Product Development Engineer @ Intel Corporation - Intel Research and Development Ireland",
+            "email": "Verified email at intel.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3bNcWy8AAAAJ&citpid=13"
+        },
+        {
+            "name": "Ankush Vashistha",
+            "link": "https://scholar.google.com/citations?user=26wZhtkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=26wZhtkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "26wZhtkAAAAJ",
+            "affiliations": "Researcher, NTU, Singapore",
+            "email": "Verified email at ntu.edu.sg",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mohd Hamza Naim Shaikh",
+            "link": "https://scholar.google.com/citations?user=wH9Q3RkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wH9Q3RkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "wH9Q3RkAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wH9Q3RkAAAAJ&citpid=1"
+        },
+        {
+            "name": "Daniel Benevides da Costa",
+            "link": "https://scholar.google.com/citations?user=CVx-PHMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=CVx-PHMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "CVx-PHMAAAAJ",
+            "affiliations": "Technology Innovation Institute, UAE; National Yunlin University of Science and Technology, Taiwan",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CVx-PHMAAAAJ&citpid=4"
+        },
+        {
+            "name": "Ashish Pandharipande",
+            "link": "https://scholar.google.com/citations?user=ZKAFW5UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZKAFW5UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "ZKAFW5UAAAAJ",
+            "affiliations": "NXP Semiconductors",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Tarun Kalluri",
+            "link": "https://scholar.google.com/citations?user=AeraUlMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AeraUlMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100",
+            "author_id": "AeraUlMAAAAJ",
+            "affiliations": "University of California San Diego",
+            "email": "Verified email at eng.ucsd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AeraUlMAAAAJ&citpid=6"
+        }
+    ]
+}

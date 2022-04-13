@@ -1,0 +1,597 @@
+{
+    "search_metadata": {
+        "id": "6256e100ada54b0fc4218b79",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9e3ec6cfce4afda4/6256e100ada54b0fc4218b79.json",
+        "created_at": "2022-04-13 14:41:04 UTC",
+        "processed_at": "2022-04-13 14:41:04 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=uQknAL4AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/9e3ec6cfce4afda4/6256e100ada54b0fc4218b79.html",
+        "total_time_taken": 0.21
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "uQknAL4AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Diptapriyo Majumdar",
+        "affiliations": "Indraprastha Institute of Information Technology Delhi, India",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://diptapriyomajumdar.wixsite.com/toto",
+        "interests": [
+            {
+                "title": "Graph Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:graph_algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agraph_algorithms"
+            },
+            {
+                "title": "Parameterized Complexity",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:parameterized_complexity",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparameterized_complexity"
+            },
+            {
+                "title": "Kernelization",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:kernelization",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Akernelization"
+            },
+            {
+                "title": "Exact Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:exact_algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexact_algorithms"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uQknAL4AAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Revisiting connected vertex cover: FPT algorithms and lossy kernels",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:qjMakFHDy7sC",
+            "citation_id": "uQknAL4AAAAJ:qjMakFHDy7sC",
+            "authors": "R Krithika, D Majumdar, V Raman",
+            "publication": "Theory of Computing Systems 62 (8), 1690-1714, 2018",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13408544040491466134",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13408544040491466134&engine=google_scholar&hl=en",
+                "cites_id": "13408544040491466134"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Polynomial kernels for vertex cover parameterized by small degree modulators",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "uQknAL4AAAAJ:IjCSPb-OGe4C",
+            "authors": "D Majumdar, V Raman, S Saurabh",
+            "publication": "Theory of Computing Systems 62 (8), 1910-1951, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3967119832870221287",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3967119832870221287&engine=google_scholar&hl=en",
+                "cites_id": "3967119832870221287"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Kernels for structural parameterizations of vertex cover-case of small degree modulators",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "uQknAL4AAAAJ:u5HHmVD_uO8C",
+            "authors": "D Majumdar, V Raman, S Saurabh",
+            "publication": "10th International Symposium on Parameterized and Exact Computation (IPEC 2015), 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5147977593268628754",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5147977593268628754&engine=google_scholar&hl=en",
+                "cites_id": "5147977593268628754"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Structural parameterizations of undirected feedback vertex set: FPT algorithms and kernelization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "uQknAL4AAAAJ:UeHWp8X0CEIC",
+            "authors": "D Majumdar, V Raman",
+            "publication": "Algorithmica 80 (9), 2683-2724, 2018",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6028696947639541588",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6028696947639541588&engine=google_scholar&hl=en",
+                "cites_id": "6028696947639541588"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Structural parameterizations of feedback vertex set",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "uQknAL4AAAAJ:u-x6o8ySG0sC",
+            "authors": "D Majumdar",
+            "publication": "11th International Symposium on Parameterized and Exact Computation (IPEC 2016), 2017",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=294249882447666823",
+                "serpapi_link": "https://serpapi.com/search.json?cites=294249882447666823&engine=google_scholar&hl=en",
+                "cites_id": "294249882447666823"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Parameterized pre-coloring extension and list coloring problems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "uQknAL4AAAAJ:_FxGoFyzp5QC",
+            "authors": "G Gutin, D Majumdar, S Ordyniak, M Wahlstro\u0308m",
+            "publication": "SIAM Journal on Discrete Mathematics 35 (1), 575-596, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2960521999869626471",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2960521999869626471&engine=google_scholar&hl=en",
+                "cites_id": "2960521999869626471"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "On the approximate compressibility of connected vertex cover",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:WF5omc3nYNoC",
+            "citation_id": "uQknAL4AAAAJ:WF5omc3nYNoC",
+            "authors": "D Majumdar, MS Ramanujan, S Saurabh",
+            "publication": "Algorithmica 82 (10), 2902-2926, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9382124066753837891",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9382124066753837891&engine=google_scholar&hl=en",
+                "cites_id": "9382124066753837891"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Kernelization of cycle packing with relaxed disjointness constraints",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "uQknAL4AAAAJ:2osOgNQ5qMEC",
+            "authors": "A Agrawal, D Lokshtanov, D Majumdar, AE Mouawad, S Saurabh",
+            "publication": "SIAM Journal on Discrete Mathematics 32 (3), 1619-1643, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9640465991945812143",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9640465991945812143&engine=google_scholar&hl=en",
+                "cites_id": "9640465991945812143"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Parameterized complexity of deletion to scattered graph classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:0EnyYjriUFMC",
+            "citation_id": "uQknAL4AAAAJ:0EnyYjriUFMC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "International Symposium on Parameterized and Exact Computation 180, 18:1-18:17, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12952211478848549017",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12952211478848549017&engine=google_scholar&hl=en",
+                "cites_id": "12952211478848549017"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "FPT algorithms for FVS parameterized by split and cluster vertex deletion sets and other parameters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "uQknAL4AAAAJ:d1gkVwhDpl0C",
+            "authors": "D Majumdar, V Raman",
+            "publication": "International Workshop on Frontiers in Algorithmics, 209-220, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7769900897300948725",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7769900897300948725&engine=google_scholar&hl=en",
+                "cites_id": "7769900897300948725"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Exact and Parameterized Algorithms for (k, i)-Coloring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "uQknAL4AAAAJ:9yKSN-GCB0IC",
+            "authors": "D Majumdar, R Neogi, V Raman, P Tale",
+            "publication": "Conference on Algorithms and Discrete Applied Mathematics, 281-293, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8699383635623627808",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8699383635623627808&engine=google_scholar&hl=en",
+                "cites_id": "8699383635623627808"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Parameterized complexity of conflict-free set cover",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:ufrVoPGSRksC",
+            "citation_id": "uQknAL4AAAAJ:ufrVoPGSRksC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "Theory of Computing Systems 65 (3), 515-540, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9707278340164111422",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9707278340164111422&engine=google_scholar&hl=en",
+                "cites_id": "9707278340164111422"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Bounded and approximate strong satisfiability in workflows",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "uQknAL4AAAAJ:YsMSGLbcyi4C",
+            "authors": "J Crampton, G Gutin, D Majumdar",
+            "publication": "Proceedings of the 24th ACM Symposium on Access Control Models and \u2026, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2318060716547732736",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2318060716547732736&engine=google_scholar&hl=en",
+                "cites_id": "2318060716547732736"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Structural parameterizations of dominating set variants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "uQknAL4AAAAJ:zYLM7Y9cAGgC",
+            "authors": "D Goyal, A Jacob, K Kumar, D Majumdar, V Raman",
+            "publication": "International Computer Science Symposium in Russia, 157-168, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12436124294322796630",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12436124294322796630&engine=google_scholar&hl=en",
+                "cites_id": "12436124294322796630"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Valued Authorization Policy Existence Problem",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:UebtZRa9Y70C",
+            "citation_id": "uQknAL4AAAAJ:UebtZRa9Y70C",
+            "authors": "J Crampton, E Eiben, G Gutin, D Karapetyan, D Majumdar",
+            "publication": "Proceedings of the 26th ACM Symposium on Access Control Models and \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1821992441049270330",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1821992441049270330&engine=google_scholar&hl=en",
+                "cites_id": "1821992441049270330"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Deletion to Scattered Graph Classes II--Improved FPT Algorithms for Deletion to Pairs of Graph Classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "uQknAL4AAAAJ:MXK_kJrjxJIC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "arXiv preprint arXiv:2201.03142, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Deletion to Scattered Graph Classes I -- case of finite number of graph classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:kNdYIx-mwKoC",
+            "citation_id": "uQknAL4AAAAJ:kNdYIx-mwKoC",
+            "authors": "A Jacob, JJH Kroon, D Majumdar, V Raman",
+            "publication": "https://arxiv.org/abs/2105.04660v2, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Constrained Hitting Set Problem with Intervals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:8k81kl-MbHgC",
+            "citation_id": "uQknAL4AAAAJ:8k81kl-MbHgC",
+            "authors": "A Acharyya, V Keikha, D Majumdar, S Pandit",
+            "publication": "International Computing and Combinatorics Conference, 604-616, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Faster FPT Algorithms for Deletion to Pairs of Graph Classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:5nxA0vEk-isC",
+            "citation_id": "uQknAL4AAAAJ:5nxA0vEk-isC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "International Symposium on Fundamentals of Computation Theory, 314-326, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Towards Better Understanding of User Authorization Query via Multi-variable Complexity Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "uQknAL4AAAAJ:hqOjcs7Dif8C",
+            "authors": "J Crampton, G Gutin, D Majumdar",
+            "publication": "ACM Transactions on Privacy and Security 24 (3), 21:1-21:22, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Valued Authorization Policy Existence Problem: Theory and Experiments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:3fE2CSJIrl8C",
+            "citation_id": "uQknAL4AAAAJ:3fE2CSJIrl8C",
+            "authors": "J Crampton, E Eiben, G Gutin, D Karapetyan, D Majumdar",
+            "publication": "arXiv preprint arXiv:2106.05761, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "p-Edge/Vertex-Connected Vertex Cover: Parameterized and Approximation Algorithms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "uQknAL4AAAAJ:LkGwnXOMwfcC",
+            "authors": "C Einarson, G Gutin, BMP Jansen, D Majumdar, M Wahlstrom",
+            "publication": "arXiv preprint arXiv:2009.08158, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Tractability of K\u00f6nig edge deletion problems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "uQknAL4AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "D Majumdar, R Neogi, V Raman, S Vaishali",
+            "publication": "Theoretical Computer Science 796, 207-215, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Classical and Approximate Kernels for Structural Parameterizations of some Graph Parameters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "uQknAL4AAAAJ:Y0pCki6q_DkC",
+            "authors": "D Majumdar",
+            "publication": "HOMI BHABHA NATIONAL INSTITUTE, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 85,
+                    "since_2017": 84
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 3
+            },
+            {
+                "year": 2018,
+                "citations": 24
+            },
+            {
+                "year": 2019,
+                "citations": 8
+            },
+            {
+                "year": 2020,
+                "citations": 24
+            },
+            {
+                "year": 2021,
+                "citations": 14
+            },
+            {
+                "year": 2022,
+                "citations": 9
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=uQknAL4AAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Saket Saurabh",
+            "link": "https://scholar.google.com/citations?user=76_9TI0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=76_9TI0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "76_9TI0AAAAJ",
+            "affiliations": "Professor at Institute of Mathematical Sciences",
+            "email": "Verified email at imsc.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=76_9TI0AAAAJ&citpid=1"
+        },
+        {
+            "name": "G. Gutin",
+            "link": "https://scholar.google.com/citations?user=JR5DwxoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JR5DwxoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JR5DwxoAAAAJ",
+            "affiliations": "Professor of Computer Science, Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JR5DwxoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jason Crampton",
+            "link": "https://scholar.google.com/citations?user=asPMwYoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=asPMwYoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "asPMwYoAAAAJ",
+            "affiliations": "Professor of Information Security, Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "R. Krithika",
+            "link": "https://scholar.google.com/citations?user=nAeD9dUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nAeD9dUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nAeD9dUAAAAJ",
+            "affiliations": "Indian Institute of Technology Palakkad",
+            "email": "Verified email at iitpkd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Magnus Wahlstr\u00f6m",
+            "link": "https://scholar.google.com/citations?user=2x-QnZsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2x-QnZsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2x-QnZsAAAAJ",
+            "affiliations": "Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Rian Neogi",
+            "link": "https://scholar.google.com/citations?user=AlOpkuIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AlOpkuIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "AlOpkuIAAAAJ",
+            "affiliations": "University of Waterloo",
+            "email": "Verified email at uwaterloo.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Amer Mouawad",
+            "link": "https://scholar.google.com/citations?user=MK6WseUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MK6WseUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "MK6WseUAAAAJ",
+            "affiliations": "American University of Beirut",
+            "email": "Verified email at aub.edu.lb",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MK6WseUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Daniel Lokshtanov",
+            "link": "https://scholar.google.com/citations?user=vaQGFLsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vaQGFLsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "vaQGFLsAAAAJ",
+            "affiliations": "Associate Professor in Computer Science, UCSB",
+            "email": "Verified email at ucsb.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vaQGFLsAAAAJ&citpid=6"
+        },
+        {
+            "name": "Sebastian Ordyniak",
+            "link": "https://scholar.google.com/citations?user=CkB7r4MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=CkB7r4MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "CkB7r4MAAAAJ",
+            "affiliations": "University of Sheffield",
+            "email": "Verified email at sheffield.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ramanujan M. S.",
+            "link": "https://scholar.google.com/citations?user=XMuyXpEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XMuyXpEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XMuyXpEAAAAJ",
+            "affiliations": "University of Warwick, UK",
+            "email": "Verified email at warwick.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XMuyXpEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Akanksha Agrawal",
+            "link": "https://scholar.google.com/citations?user=V_2z1BEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=V_2z1BEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "V_2z1BEAAAAJ",
+            "affiliations": "Indian Institute of Technology Madras",
+            "email": "Verified email at cse.iitm.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V_2z1BEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Daniel Karapetyan",
+            "link": "https://scholar.google.com/citations?user=O-rI2E0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=O-rI2E0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "O-rI2E0AAAAJ",
+            "affiliations": "School of Computer Science, University of Nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=O-rI2E0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Eduard Eiben",
+            "link": "https://scholar.google.com/citations?user=VzCxpJcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VzCxpJcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VzCxpJcAAAAJ",
+            "affiliations": "Lecturer in Computer Science, Royal Holloway, Univeristy of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VzCxpJcAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dishant Goyal",
+            "link": "https://scholar.google.com/citations?user=2DSJgpsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2DSJgpsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2DSJgpsAAAAJ",
+            "affiliations": "Research Scholar IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2DSJgpsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Vaishali Surianarayanan",
+            "link": "https://scholar.google.com/citations?user=iru-a1QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iru-a1QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "iru-a1QAAAAJ",
+            "affiliations": "University of California, Santa Barabara",
+            "email": "Verified email at ucsb.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Bart M. P. Jansen",
+            "link": "https://scholar.google.com/citations?user=h8FEAYMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h8FEAYMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h8FEAYMAAAAJ",
+            "affiliations": "Associate Professor, Eindhoven University of Technology",
+            "email": "Verified email at tue.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h8FEAYMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ankush Acharyya",
+            "link": "https://scholar.google.com/citations?user=BcouO7cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BcouO7cAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BcouO7cAAAAJ",
+            "affiliations": "Post Doctoral Fellow, Institute of Computer Science, The Czech Academy of Science",
+            "email": "Verified email at isical.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BcouO7cAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vahideh Keikha",
+            "link": "https://scholar.google.com/citations?user=1-6dmjoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1-6dmjoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "1-6dmjoAAAAJ",
+            "affiliations": "Research Fellow",
+            "email": "Verified email at cs.cas.cz",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1-6dmjoAAAAJ&citpid=4"
+        },
+        {
+            "name": "Ashwin Jacob",
+            "link": "https://scholar.google.com/citations?user=nyQkLtQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nyQkLtQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nyQkLtQAAAAJ",
+            "affiliations": "Senior Research Fellow, The Institute of Mathematical Sciences, HBNI, Chennai",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nyQkLtQAAAAJ&citpid=1"
+        }
+    ]
+}

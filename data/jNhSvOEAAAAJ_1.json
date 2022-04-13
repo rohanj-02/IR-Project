@@ -1,0 +1,377 @@
+{
+    "search_metadata": {
+        "id": "6256e0fbf8f5f7b0ba8e99af",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0aadfe3ee5930627/6256e0fbf8f5f7b0ba8e99af.json",
+        "created_at": "2022-04-13 14:40:59 UTC",
+        "processed_at": "2022-04-13 14:40:59 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=jNhSvOEAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/0aadfe3ee5930627/6256e0fbf8f5f7b0ba8e99af.html",
+        "total_time_taken": 0.74
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "jNhSvOEAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Rinku Shah",
+        "affiliations": "Assistant Professor, CSE Department, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://faculty.iiitd.ac.in/~rinku/",
+        "interests": [
+            {
+                "title": "Computer Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_networks"
+            },
+            {
+                "title": "Software-defined Networking",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:software_defined_networking",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asoftware_defined_networking"
+            },
+            {
+                "title": "Dataplane programming",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:dataplane_programming",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adataplane_programming"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=jNhSvOEAAAAJ&citpid=4"
+    },
+    "articles": [
+        {
+            "title": "Computation Offloading Frameworks in Mobile Cloud Computing: A Survey",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:roLk4NBRz8UC",
+            "citation_id": "jNhSvOEAAAAJ:roLk4NBRz8UC",
+            "authors": "S Deshmukh, R Shah",
+            "publication": "International Conference on Current Trends in Advanced Computing (ICCTAC), 2016",
+            "cited_by": {
+                "value": 33,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10231117617274709438",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10231117617274709438&engine=google_scholar&hl=en",
+                "cites_id": "10231117617274709438"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "TurboEPC: Leveraging Dataplane Programmability to Accelerate the Mobile Packet Core",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "jNhSvOEAAAAJ:KlAtU1dfN6UC",
+            "authors": "R Shah, V Kumar, M Vutukuru, P Kulkarni",
+            "publication": "Proceedings of the ACM Symposium on SDN Research (SOSR), 83-95, 2020",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=714673129431749013",
+                "serpapi_link": "https://serpapi.com/search.json?cites=714673129431749013&engine=google_scholar&hl=en",
+                "cites_id": "714673129431749013"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Cuttlefish: Hierarchical SDN controllers with adaptive offload",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:8k81kl-MbHgC",
+            "citation_id": "jNhSvOEAAAAJ:8k81kl-MbHgC",
+            "authors": "R Shah, M Vutukuru, P Kulkarni",
+            "publication": "2018 IEEE 26th International Conference on Network Protocols (ICNP), 198-208, 2018",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6735872849034102741",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6735872849034102741&engine=google_scholar&hl=en",
+                "cites_id": "6735872849034102741"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Covert Channel Design and Detection Techniques: A survey",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "jNhSvOEAAAAJ:LkGwnXOMwfcC",
+            "authors": "Y Heda, R Shah",
+            "publication": "International Conference on Electronics, Computing, and Communication \u2026, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8428211463542125569",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8428211463542125569&engine=google_scholar&hl=en",
+                "cites_id": "8428211463542125569"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Devolve-redeem: Hierarchical SDN controllers with adaptive offloading",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:Se3iqnhoufwC",
+            "citation_id": "jNhSvOEAAAAJ:Se3iqnhoufwC",
+            "authors": "R Shah, M Vutukuru, P Kulkarni",
+            "publication": "Proceedings of the ACM First Asia-Pacific Workshop on Networking (APNet), 8-14, 2017",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12277280364160183908",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12277280364160183908&engine=google_scholar&hl=en",
+                "cites_id": "12277280364160183908"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "pcube: Primitives for network data plane programming",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:5nxA0vEk-isC",
+            "citation_id": "jNhSvOEAAAAJ:5nxA0vEk-isC",
+            "authors": "R Shah, A Shirke, A Trehan, M Vutukuru, P Kulkarni",
+            "publication": "2018 IEEE 26th International Conference on Network Protocols (ICNP), 430-435, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=218300081001595502",
+                "serpapi_link": "https://serpapi.com/search.json?cites=218300081001595502&engine=google_scholar&hl=en",
+                "cites_id": "218300081001595502"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Adjacency Cluster Based Routing Protocol",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "jNhSvOEAAAAJ:YOwf2qJgpHMC",
+            "authors": "P PATIL, R SHAH",
+            "publication": "International Journal of Engineering Sciences & Emerging Technologies \u2026, 2012",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2627237623569510896",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2627237623569510896&engine=google_scholar&hl=en",
+                "cites_id": "2627237623569510896"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Comparitive Study of IEEE 802.11 a, b, g & n Standards",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "jNhSvOEAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Sharma, R Shah",
+            "publication": "International Journal of Engineering Research & Technology 3 (4), 2014",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10436875118358754889",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10436875118358754889&engine=google_scholar&hl=en",
+                "cites_id": "10436875118358754889"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Leveraging Programmable Dataplanes for a High Performance 5G User Plane Function",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "jNhSvOEAAAAJ:M3ejUd6NZC8C",
+            "authors": "A Bose, D Maji, P Agarwal, N Unhale, R Shah, M Vutukuru",
+            "publication": "Proceedings of the 5th Asia-Pacific Workshop on Networking (APNet 2021), 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14909391993264092158",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14909391993264092158&engine=google_scholar&hl=en",
+                "cites_id": "14909391993264092158"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "In-memory, high speed stream processing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "jNhSvOEAAAAJ:9yKSN-GCB0IC",
+            "authors": "R Gupta, R Shah, A Mhetre",
+            "publication": "Proceedings of the 8th ACM International Conference on Distributed Event \u2026, 2014",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1417842138040350748",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1417842138040350748&engine=google_scholar&hl=en",
+                "cites_id": "1417842138040350748"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Enhanced Novel Security Scheme for Wireless Adhoc Networks: ENSS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "jNhSvOEAAAAJ:d1gkVwhDpl0C",
+            "authors": "P Patil, R Shah, K Jewani",
+            "publication": "International Conference & Workshop on Recent Trends in Technology, (TCET) 2012, 2012",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17103853391838424240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17103853391838424240&engine=google_scholar&hl=en",
+                "cites_id": "17103853391838424240"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Depth-3 Adjacency Cluster Based Routing Protocol",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:4TOpqqG69KYC",
+            "citation_id": "jNhSvOEAAAAJ:4TOpqqG69KYC",
+            "authors": "P Patil, R Shah",
+            "publication": "International Journal Of Engineering Sciences & Emerging Technologies, 77-82, 0",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5580006747056536817",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5580006747056536817&engine=google_scholar&hl=en",
+                "cites_id": "5580006747056536817"
+            },
+            "year": ""
+        },
+        {
+            "title": "High packet delivery ratio with low end to end delay using ICCBCC_AODV for multimedia applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "jNhSvOEAAAAJ:W7OEmFMy1HYC",
+            "authors": "PN Gholap, R Shah",
+            "publication": "International Journal of Scientific & Engineering Research 5 (6), 145-148, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Anonymous Zone Based Multicast Routing Protocol For MANETs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "jNhSvOEAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Sharma, R Shah",
+            "publication": "International Journal of Engineering Research & Technology 3 (3), 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "P4 Language and Programmable Data Planes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:4DMP91E08xMC",
+            "citation_id": "jNhSvOEAAAAJ:4DMP91E08xMC",
+            "authors": "P Tammana, R Shah, U Venkanna",
+            "publication": "Computer Communication Review 44, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "MODIFIED AODV WITH CURRENT BANDWIDTH CALCULATION FOR MOBILE AD HOC NETWORKS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "jNhSvOEAAAAJ:eQOLeE2rZwMC",
+            "authors": "PN GHOLAP, R SHAH",
+            "publication": "International Journal of Applied Engineering Research and Development \u2026, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Novel Approach for Routing in MANET:NARM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:WF5omc3nYNoC",
+            "citation_id": "jNhSvOEAAAAJ:WF5omc3nYNoC",
+            "authors": "P Patil, R Shah",
+            "publication": "IJCA Proceedings on International Conference and workshop on Emerging Trends \u2026, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Simultaneous Multiple Link/Node Failure Handling for Different Service-Paths in MPLS Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "jNhSvOEAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Rinku, C Madhumita",
+            "publication": "International Conference on Advances in Computing, Communication and Control \u2026, 2011",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Energy-Aware Dynamic Itinerary planning for Data Fusion using Mobile Agents in WSN",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=jNhSvOEAAAAJ&pagesize=100&citation_for_view=jNhSvOEAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "jNhSvOEAAAAJ:UeHWp8X0CEIC",
+            "authors": "R Shah, A Vidhate",
+            "publication": "Advances in Recent Trends in Communication and Networks, isbn=8184245645, 71-75, 2010",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2010"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 86,
+                    "since_2017": 79
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2012,
+                "citations": 4
+            },
+            {
+                "year": 2013,
+                "citations": 1
+            },
+            {
+                "year": 2014,
+                "citations": 1
+            },
+            {
+                "year": 2015,
+                "citations": 9
+            },
+            {
+                "year": 2016,
+                "citations": 13
+            },
+            {
+                "year": 2017,
+                "citations": 15
+            },
+            {
+                "year": 2018,
+                "citations": 10
+            },
+            {
+                "year": 2019,
+                "citations": 26
+            },
+            {
+                "year": 2020,
+                "citations": 6
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Mythili Vutukuru",
+            "link": "https://scholar.google.com/citations?user=-OpGJpYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-OpGJpYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-OpGJpYAAAAJ",
+            "affiliations": "Associate Professor, Computer Science and Engineering, Indian Institute of Technology, Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-OpGJpYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Purushottam Kulkarni",
+            "link": "https://scholar.google.com/citations?user=Gs3HO5kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Gs3HO5kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Gs3HO5kAAAAJ",
+            "affiliations": "Professor, Department of Computer Science and Engineering, Indian Institute of Technology Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Gs3HO5kAAAAJ&citpid=1"
+        }
+    ]
+}

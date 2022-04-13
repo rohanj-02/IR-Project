@@ -1,0 +1,1749 @@
+{
+    "search_metadata": {
+        "id": "6256df64ad7fa912a4ea4570",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/fb7f89c880a496a7/6256df64ad7fa912a4ea4570.json",
+        "created_at": "2022-04-13 14:34:12 UTC",
+        "processed_at": "2022-04-13 14:34:12 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=XK5GUiYAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/fb7f89c880a496a7/6256df64ad7fa912a4ea4570.html",
+        "total_time_taken": 0.47
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "XK5GUiYAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Gajendra PS Raghava",
+        "affiliations": "Indraprastha Institute of Information Technology, IIIT-Delhi , India",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://webs.iiitd.edu.in/raghava/",
+        "interests": [
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Computational Proteomics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_proteomics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_proteomics"
+            },
+            {
+                "title": "Peptide Therapeutics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:peptide_therapeutics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apeptide_therapeutics"
+            },
+            {
+                "title": "Computer Science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_science"
+            },
+            {
+                "title": "Immunoinformatics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunoinformatics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimmunoinformatics"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XK5GUiYAAAAJ&citpid=6"
+    },
+    "articles": [
+        {
+            "title": "Prediction of continuous B\u2010cell epitopes in an antigen using recurrent neural network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "XK5GUiYAAAAJ:YOwf2qJgpHMC",
+            "authors": "S Saha, GPS Raghava",
+            "publication": "Proteins: Structure, Function, and Bioinformatics 65 (1), 40-48, 2006",
+            "cited_by": {
+                "value": 1138,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12200932191770902814",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12200932191770902814&engine=google_scholar&hl=en",
+                "cites_id": "12200932191770902814"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "ProPred: prediction of HLA-DR binding sites",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "XK5GUiYAAAAJ:KlAtU1dfN6UC",
+            "authors": "H Singh, GPS Raghava",
+            "publication": "Bioinformatics 17 (12), 1236-1237, 2001",
+            "cited_by": {
+                "value": 964,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13651820060450628026",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13651820060450628026&engine=google_scholar&hl=en",
+                "cites_id": "13651820060450628026"
+            },
+            "year": "2001"
+        },
+        {
+            "title": "In Silico Approach for Predicting Toxicity of Peptides and Proteins",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:5icHVeHT4IsC",
+            "citation_id": "XK5GUiYAAAAJ:5icHVeHT4IsC",
+            "authors": "S Gupta, P Kapoor, K Chaudhary, A Gautam, R Kumar, GPS Raghava, ...",
+            "publication": "PloS one 8 (9), e73957, 2013",
+            "cited_by": {
+                "value": 631,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=381339280345984185",
+                "serpapi_link": "https://serpapi.com/search.json?cites=381339280345984185&engine=google_scholar&hl=en",
+                "cites_id": "381339280345984185"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "AlgPred: prediction of allergenic proteins and mapping of IgE epitopes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:mB3voiENLucC",
+            "citation_id": "XK5GUiYAAAAJ:mB3voiENLucC",
+            "authors": "S Saha, GPS Raghava",
+            "publication": "Nucleic acids research 34 (suppl_2), W202-W209, 2006",
+            "cited_by": {
+                "value": 555,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8662177747532671633",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8662177747532671633&engine=google_scholar&hl=en",
+                "cites_id": "8662177747532671633"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "ProPred1: prediction of promiscuous MHC Class-I binding sites",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:_kc_bZDykSQC",
+            "citation_id": "XK5GUiYAAAAJ:_kc_bZDykSQC",
+            "authors": "H Singh, GPS Raghava",
+            "publication": "Bioinformatics 19 (8), 1009-1014, 2003",
+            "cited_by": {
+                "value": 450,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6180535754139354145",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6180535754139354145&engine=google_scholar&hl=en",
+                "cites_id": "6180535754139354145"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "BcePred: prediction of continuous B-cell epitopes in antigenic sequences using physico-chemical properties",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "XK5GUiYAAAAJ:QIV2ME_5wuYC",
+            "authors": "S Saha, GPS Raghava",
+            "publication": "International Conference on Artificial Immune Systems, 197-204, 2004",
+            "cited_by": {
+                "value": 425,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9438042560358093501",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9438042560358093501&engine=google_scholar&hl=en",
+                "cites_id": "9438042560358093501"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Prediction of CTL epitopes using QM, SVM and ANN techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:4TOpqqG69KYC",
+            "citation_id": "XK5GUiYAAAAJ:4TOpqqG69KYC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Vaccine 22 (23-24), 3195-3204, 2004",
+            "cited_by": {
+                "value": 377,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17460524666257635596",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17460524666257635596&engine=google_scholar&hl=en",
+                "cites_id": "17460524666257635596"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "ESLpred: SVM-based method for subcellular localization of eukaryotic proteins using dipeptide composition and PSI-BLAST",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:Zph67rFs4hoC",
+            "citation_id": "XK5GUiYAAAAJ:Zph67rFs4hoC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Nucleic acids research 32 (suppl_2), W414-W419, 2004",
+            "cited_by": {
+                "value": 377,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5640462887013678547",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5640462887013678547&engine=google_scholar&hl=en",
+                "cites_id": "5640462887013678547"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "THPdb: Database of FDA-approved peptide and protein therapeutics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:VN7nJs4JPk0C",
+            "citation_id": "XK5GUiYAAAAJ:VN7nJs4JPk0C",
+            "authors": "SS Usmani, G Bedi, JS Samuel, S Singh, S Kalra, P Kumar, AA Ahuja, ...",
+            "publication": "PloS one 12 (7), e0181748, 2017",
+            "cited_by": {
+                "value": 315,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4475413056105337001",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4475413056105337001&engine=google_scholar&hl=en",
+                "cites_id": "4475413056105337001"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Designing of interferon-gamma inducing MHC class-II binders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:F1b5ZUV5XREC",
+            "citation_id": "XK5GUiYAAAAJ:F1b5ZUV5XREC",
+            "authors": "D Sandeep Kumar, V Pooja, R Gajendra",
+            "publication": "Biology Direct 8 (1), 30, 2013",
+            "cited_by": {
+                "value": 294,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9283625075171241658",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9283625075171241658&engine=google_scholar&hl=en",
+                "cites_id": "9283625075171241658"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Prediction of RNA binding sites in a protein using SVM and PSSM profile",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:IWHjjKOFINEC",
+            "citation_id": "XK5GUiYAAAAJ:IWHjjKOFINEC",
+            "authors": "M Kumar, MM Gromiha, GPS Raghava",
+            "publication": "Proteins: Structure, Function, and Bioinformatics 71 (1), 189-194, 2008",
+            "cited_by": {
+                "value": 284,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4068391610181246103",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4068391610181246103&engine=google_scholar&hl=en",
+                "cites_id": "4068391610181246103"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Support vector machine-based method for subcellular localization of human proteins using amino acid compositions, their order, and similarity search",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "XK5GUiYAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Garg, M Bhasin, GPS Raghava",
+            "publication": "Journal of Biological Chemistry 280 (15), 14427-14432, 2005",
+            "cited_by": {
+                "value": 278,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7157717058590391517",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7157717058590391517&engine=google_scholar&hl=en",
+                "cites_id": "7157717058590391517"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Identification of conformational B-cell Epitopes in an antigen from its primary sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "XK5GUiYAAAAJ:Tiz5es2fbqcC",
+            "authors": "HR Ansari, GPS Raghava",
+            "publication": "Immunome research 6 (1), 1-9, 2010",
+            "cited_by": {
+                "value": 277,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10452923590305501995",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10452923590305501995&engine=google_scholar&hl=en",
+                "cites_id": "10452923590305501995"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "OXBench: a benchmark for evaluation of protein multiple sequence alignment accuracy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "XK5GUiYAAAAJ:u-x6o8ySG0sC",
+            "authors": "GPS Raghava, SMJ Searle, PC Audley, JD Barber, GJ Barton",
+            "publication": "BMC bioinformatics 4 (1), 47, 2003",
+            "cited_by": {
+                "value": 269,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12556609392258415611",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12556609392258415611&engine=google_scholar&hl=en",
+                "cites_id": "12556609392258415611"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "Analysis and prediction of antibacterial peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:r0BpntZqJG4C",
+            "citation_id": "XK5GUiYAAAAJ:r0BpntZqJG4C",
+            "authors": "S Lata, BK Sharma, GPS Raghava",
+            "publication": "BMC bioinformatics 8 (1), 1-10, 2007",
+            "cited_by": {
+                "value": 262,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15812104970404193377",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15812104970404193377&engine=google_scholar&hl=en",
+                "cites_id": "15812104970404193377"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Towards a consensus on datasets and evaluation metrics for developing B\u2010cell epitope prediction tools",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "XK5GUiYAAAAJ:Wp0gIr-vW9MC",
+            "authors": "JA Greenbaum, PH Andersen, M Blythe, HH Bui, RE Cachau, J Crowe, ...",
+            "publication": "Journal of Molecular Recognition 20 (2), 75-82, 2007",
+            "cited_by": {
+                "value": 262,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7979178840245076656",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7979178840245076656&engine=google_scholar&hl=en",
+                "cites_id": "7979178840245076656"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Improved method for linear B-cell epitope prediction using Antigen\u2019s primary sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:Ehil0879vHcC",
+            "citation_id": "XK5GUiYAAAAJ:Ehil0879vHcC",
+            "authors": "H Singh, HR Ansari, GPS Raghava",
+            "publication": "PloS one 8 (5), e62216, 2013",
+            "cited_by": {
+                "value": 256,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13703776977371086686",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13703776977371086686&engine=google_scholar&hl=en",
+                "cites_id": "13703776977371086686"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "PSLpred: prediction of subcellular localization of bacterial proteins",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:4DMP91E08xMC",
+            "citation_id": "XK5GUiYAAAAJ:4DMP91E08xMC",
+            "authors": "M Bhasin, A Garg, GPS Raghava",
+            "publication": "Bioinformatics 21 (10), 2522-2524, 2005",
+            "cited_by": {
+                "value": 255,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8959077103787261577",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8959077103787261577&engine=google_scholar&hl=en",
+                "cites_id": "8959077103787261577"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "MHCBN: A Comprehensive Database of MHC Binding and Non-Binding Peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:geHnlv5EZngC",
+            "citation_id": "XK5GUiYAAAAJ:geHnlv5EZngC",
+            "authors": "M Bhasin, H Singh, G Raghava",
+            "publication": "Bioinformatics 19 (5), 665, 2003",
+            "cited_by": {
+                "value": 249,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9959124305986682393",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9959124305986682393&engine=google_scholar&hl=en",
+                "cites_id": "9959124305986682393"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "Identification of DNA-binding proteins using support vector machines and evolutionary profiles",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "XK5GUiYAAAAJ:R3hNpaxXUhUC",
+            "authors": "M Kumar, MM Gromiha, GPS Raghava",
+            "publication": "BMC bioinformatics 8 (1), 463, 2007",
+            "cited_by": {
+                "value": 239,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13971201232719833061",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13971201232719833061&engine=google_scholar&hl=en",
+                "cites_id": "13971201232719833061"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Classification of nuclear receptors based on amino acid composition and dipeptide composition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "XK5GUiYAAAAJ:9yKSN-GCB0IC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Journal of Biological Chemistry 279 (22), 23262-23266, 2004",
+            "cited_by": {
+                "value": 225,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11405588133823481016",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11405588133823481016&engine=google_scholar&hl=en",
+                "cites_id": "11405588133823481016"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "NPACT: naturally occurring plant-based anti-cancer compound-activity-target database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:a9-T7VOCCH8C",
+            "citation_id": "XK5GUiYAAAAJ:a9-T7VOCCH8C",
+            "authors": "M Mangal, P Sagar, H Singh, GPS Raghava, SM Agarwal",
+            "publication": "Nucleic acids research 41 (D1), D1124-D1129, 2013",
+            "cited_by": {
+                "value": 221,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3233949257310920001",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3233949257310920001&engine=google_scholar&hl=en",
+                "cites_id": "3233949257310920001"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Bcipep: a database of B-cell epitopes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "XK5GUiYAAAAJ:mVmsd5A6BfQC",
+            "authors": "S Saha, M Bhasin, GPS Raghava",
+            "publication": "BMC genomics 6 (1), 1-7, 2005",
+            "cited_by": {
+                "value": 213,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15528228420030029602",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15528228420030029602&engine=google_scholar&hl=en",
+                "cites_id": "15528228420030029602"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "GPCRpred: an SVM-based method for prediction of families and subfamilies of G-protein coupled receptors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "XK5GUiYAAAAJ:qxL8FJ1GzNcC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Nucleic acids research 32 (suppl_2), W383-W389, 2004",
+            "cited_by": {
+                "value": 212,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2195285263129477181",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2195285263129477181&engine=google_scholar&hl=en",
+                "cites_id": "2195285263129477181"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "CPPsite: a curated database of cell penetrating peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:L7CI7m0gUJcC",
+            "citation_id": "XK5GUiYAAAAJ:L7CI7m0gUJcC",
+            "authors": "A Gautam, H Singh, A Tyagi, K Chaudhary, R Kumar, P Kapoor, ...",
+            "publication": "Database 2012, bas015, 2012",
+            "cited_by": {
+                "value": 203,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4568032362829504130",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4568032362829504130&engine=google_scholar&hl=en",
+                "cites_id": "4568032362829504130"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "In silico platform for prediction of N-, O-and C-glycosites in eukaryotic protein sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:fbc8zXXH2BUC",
+            "citation_id": "XK5GUiYAAAAJ:fbc8zXXH2BUC",
+            "authors": "JS Chauhan, A Rao, GPS Raghava",
+            "publication": "PloS one 8 (6), e67008, 2013",
+            "cited_by": {
+                "value": 201,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11245152417602422786",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11245152417602422786&engine=google_scholar&hl=en",
+                "cites_id": "11245152417602422786"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "PEPstr: a de novo method for tertiary structure prediction of small bioactive peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "XK5GUiYAAAAJ:M3NEmzRMIkIC",
+            "authors": "H Kaur, A Garg, GPS Raghava",
+            "publication": "Protein and peptide letters 14 (7), 626-631, 2007",
+            "cited_by": {
+                "value": 199,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10728197424943111938",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10728197424943111938&engine=google_scholar&hl=en",
+                "cites_id": "10728197424943111938"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "In silico approaches for designing highly effective cell penetrating peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:yFnVuubrUp4C",
+            "citation_id": "XK5GUiYAAAAJ:yFnVuubrUp4C",
+            "authors": "A Gautam, K Chaudhary, R Kumar, A Sharma, P Kapoor, A Tyagi, ...",
+            "publication": "J Transl Med 11 (1), 74, 2013",
+            "cited_by": {
+                "value": 198,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15095981511201357055",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15095981511201357055&engine=google_scholar&hl=en",
+                "cites_id": "15095981511201357055"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Machine learning techniques in disease forecasting: a case study on rice blast prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:lSLTfruPkqcC",
+            "citation_id": "XK5GUiYAAAAJ:lSLTfruPkqcC",
+            "authors": "R Kaundal, AS Kapoor, GPS Raghava",
+            "publication": "BMC bioinformatics 7 (1), 485, 2006",
+            "cited_by": {
+                "value": 198,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2313832811963858741",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2313832811963858741&engine=google_scholar&hl=en",
+                "cites_id": "2313832811963858741"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Analysis and prediction of affinity of TAP binding peptides using cascade SVM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:dhFuZR0502QC",
+            "citation_id": "XK5GUiYAAAAJ:dhFuZR0502QC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Protein Science 13 (3), 596-607, 2004",
+            "cited_by": {
+                "value": 196,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=930665356093304351",
+                "serpapi_link": "https://serpapi.com/search.json?cites=930665356093304351&engine=google_scholar&hl=en",
+                "cites_id": "930665356093304351"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "CPPsite 2.0: a repository of experimentally validated cell-penetrating peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:-mN3Mh-tlDkC",
+            "citation_id": "XK5GUiYAAAAJ:-mN3Mh-tlDkC",
+            "authors": "P Agrawal, S Bhalla, SS Usmani, S Singh, K Chaudhary, GPS Raghava, ...",
+            "publication": "Nucleic acids research 44 (D1), D1098-D1103, 2016",
+            "cited_by": {
+                "value": 191,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=200243049386056020",
+                "serpapi_link": "https://serpapi.com/search.json?cites=200243049386056020&engine=google_scholar&hl=en",
+                "cites_id": "200243049386056020"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "CancerPPD: a database of anticancer peptides and proteins",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:j7_hQOaDUrUC",
+            "citation_id": "XK5GUiYAAAAJ:j7_hQOaDUrUC",
+            "authors": "A Tyagi, A Tuknait, P Anand, S Gupta, M Sharma, D Mathur, A Joshi, ...",
+            "publication": "Nucleic acids research 43 (D1), D837-D843, 2015",
+            "cited_by": {
+                "value": 191,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11463644323701629176",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11463644323701629176&engine=google_scholar&hl=en",
+                "cites_id": "11463644323701629176"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "AntiBP2: improved version of antibacterial peptide prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:RYcK_YlVTxYC",
+            "citation_id": "XK5GUiYAAAAJ:RYcK_YlVTxYC",
+            "authors": "S Lata, NK Mishra, GPS Raghava",
+            "publication": "BMC bioinformatics 11 (Suppl 1), S19, 2010",
+            "cited_by": {
+                "value": 187,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6533010252741450524",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6533010252741450524&engine=google_scholar&hl=en",
+                "cites_id": "6533010252741450524"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Spectral Repeat Finder (SRF): identification of repetitive sequences using Fourier transformation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "XK5GUiYAAAAJ:7PzlFSSx8tAC",
+            "authors": "D Sharma, B Issac, GPS Raghava, R Ramaswamy",
+            "publication": "Bioinformatics 20 (9), 1405-1412, 2004",
+            "cited_by": {
+                "value": 186,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7521918802336115515",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7521918802336115515&engine=google_scholar&hl=en",
+                "cites_id": "7521918802336115515"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "In silico models for designing and discovering novel anticancer peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:gKiMpY-AVTkC",
+            "citation_id": "XK5GUiYAAAAJ:gKiMpY-AVTkC",
+            "authors": "A Tyagi, P Kapoor, R Kumar, K Chaudhary, A Gautam, GPS Raghava",
+            "publication": "Scientific reports 3 (1), 1-8, 2013",
+            "cited_by": {
+                "value": 184,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17420764312760827880",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17420764312760827880&engine=google_scholar&hl=en",
+                "cites_id": "17420764312760827880"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "SVM based method for predicting HLA-DRB1* 0401 binding peptides in an antigen sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "XK5GUiYAAAAJ:M3ejUd6NZC8C",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Bioinformatics 20 (3), 421-423, 2004",
+            "cited_by": {
+                "value": 168,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=278842409297090549",
+                "serpapi_link": "https://serpapi.com/search.json?cites=278842409297090549&engine=google_scholar&hl=en",
+                "cites_id": "278842409297090549"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Predicting human olfactory perception from chemical features of odor molecules",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:O0nohqN1r9EC",
+            "citation_id": "XK5GUiYAAAAJ:O0nohqN1r9EC",
+            "authors": "A Keller, RC Gerkin, Y Guan, A Dhurandhar, G Turu, B Szalai, ...",
+            "publication": "Science, eaal2014, 2017",
+            "cited_by": {
+                "value": 166,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13426058489040065257",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13426058489040065257&engine=google_scholar&hl=en",
+                "cites_id": "13426058489040065257"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Prediction of \u03b2\u2010turns in proteins from multiple alignment using neural network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:aqlVkmm33-oC",
+            "citation_id": "XK5GUiYAAAAJ:aqlVkmm33-oC",
+            "authors": "H Kaur, GPS Raghava",
+            "publication": "Protein Science 12 (3), 627-634, 2004",
+            "cited_by": {
+                "value": 163,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5486573410014441415",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5486573410014441415&engine=google_scholar&hl=en",
+                "cites_id": "5486573410014441415"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "A hybrid approach for predicting promiscuous MHC class I restricted T cell epitopes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "XK5GUiYAAAAJ:2osOgNQ5qMEC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Journal of biosciences 32 (1), 31-42, 2007",
+            "cited_by": {
+                "value": 154,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3415871009494606899",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3415871009494606899&engine=google_scholar&hl=en",
+                "cites_id": "3415871009494606899"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Support Vector Machine-based method for predicting subcellular localization of mycobacterial proteins using evolutionary information and motifs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:TQgYirikUcIC",
+            "citation_id": "XK5GUiYAAAAJ:TQgYirikUcIC",
+            "authors": "M Rashid, S Saha, GPS Raghava",
+            "publication": "BMC bioinformatics 8 (1), 1-9, 2007",
+            "cited_by": {
+                "value": 141,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10522634953831107855",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10522634953831107855&engine=google_scholar&hl=en",
+                "cites_id": "10522634953831107855"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "lncRNome: a comprehensive knowledgebase of human long noncoding RNAs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:5MTHONV0fEkC",
+            "citation_id": "XK5GUiYAAAAJ:5MTHONV0fEkC",
+            "authors": "D Bhartiya, K Pal, S Ghosh, S Kapoor, S Jalali, B Panwar, S Jain, S Sati, ...",
+            "publication": "Database 2013, bat034, 2013",
+            "cited_by": {
+                "value": 139,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2790251772080816471",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2790251772080816471&engine=google_scholar&hl=en",
+                "cites_id": "2790251772080816471"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Prediction of IL4 inducing peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:0CzhzZyukY4C",
+            "citation_id": "XK5GUiYAAAAJ:0CzhzZyukY4C",
+            "authors": "SK Dhanda, S Gupta, P Vir, GPS Raghava",
+            "publication": "Clinical and Developmental Immunology 2013, 2013",
+            "cited_by": {
+                "value": 138,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6995005816189309862",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6995005816189309862&engine=google_scholar&hl=en",
+                "cites_id": "6995005816189309862"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Prediction of transmembrane regions of \u03b2\u2010barrel proteins using ANN\u2010and SVM\u2010based methods",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "XK5GUiYAAAAJ:9ZlFYXVOiuMC",
+            "authors": "NK Natt, H Kaur, GPS Raghava",
+            "publication": "PROTEINS: Structure, Function, and Bioinformatics 56 (1), 11-18, 2004",
+            "cited_by": {
+                "value": 135,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645349545025884339",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17645349545025884339&engine=google_scholar&hl=en",
+                "cites_id": "17645349545025884339"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Pcleavage: an SVM based method for prediction of constitutive proteasome and immunoproteasome cleavage sites in antigenic sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "XK5GUiYAAAAJ:e5wmG9Sq2KIC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Nucleic acids research 33 (suppl_2), W202-W207, 2005",
+            "cited_by": {
+                "value": 133,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10368968193638859087",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10368968193638859087&engine=google_scholar&hl=en",
+                "cites_id": "10368968193638859087"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "PEPstrMOD: structure prediction of peptides containing natural, non-natural and modified residues",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:yxmsSjX2EkcC",
+            "citation_id": "XK5GUiYAAAAJ:yxmsSjX2EkcC",
+            "authors": "S Singh, H Singh, A Tuknait, K Chaudhary, B Singh, S Kumaran, ...",
+            "publication": "Biology Direct 10 (1), 1-19, 2015",
+            "cited_by": {
+                "value": 132,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17229341633329555553",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17229341633329555553&engine=google_scholar&hl=en",
+                "cites_id": "17229341633329555553"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "The Indian genome variation database (IGVdb): a project overview",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:XvxMoLDsR5gC",
+            "citation_id": "XK5GUiYAAAAJ:XvxMoLDsR5gC",
+            "authors": "H Genet",
+            "publication": "Hum Genet, 1-11, 2005",
+            "cited_by": {
+                "value": 130,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9121504503595536695",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9121504503595536695&engine=google_scholar&hl=en",
+                "cites_id": "9121504503595536695"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Prediction of mitochondrial proteins using support vector machine and hidden Markov model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "XK5GUiYAAAAJ:d1gkVwhDpl0C",
+            "authors": "M Kumar, R Verma, GPS Raghava",
+            "publication": "Journal of Biological Chemistry 281 (9), 5357-5363, 2006",
+            "cited_by": {
+                "value": 128,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9567992961360241686",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9567992961360241686&engine=google_scholar&hl=en",
+                "cites_id": "9567992961360241686"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "A neural network method for prediction of \u03b2-turn types in proteins using evolutionary information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "XK5GUiYAAAAJ:ZeXyd9-uunAC",
+            "authors": "H Kaur, GPS Raghava",
+            "publication": "Bioinformatics 20 (16), 2751-2758, 2004",
+            "cited_by": {
+                "value": 126,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14044410723286345469",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14044410723286345469&engine=google_scholar&hl=en",
+                "cites_id": "14044410723286345469"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Computer-aided biotechnology: from immuno-informatics to reverse vaccinology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "XK5GUiYAAAAJ:4JMBOYKVnBMC",
+            "authors": "S Vivona, JL Gardy, S Ramachandran, FSL Brinkman, GPS Raghava, ...",
+            "publication": "Trends in biotechnology 26 (4), 190-200, 2008",
+            "cited_by": {
+                "value": 125,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10083029461832200353",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10083029461832200353&engine=google_scholar&hl=en",
+                "cites_id": "10083029461832200353"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Identification of ATP binding residues of a protein from its primary sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:J_g5lzvAfSwC",
+            "citation_id": "XK5GUiYAAAAJ:J_g5lzvAfSwC",
+            "authors": "JS Chauhan, NK Mishra, GPS Raghava",
+            "publication": "BMC bioinformatics 10 (1), 434, 2009",
+            "cited_by": {
+                "value": 119,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1621953895702456099",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1621953895702456099&engine=google_scholar&hl=en",
+                "cites_id": "1621953895702456099"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "SVM based prediction of RNA\u2010binding proteins using binding residues and evolutionary information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:UebtZRa9Y70C",
+            "citation_id": "XK5GUiYAAAAJ:UebtZRa9Y70C",
+            "authors": "M Kumar, MM Gromiha, GPS Raghava",
+            "publication": "Journal of Molecular Recognition 24 (2), 303-313, 2011",
+            "cited_by": {
+                "value": 114,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2501869643287927415",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2501869643287927415&engine=google_scholar&hl=en",
+                "cites_id": "2501869643287927415"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Computer-aided designing of immunosuppressive peptides based on IL-10 inducing potential",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:U_HPUtbDl20C",
+            "citation_id": "XK5GUiYAAAAJ:U_HPUtbDl20C",
+            "authors": "G Nagpal, SS Usmani, SK Dhanda, H Kaur, S Singh, M Sharma, ...",
+            "publication": "Scientific Reports 7, 42851, 2017",
+            "cited_by": {
+                "value": 113,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14875581778243715572",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14875581778243715572&engine=google_scholar&hl=en",
+                "cites_id": "14875581778243715572"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "CancerDR: cancer drug resistance database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:HtS1dXgVpQUC",
+            "citation_id": "XK5GUiYAAAAJ:HtS1dXgVpQUC",
+            "authors": "R Kumar, K Chaudhary, S Gupta, H Singh, S Kumar, A Gautam, P Kapoor, ...",
+            "publication": "Scientific reports 3 (1), 1-6, 2013",
+            "cited_by": {
+                "value": 110,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9142626493864101737",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9142626493864101737&engine=google_scholar&hl=en",
+                "cites_id": "9142626493864101737"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "AHTPDB: a comprehensive platform for analysis and presentation of antihypertensive peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:1taIhTC69MYC",
+            "citation_id": "XK5GUiYAAAAJ:1taIhTC69MYC",
+            "authors": "R Kumar, K Chaudhary, M Sharma, G Nagpal, JS Chauhan, S Singh, ...",
+            "publication": "Nucleic acids research 43 (D1), D956-D962, 2015",
+            "cited_by": {
+                "value": 108,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4250818547799814152",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4250818547799814152&engine=google_scholar&hl=en",
+                "cites_id": "4250818547799814152"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "TumorHoPe: a database of tumor homing peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:kuK5TVdYjLIC",
+            "citation_id": "XK5GUiYAAAAJ:kuK5TVdYjLIC",
+            "authors": "P Kapoor, H Singh, A Gautam, K Chaudhary, R Kumar, GPS Raghava",
+            "publication": "PLoS One 7 (4), e35187, 2012",
+            "cited_by": {
+                "value": 108,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=736791817160415937",
+                "serpapi_link": "https://serpapi.com/search.json?cites=736791817160415937&engine=google_scholar&hl=en",
+                "cites_id": "736791817160415937"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "VICMpred: an SVM-based method for the prediction of functional proteins of Gram-negative bacteria using amino acid patterns and composition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:NaGl4SEjCO4C",
+            "citation_id": "XK5GUiYAAAAJ:NaGl4SEjCO4C",
+            "authors": "S Saha, GPS Raghava",
+            "publication": "Genomics, proteomics & bioinformatics 4 (1), 42-47, 2006",
+            "cited_by": {
+                "value": 108,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=451977373958209379",
+                "serpapi_link": "https://serpapi.com/search.json?cites=451977373958209379&engine=google_scholar&hl=en",
+                "cites_id": "451977373958209379"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "PEPlife: A Repository of the Half-life of Peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:PyEswDtIyv0C",
+            "citation_id": "XK5GUiYAAAAJ:PyEswDtIyv0C",
+            "authors": "D Mathur, S Prakash, P Anand, H Kaur, P Agrawal, A Mehta, R Kumar, ...",
+            "publication": "Scientific Reports 6, 36617, 2016",
+            "cited_by": {
+                "value": 106,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15048075968837962702",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15048075968837962702&engine=google_scholar&hl=en",
+                "cites_id": "15048075968837962702"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Real value prediction of solvent accessibility in proteins using multiple sequence alignment and secondary structure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:qUcmZB5y_30C",
+            "citation_id": "XK5GUiYAAAAJ:qUcmZB5y_30C",
+            "authors": "A Garg, H Kaur, GPS Raghava",
+            "publication": "Proteins: Structure, Function, and Bioinformatics 61 (2), 318-324, 2005",
+            "cited_by": {
+                "value": 105,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10693643659147098851",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10693643659147098851&engine=google_scholar&hl=en",
+                "cites_id": "10693643659147098851"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "BhairPred: prediction of \u03b2-hairpins in a protein from multiple alignment information using ANN and SVM techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "XK5GUiYAAAAJ:hFOr9nPyWt4C",
+            "authors": "M Kumar, M Bhasin, NK Natt, GPS Raghava",
+            "publication": "Nucleic acids research 33 (suppl_2), W154-W159, 2005",
+            "cited_by": {
+                "value": 102,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7342673419884614",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7342673419884614&engine=google_scholar&hl=en",
+                "cites_id": "7342673419884614"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "SATPdb: a database of structurally annotated therapeutic peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:prdVHNxh-e8C",
+            "citation_id": "XK5GUiYAAAAJ:prdVHNxh-e8C",
+            "authors": "S Singh, K Chaudhary, SK Dhanda, S Bhalla, SS Usmani, A Gautam, ...",
+            "publication": "Nucleic acids research 44 (D1), D1119-D1126, 2016",
+            "cited_by": {
+                "value": 99,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13692397859690408781",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13692397859690408781&engine=google_scholar&hl=en",
+                "cites_id": "13692397859690408781"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Prediction and classification of ncRNAs using structural information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:lgwcVrK6X84C",
+            "citation_id": "XK5GUiYAAAAJ:lgwcVrK6X84C",
+            "authors": "B Panwar, A Arora, GPS Raghava",
+            "publication": "BMC genomics 15 (1), 127, 2014",
+            "cited_by": {
+                "value": 93,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12133185034822846320",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12133185034822846320&engine=google_scholar&hl=en",
+                "cites_id": "12133185034822846320"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Hemolytik: a database of experimentally determined hemolytic and non-hemolytic peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:artPoR2Yc-kC",
+            "citation_id": "XK5GUiYAAAAJ:artPoR2Yc-kC",
+            "authors": "A Gautam, K Chaudhary, S Singh, A Joshi, P Anand, A Tuknait, D Mathur, ...",
+            "publication": "Nucleic acids research, gkt1008, 2013",
+            "cited_by": {
+                "value": 93,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5388800663063146165",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5388800663063146165&engine=google_scholar&hl=en",
+                "cites_id": "5388800663063146165"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "A Web Server and Mobile App for Computing Hemolytic Potency of Peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:WC9gN4BGCRcC",
+            "citation_id": "XK5GUiYAAAAJ:WC9gN4BGCRcC",
+            "authors": "K Chaudhary, R Kumar, S Singh, A Tuknait, A Gautam, D Mathur, ...",
+            "publication": "Scientific Reports 6, 22843, 2016",
+            "cited_by": {
+                "value": 92,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12243550028869600997",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12243550028869600997&engine=google_scholar&hl=en",
+                "cites_id": "12243550028869600997"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "APSSP2: A combination method for protein secondary structure prediction based on neural network and example based learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:eJXPG6dFmWUC",
+            "citation_id": "XK5GUiYAAAAJ:eJXPG6dFmWUC",
+            "authors": "GPS Raghava",
+            "publication": "CASP5. A-132, 2002",
+            "cited_by": {
+                "value": 91,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2753569491120991821",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2753569491120991821&engine=google_scholar&hl=en",
+                "cites_id": "2753569491120991821"
+            },
+            "year": "2002"
+        },
+        {
+            "title": "CCDB: a curated database of genes involved in cervix cancer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:EUQCXRtRnyEC",
+            "citation_id": "XK5GUiYAAAAJ:EUQCXRtRnyEC",
+            "authors": "SM Agarwal, D Raghav, H Singh, GPS Raghava",
+            "publication": "Nucleic acids research 39 (suppl_1), D975-D979, 2010",
+            "cited_by": {
+                "value": 89,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4522700659833893902",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4522700659833893902&engine=google_scholar&hl=en",
+                "cites_id": "4522700659833893902"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "OxDBase: a database of oxygenases involved in biodegradation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:yD5IFk8b50cC",
+            "citation_id": "XK5GUiYAAAAJ:yD5IFk8b50cC",
+            "authors": "PK Arora, M Kumar, A Chauhan, GPS Raghava, RK Jain",
+            "publication": "BMC research notes 2 (1), 67, 2009",
+            "cited_by": {
+                "value": 88,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15100808999229237175",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15100808999229237175&engine=google_scholar&hl=en",
+                "cites_id": "15100808999229237175"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "An in silico platform for predicting, screening and designing of antihypertensive peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:jU7OWUQzBzMC",
+            "citation_id": "XK5GUiYAAAAJ:jU7OWUQzBzMC",
+            "authors": "R Kumar, K Chaudhary, J Singh Chauhan, G Nagpal, R Kumar, ...",
+            "publication": "Scientific reports 5 (1), 1-10, 2015",
+            "cited_by": {
+                "value": 85,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6052861395078898185",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6052861395078898185&engine=google_scholar&hl=en",
+                "cites_id": "6052861395078898185"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A neural\u2010network based method for prediction of \u03b3\u2010turns in proteins from multiple sequence alignment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "XK5GUiYAAAAJ:L8Ckcad2t8MC",
+            "authors": "H Kaur, GPS Raghava",
+            "publication": "Protein science 12 (5), 923-929, 2003",
+            "cited_by": {
+                "value": 84,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14735163100738176369",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14735163100738176369&engine=google_scholar&hl=en",
+                "cites_id": "14735163100738176369"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "Prediction of cytochrome P450 isoform responsible for metabolizing a drug molecule",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:35N4QoGY0k4C",
+            "citation_id": "XK5GUiYAAAAJ:35N4QoGY0k4C",
+            "authors": "NK Mishra, S Agarwal, GPS Raghava",
+            "publication": "BMC pharmacology 10 (1), 1-9, 2010",
+            "cited_by": {
+                "value": 83,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11406549934738465607",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11406549934738465607&engine=google_scholar&hl=en",
+                "cites_id": "11406549934738465607"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "MHCBN 4.0: A database of MHC/TAP binding peptides and T-cell epitopes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:GnPB-g6toBAC",
+            "citation_id": "XK5GUiYAAAAJ:GnPB-g6toBAC",
+            "authors": "S Lata, M Bhasin, GPS Raghava",
+            "publication": "BMC research notes 2 (1), 61, 2009",
+            "cited_by": {
+                "value": 80,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15809334960685162564",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15809334960685162564&engine=google_scholar&hl=en",
+                "cites_id": "15809334960685162564"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "Prediction methods for B-cell epitopes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:WF5omc3nYNoC",
+            "citation_id": "XK5GUiYAAAAJ:WF5omc3nYNoC",
+            "authors": "S Saha, GPS Raghava",
+            "publication": "Immunoinformatics, 387-394, 2007",
+            "cited_by": {
+                "value": 78,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12981062680994105664",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12981062680994105664&engine=google_scholar&hl=en",
+                "cites_id": "12981062680994105664"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Novel in silico tools for designing peptide-based subunit vaccines and immunotherapeutics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:SjuI4pbJlxcC",
+            "citation_id": "XK5GUiYAAAAJ:SjuI4pbJlxcC",
+            "authors": "SK Dhanda, SS Usmani, P Agrawal, G Nagpal, A Gautam, GPS Raghava",
+            "publication": "Briefings in bioinformatics 18 (3), 467-478, 2017",
+            "cited_by": {
+                "value": 77,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7104598800295690402",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7104598800295690402&engine=google_scholar&hl=en",
+                "cites_id": "7104598800295690402"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Identification of NAD interacting residues in proteins",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:HoB7MX3m0LUC",
+            "citation_id": "XK5GUiYAAAAJ:HoB7MX3m0LUC",
+            "authors": "HR Ansari, GPS Raghava",
+            "publication": "BMC bioinformatics 11 (1), 160, 2010",
+            "cited_by": {
+                "value": 77,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5847769940243441909",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5847769940243441909&engine=google_scholar&hl=en",
+                "cites_id": "5847769940243441909"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Open source drug discovery\u2013A new paradigm of collaborative research in tuberculosis drug development",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:08ZZubdj9fEC",
+            "citation_id": "XK5GUiYAAAAJ:08ZZubdj9fEC",
+            "authors": "A Bhardwaj, V Scaria, GPS Raghava, AM Lynn, N Chandra, S Banerjee, ...",
+            "publication": "Tuberculosis 91 (5), 479-486, 2011",
+            "cited_by": {
+                "value": 76,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=576369136331004703",
+                "serpapi_link": "https://serpapi.com/search.json?cites=576369136331004703&engine=google_scholar&hl=en",
+                "cites_id": "576369136331004703"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Locating probable genes using Fourier transform approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:-f6ydRqryjwC",
+            "citation_id": "XK5GUiYAAAAJ:-f6ydRqryjwC",
+            "authors": "B Issac, H Singh, H Kaur, GPS Raghava",
+            "publication": "Bioinformatics 18 (1), 196-197, 2002",
+            "cited_by": {
+                "value": 76,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10861461379982788746",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10861461379982788746&engine=google_scholar&hl=en",
+                "cites_id": "10861461379982788746"
+            },
+            "year": "2002"
+        },
+        {
+            "title": "Tumor Homing Peptides as Molecular Probes for Cancer Therapeutics, Diagnostics and Theranostics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:ALROH1vI_8AC",
+            "citation_id": "XK5GUiYAAAAJ:ALROH1vI_8AC",
+            "authors": "A Gautam, P Kapoor, K Chaudhary, R Kumar, GPS Raghava, ...",
+            "publication": "Current medicinal chemistry 21 (21), 2367-2391, 2014",
+            "cited_by": {
+                "value": 73,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9918955001702215414",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9918955001702215414&engine=google_scholar&hl=en",
+                "cites_id": "9918955001702215414"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "GPCRsclass: a web tool for the classification of amine type of G-protein-coupled receptors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "XK5GUiYAAAAJ:RHpTSmoSYBkC",
+            "authors": "M Bhasin, GPS Raghava",
+            "publication": "Nucleic acids research 33 (suppl_2), W143-W147, 2005",
+            "cited_by": {
+                "value": 73,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4435233419894700128",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4435233419894700128&engine=google_scholar&hl=en",
+                "cites_id": "4435233419894700128"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Identification of B-cell epitopes in an antigen for inducing specific class of antibodies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:vDZJ-YLwNdEC",
+            "citation_id": "XK5GUiYAAAAJ:vDZJ-YLwNdEC",
+            "authors": "S Gupta, HR Ansari, A Gautam, GP Raghava, ...",
+            "publication": "Biology direct 8 (1), 27, 2013",
+            "cited_by": {
+                "value": 72,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11727094458849665361",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11727094458849665361&engine=google_scholar&hl=en",
+                "cites_id": "11727094458849665361"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Correlation and prediction of gene expression level from amino acid and dipeptide composition of its protein",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "XK5GUiYAAAAJ:_Qo2XoVZTnwC",
+            "authors": "GPS Raghava, JH Han",
+            "publication": "BMC bioinformatics 6 (1), 59, 2005",
+            "cited_by": {
+                "value": 70,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6672820872840785698",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6672820872840785698&engine=google_scholar&hl=en",
+                "cites_id": "6672820872840785698"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Protein secondary structure prediction using nearest neighbor and neural network approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:VOx2b1Wkg3QC",
+            "citation_id": "XK5GUiYAAAAJ:VOx2b1Wkg3QC",
+            "authors": "GPS Raghava",
+            "publication": "CASP 4, 75\u201376, 2000",
+            "cited_by": {
+                "value": 70,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7160147349522673782",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7160147349522673782&engine=google_scholar&hl=en",
+                "cites_id": "7160147349522673782"
+            },
+            "year": "2000"
+        },
+        {
+            "title": "Prediction of \u03b1\u2010turns in proteins using PSI\u2010BLAST profiles and secondary structure information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:HDshCWvjkbEC",
+            "citation_id": "XK5GUiYAAAAJ:HDshCWvjkbEC",
+            "authors": "H Kaur, GPS Raghava",
+            "publication": "Proteins: Structure, Function, and Bioinformatics 55 (1), 83-90, 2004",
+            "cited_by": {
+                "value": 69,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17304619759014653607",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17304619759014653607&engine=google_scholar&hl=en",
+                "cites_id": "17304619759014653607"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "AntigenDB: an immunoinformatics database of pathogen antigens",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:YFjsv_pBGBYC",
+            "citation_id": "XK5GUiYAAAAJ:YFjsv_pBGBYC",
+            "authors": "HR Ansari, DR Flower, GPS Raghava",
+            "publication": "Nucleic acids research 38 (suppl_1), D847-D853, 2010",
+            "cited_by": {
+                "value": 67,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1025773534682520219",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1025773534682520219&engine=google_scholar&hl=en",
+                "cites_id": "1025773534682520219"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "In silico approach for prediction of antifungal peptides.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:YsrPvlHIBpEC",
+            "citation_id": "XK5GUiYAAAAJ:YsrPvlHIBpEC",
+            "authors": "P Agrawal, S Bhalla, K Chaudhary, R Kumar, M Sharma, GPS Raghava",
+            "publication": "Frontiers in Microbiology 9, 323, 2018",
+            "cited_by": {
+                "value": 66,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10639610812370015858",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10639610812370015858&engine=google_scholar&hl=en",
+                "cites_id": "10639610812370015858"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Gene expression-based biomarkers for discriminating early and late stage of clear cell renal cancer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:mKu_rENv82IC",
+            "citation_id": "XK5GUiYAAAAJ:mKu_rENv82IC",
+            "authors": "S Bhalla, K Chaudhary, R Kumar, M Sehgal, H Kaur, S Sharma, ...",
+            "publication": "Scientific Reports 7, 44997, 2017",
+            "cited_by": {
+                "value": 64,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6942382119921671675",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6942382119921671675&engine=google_scholar&hl=en",
+                "cites_id": "6942382119921671675"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Benchmarking of different molecular docking methods for protein-peptide docking",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:DrR-2ekChdkC",
+            "citation_id": "XK5GUiYAAAAJ:DrR-2ekChdkC",
+            "authors": "P Agrawal, H Singh, HK Srivastava, S Singh, G Kishore, GPS Raghava",
+            "publication": "BMC bioinformatics 19 (13), 105-124, 2019",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8532833425549759758",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8532833425549759758&engine=google_scholar&hl=en",
+                "cites_id": "8532833425549759758"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A machine learning based method for the prediction of secretory proteins using amino acid composition, their order and similarity-search",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:qjMakFHDy7sC",
+            "citation_id": "XK5GUiYAAAAJ:qjMakFHDy7sC",
+            "authors": "A Garg, GPS Raghava",
+            "publication": "In silico biology 8 (2), 129-140, 2008",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9667740988461206201",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9667740988461206201&engine=google_scholar&hl=en",
+                "cites_id": "9667740988461206201"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "BTXpred: prediction of bacterial toxins",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "XK5GUiYAAAAJ:LkGwnXOMwfcC",
+            "authors": "S Saha, GPS Raghava",
+            "publication": "In silico biology 7 (4-5), 405-412, 2007",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17118312141240497339",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17118312141240497339&engine=google_scholar&hl=en",
+                "cites_id": "17118312141240497339"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "GlycoPP: a webserver for prediction of N-and O-glycosites in prokaryotic protein sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:oNZyr7d5Mn4C",
+            "citation_id": "XK5GUiYAAAAJ:oNZyr7d5Mn4C",
+            "authors": "JS Chauhan, AH Bhat, GPS Raghava, A Rao",
+            "publication": "PloS one 7 (7), e40155, 2012",
+            "cited_by": {
+                "value": 62,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11145541876663728183",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11145541876663728183&engine=google_scholar&hl=en",
+                "cites_id": "11145541876663728183"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Computational approach for designing tumor homing peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:r_AWSJRzSzQC",
+            "citation_id": "XK5GUiYAAAAJ:r_AWSJRzSzQC",
+            "authors": "A Sharma, P Kapoor, A Gautam, K Chaudhary, R Kumar, JS Chauhan, ...",
+            "publication": "Scientific reports 3 (1), 1-7, 2013",
+            "cited_by": {
+                "value": 61,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7045916632699987648",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7045916632699987648&engine=google_scholar&hl=en",
+                "cites_id": "7045916632699987648"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Prediction of mitochondrial proteins of malaria parasite using split amino acid composition and PSSM profile",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "XK5GUiYAAAAJ:_FxGoFyzp5QC",
+            "authors": "R Verma, GC Varshney, GPS Raghava",
+            "publication": "Amino acids 39 (1), 101-110, 2010",
+            "cited_by": {
+                "value": 61,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14680111258273126067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14680111258273126067&engine=google_scholar&hl=en",
+                "cites_id": "14680111258273126067"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Application of machine learning techniques in predicting MHC binders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "XK5GUiYAAAAJ:eQOLeE2rZwMC",
+            "authors": "S Lata, M Bhasin, GPS Raghava",
+            "publication": "Immunoinformatics, 201-215, 2007",
+            "cited_by": {
+                "value": 61,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14888862363468033517",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14888862363468033517&engine=google_scholar&hl=en",
+                "cites_id": "14888862363468033517"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Machine learning competition in immunology\u2013Prediction of HLA class I binding peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:_Ybze24A_UAC",
+            "citation_id": "XK5GUiYAAAAJ:_Ybze24A_UAC",
+            "authors": "GL Zhang, HR Ansari, P Bradley, GC Cawley, T Hertz, X Hu, N Jojic, ...",
+            "publication": "Journal of immunological methods 374 (1), 1-4, 2011",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6622951185390753257",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6622951185390753257&engine=google_scholar&hl=en",
+                "cites_id": "6622951185390753257"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "An evaluation of \u03b2-turn prediction methods",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:hC7cP41nSMkC",
+            "citation_id": "XK5GUiYAAAAJ:hC7cP41nSMkC",
+            "authors": "H Kaur, GPS Raghava",
+            "publication": "Bioinformatics 18 (11), 1508-1514, 2002",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9625979446731161894",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9625979446731161894&engine=google_scholar&hl=en",
+                "cites_id": "9625979446731161894"
+            },
+            "year": "2002"
+        },
+        {
+            "title": "QSAR based model for discriminating EGFR inhibitors and non-inhibitors using Random forest",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:wKETBy42zhYC",
+            "citation_id": "XK5GUiYAAAAJ:wKETBy42zhYC",
+            "authors": "H Singh, S Singh, D Singla, SM Agarwal, GPS Raghava",
+            "publication": "Biology direct 10 (1), 10, 2015",
+            "cited_by": {
+                "value": 59,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1917729421222422388",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1917729421222422388&engine=google_scholar&hl=en",
+                "cites_id": "1917729421222422388"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Genome sequence of the oleaginous red yeast Rhodosporidium toruloides MTCC 457",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:e_rmSamDkqQC",
+            "citation_id": "XK5GUiYAAAAJ:e_rmSamDkqQC",
+            "authors": "S Kumar, H Kushwaha, AK Bachhawat, GPS Raghava, K Ganesan",
+            "publication": "Eukaryotic cell 11 (8), 1083-1084, 2012",
+            "cited_by": {
+                "value": 59,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1668310667879644811",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1668310667879644811&engine=google_scholar&hl=en",
+                "cites_id": "1668310667879644811"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Prioritization of anticancer drugs against a cancer using genomic features of cancer cells: A step towards personalized medicine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:DBa1UEJaJKAC",
+            "citation_id": "XK5GUiYAAAAJ:DBa1UEJaJKAC",
+            "authors": "S Gupta, K Chaudhary, R Kumar, A Gautam, JS Nanda, SK Dhanda, ...",
+            "publication": "Scientific Reports 6, 23857, 2016",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7569766222463385982",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7569766222463385982&engine=google_scholar&hl=en",
+                "cites_id": "7569766222463385982"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Prediction of polyadenylation signals in human DNA sequences using nucleotide frequencies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:Se3iqnhoufwC",
+            "citation_id": "XK5GUiYAAAAJ:Se3iqnhoufwC",
+            "authors": "F Ahmed, M Kumar, GPS Raghava",
+            "publication": "In silico biology 9 (3), 135-148, 2009",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11052286063311729843",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11052286063311729843&engine=google_scholar&hl=en",
+                "cites_id": "11052286063311729843"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "COPid: composition based protein identification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:ufrVoPGSRksC",
+            "citation_id": "XK5GUiYAAAAJ:ufrVoPGSRksC",
+            "authors": "M Kumar, V Thakur, GPS Raghava",
+            "publication": "In silico biology 8 (2), 121-128, 2008",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16552559409752229558",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16552559409752229558&engine=google_scholar&hl=en",
+                "cites_id": "16552559409752229558"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "HaptenDB: a comprehensive database of haptens, carrier proteins and anti-hapten antibodies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "XK5GUiYAAAAJ:iH-uZ7U-co4C",
+            "authors": "MK Singh, S Srivastava, GPS Raghava, GC Varshney",
+            "publication": "Bioinformatics 22 (2), 253-255, 2006",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1061530907563988498",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1061530907563988498&engine=google_scholar&hl=en",
+                "cites_id": "1061530907563988498"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "ESLpred2: improved method for predicting subcellular localization of eukaryotic proteins",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XK5GUiYAAAAJ&pagesize=100&citation_for_view=XK5GUiYAAAAJ:blknAaTinKkC",
+            "citation_id": "XK5GUiYAAAAJ:blknAaTinKkC",
+            "authors": "A Garg, GPS Raghava",
+            "publication": "BMC bioinformatics 9 (1), 503, 2008",
+            "cited_by": {
+                "value": 55,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8951354100890678117",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8951354100890678117&engine=google_scholar&hl=en",
+                "cites_id": "8951354100890678117"
+            },
+            "year": "2008"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 21060,
+                    "since_2017": 11492
+                }
+            },
+            {
+                "h_index": {
+                    "all": 75,
+                    "since_2017": 54
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 225,
+                    "since_2017": 190
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2003,
+                "citations": 61
+            },
+            {
+                "year": 2004,
+                "citations": 86
+            },
+            {
+                "year": 2005,
+                "citations": 267
+            },
+            {
+                "year": 2006,
+                "citations": 378
+            },
+            {
+                "year": 2007,
+                "citations": 510
+            },
+            {
+                "year": 2008,
+                "citations": 597
+            },
+            {
+                "year": 2009,
+                "citations": 615
+            },
+            {
+                "year": 2010,
+                "citations": 739
+            },
+            {
+                "year": 2011,
+                "citations": 695
+            },
+            {
+                "year": 2012,
+                "citations": 795
+            },
+            {
+                "year": 2013,
+                "citations": 973
+            },
+            {
+                "year": 2014,
+                "citations": 1112
+            },
+            {
+                "year": 2015,
+                "citations": 1197
+            },
+            {
+                "year": 2016,
+                "citations": 1323
+            },
+            {
+                "year": 2017,
+                "citations": 1252
+            },
+            {
+                "year": 2018,
+                "citations": 1704
+            },
+            {
+                "year": 2019,
+                "citations": 1968
+            },
+            {
+                "year": 2020,
+                "citations": 2416
+            },
+            {
+                "year": 2021,
+                "citations": 3205
+            },
+            {
+                "year": 2022,
+                "citations": 940
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=XK5GUiYAAAAJ",
+        "available": 132,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Kumardeep Chaudhary",
+            "link": "https://scholar.google.com/citations?user=RTPnUKkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RTPnUKkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "RTPnUKkAAAAJ",
+            "affiliations": "CSIR-Institute of Genomics & Integrative Biology (IGIB)",
+            "email": "Verified email at igib.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RTPnUKkAAAAJ&citpid=4"
+        },
+        {
+            "name": "Manoj K. Bhasin",
+            "link": "https://scholar.google.com/citations?user=o6Mm3S4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=o6Mm3S4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "o6Mm3S4AAAAJ",
+            "affiliations": "Associate Professor of Pediatrics and Biomedical Informatics, Emory School of Medicine",
+            "email": "Verified email at emory.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o6Mm3S4AAAAJ&citpid=4"
+        },
+        {
+            "name": "Rahul Kumar",
+            "link": "https://scholar.google.com/citations?user=rDnstZkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rDnstZkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rDnstZkAAAAJ",
+            "affiliations": "Indian Institute of Technology (IIT) Hyderabad",
+            "email": "Verified email at bt.iith.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rDnstZkAAAAJ&citpid=5"
+        },
+        {
+            "name": "sandeep singh",
+            "link": "https://scholar.google.com/citations?user=AJJiqN4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AJJiqN4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "AJJiqN4AAAAJ",
+            "affiliations": "Research Associate at University of Virginia",
+            "email": "Verified email at virginia.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AJJiqN4AAAAJ&citpid=4"
+        },
+        {
+            "name": "Harinder Singh",
+            "link": "https://scholar.google.com/citations?user=WlIJWawAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WlIJWawAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WlIJWawAAAAJ",
+            "affiliations": "J Craig Venter Institute",
+            "email": "Verified email at jcvi.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WlIJWawAAAAJ&citpid=3"
+        },
+        {
+            "name": "Piyush Agrawal",
+            "link": "https://scholar.google.com/citations?user=Jr6kNsUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Jr6kNsUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Jr6kNsUAAAAJ",
+            "affiliations": "Visiting Postdoctoral Fellow, National Cancer Institute, NIH, USA",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Jr6kNsUAAAAJ&citpid=19"
+        },
+        {
+            "name": "Salman Sadullah Usmani, Ph.D.",
+            "link": "https://scholar.google.com/citations?user=Sxr1MJwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Sxr1MJwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Sxr1MJwAAAAJ",
+            "affiliations": "Research Fellow, Albert Einstein College of Medicine, New York",
+            "email": "Verified email at einsteinmed.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Sxr1MJwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sudipto Saha",
+            "link": "https://scholar.google.com/citations?user=UyHoypnIjMYC&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UyHoypnIjMYC&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "UyHoypnIjMYC",
+            "affiliations": "Associate Professor, Bose Institute, Kolkata",
+            "email": "Verified email at jcbose.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UyHoypnIjMYC&citpid=4"
+        },
+        {
+            "name": "Sudheer Gupta",
+            "link": "https://scholar.google.com/citations?user=Di9BOR0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Di9BOR0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Di9BOR0AAAAJ",
+            "affiliations": "All India Institute of Medical Sciences (AIIMS) Bhopal",
+            "email": "Verified email at aiimsbhopal.edu.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Di9BOR0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Sandeep Kumar Dhanda",
+            "link": "https://scholar.google.com/citations?user=-dugIkIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-dugIkIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-dugIkIAAAAJ",
+            "affiliations": "St. Jude Children's Research Hospital",
+            "email": "Verified email at stjude.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-dugIkIAAAAJ&citpid=6"
+        },
+        {
+            "name": "Sherry Bhalla",
+            "link": "https://scholar.google.com/citations?user=Xxs4FX8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xxs4FX8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xxs4FX8AAAAJ",
+            "affiliations": "Mount Sinai",
+            "email": "Verified email at mssm.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xxs4FX8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Sumeet Patiyal",
+            "link": "https://scholar.google.com/citations?user=w0X4O94AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=w0X4O94AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "w0X4O94AAAAJ",
+            "affiliations": "Research Scholar",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w0X4O94AAAAJ&citpid=1"
+        },
+        {
+            "name": "Harpreet kaur",
+            "link": "https://scholar.google.com/citations?user=4tk3wcMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4tk3wcMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4tk3wcMAAAAJ",
+            "affiliations": "NIH - National Cancer Institute, MD, USA",
+            "email": "Verified email at pine.bio",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4tk3wcMAAAAJ&citpid=17"
+        },
+        {
+            "name": "Manish Kumar",
+            "link": "https://scholar.google.com/citations?user=j8OzPpMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j8OzPpMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "j8OzPpMAAAAJ",
+            "affiliations": "Associate Professor of Biophysics, Delhi University (South Campus), New Delhi",
+            "email": "Verified email at south.du.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j8OzPpMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Anjali Dhall",
+            "link": "https://scholar.google.com/citations?user=h8D9ikUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h8D9ikUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h8D9ikUAAAAJ",
+            "affiliations": "Senior Research Fellow, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h8D9ikUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Shailesh Kumar",
+            "link": "https://scholar.google.com/citations?user=6sFjjocAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6sFjjocAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6sFjjocAAAAJ",
+            "affiliations": "National Institute of Plant Genome Research (NIPGR)",
+            "email": "Verified email at nipgr.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6sFjjocAAAAJ&citpid=16"
+        },
+        {
+            "name": "Jagat S Chauhan",
+            "link": "https://scholar.google.com/citations?user=Ql5hOrwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ql5hOrwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Ql5hOrwAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at ludwig.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Hifzur Rahman Ansari",
+            "link": "https://scholar.google.com/citations?user=-cxNSkYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-cxNSkYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-cxNSkYAAAAJ",
+            "affiliations": "Associate Research Scientist",
+            "email": "Verified email at ngha.med.sa",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Grish C Varshney",
+            "link": "https://scholar.google.com/citations?user=txt_HucAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=txt_HucAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "txt_HucAAAAJ",
+            "affiliations": "Chief Scientist, CSIR Institute of Microbial Technology, Chandigarh, India",
+            "email": "Verified email at imtech.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=txt_HucAAAAJ&citpid=2"
+        },
+        {
+            "name": "Vinod Kumar",
+            "link": "https://scholar.google.com/citations?user=Hg1nFFQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Hg1nFFQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Hg1nFFQAAAAJ",
+            "affiliations": "National Institutes of Health / IRP/ NIA /NDRS",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Hg1nFFQAAAAJ&citpid=3"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=XK5GUiYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+    }
+}

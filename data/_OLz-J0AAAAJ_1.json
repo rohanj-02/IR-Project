@@ -1,0 +1,933 @@
+{
+    "search_metadata": {
+        "id": "6256e0c5eb31eb5bc4d3e458",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ff612871a61356e5/6256e0c5eb31eb5bc4d3e458.json",
+        "created_at": "2022-04-13 14:40:05 UTC",
+        "processed_at": "2022-04-13 14:40:05 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=_OLz-J0AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/ff612871a61356e5/6256e0c5eb31eb5bc4d3e458.html",
+        "total_time_taken": 0.74
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "_OLz-J0AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Rahul Purandare",
+        "affiliations": "Associate Professor of Computer Science and Engineering, IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://www.iiitd.edu.in/~purandare/",
+        "interests": [
+            {
+                "title": "Program Analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:program_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprogram_analysis"
+            },
+            {
+                "title": "Software Testing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:software_testing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asoftware_testing"
+            },
+            {
+                "title": "Runtime Verification",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:runtime_verification",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aruntime_verification"
+            },
+            {
+                "title": "Automatic Program Repair",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:automatic_program_repair",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautomatic_program_repair"
+            },
+            {
+                "title": "Code Comprehension",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:code_comprehension",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acode_comprehension"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_OLz-J0AAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "Parallel randomized state-space search",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "_OLz-J0AAAAJ:u5HHmVD_uO8C",
+            "authors": "MB Dwyer, S Elbaum, S Person, R Purandare",
+            "publication": "29th International Conference on Software Engineering (ICSE'07), 3-12, 2007",
+            "cited_by": {
+                "value": 113,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17545650420502432754",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17545650420502432754&engine=google_scholar&hl=en",
+                "cites_id": "17545650420502432754"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Residual dynamic typestate analysis exploiting static analysis: results to reformulate and reduce the cost of dynamic analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "_OLz-J0AAAAJ:u-x6o8ySG0sC",
+            "authors": "MB Dwyer, R Purandare",
+            "publication": "Proceedings of the twenty-second IEEE/ACM international conference on \u2026, 2007",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18396580049720138110",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18396580049720138110&engine=google_scholar&hl=en",
+                "cites_id": "18396580049720138110"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Monitor optimization via stutter-equivalent loop transformation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "_OLz-J0AAAAJ:d1gkVwhDpl0C",
+            "authors": "R Purandare, MB Dwyer, S Elbaum",
+            "publication": "Proceedings of the ACM international conference on Object oriented \u2026, 2010",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10883165772856998377",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10883165772856998377&engine=google_scholar&hl=en",
+                "cites_id": "10883165772856998377"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Anne: Improving source code search using entity retrieval approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "_OLz-J0AAAAJ:MXK_kJrjxJIC",
+            "authors": "V Vinayakarao, A Sarma, R Purandare, S Jain, S Jain",
+            "publication": "Proceedings of the Tenth ACM International Conference on Web Search and Data \u2026, 2017",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9385318403762314105",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9385318403762314105&engine=google_scholar&hl=en",
+                "cites_id": "9385318403762314105"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Runtime verification in context: Can optimizing error detection improve fault diagnosis?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "_OLz-J0AAAAJ:9yKSN-GCB0IC",
+            "authors": "MB Dwyer, R Purandare, S Person",
+            "publication": "International conference on runtime verification, 36-50, 2010",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15538723115421291732",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15538723115421291732&engine=google_scholar&hl=en",
+                "cites_id": "15538723115421291732"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Optimizing monitoring of finite state properties through monitor compaction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "_OLz-J0AAAAJ:IjCSPb-OGe4C",
+            "authors": "R Purandare, MB Dwyer, S Elbaum",
+            "publication": "Proceedings of the 2013 International Symposium on Software Testing and \u2026, 2013",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6785757494420148589",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6785757494420148589&engine=google_scholar&hl=en",
+                "cites_id": "6785757494420148589"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Dynamic symbolic verification of MPI programs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:ULOm3_A8WrAC",
+            "citation_id": "_OLz-J0AAAAJ:ULOm3_A8WrAC",
+            "authors": "D Khanna, S Sharma, C Rodr\u00edguez, R Purandare",
+            "publication": "International Symposium on Formal Methods, 466-484, 2018",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6165877173056498707,11891328349554334184",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6165877173056498707%2C11891328349554334184&engine=google_scholar&hl=en",
+                "cites_id": "6165877173056498707,11891328349554334184"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Extracting conditional component dependence for distributed robotic systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "_OLz-J0AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "R Purandare, J Darsie, S Elbaum, MB Dwyer",
+            "publication": "2012 IEEE/RSJ International Conference on Intelligent Robots and Systems \u2026, 2012",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10916394667001171991",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10916394667001171991&engine=google_scholar&hl=en",
+                "cites_id": "10916394667001171991"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "POLLUX: safely upgrading dependent application libraries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:UebtZRa9Y70C",
+            "citation_id": "_OLz-J0AAAAJ:UebtZRa9Y70C",
+            "authors": "S Kalra, A Goel, D Khanna, M Dhawan, S Sharma, R Purandare",
+            "publication": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on \u2026, 2016",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997556040535087181",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6997556040535087181&engine=google_scholar&hl=en",
+                "cites_id": "6997556040535087181"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "CLOTHO: Saving Programs from Malformed Strings and Incorrect String-handling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "_OLz-J0AAAAJ:LkGwnXOMwfcC",
+            "authors": "A Dhar, R Purandare, M Dhawan, S Rangaswamy",
+            "publication": "Proceedings of the 2015 10th Joint Meeting on Foundations of Software \u2026, 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3940587972893316141",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3940587972893316141&engine=google_scholar&hl=en",
+                "cites_id": "3940587972893316141"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Monitoring finite state properties: Algorithmic approaches and their relative strengths",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "_OLz-J0AAAAJ:2osOgNQ5qMEC",
+            "authors": "R Purandare, MB Dwyer, S Elbaum",
+            "publication": "International Conference on Runtime Verification, 381-395, 2011",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10295377527822259019",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10295377527822259019&engine=google_scholar&hl=en",
+                "cites_id": "10295377527822259019"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Including everyone, everywhere: Understanding opportunities and challenges of geographic gender-inclusion in oss",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:-f6ydRqryjwC",
+            "citation_id": "_OLz-J0AAAAJ:-f6ydRqryjwC",
+            "authors": "GAA Prana, D Ford, A Rastogi, D Lo, R Purandare, N Nagappan",
+            "publication": "IEEE Transactions on Software Engineering, 2021",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16850934814596542076",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16850934814596542076&engine=google_scholar&hl=en",
+                "cites_id": "16850934814596542076"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Modeling functional similarity in source code with graph-based Siamese networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:hFOr9nPyWt4C",
+            "citation_id": "_OLz-J0AAAAJ:hFOr9nPyWt4C",
+            "authors": "N Mehrotra, N Agarwal, P Gupta, S Anand, D Lo, R Purandare",
+            "publication": "IEEE Transactions on Software Engineering, 2021",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6537686052300362243",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6537686052300362243&engine=google_scholar&hl=en",
+                "cites_id": "6537686052300362243"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Structurally heterogeneous source code examples from unstructured knowledge sources",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "_OLz-J0AAAAJ:_FxGoFyzp5QC",
+            "authors": "V Vinayakarao, R Purandare, AV Nori",
+            "publication": "Proceedings of the 2015 Workshop on Partial Evaluation and Program \u2026, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17441494255294749155",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17441494255294749155&engine=google_scholar&hl=en",
+                "cites_id": "17441494255294749155"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Chiromancer: A tool for boosting android application performance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "_OLz-J0AAAAJ:YsMSGLbcyi4C",
+            "authors": "S Anwer, A Aggarwal, R Purandare, V Naik",
+            "publication": "Proceedings of the 1st International Conference on Mobile Software \u2026, 2014",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7759076762236472524",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7759076762236472524&engine=google_scholar&hl=en",
+                "cites_id": "7759076762236472524"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Residual checking of safety properties",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:qjMakFHDy7sC",
+            "citation_id": "_OLz-J0AAAAJ:qjMakFHDy7sC",
+            "authors": "MB Dwyer, R Purandare",
+            "publication": "International SPIN Workshop on Model Checking of Software, 1-2, 2008",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7347894543908735571",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7347894543908735571&engine=google_scholar&hl=en",
+                "cites_id": "7347894543908735571"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Jcoffee: Using compiler feedback to make partial code snippets compilable",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:IWHjjKOFINEC",
+            "citation_id": "_OLz-J0AAAAJ:IWHjjKOFINEC",
+            "authors": "P Gupta, N Mehrotra, R Purandare",
+            "publication": "2020 IEEE International Conference on Software Maintenance and Evolution \u2026, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10056263364534010247",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10056263364534010247&engine=google_scholar&hl=en",
+                "cites_id": "10056263364534010247"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "REVERT: runtime verification for real-time systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:5nxA0vEk-isC",
+            "citation_id": "_OLz-J0AAAAJ:5nxA0vEk-isC",
+            "authors": "S Kochanthara, R Purandare",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17458248006428395072",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17458248006428395072&engine=google_scholar&hl=en",
+                "cites_id": "17458248006428395072"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Exploiting program and property structure for efficient runtime monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "_OLz-J0AAAAJ:UeHWp8X0CEIC",
+            "authors": "RA Purandare",
+            "publication": "The University of Nebraska-Lincoln, 2011",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9684320808444085922",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9684320808444085922&engine=google_scholar&hl=en",
+                "cites_id": "9684320808444085922"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Similarities across libraries: Making a case for leveraging test suites",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:aqlVkmm33-oC",
+            "citation_id": "_OLz-J0AAAAJ:aqlVkmm33-oC",
+            "authors": "D Sondhi, D Rani, R Purandare",
+            "publication": "2019 12th IEEE Conference on Software Testing, Validation and Verification \u2026, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6791909512593419576",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6791909512593419576&engine=google_scholar&hl=en",
+                "cites_id": "6791909512593419576"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A search system for mathematical expressions on software binaries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:Zph67rFs4hoC",
+            "citation_id": "_OLz-J0AAAAJ:Zph67rFs4hoC",
+            "authors": "R Jain, S Prathik, V Vinayakarao, R Purandare",
+            "publication": "2018 IEEE/ACM 15th International Conference on Mining Software Repositories \u2026, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5374762223785535996",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5374762223785535996&engine=google_scholar&hl=en",
+                "cites_id": "5374762223785535996"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Dataset to study indirectly dependent documentation in GitHub repositories",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "_OLz-J0AAAAJ:e5wmG9Sq2KIC",
+            "authors": "D Sondhi, A Gupta, S Purandare, A Rana, D Kaushal, R Purandare",
+            "publication": "2021 IEEE/ACM 43rd International Conference on Software Engineering \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6293238894137841211",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6293238894137841211&engine=google_scholar&hl=en",
+                "cites_id": "6293238894137841211"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Mining Similar Methods for Test Adaptation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:HDshCWvjkbEC",
+            "citation_id": "_OLz-J0AAAAJ:HDshCWvjkbEC",
+            "authors": "D Sondhi, M Jobanputra, D Rani, S Purandare, S Sharma, R Purandare",
+            "publication": "IEEE Transactions on Software Engineering, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12161362061506852438",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12161362061506852438&engine=google_scholar&hl=en",
+                "cites_id": "12161362061506852438"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "METIS: Resource and Context-Aware Monitoring of Finite State Properties",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "_OLz-J0AAAAJ:M3ejUd6NZC8C",
+            "authors": "G Allabadi, A Dhar, A Bashir, R Purandare",
+            "publication": "International Conference on Runtime Verification, 167-186, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2021228876979892926",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2021228876979892926&engine=google_scholar&hl=en",
+                "cites_id": "2021228876979892926"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "REVERT: A Monitor Generation Tool for Real-Time Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:8k81kl-MbHgC",
+            "citation_id": "_OLz-J0AAAAJ:8k81kl-MbHgC",
+            "authors": "S Kochanthara, G Nelissen, D Pereira, R Purandare",
+            "publication": "IEEE Real-Time Systems Symposium, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14547351048268733868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14547351048268733868&engine=google_scholar&hl=en",
+                "cites_id": "14547351048268733868"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Distributed Finite-State Runtime Monitoring with Aggregated Events",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "_OLz-J0AAAAJ:Y0pCki6q_DkC",
+            "authors": "K Falzon, E Bodden, R Purandare",
+            "publication": "International Conference on Runtime Verification, 94-111, 2013",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8142524781333318227",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8142524781333318227&engine=google_scholar&hl=en",
+                "cites_id": "8142524781333318227"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "BiRD: Race Detection in Software Binaries under Relaxed Memory Models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:j3f4tGmQtD8C",
+            "citation_id": "_OLz-J0AAAAJ:j3f4tGmQtD8C",
+            "authors": "R Jain, R Purandare, S Sharma",
+            "publication": "ACM Transactions on Software Engineering and Methodology, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "On Indirectly Dependent Documentation in the Context of Code Evolution: A Study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:TQgYirikUcIC",
+            "citation_id": "_OLz-J0AAAAJ:TQgYirikUcIC",
+            "authors": "D Sondhi, A Gupta, S Purandare, A Rana, D Kaushal, R Purandare",
+            "publication": "2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Synthesizing Multi-threaded Tests from Sequential Traces to Detect Communication Deadlocks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:RHpTSmoSYBkC",
+            "citation_id": "_OLz-J0AAAAJ:RHpTSmoSYBkC",
+            "authors": "D Khanna, R Purandare, S Sharma",
+            "publication": "2021 14th IEEE Conference on Software Testing, Verification and Validation \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Leveraging the external resources and meta-data to highlight the gap between a programs\u2019s implementation and its documentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:4JMBOYKVnBMC",
+            "citation_id": "_OLz-J0AAAAJ:4JMBOYKVnBMC",
+            "authors": "D Sondhi, R Purandare",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Including Everyone, Everywhere: Understanding Opportunities and Challenges of Geographic Gender-Inclusion in OSS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:hC7cP41nSMkC",
+            "citation_id": "_OLz-J0AAAAJ:hC7cP41nSMkC",
+            "authors": "G Artha Azriadi Prana, D Ford, A Rastogi, D Lo, R Purandare, ...",
+            "publication": "arXiv e-prints, arXiv: 2010.00822, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Verifying and Testing Concurrent Programs using Constraint Solver based Approaches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:qUcmZB5y_30C",
+            "citation_id": "_OLz-J0AAAAJ:qUcmZB5y_30C",
+            "authors": "D Khanna, R Purandare, S Sharma",
+            "publication": "2020 IEEE International Conference on Software Maintenance and Evolution \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Replacements and Replaceables: Making the Case for Code Variants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:ZeXyd9-uunAC",
+            "citation_id": "_OLz-J0AAAAJ:ZeXyd9-uunAC",
+            "authors": "V Vinayakarao, D Sondhi, S Keswani, R Purandare, A Sarma",
+            "publication": "arXiv preprint arXiv:2006.03844, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Scalable and accurate detection of semantic clones",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "_OLz-J0AAAAJ:_Qo2XoVZTnwC",
+            "authors": "N Agarwal, R Purandare",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Optimal Runtime Verification of Finite State Properties over Lossy Event Streams",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:L8Ckcad2t8MC",
+            "citation_id": "_OLz-J0AAAAJ:L8Ckcad2t8MC",
+            "authors": "P Kushwaha, R Purandare, MB Dwyer",
+            "publication": "arXiv preprint arXiv:2004.04214, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "SWaP: meta analysis of static analyzer reports for accurate warning prioritization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:R3hNpaxXUhUC",
+            "citation_id": "_OLz-J0AAAAJ:R3hNpaxXUhUC",
+            "authors": "K Yadav, R Purandare",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A report on 1st Software Engineering Research in India Update Meeting (SERI 2019)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:7PzlFSSx8tAC",
+            "citation_id": "_OLz-J0AAAAJ:7PzlFSSx8tAC",
+            "authors": "SA Karre, L Mohan, YR Raghu Reddy, KV Raghavan, RD Naik, ...",
+            "publication": "ACM SIGSOFT Software Engineering Notes 44 (3), 41-42, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Segate: unveiling semantic inconsistencies between code and specification of string inputs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "_OLz-J0AAAAJ:Wp0gIr-vW9MC",
+            "authors": "D Sondhi, R Purandare",
+            "publication": "2019 34th IEEE/ACM International Conference on Automated Software \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "PROCEEDINGS-2019 34TH IEEE/ACM INTERNATIONAL CONFERENCE ON AUTOMATED SOFTWARE ENGINEERING, ASE 2019",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:mB3voiENLucC",
+            "citation_id": "_OLz-J0AAAAJ:mB3voiENLucC",
+            "authors": "D Sondhi, R Purandare, D Stepanov, M Akhin, M Belyaev, H Zhang, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Code variants and their retrieval using knowledge discovery based approaches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:_kc_bZDykSQC",
+            "citation_id": "_OLz-J0AAAAJ:_kc_bZDykSQC",
+            "authors": "V Vinayakarao, R Purandare",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Improving memory utiliza-tion and security of software applications by performing static program analysis and program transformation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:4TOpqqG69KYC",
+            "citation_id": "_OLz-J0AAAAJ:4TOpqqG69KYC",
+            "authors": "V Khilariwal, R Purandare",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Test reduction based automated grading and feedback using pathClasses",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:0EnyYjriUFMC",
+            "citation_id": "_OLz-J0AAAAJ:0EnyYjriUFMC",
+            "authors": "Y Kumari, R Purandare",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "KIRKE: Re-engineering of Web Applications to Mobile Apps",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:3fE2CSJIrl8C",
+            "citation_id": "_OLz-J0AAAAJ:3fE2CSJIrl8C",
+            "authors": "R Mehra, V Naik, R Purandare, K Malik",
+            "publication": "Proceedings of the 13th International Conference on Mobile and Ubiquitous \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "SOS: save our object space",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:WF5omc3nYNoC",
+            "citation_id": "_OLz-J0AAAAJ:WF5omc3nYNoC",
+            "authors": "A Aggarwal, R Purandare",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "R3: reduce, reuse and recycle",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:eQOLeE2rZwMC",
+            "citation_id": "_OLz-J0AAAAJ:eQOLeE2rZwMC",
+            "authors": "S Anwer, R Purandare",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Program Committee of ICSE-NIER 2019",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:4DMP91E08xMC",
+            "citation_id": "_OLz-J0AAAAJ:4DMP91E08xMC",
+            "authors": "I Ahmed, H Bagheri, X Bai, MB UNIRIO, P Borba, Y Cai, M Cohen, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Dalal Alrajeh",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "_OLz-J0AAAAJ:qxL8FJ1GzNcC",
+            "authors": "M ter Beek, D Bianculli, S Bliudze, A Bollin, EB Johnsen, N Day, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Demonstrations Co-Chairs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:KlAtU1dfN6UC",
+            "citation_id": "_OLz-J0AAAAJ:KlAtU1dfN6UC",
+            "authors": "N D\u2019Ippolito, A Kanade, E Barr, D Beyer, JC Moreno, N Esfahani, R Gheyi, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "ICSE 2016",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_OLz-J0AAAAJ&pagesize=100&citation_for_view=_OLz-J0AAAAJ:kNdYIx-mwKoC",
+            "citation_id": "_OLz-J0AAAAJ:kNdYIx-mwKoC",
+            "authors": "A Nori, Y Cai, A Albarghouthi, J Garcia, M Gligoric, J Gray, A Kanade, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 392,
+                    "since_2017": 180
+                }
+            },
+            {
+                "h_index": {
+                    "all": 11,
+                    "since_2017": 9
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 12,
+                    "since_2017": 9
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2007,
+                "citations": 11
+            },
+            {
+                "year": 2008,
+                "citations": 15
+            },
+            {
+                "year": 2009,
+                "citations": 20
+            },
+            {
+                "year": 2010,
+                "citations": 30
+            },
+            {
+                "year": 2011,
+                "citations": 27
+            },
+            {
+                "year": 2012,
+                "citations": 30
+            },
+            {
+                "year": 2013,
+                "citations": 23
+            },
+            {
+                "year": 2014,
+                "citations": 20
+            },
+            {
+                "year": 2015,
+                "citations": 16
+            },
+            {
+                "year": 2016,
+                "citations": 18
+            },
+            {
+                "year": 2017,
+                "citations": 18
+            },
+            {
+                "year": 2018,
+                "citations": 27
+            },
+            {
+                "year": 2019,
+                "citations": 29
+            },
+            {
+                "year": 2020,
+                "citations": 45
+            },
+            {
+                "year": 2021,
+                "citations": 46
+            },
+            {
+                "year": 2022,
+                "citations": 15
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=_OLz-J0AAAAJ",
+        "available": 6,
+        "not_available": 3
+    },
+    "co_authors": [
+        {
+            "name": "Matthew Dwyer",
+            "link": "https://scholar.google.com/citations?user=-ZRKCcEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-ZRKCcEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-ZRKCcEAAAAJ",
+            "affiliations": "University of Virginia",
+            "email": "Verified email at virginia.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-ZRKCcEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sebastian Elbaum",
+            "link": "https://scholar.google.com/citations?user=swPW5FYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=swPW5FYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "swPW5FYAAAAJ",
+            "affiliations": "Professor of Computer Science, University of Virginia",
+            "email": "Verified email at virginia.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=swPW5FYAAAAJ&citpid=4"
+        },
+        {
+            "name": "Venkatesh Vinayakarao",
+            "link": "https://scholar.google.com/citations?user=sCiMp5oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sCiMp5oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "sCiMp5oAAAAJ",
+            "affiliations": "Lecturer, Chennai Mathematical Institute (CMI)",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sCiMp5oAAAAJ&citpid=10"
+        },
+        {
+            "name": "Subodh Sharma",
+            "link": "https://scholar.google.com/citations?user=Xas65uoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xas65uoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xas65uoAAAAJ",
+            "affiliations": "IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xas65uoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dhriti Khanna",
+            "link": "https://scholar.google.com/citations?user=gIZKyb8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gIZKyb8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "gIZKyb8AAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gIZKyb8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Anita Sarma",
+            "link": "https://scholar.google.com/citations?user=shMjCasAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=shMjCasAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "shMjCasAAAAJ",
+            "affiliations": "Oregon State University",
+            "email": "Verified email at oregonstate.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=shMjCasAAAAJ&citpid=1"
+        },
+        {
+            "name": "Mohan Dhawan",
+            "link": "https://scholar.google.com/citations?user=KR2np-gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KR2np-gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "KR2np-gAAAAJ",
+            "affiliations": "Corelight Inc.",
+            "email": "Verified email at corelight.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KR2np-gAAAAJ&citpid=3"
+        },
+        {
+            "name": "Aritra Dhar",
+            "link": "https://scholar.google.com/citations?user=Icgn4goAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Icgn4goAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Icgn4goAAAAJ",
+            "affiliations": "Huawei Zurich Research Center",
+            "email": "Verified email at huawei.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Icgn4goAAAAJ&citpid=3"
+        },
+        {
+            "name": "C\u00e9sar Rodr\u00edguez",
+            "link": "https://scholar.google.com/citations?user=yAKKfj0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yAKKfj0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yAKKfj0AAAAJ",
+            "affiliations": "Diffblue, Oxford, UK & Associate Professor, University of Paris 13, France",
+            "email": "Verified email at lipn.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yAKKfj0AAAAJ&citpid=6"
+        },
+        {
+            "name": "Aditya Nori",
+            "link": "https://scholar.google.com/citations?user=qXTt3dUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qXTt3dUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qXTt3dUAAAAJ",
+            "affiliations": "Microsoft Research",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qXTt3dUAAAAJ&citpid=8"
+        },
+        {
+            "name": "Sukrit Kalra",
+            "link": "https://scholar.google.com/citations?user=QXTHX0kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QXTHX0kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QXTHX0kAAAAJ",
+            "affiliations": "Ph.D. Student, UC Berkeley",
+            "email": "Verified email at eecs.berkeley.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QXTHX0kAAAAJ&citpid=2"
+        },
+        {
+            "name": "Vinayak Naik",
+            "link": "https://scholar.google.com/citations?user=HF7IPeQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HF7IPeQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HF7IPeQAAAAJ",
+            "affiliations": "Head of CS Dept, Head of Computing Center, Professor of CS, and Professor in APPCAIR at BITS Pilani",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HF7IPeQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ridhi Jain",
+            "link": "https://scholar.google.com/citations?user=yR7s53UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yR7s53UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yR7s53UAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yR7s53UAAAAJ&citpid=2"
+        },
+        {
+            "name": "Eric Bodden",
+            "link": "https://scholar.google.com/citations?user=Kr7kPfAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Kr7kPfAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Kr7kPfAAAAAJ",
+            "affiliations": "Professor for Software Engineering at Heinz Nixdorf Institute, Paderborn University & Fraunhofer IEM",
+            "email": "Verified email at uni-paderborn.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Kr7kPfAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Geoffrey Nelissen",
+            "link": "https://scholar.google.com/citations?user=ZmhqeSMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZmhqeSMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ZmhqeSMAAAAJ",
+            "affiliations": "Eindhoven University of Technology",
+            "email": "Verified email at tue.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZmhqeSMAAAAJ&citpid=6"
+        },
+        {
+            "name": "David Pereira",
+            "link": "https://scholar.google.com/citations?user=Xmuoc_IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xmuoc_IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xmuoc_IAAAAJ",
+            "affiliations": "Research Associate, CISTER",
+            "email": "Verified email at isep.ipp.pt",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Rohit Mehra",
+            "link": "https://scholar.google.com/citations?user=cXANqNEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cXANqNEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cXANqNEAAAAJ",
+            "affiliations": "Accenture Labs",
+            "email": "Verified email at accenture.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cXANqNEAAAAJ&citpid=4"
+        }
+    ]
+}
