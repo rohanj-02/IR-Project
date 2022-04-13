@@ -1,0 +1,746 @@
+{
+    "search_metadata": {
+        "id": "62574c9147ccf13f4a2b0301",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/33f087edc921cf21/62574c9147ccf13f4a2b0301.json",
+        "created_at": "2022-04-13 22:20:01 UTC",
+        "processed_at": "2022-04-13 22:20:01 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=OBn0xd8AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/33f087edc921cf21/62574c9147ccf13f4a2b0301.html",
+        "total_time_taken": 0.83
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "OBn0xd8AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Alexander Fell",
+        "affiliations": "Singapore Institute of Technology",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.singaporetech.edu.sg/directory/faculty/alexander-fell",
+        "interests": [
+            {
+                "title": "Coarse Grain Reconfigurable Architectures (CGRAs)",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:coarse_grain_reconfigurable_architectures_cgras",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acoarse_grain_reconfigurable_architectures_cgras"
+            },
+            {
+                "title": "Network-on-Chip",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_on_chip",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_on_chip"
+            },
+            {
+                "title": "Embedded Systems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:embedded_systems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aembedded_systems"
+            },
+            {
+                "title": "FPGAs",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:fpgas",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afpgas"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OBn0xd8AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Redefine: Runtime reconfigurable polymorphic asic",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "OBn0xd8AAAAJ:2osOgNQ5qMEC",
+            "authors": "M Alle, K Varadarajan, A Fell, N Joseph, S Das, P Biswas, J Chetia, A Rao, ...",
+            "publication": "ACM Transactions on Embedded Computing Systems (TECS) 9 (2), 1-48, 2009",
+            "cited_by": {
+                "value": 65,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11724137782749307381",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11724137782749307381&engine=google_scholar&hl=en",
+                "cites_id": "11724137782749307381"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "Force-directed scheduling for data flow graph mapping on coarse-grained reconfigurable architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "OBn0xd8AAAAJ:YsMSGLbcyi4C",
+            "authors": "A Fell, ZE R\u00e1kossy, A Chattopadhyay",
+            "publication": "2014 International Conference on ReConFigurable Computing and FPGAs \u2026, 2014",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12342031390050575098",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12342031390050575098&engine=google_scholar&hl=en",
+                "cites_id": "12342031390050575098"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Compiling techniques for coarse grained runtime reconfigurable architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "OBn0xd8AAAAJ:u-x6o8ySG0sC",
+            "authors": "M Alle, K Varadarajan, A Fell, SK Nandy, R Narayan",
+            "publication": "International Workshop on Applied Reconfigurable Computing, 204-215, 2009",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=811805216541077684",
+                "serpapi_link": "https://serpapi.com/search.json?cites=811805216541077684&engine=google_scholar&hl=en",
+                "cites_id": "811805216541077684"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "RECONNECT: A NoC for polymorphic ASICs using a low overhead single cycle router",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "OBn0xd8AAAAJ:u5HHmVD_uO8C",
+            "authors": "J Nimmy, CR Reddy, K Varadarajan, M Alle, A Fell, SK Nandy, R Narayan",
+            "publication": "2008 International Conference on Application-Specific Systems, Architectures \u2026, 2008",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16382548281331707451",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16382548281331707451&engine=google_scholar&hl=en",
+                "cites_id": "16382548281331707451"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Synthesis of application accelerators on runtime reconfigurable hardware",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "OBn0xd8AAAAJ:d1gkVwhDpl0C",
+            "authors": "M Alle, K Varadarajan, RC Ramesh, J Nimmy, A Fell, A Rao, SK Nandy, ...",
+            "publication": "2008 International Conference on Application-Specific Systems, Architectures \u2026, 2008",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7408412552494021507",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7408412552494021507&engine=google_scholar&hl=en",
+                "cites_id": "7408412552494021507"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Generic routing rules and a scalable access enhancement for the network-on-chip reconnect",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "OBn0xd8AAAAJ:UeHWp8X0CEIC",
+            "authors": "A Fell, P Biswas, J Chetia, SK Nandy, R Narayan",
+            "publication": "2009 IEEE International SOC Conference (SOCC), 251-254, 2009",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9272085082773350129",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9272085082773350129&engine=google_scholar&hl=en",
+                "cites_id": "9272085082773350129"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "Streaming fft on redefine-v2: an application-architecture design space exploration",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:qjMakFHDy7sC",
+            "citation_id": "OBn0xd8AAAAJ:qjMakFHDy7sC",
+            "authors": "A Fell, M Alle, K Varadarajan, P Biswas, S Das, J Chetia, SK Nandy, ...",
+            "publication": "Proceedings of the 2009 international conference on Compilers, architecture \u2026, 2009",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18429416262824245656",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18429416262824245656&engine=google_scholar&hl=en",
+                "cites_id": "18429416262824245656"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "RRC, N",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:mVmsd5A6BfQC",
+            "citation_id": "OBn0xd8AAAAJ:mVmsd5A6BfQC",
+            "authors": "M Alle, K Varadarajan, A Fell",
+            "publication": "Joseph, S. Das, P. Biswas, J. Chetia, A. Rao, SK Nandy, and R. Narayan \u2026, 2009",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2453088987581001977",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2453088987581001977&engine=google_scholar&hl=en",
+                "cites_id": "2453088987581001977"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "TAD: time side-channel attack defense of obfuscated source code",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "OBn0xd8AAAAJ:Wp0gIr-vW9MC",
+            "authors": "A Fell, HT Pham, SK Lam",
+            "publication": "Proceedings of the 24th Asia and South Pacific Design Automation Conference \u2026, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3024035065576188372",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3024035065576188372&engine=google_scholar&hl=en",
+                "cites_id": "3024035065576188372"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "DFGenTool: A dataflow graph generation tool for coarse grain reconfigurable architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:_kc_bZDykSQC",
+            "citation_id": "OBn0xd8AAAAJ:_kc_bZDykSQC",
+            "authors": "M Mukherjee, A Fell, A Guha",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1571722846158226455",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1571722846158226455&engine=google_scholar&hl=en",
+                "cites_id": "1571722846158226455"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Method and System on Chip (SoC) for Adapting a Reconfigurable Hardware for an Application at Runtime",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "OBn0xd8AAAAJ:zYLM7Y9cAGgC",
+            "authors": "SK Nandy, R Narayan, M Alle, K Vardarajan, A Fell, A Rao, R Reddy, ...",
+            "publication": "US Patent App. 13/002,329, 2011",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13993703906792976724",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13993703906792976724&engine=google_scholar&hl=en",
+                "cites_id": "13993703906792976724"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Ramesh Reddy C., Nimmy Joseph, Saptarsi Das, Prasenjit Biswas, Jugantor Chetia, Adarsh Rao, SK Nandy, and Ranjani Narayan. REDEFINE: Runtime reconfigurable polymorphic ASIC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "OBn0xd8AAAAJ:9yKSN-GCB0IC",
+            "authors": "M Alle, K Varadarajan, A Fell",
+            "publication": "ACM Transactions on Embedded Computing Systems 9 (2), 11, 2009",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9543361340911724337",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9543361340911724337&engine=google_scholar&hl=en",
+                "cites_id": "9543361340911724337"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "A 6T SRAM cell based pipelined 2R/1W memory design using 28nm UTBB-FDSOI",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:0EnyYjriUFMC",
+            "citation_id": "OBn0xd8AAAAJ:0EnyYjriUFMC",
+            "authors": "R Kaur, A Fell, H Rawat",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 310-315, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18349514998017255119",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18349514998017255119&engine=google_scholar&hl=en",
+                "cites_id": "18349514998017255119"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "RECONNECT: A flexible Router Architecture for Network-on-Chips",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "OBn0xd8AAAAJ:IjCSPb-OGe4C",
+            "authors": "A Fell",
+            "publication": "Indian Institute of Science Bangalore, 2012",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9617525109270298084",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9617525109270298084&engine=google_scholar&hl=en",
+                "cites_id": "9617525109270298084"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Mythri Alle, Keshavan Varadarajan, Prasenjit Biswas, Saptarsi Das, Jugantor Chetia, SK Nandy, and Ranjani Narayan. Streaming fft on redefine-v2: an application-architecture \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:qUcmZB5y_30C",
+            "citation_id": "OBn0xd8AAAAJ:qUcmZB5y_30C",
+            "authors": "A Fell",
+            "publication": "CASES 9, 127-136, 0",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2894242980822195576",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2894242980822195576&engine=google_scholar&hl=en",
+                "cites_id": "2894242980822195576"
+            },
+            "year": ""
+        },
+        {
+            "title": "Executable model based design methodology for fast prototyping of mobile network protocol: A case study on MIPI LLI",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "OBn0xd8AAAAJ:_FxGoFyzp5QC",
+            "authors": "RK Shah, T Kumar, A Fell, MS Dohadwala, R Malik",
+            "publication": "2017 4th International Conference on Signal Processing and Integrated \u2026, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15012572540703022736",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15012572540703022736&engine=google_scholar&hl=en",
+                "cites_id": "15012572540703022736"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Symmetric -Means for Deep Neural Network Compression and Hardware Acceleration on FPGAs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:hC7cP41nSMkC",
+            "citation_id": "OBn0xd8AAAAJ:hC7cP41nSMkC",
+            "authors": "A Jain, P Goel, S Aggarwal, A Fell, S Anand",
+            "publication": "IEEE Journal of Selected Topics in Signal Processing 14 (4), 737-749, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=89296723571246178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=89296723571246178&engine=google_scholar&hl=en",
+                "cites_id": "89296723571246178"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Cidpro: Custom instructions for dynamic program diversification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:4DMP91E08xMC",
+            "citation_id": "OBn0xd8AAAAJ:4DMP91E08xMC",
+            "authors": "TH Pham, A Fell, AK Biswas, SK Lam, N Veeranna",
+            "publication": "2018 28th International Conference on Field Programmable Logic and \u2026, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=837953546479690186",
+                "serpapi_link": "https://serpapi.com/search.json?cites=837953546479690186&engine=google_scholar&hl=en",
+                "cites_id": "837953546479690186"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Floorplan and congestion aware framework for optimal SRAM selection for memory subsystems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "OBn0xd8AAAAJ:hqOjcs7Dif8C",
+            "authors": "G Narang, A Fell, PR Gupta, A Grover",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 105-110, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1012808776386343674",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1012808776386343674&engine=google_scholar&hl=en",
+                "cites_id": "1012808776386343674"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Coyote: An Open Source Simulation Tool to Enable RISC-V in HPC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "OBn0xd8AAAAJ:_Qo2XoVZTnwC",
+            "authors": "B Perez, A Fell, JD Davis",
+            "publication": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE), 130-135, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13223104748942030517",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13223104748942030517&engine=google_scholar&hl=en",
+                "cites_id": "13223104748942030517"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Computer program code obfuscation methods and systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:-f6ydRqryjwC",
+            "citation_id": "OBn0xd8AAAAJ:-f6ydRqryjwC",
+            "authors": "SK Lam, HT Pham, A Fell, V Nandeesha",
+            "publication": "US Patent App. 16/677,660, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11123516998788055205",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11123516998788055205&engine=google_scholar&hl=en",
+                "cites_id": "11123516998788055205"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A Parallel Architecture for High Frame Rate Stereo using Semi-Global Matching.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "OBn0xd8AAAAJ:qxL8FJ1GzNcC",
+            "authors": "A Jain, A Fell, S Anand",
+            "publication": "BMVC, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13314800770213619010",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13314800770213619010&engine=google_scholar&hl=en",
+                "cites_id": "13314800770213619010"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Automated, inter-macro channel space adjustment and optimization for faster design closure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:ULOm3_A8WrAC",
+            "citation_id": "OBn0xd8AAAAJ:ULOm3_A8WrAC",
+            "authors": "P Kumar, A Fell, S Mathur",
+            "publication": "2017 30th IEEE International System-on-Chip Conference (SOCC), 74-79, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15340626602913058792",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15340626602913058792&engine=google_scholar&hl=en",
+                "cites_id": "15340626602913058792"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "XMAT: A 6T XOR-MAT based 2R-1W SRAM for high bandwidth network applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:roLk4NBRz8UC",
+            "citation_id": "OBn0xd8AAAAJ:roLk4NBRz8UC",
+            "authors": "R Kaur, A Fell",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=452606715614366079",
+                "serpapi_link": "https://serpapi.com/search.json?cites=452606715614366079&engine=google_scholar&hl=en",
+                "cites_id": "452606715614366079"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Novel P-Skip determination algorithm without the reference frame",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:4TOpqqG69KYC",
+            "citation_id": "OBn0xd8AAAAJ:4TOpqqG69KYC",
+            "authors": "N Chitkara, A Fell",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4245949886768520348",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4245949886768520348&engine=google_scholar&hl=en",
+                "cites_id": "4245949886768520348"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Method and System on Chip (SoC) for Adapting a Reconfigurable Hardware for an Application in Runtime",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:ufrVoPGSRksC",
+            "citation_id": "OBn0xd8AAAAJ:ufrVoPGSRksC",
+            "authors": "SK Nandy, R Narayan, M Alle, K Vardarajan, A Fell",
+            "publication": "US Patent App. 14/639,141, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10483006737828811866",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10483006737828811866&engine=google_scholar&hl=en",
+                "cites_id": "10483006737828811866"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A deterministic, minimal routing algorithm for a toroidal, rectangular honeycomb topology using a 2-tupled relative address",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:UebtZRa9Y70C",
+            "citation_id": "OBn0xd8AAAAJ:UebtZRa9Y70C",
+            "authors": "A Fell, SK Nandy, R Narayan",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 191-196, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13042837551668318778",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13042837551668318778&engine=google_scholar&hl=en",
+                "cites_id": "13042837551668318778"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Executable model based design methodology for fast prototyping of mobile network protocol: a case study on mipi lli",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:hFOr9nPyWt4C",
+            "citation_id": "OBn0xd8AAAAJ:hFOr9nPyWt4C",
+            "authors": "RK Shah, A Fell",
+            "publication": "IIIT Delhi, 2014",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2906704153605810578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2906704153605810578&engine=google_scholar&hl=en",
+                "cites_id": "2906704153605810578"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:RHpTSmoSYBkC",
+            "citation_id": "OBn0xd8AAAAJ:RHpTSmoSYBkC",
+            "authors": "TH Pham, B Marshall, A Fell, SK Lam, D Page",
+            "publication": "2021 IEEE 32nd International Conference on Application-specific Systems \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "The MareNostrum Experimental Exascale Platform (MEEP)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:HDshCWvjkbEC",
+            "citation_id": "OBn0xd8AAAAJ:HDshCWvjkbEC",
+            "authors": "A Fell, DJ Mazure, TC Garcia, B Perez, X Teruel, P Wilson, JD Davis",
+            "publication": "Supercomputing Frontiers and Innovations 8 (1), 62-81, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Time Side-Channel Attack Defense of Obfuscated Source Code",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:L8Ckcad2t8MC",
+            "citation_id": "OBn0xd8AAAAJ:L8Ckcad2t8MC",
+            "authors": "A Fell, T Hung, SKL Pham",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Asynchronous 1R-1W dual-port SRAM by using single-port SRAM in 28nm UTBB-FDSOI technology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:aqlVkmm33-oC",
+            "citation_id": "OBn0xd8AAAAJ:aqlVkmm33-oC",
+            "authors": "H Rawat, K Bharath, A Fell",
+            "publication": "2017 30th IEEE International System-on-Chip Conference (SOCC), 1-6, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "A framework for video coding analyzer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:YOwf2qJgpHMC",
+            "citation_id": "OBn0xd8AAAAJ:YOwf2qJgpHMC",
+            "authors": "S Jain, A Fell, AS Motra",
+            "publication": "2016 IEEE Annual India Conference (INDICON), 1-6, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Asynchronous 1R-1W dual-port SRAM by using single-port SRAM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "OBn0xd8AAAAJ:M3ejUd6NZC8C",
+            "authors": "K Bharath, A Fell",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Floorplan aware framework for optimal SRAM selection for memory subsystems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Se3iqnhoufwC",
+            "citation_id": "OBn0xd8AAAAJ:Se3iqnhoufwC",
+            "authors": "G Narang, A Fell",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Methodological framework for automation of hardware software co-validation of an IP",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "OBn0xd8AAAAJ:LkGwnXOMwfcC",
+            "authors": "A Jain, A Fell",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Technical demonstrations session",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:ZeXyd9-uunAC",
+            "citation_id": "OBn0xd8AAAAJ:ZeXyd9-uunAC",
+            "authors": "S Gao, J Watson, HA Andrade, S Skalicky, AG Schmidt, EGT Bostelmann, ...",
+            "publication": "2014 International Conference on ReConFigurable Computing and FPGAs \u2026, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Method and system on chip (SoC) for adapting a runtime reconfigurable hardware to decode a video stream",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "OBn0xd8AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "SK Nandy, R Narayan, M Alle, K Vardarajan, A Fell, A Rao, R Reddy, ...",
+            "publication": "US Patent 8,891,614, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Article 11 (48 pages): REDEFINE: Runtime Reconfigurable Polymorphic ASIC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "OBn0xd8AAAAJ:Y0pCki6q_DkC",
+            "authors": "M Alle, K Varadarajan, A Fell, R Reddy C, N Joseph, S Das, P Biswas, ...",
+            "publication": "ACM Transactions on Embedded Computer Systems 9 (2), 2010",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "PISA",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "OBn0xd8AAAAJ:W7OEmFMy1HYC",
+            "authors": "A FELL",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP)| 978-1-6654-2701-2/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109/ASAP52443 \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:4JMBOYKVnBMC",
+            "citation_id": "OBn0xd8AAAAJ:4JMBOYKVnBMC",
+            "authors": "T Aarrestad, S Agarwal, NB Agostini, V Amatya, J Anderson, C Axenie, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "At the conclusion of the third volume, too, the Editors would like to express their gratitude for the support they got in the evaluation of research papers submitted for \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:TQgYirikUcIC",
+            "citation_id": "OBn0xd8AAAAJ:TQgYirikUcIC",
+            "authors": "EJ Baum, JJ Beauchamp, JC Bezdek, L Borgman, J Breen, WH Chan, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Technical Program Committee of CyberSciTech 2020",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:mB3voiENLucC",
+            "citation_id": "OBn0xd8AAAAJ:mB3voiENLucC",
+            "authors": "D Gligoroski, M Garau, D Palma, R Olimid, N Amelina, N Mital, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "2017 4th International Conference on Signal Processing and Integrated Networks (SPIN) 2-3 February 2017, Noida, India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:IWHjjKOFINEC",
+            "citation_id": "OBn0xd8AAAAJ:IWHjjKOFINEC",
+            "authors": "A Roy, A Kumar, A Swarnkar, AK Verma, A Venkatesan, AG Mir, A Gupta, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "List of External Reviewers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:7PzlFSSx8tAC",
+            "citation_id": "OBn0xd8AAAAJ:7PzlFSSx8tAC",
+            "authors": "S Mallala, K Karanjkar, A Fell, W Meiqing, KB Herath, S Behroozi, Y Lee, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Network on Chip Routers in a Dual Honeycomb Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:QIV2ME_5wuYC",
+            "citation_id": "OBn0xd8AAAAJ:QIV2ME_5wuYC",
+            "authors": "A FELL",
+            "publication": "Fachhochschule K\u00f6ln, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "REDEFINE: Optimizations for Achieving High Throughput",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "OBn0xd8AAAAJ:MXK_kJrjxJIC",
+            "authors": "K Varadarajan, G Garga, M Alle, A Fell, R Narayan, SK Nandy",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 265,
+                    "since_2017": 101
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 8,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2008,
+                "citations": 3
+            },
+            {
+                "year": 2009,
+                "citations": 29
+            },
+            {
+                "year": 2010,
+                "citations": 24
+            },
+            {
+                "year": 2011,
+                "citations": 15
+            },
+            {
+                "year": 2012,
+                "citations": 8
+            },
+            {
+                "year": 2013,
+                "citations": 11
+            },
+            {
+                "year": 2014,
+                "citations": 23
+            },
+            {
+                "year": 2015,
+                "citations": 21
+            },
+            {
+                "year": 2016,
+                "citations": 25
+            },
+            {
+                "year": 2017,
+                "citations": 18
+            },
+            {
+                "year": 2018,
+                "citations": 20
+            },
+            {
+                "year": 2019,
+                "citations": 19
+            },
+            {
+                "year": 2020,
+                "citations": 19
+            },
+            {
+                "year": 2021,
+                "citations": 21
+            },
+            {
+                "year": 2022,
+                "citations": 3
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=OBn0xd8AAAAJ",
+        "available": 4,
+        "not_available": 0
+    }
+}

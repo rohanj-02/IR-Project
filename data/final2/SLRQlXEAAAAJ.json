@@ -1,0 +1,352 @@
+{
+    "search_metadata": {
+        "id": "62574ce63bea7b309647c2cd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bad80ce026c9a968/62574ce63bea7b309647c2cd.json",
+        "created_at": "2022-04-13 22:21:26 UTC",
+        "processed_at": "2022-04-13 22:21:26 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=SLRQlXEAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/bad80ce026c9a968/62574ce63bea7b309647c2cd.html",
+        "total_time_taken": 0.44,
+        "total_articles": 10,
+        "total_co_authors": 12
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "SLRQlXEAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sarthak Bhagat",
+        "affiliations": "Deep Learning Engineer @ Preimage",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://sarthak268.github.io/",
+        "interests": [
+            {
+                "title": "Representation Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:representation_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arepresentation_learning"
+            },
+            {
+                "title": "Robotics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:robotics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arobotics"
+            },
+            {
+                "title": "Computer Vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "Self-Supervised Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:self_supervised_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aself_supervised_learning"
+            },
+            {
+                "title": "Robot Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:robot_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arobot_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SLRQlXEAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Deep Reinforcement Learning for Soft, Flexible Robots: Brief Review with Impending Challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:qjMakFHDy7sC",
+            "citation_id": "SLRQlXEAAAAJ:qjMakFHDy7sC",
+            "authors": "S Bhagat, H Banerjee, ZT Ho Tse, H Ren",
+            "publication": "Robotics 8 (1), 4, 2019",
+            "cited_by": {
+                "value": 49,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6086530294365214124,3079787957974186374,15511043596964229473",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6086530294365214124%2C3079787957974186374%2C15511043596964229473&engine=google_scholar&hl=en",
+                "cites_id": "6086530294365214124,3079787957974186374,15511043596964229473"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "SLRQlXEAAAAJ:UeHWp8X0CEIC",
+            "authors": "A Shukla, S Bhagat, S Uppal, S Anand, P Turaga",
+            "publication": "30th British Machine Vision Conference 2019, BMVC 2019, Cardiff, UK \u2026, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11603577879388626671",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11603577879388626671&engine=google_scholar&hl=en",
+                "cites_id": "11603577879388626671"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "UAV Target Tracking in Urban Environments Using Deep Reinforcement Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:roLk4NBRz8UC",
+            "citation_id": "SLRQlXEAAAAJ:roLk4NBRz8UC",
+            "authors": "S Bhagat, PB Sujit",
+            "publication": "2020 International Conference on Unmanned Aircraft Systems (ICUAS), 694-701, 2020",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14379038537202324054",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14379038537202324054&engine=google_scholar&hl=en",
+                "cites_id": "14379038537202324054"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "SLRQlXEAAAAJ:hqOjcs7Dif8C",
+            "authors": "S Bhagat, S Uppal, Z Yin, N Lim",
+            "publication": "European Conference on Computer Vision, 102-117, 2020",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16184091877881145332,6920333988879995039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16184091877881145332%2C6920333988879995039&engine=google_scholar&hl=en",
+                "cites_id": "16184091877881145332,6920333988879995039"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Geometry of Deep Generative Models for Disentangled Representations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:WF5omc3nYNoC",
+            "citation_id": "SLRQlXEAAAAJ:WF5omc3nYNoC",
+            "authors": "A Shukla, S Uppal, S Bhagat, S Anand, P Turaga",
+            "publication": "Proceedings of the 11th Indian Conference on Computer Vision, Graphics and \u2026, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10705640999146093064",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10705640999146093064&engine=google_scholar&hl=en",
+                "cites_id": "10705640999146093064"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Multimodal research in vision and language: A review of current and emerging trends",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "SLRQlXEAAAAJ:3fE2CSJIrl8C",
+            "authors": "S Uppal, S Bhagat, D Hazarika, N Majumder, S Poria, R Zimmermann, ...",
+            "publication": "Information Fusion, 2021",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16442946616890649574,15035978596004139955",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16442946616890649574%2C15035978596004139955&engine=google_scholar&hl=en",
+                "cites_id": "16442946616890649574,15035978596004139955"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "C3VQG: Category Consistent Cyclic Visual Question Generation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:8k81kl-MbHgC",
+            "citation_id": "SLRQlXEAAAAJ:8k81kl-MbHgC",
+            "authors": "S Uppal, A Madan, S Bhagat, Y Yu, RR Shah",
+            "publication": "Proceedings of the 2nd ACM International Conference on Multimedia in Asia, 1-7, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10216008434460081466",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10216008434460081466&engine=google_scholar&hl=en",
+                "cites_id": "10216008434460081466"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "DisCont: Self-Supervised Visual Attribute Disentanglement using Context Vectors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:5nxA0vEk-isC",
+            "citation_id": "SLRQlXEAAAAJ:5nxA0vEk-isC",
+            "authors": "S Bhagat, V Udandarao, S Uppal, S Anand",
+            "publication": "European Conference on Computer Vision, 549-553, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9076396352595302675",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9076396352595302675&engine=google_scholar&hl=en",
+                "cites_id": "9076396352595302675"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Target-Following Double Deep Q-Networks for UAVs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "SLRQlXEAAAAJ:MXK_kJrjxJIC",
+            "authors": "S Bhagat, PB Sujit",
+            "publication": "arXiv preprint arXiv:2105.05464, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Geometry of Neural Network based Disentangled Latent Space Models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SLRQlXEAAAAJ&pagesize=100&citation_for_view=SLRQlXEAAAAJ:0EnyYjriUFMC",
+            "citation_id": "SLRQlXEAAAAJ:0EnyYjriUFMC",
+            "authors": "S Uppal, S Bhagat",
+            "publication": "Indraprastha Institute of Information Technology, New Delhi (B.Tech Thesis), 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 119,
+                    "since_2017": 119
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 1
+            },
+            {
+                "year": 2019,
+                "citations": 7
+            },
+            {
+                "year": 2020,
+                "citations": 27
+            },
+            {
+                "year": 2021,
+                "citations": 67
+            },
+            {
+                "year": 2022,
+                "citations": 17
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=SLRQlXEAAAAJ",
+        "available": 3,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Shagun Uppal",
+            "link": "https://scholar.google.com/citations?user=cjo5X3QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cjo5X3QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cjo5X3QAAAAJ",
+            "affiliations": "Visiting Scholar @ CLVR Lab, USC | CSE Undergrad IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cjo5X3QAAAAJ&citpid=1"
+        },
+        {
+            "name": "Hritwick Banerjee",
+            "link": "https://scholar.google.com/citations?user=WIsoXsEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WIsoXsEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WIsoXsEAAAAJ",
+            "affiliations": "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL) | MPI-IS, NUS, IISc, IIT",
+            "email": "Verified email at epfl.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WIsoXsEAAAAJ&citpid=8"
+        },
+        {
+            "name": "Saket Anand",
+            "link": "https://scholar.google.com/citations?user=YmYvVEQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YmYvVEQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YmYvVEQAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YmYvVEQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Pavan Turaga",
+            "link": "https://scholar.google.com/citations?user=zJH58wkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zJH58wkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "zJH58wkAAAAJ",
+            "affiliations": "Geometric Media Lab, Arizona State University",
+            "email": "Verified email at asu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Hongliang Ren",
+            "link": "https://scholar.google.com/citations?user=rcF7N44AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rcF7N44AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rcF7N44AAAAJ",
+            "affiliations": "Chinese University of Hong Kong & National University of Singapore | JHU | Harvard | CUHK",
+            "email": "Verified email at jhu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rcF7N44AAAAJ&citpid=2"
+        },
+        {
+            "name": "Sujit PB",
+            "link": "https://scholar.google.com/citations?user=qqwyAwoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qqwyAwoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qqwyAwoAAAAJ",
+            "affiliations": "IISER Bhopal",
+            "email": "Verified email at iiserb.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Nengli Lim",
+            "link": "https://scholar.google.com/citations?user=g-MNL-oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=g-MNL-oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "g-MNL-oAAAAJ",
+            "affiliations": "Assistant Professor, Singapore University of Technology and Design",
+            "email": "Verified email at sutd.edu.sg",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Amir Zadeh",
+            "link": "https://scholar.google.com/citations?user=FfQXY34AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FfQXY34AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FfQXY34AAAAJ",
+            "affiliations": "Postdoc, Carnegie Mellon University",
+            "email": "Verified email at cs.cmu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FfQXY34AAAAJ&citpid=27"
+        },
+        {
+            "name": "Soujanya Poria",
+            "link": "https://scholar.google.com/citations?user=oS6gRc4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oS6gRc4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oS6gRc4AAAAJ",
+            "affiliations": "Assistant Professor, Singapore University of Technology and Design",
+            "email": "Verified email at sutd.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oS6gRc4AAAAJ&citpid=15"
+        },
+        {
+            "name": "Roger Zimmermann",
+            "link": "https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IDREwXEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IDREwXEAAAAJ",
+            "affiliations": "Professor of Computer Science, National University of Singapore",
+            "email": "Verified email at comp.nus.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IDREwXEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Navonil Majumder",
+            "link": "https://scholar.google.com/citations?user=jPfEvuQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jPfEvuQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "jPfEvuQAAAAJ",
+            "affiliations": "Singapore University of Technology and Design",
+            "email": "Verified email at sutd.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jPfEvuQAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        }
+    ]
+}

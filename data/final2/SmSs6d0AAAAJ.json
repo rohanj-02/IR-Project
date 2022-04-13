@@ -1,0 +1,291 @@
+{
+    "search_metadata": {
+        "id": "62574cd47690dce928a0f3b3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9ce004fc58d7f756/62574cd47690dce928a0f3b3.json",
+        "created_at": "2022-04-13 22:21:08 UTC",
+        "processed_at": "2022-04-13 22:21:08 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=SmSs6d0AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/9ce004fc58d7f756/62574cd47690dce928a0f3b3.html",
+        "total_time_taken": 0.23,
+        "total_articles": 12,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "SmSs6d0AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Shiv Gehlot",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://shivgahlout.github.io/",
+        "interests": [
+            {
+                "title": "Deep Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning"
+            },
+            {
+                "title": "Medical Imaging",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:medical_imaging",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amedical_imaging"
+            },
+            {
+                "title": "Signal Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:signal_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asignal_processing"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "GCTI-SN: Geometry-inspired chemical and tissue invariant stain normalization of microscopic medical images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "SmSs6d0AAAAJ:UeHWp8X0CEIC",
+            "authors": "A Gupta, R Duggal, S Gehlot, R Gupta, A Mangal, L Kumar, N Thakkar, ...",
+            "publication": "Medical Image Analysis 65, 101788, 2020",
+            "cited_by": {
+                "value": 35,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7794101087700496996",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7794101087700496996&engine=google_scholar&hl=en",
+                "cites_id": "7794101087700496996"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "SDCT-AuxNet\u03b8: DCT augmented stain deconvolutional CNN with auxiliary classifier for cancer diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "SmSs6d0AAAAJ:2osOgNQ5qMEC",
+            "authors": "S Gehlot, A Gupta, R Gupta",
+            "publication": "Medical Image Analysis 61, 101661, 2020",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13573594839635725566",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13573594839635725566&engine=google_scholar&hl=en",
+                "cites_id": "13573594839635725566"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "EDNFC-Net: Convolutional Neural Network with Nested Feature Concatenation for Nuclei-Instance Segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:qjMakFHDy7sC",
+            "citation_id": "SmSs6d0AAAAJ:qjMakFHDy7sC",
+            "authors": "S Gehlot, A Gupta, R Gupta",
+            "publication": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and \u2026, 2020",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10764367455211393734",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10764367455211393734&engine=google_scholar&hl=en",
+                "cites_id": "10764367455211393734"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Classification of normal vs malignant cells in B-ALL white blood cancer microscopic images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "SmSs6d0AAAAJ:YsMSGLbcyi4C",
+            "authors": "A Gupta, R Gupta, S Gehlot, S Mourya",
+            "publication": "IEEE international symposium on biomedical imaging (ISBI)-2019 challenges \u2026, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10153608076418085009",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10153608076418085009&engine=google_scholar&hl=en",
+                "cites_id": "10153608076418085009"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "SN-AM dataset: white blood cancer dataset of B-ALL and MM for stain normalization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "SmSs6d0AAAAJ:W7OEmFMy1HYC",
+            "authors": "A Gupta, R Duggal, S Gehlot, R Gupta, A Mangal, L Kumar, N Thakkar, ...",
+            "publication": "Cancer Imaging Arch, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1081931173025387419",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1081931173025387419&engine=google_scholar&hl=en",
+                "cites_id": "1081931173025387419"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "The Image Segmentation Techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "SmSs6d0AAAAJ:u-x6o8ySG0sC",
+            "authors": "S Gehlot, JD Kumar",
+            "publication": "International Journal of Image, Graphics and Signal Processing 9 (2), 9, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2142661561742811256",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2142661561742811256&engine=google_scholar&hl=en",
+                "cites_id": "2142661561742811256"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "A CNN-based unified framework utilizing projection loss in unison with label noise handling for multiple Myeloma cancer diagnosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "SmSs6d0AAAAJ:IjCSPb-OGe4C",
+            "authors": "S Gehlot, A Gupta, R Gupta",
+            "publication": "Medical image analysis 72, 102099, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7736602046083815464",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7736602046083815464&engine=google_scholar&hl=en",
+                "cites_id": "7736602046083815464"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "CT-NNBI: Method to Impute Gene Expression Data using DCT Based Sparsity and Nuclear Norm Constraint with Split Bregman Iteration",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "SmSs6d0AAAAJ:u5HHmVD_uO8C",
+            "authors": "S Gehlot, A Farswan, A Gupta, R Gupta",
+            "publication": "2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019 \u2026, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17104932976456727031",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17104932976456727031&engine=google_scholar&hl=en",
+                "cites_id": "17104932976456727031"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Self-supervision Based Dual-Transformation Learning for Stain Normalization, Classification and Segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "SmSs6d0AAAAJ:Y0pCki6q_DkC",
+            "authors": "S Gehlot, A Gupta",
+            "publication": "Machine Learning in Medical Imaging. MLMI 2021 12966, 477-486, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9203972392662816439",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9203972392662816439&engine=google_scholar&hl=en",
+                "cites_id": "9203972392662816439"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "C-NMC: B-Lineage Acute Lymphoblastic Leukaemia: A Blood Cancer Dataset",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:eQOLeE2rZwMC",
+            "citation_id": "SmSs6d0AAAAJ:eQOLeE2rZwMC",
+            "authors": "R Gupta, S Gehlot, A Gupta",
+            "publication": "Medical Engineering & Physics, 103793, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Seeking an Optimal Approach for Computer-Aided Pulmonary Embolism Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "SmSs6d0AAAAJ:zYLM7Y9cAGgC",
+            "authors": "NU Islam, S Gehlot, Z Zhou, MB Gotway, J Liang",
+            "publication": "Machine Learning in Medical Imaging. MLMI 2021. 12966, 692-702, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Two-Dimensional Parameters Estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SmSs6d0AAAAJ&pagesize=100&citation_for_view=SmSs6d0AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "SmSs6d0AAAAJ:d1gkVwhDpl0C",
+            "authors": "S Gehlot, H Parthasarathy, R Singh",
+            "publication": "International Journal of Image, Graphics and Signal Processing 8 (9), 1, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 89,
+                    "since_2017": 89
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2017,
+                "citations": 1
+            },
+            {
+                "year": 2018,
+                "citations": 1
+            },
+            {
+                "year": 2019,
+                "citations": 12
+            },
+            {
+                "year": 2020,
+                "citations": 15
+            },
+            {
+                "year": 2021,
+                "citations": 40
+            },
+            {
+                "year": 2022,
+                "citations": 20
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=SmSs6d0AAAAJ",
+        "available": 2,
+        "not_available": 3
+    },
+    "co_authors": [
+        {
+            "name": "Ritu Gupta",
+            "link": "https://scholar.google.com/citations?user=ICUcieAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ICUcieAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ICUcieAAAAAJ",
+            "affiliations": "Professor, Laboratory Oncology Unit, Dr. B.R.A.IRCH, AIIMS",
+            "email": "Verified email at aiims.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ICUcieAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Anubha Gupta",
+            "link": "https://scholar.google.com/citations?user=VWCf3JEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VWCf3JEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VWCf3JEAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VWCf3JEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Akanksha Farswan",
+            "link": "https://scholar.google.com/citations?user=HHYSWFkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HHYSWFkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HHYSWFkAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

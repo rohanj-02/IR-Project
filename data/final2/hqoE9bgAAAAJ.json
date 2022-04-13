@@ -1,0 +1,155 @@
+{
+    "search_metadata": {
+        "id": "62574c5bce87f8c67fbb4f75",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1ab0960bd635d1d2/62574c5bce87f8c67fbb4f75.json",
+        "created_at": "2022-04-13 22:19:07 UTC",
+        "processed_at": "2022-04-13 22:19:07 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=hqoE9bgAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/1ab0960bd635d1d2/62574c5bce87f8c67fbb4f75.html",
+        "total_time_taken": 0.4,
+        "total_articles": 2,
+        "total_co_authors": 5
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "hqoE9bgAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Divyanshu Kumar Singh",
+        "affiliations": "Undergraduate, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://divyanshu-krs.github.io/",
+        "interests": [
+            {
+                "title": "Communities",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:communities",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acommunities"
+            },
+            {
+                "title": "Human-Computer Interaction",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:human_computer_interaction",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computer_interaction"
+            },
+            {
+                "title": "Child-Robot Interaction",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:child_robot_interaction",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achild_robot_interaction"
+            },
+            {
+                "title": "Ethics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ethics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aethics"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=hqoE9bgAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Toy, tutor, peer, or pet? preliminary findings from child-robot interactions in a community school",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hqoE9bgAAAAJ&pagesize=100&citation_for_view=hqoE9bgAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "hqoE9bgAAAAJ:u5HHmVD_uO8C",
+            "authors": "D Kumar Singh, S Sharma, J Shukla, G Eden",
+            "publication": "Companion of the 2020 ACM/IEEE International Conference on Human-Robot \u2026, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7722819511418824284",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7722819511418824284&engine=google_scholar&hl=en",
+                "cites_id": "7722819511418824284"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Design for the Well-Being of LGBTQ+ University Students",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=hqoE9bgAAAAJ&pagesize=100&citation_for_view=hqoE9bgAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "hqoE9bgAAAAJ:u-x6o8ySG0sC",
+            "authors": "DK Singh, VR Suri, J Shukla",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2020,
+                "citations": 1
+            },
+            {
+                "year": 2021,
+                "citations": 2
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Jainendra Shukla",
+            "link": "https://scholar.google.com/citations?user=QCZleNQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QCZleNQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QCZleNQAAAAJ",
+            "affiliations": "Assistant Professor, \u200bIndraprastha Institute of Information Technology, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QCZleNQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sumita Sharma",
+            "link": "https://scholar.google.com/citations?user=d0N1QYAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=d0N1QYAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "d0N1QYAAAAAJ",
+            "affiliations": "INTERACT Research Unit, ITEE, University of Oulu, Finland",
+            "email": "Verified email at oulu.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d0N1QYAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Grace Eden",
+            "link": "https://scholar.google.com/citations?user=Gs5GF8YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Gs5GF8YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Gs5GF8YAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, Delhi (IIITD)",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Gs5GF8YAAAAJ&citpid=8"
+        },
+        {
+            "name": "Ratnadeep Suri",
+            "link": "https://scholar.google.com/citations?user=bQQc460AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bQQc460AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "bQQc460AAAAJ",
+            "email": "Verified email at ntu.edu.sg",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Venkata Ratnadeep Suri",
+            "link": "https://scholar.google.com/citations?user=nVCrKGEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nVCrKGEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nVCrKGEAAAAJ",
+            "affiliations": "Assistant Professsor, IIITD",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

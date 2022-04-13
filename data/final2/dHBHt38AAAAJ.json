@@ -1,0 +1,178 @@
+{
+    "search_metadata": {
+        "id": "62574c972f542e587f019921",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/74e411c24a6ada6d/62574c972f542e587f019921.json",
+        "created_at": "2022-04-13 22:20:07 UTC",
+        "processed_at": "2022-04-13 22:20:07 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=dHBHt38AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/74e411c24a6ada6d/62574c972f542e587f019921.html",
+        "total_time_taken": 0.49,
+        "total_articles": 5,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "dHBHt38AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Neeraj Pandey",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "ISAR imaging",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:isar_imaging",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aisar_imaging"
+            },
+            {
+                "title": "Automotive Radar",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:automotive_radar",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautomotive_radar"
+            },
+            {
+                "title": "Radar Signal Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:radar_signal_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aradar_signal_processing"
+            },
+            {
+                "title": "Compressive Sensing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:compressive_sensing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acompressive_sensing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dHBHt38AAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Database of simulated inverse synthetic aperture radar images for short range automotive radar",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "dHBHt38AAAAJ:IjCSPb-OGe4C",
+            "authors": "N Pandey, G Duggal, SS Ram",
+            "publication": "2020 IEEE International Radar Conference (RADAR), 238-243, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1409790043532319755",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1409790043532319755&engine=google_scholar&hl=en",
+                "cites_id": "1409790043532319755"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Classification of automotive targets using inverse synthetic aperture radar images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "dHBHt38AAAAJ:zYLM7Y9cAGgC",
+            "authors": "N Pandey, SS Ram",
+            "publication": "IEEE Transactions on Intelligent Vehicles, 2022",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13992187506619758190",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13992187506619758190&engine=google_scholar&hl=en",
+                "cites_id": "13992187506619758190"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Clutter mitigation in range enhanced radar images using sparsity based denoising autoencoders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "dHBHt38AAAAJ:u-x6o8ySG0sC",
+            "authors": "S Vishwakarma, N Pandey, SS Ram",
+            "publication": "2019 International Radar Conference (RADAR), 1-6, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15202564431638582191",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15202564431638582191&engine=google_scholar&hl=en",
+                "cites_id": "15202564431638582191"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Automated Parking Test Using ISAR Images from Automotive Radar",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "dHBHt38AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "N Pandey, SS Ram",
+            "publication": "2021 IEEE International Conference on Autonomous Systems (ICAS), 1-5, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Dataset of simulated inverse synthetic aperture radar (ISAR) images of automotive targets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "dHBHt38AAAAJ:W7OEmFMy1HYC",
+            "authors": "N Pandey, SS Ram",
+            "publication": "Short Link: http://ieee-dataport.org/4036, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2021,
+                "citations": 4
+            },
+            {
+                "year": 2022,
+                "citations": 1
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Shobha Sundar Ram",
+            "link": "https://scholar.google.com/citations?user=dwRa-dIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dwRa-dIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "dwRa-dIAAAAJ",
+            "affiliations": "Associate Professor",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dwRa-dIAAAAJ&citpid=5"
+        },
+        {
+            "name": "Gaurav Duggal",
+            "link": "https://scholar.google.com/citations?user=OklRZKgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OklRZKgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "OklRZKgAAAAJ",
+            "affiliations": "Virginia Tech, IIIT Delhi, BITS Hyderabad",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OklRZKgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Shelly Vishwakarma",
+            "link": "https://scholar.google.com/citations?user=oCapOJEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oCapOJEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oCapOJEAAAAJ",
+            "affiliations": "University College London (UCL)",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oCapOJEAAAAJ&citpid=3"
+        }
+    ]
+}

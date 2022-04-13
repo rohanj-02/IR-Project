@@ -1,0 +1,394 @@
+{
+    "search_metadata": {
+        "id": "62574c6bd036a7d902b8863b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/75e060f4066e43ee/62574c6bd036a7d902b8863b.json",
+        "created_at": "2022-04-13 22:19:23 UTC",
+        "processed_at": "2022-04-13 22:19:23 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=Z7GIWWgAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/75e060f4066e43ee/62574c6bd036a7d902b8863b.html",
+        "total_time_taken": 0.22,
+        "total_articles": 19,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "Z7GIWWgAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Shelly Garg",
+        "affiliations": "Research Scholar, IIIT-D",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "VLSI",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:vlsi",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avlsi"
+            },
+            {
+                "title": "Nanoelectronic Devices",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:nanoelectronic_devices",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ananoelectronic_devices"
+            },
+            {
+                "title": "Tunnel FETs",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:tunnel_fets",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atunnel_fets"
+            },
+            {
+                "title": "Analog Circuit Design",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:analog_circuit_design",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanalog_circuit_design"
+            },
+            {
+                "title": "Verilog",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:verilog",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Averilog"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z7GIWWgAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Suppression of ambipolar current in tunnel FETs using drain-pocket: Proposal and analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "Z7GIWWgAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Garg, S Saurabh",
+            "publication": "Superlattices and Microstructures, 2017",
+            "cited_by": {
+                "value": 56,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1124316437673591139",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1124316437673591139&engine=google_scholar&hl=en",
+                "cites_id": "1124316437673591139"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Improving the scalability of SOI-based Tunnel FETs using Ground Plane in Buried Oxide",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "Z7GIWWgAAAAJ:3fE2CSJIrl8C",
+            "authors": "S Garg, S Saurabh",
+            "publication": "Journal of Electron Devices Society, 1-9, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14121597187732833726",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14121597187732833726&engine=google_scholar&hl=en",
+                "cites_id": "14121597187732833726"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Realizing logic functions using single double-gate tunnel FETs: A simulation study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "Z7GIWWgAAAAJ:MXK_kJrjxJIC",
+            "authors": "S Banerjee, S Garg, S Saurabh",
+            "publication": "IEEE Electron Device Letters 39 (5), 773-776, 2018",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9439550217324398868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9439550217324398868&engine=google_scholar&hl=en",
+                "cites_id": "9439550217324398868"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Implementing logic functions using independently-controlled gate in double-gate tunnel FETs: Investigation and analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:Zph67rFs4hoC",
+            "citation_id": "Z7GIWWgAAAAJ:Zph67rFs4hoC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Access 7, 117591-117599, 2019",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4808412027649020024",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4808412027649020024&engine=google_scholar&hl=en",
+                "cites_id": "4808412027649020024"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Exploiting within-channel tunneling in a nanoscale tunnel field-effect transistor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "Z7GIWWgAAAAJ:qxL8FJ1GzNcC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Open Journal of Nanotechnology 1, 100-108, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12645677757714729263",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12645677757714729263&engine=google_scholar&hl=en",
+                "cites_id": "12645677757714729263"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Realizing XOR and XNOR functions using tunnel field-effect transistors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "Z7GIWWgAAAAJ:M3ejUd6NZC8C",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Journal of the Electron Devices Society 8, 1001-1009, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5471311469594442865",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5471311469594442865&engine=google_scholar&hl=en",
+                "cites_id": "5471311469594442865"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Improving injection efficiency of gate modulation ROIC interface for HgCdTe IR photodiodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "Z7GIWWgAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Garg, RS Saxena, V Niranjan",
+            "publication": "Microsystem Technologies 23 (9), 4073-4080, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17825839862673272345",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17825839862673272345&engine=google_scholar&hl=en",
+                "cites_id": "17825839862673272345"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Dtmos transistor with self-cascode subcircuit for achieving high bandwidth in analog applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "Z7GIWWgAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Garg, V Niranjan",
+            "publication": "International Journal of Computer Applications 975, 8887, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6577730893143048621",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6577730893143048621&engine=google_scholar&hl=en",
+                "cites_id": "6577730893143048621"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "PFAL based power efficient mux based decoder",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:qjMakFHDy7sC",
+            "citation_id": "Z7GIWWgAAAAJ:qjMakFHDy7sC",
+            "authors": "S Aron, S Garg, V Niranjan",
+            "publication": "International Conference on Computing, Communication & Automation, 1010-1013, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13401027113240526240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13401027113240526240&engine=google_scholar&hl=en",
+                "cites_id": "13401027113240526240"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Bandwidth extension of voltage follower using DTMOS transistor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "Z7GIWWgAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Garg, G Chaudhary, V Niranjan, A Kumar",
+            "publication": "2014 Innovative Applications of Computational Intelligence on Power, Energy \u2026, 2014",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3731092216478933407",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3731092216478933407&engine=google_scholar&hl=en",
+                "cites_id": "3731092216478933407"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Implementation of Boolean Functions Using Tunnel Field-Effect Transistors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:-f6ydRqryjwC",
+            "citation_id": "Z7GIWWgAAAAJ:-f6ydRqryjwC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits 6 \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13634607639967897703",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13634607639967897703&engine=google_scholar&hl=en",
+                "cites_id": "13634607639967897703"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Suppression of ambipolar current in tunnel field-effect transistor using field-plate",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:4TOpqqG69KYC",
+            "citation_id": "Z7GIWWgAAAAJ:4TOpqqG69KYC",
+            "authors": "S Poria, S Garg, S Saurabh",
+            "publication": "2020 24th International Symposium on VLSI Design and Test (VDAT), 1-6, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11914436863450369185",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11914436863450369185&engine=google_scholar&hl=en",
+                "cites_id": "11914436863450369185"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Nanoscale tunnel field-effect transistors for digital circuit applications: design and analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:hC7cP41nSMkC",
+            "citation_id": "Z7GIWWgAAAAJ:hC7cP41nSMkC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IIIT-Delhi, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Emerging devices beyond CMOS: fundamentals, promises and challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "Z7GIWWgAAAAJ:ULOm3_A8WrAC",
+            "authors": "S Saurabh, SK Semwal, S Garg, A Gupta",
+            "publication": "VLSI and Post-CMOS Electronics: Design, modelling and simulation 1, 161, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A new CASCADABLE ADIABATIC LOGIC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "Z7GIWWgAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Garg, V Niranjan",
+            "publication": "Electrical and Electronics Engineering: An International Journal (ELELIJ) 5 \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "SPICE Model of HgCdTe Infrared Photodiode for Non-Uniformity Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "Z7GIWWgAAAAJ:W7OEmFMy1HYC",
+            "authors": "R Saxena, S Garg",
+            "publication": "Crystal 21 (2), 17-21, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Adiabatic technique for fat tree decoder to be used in flash ADCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "Z7GIWWgAAAAJ:UeHWp8X0CEIC",
+            "authors": "G Chaudhary, S Garg, V Niranjan",
+            "publication": "2015 39th National Systems Conference (NSC), 1-5, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A New Interface Circuit for Improving Charge Injection of Photodiodes in Readout Integrated Circuit",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "Z7GIWWgAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Garg, RS Saxena, V Niranjan",
+            "publication": "International Conference on Microelectronic Circuit and System (Micro-2015) 2, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A new low voltage highly linear FVFSC current mirror",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "Z7GIWWgAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Garg, V Niranjan",
+            "publication": "International Conference on Computing, Communication & Automation, 1363-1367, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 118,
+                    "since_2017": 116
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 11
+            },
+            {
+                "year": 2018,
+                "citations": 12
+            },
+            {
+                "year": 2019,
+                "citations": 34
+            },
+            {
+                "year": 2020,
+                "citations": 40
+            },
+            {
+                "year": 2021,
+                "citations": 19
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Z7GIWWgAAAAJ",
+        "available": 5,
+        "not_available": 3
+    },
+    "co_authors": [
+        {
+            "name": "Sneh Saurabh",
+            "link": "https://scholar.google.com/citations?user=V7XGG2AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=V7XGG2AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "V7XGG2AAAAAJ",
+            "affiliations": "IIIT, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V7XGG2AAAAAJ&citpid=1"
+        },
+        {
+            "name": "Prof. Vandana Niranjan",
+            "link": "https://scholar.google.com/citations?user=Kc97I64AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Kc97I64AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Kc97I64AAAAJ",
+            "affiliations": "Professor, Electronics & Communication Engineering, IGDTUW, Delhi",
+            "email": "Verified email at igdtuw.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Kc97I64AAAAJ&citpid=30"
+        },
+        {
+            "name": "Raghvendra Sahai Saxena",
+            "link": "https://scholar.google.com/citations?user=yccOXYQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yccOXYQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yccOXYQAAAAJ",
+            "affiliations": "Solid State Physics Laboratory",
+            "email": "Verified email at sspl.drdo.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yccOXYQAAAAJ&citpid=2"
+        }
+    ]
+}

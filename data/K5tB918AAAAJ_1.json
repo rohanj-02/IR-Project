@@ -1,0 +1,98 @@
+{
+    "search_metadata": {
+        "id": "62574c9dcace9659333ab61e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a302caca3ed1e1e1/62574c9dcace9659333ab61e.json",
+        "created_at": "2022-04-13 22:20:13 UTC",
+        "processed_at": "2022-04-13 22:20:13 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=K5tB918AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a302caca3ed1e1e1/62574c9dcace9659333ab61e.html",
+        "total_time_taken": 2.88
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "K5tB918AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Bushra Ansari",
+        "affiliations": "Research Scholar at IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "GNSS-Reflectometry",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:gnss_reflectometry",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agnss_reflectometry"
+            },
+            {
+                "title": "NavIC",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:navic",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anavic"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=K5tB918AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Raw GNSS Data Compression using Compressive Sensing for Reflectometry Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5tB918AAAAJ&pagesize=100&citation_for_view=K5tB918AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "K5tB918AAAAJ:u5HHmVD_uO8C",
+            "authors": "B Ansari, V Kaushik, SK Biswas",
+            "publication": "2020 XXXIIIrd General Assembly and Scientific Symposium of the International \u2026, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362735069590507423",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7362735069590507423&engine=google_scholar&hl=en",
+                "cites_id": "7362735069590507423"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A Hardware-In-Loop simulation Test-bed for NavIC Reflectometry Experiments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5tB918AAAAJ&pagesize=100&citation_for_view=K5tB918AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "K5tB918AAAAJ:u-x6o8ySG0sC",
+            "authors": "B Ansari, SK Biswas",
+            "publication": "2021 XXXIVth General Assembly and Scientific Symposium of the International \u2026, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Sanat Biswas",
+            "link": "https://scholar.google.com/citations?user=H3Td2TUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=H3Td2TUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "H3Td2TUAAAAJ",
+            "affiliations": "Assistant Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=H3Td2TUAAAAJ&citpid=6"
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "search_metadata": {
+        "id": "62574c570b506296b307335b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/865478a671d63402/62574c570b506296b307335b.json",
+        "created_at": "2022-04-13 22:19:03 UTC",
+        "processed_at": "2022-04-13 22:19:03 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=fAyVvbIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/865478a671d63402/62574c570b506296b307335b.html",
+        "total_time_taken": 1.58,
+        "total_articles": 16,
+        "total_co_authors": 12
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "fAyVvbIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Tanya Shreedhar",
+        "affiliations": "Ph.D. Student-IIIT Delhi | Visiting Researcher-TUM",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.edu.in/~tanyas/",
+        "interests": [
+            {
+                "title": "Wireless Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_networks"
+            },
+            {
+                "title": "Transport Protocols",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:transport_protocols",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atransport_protocols"
+            },
+            {
+                "title": "Age of Information",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:age_of_information",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aage_of_information"
+            },
+            {
+                "title": "MPTCP",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mptcp",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amptcp"
+            },
+            {
+                "title": "QUIC",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:quic",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquic"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fAyVvbIAAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "QAware: A cross-layer approach to MPTCP scheduling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "fAyVvbIAAAAJ:d1gkVwhDpl0C",
+            "authors": "T Shreedhar, N Mohan, SK Kaul, J Kangasharju",
+            "publication": "2018 IFIP Networking Conference (IFIP Networking) and Workshops, 1-9, 2018",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=595872916369770912",
+                "serpapi_link": "https://serpapi.com/search.json?cites=595872916369770912&engine=google_scholar&hl=en",
+                "cites_id": "595872916369770912"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "An age control transport protocol for delivering fresh updates in the Internet-of-Things",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "fAyVvbIAAAAJ:Y0pCki6q_DkC",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "2019 IEEE 20th International Symposium on\" A World of Wireless, Mobile and \u2026, 2019",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14102530284372950765",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14102530284372950765&engine=google_scholar&hl=en",
+                "cites_id": "14102530284372950765"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "ACP: Age Control Protocol for Minimizing Age of Information over the Internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "fAyVvbIAAAAJ:2osOgNQ5qMEC",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16649569367130899730",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16649569367130899730&engine=google_scholar&hl=en",
+                "cites_id": "16649569367130899730"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "ACP: An End-to-End Transport Protocol for Delivering Fresh Updates in the Internet-of-Things",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "fAyVvbIAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "CoRR, 2019",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18080991870164882869",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18080991870164882869&engine=google_scholar&hl=en",
+                "cites_id": "18080991870164882869"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Beyond QUIC v1 -- A First Look at Recent Transport Layer IETF Standardization Efforts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "fAyVvbIAAAAJ:W7OEmFMy1HYC",
+            "authors": "M Kosek, T Shreedhar, V Bajpai",
+            "publication": "IEEE Communications Magazine, 2021",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9660070065480754188",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9660070065480754188&engine=google_scholar&hl=en",
+                "cites_id": "9660070065480754188"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Hierarchical Cluster based NoC design using Wireless Interconnects for Coherence Support",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "fAyVvbIAAAAJ:u5HHmVD_uO8C",
+            "authors": "T Shreedhar, S Deb",
+            "publication": "2016 29th International Conference on VLSI Design and 2016 15th \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3958876767942742516",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3958876767942742516&engine=google_scholar&hl=en",
+                "cites_id": "3958876767942742516"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Redesigning MPTCP for Edge Clouds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "fAyVvbIAAAAJ:9yKSN-GCB0IC",
+            "authors": "N Mohan, T Shreedhar, A Zavodavoski, O Waltari, J Kangasharju, ...",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2906975435950260299",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2906975435950260299&engine=google_scholar&hl=en",
+                "cites_id": "2906975435950260299"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Is two greater than one?: Analyzing Multipath TCP over Dual-LTE in the Wild",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "fAyVvbIAAAAJ:IjCSPb-OGe4C",
+            "authors": "N Mohan, T Shreedhar, A Zavodovski, J Kangasharju, SK Kaul",
+            "publication": "CoRR, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1760327378509228085",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1760327378509228085&engine=google_scholar&hl=en",
+                "cites_id": "1760327378509228085"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "More than the sum of its parts: Exploiting cross-layer and joint-flow information in MPTCP",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:UebtZRa9Y70C",
+            "citation_id": "fAyVvbIAAAAJ:UebtZRa9Y70C",
+            "authors": "T Shreedhar, N Mohan, SK Kaul, J Kangasharju",
+            "publication": "CoRR, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1926702103037404986",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1926702103037404986&engine=google_scholar&hl=en",
+                "cites_id": "1926702103037404986"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Evaluating QUIC Performance over Web, Cloud Storage and Video Workloads",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:roLk4NBRz8UC",
+            "citation_id": "fAyVvbIAAAAJ:roLk4NBRz8UC",
+            "authors": "T Shreedhar, R Panda, S Podanev, V Bajpai",
+            "publication": "IEEE Transactions on Network and Service Management (TNSM), 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18149204344594360666",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18149204344594360666&engine=google_scholar&hl=en",
+                "cites_id": "18149204344594360666"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Distributed Ledgers for Distributed Edge: Are we there yet?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "fAyVvbIAAAAJ:_FxGoFyzp5QC",
+            "authors": "L Eichhorn, T Shreedhar, A Zavodovski, N Mohan",
+            "publication": "Proceedings of the Interdisciplinary Workshop on (de) Centralization in the \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14825188676404166192",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14825188676404166192&engine=google_scholar&hl=en",
+                "cites_id": "14825188676404166192"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "An Empirical Study of Ageing in the Cloud",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "fAyVvbIAAAAJ:YsMSGLbcyi4C",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "IEEE INFOCOM, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=263260982128948745",
+                "serpapi_link": "https://serpapi.com/search.json?cites=263260982128948745&engine=google_scholar&hl=en",
+                "cites_id": "263260982128948745"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "From Single Lane to Highways: Analyzing the Adoption of Multipath TCP in the Internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "fAyVvbIAAAAJ:eQOLeE2rZwMC",
+            "authors": "F Aschenbrenner, T Shreedhar, O Gasser, N Mohan, J Ott",
+            "publication": "IFIP Networking Conference (Networking) 2021, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=127048159726746427",
+                "serpapi_link": "https://serpapi.com/search.json?cites=127048159726746427&engine=google_scholar&hl=en",
+                "cites_id": "127048159726746427"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Coexistence of Age Sensitive Traffic and High Throughput Flows: Does Prioritization Help?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "fAyVvbIAAAAJ:hqOjcs7Dif8C",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "IEEE INFOCOM, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Impact of Evolving Protocols and COVID-19 on Internet Traffic Shares",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:Se3iqnhoufwC",
+            "citation_id": "fAyVvbIAAAAJ:Se3iqnhoufwC",
+            "authors": "L Schumann, TV Doan, T Shreedhar, R Mok, V Bajpai",
+            "publication": "CoRR, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "TRANSPORT LAYER INNOVATIONS FOR FUTURE NETWORKS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:WF5omc3nYNoC",
+            "citation_id": "fAyVvbIAAAAJ:WF5omc3nYNoC",
+            "authors": "M Welzl, S Islam, M Gundersen, A Fischer, M Kosek, T Shreedhar, ...",
+            "publication": "IEEE Communications Magazine, 2, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 107,
+                    "since_2017": 103
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 1
+            },
+            {
+                "year": 2018,
+                "citations": 3
+            },
+            {
+                "year": 2019,
+                "citations": 27
+            },
+            {
+                "year": 2020,
+                "citations": 14
+            },
+            {
+                "year": 2021,
+                "citations": 40
+            },
+            {
+                "year": 2022,
+                "citations": 18
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=fAyVvbIAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Sanjit Krishnan Kaul",
+            "link": "https://scholar.google.com/citations?user=XGNQPRsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XGNQPRsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XGNQPRsAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology (IIIT-Delhi),",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XGNQPRsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nitinder Mohan",
+            "link": "https://scholar.google.com/citations?user=c-Ub9FYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c-Ub9FYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c-Ub9FYAAAAJ",
+            "affiliations": "Postdoctoral Fellow, Technical University of Munich",
+            "email": "Verified email at in.tum.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c-Ub9FYAAAAJ&citpid=10"
+        },
+        {
+            "name": "Roy Yates",
+            "link": "https://scholar.google.com/citations?user=0ZA7y4UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0ZA7y4UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "0ZA7y4UAAAAJ",
+            "affiliations": "Professor of Electrical and Computer Engineering, Rutgers University",
+            "email": "Verified email at rutgers.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0ZA7y4UAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jussi Kangasharju",
+            "link": "https://scholar.google.com/citations?user=RHUM7P0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RHUM7P0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "RHUM7P0AAAAJ",
+            "affiliations": "Professor of Computer Science, University of Helsinki",
+            "email": "Verified email at helsinki.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RHUM7P0AAAAJ&citpid=4"
+        },
+        {
+            "name": "Aleksandr Zavodovski",
+            "link": "https://scholar.google.com/citations?user=tFfpjgIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tFfpjgIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tFfpjgIAAAAJ",
+            "affiliations": "Postdoc at Uppsala University",
+            "email": "Verified email at it.uu.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tFfpjgIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Vaibhav Bajpai",
+            "link": "https://scholar.google.com/citations?user=ksAaiuUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ksAaiuUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ksAaiuUAAAAJ",
+            "affiliations": "CISPA Helmholtz Center for Information Security",
+            "email": "Verified email at cispa.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ksAaiuUAAAAJ&citpid=5"
+        },
+        {
+            "name": "Sujay Deb",
+            "link": "https://scholar.google.com/citations?user=e3z7tT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e3z7tT0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "e3z7tT0AAAAJ",
+            "affiliations": "Associate Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e3z7tT0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Otto Waltari",
+            "link": "https://scholar.google.com/citations?user=xyRC54gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xyRC54gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "xyRC54gAAAAJ",
+            "affiliations": "Doctoral Student",
+            "email": "Verified email at helsinki.fi",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Oliver Gasser",
+            "link": "https://scholar.google.com/citations?user=of4JfvsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=of4JfvsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "of4JfvsAAAAJ",
+            "affiliations": "Max Planck Institute for Informatics",
+            "email": "Verified email at mpi-inf.mpg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=of4JfvsAAAAJ&citpid=4"
+        },
+        {
+            "name": "J\u00f6rg Ott",
+            "link": "https://scholar.google.com/citations?user=h16ode4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h16ode4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h16ode4AAAAJ",
+            "affiliations": "Professor, Chair of Connected Mobility, Technische Universit\u00e4t M\u00fcnchen",
+            "email": "Verified email at netlab.tkk.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h16ode4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Ricky K. P. Mok",
+            "link": "https://scholar.google.com/citations?user=6uNNqBYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6uNNqBYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6uNNqBYAAAAJ",
+            "affiliations": "CAIDA/UCSD",
+            "email": "Verified email at caida.org",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Trinh Viet Doan",
+            "link": "https://scholar.google.com/citations?user=wG3ulroAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wG3ulroAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "wG3ulroAAAAJ",
+            "affiliations": "Technical University of Munich",
+            "email": "Verified email at in.tum.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

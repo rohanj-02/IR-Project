@@ -1,0 +1,610 @@
+{
+    "search_metadata": {
+        "id": "62574cd2b7b1ccf34a7d165f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4a830be9cea9749a/62574cd2b7b1ccf34a7d165f.json",
+        "created_at": "2022-04-13 22:21:06 UTC",
+        "processed_at": "2022-04-13 22:21:06 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=SxuQKigAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/4a830be9cea9749a/62574cd2b7b1ccf34a7d165f.html",
+        "total_time_taken": 0.53
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "SxuQKigAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Naushad Ansari",
+        "affiliations": "Nanyang Technological University, Singapore",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://sites.google.com/view/naushada97/home?authuser=0",
+        "interests": [
+            {
+                "title": "Wavelet transform",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wavelet_transform",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awavelet_transform"
+            },
+            {
+                "title": "Sparse recovery",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sparse_recovery",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asparse_recovery"
+            },
+            {
+                "title": "Image Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:image_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimage_processing"
+            },
+            {
+                "title": "Compressed Sensing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:compressed_sensing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acompressed_sensing"
+            },
+            {
+                "title": "Super-resolution",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:super_resolution",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asuper_resolution"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=SxuQKigAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Performance and emission analysis of a diesel engine implementing polanga biodiesel and optimization using Taguchi method",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "SxuQKigAAAAJ:hqOjcs7Dif8C",
+            "authors": "NA Ansari, A Sharma, Y Singh",
+            "publication": "Process Safety and Environmental Protection 120, 146-154, 2018",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7097664094416994922",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7097664094416994922&engine=google_scholar&hl=en",
+                "cites_id": "7097664094416994922"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Theoretical exergy analysis of HFO-1234yf and HFO-1234ze as an alternative replacement of HFC-134a in simple vapour compression refrigeration system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "SxuQKigAAAAJ:ULOm3_A8WrAC",
+            "authors": "NA Ansari, B Yadav, J Kumar",
+            "publication": "International Journal of Scientific & Engineering Research 4 (8), 137, 2013",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14180891216596158070",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14180891216596158070&engine=google_scholar&hl=en",
+                "cites_id": "14180891216596158070"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Image reconstruction using matched wavelet estimated from data sensed compressively using partial canonical identity matrix",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "SxuQKigAAAAJ:W7OEmFMy1HYC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "IEEE Transactions on image Processing 26 (8), 3680-3695, 2017",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11417254986432740527",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11417254986432740527&engine=google_scholar&hl=en",
+                "cites_id": "11417254986432740527"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Impulse denoising for hyper-spectral images: A blind compressed sensing approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "SxuQKigAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Majumdar, N Ansari, H Aggarwal, P Biyani",
+            "publication": "Signal Processing 119, 136-141, 2016",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1189597258978222462",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1189597258978222462&engine=google_scholar&hl=en",
+                "cites_id": "1189597258978222462"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Signal-matched wavelet design via lifting using optimization techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "SxuQKigAAAAJ:2osOgNQ5qMEC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "2015 IEEE International Conference on Digital Signal Processing (DSP), 863-867, 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16658369038709164581",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16658369038709164581&engine=google_scholar&hl=en",
+                "cites_id": "16658369038709164581"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Shallow water acoustic channel estimation using two-dimensional frequency characterization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "SxuQKigAAAAJ:IjCSPb-OGe4C",
+            "authors": "N Ansari, A Gupta, AS Gupta",
+            "publication": "The Journal of the Acoustical Society of America 140 (5), 3995-4009, 2016",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14741281519859163490",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14741281519859163490&engine=google_scholar&hl=en",
+                "cites_id": "14741281519859163490"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Physics inspired CS based underwater acoustic channel estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "SxuQKigAAAAJ:UeHWp8X0CEIC",
+            "authors": "N Ansari, A Gupta, AS Gupta",
+            "publication": "2015 IEEE Global Conference on Signal and Information Processing (GlobalSIP \u2026, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12273646835807967903",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12273646835807967903&engine=google_scholar&hl=en",
+                "cites_id": "12273646835807967903"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Tracking the underwater acoustic channel using two-dimensional frequency sampling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "SxuQKigAAAAJ:d1gkVwhDpl0C",
+            "authors": "AS Gupta, N Ansari, A Gupta",
+            "publication": "2015 IEEE Underwater Technology (UT), 1-5, 2015",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3496446804190796214",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3496446804190796214&engine=google_scholar&hl=en",
+                "cites_id": "3496446804190796214"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "GamEd-learning data structure algorithm using computer game",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "SxuQKigAAAAJ:kNdYIx-mwKoC",
+            "authors": "N Ansari, N Parikh, A Narvekar, M Phatapekar, A Yadav",
+            "publication": "IOSR Journal of Computer Science 1 (10), 62-67, 2014",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2229301838120202578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2229301838120202578&engine=google_scholar&hl=en",
+                "cites_id": "2229301838120202578"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Development of the ethyl ester from jatropa oil through response surface methodology approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:0EnyYjriUFMC",
+            "citation_id": "SxuQKigAAAAJ:0EnyYjriUFMC",
+            "authors": "R Gautam, N Ansari, A Sharma, Y Singh",
+            "publication": "Pollution 6 (1), 135-147, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10900734440378154920",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10900734440378154920&engine=google_scholar&hl=en",
+                "cites_id": "10900734440378154920"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "WNC-ECGlet: Weighted non-convex minimization based reconstruction of compressively transmitted ECG using ECGlet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "SxuQKigAAAAJ:LkGwnXOMwfcC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "Biomedical Signal Processing and Control 49, 1-13, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8798997473044935370",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8798997473044935370&engine=google_scholar&hl=en",
+                "cites_id": "8798997473044935370"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Statistical analysis and parametric yield estimation of standard 6T SRAM cell for different capacities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:qjMakFHDy7sC",
+            "citation_id": "SxuQKigAAAAJ:qjMakFHDy7sC",
+            "authors": "AK Gundu, MS Hashmi, R Sharma, N Ansari",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 316-321, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3022084905769294654",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3022084905769294654&engine=google_scholar&hl=en",
+                "cites_id": "3022084905769294654"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Emission characteristics of a diesel engine using soyabean oil and diesel blends",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:4DMP91E08xMC",
+            "citation_id": "SxuQKigAAAAJ:4DMP91E08xMC",
+            "authors": "NA Ansari, J Kumar, A Kumar, D Trivedi",
+            "publication": "International Journal of Research in Engineering and Technology, 2 (5), 793-798, 2013",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11328692319835612992",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11328692319835612992&engine=google_scholar&hl=en",
+                "cites_id": "11328692319835612992"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "M-RWTL: learning signal-matched rational wavelet transform in lifting framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:ufrVoPGSRksC",
+            "citation_id": "SxuQKigAAAAJ:ufrVoPGSRksC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "IEEE Access 6, 12213-12227, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=741786070449535144",
+                "serpapi_link": "https://serpapi.com/search.json?cites=741786070449535144&engine=google_scholar&hl=en",
+                "cites_id": "741786070449535144"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Hyper-spectral impulse denoising: a row-sparse blind compressed sensing formulation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "SxuQKigAAAAJ:9yKSN-GCB0IC",
+            "authors": "A Majumdar, N Ansari, HK Aggarwal",
+            "publication": "2015 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13226340943412707483",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13226340943412707483&engine=google_scholar&hl=en",
+                "cites_id": "13226340943412707483"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Joint framework for signal reconstruction using matched wavelet estimated from compressively sensed data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "SxuQKigAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "2016 Data Compression Conference (DCC), 580-580, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=599476599320541222",
+                "serpapi_link": "https://serpapi.com/search.json?cites=599476599320541222&engine=google_scholar&hl=en",
+                "cites_id": "599476599320541222"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Design and Analysis of Modified Radiator Fins to Improve Overall Cooling Efficiency",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:5nxA0vEk-isC",
+            "citation_id": "SxuQKigAAAAJ:5nxA0vEk-isC",
+            "authors": "A Mittal, A Misra, A Sharma, A Gupta, N Ansari",
+            "publication": "SAE Technical Paper, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15745120078265121248",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15745120078265121248&engine=google_scholar&hl=en",
+                "cites_id": "15745120078265121248"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Underwater acoustic channel estimation via CS with prior information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:WF5omc3nYNoC",
+            "citation_id": "SxuQKigAAAAJ:WF5omc3nYNoC",
+            "authors": "N Ansari, AS Gupta, A Gupta",
+            "publication": "OCEANS 2017-Aberdeen, 1-5, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13226547594480603354",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13226547594480603354&engine=google_scholar&hl=en",
+                "cites_id": "13226547594480603354"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Lifting-based rational wavelet design from a given signal",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "SxuQKigAAAAJ:u-x6o8ySG0sC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "2015 IEEE International Conference on Digital Signal Processing (DSP), 853-857, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782200088195219899",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2782200088195219899&engine=google_scholar&hl=en",
+                "cites_id": "2782200088195219899"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Lab",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "SxuQKigAAAAJ:M3ejUd6NZC8C",
+            "authors": "BN Gupta, N Ansari, P Aggarwal, E Sareen, S Gehlot, S Motwani, ...",
+            "publication": "Animal Sci 23, 559, 1973",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=162289883243800747",
+                "serpapi_link": "https://serpapi.com/search.json?cites=162289883243800747&engine=google_scholar&hl=en",
+                "cites_id": "162289883243800747"
+            },
+            "year": "1973"
+        },
+        {
+            "title": "Prediction of an optimum engine response based on various input parameters on common rail direct injection diesel engine-a response surface methodology approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:_kc_bZDykSQC",
+            "citation_id": "SxuQKigAAAAJ:_kc_bZDykSQC",
+            "authors": "M Kumar, NA Ansari, A Sharma, VK Singh, R Gautam, Y Singh",
+            "publication": "Scientia Iranica, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16453247795971175101",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16453247795971175101&engine=google_scholar&hl=en",
+                "cites_id": "16453247795971175101"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Effect of concentration of alumina nanoparticles on performance and emissions of biodiesel fueled compression ignition engine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "SxuQKigAAAAJ:3fE2CSJIrl8C",
+            "authors": "S Bansal, Y Dagar, YK Singh, NA Ansari",
+            "publication": "AIP Conference Proceedings 2259 (1), 020013, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12982344838698162614",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12982344838698162614&engine=google_scholar&hl=en",
+                "cites_id": "12982344838698162614"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Heat Transfer Analysis of Engine Cylinder Fins by Varying Fin Geometry and Material",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:aqlVkmm33-oC",
+            "citation_id": "SxuQKigAAAAJ:aqlVkmm33-oC",
+            "authors": "M Bhayana, M Bhankhar, N Saini, NA Ansari",
+            "publication": "Advances in Mechanical Engineering and Technology, 291-306, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Performance Comparison Between Pure Diesel and 5% Butanol Blended Diesel in a Multi-cylinder Engine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "SxuQKigAAAAJ:KlAtU1dfN6UC",
+            "authors": "J Kumar, NA Ansari, IO Toppo",
+            "publication": "Advances in Mechanical and Materials Technology, 903-911, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Prediction of an optimum engine response based on different input parameters on common rail direct injection diesel engine: A response surface methodology approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:4TOpqqG69KYC",
+            "citation_id": "SxuQKigAAAAJ:4TOpqqG69KYC",
+            "authors": "M Kumar, NA Ansari, A Sharma, VK Singh, R Gautam, Y Singh",
+            "publication": "Scientia Iranica 28 (6), 3181-3200, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Shallow water channel estimation with energy efficient transmitted signal design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:Se3iqnhoufwC",
+            "citation_id": "SxuQKigAAAAJ:Se3iqnhoufwC",
+            "authors": "N Ansari, A Sen Gupta, A Gupta",
+            "publication": "The Journal of the Acoustical Society of America 145 (5), 2955-2970, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Robust Super-resolution Using Multiple Bases and 3D Filtering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:roLk4NBRz8UC",
+            "citation_id": "SxuQKigAAAAJ:roLk4NBRz8UC",
+            "authors": "N Ansari, L Weisi",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Statistical learning of rational wavelet transform for natural images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "SxuQKigAAAAJ:YsMSGLbcyi4C",
+            "authors": "N Ansari, A Gupta",
+            "publication": "2018 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Analytical Evaluation of Solar Enhanced Magnus Effect Wind Turbine Concept",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:8k81kl-MbHgC",
+            "citation_id": "SxuQKigAAAAJ:8k81kl-MbHgC",
+            "authors": "K Chand, NA Ansari, A Sharma, Y Singh, VR Mishra, V Goel",
+            "publication": "International Journal of Engineering & Technology 7 (4.39), 161-164, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Wavelet transform learning and applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "SxuQKigAAAAJ:_FxGoFyzp5QC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Design of Image Matched Non-Separable Wavelet using Convolutional Neural Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "SxuQKigAAAAJ:zYLM7Y9cAGgC",
+            "authors": "N Ansari, A Gupta, R Duggal",
+            "publication": "arXiv preprint arXiv:1612.04966, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Compressed sensing based underwater acoustic channel estimation using two dimensional frequency characterization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "SxuQKigAAAAJ:eQOLeE2rZwMC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "IIIT-Delhi, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "WTL-I: Mutual information based Wavelet Transform Learning for Hyperspectral Imaging",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "SxuQKigAAAAJ:qxL8FJ1GzNcC",
+            "authors": "S Gehlot, A Gupta, N Ansari",
+            "publication": "Frontiers in Signal Processing, 24, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "A. Ali, SAM Gilani and NA Memon",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=SxuQKigAAAAJ&pagesize=100&citation_for_view=SxuQKigAAAAJ:UebtZRa9Y70C",
+            "citation_id": "SxuQKigAAAAJ:UebtZRa9Y70C",
+            "authors": "W Al-Menthari, A Al-Naamany, H Bourdoucen, N Ansari, A Belenky, ...",
+            "publication": "Optimization 1, 1-13, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 234,
+                    "since_2017": 204
+                }
+            },
+            {
+                "h_index": {
+                    "all": 7,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 2
+            },
+            {
+                "year": 2015,
+                "citations": 6
+            },
+            {
+                "year": 2016,
+                "citations": 16
+            },
+            {
+                "year": 2017,
+                "citations": 26
+            },
+            {
+                "year": 2018,
+                "citations": 31
+            },
+            {
+                "year": 2019,
+                "citations": 26
+            },
+            {
+                "year": 2020,
+                "citations": 51
+            },
+            {
+                "year": 2021,
+                "citations": 61
+            },
+            {
+                "year": 2022,
+                "citations": 9
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=SxuQKigAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Anubha Gupta",
+            "link": "https://scholar.google.com/citations?user=VWCf3JEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VWCf3JEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VWCf3JEAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VWCf3JEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Ananya Sen Gupta",
+            "link": "https://scholar.google.com/citations?user=oo68IgYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oo68IgYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oo68IgYAAAAJ",
+            "affiliations": "University of Iowa",
+            "email": "Verified email at uiowa.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oo68IgYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Hemant Kumar Aggarwal",
+            "link": "https://scholar.google.com/citations?user=SbXoUs0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SbXoUs0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SbXoUs0AAAAJ",
+            "affiliations": "Electrical and Computer Engineering Department, University of Iowa",
+            "email": "Verified email at uiowa.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SbXoUs0AAAAJ&citpid=5"
+        }
+    ]
+}

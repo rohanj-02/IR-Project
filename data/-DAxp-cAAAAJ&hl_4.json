@@ -1,0 +1,1528 @@
+{
+    "search_metadata": {
+        "id": "62574f025f220379ea8a6157",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d015996145205666/62574f025f220379ea8a6157.json",
+        "created_at": "2022-04-13 22:30:26 UTC",
+        "processed_at": "2022-04-13 22:30:26 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=-DAxp-cAAAAJ&hl&hl=en&cstart=300&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/d015996145205666/62574f025f220379ea8a6157.html",
+        "total_time_taken": 1.2
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "-DAxp-cAAAAJ&hl",
+        "hl": "en",
+        "start": 300,
+        "num": "100"
+    },
+    "author": {
+        "name": "Mayank Vatsa",
+        "affiliations": "Professor, IIT Jodhpur",
+        "email": "Verified email at iitj.ac.in",
+        "website": "http://iab-rubric.org/",
+        "interests": [
+            {
+                "title": "biometrics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biometrics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiometrics"
+            },
+            {
+                "title": "image processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:image_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimage_processing"
+            },
+            {
+                "title": "deep learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning"
+            },
+            {
+                "title": "machine learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "computer vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-DAxp-cAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Face recognition for forensics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:tfDI-GPdlUQC",
+            "citation_id": "-DAxp-cAAAAJ:tfDI-GPdlUQC",
+            "authors": "A Jain, R Singh, M Vatsa",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7312410547326172667",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7312410547326172667&engine=google_scholar&hl=en",
+                "cites_id": "7312410547326172667"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Learning representations for matching fingerprint variants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:G7txJ4jiatkC",
+            "citation_id": "-DAxp-cAAAAJ:G7txJ4jiatkC",
+            "authors": "A Sankaran, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11759722690820242116",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11759722690820242116&engine=google_scholar&hl=en",
+                "cites_id": "11759722690820242116"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Discriminative FaceTopics for face recognition via latent Dirichlet allocation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:VBDT71xRUdcC",
+            "citation_id": "-DAxp-cAAAAJ:VBDT71xRUdcC",
+            "authors": "TI Dhamecha, P Sharma, R Singh, M Vatsa",
+            "publication": "2016 IEEE Winter Conference on Applications of Computer Vision (WACV), 1-8, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14784138292918160539",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14784138292918160539&engine=google_scholar&hl=en",
+                "cites_id": "14784138292918160539"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Understanding thermal face detection: Challenges and evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:oE_QS-WwsdAC",
+            "citation_id": "-DAxp-cAAAAJ:oE_QS-WwsdAC",
+            "authors": "J Agrawal, A Pant, TI Dhamecha, R Singh, M Vatsa",
+            "publication": "Face Recognition Across the Imaging Spectrum, 139-163, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13083898094379158599",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13083898094379158599&engine=google_scholar&hl=en",
+                "cites_id": "13083898094379158599"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Harnessing auxiliary information: new methods to improve person identification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:xIusEVNJREcC",
+            "citation_id": "-DAxp-cAAAAJ:xIusEVNJREcC",
+            "authors": "S Bharadwaj, M Vatsa, R Singh",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15593046682778362402",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15593046682778362402&engine=google_scholar&hl=en",
+                "cites_id": "15593046682778362402"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Face anti-spoo\ufb01ng via motion magni\ufb01cation and multifeature videolet aggregation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:r56sNq9gaawC",
+            "citation_id": "-DAxp-cAAAAJ:r56sNq9gaawC",
+            "authors": "S Bharadwaj, TI Dhamecha, M Vatsa, R Singh",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9023968628484445901",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9023968628484445901&engine=google_scholar&hl=en",
+                "cites_id": "9023968628484445901"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Quality induced secure multiclassifier fingerprint verification using extended feature set",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:SeFeTyx0c_EC",
+            "citation_id": "-DAxp-cAAAAJ:SeFeTyx0c_EC",
+            "authors": "M Vatsa",
+            "publication": "West Virginia University, 2008",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6046127101071214252",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6046127101071214252&engine=google_scholar&hl=en",
+                "cites_id": "6046127101071214252"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Hybrid FEB face recognition algorithm.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "-DAxp-cAAAAJ:ZeXyd9-uunAC",
+            "authors": "SK Singh, DS Chauhan, R Singh, M Vatsa",
+            "publication": "WSEAS Transactions on Computers 2 (2), 373-378, 2003",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2332564642224609251",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2332564642224609251&engine=google_scholar&hl=en",
+                "cites_id": "2332564642224609251"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "Reducing the False Rejection Rate of Iris Recognition Using Textural and Topological",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:M7C5BM2v8n8C",
+            "citation_id": "-DAxp-cAAAAJ:M7C5BM2v8n8C",
+            "authors": "M Vatsa, R Singh, A Noore",
+            "publication": "International Journal of Signal Processing 2 (2), 0",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7445333774788007646",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7445333774788007646&engine=google_scholar&hl=en",
+                "cites_id": "7445333774788007646"
+            },
+            "year": ""
+        },
+        {
+            "title": "MTCD: Cataract detection via near infrared eye images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:djcsc3XHdKAC",
+            "citation_id": "-DAxp-cAAAAJ:djcsc3XHdKAC",
+            "authors": "P Tripathi, Y Akhter, M Khurshid, A Lakra, R Keshari, M Vatsa, R Singh",
+            "publication": "Computer Vision and Image Understanding 214, 103303, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "RGB-D Face Recognition using Reconstruction based Shared Representation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:Lpa4s8qvUTIC",
+            "citation_id": "-DAxp-cAAAAJ:Lpa4s8qvUTIC",
+            "authors": "S Ghosh, R Singh, M Vatsa, A Noore",
+            "publication": "2021 16th IEEE International Conference on Automatic Face and Gesture \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "When Sketch Face Recognition Meets Mask Obfuscation: Database and Benchmark",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:f-E_jMG6T4AC",
+            "citation_id": "-DAxp-cAAAAJ:f-E_jMG6T4AC",
+            "authors": "A Agarwal, N Ratha, M Vatsa, R Singh",
+            "publication": "2021 16th IEEE International Conference on Automatic Face and Gesture \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "AECNet: Attentive EfficientNet For Crowd Counting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:X1xEhyGaivYC",
+            "citation_id": "-DAxp-cAAAAJ:X1xEhyGaivYC",
+            "authors": "M Dosi, K Thakral, S Mittal, M Vatsa, R Singh",
+            "publication": "2021 16th IEEE International Conference on Automatic Face and Gesture \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Dual Sensor Indian Masked Face Dataset",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:Agc8PWtS8JkC",
+            "citation_id": "-DAxp-cAAAAJ:Agc8PWtS8JkC",
+            "authors": "S Mishra, P Majumdar, M Dosi, M Vatsa, R Singh",
+            "publication": "2021 16th IEEE International Conference on Automatic Face and Gesture \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "MD-CSDNetwork: Multi-Domain Cross Stitched Network for Deepfake Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:rwEhk56xNqMC",
+            "citation_id": "-DAxp-cAAAAJ:rwEhk56xNqMC",
+            "authors": "A Agarwal, A Agarwal, S Sinha, M Vatsa, R Singh",
+            "publication": "2021 16th IEEE International Conference on Automatic Face and Gesture \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Anatomizing Bias in Facial Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:kcGNQN_anIUC",
+            "citation_id": "-DAxp-cAAAAJ:kcGNQN_anIUC",
+            "authors": "R Singh, P Majumdar, S Mittal, M Vatsa",
+            "publication": "arXiv preprint arXiv:2112.06522, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Impact of Super-Resolution and Human Identification in Drone Surveillance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:EmjvLWWcsQIC",
+            "citation_id": "-DAxp-cAAAAJ:EmjvLWWcsQIC",
+            "authors": "A Agarwal, N Ratha, M Vatsa, R Singh",
+            "publication": "2021 IEEE International Workshop on Information Forensics and Security (WIFS \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "TBIOM Special Issue on \u201cBest Reviewed Papers From IJCB 2020\u2014Editorial\u201d",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:vrnMIr82eJkC",
+            "citation_id": "-DAxp-cAAAAJ:vrnMIr82eJkC",
+            "authors": "N Ratha, R Singh, V \u0160truc, IA Kakadiaris, JP Phillips, M Vatsa",
+            "publication": "IEEE Transactions on Biometrics, Behavior, and Identity Science 3 (4), 441-442, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Disguise Resilient Face Verification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:8_tS2Vw13FcC",
+            "citation_id": "-DAxp-cAAAAJ:8_tS2Vw13FcC",
+            "authors": "M Singh, S Nagpal, R Singh, M Vatsa",
+            "publication": "IEEE Transactions on Circuits and Systems for Video Technology, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Intelligent and Adaptive Mixup Technique for Adversarial Robustness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:ocbgtyEEUOwC",
+            "citation_id": "-DAxp-cAAAAJ:ocbgtyEEUOwC",
+            "authors": "A Agarwal, M Vatsa, R Singh, N Ratha",
+            "publication": "2021 IEEE International Conference on Image Processing (ICIP), 824-828, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Understanding Neural Responses to Face Verification of Cross-Domain Representations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:q82PccF7nXcC",
+            "citation_id": "-DAxp-cAAAAJ:q82PccF7nXcC",
+            "authors": "M Singh, S Nagpal, D Yadav, N Kohli, P Pandey, G Prabhakaran, R Singh, ...",
+            "publication": "2021 International Joint Conference on Neural Networks (IJCNN), 1-8, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Class Equilibrium using Coulomb's Law",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:dHRcJqc9SEQC",
+            "citation_id": "-DAxp-cAAAAJ:dHRcJqc9SEQC",
+            "authors": "S Chhabra, P Majumdar, M Vatsa, R Singh",
+            "publication": "2021 International Joint Conference on Neural Networks (IJCNN), 1-8, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "On Learning Deep Models with Imbalanced Data Distribution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:v7LLNfYe7h0C",
+            "citation_id": "-DAxp-cAAAAJ:v7LLNfYe7h0C",
+            "authors": "P Majumdar, R Singh, M Vatsa",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (18), 15720 \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Semi-Supervised Learning via Triplet Network Based Active Learning (Student Abstract)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:YXPZ0dOdYS4C",
+            "citation_id": "-DAxp-cAAAAJ:YXPZ0dOdYS4C",
+            "authors": "D Sundriyal, S Ghosh, M Vatsa, R Singh",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (18), 15903 \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "NEAP-F: Network Epoch Accuracy Prediction Framework (Student Abstract)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:QZWLLlSfqgYC",
+            "citation_id": "-DAxp-cAAAAJ:QZWLLlSfqgYC",
+            "authors": "A Chauhan, M Vatsa, R Singh",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (18), 15767 \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Identifying artificial artifacts in input data to detect adversarial attacks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:MvIMIWP2nqIC",
+            "citation_id": "-DAxp-cAAAAJ:MvIMIWP2nqIC",
+            "authors": "G Goswami, S Pankanti, NK Ratha, R Singh, M Vatsa",
+            "publication": "US Patent 10,944,767, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Facial analysis under low resolution and disguise variations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:hXZnTIgIr50C",
+            "citation_id": "-DAxp-cAAAAJ:hXZnTIgIr50C",
+            "authors": "M Singh, R Singh, M Vatsa",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Evolution of Newborn Face Recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:kxd3qP2_5uAC",
+            "citation_id": "-DAxp-cAAAAJ:kxd3qP2_5uAC",
+            "authors": "P Tripathi, R Keshari, M Vatsa, R Singh",
+            "publication": "Deep Learning-Based Face Analytics, 167-187, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Kernelized Heterogeneity Aware Cross-View Face Recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:lBZ7XAAYe3oC",
+            "citation_id": "-DAxp-cAAAAJ:lBZ7XAAYe3oC",
+            "authors": "TI Dhamecha, S Ghosh, M Vatsa, R Singh",
+            "publication": "Frontiers in Artificial Intelligence 4, 68, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "FamilyGAN: Generating Kin Face Images Using Generative Adversarial Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:m44aUaJR3ikC",
+            "citation_id": "-DAxp-cAAAAJ:m44aUaJR3ikC",
+            "authors": "R Sinha, M Vatsa, R Singh",
+            "publication": "European Conference on Computer Vision, 297-311, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Predicting deep learning architecture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:z3pV1qEBaUAC",
+            "citation_id": "-DAxp-cAAAAJ:z3pV1qEBaUAC",
+            "authors": "A Chauhan, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Presentation attack detection for face biometrics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:e-nnqdki048C",
+            "citation_id": "-DAxp-cAAAAJ:e-nnqdki048C",
+            "authors": "N Sanghvi, SK Singh, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Multimodal deep learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:vefPE_iVbj4C",
+            "citation_id": "-DAxp-cAAAAJ:vefPE_iVbj4C",
+            "authors": "R Sood, M Vatsa, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Detecting Iris spoofing attacks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:PD-wXv1Sh1EC",
+            "citation_id": "-DAxp-cAAAAJ:PD-wXv1Sh1EC",
+            "authors": "M Gupta, V Singh, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "On DenseResNet: residual connection finetuning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:oYVvnHz_XzQC",
+            "citation_id": "-DAxp-cAAAAJ:oYVvnHz_XzQC",
+            "authors": "P Prakash, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Trusted AI",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:ohFW0PAxsewC",
+            "citation_id": "-DAxp-cAAAAJ:ohFW0PAxsewC",
+            "authors": "M Tandon, M Garg, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Simultaneous detection of face attributes via multi-task learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:Q17yWvk9gpwC",
+            "citation_id": "-DAxp-cAAAAJ:Q17yWvk9gpwC",
+            "authors": "H Sundriyal, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Panoptic defenses for secure computer vision",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:x8G803Bi31IC",
+            "citation_id": "-DAxp-cAAAAJ:x8G803Bi31IC",
+            "authors": "A Agarwal, R Singh, M Vatsa",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Semi-supervised learning via triplet network based active learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:pcWPcJyQGiUC",
+            "citation_id": "-DAxp-cAAAAJ:pcWPcJyQGiUC",
+            "authors": "D Sundriyal, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Intuition Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:1l3MdapXzAoC",
+            "citation_id": "-DAxp-cAAAAJ:1l3MdapXzAoC",
+            "authors": "A Sankaran, M Vatsa, R Singh",
+            "publication": "Domain Adaptation for Visual Understanding, 111-127, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "AuthorGAN: Improving GAN Reproducibility using a Modular GAN Framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:2u1QkWOsl3MC",
+            "citation_id": "-DAxp-cAAAAJ:2u1QkWOsl3MC",
+            "authors": "R Sinha, A Sankaran, M Vatsa, R Singh",
+            "publication": "arXiv preprint arXiv:1911.13250, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Triplet Transform Learning for Automated Primate Face Recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:0kLwNjf3oFwC",
+            "citation_id": "-DAxp-cAAAAJ:0kLwNjf3oFwC",
+            "authors": "M Agarwal, S Sinha, M Singh, S Nagpal, R Singh, M Vatsa",
+            "publication": "2019 IEEE International Conference on Image Processing (ICIP), 3462-3466, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Mitigating false recognition of altered inputs in convolutional neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:bFuYayV9R1gC",
+            "citation_id": "-DAxp-cAAAAJ:bFuYayV9R1gC",
+            "authors": "G Goswami, S Pankanti, NK Ratha, R Singh, M Vatsa",
+            "publication": "US Patent App. 15/882,087, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Face Sketch Colorization via Supervised GANs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:ExNiBuTMO9IC",
+            "citation_id": "-DAxp-cAAAAJ:ExNiBuTMO9IC",
+            "authors": "YS Ramya, S Ghosh, M Vatsa, R Singh",
+            "publication": "2019 International Conference on Biometrics (ICB), 1-6, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Face recognition in drone-shot videos",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:pZ2CosqRuhkC",
+            "citation_id": "-DAxp-cAAAAJ:pZ2CosqRuhkC",
+            "authors": "I Kalra, M Vatsa, R Singh",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Adversary detection tool",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:wE8AsS3ykUMC",
+            "citation_id": "-DAxp-cAAAAJ:wE8AsS3ykUMC",
+            "authors": "A Goel, A Singh, M Vatsa, R Singh",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "KinshipGAN: generating kin images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:Np1obAXpBq8C",
+            "citation_id": "-DAxp-cAAAAJ:Np1obAXpBq8C",
+            "authors": "R Sinha, M Vatsa, R Singh",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Animal biometrics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:n8FNryW2AHIC",
+            "citation_id": "-DAxp-cAAAAJ:n8FNryW2AHIC",
+            "authors": "S Sinha, M Agarwal, R Singh, M Vatsa",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Self-supervised and collaborative learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:2mikiJ1VBVsC",
+            "citation_id": "-DAxp-cAAAAJ:2mikiJ1VBVsC",
+            "authors": "L Goel, R Singh, M Vatsa",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Video-based person re-Identi fication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:_u2aKJ9e-CoC",
+            "citation_id": "-DAxp-cAAAAJ:_u2aKJ9e-CoC",
+            "authors": "G Kaur, M Vatsa, R Singh",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Fingerphoto authentication in an unconstrained environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:uGrg30pLAbkC",
+            "citation_id": "-DAxp-cAAAAJ:uGrg30pLAbkC",
+            "authors": "S Chopra, M Vatsa, R Singh, A Malhotra",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Improving face recognition performance using color, shape, symmetry and texture attributes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:qQc65DSaYXMC",
+            "citation_id": "-DAxp-cAAAAJ:qQc65DSaYXMC",
+            "authors": "S Suri, M Vatsa, R Singh",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Deep learning approach for face recognition with disguise variations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:1pC5hbHeJ6IC",
+            "citation_id": "-DAxp-cAAAAJ:1pC5hbHeJ6IC",
+            "authors": "M Chawla, R Singh, M Vatsa",
+            "publication": "IIIT-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Synaptic weight update in deep spiking neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:wTekDMGr9GkC",
+            "citation_id": "-DAxp-cAAAAJ:wTekDMGr9GkC",
+            "authors": "T Arora, M Vatsa, R Singh",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Universal face detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:INdAjOZKYREC",
+            "citation_id": "-DAxp-cAAAAJ:INdAjOZKYREC",
+            "authors": "A Balasubramanian, M Vatsa, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "User Authentication via Finger-Selfies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:qOpkhvVCMvUC",
+            "citation_id": "-DAxp-cAAAAJ:qOpkhvVCMvUC",
+            "authors": "A Malhotra, S Chopra, M Vatsa, R Singh",
+            "publication": "Selfie Biometrics, 21-47, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Unraveling representations for face recognition: from handcrafted to deep learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:DTjSuSUbmXsC",
+            "citation_id": "-DAxp-cAAAAJ:DTjSuSUbmXsC",
+            "authors": "G Goswami, R Singh, M Vatsa",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Context-aware face recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:o0eFlWRwRSUC",
+            "citation_id": "-DAxp-cAAAAJ:o0eFlWRwRSUC",
+            "authors": "H Kalra, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Deep learning for attribute prediction and small sample size problems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:wH03y5nBhxsC",
+            "citation_id": "-DAxp-cAAAAJ:wH03y5nBhxsC",
+            "authors": "A Sethi, M Vatsa, R Singh",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Deep Learning: Fundamentals and Beyond",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:K-tzbvM8PMoC",
+            "citation_id": "-DAxp-cAAAAJ:K-tzbvM8PMoC",
+            "authors": "S Nagpal, M Singh, M Vatsa, R Singh",
+            "publication": "Deep Learning in Biometrics, 1-31, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Image forensics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:KPAPMsW7zc0C",
+            "citation_id": "-DAxp-cAAAAJ:KPAPMsW7zc0C",
+            "authors": "A Jain, M Vatsa, R Singh",
+            "publication": "IIITD-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "\u0422\u043e\u043c. 2018-June. Proceedings-2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, CVPRW 2018.-\u0421\u0435\u0440. Proceedings-2018 IEEE/CVF Conference on Computer \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:ve7iT2ZEuL4C",
+            "citation_id": "-DAxp-cAAAAJ:ve7iT2ZEuL4C",
+            "authors": "V Kushwaha, M Singh, R Singh, M Vatsa, N Ratha, R Chellappa, ...",
+            "publication": "Learning 851, 857, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Cross-spectral cross-resolution face recognition in videos",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:qkm5LKljiV4C",
+            "citation_id": "-DAxp-cAAAAJ:qkm5LKljiV4C",
+            "authors": "N Gupta, S Gupta, R Singh, M Vatsa",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Analysis and evaluation of algorithms for newborn face recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:zGWyAL6qfKUC",
+            "citation_id": "-DAxp-cAAAAJ:zGWyAL6qfKUC",
+            "authors": "M Agarwal, M Vatsa, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Pushing boundaries of face recognition: adversary, heterogeneity, and scale",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:1YatL4jblGcC",
+            "citation_id": "-DAxp-cAAAAJ:1YatL4jblGcC",
+            "authors": "TI Dhamecha, R Singh, M Vatsa",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Coupled deep learning for multi-modal retrieval",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:-c_eYhz9dBkC",
+            "citation_id": "-DAxp-cAAAAJ:-c_eYhz9dBkC",
+            "authors": "S Keswani, R Singh, M Vatsa",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Gender classification using RGB-D videos",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:xm1hsP5ya-EC",
+            "citation_id": "-DAxp-cAAAAJ:xm1hsP5ya-EC",
+            "authors": "N Agrawal, R Singh, M Vatsa",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Low rank group sparse representation based adaptive face recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:yaBp1wUtcLsC",
+            "citation_id": "-DAxp-cAAAAJ:yaBp1wUtcLsC",
+            "authors": "S Yadav, M Vatsa",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Face detection and verication in unconstrained videos: challenges, detection, and benchmark evaluation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:71d7Y1FijdoC",
+            "citation_id": "-DAxp-cAAAAJ:71d7Y1FijdoC",
+            "authors": "M Shah, M Vatsa, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Face and gender classification in crowd video",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:UY3hNwcQ290C",
+            "citation_id": "-DAxp-cAAAAJ:UY3hNwcQ290C",
+            "authors": "P Verma, R Singh, M Vatsa",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Latent fingerprint matching",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:dj1AAMDQi3QC",
+            "citation_id": "-DAxp-cAAAAJ:dj1AAMDQi3QC",
+            "authors": "A Sankaran, M Vatsa, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "IEEE Access Special Section Editorial: Applying Four D\u2019S of Machine Learning to Advance Biometrics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:WgvcDLhf7hwC",
+            "citation_id": "-DAxp-cAAAAJ:WgvcDLhf7hwC",
+            "authors": "M Vatsa, R Singh, K Bowyer",
+            "publication": "IEEE Access 3, 3083-3084, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Content quality in web 2.0 services: analysis, detection, systems and enhancement",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:yeKNu01O_4gC",
+            "citation_id": "-DAxp-cAAAAJ:yeKNu01O_4gC",
+            "authors": "D Correa, A Sureka",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Contributions in computer assisted diagnosis: breast cancer and autoimmune diseases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:SEKBqlyTJecC",
+            "citation_id": "-DAxp-cAAAAJ:SEKBqlyTJecC",
+            "authors": "P Agrawal, M Vatsa, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "traumatic brain injury, military, post-concussive disorder, gene-expression",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:gxb_f1p9zx4C",
+            "citation_id": "-DAxp-cAAAAJ:gxb_f1p9zx4C",
+            "authors": "BM Powell, G Goswami, M Vatsa, R Singh, A Noore",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Recognizing Face Images with Disguise Variations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:sfsSB7lKuh0C",
+            "citation_id": "-DAxp-cAAAAJ:sfsSB7lKuh0C",
+            "authors": "N Kose, JL Dugelay, R Singh, M Vatsa",
+            "publication": "Face Recognition in Adverse Conditions, 227-251, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Quality Induced Multiclassifier Fingerprint Verification Using Extended Feature Set",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:aU4yMueWZ3QC",
+            "citation_id": "-DAxp-cAAAAJ:aU4yMueWZ3QC",
+            "authors": "M Vatsa",
+            "publication": "Signal and Image Processing for Biometrics, 231-254, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Can humans and automatic algorithms recognize look-alike faces?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:b0M2c_1WBrUC",
+            "citation_id": "-DAxp-cAAAAJ:b0M2c_1WBrUC",
+            "authors": "H Lamba, A Sarkar, M Vatsa, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Recognizing surgically altered face images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:EUQCXRtRnyEC",
+            "citation_id": "-DAxp-cAAAAJ:EUQCXRtRnyEC",
+            "authors": "HS Bhatt, S Bharadwaj, R Singh, M Vatsa",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Design of face detection CAPTCHA for implementing robust security",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:f2IySw72cVMC",
+            "citation_id": "-DAxp-cAAAAJ:f2IySw72cVMC",
+            "authors": "BM Powell, AC Day, R Singh, M Vatsa, A Noore",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Articles in Press\u2013available online",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:M8meJADSprsC",
+            "citation_id": "-DAxp-cAAAAJ:M8meJADSprsC",
+            "authors": "L Cohen, G Avrahami-Bakish, M Last, A Kandel, O Kipersztok, H Alex, ...",
+            "publication": "Information Fusion 8, 333-334, 2007",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Articles in Press\u2013available online",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:yNlG6JgpFqoC",
+            "citation_id": "-DAxp-cAAAAJ:yNlG6JgpFqoC",
+            "authors": "Q Zhu, SL Aldridge, TN Resha, L Cohen, G Avrahami-Bakish, M Last, ...",
+            "publication": "Information Fusion 8, 110-111, 2007",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Articles in Press\u2013available online",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:cTy_cm4PQvYC",
+            "citation_id": "-DAxp-cAAAAJ:cTy_cm4PQvYC",
+            "authors": "Q Zhu, SL Aldridge, TN Resha, Y Zheng, EA Essock, BC Hansen, ...",
+            "publication": "Information Fusion 7, 339-340, 2006",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Video Biometrics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:J_g5lzvAfSwC",
+            "citation_id": "-DAxp-cAAAAJ:J_g5lzvAfSwC",
+            "authors": "M Vatsa, R Singh, P Gupta",
+            "publication": "Video Data Management and Information Retrieval, 149-176, 2005",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Biometric Technologies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:YFjsv_pBGBYC",
+            "citation_id": "-DAxp-cAAAAJ:YFjsv_pBGBYC",
+            "authors": "M Vatsa, R Singh, P Gupta, AK Kaushik",
+            "publication": "Encyclopedia of Multimedia Technology and Networking, 56-62, 2005",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Biometric Databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:maZDTaKrznsC",
+            "citation_id": "-DAxp-cAAAAJ:maZDTaKrznsC",
+            "authors": "M Vatsa, R Singh, P Gupta, AK Kaushik",
+            "publication": "Encyclopedia of Database Technologies and Applications, 42-46, 2005",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Security Problems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:E10ZYwHxBI8C",
+            "citation_id": "-DAxp-cAAAAJ:E10ZYwHxBI8C",
+            "authors": "M Vatsa, LR Boregowda, SSL Honeywell",
+            "publication": "Multimedia Systems and Content-based Image Retrieval, 62, 2004",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Framework for biometric match score fusion using statistical and belief models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:u9iWguZQMMsC",
+            "citation_id": "-DAxp-cAAAAJ:u9iWguZQMMsC",
+            "authors": "M Vatsa, R Singh, A Noore",
+            "publication": "Infinite Study, 2004",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Face Recognition Technology: A Biometric Solution to Security Problems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:70eg2SAEIzsC",
+            "citation_id": "-DAxp-cAAAAJ:70eg2SAEIzsC",
+            "authors": "SK Singh, M Vatsa, R Singh, KK Shukla, LR Boregowda",
+            "publication": "Multimedia Systems and Content-Based Image Retrieval, 62-100, 2004",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Face Recognizing Robot",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:ZpgFv6i7Z4gC",
+            "citation_id": "-DAxp-cAAAAJ:ZpgFv6i7Z4gC",
+            "authors": "SK Singh, M Vatsa, R Singh",
+            "publication": "CUMINCAD, 2001",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2001"
+        },
+        {
+            "title": "AVSS 2021",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:uQyLbZAWguAC",
+            "citation_id": "-DAxp-cAAAAJ:uQyLbZAWguAC",
+            "authors": "R Chellappa, C Distante, R Vidal, BC Lovell, J Lu, V Patel, M Vatsa, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "A2-LINK: Recognizing Disguised Faces via Active Learning and Adversarial Noise Based Inter-Domain Knowledge...........",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:0klj8wIChNAC",
+            "citation_id": "-DAxp-cAAAAJ:0klj8wIChNAC",
+            "authors": "A Suri, M Vatsa, R Singh, S Kirchgasser, C Kauba, YL Lai, J Zhe, A Uhl, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "IEEE ReadyNotes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:beqBT5984LEC",
+            "citation_id": "-DAxp-cAAAAJ:beqBT5984LEC",
+            "authors": "R Patel, IBM Gopal Pingali, G Qian, R Raisamo, E Reiter, A Schmidt, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "BASIS: A Practical Multi-User Broadcast Authentication Scheme in Wireless Sensor Networks.......... K.-A. Shim 1545",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:RgMnzfD6kpIC",
+            "citation_id": "-DAxp-cAAAAJ:RgMnzfD6kpIC",
+            "authors": "T Larrain, JS Bernhard Jr, D Mery, KW Bowyer, G Goswami, M Vatsa, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Multiple Watermarking Enhances Security of Fingerprint Images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:_TjUWtciUekC",
+            "citation_id": "-DAxp-cAAAAJ:_TjUWtciUekC",
+            "authors": "A Noore, M Vatsa, R Singh, K Morris, MM Houck",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "PPM-HDA: Privacy-Preserving and Multifunctional Health Data Aggregation With Fault Tolerance....................",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:MnogvFdIBdwC",
+            "citation_id": "-DAxp-cAAAAJ:MnogvFdIBdwC",
+            "authors": "A Bharati, R Singh, M Vatsa, KW Bowyer, H Moosavi, FM Bui",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "OnEffectivenessofHistogramofOrientedGradientFeatures forVisibletoNearInfraredFaceMatching",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:DwWRdx-KAo4C",
+            "citation_id": "-DAxp-cAAAAJ:DwWRdx-KAo4C",
+            "authors": "TI Dhamecha, P Sharma, R Singh, M Vatsa",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Program Chairs\u2019 Welcome to ICB 2013",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:rJyh6hJnyfgC",
+            "citation_id": "-DAxp-cAAAAJ:rJyh6hJnyfgC",
+            "authors": "J Fierrez, A Kumar, M Vatsa, R Veldhuis",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "HYBRID FUSION FOR MULTICHANNEL IRIS RECOGNITION",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:UKB2i6g6GNMC",
+            "citation_id": "-DAxp-cAAAAJ:UKB2i6g6GNMC",
+            "authors": "M Vatsa, R Singh, A Ross, A Noore",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "BEST PAPERS FROM THE 2007 BIOMETRICS: THEORY, APPLICATIONS, AND SYSTEMS (BTAS 07) CONFERENCE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-DAxp-cAAAAJ&cstart=300&pagesize=100&citation_for_view=-DAxp-cAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "-DAxp-cAAAAJ:bEWYMUwI8FkC",
+            "authors": "G Medioni, J Choi, CH Kuo, D Fidaleo, M Vatsa, R Singh, A Noore, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 10439,
+                    "since_2017": 6583
+                }
+            },
+            {
+                "h_index": {
+                    "all": 57,
+                    "since_2017": 45
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 191,
+                    "since_2017": 160
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2006,
+                "citations": 38
+            },
+            {
+                "year": 2007,
+                "citations": 70
+            },
+            {
+                "year": 2008,
+                "citations": 135
+            },
+            {
+                "year": 2009,
+                "citations": 157
+            },
+            {
+                "year": 2010,
+                "citations": 208
+            },
+            {
+                "year": 2011,
+                "citations": 261
+            },
+            {
+                "year": 2012,
+                "citations": 445
+            },
+            {
+                "year": 2013,
+                "citations": 366
+            },
+            {
+                "year": 2014,
+                "citations": 564
+            },
+            {
+                "year": 2015,
+                "citations": 693
+            },
+            {
+                "year": 2016,
+                "citations": 754
+            },
+            {
+                "year": 2017,
+                "citations": 790
+            },
+            {
+                "year": 2018,
+                "citations": 1151
+            },
+            {
+                "year": 2019,
+                "citations": 1342
+            },
+            {
+                "year": 2020,
+                "citations": 1389
+            },
+            {
+                "year": 2021,
+                "citations": 1544
+            },
+            {
+                "year": 2022,
+                "citations": 353
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=-DAxp-cAAAAJ",
+        "available": 35,
+        "not_available": 14
+    },
+    "co_authors": [
+        {
+            "name": "Richa Singh",
+            "link": "https://scholar.google.com/citations?user=okqK5UAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=okqK5UAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "okqK5UAAAAAJ",
+            "affiliations": "Professor, IIT Jodhpur",
+            "email": "Verified email at iitj.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=okqK5UAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Samarth Bharadwaj",
+            "link": "https://scholar.google.com/citations?user=zEnqhxkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zEnqhxkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "zEnqhxkAAAAJ",
+            "affiliations": "Senior Applied Scientist, Microsoft | ex-IBM Research",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zEnqhxkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Akshay Agarwal, PhD",
+            "link": "https://scholar.google.com/citations?user=LrW6Hb4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LrW6Hb4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "LrW6Hb4AAAAJ",
+            "affiliations": "Postdoctoral Associate, University at Buffalo, SUNY, NY",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LrW6Hb4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Gaurav Goswami",
+            "link": "https://scholar.google.com/citations?user=T7GEOxIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=T7GEOxIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "T7GEOxIAAAAJ",
+            "affiliations": "IBM Singapore",
+            "email": "Verified email at ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=T7GEOxIAAAAJ&citpid=3"
+        },
+        {
+            "name": "Maneet Singh",
+            "link": "https://scholar.google.com/citations?user=Wo__eiwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Wo__eiwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "Wo__eiwAAAAJ",
+            "affiliations": "Senior Specialist, AI Garage, Mastercard",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Wo__eiwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Himanshu Sharad Bhatt",
+            "link": "https://scholar.google.com/citations?user=dZQOltMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dZQOltMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "dZQOltMAAAAJ",
+            "affiliations": "Research Scientist, Xerox Research Centre India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Nalini Ratha",
+            "link": "https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mIPd9DkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "mIPd9DkAAAAJ",
+            "affiliations": "University at Buffalo-SUNY",
+            "email": "Verified email at buffalo.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mIPd9DkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Anush Sankaran",
+            "link": "https://scholar.google.com/citations?user=NF8is_sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NF8is_sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "NF8is_sAAAAJ",
+            "affiliations": "IBM Research AI",
+            "email": "Verified email at in.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NF8is_sAAAAJ&citpid=2"
+        },
+        {
+            "name": "Daksha Yadav",
+            "link": "https://scholar.google.com/citations?user=ymwP4uoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ymwP4uoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "ymwP4uoAAAAJ",
+            "affiliations": "Signify, West Virginia University, IIIT-Delhi",
+            "email": "Verified email at mix.wvu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ymwP4uoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Naman Kohli",
+            "link": "https://scholar.google.com/citations?user=9gMiEe0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9gMiEe0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "9gMiEe0AAAAJ",
+            "affiliations": "Amazon",
+            "email": "Verified email at mix.wvu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Shruti Nagpal",
+            "link": "https://scholar.google.com/citations?user=JBAv0d0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JBAv0d0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "JBAv0d0AAAAJ",
+            "affiliations": "PhD Scholar, IIIT - Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JBAv0d0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Tejas Indulal Dhamecha",
+            "link": "https://scholar.google.com/citations?user=Fln8oI8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Fln8oI8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "Fln8oI8AAAAJ",
+            "affiliations": "IBM Research, India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Fln8oI8AAAAJ&citpid=3"
+        },
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Rohit Keshari",
+            "link": "https://scholar.google.com/citations?user=Ib_LM-8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ib_LM-8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "Ib_LM-8AAAAJ",
+            "affiliations": "Applied Scientist @ Amazon | PhD from IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ib_LM-8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Arun Ross",
+            "link": "https://scholar.google.com/citations?user=7IiUQDkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7IiUQDkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "7IiUQDkAAAAJ",
+            "affiliations": "Professor | John and Eva Cillag Endowed Chair | Michigan State University",
+            "email": "Verified email at cse.msu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7IiUQDkAAAAJ&citpid=13"
+        },
+        {
+            "name": "Kevin W. Bowyer",
+            "link": "https://scholar.google.com/citations?user=XZkvOTEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XZkvOTEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "XZkvOTEAAAAJ",
+            "affiliations": "Schubmehl-Prein Family Professor of Computer Science and Engineering, University of Notre Dame",
+            "email": "Verified email at nd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XZkvOTEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Aakarsh Malhotra",
+            "link": "https://scholar.google.com/citations?user=zr1H6t8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zr1H6t8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "zr1H6t8AAAAJ",
+            "affiliations": "Ph.D. | IIIT-Delhi | IIT Jodhpur",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zr1H6t8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Puspita Majumdar",
+            "link": "https://scholar.google.com/citations?user=GaWMs0AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GaWMs0AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "GaWMs0AAAAAJ",
+            "affiliations": "PhD Scholar, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GaWMs0AAAAAJ&citpid=1"
+        },
+        {
+            "name": "Paritosh Mittal",
+            "link": "https://scholar.google.com/citations?user=2BDy2N4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2BDy2N4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "2BDy2N4AAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at cs.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2BDy2N4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Brian M. Powell, PhD",
+            "link": "https://scholar.google.com/citations?user=hM58exQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hM58exQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=300",
+            "author_id": "hM58exQAAAAJ",
+            "affiliations": "West Virginia University",
+            "email": "Verified email at mail.wvu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hM58exQAAAAJ&citpid=5"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=-DAxp-cAAAAJ%26hl&engine=google_scholar_author&hl=en&num=100&start=400",
+        "current": "https://serpapi.com/search.json?author_id=-DAxp-cAAAAJ%26hl&engine=google_scholar_author&hl=en&num=100&start=300",
+        "previous": "https://serpapi.com/search.json?author_id=-DAxp-cAAAAJ%26hl&engine=google_scholar_author&hl=en&num=100&start=200"
+    }
+}

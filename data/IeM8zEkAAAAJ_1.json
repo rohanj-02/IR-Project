@@ -1,0 +1,385 @@
+{
+    "search_metadata": {
+        "id": "62574c6f2bc7d874cf2aa0de",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/378d123c108db939/62574c6f2bc7d874cf2aa0de.json",
+        "created_at": "2022-04-13 22:19:27 UTC",
+        "processed_at": "2022-04-13 22:19:27 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=IeM8zEkAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/378d123c108db939/62574c6f2bc7d874cf2aa0de.html",
+        "total_time_taken": 2.44
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "IeM8zEkAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Siddharth Dawar",
+        "affiliations": "Ph.D. (CSE), IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.linkedin.com/in/siddharth-dawar-ph-d-a0078530/",
+        "interests": [
+            {
+                "title": "Data Mining",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_mining",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining"
+            },
+            {
+                "title": "Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aalgorithms"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IeM8zEkAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "UP-Hist tree: An efficient data structure for mining high utility patterns from transaction databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "IeM8zEkAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Dawar, V Goyal",
+            "publication": "Proceedings of the 19th international database engineering & applications \u2026, 2015",
+            "cited_by": {
+                "value": 33,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17689929464535547511",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17689929464535547511&engine=google_scholar&hl=en",
+                "cites_id": "17689929464535547511"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Mining top-k high-utility itemsets from a data stream under sliding window model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "IeM8zEkAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "S Dawar, V Sharma, V Goyal",
+            "publication": "Applied Intelligence 47 (4), 1240-1255, 2017",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14771330392296355111",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14771330392296355111&engine=google_scholar&hl=en",
+                "cites_id": "14771330392296355111"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "A hybrid framework for mining high-utility itemsets in a sparse transaction database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "IeM8zEkAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "Applied Intelligence 47 (3), 809-827, 2017",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8663339620124161318",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8663339620124161318&engine=google_scholar&hl=en",
+                "cites_id": "8663339620124161318"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "High utility rare itemset mining over transaction databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "IeM8zEkAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Goyal, S Dawar, A Sureka",
+            "publication": "International Workshop on Databases in Networked Information Systems, 27-40, 2015",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=703439146842147391",
+                "serpapi_link": "https://serpapi.com/search.json?cites=703439146842147391&engine=google_scholar&hl=en",
+                "cites_id": "703439146842147391"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "An efficient algorithm for mining high-utility itemsets with discount notion",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "IeM8zEkAAAAJ:d1gkVwhDpl0C",
+            "authors": "R Bansal, S Dawar, V Goyal",
+            "publication": "International Conference on Big Data Analytics, 84-98, 2015",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17251243607268292314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17251243607268292314&engine=google_scholar&hl=en",
+                "cites_id": "17251243607268292314"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Top-k high utility episode mining from a complex event sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "IeM8zEkAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Rathore, S Dawar, V Goyal, D Patel",
+            "publication": "Proceedings of the 21st international conference on management of data \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9673081841596249250",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9673081841596249250&engine=google_scholar&hl=en",
+                "cites_id": "9673081841596249250"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "A more efficient algorithm to mine skyline frequent-utility patterns",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "IeM8zEkAAAAJ:2osOgNQ5qMEC",
+            "authors": "JCW Lin, L Yang, P Fournier-Viger, S Dawar, V Goyal, A Sureka, B Vo",
+            "publication": "International conference on genetic and evolutionary computing, 127-135, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9094790588000724314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9094790588000724314&engine=google_scholar&hl=en",
+                "cites_id": "9094790588000724314"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "High-utility itemset mining for subadditive monotone utility functions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "IeM8zEkAAAAJ:YsMSGLbcyi4C",
+            "authors": "S Dawar, D Bera, V Goyal",
+            "publication": "arXiv preprint arXiv:1812.07208, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3065669005624603766",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3065669005624603766&engine=google_scholar&hl=en",
+                "cites_id": "3065669005624603766"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A one-phase tree-based algorithm for mining high-utility itemsets from a transaction database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "IeM8zEkAAAAJ:eQOLeE2rZwMC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "arXiv preprint arXiv:1911.07151, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7118066689247222381",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7118066689247222381&engine=google_scholar&hl=en",
+                "cites_id": "7118066689247222381"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Efficient reverse k nearest neighbor evaluation for hierarchical index",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "IeM8zEkAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "arXiv preprint arXiv:1506.04867, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10097553270208544275",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10097553270208544275&engine=google_scholar&hl=en",
+                "cites_id": "10097553270208544275"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "UP-Hist Tree: efficient data structure for high utility pattern mining from transaction databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:qjMakFHDy7sC",
+            "citation_id": "IeM8zEkAAAAJ:qjMakFHDy7sC",
+            "authors": "V Goyal, S Dawar",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11115170736579401384",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11115170736579401384&engine=google_scholar&hl=en",
+                "cites_id": "11115170736579401384"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "SMIM framework to generalize high-utility itemset mining",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:roLk4NBRz8UC",
+            "citation_id": "IeM8zEkAAAAJ:roLk4NBRz8UC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "Advanced Data Mining and Applications, 2021, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "High-utility and diverse itemset mining",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:ufrVoPGSRksC",
+            "citation_id": "IeM8zEkAAAAJ:ufrVoPGSRksC",
+            "authors": "A Verma, S Dawar, R Kumar, S Navathe, V Goyal",
+            "publication": "Applied Intelligence, 1-15, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Mining high-utility itemsets from a transaction database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "IeM8zEkAAAAJ:LkGwnXOMwfcC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Mining Top-k Trajectory-Patterns from Anonymized Data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:WF5omc3nYNoC",
+            "citation_id": "IeM8zEkAAAAJ:WF5omc3nYNoC",
+            "authors": "AS Saxena, S Dawar, V Goyal, D Bera",
+            "publication": "arXiv preprint arXiv:1912.01861, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A More Efficient Algorithm to Mine Skyline Frequent-Utility Patterns",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "IeM8zEkAAAAJ:UeHWp8X0CEIC",
+            "authors": "S Dawar, V Goyal, A Sureka, B Vo",
+            "publication": "Genetic and Evolutionary Computing: Proceedings of the Tenth International \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Privacy preserving reverse spatial and textual nearest neighbour query",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "IeM8zEkAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Dawar, V Goyal",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 122,
+                    "since_2017": 109
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2013,
+                "citations": 1
+            },
+            {
+                "year": 2014,
+                "citations": 2
+            },
+            {
+                "year": 2015,
+                "citations": 9
+            },
+            {
+                "year": 2016,
+                "citations": 16
+            },
+            {
+                "year": 2017,
+                "citations": 12
+            },
+            {
+                "year": 2018,
+                "citations": 27
+            },
+            {
+                "year": 2019,
+                "citations": 20
+            },
+            {
+                "year": 2020,
+                "citations": 24
+            },
+            {
+                "year": 2021,
+                "citations": 10
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=IeM8zEkAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vikram Goyal",
+            "link": "https://scholar.google.com/citations?user=YJaVmSwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YJaVmSwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YJaVmSwAAAAJ",
+            "affiliations": "Professor",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Debajyoti Bera",
+            "link": "https://scholar.google.com/citations?user=kv2a54oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kv2a54oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "kv2a54oAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ashish Sureka",
+            "link": "https://scholar.google.com/citations?user=-XjsfqYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-XjsfqYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-XjsfqYAAAAJ",
+            "affiliations": "Founder and Director @ Robo Paathshaala, Associate Professor @ Ashoka University",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-XjsfqYAAAAJ&citpid=5"
+        },
+        {
+            "name": "Dhaval Patel",
+            "link": "https://scholar.google.com/citations?user=c06_VJAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c06_VJAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c06_VJAAAAAJ",
+            "affiliations": "IBM TJ Watson Research",
+            "email": "Verified email at iitr.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c06_VJAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jerry Chun-Wei Lin",
+            "link": "https://scholar.google.com/citations?user=Gd0ImD8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Gd0ImD8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Gd0ImD8AAAAJ",
+            "affiliations": "IET Fellow, Professor, Western Norway University of Applied Sciences, Bergen, Norway",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Gd0ImD8AAAAJ&citpid=3"
+        },
+        {
+            "name": "Philippe Fournier-Viger",
+            "link": "https://scholar.google.com/citations?user=QG_7KjoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QG_7KjoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QG_7KjoAAAAJ",
+            "affiliations": "Distinguished professor, Shenzhen University, China",
+            "email": "Verified email at szu.edu.cn",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QG_7KjoAAAAJ&citpid=5"
+        }
+    ]
+}

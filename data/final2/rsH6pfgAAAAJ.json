@@ -1,0 +1,598 @@
+{
+    "search_metadata": {
+        "id": "62574cba34ff9576eacd6183",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a37429d172c5da24/62574cba34ff9576eacd6183.json",
+        "created_at": "2022-04-13 22:20:42 UTC",
+        "processed_at": "2022-04-13 22:20:42 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=rsH6pfgAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a37429d172c5da24/62574cba34ff9576eacd6183.html",
+        "total_time_taken": 1.75,
+        "total_articles": 35,
+        "total_co_authors": 1
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "rsH6pfgAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sri Harsha Gade",
+        "affiliations": "ARM Embedded Technologies Ltd.",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Heterogeneous system architectures",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:heterogeneous_system_architectures",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aheterogeneous_system_architectures"
+            },
+            {
+                "title": "Network-on-Chip",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_on_chip",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_on_chip"
+            },
+            {
+                "title": "Many-core architectures",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:many_core_architectures",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amany_core_architectures"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rsH6pfgAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Interference-aware wireless network-on-chip architecture using directional antennas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "rsH6pfgAAAAJ:UeHWp8X0CEIC",
+            "authors": "HK Mondal, SH Gade, MS Shamim, S Deb, A Ganguly",
+            "publication": "IEEE Transactions on Multi-Scale Computing Systems 3 (3), 193-205, 2016",
+            "cited_by": {
+                "value": 45,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10138297909606335720",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10138297909606335720&engine=google_scholar&hl=en",
+                "cites_id": "10138297909606335720"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "HyWin: Hybrid wireless NoC with sandboxed sub-networks for CPU/GPU architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "rsH6pfgAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "SH Gade, S Deb",
+            "publication": "IEEE Transactions on computers 66 (7), 1145-1158, 2016",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13662204415409784221",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13662204415409784221&engine=google_scholar&hl=en",
+                "cites_id": "13662204415409784221"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Adaptive multi-voltage scaling in wireless NoC for high performance low power applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "rsH6pfgAAAAJ:u-x6o8ySG0sC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "2016 Design, Automation & Test in Europe Conference & Exhibition (DATE \u2026, 2016",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745840138465478835",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2745840138465478835&engine=google_scholar&hl=en",
+                "cites_id": "2745840138465478835"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Power efficient router architecture for wireless Network-on-Chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "rsH6pfgAAAAJ:2osOgNQ5qMEC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Kaushik, S Deb",
+            "publication": "2016 17th International Symposium on Quality Electronic Design (ISQED), 227-233, 2016",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10596869314230637281",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10596869314230637281&engine=google_scholar&hl=en",
+                "cites_id": "10596869314230637281"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Adaptive multi-voltage scaling with utilization prediction for energy-efficient wireless NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "rsH6pfgAAAAJ:nb7KW1ujOQ8C",
+            "authors": "HK Mondal, SH Gade, S Kaushik, S Deb",
+            "publication": "IEEE Transactions on Sustainable Computing 2 (4), 382-395, 2017",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=209088502047822891",
+                "serpapi_link": "https://serpapi.com/search.json?cites=209088502047822891&engine=google_scholar&hl=en",
+                "cites_id": "209088502047822891"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Energy-efficient transceiver for wireless NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:xtRiw3GOFMkC",
+            "citation_id": "rsH6pfgAAAAJ:xtRiw3GOFMkC",
+            "authors": "HK Mondal, S Kaushik, SH Gade, S Deb",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7384330169810913578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7384330169810913578&engine=google_scholar&hl=en",
+                "cites_id": "7384330169810913578"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "An efficient hardware implementation of dvfs in multi-core system with wireless network-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "rsH6pfgAAAAJ:IjCSPb-OGe4C",
+            "authors": "HK Mondal, GNS Harsha, S Deb",
+            "publication": "2014 IEEE Computer Society Annual Symposium on VLSI, 184-189, 2014",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4142081414836223845",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4142081414836223845&engine=google_scholar&hl=en",
+                "cites_id": "4142081414836223845"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "OFDM based high data rate, fading resilient transceiver for wireless networks-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:P5F9QuxV20EC",
+            "citation_id": "rsH6pfgAAAAJ:P5F9QuxV20EC",
+            "authors": "SH Gade, S Garg, S Deb",
+            "publication": "2017 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 483-488, 2017",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6764038686113178533",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6764038686113178533&engine=google_scholar&hl=en",
+                "cites_id": "6764038686113178533"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Millimeter wave wireless interconnects in deep submicron chips: Challenges and opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:l7t_Zn2s7bgC",
+            "citation_id": "rsH6pfgAAAAJ:l7t_Zn2s7bgC",
+            "authors": "SH Gade, SS Ram, S Deb",
+            "publication": "Integration 64, 127-136, 2019",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11637718126190734772,15441486616394199867",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11637718126190734772%2C15441486616394199867&engine=google_scholar&hl=en",
+                "cites_id": "11637718126190734772,15441486616394199867"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "P2noc: Power-and performance-aware noc architectures for sustainable computing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:KxtntwgDAa4C",
+            "citation_id": "rsH6pfgAAAAJ:KxtntwgDAa4C",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "Sustainable Computing: Informatics and Systems 16, 25-37, 2017",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1274032909442954454",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1274032909442954454&engine=google_scholar&hl=en",
+                "cites_id": "1274032909442954454"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Achievable performance enhancements with mm-wave wireless interconnects in noc",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "rsH6pfgAAAAJ:d1gkVwhDpl0C",
+            "authors": "SH Gade, S Deb",
+            "publication": "Proceedings of the 9th International Symposium on Networks-on-Chip, 1-2, 2015",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5442425268649247013",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5442425268649247013&engine=google_scholar&hl=en",
+                "cites_id": "5442425268649247013"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A hardware and thermal analysis of dvfs in a multi-core system with hybrid wnoc architecture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:qjMakFHDy7sC",
+            "citation_id": "rsH6pfgAAAAJ:qjMakFHDy7sC",
+            "authors": "SH Gade, HK Mondal, S Deb",
+            "publication": "2015 28th International Conference on VLSI Design, 117-122, 2015",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6525920157848706553",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6525920157848706553&engine=google_scholar&hl=en",
+                "cites_id": "6525920157848706553"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A utilization aware robust channel access mechanism for wireless nocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:u9iWguZQMMsC",
+            "citation_id": "rsH6pfgAAAAJ:u9iWguZQMMsC",
+            "authors": "SH Gade, SS Rout, M Sinha, HK Mondal, W Singh, S Deb",
+            "publication": "2018 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2018",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5389732244908841241",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5389732244908841241&engine=google_scholar&hl=en",
+                "cites_id": "5389732244908841241"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Path loss-aware adaptive transmission power control scheme for energy-efficient wireless noc",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:08ZZubdj9fEC",
+            "citation_id": "rsH6pfgAAAAJ:08ZZubdj9fEC",
+            "authors": "S Kaushik, M Agrawal, HK Mondal, SH Gade, S Deb",
+            "publication": "2017 IEEE 60th International Midwest Symposium on Circuits and Systems \u2026, 2017",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17603545411982687022",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17603545411982687022&engine=google_scholar&hl=en",
+                "cites_id": "17603545411982687022"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Enabling reliable high throughput on-chip wireless communication for many core architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "rsH6pfgAAAAJ:Tiz5es2fbqcC",
+            "authors": "SH Gade, M Sinha, SS Rout, S Deb",
+            "publication": "2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 591-596, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1861217880708450666",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1861217880708450666&engine=google_scholar&hl=en",
+                "cites_id": "1861217880708450666"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Data-flow aware CNN accelerator with hybrid wireless interconnection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:K3LRdlH-MEoC",
+            "citation_id": "rsH6pfgAAAAJ:K3LRdlH-MEoC",
+            "authors": "M Sinha, SH Gade, W Singh, S Deb",
+            "publication": "2018 IEEE 29th International Conference on Application-specific Systems \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6562492205955407067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6562492205955407067&engine=google_scholar&hl=en",
+                "cites_id": "6562492205955407067"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Dynamic noc platform for varied application needs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:XiSMed-E-HIC",
+            "citation_id": "rsH6pfgAAAAJ:XiSMed-E-HIC",
+            "authors": "SS Rout, HK Mondai, R Juneja, SH Gade, S Deb",
+            "publication": "2018 19th International Symposium on Quality Electronic Design (ISQED), 232-237, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10141755728251336103",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10141755728251336103&engine=google_scholar&hl=en",
+                "cites_id": "10141755728251336103"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Power-and performance-aware fine-grained reconfigurable router architecture for NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "rsH6pfgAAAAJ:9yKSN-GCB0IC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "2015 Sixth International Green and Sustainable Computing Conference (IGSC), 1-6, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5825298310196784495",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5825298310196784495&engine=google_scholar&hl=en",
+                "cites_id": "5825298310196784495"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A low-cost non-intrusive appliance load monitoring system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "rsH6pfgAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Das, A Shukla, GNS Harsha, S Deb",
+            "publication": "2013 3rd IEEE International Advance Computing Conference (IACC), 1641-1644, 2013",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7125041122037283990",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7125041122037283990&engine=google_scholar&hl=en",
+                "cites_id": "7125041122037283990"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "On-chip wireless channel propagation: Impact of antenna directionality and placement on channel performance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:tOudhMTPpwUC",
+            "citation_id": "rsH6pfgAAAAJ:tOudhMTPpwUC",
+            "authors": "SH Gade, SS Rout, S Deb",
+            "publication": "2018 Twelfth IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=791616036416384830",
+                "serpapi_link": "https://serpapi.com/search.json?cites=791616036416384830&engine=google_scholar&hl=en",
+                "cites_id": "791616036416384830"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Energy efficient chip-to-chip wireless interconnection for heterogeneous architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:B3FOqHPlNUQC",
+            "citation_id": "rsH6pfgAAAAJ:B3FOqHPlNUQC",
+            "authors": "SH Gade, MM Ahmed, S Deb, A Ganguly",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 24 (5 \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112399373785790556",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5112399373785790556&engine=google_scholar&hl=en",
+                "cites_id": "5112399373785790556"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Reliability analysis of on-chip wireless links for many core wnocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:vRqMK49ujn8C",
+            "citation_id": "rsH6pfgAAAAJ:vRqMK49ujn8C",
+            "authors": "SH Gade, SS Rout, R Kashyap, S Deb",
+            "publication": "2018 Conference on Design of Circuits and Integrated Systems (DCIS), 1-6, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6641956860646871124",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6641956860646871124&engine=google_scholar&hl=en",
+                "cites_id": "6641956860646871124"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Energy efficient noc router for high throughput applications in many-core gpus",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:OU6Ihb5iCvQC",
+            "citation_id": "rsH6pfgAAAAJ:OU6Ihb5iCvQC",
+            "authors": "S Bansal, HK Mondal, SH Gade, S Deb",
+            "publication": "2017 IEEE International Symposium on Nanoelectronic and Information Systems \u2026, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8787756307556344178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8787756307556344178&engine=google_scholar&hl=en",
+                "cites_id": "8787756307556344178"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Design of signal-matched critically sampled fir rational filterbank",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "rsH6pfgAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Gogna, SH Gade, A Gupta",
+            "publication": "2015 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10034166381770990478",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10034166381770990478&engine=google_scholar&hl=en",
+                "cites_id": "10034166381770990478"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Disparity map computation for stereo images using compressive sampling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:1sJd4Hv_s6UC",
+            "citation_id": "rsH6pfgAAAAJ:1sJd4Hv_s6UC",
+            "authors": "GN Harsha, A Majumdar, R Ward",
+            "publication": "Signal and Image Processing, 804-809, 2013",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5405874909801120919",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5405874909801120919&engine=google_scholar&hl=en",
+                "cites_id": "5405874909801120919"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "An Automated Traffic Generation Framework for Performance Evaluation of Networks-on-Chip for Real World Use Cases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:HbR8gkJAVGIC",
+            "citation_id": "rsH6pfgAAAAJ:HbR8gkJAVGIC",
+            "authors": "SH Gade, A Gangwar, A Prasad, NK Agarwal, R Sreedharan",
+            "publication": "2021 IEEE International Symposium on Performance Analysis of Systems and \u2026, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4417473374521141402",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4417473374521141402&engine=google_scholar&hl=en",
+                "cites_id": "4417473374521141402"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "High bandwidth off-chip memory access through hybrid switching and inter-chip wireless links",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:738O_yMBCRsC",
+            "citation_id": "rsH6pfgAAAAJ:738O_yMBCRsC",
+            "authors": "SH Gade, HK Mondal, S Deb",
+            "publication": "2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 100-105, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17621383304153385005",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17621383304153385005&engine=google_scholar&hl=en",
+                "cites_id": "17621383304153385005"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A Pre-RTL floorplanner tool for automated CMP design space exploration with thermal awareness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:dshw04ExmUIC",
+            "citation_id": "rsH6pfgAAAAJ:dshw04ExmUIC",
+            "authors": "SH Gade, P Kumar, S Deb",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-6, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4248083003662552240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4248083003662552240&engine=google_scholar&hl=en",
+                "cites_id": "4248083003662552240"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Automated synthesis of custom networks-on-chip for real world applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:xtoqd-5pKcoC",
+            "citation_id": "rsH6pfgAAAAJ:xtoqd-5pKcoC",
+            "authors": "A Gangwar, NK Agarwal, R Sreedharan, A Prasad, SH Gade, Z Xu",
+            "publication": "2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD), 1-9, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12511587603676269335",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12511587603676269335&engine=google_scholar&hl=en",
+                "cites_id": "12511587603676269335"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Topology Agnostic Virtual Channel Assignment and Protocol Level Deadlock Avoidance in a Network-on-Chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:ruyezt5ZtCIC",
+            "citation_id": "rsH6pfgAAAAJ:ruyezt5ZtCIC",
+            "authors": "A Gangwar, R Sreedharan, A Prasad, NK Agarwal, SH Gade",
+            "publication": "2021 58th ACM/IEEE Design Automation Conference (DAC), 61-66, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A Novel Hybrid Cache Coherence with Global Snooping for Many-core Architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:q3CdL3IzO_QC",
+            "citation_id": "rsH6pfgAAAAJ:q3CdL3IzO_QC",
+            "authors": "SH Gade, S Deb",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 27 (1 \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Near Threshold Last Level Cache for Energy Efficient Embedded Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:tS2w5q8j5-wC",
+            "citation_id": "rsH6pfgAAAAJ:tS2w5q8j5-wC",
+            "authors": "M Sinha, SS Rout, SH Gade, S Deb",
+            "publication": "2018 Ninth International Green and Sustainable Computing Conference (IGSC), 1-6, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Tutorial T8: Communication Infrastructure for Future Exascale Processors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:CHSYGLWDkRkC",
+            "citation_id": "rsH6pfgAAAAJ:CHSYGLWDkRkC",
+            "authors": "S Deb, SH Gade, HK Mondal",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Design of energy e cient future CMPs with on-chip wireless interconnects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:SP6oXDckpogC",
+            "citation_id": "rsH6pfgAAAAJ:SP6oXDckpogC",
+            "authors": "GN Sri Harsha, A Srinivasan",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "2021 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)| 978-1-7281-8643-6/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109/ISPASS51385. 2021.00054",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:foquWX3nUaYC",
+            "citation_id": "rsH6pfgAAAAJ:foquWX3nUaYC",
+            "authors": "JL Abell\u00e1n, NK Agarwal, JH Ahn, V Akella, A Akram, A Alawneh, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 362,
+                    "since_2017": 326
+                }
+            },
+            {
+                "h_index": {
+                    "all": 11,
+                    "since_2017": 10
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 14,
+                    "since_2017": 11
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 2
+            },
+            {
+                "year": 2015,
+                "citations": 7
+            },
+            {
+                "year": 2016,
+                "citations": 11
+            },
+            {
+                "year": 2017,
+                "citations": 55
+            },
+            {
+                "year": 2018,
+                "citations": 76
+            },
+            {
+                "year": 2019,
+                "citations": 83
+            },
+            {
+                "year": 2020,
+                "citations": 47
+            },
+            {
+                "year": 2021,
+                "citations": 48
+            },
+            {
+                "year": 2022,
+                "citations": 16
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=rsH6pfgAAAAJ",
+        "available": 5,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Sujay Deb",
+            "link": "https://scholar.google.com/citations?user=e3z7tT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e3z7tT0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "e3z7tT0AAAAJ",
+            "affiliations": "Associate Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e3z7tT0AAAAJ&citpid=3"
+        }
+    ]
+}

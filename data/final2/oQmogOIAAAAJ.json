@@ -1,0 +1,394 @@
+{
+    "search_metadata": {
+        "id": "62574c60af63049f5fdc453a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a7fbf2ede0dd3afc/62574c60af63049f5fdc453a.json",
+        "created_at": "2022-04-13 22:19:12 UTC",
+        "processed_at": "2022-04-13 22:19:12 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=oQmogOIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a7fbf2ede0dd3afc/62574c60af63049f5fdc453a.html",
+        "total_time_taken": 0.1,
+        "total_articles": 20,
+        "total_co_authors": 5
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "oQmogOIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Shikha Singh",
+        "affiliations": "PhD Scholar, IIIT-DELHI",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "NILM",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:nilm",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anilm"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oQmogOIAAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Deep Sparse Coding for Non Intrusive Load Monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "oQmogOIAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Singh, M Angshul",
+            "publication": "Transactions on Smart Grid, 2017",
+            "cited_by": {
+                "value": 120,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5928930822396981045",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5928930822396981045&engine=google_scholar&hl=en",
+                "cites_id": "5928930822396981045"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Analysis co-sparse coding for energy disaggregation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "oQmogOIAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Singh, A Majumdar",
+            "publication": "IEEE Transactions on Smart Grid 10 (1), 462-470, 2017",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2874914817921539159",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2874914817921539159&engine=google_scholar&hl=en",
+                "cites_id": "2874914817921539159"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Non-intrusive load monitoring via multi-label sparse representation-based classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "oQmogOIAAAAJ:hqOjcs7Dif8C",
+            "authors": "S Singh, A Majumdar",
+            "publication": "IEEE Transactions on Smart Grid 11 (2), 1799-1801, 2019",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16993731578883301679",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16993731578883301679&engine=google_scholar&hl=en",
+                "cites_id": "16993731578883301679"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Multi label restricted boltzmann machine for non-intrusive load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:UebtZRa9Y70C",
+            "citation_id": "oQmogOIAAAAJ:UebtZRa9Y70C",
+            "authors": "S Verma, S Singh, A Majumdar",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16570154567550756025",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16570154567550756025&engine=google_scholar&hl=en",
+                "cites_id": "16570154567550756025"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Deep blind compressed sensing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "oQmogOIAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Singh, V Singhal, A Majumdar",
+            "publication": "arXiv preprint arXiv:1612.07453, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16737703085842614262",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16737703085842614262&engine=google_scholar&hl=en",
+                "cites_id": "16737703085842614262"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Greedy deep disaggregating sparse coding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "oQmogOIAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Singh, M Gulati, A Majumdar",
+            "publication": "Proc. NILM2016 3rd International Workshop on Non-Intrusive Load Monitoring 4, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10589037290403599017",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10589037290403599017&engine=google_scholar&hl=en",
+                "cites_id": "10589037290403599017"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Multi-label LSTM autoencoder for non-intrusive appliance load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "oQmogOIAAAAJ:3fE2CSJIrl8C",
+            "authors": "S Verma, S Singh, A Majumdar",
+            "publication": "Electric Power Systems Research 199, 107414, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1328756770117810765",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1328756770117810765&engine=google_scholar&hl=en",
+                "cites_id": "1328756770117810765"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Multi-label consistent convolutional transform learning: Application to non-intrusive load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:8k81kl-MbHgC",
+            "citation_id": "oQmogOIAAAAJ:8k81kl-MbHgC",
+            "authors": "S Singh, J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and \u2026, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12395362053095133532",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12395362053095133532&engine=google_scholar&hl=en",
+                "cites_id": "12395362053095133532"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "How to train your neural network with dictionary learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "oQmogOIAAAAJ:UeHWp8X0CEIC",
+            "authors": "V Singhal, S Singh, A Majumdar",
+            "publication": "2017 Data Compression Conference (DCC), 460-460, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1785867208381454886",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1785867208381454886&engine=google_scholar&hl=en",
+                "cites_id": "1785867208381454886"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Multi-Label Deep Blind Compressed Sensing for Low-Frequency Non-Intrusive Load Monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "oQmogOIAAAAJ:kNdYIx-mwKoC",
+            "authors": "S Singh, A Majumdar",
+            "publication": "IEEE Transactions on Smart Grid 13 (1), 4-7, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Periodontal disease in special needs patients: A review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:4TOpqqG69KYC",
+            "citation_id": "oQmogOIAAAAJ:4TOpqqG69KYC",
+            "authors": "N Chand, SC Verma, VA Pant, S Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Soft tissue periodontal surgeries: A review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:Zph67rFs4hoC",
+            "citation_id": "oQmogOIAAAAJ:Zph67rFs4hoC",
+            "authors": "S Singh, VA Pant, PK Singh, N Singh, N Chand",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Integrated Livestock Development in Tribal Area",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "oQmogOIAAAAJ:ULOm3_A8WrAC",
+            "authors": "SC Mehta, S Singh, R Singh, C Bhakat, N Chand",
+            "publication": "National Research Centre on Camel, Bikaner, India, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Exploration and physico-chemical evaluation of Citrus germalism collected from Kumaon region of Uttarakhand",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "oQmogOIAAAAJ:KlAtU1dfN6UC",
+            "authors": "KK Misra, SK Verma, SC Singh",
+            "publication": "PROGRESSIVE HORTICULTURE 38 (2), 144, 2006",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Performance studies on manually operated fertilizer broadcaster.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "oQmogOIAAAAJ:Wp0gIr-vW9MC",
+            "authors": "S Singh, SR Verma, M Singh",
+            "publication": "Journal of Research Punjab Agricultural University, 1983",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1983"
+        },
+        {
+            "title": "Safe operations of sprayers and dusters [India].",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:4DMP91E08xMC",
+            "citation_id": "oQmogOIAAAAJ:4DMP91E08xMC",
+            "authors": "S Singh, SR Verma",
+            "publication": "Progressive Farming, 1977",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1977"
+        },
+        {
+            "title": "Ileocystoplasty in a case of contracted urinary bladder following tuberculosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "oQmogOIAAAAJ:qxL8FJ1GzNcC",
+            "authors": "SS VERMA, S SINGH",
+            "publication": "Journal of the Indian Medical Association 29 (8), 333, 1957",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1957"
+        },
+        {
+            "title": "Congenital absence of the vagina treated by McIndoe's operation.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:aqlVkmm33-oC",
+            "citation_id": "oQmogOIAAAAJ:aqlVkmm33-oC",
+            "authors": "SS VERMA, S SINGH",
+            "publication": "J Indian Med Assoc, 1956",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1956"
+        },
+        {
+            "title": "STUDY OF ELECTRICAL CONDUCTIVITY OF SISAL FIBER/POLYPROPYLENE/CENOSPHERE COMPOSITES",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "oQmogOIAAAAJ:M3ejUd6NZC8C",
+            "authors": "J Sharma, MN Bapat, S Singh, N Chand",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Revision of Inhancing production from Thu, 24/09/2009-18: 20",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "oQmogOIAAAAJ:YOwf2qJgpHMC",
+            "authors": "SK Verma, SB Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 211,
+                    "since_2017": 210
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 6
+            },
+            {
+                "year": 2018,
+                "citations": 26
+            },
+            {
+                "year": 2019,
+                "citations": 36
+            },
+            {
+                "year": 2020,
+                "citations": 61
+            },
+            {
+                "year": 2021,
+                "citations": 68
+            },
+            {
+                "year": 2022,
+                "citations": 13
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "SAGAR VERMA",
+            "link": "https://scholar.google.com/citations?user=SIpoREUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SIpoREUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SIpoREUAAAAJ",
+            "affiliations": "Centralesupelec",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SIpoREUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Manoj Gulati",
+            "link": "https://scholar.google.com/citations?user=2L-TGfcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2L-TGfcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2L-TGfcAAAAJ",
+            "affiliations": "Singapore Management University, Singapore [earlier IIIT-Delhi and UW Seattle]",
+            "email": "Verified email at smu.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2L-TGfcAAAAJ&citpid=4"
+        },
+        {
+            "name": "Emilie Chouzenoux",
+            "link": "https://scholar.google.com/citations?user=s6RMliwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=s6RMliwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "s6RMliwAAAAJ",
+            "affiliations": "Full researcher, Inria Saclay, France",
+            "email": "Verified email at centralesupelec.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=s6RMliwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Giovanni Chierchia",
+            "link": "https://scholar.google.com/citations?user=4znhuFcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4znhuFcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4znhuFcAAAAJ",
+            "affiliations": "Assistant professor, Universit\u00e9 Paris Est, ESIEE Paris",
+            "email": "Verified email at esiee.fr",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

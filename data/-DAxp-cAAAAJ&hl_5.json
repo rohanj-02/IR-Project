@@ -1,0 +1,332 @@
+{
+    "search_metadata": {
+        "id": "62574f05797ac6fcf3b95541",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/08b36a7f15b5fa6d/62574f05797ac6fcf3b95541.json",
+        "created_at": "2022-04-13 22:30:29 UTC",
+        "processed_at": "2022-04-13 22:30:29 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=-DAxp-cAAAAJ&hl&hl=en&cstart=400&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/08b36a7f15b5fa6d/62574f05797ac6fcf3b95541.html",
+        "total_time_taken": 0.22
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "-DAxp-cAAAAJ&hl",
+        "hl": "en",
+        "start": 400,
+        "num": "100"
+    },
+    "author": {
+        "name": "Mayank Vatsa",
+        "affiliations": "Professor, IIT Jodhpur",
+        "email": "Verified email at iitj.ac.in",
+        "website": "http://iab-rubric.org/",
+        "interests": [
+            {
+                "title": "biometrics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:biometrics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abiometrics"
+            },
+            {
+                "title": "image processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:image_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimage_processing"
+            },
+            {
+                "title": "deep learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning"
+            },
+            {
+                "title": "machine learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "computer vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-DAxp-cAAAAJ&citpid=2"
+    },
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 10439,
+                    "since_2017": 6583
+                }
+            },
+            {
+                "h_index": {
+                    "all": 57,
+                    "since_2017": 45
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 191,
+                    "since_2017": 160
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2006,
+                "citations": 38
+            },
+            {
+                "year": 2007,
+                "citations": 70
+            },
+            {
+                "year": 2008,
+                "citations": 135
+            },
+            {
+                "year": 2009,
+                "citations": 157
+            },
+            {
+                "year": 2010,
+                "citations": 208
+            },
+            {
+                "year": 2011,
+                "citations": 261
+            },
+            {
+                "year": 2012,
+                "citations": 445
+            },
+            {
+                "year": 2013,
+                "citations": 366
+            },
+            {
+                "year": 2014,
+                "citations": 564
+            },
+            {
+                "year": 2015,
+                "citations": 693
+            },
+            {
+                "year": 2016,
+                "citations": 754
+            },
+            {
+                "year": 2017,
+                "citations": 790
+            },
+            {
+                "year": 2018,
+                "citations": 1151
+            },
+            {
+                "year": 2019,
+                "citations": 1342
+            },
+            {
+                "year": 2020,
+                "citations": 1389
+            },
+            {
+                "year": 2021,
+                "citations": 1544
+            },
+            {
+                "year": 2022,
+                "citations": 353
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=-DAxp-cAAAAJ",
+        "available": 35,
+        "not_available": 14
+    },
+    "co_authors": [
+        {
+            "name": "Richa Singh",
+            "link": "https://scholar.google.com/citations?user=okqK5UAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=okqK5UAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "okqK5UAAAAAJ",
+            "affiliations": "Professor, IIT Jodhpur",
+            "email": "Verified email at iitj.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=okqK5UAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Samarth Bharadwaj",
+            "link": "https://scholar.google.com/citations?user=zEnqhxkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zEnqhxkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "zEnqhxkAAAAJ",
+            "affiliations": "Senior Applied Scientist, Microsoft | ex-IBM Research",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zEnqhxkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Akshay Agarwal, PhD",
+            "link": "https://scholar.google.com/citations?user=LrW6Hb4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LrW6Hb4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "LrW6Hb4AAAAJ",
+            "affiliations": "Postdoctoral Associate, University at Buffalo, SUNY, NY",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LrW6Hb4AAAAJ&citpid=2"
+        },
+        {
+            "name": "Gaurav Goswami",
+            "link": "https://scholar.google.com/citations?user=T7GEOxIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=T7GEOxIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "T7GEOxIAAAAJ",
+            "affiliations": "IBM Singapore",
+            "email": "Verified email at ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=T7GEOxIAAAAJ&citpid=3"
+        },
+        {
+            "name": "Maneet Singh",
+            "link": "https://scholar.google.com/citations?user=Wo__eiwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Wo__eiwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "Wo__eiwAAAAJ",
+            "affiliations": "Senior Specialist, AI Garage, Mastercard",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Wo__eiwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Himanshu Sharad Bhatt",
+            "link": "https://scholar.google.com/citations?user=dZQOltMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dZQOltMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "dZQOltMAAAAJ",
+            "affiliations": "Research Scientist, Xerox Research Centre India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Nalini Ratha",
+            "link": "https://scholar.google.com/citations?user=mIPd9DkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mIPd9DkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "mIPd9DkAAAAJ",
+            "affiliations": "University at Buffalo-SUNY",
+            "email": "Verified email at buffalo.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mIPd9DkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Anush Sankaran",
+            "link": "https://scholar.google.com/citations?user=NF8is_sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NF8is_sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "NF8is_sAAAAJ",
+            "affiliations": "IBM Research AI",
+            "email": "Verified email at in.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NF8is_sAAAAJ&citpid=2"
+        },
+        {
+            "name": "Daksha Yadav",
+            "link": "https://scholar.google.com/citations?user=ymwP4uoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ymwP4uoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "ymwP4uoAAAAJ",
+            "affiliations": "Signify, West Virginia University, IIIT-Delhi",
+            "email": "Verified email at mix.wvu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ymwP4uoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Naman Kohli",
+            "link": "https://scholar.google.com/citations?user=9gMiEe0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9gMiEe0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "9gMiEe0AAAAJ",
+            "affiliations": "Amazon",
+            "email": "Verified email at mix.wvu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Shruti Nagpal",
+            "link": "https://scholar.google.com/citations?user=JBAv0d0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JBAv0d0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "JBAv0d0AAAAJ",
+            "affiliations": "PhD Scholar, IIIT - Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JBAv0d0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Tejas Indulal Dhamecha",
+            "link": "https://scholar.google.com/citations?user=Fln8oI8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Fln8oI8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "Fln8oI8AAAAJ",
+            "affiliations": "IBM Research, India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Fln8oI8AAAAJ&citpid=3"
+        },
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Rohit Keshari",
+            "link": "https://scholar.google.com/citations?user=Ib_LM-8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ib_LM-8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "Ib_LM-8AAAAJ",
+            "affiliations": "Applied Scientist @ Amazon | PhD from IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Ib_LM-8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Arun Ross",
+            "link": "https://scholar.google.com/citations?user=7IiUQDkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7IiUQDkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "7IiUQDkAAAAJ",
+            "affiliations": "Professor | John and Eva Cillag Endowed Chair | Michigan State University",
+            "email": "Verified email at cse.msu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7IiUQDkAAAAJ&citpid=13"
+        },
+        {
+            "name": "Kevin W. Bowyer",
+            "link": "https://scholar.google.com/citations?user=XZkvOTEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XZkvOTEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "XZkvOTEAAAAJ",
+            "affiliations": "Schubmehl-Prein Family Professor of Computer Science and Engineering, University of Notre Dame",
+            "email": "Verified email at nd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XZkvOTEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Aakarsh Malhotra",
+            "link": "https://scholar.google.com/citations?user=zr1H6t8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zr1H6t8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "zr1H6t8AAAAJ",
+            "affiliations": "Ph.D. | IIIT-Delhi | IIT Jodhpur",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zr1H6t8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Puspita Majumdar",
+            "link": "https://scholar.google.com/citations?user=GaWMs0AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GaWMs0AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "GaWMs0AAAAAJ",
+            "affiliations": "PhD Scholar, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GaWMs0AAAAAJ&citpid=1"
+        },
+        {
+            "name": "Paritosh Mittal",
+            "link": "https://scholar.google.com/citations?user=2BDy2N4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2BDy2N4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "2BDy2N4AAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at cs.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2BDy2N4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Brian M. Powell, PhD",
+            "link": "https://scholar.google.com/citations?user=hM58exQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hM58exQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=400",
+            "author_id": "hM58exQAAAAJ",
+            "affiliations": "West Virginia University",
+            "email": "Verified email at mail.wvu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hM58exQAAAAJ&citpid=5"
+        }
+    ]
+}

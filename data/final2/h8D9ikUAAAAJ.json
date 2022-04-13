@@ -1,0 +1,586 @@
+{
+    "search_metadata": {
+        "id": "62574ce39790542a8c2c60ac",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f360d80d954efbd5/62574ce39790542a8c2c60ac.json",
+        "created_at": "2022-04-13 22:21:23 UTC",
+        "processed_at": "2022-04-13 22:21:23 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=h8D9ikUAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/f360d80d954efbd5/62574ce39790542a8c2c60ac.html",
+        "total_time_taken": 1.47,
+        "total_articles": 27,
+        "total_co_authors": 14
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "h8D9ikUAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Anjali Dhall",
+        "affiliations": "Senior Research Fellow, IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Computational Biology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_biology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_biology"
+            },
+            {
+                "title": "Immunoinformatics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunoinformatics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimmunoinformatics"
+            },
+            {
+                "title": "Cancer Genomics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cancer_genomics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acancer_genomics"
+            },
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Survival analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:survival_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asurvival_analysis"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=h8D9ikUAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "AlgPred 2.0: an improved method for predicting allergenic proteins and mapping of IgE epitopes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "h8D9ikUAAAAJ:W7OEmFMy1HYC",
+            "authors": "N Sharma, S Patiyal, A Dhall, A Pande, C Arora, GPS Raghava",
+            "publication": "Briefings in Bioinformatics 22 (4), bbaa294, 2021",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3055912916528611680",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3055912916528611680&engine=google_scholar&hl=en",
+                "cites_id": "3055912916528611680"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Prediction and analysis of skin cancer progression using genomics profiles of patients",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "h8D9ikUAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Bhalla, H Kaur, A Dhall, GPS Raghava",
+            "publication": "Scientific reports 9 (1), 1-16, 2019",
+            "cited_by": {
+                "value": 40,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1706591049641411115",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1706591049641411115&engine=google_scholar&hl=en",
+                "cites_id": "1706591049641411115"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Computer-aided prediction and design of IL-6 inducing peptides: IL-6 plays a crucial role in COVID-19",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "h8D9ikUAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "A Dhall, S Patiyal, N Sharma, SS Usmani, GPS Raghava",
+            "publication": "Briefings in Bioinformatics 22 (2), 936-945, 2021",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12565888542826298535",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12565888542826298535&engine=google_scholar&hl=en",
+                "cites_id": "12565888542826298535"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Identification of platform-independent diagnostic biomarker panel for hepatocellular carcinoma using large-scale transcriptomics data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "h8D9ikUAAAAJ:d1gkVwhDpl0C",
+            "authors": "H Kaur, A Dhall, R Kumar, GPS Raghava",
+            "publication": "Frontiers in genetics 10, 1306, 2020",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=646670678131696271",
+                "serpapi_link": "https://serpapi.com/search.json?cites=646670678131696271&engine=google_scholar&hl=en",
+                "cites_id": "646670678131696271"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Computing wide range of protein/peptide features from their sequence and structure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "h8D9ikUAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Pande, S Patiyal, A Lathwal, C Arora, D Kaur, A Dhall, G Mishra, H Kaur, ...",
+            "publication": "BioRxiv, 599126, 2019",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1346851513176431176",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1346851513176431176&engine=google_scholar&hl=en",
+                "cites_id": "1346851513176431176"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Computing skin cutaneous melanoma outcome from the HLA-alleles and clinical characteristics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:qjMakFHDy7sC",
+            "citation_id": "h8D9ikUAAAAJ:qjMakFHDy7sC",
+            "authors": "A Dhall, S Patiyal, H Kaur, S Bhalla, C Arora, GPS Raghava",
+            "publication": "Frontiers in genetics 11, 221, 2020",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14809368463558690379",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14809368463558690379&engine=google_scholar&hl=en",
+                "cites_id": "14809368463558690379"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A web-based platform on coronavirus disease-19 to maintain predicted diagnostic, drug, and vaccine candidates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "h8D9ikUAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Patiyal, D Kaur, H Kaur, N Sharma, A Dhall, S Sahai, P Agrawal, ...",
+            "publication": "Monoclonal antibodies in immunodiagnosis and immunotherapy 39 (6), 204-216, 2020",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11848067928221231590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11848067928221231590&engine=google_scholar&hl=en",
+                "cites_id": "11848067928221231590"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "NAGbinder: An approach for identifying N\u2010acetylglucosamine interacting residues of a protein from its primary sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "h8D9ikUAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Patiyal, P Agrawal, V Kumar, A Dhall, R Kumar, G Mishra, ...",
+            "publication": "Protein Science 29 (1), 201-210, 2020",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10133163541096858520",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10133163541096858520&engine=google_scholar&hl=en",
+                "cites_id": "10133163541096858520"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Crowdsourcing assessment of maternal blood multi-omics for predicting gestational age and preterm birth",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "h8D9ikUAAAAJ:zYLM7Y9cAGgC",
+            "authors": "AL Tarca, B\u00c1 Pataki, R Romero, M Sirota, Y Guan, R Kutum, ...",
+            "publication": "Cell Reports Medicine 2 (6), 100323, 2021",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11142692871475627888",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11142692871475627888&engine=google_scholar&hl=en",
+                "cites_id": "11142692871475627888"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "ChAlPred: A web server for prediction of allergenicity of chemical compounds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "h8D9ikUAAAAJ:eQOLeE2rZwMC",
+            "authors": "N Sharma, S Patiyal, A Dhall, NL Devi, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 136, 104746, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1852602830364918945",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1852602830364918945&engine=google_scholar&hl=en",
+                "cites_id": "1852602830364918945"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "SAPdb: A database of short peptides and the corresponding nanostructures formed by self-assembly",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "h8D9ikUAAAAJ:YsMSGLbcyi4C",
+            "authors": "D Mathur, H Kaur, A Dhall, N Sharma, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 133, 104391, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16508005385734137534,10872838730138101602",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16508005385734137534%2C10872838730138101602&engine=google_scholar&hl=en",
+                "cites_id": "16508005385734137534,10872838730138101602"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "B3Pred: A Random-Forest-Based Method for Predicting and Designing Blood\u2013Brain Barrier Penetrating Peptides. Pharmaceutics 2021, 13, 1237",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "h8D9ikUAAAAJ:mVmsd5A6BfQC",
+            "authors": "V Kumar, S Patiyal, A Dhall, N Sharma, GPS Raghava",
+            "publication": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9310222016401229597,5867191162391028782",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9310222016401229597%2C5867191162391028782&engine=google_scholar&hl=en",
+                "cites_id": "9310222016401229597,5867191162391028782"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Computer-aided prediction of inhibitors against STAT3 for managing COVID-19 associate cytokine storm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:aqlVkmm33-oC",
+            "citation_id": "h8D9ikUAAAAJ:aqlVkmm33-oC",
+            "authors": "A Dhall, S Patiyal, N Sharma, NL Devi, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 137 (October 2021), 104780, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11384899869154551617",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11384899869154551617&engine=google_scholar&hl=en",
+                "cites_id": "11384899869154551617"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "GPSRdocker: a Docker-based resource for genomics, proteomics and systems biology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "h8D9ikUAAAAJ:2osOgNQ5qMEC",
+            "authors": "P Agrawal, R Kumar, SS Usmani, A Dhall, S Patiyal, N Sharma, H Kaur, ...",
+            "publication": "BioRxiv, 827766, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1301798342533146722",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1301798342533146722&engine=google_scholar&hl=en",
+                "cites_id": "1301798342533146722"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Cell-to-cell and type-to-type heterogeneity of signaling networks: Insights from the crowd",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:4DMP91E08xMC",
+            "citation_id": "h8D9ikUAAAAJ:4DMP91E08xMC",
+            "authors": "A Gabor, M Tognetti, A Driessen, J Tanevski, B Guo, W Cao, H Shen, T Yu, ...",
+            "publication": "molecular system biology, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13716051336552218965",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13716051336552218965&engine=google_scholar&hl=en",
+                "cites_id": "13716051336552218965"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "ProCanBio: A Database of Manually Curated Biomarkers for Prostate Cancer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "h8D9ikUAAAAJ:ZeXyd9-uunAC",
+            "authors": "GPSR Dikscha Sapra, Harpreet Kaur, Anjali Dhall",
+            "publication": "Journal of Computational Biology 28, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6964931901061290257",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6964931901061290257&engine=google_scholar&hl=en",
+                "cites_id": "6964931901061290257"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Nfeature: A platform for computing features of nucleotide sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:IWHjjKOFINEC",
+            "citation_id": "h8D9ikUAAAAJ:IWHjjKOFINEC",
+            "authors": "M Mathur, S Patiyal, A Dhall, S Jain, R Tomer, A Arora, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8481337325552156314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8481337325552156314&engine=google_scholar&hl=en",
+                "cites_id": "8481337325552156314"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "IL13Pred: A method for predicting immunoregulatory cytokine IL-13 inducing peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "h8D9ikUAAAAJ:hFOr9nPyWt4C",
+            "authors": "S Jain, A Dhall, S Patiyal, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 143, 105297, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "In-silico method for predicting infectious strains of Influenza A virus from its genome and protein sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:HDshCWvjkbEC",
+            "citation_id": "h8D9ikUAAAAJ:HDshCWvjkbEC",
+            "authors": "T Roy, K Sharma, A Dhall, S Patiyal, GPS Raghava",
+            "publication": "bioRxiv, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "In silico tools and databases for designing cancer immunotherapy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:hC7cP41nSMkC",
+            "citation_id": "h8D9ikUAAAAJ:hC7cP41nSMkC",
+            "authors": "A Dhall, S Jain, N Sharma, LD Naorem, D Kaur, S Patiyal, GPS Raghava",
+            "publication": "Academic Press, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "P-567 INTEGRATIVE MULTI-OMICS APPROACH FOR STRATIFICATION OF TUMOR RECURRENCE RISK GROUPS OF HEPATOCELLULAR CARCINOMA PATIENTS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:dhFuZR0502QC",
+            "citation_id": "h8D9ikUAAAAJ:dhFuZR0502QC",
+            "authors": "K Harpreet, L Anjali, D Anjali, GPS Raghava",
+            "publication": "74, 346A - 347A, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Prediction of antibiotic resistant strains of bacteria from their beta-lactamases protein",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "h8D9ikUAAAAJ:hqOjcs7Dif8C",
+            "authors": "GPSR Lubna Maryam, Anjali Dhall, Sumeet Patiyal, Salman Sadullah Usmani ...",
+            "publication": "biorxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Prediction of high-risk liver cancer patients from their mutation profile: Benchmarking of mutation calling techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:qUcmZB5y_30C",
+            "citation_id": "h8D9ikUAAAAJ:qUcmZB5y_30C",
+            "authors": "S Patiyal, A Dhall, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Transcriptomics based prediction of metastasis in TNBC patients: Challenges in cross-platforms validation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "h8D9ikUAAAAJ:KlAtU1dfN6UC",
+            "authors": "NL Devi, A Dhall, S Patiyal, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "DBpred: A deep learning method for the prediction of DNA interacting residues in protein sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:0EnyYjriUFMC",
+            "citation_id": "h8D9ikUAAAAJ:0EnyYjriUFMC",
+            "authors": "S Patiyal, A Dhall, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A repository of web-based bioinformatics resources developed in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:UebtZRa9Y70C",
+            "citation_id": "h8D9ikUAAAAJ:UebtZRa9Y70C",
+            "authors": "A Agarwal, P Agrawal, A Sharma, V Kumar, C Mugdal, A Dhall, ...",
+            "publication": "bioRxiv, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "HLAncPred: A method for predicting promiscuous non-classical HLA binding sites (preprint)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:-f6ydRqryjwC",
+            "citation_id": "h8D9ikUAAAAJ:-f6ydRqryjwC",
+            "authors": "A Dhall, S Patiyal, GPS Raghava",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 255,
+                    "since_2017": 255
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2019,
+                "citations": 1
+            },
+            {
+                "year": 2020,
+                "citations": 32
+            },
+            {
+                "year": 2021,
+                "citations": 169
+            },
+            {
+                "year": 2022,
+                "citations": 53
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=h8D9ikUAAAAJ",
+        "available": 21,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Gajendra PS Raghava",
+            "link": "https://scholar.google.com/citations?user=XK5GUiYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XK5GUiYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XK5GUiYAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, IIIT-Delhi , India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XK5GUiYAAAAJ&citpid=6"
+        },
+        {
+            "name": "Sumeet Patiyal",
+            "link": "https://scholar.google.com/citations?user=w0X4O94AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=w0X4O94AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "w0X4O94AAAAJ",
+            "affiliations": "Research Scholar",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w0X4O94AAAAJ&citpid=1"
+        },
+        {
+            "name": "Neelam Sharma",
+            "link": "https://scholar.google.com/citations?user=j7LcxrUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j7LcxrUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "j7LcxrUAAAAJ",
+            "affiliations": "Research Scholar",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j7LcxrUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Harpreet kaur",
+            "link": "https://scholar.google.com/citations?user=4tk3wcMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4tk3wcMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4tk3wcMAAAAJ",
+            "affiliations": "NIH - National Cancer Institute, MD, USA",
+            "email": "Verified email at pine.bio",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4tk3wcMAAAAJ&citpid=17"
+        },
+        {
+            "name": "Chakit Arora",
+            "link": "https://scholar.google.com/citations?user=IUeqxQsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IUeqxQsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IUeqxQsAAAAJ",
+            "affiliations": "Scuola Normale Superiore, Pisa, Italy",
+            "email": "Verified email at sns.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IUeqxQsAAAAJ&citpid=3"
+        },
+        {
+            "name": "Piyush Agrawal",
+            "link": "https://scholar.google.com/citations?user=Jr6kNsUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Jr6kNsUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Jr6kNsUAAAAJ",
+            "affiliations": "Visiting Postdoctoral Fellow, National Cancer Institute, NIH, USA",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Jr6kNsUAAAAJ&citpid=19"
+        },
+        {
+            "name": "Vinod Kumar",
+            "link": "https://scholar.google.com/citations?user=Hg1nFFQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Hg1nFFQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Hg1nFFQAAAAJ",
+            "affiliations": "National Institutes of Health / IRP/ NIA",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Hg1nFFQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Salman Sadullah Usmani, Ph.D.",
+            "link": "https://scholar.google.com/citations?user=Sxr1MJwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Sxr1MJwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Sxr1MJwAAAAJ",
+            "affiliations": "Research Fellow, Albert Einstein College of Medicine, New York",
+            "email": "Verified email at einsteinmed.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Sxr1MJwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sherry Bhalla",
+            "link": "https://scholar.google.com/citations?user=Xxs4FX8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xxs4FX8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xxs4FX8AAAAJ",
+            "affiliations": "Mount Sinai",
+            "email": "Verified email at mssm.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xxs4FX8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Dilraj Kaur",
+            "link": "https://scholar.google.com/citations?user=y4YPsBEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y4YPsBEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "y4YPsBEAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, IIITD",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=y4YPsBEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Shipra Jain",
+            "link": "https://scholar.google.com/citations?user=frHzEOcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=frHzEOcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "frHzEOcAAAAJ",
+            "affiliations": "Department of Computational Biology, Indraprastha Institute of Information Technology, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Naorem Leimarembi Devi",
+            "link": "https://scholar.google.com/citations?user=J8q2A9UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=J8q2A9UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "J8q2A9UAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "LUBNA MARYAM",
+            "link": "https://scholar.google.com/citations?user=f27r_WYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=f27r_WYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "f27r_WYAAAAJ",
+            "affiliations": "Post-Doctoral Fellow (NPDF-SERB), Department of Computational Biology, IIIT-Delhi, New Delhi, India.",
+            "email": "Verified email at imtech.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=f27r_WYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Deepika Mathur",
+            "link": "https://scholar.google.com/citations?user=BWVuA1IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BWVuA1IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BWVuA1IAAAAJ",
+            "affiliations": "Icahn School of Medicine at Mount Sinai - New York City, USA",
+            "email": "Verified email at mssm.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BWVuA1IAAAAJ&citpid=2"
+        }
+    ]
+}

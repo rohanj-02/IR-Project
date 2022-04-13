@@ -1,0 +1,283 @@
+{
+    "search_metadata": {
+        "id": "62574ca09c449dbd93e50698",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/43d77ffd8b17be93/62574ca09c449dbd93e50698.json",
+        "created_at": "2022-04-13 22:20:16 UTC",
+        "processed_at": "2022-04-13 22:20:16 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=zHPCZ2AAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/43d77ffd8b17be93/62574ca09c449dbd93e50698.html",
+        "total_time_taken": 1.6,
+        "total_articles": 10,
+        "total_co_authors": 5
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "zHPCZ2AAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Ankita Likhyani",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.edu.in/~ankital/",
+        "interests": [
+            {
+                "title": "Data Mining and Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_mining_and_machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining_and_machine_learning"
+            },
+            {
+                "title": "Optimising Graph Traversals",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:optimising_graph_traversals",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptimising_graph_traversals"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zHPCZ2AAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Logical neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "zHPCZ2AAAAAJ:hqOjcs7Dif8C",
+            "authors": "R Riegel, A Gray, F Luus, N Khan, N Makondo, IY Akhalwaya, H Qian, ...",
+            "publication": "arXiv preprint arXiv:2006.13155, 2020",
+            "cited_by": {
+                "value": 48,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8528841725427555404",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8528841725427555404&engine=google_scholar&hl=en",
+                "cites_id": "8528841725427555404"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Inferring and exploiting categories for next location prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "zHPCZ2AAAAAJ:d1gkVwhDpl0C",
+            "authors": "A Likhyani, D Padmanabhan, S Bedathur, S Mehta",
+            "publication": "Proceedings of the 24th International Conference on World Wide Web, 65-66, 2015",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1679449335874426980",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1679449335874426980&engine=google_scholar&hl=en",
+                "cites_id": "1679449335874426980"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "LoCaTe: Influence Quantification for Location Promotion in Location-based Social Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:ufrVoPGSRksC",
+            "citation_id": "zHPCZ2AAAAAJ:ufrVoPGSRksC",
+            "authors": "A Likhyani, S Bedathur, P Deepak",
+            "publication": "Proceedings of the Twenty-Sixth International Joint Conference on Artificial \u2026, 2017",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12019956425647318859",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12019956425647318859&engine=google_scholar&hl=en",
+                "cites_id": "12019956425647318859"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Modeling implicit communities from geo-tagged event traces using spatio-temporal point processes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:Se3iqnhoufwC",
+            "citation_id": "zHPCZ2AAAAAJ:Se3iqnhoufwC",
+            "authors": "A Likhyani, V Gupta, PK Srijith, S Bedathur",
+            "publication": "International Conference on Web Information Systems Engineering, 153-169, 2020",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782918981938350951",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2782918981938350951&engine=google_scholar&hl=en",
+                "cites_id": "2782918981938350951"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Location-Specific Influence Quantification in Location-Based Social Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "zHPCZ2AAAAAJ:LkGwnXOMwfcC",
+            "authors": "A Likhyani, S Bedathur, P Deepak",
+            "publication": "ACM Transactions on Intelligent Systems and Technology (TIST) 10 (3), 23, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17926383239890528435",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17926383239890528435&engine=google_scholar&hl=en",
+                "cites_id": "17926383239890528435"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Label constrained shortest path estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "zHPCZ2AAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Likhyani, S Bedathur",
+            "publication": "Proceedings of the 22nd ACM international conference on Information \u2026, 2013",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8766686768354385865,5583714195560807510",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8766686768354385865%2C5583714195560807510&engine=google_scholar&hl=en",
+                "cites_id": "8766686768354385865,5583714195560807510"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Efficient trajectory cover search for moving object trajectories",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "zHPCZ2AAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Goyal, A Likhyani, N Bansal, L Liu",
+            "publication": "Proceedings of the 2013 IEEE Second International Conference on Mobile \u2026, 2013",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6606880242568078044",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6606880242568078044&engine=google_scholar&hl=en",
+                "cites_id": "6606880242568078044"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "User interest and influence mining in location-based social networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:0EnyYjriUFMC",
+            "citation_id": "zHPCZ2AAAAAJ:0EnyYjriUFMC",
+            "authors": "A Likhyani, S Bedathur",
+            "publication": "IIIT-Delhi, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Modeling Implicit Communities using Spatio-Temporal Point Processes from Geo-tagged Event Traces",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:roLk4NBRz8UC",
+            "citation_id": "zHPCZ2AAAAAJ:roLk4NBRz8UC",
+            "authors": "A Likhyani, V Gupta, S Bedathur",
+            "publication": "arXiv preprint arXiv:2006.07580, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Expressive Reasoning Graph Store: A Unified Framework for Managing RDF and Property Graph Databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:UebtZRa9Y70C",
+            "citation_id": "zHPCZ2AAAAAJ:UebtZRa9Y70C",
+            "authors": "S Neelam, U Sharma, S Bhatia, H Karanam, A Likhyani, I Abdelaziz, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 112,
+                    "since_2017": 104
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 3
+            },
+            {
+                "year": 2015,
+                "citations": 4
+            },
+            {
+                "year": 2016,
+                "citations": 9
+            },
+            {
+                "year": 2017,
+                "citations": 5
+            },
+            {
+                "year": 2018,
+                "citations": 8
+            },
+            {
+                "year": 2019,
+                "citations": 20
+            },
+            {
+                "year": 2020,
+                "citations": 47
+            },
+            {
+                "year": 2021,
+                "citations": 15
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=zHPCZ2AAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Srikanta Bedathur",
+            "link": "https://scholar.google.com/citations?user=ngfF2oAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ngfF2oAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ngfF2oAAAAAJ",
+            "affiliations": "IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ngfF2oAAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sameep Mehta",
+            "link": "https://scholar.google.com/citations?user=NXA956gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NXA956gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "NXA956gAAAAJ",
+            "affiliations": "IBM Research India",
+            "email": "Verified email at in.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NXA956gAAAAJ&citpid=1"
+        },
+        {
+            "name": "Deepak P",
+            "link": "https://scholar.google.com/citations?user=YC60F-YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YC60F-YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YC60F-YAAAAJ",
+            "affiliations": "Queen's University Belfast, UK & IIT Madras, India",
+            "email": "Verified email at acm.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YC60F-YAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vikram Goyal",
+            "link": "https://scholar.google.com/citations?user=YJaVmSwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YJaVmSwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YJaVmSwAAAAJ",
+            "affiliations": "Professor",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ling Liu",
+            "link": "https://scholar.google.com/citations?user=VIwtdckAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VIwtdckAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VIwtdckAAAAJ",
+            "affiliations": "Georgia Institute of Technology",
+            "email": "Verified email at cc.gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VIwtdckAAAAJ&citpid=3"
+        }
+    ]
+}

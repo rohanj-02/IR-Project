@@ -1,0 +1,593 @@
+{
+    "search_metadata": {
+        "id": "62574ce8ea1442e7a7c97424",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a6582ac49e10b374/62574ce8ea1442e7a7c97424.json",
+        "created_at": "2022-04-13 22:21:28 UTC",
+        "processed_at": "2022-04-13 22:21:28 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=LjKj7cAAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a6582ac49e10b374/62574ce8ea1442e7a7c97424.html",
+        "total_time_taken": 0.22
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "LjKj7cAAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Jyoti Maggu",
+        "affiliations": "IIIT Delhi, Jaypee Institute of Information technology Noida",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://www.jmaggu.com/",
+        "interests": [
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Deep Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning"
+            },
+            {
+                "title": "Image Reconstruction",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:image_reconstruction",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimage_reconstruction"
+            },
+            {
+                "title": "Inverse Problems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:inverse_problems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainverse_problems"
+            },
+            {
+                "title": "Compressed Sensing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:compressed_sensing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acompressed_sensing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=LjKj7cAAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Simultaneous detection of multiple appliances from smart-meter measurements via multi-label consistent deep dictionary learning and deep transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:_xSYboBqXhAC",
+            "citation_id": "LjKj7cAAAAAJ:_xSYboBqXhAC",
+            "authors": "V Singhal, J Maggu, A Majumdar",
+            "publication": "IEEE Transactions on Smart Grid 10 (3), 2969-2978, 2018",
+            "cited_by": {
+                "value": 76,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13975525629096621624",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13975525629096621624&engine=google_scholar&hl=en",
+                "cites_id": "13975525629096621624"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "High Rating Recent Preferences Based Recommendation System",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "LjKj7cAAAAAJ:d1gkVwhDpl0C",
+            "authors": "Jyoti Maggu ,Sanjeev Dhawan, Kulvinder singh",
+            "publication": "Procedia Computer Science 70, 259-264, 2015",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2955064495489811293",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2955064495489811293&engine=google_scholar&hl=en",
+                "cites_id": "2955064495489811293"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Unsupervised deep transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:b0M2c_1WBrUC",
+            "citation_id": "LjKj7cAAAAAJ:b0M2c_1WBrUC",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "2018 IEEE international conference on acoustics, speech and signal \u2026, 2018",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5090938222124524642",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5090938222124524642&engine=google_scholar&hl=en",
+                "cites_id": "5090938222124524642"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Kernel transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:D03iK_w7-QYC",
+            "citation_id": "LjKj7cAAAAAJ:D03iK_w7-QYC",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "Pattern Recognition Letters 98, 117-122, 2017",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18390739983074744731",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18390739983074744731&engine=google_scholar&hl=en",
+                "cites_id": "18390739983074744731"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Label-consistent transform learning for hyperspectral image classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:xtRiw3GOFMkC",
+            "citation_id": "LjKj7cAAAAAJ:xtRiw3GOFMkC",
+            "authors": "J Maggu, HK Aggarwal, A Majumdar",
+            "publication": "IEEE Geoscience and Remote Sensing Letters 16 (9), 1502-1506, 2019",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18026871920615589671",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18026871920615589671&engine=google_scholar&hl=en",
+                "cites_id": "18026871920615589671"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Deeply transformed subspace clustering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:XiSMed-E-HIC",
+            "citation_id": "LjKj7cAAAAAJ:XiSMed-E-HIC",
+            "authors": "J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "Signal Processing 174, 107628, 2020",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3873604122820417783",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3873604122820417783&engine=google_scholar&hl=en",
+                "cites_id": "3873604122820417783"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Convolutional transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:NhqRSupF_l8C",
+            "citation_id": "LjKj7cAAAAAJ:NhqRSupF_l8C",
+            "authors": "J Maggu, E Chouzenoux, G Chierchia, A Majumdar",
+            "publication": "International conference on neural information processing, 162-174, 2018",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15333539192611097693",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15333539192611097693&engine=google_scholar&hl=en",
+                "cites_id": "15333539192611097693"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Greedy deep transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:bFI3QPDXJZMC",
+            "citation_id": "LjKj7cAAAAAJ:bFI3QPDXJZMC",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "2017 IEEE International Conference on Image Processing (ICIP), 1822-1826, 2017",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9814584456186012767",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9814584456186012767&engine=google_scholar&hl=en",
+                "cites_id": "9814584456186012767"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Robust transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "LjKj7cAAAAAJ:IjCSPb-OGe4C",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "2017 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2017",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2790392798964439868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2790392798964439868&engine=google_scholar&hl=en",
+                "cites_id": "2790392798964439868"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Alternate formulation for transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "LjKj7cAAAAAJ:u5HHmVD_uO8C",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and \u2026, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18353859807336554857",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18353859807336554857&engine=google_scholar&hl=en",
+                "cites_id": "18353859807336554857"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Comparison of Various Similarity Measure Techniques for Generating Recommendations for E-commerce Sites and Social Websites",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "LjKj7cAAAAAJ:2osOgNQ5qMEC",
+            "authors": "Jyoti Maggu, Sanjeev Dhawan, Kulvinder Singh",
+            "publication": "American International Journal of Research in Science, Technology \u2026, 2015",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15812505417564824466",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15812505417564824466&engine=google_scholar&hl=en",
+                "cites_id": "15812505417564824466"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "DeConFuse: a deep convolutional transform-based unsupervised fusion framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:1sJd4Hv_s6UC",
+            "citation_id": "LjKj7cAAAAAJ:1sJd4Hv_s6UC",
+            "authors": "P Gupta, J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "EURASIP Journal on Advances in Signal Processing 2020 (1), 1-32, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12974487142786375850",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12974487142786375850&engine=google_scholar&hl=en",
+                "cites_id": "12974487142786375850"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Transformed subspace clustering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "LjKj7cAAAAAJ:Tiz5es2fbqcC",
+            "authors": "J Maggu, A Majumdar, E Chouzenoux",
+            "publication": "IEEE Transactions on Knowledge and Data Engineering 33 (4), 1796-1801, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10504745287799084165",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10504745287799084165&engine=google_scholar&hl=en",
+                "cites_id": "10504745287799084165"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Analysing user ratings for classifying online movie data using various classifiers to generate recommendations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "LjKj7cAAAAAJ:u-x6o8ySG0sC",
+            "authors": "Jyoti Maggu ,Sanjeev Dhawan, Kulvinder singh",
+            "publication": "2015 International Conference on Futuristic Trends on Computational Analysis \u2026, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18319045536567318380",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18319045536567318380&engine=google_scholar&hl=en",
+                "cites_id": "18319045536567318380"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Deep Convolutional Transform Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:WbkHhVStYXYC",
+            "citation_id": "LjKj7cAAAAAJ:WbkHhVStYXYC",
+            "authors": "J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "International Conference on Neural Information Processing, 300-307, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2926191671320053505",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2926191671320053505&engine=google_scholar&hl=en",
+                "cites_id": "2926191671320053505"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Multi-label consistent convolutional transform learning: Application to non-intrusive load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:u9iWguZQMMsC",
+            "citation_id": "LjKj7cAAAAAJ:u9iWguZQMMsC",
+            "authors": "S Singh, J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and \u2026, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12395362053095133532",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12395362053095133532&engine=google_scholar&hl=en",
+                "cites_id": "12395362053095133532"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Semi-coupled Transform Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:abG-DnoFyZgC",
+            "citation_id": "LjKj7cAAAAAJ:abG-DnoFyZgC",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "International Conference on Neural Information Processing, 141-150, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7862962024214205029",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7862962024214205029&engine=google_scholar&hl=en",
+                "cites_id": "7862962024214205029"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Transformed locally linear manifold clustering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:EUQCXRtRnyEC",
+            "citation_id": "LjKj7cAAAAAJ:EUQCXRtRnyEC",
+            "authors": "J Maggu, A Majumdar, E Chouzenoux",
+            "publication": "2018 26th European Signal Processing Conference (EUSIPCO), 1057-1061, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3279975931471719700",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3279975931471719700&engine=google_scholar&hl=en",
+                "cites_id": "3279975931471719700"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Multi-echo reconstruction from partial K-space scans via adaptively learnt basis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:f2IySw72cVMC",
+            "citation_id": "LjKj7cAAAAAJ:f2IySw72cVMC",
+            "authors": "J Maggu, P Singh, A Majumdar",
+            "publication": "Magnetic Resonance Imaging 45, 105-112, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6557183779160409777",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6557183779160409777&engine=google_scholar&hl=en",
+                "cites_id": "6557183779160409777"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Supervised kernel transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:CHSYGLWDkRkC",
+            "citation_id": "LjKj7cAAAAAJ:CHSYGLWDkRkC",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "2019 International Joint Conference on Neural Networks (IJCNN), 1-8, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11755605618456820547",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11755605618456820547&engine=google_scholar&hl=en",
+                "cites_id": "11755605618456820547"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "ConFuse: Convolutional Transform Learning Fusion Framework For Multi-Channel Data Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:738O_yMBCRsC",
+            "citation_id": "LjKj7cAAAAAJ:738O_yMBCRsC",
+            "authors": "P Gupta, J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "2020 28th European Signal Processing Conference (EUSIPCO), 1986-1990, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5582453146556260385",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5582453146556260385&engine=google_scholar&hl=en",
+                "cites_id": "5582453146556260385"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Impulse Denoising via Transform Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:pyW8ca7W8N0C",
+            "citation_id": "LjKj7cAAAAAJ:pyW8ca7W8N0C",
+            "authors": "J Maggu, R Hussein, A Majumdar, R Ward",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6124926810141312831",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6124926810141312831&engine=google_scholar&hl=en",
+                "cites_id": "6124926810141312831"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Deep Convolutional Transform Learning--Extended version",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:K3LRdlH-MEoC",
+            "citation_id": "LjKj7cAAAAAJ:K3LRdlH-MEoC",
+            "authors": "J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "arXiv preprint arXiv:2010.01011, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Deep transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:SP6oXDckpogC",
+            "citation_id": "LjKj7cAAAAAJ:SP6oXDckpogC",
+            "authors": "J Maggu, A Majumdar",
+            "publication": "IIIT-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A Na\u00efve Algorithmic Approach for Detection of Users\u2019 with Unusual Behavior in online Social Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "LjKj7cAAAAAJ:9yKSN-GCB0IC",
+            "authors": "Pran Dev, Jyoti Maggu, Sanjeev Dhawan, Kulvinder Singh",
+            "publication": "International Journal of Software and Web Sciences 13 (1), 37-41, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Automotive Tools for Making Effective Recommendations for E- commerce Websites: An In-Depth Comparative Study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "LjKj7cAAAAAJ:UeHWp8X0CEIC",
+            "authors": "Jyoti Maggu, Pran Dev, Sanjeev Dhawan, Kulvinder Singh",
+            "publication": "National Conference on Advances in Engineering, Technology \u2026, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A Pragmatic Analysis to Detect Escalating Implicit Behavior in Online Social Websites",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LjKj7cAAAAAJ&pagesize=100&citation_for_view=LjKj7cAAAAAJ:qjMakFHDy7sC",
+            "citation_id": "LjKj7cAAAAAJ:qjMakFHDy7sC",
+            "authors": "Pran Dev,Jyoti Maggu, Sanjeev Dhawan, Kulvinder Singh",
+            "publication": "National Conference on Advances in Engineering, Technology \u2026, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 233,
+                    "since_2017": 228
+                }
+            },
+            {
+                "h_index": {
+                    "all": 9,
+                    "since_2017": 9
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 4
+            },
+            {
+                "year": 2017,
+                "citations": 8
+            },
+            {
+                "year": 2018,
+                "citations": 22
+            },
+            {
+                "year": 2019,
+                "citations": 36
+            },
+            {
+                "year": 2020,
+                "citations": 58
+            },
+            {
+                "year": 2021,
+                "citations": 84
+            },
+            {
+                "year": 2022,
+                "citations": 20
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=LjKj7cAAAAAJ",
+        "available": 7,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Emilie Chouzenoux",
+            "link": "https://scholar.google.com/citations?user=s6RMliwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=s6RMliwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "s6RMliwAAAAJ",
+            "affiliations": "Full researcher, Inria Saclay, France",
+            "email": "Verified email at centralesupelec.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=s6RMliwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Giovanni Chierchia",
+            "link": "https://scholar.google.com/citations?user=4znhuFcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4znhuFcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4znhuFcAAAAJ",
+            "affiliations": "Assistant professor, Universit\u00e9 Paris Est, ESIEE Paris",
+            "email": "Verified email at esiee.fr",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Dr. Kulvinder Singh",
+            "link": "https://scholar.google.com/citations?user=huq0hDAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=huq0hDAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "huq0hDAAAAAJ",
+            "affiliations": "UIET, Kurukshetra University, Kurukshetra",
+            "email": "Verified email at kuk.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=huq0hDAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Vanika Singhal",
+            "link": "https://scholar.google.com/citations?user=fHsGt4cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fHsGt4cAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "fHsGt4cAAAAJ",
+            "affiliations": "Indraprastha institute of Information Technology Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fHsGt4cAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dr. Sanjeev Dhawan",
+            "link": "https://scholar.google.com/citations?user=JD5nv4MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JD5nv4MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JD5nv4MAAAAJ",
+            "affiliations": "Faculty of Computer Science & Engineering, University Institute of Engineering & Technology (U.I.E.T",
+            "email": "Verified email at kuk.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JD5nv4MAAAAJ&citpid=1"
+        },
+        {
+            "name": "POOJA GUPTA",
+            "link": "https://scholar.google.com/citations?user=DEqg4vAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DEqg4vAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "DEqg4vAAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Hemant Kumar Aggarwal",
+            "link": "https://scholar.google.com/citations?user=SbXoUs0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SbXoUs0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SbXoUs0AAAAJ",
+            "affiliations": "Electrical and Computer Engineering Department, University of Iowa",
+            "email": "Verified email at uiowa.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SbXoUs0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Prerna Singh",
+            "link": "https://scholar.google.com/citations?user=qRQaXycAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qRQaXycAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qRQaXycAAAAJ",
+            "affiliations": "Carnegie Mellon University, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qRQaXycAAAAJ&citpid=1"
+        },
+        {
+            "name": "Shikha Singh",
+            "link": "https://scholar.google.com/citations?user=oQmogOIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oQmogOIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oQmogOIAAAAJ",
+            "affiliations": "PhD Scholar, IIIT-DELHI",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oQmogOIAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ramy Hussein",
+            "link": "https://scholar.google.com/citations?user=lc3lgegAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lc3lgegAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "lc3lgegAAAAJ",
+            "affiliations": "Stanford University",
+            "email": "Verified email at stanford.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lc3lgegAAAAJ&citpid=4"
+        },
+        {
+            "name": "Rabab Ward",
+            "link": "https://scholar.google.com/citations?user=dqsw1u8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dqsw1u8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "dqsw1u8AAAAJ",
+            "affiliations": "Electrical and computer engineering , UBC",
+            "email": "Verified email at ece.ubc.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dqsw1u8AAAAJ&citpid=2"
+        }
+    ]
+}
