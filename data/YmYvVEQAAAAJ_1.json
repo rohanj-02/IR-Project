@@ -1,3 +1,1108 @@
 {
-    "error": "You are exceeding 20 searches per hour. Please contact support, or spread out your searches."
+    "search_metadata": {
+        "id": "6256e969a4be10b52060cd53",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9b87672d9b8fe50d/6256e969a4be10b52060cd53.json",
+        "created_at": "2022-04-13 15:16:57 UTC",
+        "processed_at": "2022-04-13 15:16:57 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=YmYvVEQAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/9b87672d9b8fe50d/6256e969a4be10b52060cd53.html",
+        "total_time_taken": 0.16
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "YmYvVEQAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Saket Anand",
+        "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.edu.in/~anands/",
+        "interests": [
+            {
+                "title": "Computer Vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Deep Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YmYvVEQAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Semi-Supervised Kernel Mean Shift Clustering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:qjMakFHDy7sC",
+            "citation_id": "YmYvVEQAAAAJ:qjMakFHDy7sC",
+            "authors": "S Anand, S Mittal, O Tuzel, P Meer",
+            "publication": "Pattern Analysis and Machine Intelligence, IEEE Transactions on 36 (6), 1201 \u2026, 2014",
+            "cited_by": {
+                "value": 150,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645926316346672365",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17645926316346672365&engine=google_scholar&hl=en",
+                "cites_id": "17645926316346672365"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Disentangling factors of variation with cycle-consistent variational auto-encoders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "YmYvVEQAAAAJ:qxL8FJ1GzNcC",
+            "authors": "AH Jha, S Anand, M Singh, VSR Veeravasarapu",
+            "publication": "Proceedings of the European Conference on Computer Vision (ECCV), 805-820, 2018",
+            "cited_by": {
+                "value": 81,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3690535747576640472",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3690535747576640472&engine=google_scholar&hl=en",
+                "cites_id": "3690535747576640472"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Generalized projection-based M-estimator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "YmYvVEQAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Mittal, S Anand, P Meer",
+            "publication": "IEEE transactions on Pattern analysis and machine intelligence 34 (12), 2351 \u2026, 2012",
+            "cited_by": {
+                "value": 67,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1671249524848808941",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1671249524848808941&engine=google_scholar&hl=en",
+                "cites_id": "1671249524848808941"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:dhFuZR0502QC",
+            "citation_id": "YmYvVEQAAAAJ:dhFuZR0502QC",
+            "authors": "A Tripathi, A Mohan, S Anand, M Singh",
+            "publication": "IEEE International Conference on Acoustics, Speech and Signal Processing \u2026, 2018",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=718575038663067498",
+                "serpapi_link": "https://serpapi.com/search.json?cites=718575038663067498&engine=google_scholar&hl=en",
+                "cites_id": "718575038663067498"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Pseudo rgb-d for self-improving monocular slam and depth prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:NMxIlDl6LWMC",
+            "citation_id": "YmYvVEQAAAAJ:NMxIlDl6LWMC",
+            "authors": "L Tiwari, P Ji, QH Tran, B Zhuang, S Anand, M Chandraker",
+            "publication": "European Conference on Computer Vision, 437-455, 2020",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7591014437231976238",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7591014437231976238&engine=google_scholar&hl=en",
+                "cites_id": "7591014437231976238"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Automatic detection and recognition of individuals in patterned species",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "YmYvVEQAAAAJ:ULOm3_A8WrAC",
+            "authors": "GS Cheema, S Anand",
+            "publication": "Joint European Conference on Machine Learning and Knowledge Discovery in \u2026, 2017",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4621075324674145746,767864693426770995",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4621075324674145746%2C767864693426770995&engine=google_scholar&hl=en",
+                "cites_id": "4621075324674145746,767864693426770995"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Experimental analysis of sequential decision making algorithms for port of entry inspection procedures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "YmYvVEQAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Anand, D Madigan, R Mammone, S Pathak, F Roberts",
+            "publication": "International Conference on Intelligence and Security Informatics, 319-330, 2006",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10956134412822077005",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10956134412822077005&engine=google_scholar&hl=en",
+                "cites_id": "10956134412822077005"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Generalized projection based m-estimator: Theory and applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "YmYvVEQAAAAJ:d1gkVwhDpl0C",
+            "authors": "S Mittal, S Anand, P Meer",
+            "publication": "CVPR 2011, 2689-2696, 2011",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9340767844233496082",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9340767844233496082&engine=google_scholar&hl=en",
+                "cites_id": "9340767844233496082"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "BIRDSAI: A dataset for detection and tracking in aerial thermal infrared videos",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:blknAaTinKkC",
+            "citation_id": "YmYvVEQAAAAJ:blknAaTinKkC",
+            "authors": "E Bondi, R Jain, P Aggrawal, S Anand, R Hannaford, A Kapoor, J Piavis, ...",
+            "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2020",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13026190878026444390",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13026190878026444390&engine=google_scholar&hl=en",
+                "cites_id": "13026190878026444390"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Clusternet: Semi-supervised clustering using neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "YmYvVEQAAAAJ:Wp0gIr-vW9MC",
+            "authors": "A Shukla, GS Cheema, S Anand",
+            "publication": "arXiv preprint arXiv:1806.01547, 2018",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1299534043221800020,5416547513775756313",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1299534043221800020%2C5416547513775756313&engine=google_scholar&hl=en",
+                "cites_id": "1299534043221800020,5416547513775756313"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Product of orthogonal spheres parameterization for disentangled representation learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:-f6ydRqryjwC",
+            "citation_id": "YmYvVEQAAAAJ:-f6ydRqryjwC",
+            "authors": "A Shukla, S Bhagat, S Uppal, S Anand, P Turaga",
+            "publication": "30th British Machine Vision Conference 2019, {BMVC} 2019, Cardiff, UK \u2026, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11603577879388626671",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11603577879388626671&engine=google_scholar&hl=en",
+                "cites_id": "11603577879388626671"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Contextual Diversity for Active Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:O3NaXMp0MMsC",
+            "citation_id": "YmYvVEQAAAAJ:O3NaXMp0MMsC",
+            "authors": "S Agarwal, H Arora, S Anand, C Arora",
+            "publication": "European Conference on Computer Vision, 2020",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6510353152850152457",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6510353152850152457&engine=google_scholar&hl=en",
+                "cites_id": "6510353152850152457"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Geometry of deep generative models for disentangled representations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "YmYvVEQAAAAJ:L8Ckcad2t8MC",
+            "authors": "A Shukla, S Uppal, S Bhagat, S Anand, P Turaga",
+            "publication": "Proceedings of the 11th Indian Conference on Computer Vision, Graphics and \u2026, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10705640999146093064",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10705640999146093064&engine=google_scholar&hl=en",
+                "cites_id": "10705640999146093064"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Dgsac: Density guided sampling and consensus",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:aqlVkmm33-oC",
+            "citation_id": "YmYvVEQAAAAJ:aqlVkmm33-oC",
+            "authors": "L Tiwari, S Anand",
+            "publication": "2018 IEEE Winter Conference on Applications of Computer Vision (WACV), 974-982, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12927453769550243241",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12927453769550243241&engine=google_scholar&hl=en",
+                "cites_id": "12927453769550243241"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Stacked robust autoencoder for classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:roLk4NBRz8UC",
+            "citation_id": "YmYvVEQAAAAJ:roLk4NBRz8UC",
+            "authors": "J Mehta, K Gupta, A Gogna, A Majumdar, S Anand",
+            "publication": "International Conference on Neural Information Processing, 600-607, 2016",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1043881435941004426",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1043881435941004426&engine=google_scholar&hl=en",
+                "cites_id": "1043881435941004426"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Modeling functional similarity in source code with graph-based Siamese networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:vV6vV6tmYwMC",
+            "citation_id": "YmYvVEQAAAAJ:vV6vV6tmYwMC",
+            "authors": "N Mehrotra, N Agarwal, P Gupta, S Anand, D Lo, R Purandare",
+            "publication": "IEEE Transactions on Software Engineering, 2021",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6537686052300362243",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6537686052300362243&engine=google_scholar&hl=en",
+                "cites_id": "6537686052300362243"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Metric learning based automatic segmentation of patterned species",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "YmYvVEQAAAAJ:_FxGoFyzp5QC",
+            "authors": "A Shukla, S Anand",
+            "publication": "2016 IEEE International Conference on Image Processing (ICIP), 3982-3986, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14131934519943570445",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14131934519943570445&engine=google_scholar&hl=en",
+                "cites_id": "14131934519943570445"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "A new face recognition algorithm using bijective mappings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "YmYvVEQAAAAJ:u-x6o8ySG0sC",
+            "authors": "C Podilchuk, A Patel, A Harthattu, S Anand, R Mammone",
+            "publication": "2005 IEEE Computer Society Conference on Computer Vision and Pattern \u2026, 2005",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9858521236514702931",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9858521236514702931&engine=google_scholar&hl=en",
+                "cites_id": "9858521236514702931"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Primate face identification in the wild",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:hC7cP41nSMkC",
+            "citation_id": "YmYvVEQAAAAJ:hC7cP41nSMkC",
+            "authors": "A Shukla, GS Cheema, S Anand, Q Qureshi, Y Jhala",
+            "publication": "Pacific Rim International Conference on Artificial Intelligence, 387-401, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3708248485237301869",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3708248485237301869&engine=google_scholar&hl=en",
+                "cites_id": "3708248485237301869"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Reinforcement learning based querying in camera networks for efficient target tracking",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "YmYvVEQAAAAJ:ZeXyd9-uunAC",
+            "authors": "A Sharma, S Anand, SK Kaul",
+            "publication": "Proceedings of the International Conference on Automated Planning and \u2026, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3676813638032024676",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3676813638032024676&engine=google_scholar&hl=en",
+                "cites_id": "3676813638032024676"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A reinforcement learning approach to jointly adapt vehicular communications and planning for optimized driving",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "YmYvVEQAAAAJ:mVmsd5A6BfQC",
+            "authors": "MK Pal, R Bhati, A Sharma, SK Kaul, S Anand, PB Sujit",
+            "publication": "2018 21st International Conference on Intelligent Transportation Systems \u2026, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=466085441185392756",
+                "serpapi_link": "https://serpapi.com/search.json?cites=466085441185392756&engine=google_scholar&hl=en",
+                "cites_id": "466085441185392756"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Robust multi-model fitting using density and preference analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:8k81kl-MbHgC",
+            "citation_id": "YmYvVEQAAAAJ:8k81kl-MbHgC",
+            "authors": "L Tiwari, S Anand, S Mittal",
+            "publication": "Asian Conference on Computer Vision, 308-323, 2016",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2049882164137250892",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2049882164137250892&engine=google_scholar&hl=en",
+                "cites_id": "2049882164137250892"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Development and validation of high definition phenotype-based mortality prediction in critical care units",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:M05iB0D1s5AC",
+            "citation_id": "YmYvVEQAAAAJ:M05iB0D1s5AC",
+            "authors": "Y Sun, R Kaur, S Gupta, R Paul, R Das, SJ Cho, S Anand, JJ Boutilier, ...",
+            "publication": "JAMIA open 4 (1), ooab004, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15837322331481211337",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15837322331481211337&engine=google_scholar&hl=en",
+                "cites_id": "15837322331481211337"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A hybrid approach to tiger re-identification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "YmYvVEQAAAAJ:bEWYMUwI8FkC",
+            "authors": "A Shukla, G Sigh Cheema, P Gao, S Onda, D Anshumaan, S Anand, ...",
+            "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17298751306006839278",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17298751306006839278&engine=google_scholar&hl=en",
+                "cites_id": "17298751306006839278"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Exploring Bias in Primate Face Detection and Recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "YmYvVEQAAAAJ:7PzlFSSx8tAC",
+            "authors": "S Sinha, M Agarwal, M Vatsa, R Singh, S Anand",
+            "publication": "In Proceedings of ECCV Workshop on Bias Estimation in Face Analytics, 541-555, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1434335377535888244",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1434335377535888244&engine=google_scholar&hl=en",
+                "cites_id": "1434335377535888244"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Distance Metric Learning by Optimization on the Stiefel Manifold",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:WF5omc3nYNoC",
+            "citation_id": "YmYvVEQAAAAJ:WF5omc3nYNoC",
+            "authors": "A Shukla, S Anand",
+            "publication": "Proceedings of the 1st International Workshop on DIFFerential Geometry in \u2026, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15686987727901338984",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15686987727901338984&engine=google_scholar&hl=en",
+                "cites_id": "15686987727901338984"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Intelligent querying for target tracking in camera networks using deep q-learning with n-step bootstrapping",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:hMod-77fHWUC",
+            "citation_id": "YmYvVEQAAAAJ:hMod-77fHWUC",
+            "authors": "A Sharma, S Anand, SK Kaul",
+            "publication": "Image and Vision Computing 103, 104022, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5906810966441034941",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5906810966441034941&engine=google_scholar&hl=en",
+                "cites_id": "5906810966441034941"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Discont: Self-supervised visual attribute disentanglement using context vectors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:2P1L_qKh6hAC",
+            "citation_id": "YmYvVEQAAAAJ:2P1L_qKh6hAC",
+            "authors": "S Bhagat, V Udandarao, S Uppal, S Anand",
+            "publication": "European Conference on Computer Vision, 549-553, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9076396352595302675",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9076396352595302675&engine=google_scholar&hl=en",
+                "cites_id": "9076396352595302675"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Symmetric -Means for Deep Neural Network Compression and Hardware Acceleration on FPGAs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "YmYvVEQAAAAJ:JV2RwH3_ST0C",
+            "authors": "A Jain, P Goel, S Aggarwal, A Fell, S Anand",
+            "publication": "IEEE Journal of Selected Topics in Signal Processing 14 (4), 737-749, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=89296723571246178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=89296723571246178&engine=google_scholar&hl=en",
+                "cites_id": "89296723571246178"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Metric learning on biological sequence embeddings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "YmYvVEQAAAAJ:M3ejUd6NZC8C",
+            "authors": "D Kimothi, A Shukla, P Biyani, S Anand, JM Hogan",
+            "publication": "2017 IEEE 18th International Workshop on Signal Processing Advances in \u2026, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15708006495040600131",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15708006495040600131&engine=google_scholar&hl=en",
+                "cites_id": "15708006495040600131"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Stratified Sampling Based Experience Replay for Efficient Camera Selection Decisions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:RYcK_YlVTxYC",
+            "citation_id": "YmYvVEQAAAAJ:RYcK_YlVTxYC",
+            "authors": "A Sharma, MK Pal, S Anand, SK Kaul",
+            "publication": "2020 IEEE Sixth International Conference on Multimedia Big Data (BigMM), 144-151, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1962094276188400711",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1962094276188400711&engine=google_scholar&hl=en",
+                "cites_id": "1962094276188400711"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A Parallel Architecture for High Frame Rate Stereo using Semi-Global Matching",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "YmYvVEQAAAAJ:KlAtU1dfN6UC",
+            "authors": "A Jain, A Fell, S Anand",
+            "publication": "British Machine Vision Conference, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13314800770213619010",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13314800770213619010&engine=google_scholar&hl=en",
+                "cites_id": "13314800770213619010"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Robust estimation for computer vision using grassmann manifolds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "YmYvVEQAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Anand, S Mittal, P Meer",
+            "publication": "Riemannian Computing in Computer Vision, 125-144, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15778460120257788585",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15778460120257788585&engine=google_scholar&hl=en",
+                "cites_id": "15778460120257788585"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Machine Learning-Based Automatic Classification of Video Recorded Neonatal Manipulations and Associated Physiological Parameters: A Feasibility Study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:70eg2SAEIzsC",
+            "citation_id": "YmYvVEQAAAAJ:70eg2SAEIzsC",
+            "authors": "H Singh, S Kusuda, RM McAdams, S Gupta, J Kalra, R Kaur, R Das, ...",
+            "publication": "Children 8 (1), 1, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13442345327513740051",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13442345327513740051&engine=google_scholar&hl=en",
+                "cites_id": "13442345327513740051"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Fast hypothesis filtering for multi-structure geometric model fitting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:ufrVoPGSRksC",
+            "citation_id": "YmYvVEQAAAAJ:ufrVoPGSRksC",
+            "authors": "L Tiwari, S Anand",
+            "publication": "2016 IEEE International Conference on Image Processing (ICIP), 3728-3732, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12385270373859528474",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12385270373859528474&engine=google_scholar&hl=en",
+                "cites_id": "12385270373859528474"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Robust methods for multiple model discovery in structured and unstructured data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "YmYvVEQAAAAJ:UeHWp8X0CEIC",
+            "authors": "S Anand",
+            "publication": "Rutgers The State University of New Jersey-New Brunswick, 2013",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6047583483018716848",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6047583483018716848&engine=google_scholar&hl=en",
+                "cites_id": "6047583483018716848"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Learning Estimates At The Edge Using Intermittent And Aged Measurement Updates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:WbkHhVStYXYC",
+            "citation_id": "YmYvVEQAAAAJ:WbkHhVStYXYC",
+            "authors": "S Agarwal, SK Kaul, S Anand, PB Sujit",
+            "publication": "arXiv preprint arXiv:2201.08020, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "REGroup: Rank-Aggregating Ensemble of Generative Classifiers for Robust Predictions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "YmYvVEQAAAAJ:Tiz5es2fbqcC",
+            "authors": "L Tiwari, A Madan, S Anand, S Banerjee",
+            "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Intelligent Camera Selection Decisions for Target Tracking in a Camera Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:XiSMed-E-HIC",
+            "citation_id": "YmYvVEQAAAAJ:XiSMed-E-HIC",
+            "authors": "A Sharma, S Anand, SK Kaul",
+            "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "HIERMATCH: Leveraging Label Hierarchies for Improving Semi-Supervised Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:p2g8aNsByqUC",
+            "citation_id": "YmYvVEQAAAAJ:p2g8aNsByqUC",
+            "authors": "A Garg, S Bagga, Y Singh, S Anand",
+            "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Does Data Repair Lead to Fair Models? Curating Contextually Fair Data To Reduce Model Bias",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:cFHS6HbyZ2cC",
+            "citation_id": "YmYvVEQAAAAJ:cFHS6HbyZ2cC",
+            "authors": "S Agarwal, S Muku, S Anand, C Arora",
+            "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Systems and Methods for Disentangling Factors of Variation in Computer Vision Systems Using Cycle-Consistent Variational Auto-Encoders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:rO6llkc54NcC",
+            "citation_id": "YmYvVEQAAAAJ:rO6llkc54NcC",
+            "authors": "AH Jha, S Anand, MK Singh, VS Veeravarasapu",
+            "publication": "US Patent App. 17/152,424, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "State representation learning for reinforcement learning setting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:738O_yMBCRsC",
+            "citation_id": "YmYvVEQAAAAJ:738O_yMBCRsC",
+            "authors": "S Thakral, S Anand, SK Kaul",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Robust scene understanding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:g5m5HwL7SMYC",
+            "citation_id": "YmYvVEQAAAAJ:g5m5HwL7SMYC",
+            "authors": "L Tiwari, S Anand",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Active learning for visual wildlife monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:SeFeTyx0c_EC",
+            "citation_id": "YmYvVEQAAAAJ:SeFeTyx0c_EC",
+            "authors": "DM Srivatsav, S Anand",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "GraCIAS: Grassmannian of Corrupted Images for Adversarial Security",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:BqipwSGYUEgC",
+            "citation_id": "YmYvVEQAAAAJ:BqipwSGYUEgC",
+            "authors": "A Shukla, P Turaga, S Anand",
+            "publication": "arXiv preprint arXiv:2005.02936, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Computer vision applications in wildlife conservation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:3s1wT3WcHBgC",
+            "citation_id": "YmYvVEQAAAAJ:3s1wT3WcHBgC",
+            "authors": "P Aggrawal, S Anand",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Exploring geometric constraints for learning representations for visual data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:lSLTfruPkqcC",
+            "citation_id": "YmYvVEQAAAAJ:lSLTfruPkqcC",
+            "authors": "A Shukla, S Anand",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Neural networks with topological data analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:ZHo1McVdvXMC",
+            "citation_id": "YmYvVEQAAAAJ:ZHo1McVdvXMC",
+            "authors": "P Kasliwal, S Anand",
+            "publication": "IIIT-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Assessment of honey bee colony health using Computer Vision and Machine Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:HoB7MX3m0LUC",
+            "citation_id": "YmYvVEQAAAAJ:HoB7MX3m0LUC",
+            "authors": "M Thakker, S Anand, S Purandare",
+            "publication": "IIIT-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Systems and Methods for Automatic Speech Recognition Using Domain Adaptation Techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:isC4tDSrTZIC",
+            "citation_id": "YmYvVEQAAAAJ:isC4tDSrTZIC",
+            "authors": "MK Singh, A Tripathi, S Anand",
+            "publication": "US Patent App. 16/387,644, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Socioeconomic and Biophysical Drivers of Cropland Use Intensification in India: Analysis using satellite data and administrative surveys",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "YmYvVEQAAAAJ:4JMBOYKVnBMC",
+            "authors": "G Arora, T Rathore, G Gupta, S Anand",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Unique Identification of Macaques for Population Monitoring and Control",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "YmYvVEQAAAAJ:QIV2ME_5wuYC",
+            "authors": "A Shukla, GS Cheema, S Anand, Q Qureshi, Y Jhala",
+            "publication": "arXiv preprint arXiv:1811.00743, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A Reinforcement Learning Approach to Target Tracking in a Camera Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "YmYvVEQAAAAJ:9ZlFYXVOiuMC",
+            "authors": "A Sharma, P Kumar, S Anand, SK Kaul",
+            "publication": "arXiv preprint arXiv:1807.10336, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Comparison of Current Face Recognition Techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:Zph67rFs4hoC",
+            "citation_id": "YmYvVEQAAAAJ:Zph67rFs4hoC",
+            "authors": "S Anand",
+            "publication": "Rutgers University, 2006",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Part I-Long Papers-Infrastructure Protection and Cyber Security-Experimental Analysis of Sequential Decision Making Algorithms for Port of Entry Inspection Procedures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "YmYvVEQAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Anand, D Madigan, R Mammone, S Pathak, F Roberts",
+            "publication": "Lecture Notes in Computer Science 3975, 319-330, 2006",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Supplementary Material: REGroup: Rank-aggregating Ensemble of Generative Classifiers for Robust Predictions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:u9iWguZQMMsC",
+            "citation_id": "YmYvVEQAAAAJ:u9iWguZQMMsC",
+            "authors": "L Tiwari, A Madan, S Anand, S Banerjee",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Exploring geometric constraints for learning representations for visual data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:pqnbT2bcN3wC",
+            "citation_id": "YmYvVEQAAAAJ:pqnbT2bcN3wC",
+            "authors": "S Anand",
+            "publication": "Delhi, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Adversarial Learning of Raw Speech Features for Domain Invariant Speech Recognition Download PDF",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:J_g5lzvAfSwC",
+            "citation_id": "YmYvVEQAAAAJ:J_g5lzvAfSwC",
+            "authors": "A Tripathi, A Mohan, S Anand, M Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Contextual Diversity for Active Learning Supplementary Material",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YmYvVEQAAAAJ&pagesize=100&citation_for_view=YmYvVEQAAAAJ:ns9cj8rnVeAC",
+            "citation_id": "YmYvVEQAAAAJ:ns9cj8rnVeAC",
+            "authors": "S Agarwal, H Arora, S Anand, C Arora",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 598,
+                    "since_2017": 469
+                }
+            },
+            {
+                "h_index": {
+                    "all": 12,
+                    "since_2017": 11
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 13,
+                    "since_2017": 11
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2007,
+                "citations": 3
+            },
+            {
+                "year": 2008,
+                "citations": 6
+            },
+            {
+                "year": 2009,
+                "citations": 1
+            },
+            {
+                "year": 2010,
+                "citations": 6
+            },
+            {
+                "year": 2011,
+                "citations": 6
+            },
+            {
+                "year": 2012,
+                "citations": 5
+            },
+            {
+                "year": 2013,
+                "citations": 9
+            },
+            {
+                "year": 2014,
+                "citations": 18
+            },
+            {
+                "year": 2015,
+                "citations": 25
+            },
+            {
+                "year": 2016,
+                "citations": 43
+            },
+            {
+                "year": 2017,
+                "citations": 33
+            },
+            {
+                "year": 2018,
+                "citations": 35
+            },
+            {
+                "year": 2019,
+                "citations": 80
+            },
+            {
+                "year": 2020,
+                "citations": 111
+            },
+            {
+                "year": 2021,
+                "citations": 149
+            },
+            {
+                "year": 2022,
+                "citations": 61
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=YmYvVEQAAAAJ",
+        "available": 4,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Ankita Shukla",
+            "link": "https://scholar.google.com/citations?user=c-S0ouYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c-S0ouYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c-S0ouYAAAAJ",
+            "affiliations": "Arizona State University",
+            "email": "Verified email at asu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c-S0ouYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sushil Mittal",
+            "link": "https://scholar.google.com/citations?user=g14FgFoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=g14FgFoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "g14FgFoAAAAJ",
+            "affiliations": "Google, Mountain View, CA",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=g14FgFoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Peter Meer",
+            "link": "https://scholar.google.com/citations?user=qxltc6YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qxltc6YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qxltc6YAAAAJ",
+            "affiliations": "Rutgers University",
+            "email": "Verified email at soe.rutgers.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qxltc6YAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dr. Lokender Tiwari",
+            "link": "https://scholar.google.com/citations?user=uHfnun4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uHfnun4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "uHfnun4AAAAJ",
+            "affiliations": "Research Scientist @ TCS Research",
+            "email": "Verified email at tcs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uHfnun4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Gullal S. Cheema",
+            "link": "https://scholar.google.com/citations?user=t1MvIUQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=t1MvIUQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "t1MvIUQAAAAJ",
+            "affiliations": "Leibniz University Hannover; TIB",
+            "email": "Verified email at tib.eu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=t1MvIUQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Maneesh Singh",
+            "link": "https://scholar.google.com/citations?user=hdQhiFgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hdQhiFgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "hdQhiFgAAAAJ",
+            "affiliations": "Head R&D, Verisk | AI, Jersey City, NJ, USA",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hdQhiFgAAAAJ&citpid=3"
+        },
+        {
+            "name": "Anil Sharma",
+            "link": "https://scholar.google.com/citations?user=4W_h9v8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4W_h9v8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4W_h9v8AAAAJ",
+            "affiliations": "PhD Scholar, IIIT-Delhii",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4W_h9v8AAAAJ&citpid=5"
+        },
+        {
+            "name": "Ananya Harsh Jha",
+            "link": "https://scholar.google.com/citations?user=KK_RffoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KK_RffoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "KK_RffoAAAAJ",
+            "affiliations": "Research Engineer at Grid AI, PyTorch Lightning",
+            "email": "Verified email at grid.ai",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=KK_RffoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Oncel Tuzel",
+            "link": "https://scholar.google.com/citations?user=Fe7NTe0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Fe7NTe0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Fe7NTe0AAAAJ",
+            "affiliations": "Apple",
+            "email": "Verified email at apple.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Fe7NTe0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Sanjit Krishnan Kaul",
+            "link": "https://scholar.google.com/citations?user=XGNQPRsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XGNQPRsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XGNQPRsAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology (IIIT-Delhi),",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XGNQPRsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Shagun Uppal",
+            "link": "https://scholar.google.com/citations?user=cjo5X3QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cjo5X3QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cjo5X3QAAAAJ",
+            "affiliations": "Visiting Scholar @ CLVR Lab, USC | CSE Undergrad IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cjo5X3QAAAAJ&citpid=1"
+        },
+        {
+            "name": "Sarthak Bhagat",
+            "link": "https://scholar.google.com/citations?user=SLRQlXEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SLRQlXEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SLRQlXEAAAAJ",
+            "affiliations": "Deep Learning Engineer @ Preimage",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SLRQlXEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Aditay Tripathi",
+            "link": "https://scholar.google.com/citations?user=rDCT8xQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rDCT8xQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rDCT8xQAAAAJ",
+            "affiliations": "Indian Institute of Science",
+            "email": "Verified email at iisc.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Pavan Turaga",
+            "link": "https://scholar.google.com/citations?user=zJH58wkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zJH58wkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "zJH58wkAAAAJ",
+            "affiliations": "Geometric Media Lab, Arizona State University",
+            "email": "Verified email at asu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "VSR Veeravasarapu",
+            "link": "https://scholar.google.com/citations?user=UqcsApEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UqcsApEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "UqcsApEAAAAJ",
+            "affiliations": "PhD student at Goethe University, Frankfurt",
+            "email": "Verified email at fias.uni-frankfurt.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Aanchan mohan",
+            "link": "https://scholar.google.com/citations?user=EXwurFwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EXwurFwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "EXwurFwAAAAJ",
+            "affiliations": "McGill University",
+            "email": "Verified email at mail.mcgill.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Chetan Arora",
+            "link": "https://scholar.google.com/citations?user=Q8cTLNMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Q8cTLNMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Q8cTLNMAAAAJ",
+            "affiliations": "Associate Professor, IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Q8cTLNMAAAAJ&citpid=2"
+        },
+        {
+            "name": "David Madigan",
+            "link": "https://scholar.google.com/citations?user=XDajlywAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XDajlywAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XDajlywAAAAJ",
+            "affiliations": "Professor of Statistics, Northeastern University",
+            "email": "Verified email at northeastern.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XDajlywAAAAJ&citpid=2"
+        },
+        {
+            "name": "Fred Roberts",
+            "link": "https://scholar.google.com/citations?user=ACVkPIwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ACVkPIwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ACVkPIwAAAAJ",
+            "affiliations": "Professor of Mathematics, Rutgers University, Emeritus Director of DIMACS, Director of CCICADA",
+            "email": "Verified email at dimacs.rutgers.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ACVkPIwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Palash Aggrawal",
+            "link": "https://scholar.google.com/citations?user=LS3RLtIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LS3RLtIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "LS3RLtIAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LS3RLtIAAAAJ&citpid=2"
+        }
+    ]
 }

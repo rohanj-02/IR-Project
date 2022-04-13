@@ -1,3 +1,1515 @@
 {
-    "error": "You are exceeding 20 searches per hour. Please contact support, or spread out your searches."
+    "search_metadata": {
+        "id": "6256e96b1988e5fa1fe9ead9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0c9083233388f606/6256e96b1988e5fa1fe9ead9.json",
+        "created_at": "2022-04-13 15:16:59 UTC",
+        "processed_at": "2022-04-13 15:16:59 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=v0coc0YAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/0c9083233388f606/6256e96b1988e5fa1fe9ead9.html",
+        "total_time_taken": 0.23
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "v0coc0YAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Donghoon Chang",
+        "affiliations": "IIIT-Delhi, India",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Cryptography",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cryptography",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acryptography"
+            },
+            {
+                "title": "Cryptanalysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cryptanalysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acryptanalysis"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "HIGHT: A new block cipher suitable for low-resource device",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "v0coc0YAAAAJ:u5HHmVD_uO8C",
+            "authors": "D Hong, J Sung, S Hong, J Lim, S Lee, BS Koo, C Lee, D Chang, J Lee, ...",
+            "publication": "International workshop on cryptographic hardware and embedded systems, 46-59, 2006",
+            "cited_by": {
+                "value": 858,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15277893421218823503",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15277893421218823503&engine=google_scholar&hl=en",
+                "cites_id": "15277893421218823503"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Differential Cryptanalysis of TEA and XTEA",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:qjMakFHDy7sC",
+            "citation_id": "v0coc0YAAAAJ:qjMakFHDy7sC",
+            "authors": "S Hong, D Hong, Y Ko, D Chang, W Lee, S Lee",
+            "publication": "International Conference on Information Security and Cryptology, 402-417, 2003",
+            "cited_by": {
+                "value": 114,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12182613868018105929",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12182613868018105929&engine=google_scholar&hl=en",
+                "cites_id": "12182613868018105929"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "Indifferentiable security analysis of popular hash functions with prefix-free padding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "v0coc0YAAAAJ:u-x6o8ySG0sC",
+            "authors": "D Chang, S Lee, M Nandi, M Yung",
+            "publication": "International Conference on the Theory and Application of Cryptology and \u2026, 2006",
+            "cited_by": {
+                "value": 74,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17388004762557893485",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17388004762557893485&engine=google_scholar&hl=en",
+                "cites_id": "17388004762557893485"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Improved indifferentiability security analysis of chopMD hash function",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "v0coc0YAAAAJ:d1gkVwhDpl0C",
+            "authors": "D Chang, M Nandi",
+            "publication": "International Workshop on Fast Software Encryption, 429-443, 2008",
+            "cited_by": {
+                "value": 73,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=793512299246403589",
+                "serpapi_link": "https://serpapi.com/search.json?cites=793512299246403589&engine=google_scholar&hl=en",
+                "cites_id": "793512299246403589"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "A new dedicated 256-bit hash function: FORK-256",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "v0coc0YAAAAJ:9yKSN-GCB0IC",
+            "authors": "D Hong, D Chang, J Sung, S Lee, S Hong, J Lee, D Moon, S Chee",
+            "publication": "International Workshop on Fast Software Encryption, 195-209, 2006",
+            "cited_by": {
+                "value": 57,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5664941911435516717",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5664941911435516717&engine=google_scholar&hl=en",
+                "cites_id": "5664941911435516717"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "RC4-Hash: A new hash function based on RC4",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "v0coc0YAAAAJ:zYLM7Y9cAGgC",
+            "authors": "D Chang, KC Gupta, M Nandi",
+            "publication": "International Conference on Cryptology in India, 80-94, 2006",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14592673673186634263",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14592673673186634263&engine=google_scholar&hl=en",
+                "cites_id": "14592673673186634263"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "A keyed sponge construction with pseudorandomness in the standard model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "v0coc0YAAAAJ:e5wmG9Sq2KIC",
+            "authors": "D Chang, M Dworkin, S Hong, J Kelsey, M Nandi",
+            "publication": "The Third SHA-3 Candidate Conference (March 2012) 3, 7, 2012",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3709818442734038758",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3709818442734038758&engine=google_scholar&hl=en",
+                "cites_id": "3709818442734038758"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Status report on the first round of the NIST lightweight cryptography standardization process",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:BwyfMAYsbu0C",
+            "citation_id": "v0coc0YAAAAJ:BwyfMAYsbu0C",
+            "authors": "MS Turan, KA McKay, \u00c7 \u00c7alik, D Chang, L Bassham",
+            "publication": "National Institute of Standards and Technology, Gaithersburg, MD, NIST \u2026, 2019",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481698615023652964",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15481698615023652964&engine=google_scholar&hl=en",
+                "cites_id": "15481698615023652964"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A short proof of the PRP/PRF switching lemma",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:YFjsv_pBGBYC",
+            "citation_id": "v0coc0YAAAAJ:YFjsv_pBGBYC",
+            "authors": "D Chang, M Nandi",
+            "publication": "Cryptology ePrint Archive, 2008",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3606349024906483902",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3606349024906483902&engine=google_scholar&hl=en",
+                "cites_id": "3606349024906483902"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Indifferentiability of the hash algorithm BLAKE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "v0coc0YAAAAJ:hqOjcs7Dif8C",
+            "authors": "D Chang, M Nandi, M Yung",
+            "publication": "Cryptology ePrint Archive, 2011",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18280070129161145341",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18280070129161145341&engine=google_scholar&hl=en",
+                "cites_id": "18280070129161145341"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Finding collision on 45-step HAS-160",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "v0coc0YAAAAJ:YsMSGLbcyi4C",
+            "authors": "A Yun, SH Sung, S Park, D Chang, S Hong, HS Cho",
+            "publication": "International Conference on Information Security and Cryptology, 146-155, 2005",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14228093092827719221",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14228093092827719221&engine=google_scholar&hl=en",
+                "cites_id": "14228093092827719221"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Bicliques with minimal data and time complexity for AES",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "v0coc0YAAAAJ:nb7KW1ujOQ8C",
+            "authors": "A Bogdanov, D Chang, M Ghosh, SK Sanadhya",
+            "publication": "International Conference on Information Security and Cryptology, 160-174, 2014",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16623519801332827789",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16623519801332827789&engine=google_scholar&hl=en",
+                "cites_id": "16623519801332827789"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Rig: A Simple, Secure and Flexible Design for Password Hashing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:g5m5HwL7SMYC",
+            "citation_id": "v0coc0YAAAAJ:g5m5HwL7SMYC",
+            "authors": "D Chang, A Jati, S Mishra, SK Sanadhya",
+            "publication": "International Conference on Information Security and Cryptology, 361-381, 2014",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2851687009118422761",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2851687009118422761&engine=google_scholar&hl=en",
+                "cites_id": "2851687009118422761"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Status report on the second round of the SHA-3 cryptographic hash algorithm competition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:ufrVoPGSRksC",
+            "citation_id": "v0coc0YAAAAJ:ufrVoPGSRksC",
+            "authors": "MS Turan, R Perlner, LE Bassham, W Burr, D Chang, S jen Chang, ...",
+            "publication": "NIST Interagency Report 7764, 2011",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3240304879966875871",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3240304879966875871&engine=google_scholar&hl=en",
+                "cites_id": "3240304879966875871"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "New parallel domain extenders for UOWHF",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "v0coc0YAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "W Lee, D Chang, S Lee, S Sung, M Nandi",
+            "publication": "International Conference on the Theory and Application of Cryptology and \u2026, 2003",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2341042933041900898",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2341042933041900898&engine=google_scholar&hl=en",
+                "cites_id": "2341042933041900898"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "Cancelable multi-biometric approach using fuzzy extractor and novel bit-wise encryption",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:HeT0ZceujKMC",
+            "citation_id": "v0coc0YAAAAJ:HeT0ZceujKMC",
+            "authors": "D Chang, S Garg, M Hasan, S Mishra",
+            "publication": "IEEE Transactions on Information Forensics and Security 15, 3152-3167, 2020",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1954683577643112938",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1954683577643112938&engine=google_scholar&hl=en",
+                "cites_id": "1954683577643112938"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A new 256-bit hash function DHA-256: enhancing the security of SHA-256",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "v0coc0YAAAAJ:_FxGoFyzp5QC",
+            "authors": "J Lee, D Chang, H Kim, E Lee, D Hong, J Sung, S Hong, S Lee",
+            "publication": "The First Cryptographic Hash Workshop, Gaithersburg, USA, 2005",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8086089812317435826",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8086089812317435826&engine=google_scholar&hl=en",
+                "cites_id": "8086089812317435826"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Privacy-preserving indexing of iris-codes with cancelable bloom filter-based search structures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:VLnqNzywnoUC",
+            "citation_id": "v0coc0YAAAAJ:VLnqNzywnoUC",
+            "authors": "P Drozdowski, S Garg, C Rathgeb, M Gomez-Barrcro, D Chang, C Busch",
+            "publication": "2018 26th European Signal Processing Conference (EUSIPCO), 2360-2364, 2018",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2150890719282744595",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2150890719282744595&engine=google_scholar&hl=en",
+                "cites_id": "2150890719282744595"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A survey on lightweight authenticated encryption and challenges for securing industrial IoT",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:yB1At4FlUx8C",
+            "citation_id": "v0coc0YAAAAJ:yB1At4FlUx8C",
+            "authors": "M Agrawal, J Zhou, D Chang",
+            "publication": "Security and Privacy Trends in the Industrial Internet of Things, 71-94, 2019",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13063917070902183791",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13063917070902183791&engine=google_scholar&hl=en",
+                "cites_id": "13063917070902183791"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Second preimage attack on 3-pass HAVAL and partial key-recovery attacks on HMAC/NMAC-3-pass HAVAL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "v0coc0YAAAAJ:eQOLeE2rZwMC",
+            "authors": "E Lee, D Chang, J Kim, J Sung, S Hong",
+            "publication": "International Workshop on Fast Software Encryption, 189-206, 2008",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10166143937689048578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10166143937689048578&engine=google_scholar&hl=en",
+                "cites_id": "10166143937689048578"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "A weak key class of XTEA for a related-key rectangle attack",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:roLk4NBRz8UC",
+            "citation_id": "v0coc0YAAAAJ:roLk4NBRz8UC",
+            "authors": "E Lee, D Hong, D Chang, S Hong, J Lim",
+            "publication": "International Conference on Cryptology in Vietnam, 286-297, 2006",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8462189753170889370",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8462189753170889370&engine=google_scholar&hl=en",
+                "cites_id": "8462189753170889370"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Threshold implementations of GIFT: A trade-off analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:5awf1xo2G04C",
+            "citation_id": "v0coc0YAAAAJ:5awf1xo2G04C",
+            "authors": "N Gupta, A Jati, SK Sanadhya, A Chattopadhyay, D Chang",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8778740496705391796",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8778740496705391796&engine=google_scholar&hl=en",
+                "cites_id": "8778740496705391796"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Threshold Implementations of : A Trade-Off Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:lmc2jWPfTJgC",
+            "citation_id": "v0coc0YAAAAJ:lmc2jWPfTJgC",
+            "authors": "A Jati, N Gupta, A Chattopadhyay, SK Sanadhya, D Chang",
+            "publication": "IEEE Transactions on Information Forensics and Security 15, 2110-2120, 2019",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4762977032667515837",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4762977032667515837&engine=google_scholar&hl=en",
+                "cites_id": "4762977032667515837"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "1st and 2nd Preimage Attacks on 7, 8 and 9 Rounds of Keccak-224,256,384,512",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:4OULZ7Gr8RgC",
+            "citation_id": "v0coc0YAAAAJ:4OULZ7Gr8RgC",
+            "authors": "D Chang, A Kumar, P Morawiecki, SK Sanadhya",
+            "publication": "SHA-3 workshop, 2014",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9162879582736133066",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9162879582736133066&engine=google_scholar&hl=en",
+                "cites_id": "9162879582736133066"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "FbHash: A new similarity hashing scheme for digital forensics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:EkHepimYqZsC",
+            "citation_id": "v0coc0YAAAAJ:EkHepimYqZsC",
+            "authors": "D Chang, M Ghosh, SK Sanadhya, M Singh, DR White",
+            "publication": "Digital Investigation 29, S113-S123, 2019",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910529522669580086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15910529522669580086&engine=google_scholar&hl=en",
+                "cites_id": "15910529522669580086"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "sp-AELM: Sponge based authenticated encryption scheme for memory constrained devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:rO6llkc54NcC",
+            "citation_id": "v0coc0YAAAAJ:rO6llkc54NcC",
+            "authors": "M Agrawal, D Chang, S Sanadhya",
+            "publication": "Australasian Conference on Information Security and Privacy, 451-468, 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3326519374938009676",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3326519374938009676&engine=google_scholar&hl=en",
+                "cites_id": "3326519374938009676"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Generation of secure and reliable honeywords, preventing false detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:NJ774b8OgUMC",
+            "citation_id": "v0coc0YAAAAJ:NJ774b8OgUMC",
+            "authors": "D Chang, A Goel, S Mishra, SK Sanadhya",
+            "publication": "IEEE Transactions on Dependable and Secure Computing 16 (5), 757-769, 2018",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15666229765557485578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15666229765557485578&engine=google_scholar&hl=en",
+                "cites_id": "15666229765557485578"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "ARIRANG: SHA-3 Proposal",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:UebtZRa9Y70C",
+            "citation_id": "v0coc0YAAAAJ:UebtZRa9Y70C",
+            "authors": "D Chang, S Hong, C Kang, J Kang, J Kim, C Lee, J Lee, J Lee, S Lee, ...",
+            "publication": "NIST SHA-3 candidate, available fr om http://csrc. nist. gov/groups/ST/hash \u2026, 2008",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17268377355153042858",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17268377355153042858&engine=google_scholar&hl=en",
+                "cites_id": "17268377355153042858"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Arirang",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:M05iB0D1s5AC",
+            "citation_id": "v0coc0YAAAAJ:M05iB0D1s5AC",
+            "authors": "D Chang, S Hong, C Kang, J Kang, J Kim, C Lee, J Lee, J Lee, S Lee, ...",
+            "publication": "Submission to SHA-3 Competition, organized by NIST, 2008",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4365357411701660957",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4365357411701660957&engine=google_scholar&hl=en",
+                "cites_id": "4365357411701660957"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Multi-lane detection using instance segmentation and attentive voting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:HbR8gkJAVGIC",
+            "citation_id": "v0coc0YAAAAJ:HbR8gkJAVGIC",
+            "authors": "D Chang, V Chirakkal, S Goswami, M Hasan, T Jung, J Kang, SC Kee, ...",
+            "publication": "2019 19th International Conference on Control, Automation and Systems (ICCAS \u2026, 2019",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12214157066609719796",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12214157066609719796&engine=google_scholar&hl=en",
+                "cites_id": "12214157066609719796"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "CAN-FD-Sec: improving security of CAN-FD protocol",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:XD-gHx7UXLsC",
+            "citation_id": "v0coc0YAAAAJ:XD-gHx7UXLsC",
+            "authors": "M Agrawal, T Huang, J Zhou, D Chang",
+            "publication": "Security and Safety Interplay of Intelligent Software Systems, 77-93, 2018",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5887096497745482214",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5887096497745482214&engine=google_scholar&hl=en",
+                "cites_id": "5887096497745482214"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "BIOFUSE: A framework for multi-biometric fusion on biocryptosystem level",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:yqoGN6RLRZoC",
+            "citation_id": "v0coc0YAAAAJ:yqoGN6RLRZoC",
+            "authors": "D Chang, S Garg, M Ghosh, M Hasan",
+            "publication": "Information Sciences 546, 481-511, 2021",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1575257239982858399",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1575257239982858399&engine=google_scholar&hl=en",
+                "cites_id": "1575257239982858399"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "RCB: leakage-resilient authenticated encryption via re-keying",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:wbdj-CoPYUoC",
+            "citation_id": "v0coc0YAAAAJ:wbdj-CoPYUoC",
+            "authors": "M Agrawal, TK Bansal, D Chang, AK Chauhan, S Hong, J Kang, ...",
+            "publication": "The Journal of Supercomputing 74 (9), 4173-4198, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12192811428116577991",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12192811428116577991&engine=google_scholar&hl=en",
+                "cites_id": "12192811428116577991"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Revocable identity-based encryption from codes with rank metric",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:kzcrU_BdoSEC",
+            "citation_id": "v0coc0YAAAAJ:kzcrU_BdoSEC",
+            "authors": "D Chang, AK Chauhan, S Kumar, SK Sanadhya",
+            "publication": "Cryptographers\u2019 Track at the RSA Conference, 435-451, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12742311604884628880",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12742311604884628880&engine=google_scholar&hl=en",
+                "cites_id": "12742311604884628880"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A collision attack on sdhash similarity hashing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "v0coc0YAAAAJ:Tiz5es2fbqcC",
+            "authors": "D Chang, SK Sanadhya, M Singh, R Verma",
+            "publication": "Proceedings of 10th intl. conference on systematic approaches to digital \u2026, 2015",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3802156045437847282",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3802156045437847282&engine=google_scholar&hl=en",
+                "cites_id": "3802156045437847282"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "PGV-style block-cipher-based hash families and black-box analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "v0coc0YAAAAJ:LkGwnXOMwfcC",
+            "authors": "W Lee, M Nandi, P Sarkar, D Chang, S Lee, K Sakurai",
+            "publication": "IEICE Transactions on Fundamentals of Electronics, Communications and \u2026, 2005",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8932123692832621572",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8932123692832621572&engine=google_scholar&hl=en",
+                "cites_id": "8932123692832621572"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "A generalization of pgv-hash functions and security analysis in black-box model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:WF5omc3nYNoC",
+            "citation_id": "v0coc0YAAAAJ:WF5omc3nYNoC",
+            "authors": "W Lee, M Nandi, P Sarkar, D Chang, S Lee, K Sakurai",
+            "publication": "Australasian Conference on Information Security and Privacy, 212-223, 2004",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14315638110799510834",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14315638110799510834&engine=google_scholar&hl=en",
+                "cites_id": "14315638110799510834"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Release of unverified plaintext: Tight unified model and application to ANYDAE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:xtoqd-5pKcoC",
+            "citation_id": "v0coc0YAAAAJ:xtoqd-5pKcoC",
+            "authors": "D Chang, N Datta, A Dutta, B Mennink, M Nandi, S Sanadhya, F Sibleyras",
+            "publication": "IACR Transactions on Symmetric Cryptology, 119-146, 2019",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9195095562551307747",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9195095562551307747&engine=google_scholar&hl=en",
+                "cites_id": "9195095562551307747"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Improved Meet-in-the-Middle Attacks on 7 and 8-Round ARIA-192 and ARIA-256",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:738O_yMBCRsC",
+            "citation_id": "v0coc0YAAAAJ:738O_yMBCRsC",
+            "authors": "D Chang, M Ghosh, A Goel, SK Sanadhya",
+            "publication": "International Conference on Cryptology in India, 198-217, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4958913910067036458",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4958913910067036458&engine=google_scholar&hl=en",
+                "cites_id": "4958913910067036458"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Single key recovery attacks on 9-round Kalyna-128/256 and Kalyna-256/512",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:sSrBHYA8nusC",
+            "citation_id": "v0coc0YAAAAJ:sSrBHYA8nusC",
+            "authors": "D Chang, M Ghosh, A Goel, SK Sanadhya",
+            "publication": "ICISC 2015, 119-135, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=368310666844746985",
+                "serpapi_link": "https://serpapi.com/search.json?cites=368310666844746985&engine=google_scholar&hl=en",
+                "cites_id": "368310666844746985"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Security analysis of GFN: 8-round distinguisher for 4-branch type-2 GFN",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:pqnbT2bcN3wC",
+            "citation_id": "v0coc0YAAAAJ:pqnbT2bcN3wC",
+            "authors": "D Chang, A Kumar, S Sanadhya",
+            "publication": "International Conference on Cryptology in India, 136-148, 2013",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16915980201312225523",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16915980201312225523&engine=google_scholar&hl=en",
+                "cites_id": "16915980201312225523"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "New FORK-256",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "v0coc0YAAAAJ:MXK_kJrjxJIC",
+            "authors": "D Hong, D Chang, J Sung, S Lee, S Hong, J Lee, D Moon, S Chee",
+            "publication": "Cryptology ePrint Archive, 2007",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11525926995642987547",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11525926995642987547&engine=google_scholar&hl=en",
+                "cites_id": "11525926995642987547"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Preimage attacks on cellhash, subhash and strengthened versions of cellhash and subhash",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "v0coc0YAAAAJ:M3ejUd6NZC8C",
+            "authors": "D Chang",
+            "publication": "Cryptology ePrint Archive, 2006",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10867346087037912301",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10867346087037912301&engine=google_scholar&hl=en",
+                "cites_id": "10867346087037912301"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Cryptanalytic time\u2013memory trade-off for password hashing schemes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:_B80troHkn4C",
+            "citation_id": "v0coc0YAAAAJ:_B80troHkn4C",
+            "authors": "D Chang, A Jati, S Mishra, SK Sanadhya",
+            "publication": "International Journal of Information Security 18 (2), 163-180, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17128553978867083126",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17128553978867083126&engine=google_scholar&hl=en",
+                "cites_id": "17128553978867083126"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A new authenticated encryption technique for handling long ciphertexts in memory constrained devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:3s1wT3WcHBgC",
+            "citation_id": "v0coc0YAAAAJ:3s1wT3WcHBgC",
+            "authors": "M Agrawal, D Chang, SK Sanadhya",
+            "publication": "International Journal of Applied Cryptography 3 (3), 236-261, 2017",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5671999062168124368",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5671999062168124368&engine=google_scholar&hl=en",
+                "cites_id": "5671999062168124368"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Sponge based CCA2 secure asymmetric encryption for arbitrary length message",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:a0OBvERweLwC",
+            "citation_id": "v0coc0YAAAAJ:a0OBvERweLwC",
+            "authors": "TK Bansal, D Chang, SK Sanadhya",
+            "publication": "Australasian Conference on Information Security and Privacy, 93-106, 2015",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6626664200523669236",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6626664200523669236&engine=google_scholar&hl=en",
+                "cites_id": "6626664200523669236"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Full-round differential attack on the original version of the hash function proposed at PKC\u201998",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:5nxA0vEk-isC",
+            "citation_id": "v0coc0YAAAAJ:5nxA0vEk-isC",
+            "authors": "D Chang, J Sung, S Sung, S Lee, J Lim",
+            "publication": "International Workshop on Selected Areas in Cryptography, 160-174, 2002",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15093818953287790781",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15093818953287790781&engine=google_scholar&hl=en",
+                "cites_id": "15093818953287790781"
+            },
+            "year": "2002"
+        },
+        {
+            "title": "Status report on the second round of the NIST lightweight cryptography standardization process",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:P7Ujq4OLJYoC",
+            "citation_id": "v0coc0YAAAAJ:P7Ujq4OLJYoC",
+            "authors": "MS Turan, K McKay, D Chang, C Calik, L Bassham, J Kang, J Kelsey",
+            "publication": "National Institute of Standards and Technology Internal Report 8369, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2891572335850375150",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2891572335850375150&engine=google_scholar&hl=en",
+                "cites_id": "2891572335850375150"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Recovering the key from the internal state of grain-128aead",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:LhH-TYMQEocC",
+            "citation_id": "v0coc0YAAAAJ:LhH-TYMQEocC",
+            "authors": "D Chang, MS Turan",
+            "publication": "Cryptology ePrint Archive, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=151168193844872170",
+                "serpapi_link": "https://serpapi.com/search.json?cites=151168193844872170&engine=google_scholar&hl=en",
+                "cites_id": "151168193844872170"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "SPF: a new family of efficient format-preserving encryption algorithms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:Mojj43d5GZwC",
+            "citation_id": "v0coc0YAAAAJ:Mojj43d5GZwC",
+            "authors": "D Chang, M Ghosh, KC Gupta, A Jati, A Kumar, D Moon, IG Ray, ...",
+            "publication": "International Conference on Information Security and Cryptology, 64-83, 2016",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3515804241390909748",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3515804241390909748&engine=google_scholar&hl=en",
+                "cites_id": "3515804241390909748"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Security analysis of MVhash-B similarity hashing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:5ugPr518TE4C",
+            "citation_id": "v0coc0YAAAAJ:5ugPr518TE4C",
+            "authors": "D Chang, S Sanadhya, M Singh",
+            "publication": "Journal of Digital Forensics, Security and Law 11 (2), 2, 2016",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16999621795813015490",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16999621795813015490&engine=google_scholar&hl=en",
+                "cites_id": "16999621795813015490"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Construction of UOWHF: Two new parallel methods",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:8k81kl-MbHgC",
+            "citation_id": "v0coc0YAAAAJ:8k81kl-MbHgC",
+            "authors": "W Lee, D Chang, S Lee, S Sung, M Nandi",
+            "publication": "IEICE Transactions on Fundamentals of Electronics, Communications and \u2026, 2005",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7379242317139802211",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7379242317139802211&engine=google_scholar&hl=en",
+                "cites_id": "7379242317139802211"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Fault Based Almost Universal Forgeries on CLOC and SILC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:olpn-zPbct0C",
+            "citation_id": "v0coc0YAAAAJ:olpn-zPbct0C",
+            "authors": "DB Roy, A Chakraborti, D Chang, SV Kumar, D Mukhopadhyay, M Nandi",
+            "publication": "International Conference on Security, Privacy, and Applied Cryptography \u2026, 2016",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7843460820035890366",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7843460820035890366&engine=google_scholar&hl=en",
+                "cites_id": "7843460820035890366"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "PPAE: Practical Parazoa Authenticated Encryption Family",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:K3LRdlH-MEoC",
+            "citation_id": "v0coc0YAAAAJ:K3LRdlH-MEoC",
+            "authors": "D Chang, SK Sanadhya",
+            "publication": "International Conference on Provable Security, 198-211, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7854774282121610389",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7854774282121610389&engine=google_scholar&hl=en",
+                "cites_id": "7854774282121610389"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Bicliques with Minimal Data and Time Complexity for AES (extended version)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:dfsIfKJdRG4C",
+            "citation_id": "v0coc0YAAAAJ:dfsIfKJdRG4C",
+            "authors": "A Bogdanov, D Chang, M Ghosh, SK Sanadhya",
+            "publication": "Cryptology ePrint Archive, 2014",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3780151467982921006",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3780151467982921006&engine=google_scholar&hl=en",
+                "cites_id": "3780151467982921006"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Spy based analysis of selfish mining attack on multi-stage blockchain",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:0N-VGjzr574C",
+            "citation_id": "v0coc0YAAAAJ:0N-VGjzr574C",
+            "authors": "D Chang, M Hasan, P Jain",
+            "publication": "Cryptology ePrint Archive, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4535719822096207275",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4535719822096207275&engine=google_scholar&hl=en",
+                "cites_id": "4535719822096207275"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "On making u2f protocol leakage-resilient via re-keying",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:9vf0nzSNQJEC",
+            "citation_id": "v0coc0YAAAAJ:9vf0nzSNQJEC",
+            "authors": "D Chang, S Mishra, SK Sanadhya, AP Singh",
+            "publication": "Cryptology ePrint Archive, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5080441747459281021",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5080441747459281021&engine=google_scholar&hl=en",
+                "cites_id": "5080441747459281021"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Apollo: End-to-end verifiable voting protocol using mixnet and hidden tweaks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:geHnlv5EZngC",
+            "citation_id": "v0coc0YAAAAJ:geHnlv5EZngC",
+            "authors": "D Chang, AK Chauhan, J Kang",
+            "publication": "ICISC 2015, 194-209, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3934791697489207149",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3934791697489207149&engine=google_scholar&hl=en",
+                "cites_id": "3934791697489207149"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Biclique cryptanalysis of full round AES-128 based hashing modes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:cFHS6HbyZ2cC",
+            "citation_id": "v0coc0YAAAAJ:cFHS6HbyZ2cC",
+            "authors": "D Chang, M Ghosh, SK Sanadhya",
+            "publication": "International Conference on Information Security and Cryptology, 3-21, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14900311348436942111",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14900311348436942111&engine=google_scholar&hl=en",
+                "cites_id": "14900311348436942111"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Compression function design principles supporting variable output lengths from a single small function",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:IWHjjKOFINEC",
+            "citation_id": "v0coc0YAAAAJ:IWHjjKOFINEC",
+            "authors": "D Chang, M Nandi, J Lee, J Sung, S Hong, J Lim, H Park, K Chun",
+            "publication": "IEICE transactions on fundamentals of electronics, communications and \u2026, 2008",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12133444797076224318",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12133444797076224318&engine=google_scholar&hl=en",
+                "cites_id": "12133444797076224318"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Indifferentiable security analysis of choppfmd, chopmd, a chopmdp, chopwph, chopni, chopemd, chopcs, and chopesh hash domain extensions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "v0coc0YAAAAJ:L8Ckcad2t8MC",
+            "authors": "D Chang, J Sung, S Hong, S Lee",
+            "publication": "Cryptology ePrint Archive, 2008",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9389839617113076164",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9389839617113076164&engine=google_scholar&hl=en",
+                "cites_id": "9389839617113076164"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Near-Collision Attack and Collision-Attack on Double Block Length Compression Functions based on the Block Cipher IDEA",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "v0coc0YAAAAJ:mVmsd5A6BfQC",
+            "authors": "D Chang",
+            "publication": "Cryptology ePrint Archive, 2006",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3640404409571435029",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3640404409571435029&engine=google_scholar&hl=en",
+                "cites_id": "3640404409571435029"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "A practical limit of security proof in the ideal cipher model: Possibility of using the constant as a trapdoor in several double block length hash functions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "v0coc0YAAAAJ:ULOm3_A8WrAC",
+            "authors": "D Chang",
+            "publication": "Cryptology ePrint Archive, 2006",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15706911894391754990",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15706911894391754990&engine=google_scholar&hl=en",
+                "cites_id": "15706911894391754990"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Differential cryptanalysis of XTEA",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "v0coc0YAAAAJ:YOwf2qJgpHMC",
+            "authors": "D Hong, Y Ko, D Chang, W Lee, J Lim",
+            "publication": "Available on http://cist. korea. ac. kr/Tr/TR03-13. ps, 2003",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16154790226523441499",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16154790226523441499&engine=google_scholar&hl=en",
+                "cites_id": "16154790226523441499"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "eSPF: A Family of Format-Preserving Encryption Algorithms Using MDS Matrices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:LjlpjdlvIbIC",
+            "citation_id": "v0coc0YAAAAJ:LjlpjdlvIbIC",
+            "authors": "D Chang, M Ghosh, A Jati, A Kumar, SK Sanadhya",
+            "publication": "International Conference on Security, Privacy, and Applied Cryptography \u2026, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=514023192772324221",
+                "serpapi_link": "https://serpapi.com/search.json?cites=514023192772324221&engine=google_scholar&hl=en",
+                "cites_id": "514023192772324221"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Two efficient fault-based attacks on CLOC and SILC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:ye4kPcJQO24C",
+            "citation_id": "v0coc0YAAAAJ:ye4kPcJQO24C",
+            "authors": "DB Roy, A Chakraborti, D Chang, SV Kumar, D Mukhopadhyay, M Nandi",
+            "publication": "Journal of Hardware and Systems Security 1 (3), 252-268, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8405724798337598647",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8405724798337598647&engine=google_scholar&hl=en",
+                "cites_id": "8405724798337598647"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Collision attack on 4-branch, type-2 GFN based hash functions using sliced biclique cryptanalysis technique",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:fPk4N6BV_jEC",
+            "citation_id": "v0coc0YAAAAJ:fPk4N6BV_jEC",
+            "authors": "M Agrawal, D Chang, M Ghosh, SK Sanadhya",
+            "publication": "International Conference on Information Security and Cryptology, 343-360, 2014",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7618405856775253991",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7618405856775253991&engine=google_scholar&hl=en",
+                "cites_id": "7618405856775253991"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Improved cryptanalysis of APOP-MD4 and NMAC-MD4 using new differential paths",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:-f6ydRqryjwC",
+            "citation_id": "v0coc0YAAAAJ:-f6ydRqryjwC",
+            "authors": "D Chang, J Sung, S Hong, S Lee",
+            "publication": "Cryptology ePrint Archive, 2008",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15014636930967548736",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15014636930967548736&engine=google_scholar&hl=en",
+                "cites_id": "15014636930967548736"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Low Resources-HIGHT: A New Block Cipher Suitable for Low-Resource Device",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:OP4eGU-M3BUC",
+            "citation_id": "v0coc0YAAAAJ:OP4eGU-M3BUC",
+            "authors": "D Hong, J Sung, S Hong, J Lim, S Lee, BS Koo, C Lee, D Chang, J Lee, ...",
+            "publication": "Lecture Notes in Computer Science 4249, 46-59, 2006",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=341104604376000507",
+                "serpapi_link": "https://serpapi.com/search.json?cites=341104604376000507&engine=google_scholar&hl=en",
+                "cites_id": "341104604376000507"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Status report on the second round of the NIST lightweight cryptography standardization process",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:nZcligLrVowC",
+            "citation_id": "v0coc0YAAAAJ:nZcligLrVowC",
+            "authors": "M S\u00f6nmez Turan, K McKay, D Chang, \u00c7 \u00c7al\u0131k, L Bassham, J Kang, ...",
+            "publication": "National Institute of Standards and Technology, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14899767861153842244",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14899767861153842244&engine=google_scholar&hl=en",
+                "cites_id": "14899767861153842244"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Distinguishers for 4-branch and 8-branch generalized Feistel network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:Y5dfb0dijaUC",
+            "citation_id": "v0coc0YAAAAJ:Y5dfb0dijaUC",
+            "authors": "D Chang, A Kumar, SK Sanadhya",
+            "publication": "IEEE Access 5, 27857-27867, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12714793430425274948",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12714793430425274948&engine=google_scholar&hl=en",
+                "cites_id": "12714793430425274948"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Side channel collision attack on TWINE-80 and DES with reduced masked rounds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:l7t_Zn2s7bgC",
+            "citation_id": "v0coc0YAAAAJ:l7t_Zn2s7bgC",
+            "authors": "N Gupta, D Chang, SK Sanadhya, S Mukhopadhyay",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1285375907286007122",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1285375907286007122&engine=google_scholar&hl=en",
+                "cites_id": "1285375907286007122"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Cryptographic module based approach for password hashing schemes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:XiSMed-E-HIC",
+            "citation_id": "v0coc0YAAAAJ:XiSMed-E-HIC",
+            "authors": "D Chang, A Jati, S Mishra, SK Sanadhya",
+            "publication": "International Conference on Passwords, 39-57, 2014",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16098195062821932425",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16098195062821932425&engine=google_scholar&hl=en",
+                "cites_id": "16098195062821932425"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Biclique cryptanalysis of full round AES with reduced data complexity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:HoB7MX3m0LUC",
+            "citation_id": "v0coc0YAAAAJ:HoB7MX3m0LUC",
+            "authors": "D Chang, M Ghosh, SK Sanadhya",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16433553895942836884",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16433553895942836884&engine=google_scholar&hl=en",
+                "cites_id": "16433553895942836884"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Status Report on the Second Round of the SHA-3 Cryptographic Hash Algorithm Competition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:IRz6iEL74y4C",
+            "citation_id": "v0coc0YAAAAJ:IRz6iEL74y4C",
+            "authors": "M S\u00f6nmez Turan, R Perlner, L Bassham, W Burr, D Chang, S Chang, ...",
+            "publication": "National Institute of Standards and Technology, 2011",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16467515638871521133",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16467515638871521133&engine=google_scholar&hl=en",
+                "cites_id": "16467515638871521133"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Preimage Attack on Hashing with Polynomials proposed at ICISC'06",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:4DMP91E08xMC",
+            "citation_id": "v0coc0YAAAAJ:4DMP91E08xMC",
+            "authors": "D Chang",
+            "publication": "Cryptology ePrint Archive, 2006",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8188301660190904395",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8188301660190904395&engine=google_scholar&hl=en",
+                "cites_id": "8188301660190904395"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Do we need to vary the constants?(methodological investigation of block-cipher based hash functions)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:4TOpqqG69KYC",
+            "citation_id": "v0coc0YAAAAJ:4TOpqqG69KYC",
+            "authors": "D Chang, M Yung",
+            "publication": "Cryptology ePrint Archive, 2006",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4515982911137450181",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4515982911137450181&engine=google_scholar&hl=en",
+                "cites_id": "4515982911137450181"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Cryptosystems (I)-A Generalization of PGV-Hash Functions and Security Analysis in Black-Box Model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:D03iK_w7-QYC",
+            "citation_id": "v0coc0YAAAAJ:D03iK_w7-QYC",
+            "authors": "W Lee, M Nandi, P Sarkar, D Chang, S Lee, K Sakurai",
+            "publication": "Lecture Notes in Computer Science 3108, 212-223, 2004",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1423139254302249838",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1423139254302249838&engine=google_scholar&hl=en",
+                "cites_id": "1423139254302249838"
+            },
+            "year": "2004"
+        },
+        {
+            "title": "Revocable identity-based encryption from codes with rank metric",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:evX43VCCuoAC",
+            "citation_id": "v0coc0YAAAAJ:evX43VCCuoAC",
+            "authors": "S Kumar, SK Sanadhya, AK Chauhan, D Chang",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12077677203630200406",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12077677203630200406&engine=google_scholar&hl=en",
+                "cites_id": "12077677203630200406"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Digital Forensics 2.0: an automated, efficient, and privacy preserving digital forensic investigation framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:tzM49s52ZIMC",
+            "citation_id": "v0coc0YAAAAJ:tzM49s52ZIMC",
+            "authors": "R Verma, G Gupta, D Chang",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17912207516008898474",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17912207516008898474&engine=google_scholar&hl=en",
+                "cites_id": "17912207516008898474"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Design and analysis of password-based authentication systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:PR6Y55bgFSsC",
+            "citation_id": "v0coc0YAAAAJ:PR6Y55bgFSsC",
+            "authors": "S Mishra, D Chang, SK Sanadhya",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17108733602741870178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17108733602741870178&engine=google_scholar&hl=en",
+                "cites_id": "17108733602741870178"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Sponge-based CCA2 secure asymmetric encryption for arbitrary length message (extended version)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:SdhP9T11ey4C",
+            "citation_id": "v0coc0YAAAAJ:SdhP9T11ey4C",
+            "authors": "TK Bansal, D Chang, SK Sanadhya",
+            "publication": "International Journal of Applied Cryptography 3 (3), 262-287, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8030799159173556752",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8030799159173556752&engine=google_scholar&hl=en",
+                "cites_id": "8030799159173556752"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Exploiting the Leakage: Analysis of Some Authenticated Encryption Schemes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:t6usbXjVLHcC",
+            "citation_id": "v0coc0YAAAAJ:t6usbXjVLHcC",
+            "authors": "D Chang, AK Chauhan, N Gupta, A Jati, SK Sanadhya",
+            "publication": "International Conference on Security, Privacy, and Applied Cryptography \u2026, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16194042883254957749",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16194042883254957749&engine=google_scholar&hl=en",
+                "cites_id": "16194042883254957749"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Performance analysis of some password hashing schemes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:zA6iFVUQeVQC",
+            "citation_id": "v0coc0YAAAAJ:zA6iFVUQeVQC",
+            "authors": "D Chang, A Jati, S Mishra, SK Sanadhya",
+            "publication": "Cryptology ePrint Archive, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4350307369732231784",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4350307369732231784&engine=google_scholar&hl=en",
+                "cites_id": "4350307369732231784"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Sufficient Conditions on Padding Schemes of Sponge Construction and Sponge-Based Authenticated-Encryption Scheme",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:u_35RYKgDlwC",
+            "citation_id": "v0coc0YAAAAJ:u_35RYKgDlwC",
+            "authors": "D Chang",
+            "publication": "International Conference on Cryptology in India, 545-563, 2012",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5045948611721069893",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5045948611721069893&engine=google_scholar&hl=en",
+                "cites_id": "5045948611721069893"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Adaptive Preimage Resistance Analysis Revisited:\\\\Requirements, Subtleties and Implications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "v0coc0YAAAAJ:_Qo2XoVZTnwC",
+            "authors": "D Chang, M Yung",
+            "publication": "Cryptology ePrint Archive, 2012",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14867025445980945748",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14867025445980945748&engine=google_scholar&hl=en",
+                "cites_id": "14867025445980945748"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "On the security of hash functions employing blockcipher postprocessing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:TFP_iSt0sucC",
+            "citation_id": "v0coc0YAAAAJ:TFP_iSt0sucC",
+            "authors": "D Chang, M Nandi, M Yung",
+            "publication": "International Workshop on Fast Software Encryption, 146-166, 2011",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6866823884988546444",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6866823884988546444&engine=google_scholar&hl=en",
+                "cites_id": "6866823884988546444"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "General distinguishing attacks on NMAC and HMAC with birthday attack complexity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "v0coc0YAAAAJ:ZeXyd9-uunAC",
+            "authors": "D Chang, M Nandi",
+            "publication": "Cryptology ePrint Archive, 2006",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6472412706675338203",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6472412706675338203&engine=google_scholar&hl=en",
+                "cites_id": "6472412706675338203"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "A preimage attack on reduced GIMLI\u2010HASH with unbalanced squeezing phase",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:GFxP56DSvIMC",
+            "citation_id": "v0coc0YAAAAJ:GFxP56DSvIMC",
+            "authors": "Y Lee, J Kang, D Chang, S Hong",
+            "publication": "IET Information Security, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Design and analysis of approximate matching algorithms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:_OXeSy2IsFwC",
+            "citation_id": "v0coc0YAAAAJ:_OXeSy2IsFwC",
+            "authors": "M Singh, D Chang, SK Sanadhya",
+            "publication": "IIIT-Delhi, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Release of unverified plaintext: tight unified model and application to ANYDAE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:Ehil0879vHcC",
+            "citation_id": "v0coc0YAAAAJ:Ehil0879vHcC",
+            "authors": "M Nandi, F Sibleyras, B Mennink, D Chang, S Sanadhya, A Dutta, N Datta",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Cryptanalytic time\u2013memory trade-off for password hashing schemes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:35r97b3x0nAC",
+            "citation_id": "v0coc0YAAAAJ:35r97b3x0nAC",
+            "authors": "A Jati, S Mishra, SK Sanadhya, D Chang",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "On the secure design of multi-biometric template protection approaches for biometric authentication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:a3BOlSfXSfwC",
+            "citation_id": "v0coc0YAAAAJ:a3BOlSfXSfwC",
+            "authors": "S Garg, D Chang",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Authenticated encryption for memory constrained devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:8xutWZnSdmoC",
+            "citation_id": "v0coc0YAAAAJ:8xutWZnSdmoC",
+            "authors": "M Agrawal, D Chang, SK Sanadhya",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Fbhash: a new similarity hashing scheme for digital forensics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:vDijr-p_gm4C",
+            "citation_id": "v0coc0YAAAAJ:vDijr-p_gm4C",
+            "authors": "M Ghosh, SK Sanadhya, M Singh, DR White, D Chang",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A Generalized Format Preserving Encryption Framework Using MDS Matrices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:z_wVstp3MssC",
+            "citation_id": "v0coc0YAAAAJ:z_wVstp3MssC",
+            "authors": "D Chang, M Ghosh, A Jati, A Kumar, SK Sanadhya",
+            "publication": "Journal of Hardware and Systems Security 3 (1), 3-11, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Deterministic Authenticated Encryption Scheme for Memory Constrained Devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:2KloaMYe4IUC",
+            "citation_id": "v0coc0YAAAAJ:2KloaMYe4IUC",
+            "authors": "M Agrawal, D Chang, J Kang",
+            "publication": "Cryptography 2 (4), 37, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Forensics enabled secure mobile computing system for enterprises",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:-_dYPAW6P2MC",
+            "citation_id": "v0coc0YAAAAJ:-_dYPAW6P2MC",
+            "authors": "J Govindaraj, G Gupta, D Chang",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Security evaluation and implementation of facial recognition algorithms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:_Re3VWB3Y0AC",
+            "citation_id": "v0coc0YAAAAJ:_Re3VWB3Y0AC",
+            "authors": "P Dwivedi, D Chang",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Design and analysis of random number generator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v0coc0YAAAAJ&pagesize=100&citation_for_view=v0coc0YAAAAJ:WqliGbK-hY8C",
+            "citation_id": "v0coc0YAAAAJ:WqliGbK-hY8C",
+            "authors": "S Sharma, D Chang",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 1902,
+                    "since_2017": 837
+                }
+            },
+            {
+                "h_index": {
+                    "all": 17,
+                    "since_2017": 13
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 31,
+                    "since_2017": 19
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2004,
+                "citations": 12
+            },
+            {
+                "year": 2005,
+                "citations": 13
+            },
+            {
+                "year": 2006,
+                "citations": 20
+            },
+            {
+                "year": 2007,
+                "citations": 45
+            },
+            {
+                "year": 2008,
+                "citations": 70
+            },
+            {
+                "year": 2009,
+                "citations": 95
+            },
+            {
+                "year": 2010,
+                "citations": 82
+            },
+            {
+                "year": 2011,
+                "citations": 90
+            },
+            {
+                "year": 2012,
+                "citations": 131
+            },
+            {
+                "year": 2013,
+                "citations": 89
+            },
+            {
+                "year": 2014,
+                "citations": 113
+            },
+            {
+                "year": 2015,
+                "citations": 112
+            },
+            {
+                "year": 2016,
+                "citations": 127
+            },
+            {
+                "year": 2017,
+                "citations": 119
+            },
+            {
+                "year": 2018,
+                "citations": 123
+            },
+            {
+                "year": 2019,
+                "citations": 143
+            },
+            {
+                "year": 2020,
+                "citations": 170
+            },
+            {
+                "year": 2021,
+                "citations": 223
+            },
+            {
+                "year": 2022,
+                "citations": 52
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=v0coc0YAAAAJ",
+        "available": 5,
+        "not_available": 1
+    },
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=v0coc0YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+    }
 }
