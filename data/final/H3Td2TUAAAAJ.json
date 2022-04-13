@@ -1,0 +1,546 @@
+{
+    "search_metadata": {
+        "id": "6256e289234884ada7d0fea5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/419ed92bcc1fa308/6256e289234884ada7d0fea5.json",
+        "created_at": "2022-04-13 14:47:37 UTC",
+        "processed_at": "2022-04-13 14:47:37 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=H3Td2TUAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/419ed92bcc1fa308/6256e289234884ada7d0fea5.html",
+        "total_time_taken": 1.24,
+        "total_articles": 26,
+        "total_co_authors": 9
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "H3Td2TUAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sanat Biswas",
+        "affiliations": "Assistant Professor, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://ssl.iiitd.edu.in/",
+        "interests": [
+            {
+                "title": "Spacecraft Navigation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:spacecraft_navigation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspacecraft_navigation"
+            },
+            {
+                "title": "GNSS",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:gnss",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agnss"
+            },
+            {
+                "title": "State Estimation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:state_estimation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astate_estimation"
+            },
+            {
+                "title": "Space Situational Awareness",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:space_situational_awareness",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspace_situational_awareness"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=H3Td2TUAAAAJ&citpid=6"
+    },
+    "articles": [
+        {
+            "title": "A novel a priori state computation strategy for the unscented Kalman filter to improve computational efficiency",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:roLk4NBRz8UC",
+            "citation_id": "H3Td2TUAAAAJ:roLk4NBRz8UC",
+            "authors": "SK Biswas, L Qiao, AG Dempster",
+            "publication": "IEEE transactions on Automatic Control 62 (4), 1852-1864, 2017",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5296044480832912112",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5296044480832912112&engine=google_scholar&hl=en",
+                "cites_id": "5296044480832912112"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Performance analysis of fast unscented Kalman filters for attitude determination",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "H3Td2TUAAAAJ:KlAtU1dfN6UC",
+            "authors": "SK Biswas, B Southwell, AG Dempster",
+            "publication": "IFAC-PapersOnLine 51 (1), 697-701, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1529135728416776281",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1529135728416776281&engine=google_scholar&hl=en",
+                "cites_id": "1529135728416776281"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Effect of PDOP on performance of Kalman Filters for GNSS-based space vehicle position estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "H3Td2TUAAAAJ:MXK_kJrjxJIC",
+            "authors": "SK Biswas, L Qiao, AG Dempster",
+            "publication": "GPS Solutions 21 (3), 1379-1387, 2017",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=446406381394194615",
+                "serpapi_link": "https://serpapi.com/search.json?cites=446406381394194615&engine=google_scholar&hl=en",
+                "cites_id": "446406381394194615"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "State estimation methods in navigation: overview and application",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "H3Td2TUAAAAJ:mVmsd5A6BfQC",
+            "authors": "J Dun\u00edk, SK Biswas, AG Dempster, T Pany, P Closas",
+            "publication": "IEEE Aerospace and Electronic Systems Magazine 35 (12), 16-31, 2020",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2716821032090025892",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2716821032090025892&engine=google_scholar&hl=en",
+                "cites_id": "2716821032090025892"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Computationally efficient unscented Kalman filtering techniques for launch vehicle navigation using a space-borne GPS receiver",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "H3Td2TUAAAAJ:hqOjcs7Dif8C",
+            "authors": "SK Biswas, L Qiao, AG Dempster",
+            "publication": "Proceedings of the 29th International Technical Meeting of the Satellite \u2026, 2016",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7319126238135536324",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7319126238135536324&engine=google_scholar&hl=en",
+                "cites_id": "7319126238135536324"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Application of a Fast Unscented Kalman Filtering Method to Satellite Position Estimation using a Space-borne Multi-GNSS Receiver",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "H3Td2TUAAAAJ:Y0pCki6q_DkC",
+            "authors": "SK Biswas, L Qiao, AG Dempster",
+            "publication": "Proceedings of the 28th International Technical Meeting of The Satellite \u2026, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6609198627396788899",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6609198627396788899&engine=google_scholar&hl=en",
+                "cites_id": "6609198627396788899"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Space-borne GNSS Based Orbit Determination using a SPIRENT GNSS Simulator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "H3Td2TUAAAAJ:YsMSGLbcyi4C",
+            "authors": "SK Biswas, L Qiao, AG Dempster",
+            "publication": "14th Australian Space Research Conference, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8215898211083166752",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8215898211083166752&engine=google_scholar&hl=en",
+                "cites_id": "8215898211083166752"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Approximating Sample State Vectors using the ESPT for Computationally Efficient Particle Filtering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:4TOpqqG69KYC",
+            "citation_id": "H3Td2TUAAAAJ:4TOpqqG69KYC",
+            "authors": "SK Biswas, AG Dempster",
+            "publication": "IEEE Transactions on Signal Processing 67 (7), 1918-1928, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=733060646039857237",
+                "serpapi_link": "https://serpapi.com/search.json?cites=733060646039857237&engine=google_scholar&hl=en",
+                "cites_id": "733060646039857237"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Computationally Efficient Non-linear Kalman Filters for On-board Space Vehicle Navigation.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:Zph67rFs4hoC",
+            "citation_id": "H3Td2TUAAAAJ:Zph67rFs4hoC",
+            "authors": "S Biswas",
+            "publication": "University of New South Wales, Sydney, Australia, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16813380418165960725",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16813380418165960725&engine=google_scholar&hl=en",
+                "cites_id": "16813380418165960725"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "A quantified approach of predicting suitability of using the Unscented Kalman Filter in a non-linear application",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:4DMP91E08xMC",
+            "citation_id": "H3Td2TUAAAAJ:4DMP91E08xMC",
+            "authors": "SK Biswas, L Qiao, AG Dempster",
+            "publication": "Automatica 122, 109241, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7228305112871699423",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7228305112871699423&engine=google_scholar&hl=en",
+                "cites_id": "7228305112871699423"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Position and Velocity estimation of Re-entry Vehicles using Fast Unscented Kalman Filters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:UebtZRa9Y70C",
+            "citation_id": "H3Td2TUAAAAJ:UebtZRa9Y70C",
+            "authors": "S Biswas, L Qiao, A Dempster",
+            "publication": "arXiv preprint arXiv:1611.09702, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15987317154272544570",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15987317154272544570&engine=google_scholar&hl=en",
+                "cites_id": "15987317154272544570"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "REAL-TIME ON-BOARD SATELLITE NAVIGATION USING GPS AND GALILEO MEASUREMENTS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "H3Td2TUAAAAJ:W7OEmFMy1HYC",
+            "authors": "SK Biswas, L Qiao, AG Dempster",
+            "publication": "International Astronautical Congress 2014, Toronto, Canada, 2014",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8701584902556908250",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8701584902556908250&engine=google_scholar&hl=en",
+                "cites_id": "8701584902556908250"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Gnss interference source tracking using kalman filters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "H3Td2TUAAAAJ:M3ejUd6NZC8C",
+            "authors": "SK Biswas, E Cetin",
+            "publication": "2020 IEEE/ION Position, Location and Navigation Symposium (PLANS), 877-882, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11940655165127597571",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11940655165127597571&engine=google_scholar&hl=en",
+                "cites_id": "11940655165127597571"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Challenges in Designing Satellite Constellation for Providing Uninterrupted Network Security through Quantum Key Distribution at a Larger Geographic Region",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "H3Td2TUAAAAJ:ULOm3_A8WrAC",
+            "authors": "SK Biswas, A Mitra, A Srivastava",
+            "publication": "69th International Astronautical Congress, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4648141808829854430,16775575559225757014",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4648141808829854430%2C16775575559225757014&engine=google_scholar&hl=en",
+                "cites_id": "4648141808829854430,16775575559225757014"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Simulation of GPS-based Launch Vehicle Trajectory Estimation using UNSW Kea GPS Receiver",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:5nxA0vEk-isC",
+            "citation_id": "H3Td2TUAAAAJ:5nxA0vEk-isC",
+            "authors": "S Biswas, L Qiao, A Dempster",
+            "publication": "IGNSS Symposium, Sydney, Australia, 1-11, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2705440798363256379",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2705440798363256379&engine=google_scholar&hl=en",
+                "cites_id": "2705440798363256379"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Particle Filter based Approach for GNSS Interference Source Tracking: A Feasibility Study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:aqlVkmm33-oC",
+            "citation_id": "H3Td2TUAAAAJ:aqlVkmm33-oC",
+            "authors": "SK Biswas, E Cetin",
+            "publication": "2020 XXXIIIrd General Assembly and Scientific Symposium of the International \u2026, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15784279420620172258",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15784279420620172258&engine=google_scholar&hl=en",
+                "cites_id": "15784279420620172258"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Raw GNSS Data Compression using Compressive Sensing for Reflectometry Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "H3Td2TUAAAAJ:qxL8FJ1GzNcC",
+            "authors": "B Ansari, V Kaushik, SK Biswas",
+            "publication": "2020 XXXIIIrd General Assembly and Scientific Symposium of the International \u2026, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362735069590507423",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7362735069590507423&engine=google_scholar&hl=en",
+                "cites_id": "7362735069590507423"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "GNSS-based spacecraft navigation in elliptical and High Earth Orbits using Single Propagation Unscented Kalman Filters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:_kc_bZDykSQC",
+            "citation_id": "H3Td2TUAAAAJ:_kc_bZDykSQC",
+            "authors": "SK Biswas, AG Dempster",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6324010636028217204",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6324010636028217204&engine=google_scholar&hl=en",
+                "cites_id": "6324010636028217204"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Ground Based Navigation of Spacecraft in Lunar Transfer Trajectory, with Application to Chandrayaan-2",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "H3Td2TUAAAAJ:9yKSN-GCB0IC",
+            "authors": "SK Biswas, HB Hablani",
+            "publication": "Advances in Estimation, Navigation, and Spacecraft Control, 371-390, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7930964672228928225",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7930964672228928225&engine=google_scholar&hl=en",
+                "cites_id": "7930964672228928225"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Ground Based Navigation of Chandrayaan-2 in Lunar Transfer Trajectory",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "H3Td2TUAAAAJ:eQOLeE2rZwMC",
+            "authors": "SK Biswas, HB Hablani",
+            "publication": "Indian Institute of Technology, Bombay, 2012",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1718342706811664701",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1718342706811664701&engine=google_scholar&hl=en",
+                "cites_id": "1718342706811664701"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Unsupervised learning-based satellite selection algorithm for GPS\u2013NavIC multi-constellation receivers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "H3Td2TUAAAAJ:ZeXyd9-uunAC",
+            "authors": "SK Biswas",
+            "publication": "GPS Solutions 26 (2), 1-11, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Errata to \u201cState Estimation Methods in Navigation: Overview and Application\u201d",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "H3Td2TUAAAAJ:QIV2ME_5wuYC",
+            "authors": "J Dun\u00edk, SK Biswas, AG Dempster, T Pany, P Closas",
+            "publication": "IEEE Aerospace and Electronic Systems Magazine 36 (1), 67-67, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Lunar Trajectories of Spacecraft for Navigation, with Application to Chandrayaan-2",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "H3Td2TUAAAAJ:2osOgNQ5qMEC",
+            "authors": "SK Biswas, HB Hablani",
+            "publication": "Advances in Control, Optimization and Dynamic Systems, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Quantifying Risk of Spacecraft Collision with Space Debris: A Designer's Aid",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:qjMakFHDy7sC",
+            "citation_id": "H3Td2TUAAAAJ:qjMakFHDy7sC",
+            "authors": "VV Unhelkar, P Rambhia, SK Biswas",
+            "publication": "National Conference on Space Transportation Systems: Opportunities and \u2026, 2011",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "A theoretical comparison of NavIC and GPS RAIM performance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "H3Td2TUAAAAJ:L8Ckcad2t8MC",
+            "authors": "SK Biswas",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "A Hardware-In-Loop simulation Test-bed for NavIC Reflectometry Experiments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=H3Td2TUAAAAJ&pagesize=100&citation_for_view=H3Td2TUAAAAJ:dhFuZR0502QC",
+            "citation_id": "H3Td2TUAAAAJ:dhFuZR0502QC",
+            "authors": "B Ansari, SK Biswas",
+            "publication": "2021 XXXIVth General Assembly and Scientific Symposium of the International \u2026, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 108,
+                    "since_2017": 98
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 3
+            },
+            {
+                "year": 2016,
+                "citations": 7
+            },
+            {
+                "year": 2017,
+                "citations": 9
+            },
+            {
+                "year": 2018,
+                "citations": 12
+            },
+            {
+                "year": 2019,
+                "citations": 23
+            },
+            {
+                "year": 2020,
+                "citations": 25
+            },
+            {
+                "year": 2021,
+                "citations": 19
+            },
+            {
+                "year": 2022,
+                "citations": 10
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=H3Td2TUAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Li Qiao(ORCID:0000-0003-1038-9366...",
+            "link": "https://scholar.google.com/citations?user=nA-MG4oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nA-MG4oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nA-MG4oAAAAJ",
+            "affiliations": "University of New South Wales",
+            "email": "Verified email at adfa.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nA-MG4oAAAAJ&citpid=3"
+        },
+        {
+            "name": "Pau Closas",
+            "link": "https://scholar.google.com/citations?user=o7bF79sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=o7bF79sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "o7bF79sAAAAJ",
+            "affiliations": "Assistant Professor of ECE, Northeastern University",
+            "email": "Verified email at northeastern.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o7bF79sAAAAJ&citpid=4"
+        },
+        {
+            "name": "Thomas Pany",
+            "link": "https://scholar.google.com/citations?user=bpLuBeUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bpLuBeUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "bpLuBeUAAAAJ",
+            "affiliations": "Universit\u00e4t der Bundeswehr M\u00fcnchen",
+            "email": "Verified email at unibw.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bpLuBeUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jindrich Dunik",
+            "link": "https://scholar.google.com/citations?user=BtA_5acAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BtA_5acAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BtA_5acAAAAJ",
+            "affiliations": "Associate Professor, University of West Bohemia",
+            "email": "Verified email at kky.zcu.cz",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BtA_5acAAAAJ&citpid=3"
+        },
+        {
+            "name": "Benjamin John Southwell",
+            "link": "https://scholar.google.com/citations?user=pbADO5AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pbADO5AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "pbADO5AAAAAJ",
+            "affiliations": "Dolby Laboratories",
+            "email": "Verified email at dolby.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pbADO5AAAAAJ&citpid=1"
+        },
+        {
+            "name": "Hari Hablani",
+            "link": "https://scholar.google.com/citations?user=wiB8pR4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wiB8pR4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "wiB8pR4AAAAJ",
+            "affiliations": "courtesy faculty, Department of Astronomy, Astrophysics and Space Engineering, IIT Indore",
+            "email": "Verified email at iiti.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mazher Choudhury",
+            "link": "https://scholar.google.com/citations?user=ybLlP74AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ybLlP74AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ybLlP74AAAAJ",
+            "affiliations": "Curtin University",
+            "email": "Verified email at curtin.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ybLlP74AAAAJ&citpid=2"
+        },
+        {
+            "name": "Bushra Ansari",
+            "link": "https://scholar.google.com/citations?user=K5tB918AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=K5tB918AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "K5tB918AAAAJ",
+            "affiliations": "Research Scholar at IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=K5tB918AAAAJ&citpid=3"
+        },
+        {
+            "name": "Vaibhav Unhelkar",
+            "link": "https://scholar.google.com/citations?user=A6j9ikkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=A6j9ikkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "A6j9ikkAAAAJ",
+            "affiliations": "Assistant Professor, Rice University",
+            "email": "Verified email at rice.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=A6j9ikkAAAAJ&citpid=3"
+        }
+    ]
+}

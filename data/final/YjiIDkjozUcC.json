@@ -1,0 +1,771 @@
+{
+    "search_metadata": {
+        "id": "6256e0f2fe41d0903fd1565f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0780af15a81c4d68/6256e0f2fe41d0903fd1565f.json",
+        "created_at": "2022-04-13 14:40:50 UTC",
+        "processed_at": "2022-04-13 14:40:50 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=YjiIDkjozUcC&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/0780af15a81c4d68/6256e0f2fe41d0903fd1565f.html",
+        "total_time_taken": 0.67,
+        "total_articles": 36,
+        "total_co_authors": 20
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "YjiIDkjozUcC",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Arani Bhattacharya",
+        "affiliations": "Assistant Professor, IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://faculty.iiitd.ac.in/~arani/",
+        "interests": [
+            {
+                "title": "Wireless Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_networks"
+            },
+            {
+                "title": "Spectrum Sensing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:spectrum_sensing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspectrum_sensing"
+            },
+            {
+                "title": "Edge Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:edge_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aedge_computing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YjiIDkjozUcC&citpid=4"
+    },
+    "articles": [
+        {
+            "title": "A survey of adaptation techniques in computation offloading",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:9yKSN-GCB0IC",
+            "citation_id": "YjiIDkjozUcC:9yKSN-GCB0IC",
+            "authors": "A Bhattacharya, P De",
+            "publication": "Journal of Network and Computer Applications 78, 97-115, 2017",
+            "cited_by": {
+                "value": 71,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5020875682042922688",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5020875682042922688&engine=google_scholar&hl=en",
+                "cites_id": "5020875682042922688"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Streaming 360-Degree Videos using Super-Resolution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:kNdYIx-mwKoC",
+            "citation_id": "YjiIDkjozUcC:kNdYIx-mwKoC",
+            "authors": "M Dasari, A Bhattacharya, S Vargas, P Sahu, A Balasubramanian, ...",
+            "publication": "IEEE Infocom, 2020, 2020",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8719989309003136628",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8719989309003136628&engine=google_scholar&hl=en",
+                "cites_id": "8719989309003136628"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Impact of device performance on mobile internet QoE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:IWHjjKOFINEC",
+            "citation_id": "YjiIDkjozUcC:IWHjjKOFINEC",
+            "authors": "M Dasari, S Vargas, A Bhattacharya, A Balasubramanian, SR Das, ...",
+            "publication": "Proceedings of the Internet Measurement Conference 2018, 1-7, 2018",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5942880661946533795",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5942880661946533795&engine=google_scholar&hl=en",
+                "cites_id": "5942880661946533795"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Advancing User Quality of Experience in 360-degree Video Streaming",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:hqOjcs7Dif8C",
+            "citation_id": "YjiIDkjozUcC:hqOjcs7Dif8C",
+            "authors": "S Park, A Bhattacharya, Z Yang, M Dasari, SR Das, D Samaras",
+            "publication": "2019 IFIP Networking Conference, 2019",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7042616980533750399",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7042616980533750399&engine=google_scholar&hl=en",
+                "cites_id": "7042616980533750399"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Spectrum Patrolling with Crowdsourced Spectrum Sensors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:Y0pCki6q_DkC",
+            "citation_id": "YjiIDkjozUcC:Y0pCki6q_DkC",
+            "authors": "A Chakraborty, A Bhattacharya, S Kamal, SR Das, H Gupta, PM Djuric",
+            "publication": "IEEE Infocom, 2018, 2018",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11992692018935014645",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11992692018935014645&engine=google_scholar&hl=en",
+                "cites_id": "11992692018935014645"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Computation offloading from mobile devices: Can edge devices perform better than the cloud?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:IjCSPb-OGe4C",
+            "citation_id": "YjiIDkjozUcC:IjCSPb-OGe4C",
+            "authors": "A Bhattacharya, P De",
+            "publication": "Proceedings of the Third International Workshop on Adaptive Resource \u2026, 2016",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2596541479061414397",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2596541479061414397&engine=google_scholar&hl=en",
+                "cites_id": "2596541479061414397"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "MMLite: A Scalable and Resource Efficient Control Plane for Next Generation Cellular Packet Core",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:UebtZRa9Y70C",
+            "citation_id": "YjiIDkjozUcC:UebtZRa9Y70C",
+            "authors": "V Nagendra, A Bhattacharya, A Gandhi, SR Das",
+            "publication": "ACM Symposium on SDN Research, 2019",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3492165589765677544",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3492165589765677544&engine=google_scholar&hl=en",
+                "cites_id": "3492165589765677544"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Selection of Sensors for Efficient Transmitter Localization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:9ZlFYXVOiuMC",
+            "citation_id": "YjiIDkjozUcC:9ZlFYXVOiuMC",
+            "authors": "A Bhattacharya, C Zhan, A Maji, H Gupta, SR Das, PM Djuric",
+            "publication": "IEEE/ACM Transactions on Networking, 2021",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1587986326216423314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1587986326216423314&engine=google_scholar&hl=en",
+                "cites_id": "1587986326216423314"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Adaptive Streaming of 360-Degree Videos With Reinforcement Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:aqlVkmm33-oC",
+            "citation_id": "YjiIDkjozUcC:aqlVkmm33-oC",
+            "authors": "S Park, M Hoai, A Bhattacharya, SR Das",
+            "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2021",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=110129375229567778",
+                "serpapi_link": "https://serpapi.com/search.json?cites=110129375229567778&engine=google_scholar&hl=en",
+                "cites_id": "110129375229567778"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Efficient localization of multiple intruders in shared spectrum system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:YOwf2qJgpHMC",
+            "citation_id": "YjiIDkjozUcC:YOwf2qJgpHMC",
+            "authors": "C Zhan, H Gupta, A Bhattacharya, M Ghaderibaneh",
+            "publication": "2020 19th ACM/IEEE International Conference on Information Processing in \u2026, 2020",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6651469163464200083",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6651469163464200083&engine=google_scholar&hl=en",
+                "cites_id": "6651469163464200083"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "An Intent-Based Automation Framework for Securing Dynamic Consumer IoT Infrastructures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:ULOm3_A8WrAC",
+            "citation_id": "YjiIDkjozUcC:ULOm3_A8WrAC",
+            "authors": "V Nagendra, A Bhattacharya, V Yegneswaran, A Rahmati, SR Das",
+            "publication": "The Web Conference, 2020",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2547768872868876257",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2547768872868876257&engine=google_scholar&hl=en",
+                "cites_id": "2547768872868876257"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Short: LSTM-based GNSS spoofing detection using low-cost spectrum sensors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:4TOpqqG69KYC",
+            "citation_id": "YjiIDkjozUcC:4TOpqqG69KYC",
+            "authors": "R Calvo-Palomino, A Bhattacharya, G Bovet, D Giustiniano",
+            "publication": "2020 IEEE 21st International Symposium on\" A World of Wireless, Mobile and \u2026, 2020",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13790852770977852027",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13790852770977852027&engine=google_scholar&hl=en",
+                "cites_id": "13790852770977852027"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Mosaic: Advancing User Quality of Experience in 360-Degree Video Streaming with Machine Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:4DMP91E08xMC",
+            "citation_id": "YjiIDkjozUcC:4DMP91E08xMC",
+            "authors": "S Park, A Bhattacharya, Z Yang, SR Das, D Samaras",
+            "publication": "IEEE Transactions on Network Service and Management, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7702642880572064096",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7702642880572064096&engine=google_scholar&hl=en",
+                "cites_id": "7702642880572064096"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Spectrum Patrolling With Crowdsourced Spectrum Sensors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:8k81kl-MbHgC",
+            "citation_id": "YjiIDkjozUcC:8k81kl-MbHgC",
+            "authors": "A Bhattacharya, A Chakraborty, SR Das, H Gupta, PM Djuric",
+            "publication": "IEEE Transactions on Cognitive Communications and Networking, 1-1, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17106433711563643746",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17106433711563643746&engine=google_scholar&hl=en",
+                "cites_id": "17106433711563643746"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "VISCR: intuitive & conflict-free automation for securing the dynamic consumer iot infrastructures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:5nxA0vEk-isC",
+            "citation_id": "YjiIDkjozUcC:5nxA0vEk-isC",
+            "authors": "V Nagendra, A Bhattacharya, V Yegneswaran, A Rahmati, SR Das",
+            "publication": "arXiv preprint arXiv:1907.13288, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13851366055997157985",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13851366055997157985&engine=google_scholar&hl=en",
+                "cites_id": "13851366055997157985"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Spectrum Protection from Micro-Transmissions Using Distributed Spectrum Patrolling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:LkGwnXOMwfcC",
+            "citation_id": "YjiIDkjozUcC:LkGwnXOMwfcC",
+            "authors": "M Dasari, MB Atique, A Bhattacharya, SR Das",
+            "publication": "Passive and Active Measurement, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=143827981731282038",
+                "serpapi_link": "https://serpapi.com/search.json?cites=143827981731282038&engine=google_scholar&hl=en",
+                "cites_id": "143827981731282038"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Understanding user perceived video quality using multipath TCP over wireless network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:0EnyYjriUFMC",
+            "citation_id": "YjiIDkjozUcC:0EnyYjriUFMC",
+            "authors": "SK Park, A Bhattacharya, M Dasari, SR Das",
+            "publication": "2018 IEEE 39th Sarnoff Symposium, 1-6, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10781835450397027131",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10781835450397027131&engine=google_scholar&hl=en",
+                "cites_id": "10781835450397027131"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Mobility-aware service placement for vehicular users in edge-cloud environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:qxL8FJ1GzNcC",
+            "citation_id": "YjiIDkjozUcC:qxL8FJ1GzNcC",
+            "authors": "R Mudam, S Bhartia, S Chattopadhyay, A Bhattacharya",
+            "publication": "International Conference on Service-Oriented Computing, 248-265, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5706855880643213018",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5706855880643213018&engine=google_scholar&hl=en",
+                "cites_id": "5706855880643213018"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Fast and Efficient Online Selection of Sensors for Transmitter Localization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:ZeXyd9-uunAC",
+            "citation_id": "YjiIDkjozUcC:ZeXyd9-uunAC",
+            "authors": "A Bhattacharya, A Maji, JP Champati, J Gross",
+            "publication": "International Conference on COMmunication Systems & NETworkS, 2022",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3016949616194550039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3016949616194550039&engine=google_scholar&hl=en",
+                "cites_id": "3016949616194550039"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Quantifying Energy and Latency Improvements of FPGA-Based Sensors for Low-Cost Spectrum Monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:ufrVoPGSRksC",
+            "citation_id": "YjiIDkjozUcC:ufrVoPGSRksC",
+            "authors": "A Bhattacharya, H Chen, P Milder, SR Das",
+            "publication": "Dynamic Spectrum Access Networks (DySPAN), 2018 IEEE International Symposium on, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9315797960273543241",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9315797960273543241&engine=google_scholar&hl=en",
+                "cites_id": "9315797960273543241"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Scheduling with Task Duplication for Application Offloading",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:qjMakFHDy7sC",
+            "citation_id": "YjiIDkjozUcC:qjMakFHDy7sC",
+            "authors": "A Bhattacharya, A Banerjee, P De",
+            "publication": "IEEE CCNC, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16470029117616350576",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16470029117616350576&engine=google_scholar&hl=en",
+                "cites_id": "16470029117616350576"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Parametric Analysis of Mobile Cloud Computing Frameworks using Simulation Modeling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:u-x6o8ySG0sC",
+            "citation_id": "YjiIDkjozUcC:u-x6o8ySG0sC",
+            "authors": "A Bhattacharya, A Banerjee, P De",
+            "publication": "International Workshop on Adaptive Resource Management and Scheduling for \u2026, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10827018294792549251",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10827018294792549251&engine=google_scholar&hl=en",
+                "cites_id": "10827018294792549251"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A Gaussian Process Based Technique of Efficient Sensor Selection for Transmitter Localization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:L8Ckcad2t8MC",
+            "citation_id": "YjiIDkjozUcC:L8Ckcad2t8MC",
+            "authors": "A Ghosh, A Bhattacharya",
+            "publication": "IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8222921549671802383",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8222921549671802383&engine=google_scholar&hl=en",
+                "cites_id": "8222921549671802383"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "User Allocation in Mobile Edge Computing: A Deep Reinforcement Learning Approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:mVmsd5A6BfQC",
+            "citation_id": "YjiIDkjozUcC:mVmsd5A6BfQC",
+            "authors": "SP Panda, A Banerjee, A Bhattacharya",
+            "publication": "IEEE International Conference on Web Services 2021, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1063349625170829753",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1063349625170829753&engine=google_scholar&hl=en",
+                "cites_id": "1063349625170829753"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A first look at performance of TV streaming sticks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:zYLM7Y9cAGgC",
+            "citation_id": "YjiIDkjozUcC:zYLM7Y9cAGgC",
+            "authors": "A Chakraborty, A Bhattacharya, S Ghosh, SR Das",
+            "publication": "2017 IEEE 38th Sarnoff Symposium, 1-6, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9113149744098533570",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9113149744098533570&engine=google_scholar&hl=en",
+                "cites_id": "9113149744098533570"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Considering multi-cycle influences for signal selection for Post Silicon Validation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:2osOgNQ5qMEC",
+            "citation_id": "YjiIDkjozUcC:2osOgNQ5qMEC",
+            "authors": "A Bhattacharya, S Koley, A Banerjee",
+            "publication": "2015 International Conference on Electronic Design, Computer Networks \u2026, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7963593218603605343",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7963593218603605343&engine=google_scholar&hl=en",
+                "cites_id": "7963593218603605343"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Energy-aware H. 264 decoding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:d1gkVwhDpl0C",
+            "citation_id": "YjiIDkjozUcC:d1gkVwhDpl0C",
+            "authors": "A Bhattacharya, A Banerjee, S Sur-Kolay",
+            "publication": "International Conference on Distributed Computing and Internet Technology \u2026, 2014",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13501665616374485932",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13501665616374485932&engine=google_scholar&hl=en",
+                "cites_id": "13501665616374485932"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "A cache-aware strategy for h. 264 decoding on multi-processor architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:u5HHmVD_uO8C",
+            "citation_id": "YjiIDkjozUcC:u5HHmVD_uO8C",
+            "authors": "A Bhattacharya, A Banerjee, S Sur-Kolay, P Basu, BJ Karmakar",
+            "publication": "VLSI Design and Test, 194-203, 2013",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9906259694288824834",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9906259694288824834&engine=google_scholar&hl=en",
+                "cites_id": "9906259694288824834"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Sensor Virtualization for Efficient Sharing of Mobile and Wearable Sensors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:QIV2ME_5wuYC",
+            "citation_id": "YjiIDkjozUcC:QIV2ME_5wuYC",
+            "authors": "J Xu, A Bhattacharya, A Balasubramanian, DE Porter",
+            "publication": "Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "MAVERICK: Proactively detecting network control plane bugs using structural outlierness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:Wp0gIr-vW9MC",
+            "citation_id": "YjiIDkjozUcC:Wp0gIr-vW9MC",
+            "authors": "V Nagendra, A Pokala, A Bhattacharya, S Das",
+            "publication": "arXiv preprint arXiv:2101.09365, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Selection of Sensors for Efficient Transmitter Localization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:3fE2CSJIrl8C",
+            "citation_id": "YjiIDkjozUcC:3fE2CSJIrl8C",
+            "authors": "A Bhattacharya, C Zhan, H Gupta, SR Das, PM Djuric",
+            "publication": "IEEE Infocom, 2020, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Towards Performance Guarantees in Emerging Wireless Network Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:Zph67rFs4hoC",
+            "citation_id": "YjiIDkjozUcC:Zph67rFs4hoC",
+            "authors": "A Bhattacharya",
+            "publication": "Stony Brook University, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Service Level Guarantee for Mobile Application Offloading in Presence of Wireless Channel Errors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:UeHWp8X0CEIC",
+            "citation_id": "YjiIDkjozUcC:UeHWp8X0CEIC",
+            "authors": "A Bhattacharya, A Banerjee, P De",
+            "publication": "IEEE Globecom, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "ICWS 2021",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:7PzlFSSx8tAC",
+            "citation_id": "YjiIDkjozUcC:7PzlFSSx8tAC",
+            "authors": "P Abeysekara, A Alarabeyyat, E Alarcon, N Ali, M Al-Kofahi, E Alnazer, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Dustdar, Schahram 21, 710 Elarbi, Maha 347 Elhabbash, Abdessalam 712 Elkhatib, Yehia 712",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:dhFuZR0502QC",
+            "citation_id": "YjiIDkjozUcC:dhFuZR0502QC",
+            "authors": "P Abeysekara, S Agarwal, M Aiello, A Alharbi, S Ali, B Alkouz, A Alofi, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "5GCoreLite: Scalable and Resource Efficient Next Generation Cellular Packet Core (Extended Abstract-NSDI 2019)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YjiIDkjozUcC&pagesize=100&citation_for_view=YjiIDkjozUcC:Se3iqnhoufwC",
+            "citation_id": "YjiIDkjozUcC:Se3iqnhoufwC",
+            "authors": "V Nagendra, A Bhattacharya, A Gandhi, SR Das",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 277,
+                    "since_2017": 274
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 7,
+                    "since_2017": 7
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 10
+            },
+            {
+                "year": 2018,
+                "citations": 15
+            },
+            {
+                "year": 2019,
+                "citations": 37
+            },
+            {
+                "year": 2020,
+                "citations": 64
+            },
+            {
+                "year": 2021,
+                "citations": 111
+            },
+            {
+                "year": 2022,
+                "citations": 35
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=YjiIDkjozUcC",
+        "available": 10,
+        "not_available": 1
+    },
+    "co_authors": [
+        {
+            "name": "Samir R. Das",
+            "link": "https://scholar.google.com/citations?user=frOtmtAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=frOtmtAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "frOtmtAAAAAJ",
+            "affiliations": "Professor, Computer Science Department, Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=frOtmtAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Mallesham Dasari",
+            "link": "https://scholar.google.com/citations?user=Exq-T-gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Exq-T-gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Exq-T-gAAAAJ",
+            "affiliations": "Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Exq-T-gAAAAJ&citpid=5"
+        },
+        {
+            "name": "Pradipta De",
+            "link": "https://scholar.google.com/citations?user=a_JjVfcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=a_JjVfcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "a_JjVfcAAAAJ",
+            "affiliations": "Microsoft Azure",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=a_JjVfcAAAAJ&citpid=4"
+        },
+        {
+            "name": "Sohee Park",
+            "link": "https://scholar.google.com/citations?user=I-j6s24AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=I-j6s24AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "I-j6s24AAAAJ",
+            "affiliations": "Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Himanshu Gupta",
+            "link": "https://scholar.google.com/citations?user=3a-0dbMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3a-0dbMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "3a-0dbMAAAAJ",
+            "affiliations": "Associate Professor, Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3a-0dbMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vasudevan Nagendra",
+            "link": "https://scholar.google.com/citations?user=sL8GSoEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sL8GSoEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "sL8GSoEAAAAJ",
+            "affiliations": "Head of Security, Plume Inc,",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sL8GSoEAAAAJ&citpid=3"
+        },
+        {
+            "name": "Aruna Balasubramanian",
+            "link": "https://scholar.google.com/citations?user=qtfHsnoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qtfHsnoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qtfHsnoAAAAJ",
+            "affiliations": "Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qtfHsnoAAAAJ&citpid=2"
+        },
+        {
+            "name": "Santiago Vargas",
+            "link": "https://scholar.google.com/citations?user=qVM2F80AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qVM2F80AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qVM2F80AAAAJ",
+            "affiliations": "Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qVM2F80AAAAJ&citpid=1"
+        },
+        {
+            "name": "Ansuman Banerjee",
+            "link": "https://scholar.google.com/citations?user=rGFo1TQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rGFo1TQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rGFo1TQAAAAJ",
+            "affiliations": "Professor, Indian Statistical Institute",
+            "email": "Verified email at isical.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rGFo1TQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ayon Chakraborty",
+            "link": "https://scholar.google.com/citations?user=xKrkM1EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xKrkM1EAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "xKrkM1EAAAAJ",
+            "affiliations": "IIT Madras",
+            "email": "Verified email at iitm.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xKrkM1EAAAAJ&citpid=9"
+        },
+        {
+            "name": "Dimitris Samaras",
+            "link": "https://scholar.google.com/citations?user=BxbKTYkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BxbKTYkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BxbKTYkAAAAJ",
+            "affiliations": "Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BxbKTYkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Zhibo Yang",
+            "link": "https://scholar.google.com/citations?user=Q88BI2QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Q88BI2QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Q88BI2QAAAAJ",
+            "affiliations": "Department of Computer Science, Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Q88BI2QAAAAJ&citpid=10"
+        },
+        {
+            "name": "Caitao Zhan",
+            "link": "https://scholar.google.com/citations?user=fNBFRWEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fNBFRWEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "fNBFRWEAAAAJ",
+            "affiliations": "Research Assistant, Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fNBFRWEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Pranjal Sahu, Ph.D",
+            "link": "https://scholar.google.com/citations?user=W0LtyTkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=W0LtyTkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "W0LtyTkAAAAJ",
+            "affiliations": "Kitware",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=W0LtyTkAAAAJ&citpid=4"
+        },
+        {
+            "name": "Anshul Gandhi",
+            "link": "https://scholar.google.com/citations?user=XNSodwIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XNSodwIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XNSodwIAAAAJ",
+            "affiliations": "Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XNSodwIAAAAJ&citpid=7"
+        },
+        {
+            "name": "Michael Ferdman",
+            "link": "https://scholar.google.com/citations?user=u9J1aE4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=u9J1aE4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "u9J1aE4AAAAJ",
+            "affiliations": "Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=u9J1aE4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Amir Rahmati",
+            "link": "https://scholar.google.com/citations?user=_Y_YRLAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_Y_YRLAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_Y_YRLAAAAAJ",
+            "affiliations": "Assistant Professor, Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_Y_YRLAAAAAJ&citpid=6"
+        },
+        {
+            "name": "Vinod Yegneswaran",
+            "link": "https://scholar.google.com/citations?user=wkIzS-gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wkIzS-gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "wkIzS-gAAAAJ",
+            "affiliations": "Principal Computer Scientist, SRI International",
+            "email": "Verified email at csl.sri.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Abhishek Maji",
+            "link": "https://scholar.google.com/citations?user=w3WXSMAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=w3WXSMAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "w3WXSMAAAAAJ",
+            "affiliations": "System Development Engineer at Hitachi Energy",
+            "email": "Verified email at se.abb.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w3WXSMAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Minh Hoai Nguyen",
+            "link": "https://scholar.google.com/citations?user=hRV0tY4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hRV0tY4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "hRV0tY4AAAAJ",
+            "affiliations": "Associate Professor at Stony Brook University",
+            "email": "Verified email at cs.stonybrook.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hRV0tY4AAAAJ&citpid=3"
+        }
+    ]
+}

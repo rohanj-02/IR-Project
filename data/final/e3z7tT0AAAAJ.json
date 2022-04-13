@@ -1,0 +1,2295 @@
+{
+    "search_metadata": {
+        "id": "6256e1213a218a8e1071aef0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0f0a6e8ac0b67ff1/6256e1213a218a8e1071aef0.json",
+        "created_at": "2022-04-13 14:41:37 UTC",
+        "processed_at": "2022-04-13 14:41:37 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=e3z7tT0AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/0f0a6e8ac0b67ff1/6256e1213a218a8e1071aef0.html",
+        "total_time_taken": 0.9,
+        "total_articles": 153,
+        "total_co_authors": 17
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "e3z7tT0AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sujay Deb",
+        "affiliations": "Associate Professor, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.edu.in/~sdeb/",
+        "interests": [
+            {
+                "title": "Multi-core",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multi_core",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amulti_core"
+            },
+            {
+                "title": "Heterogeneous System Architectures",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:heterogeneous_system_architectures",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aheterogeneous_system_architectures"
+            },
+            {
+                "title": "Network on Chip",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_on_chip",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_on_chip"
+            },
+            {
+                "title": "Preventive Healthcare",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:preventive_healthcare",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apreventive_healthcare"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=e3z7tT0AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Scalable hybrid wireless network-on-chip architectures for multicore systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "e3z7tT0AAAAJ:u5HHmVD_uO8C",
+            "authors": "A Ganguly, K Chang, S Deb, PP Pande, B Belzer, C Teuscher",
+            "publication": "IEEE Transactions on Computers 60 (10), 1485-1502, 2010",
+            "cited_by": {
+                "value": 337,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17566183507258086436",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17566183507258086436&engine=google_scholar&hl=en",
+                "cites_id": "17566183507258086436"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Wireless NoC as interconnection backbone for multicore chips: Promises and challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "e3z7tT0AAAAJ:2osOgNQ5qMEC",
+            "authors": "S Deb, A Ganguly, PP Pande, B Belzer, D Heo",
+            "publication": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems 2 (2 \u2026, 2012",
+            "cited_by": {
+                "value": 327,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1364193199570237806",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1364193199570237806&engine=google_scholar&hl=en",
+                "cites_id": "1364193199570237806"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Design of an energy-efficient CMOS-compatible NoC architecture with millimeter-wave wireless interconnects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "e3z7tT0AAAAJ:W7OEmFMy1HYC",
+            "authors": "S Deb, K Chang, X Yu, SP Sah, M Cosic, A Ganguly, PP Pande, B Belzer, ...",
+            "publication": "IEEE Transactions on Computers 62 (12), 2382-2396, 2012",
+            "cited_by": {
+                "value": 212,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2561585341712160590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2561585341712160590&engine=google_scholar&hl=en",
+                "cites_id": "2561585341712160590"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Performance evaluation and design trade-offs for wireless network-on-chip architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "e3z7tT0AAAAJ:d1gkVwhDpl0C",
+            "authors": "K Chang, S Deb, A Ganguly, X Yu, SP Sah, PP Pande, B Belzer, D Heo",
+            "publication": "ACM Journal on Emerging Technologies in Computing Systems (JETC) 8 (3), 1-25, 2012",
+            "cited_by": {
+                "value": 131,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16450746536772194068",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16450746536772194068&engine=google_scholar&hl=en",
+                "cites_id": "16450746536772194068"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Enhancing performance of network-on-chip architectures with millimeter-wave wireless interconnects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "e3z7tT0AAAAJ:u-x6o8ySG0sC",
+            "authors": "S Deb, A Ganguly, K Chang, P Pande, B Beizer, D Heo",
+            "publication": "ASAP 2010-21st IEEE International Conference on Application-specific Systems \u2026, 2010",
+            "cited_by": {
+                "value": 114,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18226508634175028293",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18226508634175028293&engine=google_scholar&hl=en",
+                "cites_id": "18226508634175028293"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Handbook of Energy-Aware and Green Computing, Volume 1",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:URolC5Kub84C",
+            "citation_id": "e3z7tT0AAAAJ:URolC5Kub84C",
+            "authors": "I Ahmad, S Ranka",
+            "publication": "CRC Press, 2012",
+            "cited_by": {
+                "value": 92,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11727009538496740214",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11727009538496740214&engine=google_scholar&hl=en",
+                "cites_id": "11727009538496740214"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "A wideband body-enabled millimeter-wave transceiver for wireless network-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "e3z7tT0AAAAJ:9yKSN-GCB0IC",
+            "authors": "X Yu, SP Sah, S Deb, PP Pande, B Belzer, D Heo",
+            "publication": "2011 IEEE 54th International Midwest Symposium on Circuits and Systems \u2026, 2011",
+            "cited_by": {
+                "value": 60,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5942394470941652228",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5942394470941652228&engine=google_scholar&hl=en",
+                "cites_id": "5942394470941652228"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "Face video based touchless blood pressure and heart rate estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:WbkHhVStYXYC",
+            "citation_id": "e3z7tT0AAAAJ:WbkHhVStYXYC",
+            "authors": "M Jain, S Deb, AV Subramanyam",
+            "publication": "2016 IEEE 18th International Workshop on Multimedia Signal Processing (MMSP \u2026, 2016",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14937323341013042691",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14937323341013042691&engine=google_scholar&hl=en",
+                "cites_id": "14937323341013042691"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Design of an efficient NoC architecture using millimeter-wave wireless links",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "e3z7tT0AAAAJ:UeHWp8X0CEIC",
+            "authors": "S Deb, K Chang, A Ganguly, X Yu, C Teuscher, P Pande, D Heo, B Belzer",
+            "publication": "Thirteenth International Symposium on Quality Electronic Design (ISQED), 165-172, 2012",
+            "cited_by": {
+                "value": 47,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2062554232714611613",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2062554232714611613&engine=google_scholar&hl=en",
+                "cites_id": "2062554232714611613"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Interference-aware wireless network-on-chip architecture using directional antennas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:abG-DnoFyZgC",
+            "citation_id": "e3z7tT0AAAAJ:abG-DnoFyZgC",
+            "authors": "HK Mondal, SH Gade, MS Shamim, S Deb, A Ganguly",
+            "publication": "IEEE Transactions on Multi-Scale Computing Systems 3 (3), 193-205, 2016",
+            "cited_by": {
+                "value": 45,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10138297909606335720",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10138297909606335720&engine=google_scholar&hl=en",
+                "cites_id": "10138297909606335720"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Millimeter-wave planar log periodic antenna for on-chip wireless interconnects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:_kc_bZDykSQC",
+            "citation_id": "e3z7tT0AAAAJ:_kc_bZDykSQC",
+            "authors": "A Samaiyar, SS Ram, S Deb",
+            "publication": "The 8th European Conference on Antennas and Propagation (EuCAP 2014), 1007-1009, 2014",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18399148748011989601",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18399148748011989601&engine=google_scholar&hl=en",
+                "cites_id": "18399148748011989601"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Cuff-less estimation of blood pressure using pulse transit time and pre-ejection period",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "e3z7tT0AAAAJ:YsMSGLbcyi4C",
+            "authors": "S Deb, C Nanda, D Goswami, J Mukhopadhyay, S Chakrabarti",
+            "publication": "2007 International Conference on Convergence Information Technology (ICCIT \u2026, 2007",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=381174502250425488",
+                "serpapi_link": "https://serpapi.com/search.json?cites=381174502250425488&engine=google_scholar&hl=en",
+                "cites_id": "381174502250425488"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "HyWin: Hybrid wireless NoC with sandboxed sub-networks for CPU/GPU architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:u9iWguZQMMsC",
+            "citation_id": "e3z7tT0AAAAJ:u9iWguZQMMsC",
+            "authors": "SH Gade, S Deb",
+            "publication": "IEEE Transactions on computers 66 (7), 1145-1158, 2016",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13662204415409784221",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13662204415409784221&engine=google_scholar&hl=en",
+                "cites_id": "13662204415409784221"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "An energy efficient wireless Network-on-Chip using power-gated transceivers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "e3z7tT0AAAAJ:qxL8FJ1GzNcC",
+            "authors": "HK Mondal, S Deb",
+            "publication": "2014 27th IEEE International System-on-Chip Conference (SOCC), 243-248, 2014",
+            "cited_by": {
+                "value": 35,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16389107101665345706",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16389107101665345706&engine=google_scholar&hl=en",
+                "cites_id": "16389107101665345706"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Adaptive multi-voltage scaling in wireless NoC for high performance low power applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:pyW8ca7W8N0C",
+            "citation_id": "e3z7tT0AAAAJ:pyW8ca7W8N0C",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "2016 Design, Automation & Test in Europe Conference & Exhibition (DATE \u2026, 2016",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745840138465478835",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2745840138465478835&engine=google_scholar&hl=en",
+                "cites_id": "2745840138465478835"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Determination of SpO2 and heart-rate using smartphone camera",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:1qzjygNMrQYC",
+            "citation_id": "e3z7tT0AAAAJ:1qzjygNMrQYC",
+            "authors": "AK Kanva, CJ Sharma, S Deb",
+            "publication": "Proceedings of The 2014 International Conference on Control, Instrumentation \u2026, 2014",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1852714230658601656",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1852714230658601656&engine=google_scholar&hl=en",
+                "cites_id": "1852714230658601656"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Power efficient router architecture for wireless Network-on-Chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:bFI3QPDXJZMC",
+            "citation_id": "e3z7tT0AAAAJ:bFI3QPDXJZMC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Kaushik, S Deb",
+            "publication": "2016 17th International Symposium on Quality Electronic Design (ISQED), 227-233, 2016",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10596869314230637281",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10596869314230637281&engine=google_scholar&hl=en",
+                "cites_id": "10596869314230637281"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Energy-efficient wireless network-on-chip architecture with log-periodic on-chip antennas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:kNdYIx-mwKoC",
+            "citation_id": "e3z7tT0AAAAJ:kNdYIx-mwKoC",
+            "authors": "MS Shamim, N Mansoor, A Samaiyar, A Ganguly, S Deb, S Sunndar Ram",
+            "publication": "Proceedings of the 24th edition of the great lakes symposium on VLSI, 85-86, 2014",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7632893713359612717",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7632893713359612717&engine=google_scholar&hl=en",
+                "cites_id": "7632893713359612717"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Cmos compatible many-core noc architectures with multi-channel millimeter-wave wireless links",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "e3z7tT0AAAAJ:Y0pCki6q_DkC",
+            "authors": "S Deb, K Chang, M Cosic, A Ganguly, PP Pande, D Heo, B Belzer",
+            "publication": "Proceedings of the great lakes symposium on VLSI, 165-170, 2012",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8800668102387899315",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8800668102387899315&engine=google_scholar&hl=en",
+                "cites_id": "8800668102387899315"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Comparative performance evaluation of wireless and optical NoC architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:qjMakFHDy7sC",
+            "citation_id": "e3z7tT0AAAAJ:qjMakFHDy7sC",
+            "authors": "S Deb, K Chang, A Ganguly, P Pande",
+            "publication": "23rd IEEE International SOC Conference, 487-492, 2010",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7284689544685577598",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7284689544685577598&engine=google_scholar&hl=en",
+                "cites_id": "7284689544685577598"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Adaptive multi-voltage scaling with utilization prediction for energy-efficient wireless NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:geHnlv5EZngC",
+            "citation_id": "e3z7tT0AAAAJ:geHnlv5EZngC",
+            "authors": "HK Mondal, SH Gade, S Kaushik, S Deb",
+            "publication": "IEEE Transactions on Sustainable Computing 2 (4), 382-395, 2017",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=209088502047822891",
+                "serpapi_link": "https://serpapi.com/search.json?cites=209088502047822891&engine=google_scholar&hl=en",
+                "cites_id": "209088502047822891"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Energy-efficient transceiver for wireless NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:l7t_Zn2s7bgC",
+            "citation_id": "e3z7tT0AAAAJ:l7t_Zn2s7bgC",
+            "authors": "HK Mondal, S Kaushik, SH Gade, S Deb",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7384330169810913578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7384330169810913578&engine=google_scholar&hl=en",
+                "cites_id": "7384330169810913578"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Cuffless BP measurement using a correlation study of pulse transient time and heart rate",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:bEWYMUwI8FkC",
+            "citation_id": "e3z7tT0AAAAJ:bEWYMUwI8FkC",
+            "authors": "N Kumar, A Agrawal, S Deb",
+            "publication": "2014 International Conference on Advances in Computing, Communications and \u2026, 2014",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16245111131539089245",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16245111131539089245&engine=google_scholar&hl=en",
+                "cites_id": "16245111131539089245"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "An efficient hardware implementation of dvfs in multi-core system with wireless network-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:4TOpqqG69KYC",
+            "citation_id": "e3z7tT0AAAAJ:4TOpqqG69KYC",
+            "authors": "HK Mondal, GNS Harsha, S Deb",
+            "publication": "2014 IEEE Computer Society Annual Symposium on VLSI, 184-189, 2014",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4142081414836223845",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4142081414836223845&engine=google_scholar&hl=en",
+                "cites_id": "4142081414836223845"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Wireless network-on-chip: a new era in multi-core chip design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:aqlVkmm33-oC",
+            "citation_id": "e3z7tT0AAAAJ:aqlVkmm33-oC",
+            "authors": "S Deb, HK Mondal",
+            "publication": "2014 25nd IEEE International Symposium on Rapid System Prototyping, 59-64, 2014",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4634835324494674891",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4634835324494674891&engine=google_scholar&hl=en",
+                "cites_id": "4634835324494674891"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Energy efficient on-chip wireless interconnects with sleepy transceivers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:8k81kl-MbHgC",
+            "citation_id": "e3z7tT0AAAAJ:8k81kl-MbHgC",
+            "authors": "H Mondal, S Deb",
+            "publication": "Design and Test Symposium (IDT), 2013 8th International, 1-6, 2013",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13604154844236880659",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13604154844236880659&engine=google_scholar&hl=en",
+                "cites_id": "13604154844236880659"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Broadcast-and power-aware wireless NoC for barrier synchronization in parallel computing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ye4kPcJQO24C",
+            "citation_id": "e3z7tT0AAAAJ:ye4kPcJQO24C",
+            "authors": "HK Mondal, RC Cataldo, CAM Marcon, K Martin, S Deb, JP Diguet",
+            "publication": "2018 31st IEEE International System-on-Chip Conference (SOCC), 1-6, 2018",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10066400893926337251",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10066400893926337251&engine=google_scholar&hl=en",
+                "cites_id": "10066400893926337251"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A sparse regression based approach for cuff-less blood pressure measurement",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:f2IySw72cVMC",
+            "citation_id": "e3z7tT0AAAAJ:f2IySw72cVMC",
+            "authors": "M Jain, N Kumar, S Deb, A Majumdar",
+            "publication": "2016 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2016",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10323482968696114322",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10323482968696114322&engine=google_scholar&hl=en",
+                "cites_id": "10323482968696114322"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "OFDM based high data rate, fading resilient transceiver for wireless networks-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:B3FOqHPlNUQC",
+            "citation_id": "e3z7tT0AAAAJ:B3FOqHPlNUQC",
+            "authors": "SH Gade, S Garg, S Deb",
+            "publication": "2017 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 483-488, 2017",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6764038686113178533",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6764038686113178533&engine=google_scholar&hl=en",
+                "cites_id": "6764038686113178533"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Energy efficient acquisition and reconstruction of EEG signals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "e3z7tT0AAAAJ:M3ejUd6NZC8C",
+            "authors": "W Singh, A Shukla, S Deb, A Majumdar",
+            "publication": "2014 36th Annual International Conference of the IEEE Engineering in \u2026, 2014",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9559301841197571943",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9559301841197571943&engine=google_scholar&hl=en",
+                "cites_id": "9559301841197571943"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Design space exploration for reliable mm-wave wireless NoC architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:0EnyYjriUFMC",
+            "citation_id": "e3z7tT0AAAAJ:0EnyYjriUFMC",
+            "authors": "P Wettin, PP Pande, D Heo, B Belzer, S Deb, A Ganguly",
+            "publication": "2013 IEEE 24th International Conference on Application-Specific Systems \u2026, 2013",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9588346307452448863",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9588346307452448863&engine=google_scholar&hl=en",
+                "cites_id": "9588346307452448863"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "P2noc: Power-and performance-aware noc architectures for sustainable computing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:8AbLer7MMksC",
+            "citation_id": "e3z7tT0AAAAJ:8AbLer7MMksC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "Sustainable Computing: Informatics and Systems 16, 25-37, 2017",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1274032909442954454",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1274032909442954454&engine=google_scholar&hl=en",
+                "cites_id": "1274032909442954454"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "A comparative analysis of jitter estimation techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:QIV2ME_5wuYC",
+            "citation_id": "e3z7tT0AAAAJ:QIV2ME_5wuYC",
+            "authors": "VK Sharma, JN Tripathi, R Nagpal, S Deb, R Malik",
+            "publication": "2014 International Conference on Electronics, Communication and \u2026, 2014",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1508960076412405284",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1508960076412405284&engine=google_scholar&hl=en",
+                "cites_id": "1508960076412405284"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Millimeter wave wireless interconnects in deep submicron chips: Challenges and opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:eq2jaN3J8jMC",
+            "citation_id": "e3z7tT0AAAAJ:eq2jaN3J8jMC",
+            "authors": "SH Gade, SS Ram, S Deb",
+            "publication": "Integration 64, 127-136, 2019",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11637718126190734772",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11637718126190734772&engine=google_scholar&hl=en",
+                "cites_id": "11637718126190734772"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Achievable performance enhancements with mm-wave wireless interconnects in noc",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:O3NaXMp0MMsC",
+            "citation_id": "e3z7tT0AAAAJ:O3NaXMp0MMsC",
+            "authors": "SH Gade, S Deb",
+            "publication": "Proceedings of the 9th International Symposium on Networks-on-Chip, 1-2, 2015",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5442425268649247013",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5442425268649247013&engine=google_scholar&hl=en",
+                "cites_id": "5442425268649247013"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A hardware and thermal analysis of dvfs in a multi-core system with hybrid wnoc architecture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:mVmsd5A6BfQC",
+            "citation_id": "e3z7tT0AAAAJ:mVmsd5A6BfQC",
+            "authors": "SH Gade, HK Mondal, S Deb",
+            "publication": "2015 28th International Conference on VLSI Design, 117-122, 2015",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6525920157848706553",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6525920157848706553&engine=google_scholar&hl=en",
+                "cites_id": "6525920157848706553"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A utilization aware robust channel access mechanism for wireless nocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:eMMeJKvmdy0C",
+            "citation_id": "e3z7tT0AAAAJ:eMMeJKvmdy0C",
+            "authors": "SH Gade, SS Rout, M Sinha, HK Mondal, W Singh, S Deb",
+            "publication": "2018 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2018",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5389732244908841241",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5389732244908841241&engine=google_scholar&hl=en",
+                "cites_id": "5389732244908841241"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Path loss-aware adaptive transmission power control scheme for energy-efficient wireless noc",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:dTyEYWd-f8wC",
+            "citation_id": "e3z7tT0AAAAJ:dTyEYWd-f8wC",
+            "authors": "S Kaushik, M Agrawal, HK Mondal, SH Gade, S Deb",
+            "publication": "2017 IEEE 60th International Midwest Symposium on Circuits and Systems \u2026, 2017",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17603545411982687022",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17603545411982687022&engine=google_scholar&hl=en",
+                "cites_id": "17603545411982687022"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Enabling reliable high throughput on-chip wireless communication for many core architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:tkaPQYYpVKoC",
+            "citation_id": "e3z7tT0AAAAJ:tkaPQYYpVKoC",
+            "authors": "SH Gade, M Sinha, SS Rout, S Deb",
+            "publication": "2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 591-596, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1861217880708450666",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1861217880708450666&engine=google_scholar&hl=en",
+                "cites_id": "1861217880708450666"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Pragmatic approaches to implement self-checking mechanism in UVM based TestBench",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:GnPB-g6toBAC",
+            "citation_id": "e3z7tT0AAAAJ:GnPB-g6toBAC",
+            "authors": "R Madan, N Kumar, S Deb",
+            "publication": "2015 International Conference on Advances in Computer Engineering and \u2026, 2015",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14453334615692074939",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14453334615692074939&engine=google_scholar&hl=en",
+                "cites_id": "14453334615692074939"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Energy efficient EEG acquisition and reconstruction for a wireless body area network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:NhqRSupF_l8C",
+            "citation_id": "e3z7tT0AAAAJ:NhqRSupF_l8C",
+            "authors": "W Singh, A Shukla, S Deb, A Majumdar",
+            "publication": "Integration 58, 295-302, 2017",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12643011852934528628",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12643011852934528628&engine=google_scholar&hl=en",
+                "cites_id": "12643011852934528628"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "An affordable cuff-less blood pressure estimation solution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:KxtntwgDAa4C",
+            "citation_id": "e3z7tT0AAAAJ:KxtntwgDAa4C",
+            "authors": "M Jain, N Kumar, S Deb",
+            "publication": "2016 38th Annual International Conference of the IEEE Engineering in \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14128299183337641118",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14128299183337641118&engine=google_scholar&hl=en",
+                "cites_id": "14128299183337641118"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Energy efficient and congestion-aware router design for future NoCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:yD5IFk8b50cC",
+            "citation_id": "e3z7tT0AAAAJ:yD5IFk8b50cC",
+            "authors": "W Singh, S Deb",
+            "publication": "2016 29th International Conference on VLSI Design and 2016 15th \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4852300107389914813",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4852300107389914813&engine=google_scholar&hl=en",
+                "cites_id": "4852300107389914813"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Hierarchical Cluster based NoC design using Wireless Interconnects for Coherence Support",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:4OULZ7Gr8RgC",
+            "citation_id": "e3z7tT0AAAAJ:4OULZ7Gr8RgC",
+            "authors": "T Shreedhar, S Deb",
+            "publication": "2016 29th International Conference on VLSI Design and 2016 15th \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3958876767942742516",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3958876767942742516&engine=google_scholar&hl=en",
+                "cites_id": "3958876767942742516"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Efficient post-silicon validation of network-on-chip using wireless links",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:1yQoGdGgb4wC",
+            "citation_id": "e3z7tT0AAAAJ:1yQoGdGgb4wC",
+            "authors": "SS Rout, K Basu, S Deb",
+            "publication": "2019 32nd International Conference on VLSI Design and 2019 18th \u2026, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16803715862125637609",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16803715862125637609&engine=google_scholar&hl=en",
+                "cites_id": "16803715862125637609"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Sixth\u2010order differential Sallen\u2010and\u2010Key switched capacitor LPF using a\u2010IGZO TFTs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:5awf1xo2G04C",
+            "citation_id": "e3z7tT0AAAAJ:5awf1xo2G04C",
+            "authors": "N Wadhwa, PG Bahubalindruni, K Chapagai, J Goes, S Deb, P Barquinha",
+            "publication": "International Journal of Circuit Theory and Applications 47 (1), 32-42, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2346032728500464978",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2346032728500464978&engine=google_scholar&hl=en",
+                "cites_id": "2346032728500464978"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Data-flow aware CNN accelerator with hybrid wireless interconnection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:JoZmwDi-zQgC",
+            "citation_id": "e3z7tT0AAAAJ:JoZmwDi-zQgC",
+            "authors": "M Sinha, SH Gade, W Singh, S Deb",
+            "publication": "2018 IEEE 29th International Conference on Application-specific Systems \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6562492205955407067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6562492205955407067&engine=google_scholar&hl=en",
+                "cites_id": "6562492205955407067"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Dynamic noc platform for varied application needs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:Y5dfb0dijaUC",
+            "citation_id": "e3z7tT0AAAAJ:Y5dfb0dijaUC",
+            "authors": "SS Rout, HK Mondai, R Juneja, SH Gade, S Deb",
+            "publication": "2018 19th International Symposium on Quality Electronic Design (ISQED), 232-237, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10141755728251336103",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10141755728251336103&engine=google_scholar&hl=en",
+                "cites_id": "10141755728251336103"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Designing an intelligent blink analyzer tool for effective human computer interaction through eye",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ufrVoPGSRksC",
+            "citation_id": "e3z7tT0AAAAJ:ufrVoPGSRksC",
+            "authors": "S Deb, S Deb",
+            "publication": "2012 4th International Conference on Intelligent Human Computer Interaction \u2026, 2012",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2465418214980466799",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2465418214980466799&engine=google_scholar&hl=en",
+                "cites_id": "2465418214980466799"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Power-and performance-aware on-chip interconnection architectures for many-core systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:sSrBHYA8nusC",
+            "citation_id": "e3z7tT0AAAAJ:sSrBHYA8nusC",
+            "authors": "HK Mondal, S Deb",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15916298029849578457",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15916298029849578457&engine=google_scholar&hl=en",
+                "cites_id": "15916298029849578457"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Power-and performance-aware fine-grained reconfigurable router architecture for NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:HoB7MX3m0LUC",
+            "citation_id": "e3z7tT0AAAAJ:HoB7MX3m0LUC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "2015 Sixth International Green and Sustainable Computing Conference (IGSC), 1-6, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5825298310196784495",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5825298310196784495&engine=google_scholar&hl=en",
+                "cites_id": "5825298310196784495"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Analysis and design guidelines for customized logic families in CMOS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ns9cj8rnVeAC",
+            "citation_id": "e3z7tT0AAAAJ:ns9cj8rnVeAC",
+            "authors": "N Singh, S Deb",
+            "publication": "2015 19th International Symposium on VLSI Design and Test, 1-2, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4467455741207034765",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4467455741207034765&engine=google_scholar&hl=en",
+                "cites_id": "4467455741207034765"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "UVM based STBUS verification IP for verifying SOC architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:KlAtU1dfN6UC",
+            "citation_id": "e3z7tT0AAAAJ:KlAtU1dfN6UC",
+            "authors": "P Samanta, D Chauhan, S Deb, PK Gupta",
+            "publication": "18th International Symposium on VLSI Design and Test, 1-2, 2014",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5560904907844043063",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5560904907844043063&engine=google_scholar&hl=en",
+                "cites_id": "5560904907844043063"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "A low-cost non-intrusive appliance load monitoring system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "e3z7tT0AAAAJ:_FxGoFyzp5QC",
+            "authors": "S Das, A Shukla, GNS Harsha, S Deb",
+            "publication": "2013 3rd IEEE International Advance Computing Conference (IACC), 1641-1644, 2013",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7125041122037283990",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7125041122037283990&engine=google_scholar&hl=en",
+                "cites_id": "7125041122037283990"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Millimeter-wave Wireless Network-on-Chip: A CMOS compatible interconnection infrastructure for future many-core processors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "e3z7tT0AAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Deb",
+            "publication": "Washington State University, 2012",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=868578073670354455",
+                "serpapi_link": "https://serpapi.com/search.json?cites=868578073670354455&engine=google_scholar&hl=en",
+                "cites_id": "868578073670354455"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Single Key Omni directional Pointing and command System (SKOPS)-a smart on screen navigational tool for physically disabled persons",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:3fE2CSJIrl8C",
+            "citation_id": "e3z7tT0AAAAJ:3fE2CSJIrl8C",
+            "authors": "S Deb, S Deb",
+            "publication": "2007 9th International conference on e-health networking, application and \u2026, 2007",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6374786468241988928",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6374786468241988928&engine=google_scholar&hl=en",
+                "cites_id": "6374786468241988928"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "On-chip wireless channel propagation: Impact of antenna directionality and placement on channel performance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:WqliGbK-hY8C",
+            "citation_id": "e3z7tT0AAAAJ:WqliGbK-hY8C",
+            "authors": "SH Gade, SS Rout, S Deb",
+            "publication": "2018 Twelfth IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=791616036416384830",
+                "serpapi_link": "https://serpapi.com/search.json?cites=791616036416384830&engine=google_scholar&hl=en",
+                "cites_id": "791616036416384830"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "An efficient technique for author name disambiguation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:1sJd4Hv_s6UC",
+            "citation_id": "e3z7tT0AAAAJ:1sJd4Hv_s6UC",
+            "authors": "R Hazra, A Saha, SB Deb, D Mitra",
+            "publication": "2016 IEEE International Conference on Current Trends in Advanced Computing \u2026, 2016",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6399750769046906149",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6399750769046906149&engine=google_scholar&hl=en",
+                "cites_id": "6399750769046906149"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Network-on-Chip Security and Privacy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:AvfA0Oy_GE0C",
+            "citation_id": "e3z7tT0AAAAJ:AvfA0Oy_GE0C",
+            "authors": "P Mishra, S Charles",
+            "publication": "Springer, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12459736071581238976",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12459736071581238976&engine=google_scholar&hl=en",
+                "cites_id": "12459736071581238976"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Low-noise energy efficient readout front-end for wearable continuous blood pressure monitoring systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:35r97b3x0nAC",
+            "citation_id": "e3z7tT0AAAAJ:35r97b3x0nAC",
+            "authors": "W Singh, S Deb, P Bahubalindruni",
+            "publication": "IEEE Transactions on Consumer Electronics 66 (4), 318-326, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17893180720358383988",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17893180720358383988&engine=google_scholar&hl=en",
+                "cites_id": "17893180720358383988"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Reutilization of trace buffers for performance enhancement of NoC based MPSoCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:NJ774b8OgUMC",
+            "citation_id": "e3z7tT0AAAAJ:NJ774b8OgUMC",
+            "authors": "SS Rout, M Badri, S Deb",
+            "publication": "2020 25th Asia and South Pacific Design Automation Conference (ASP-DAC), 97-102, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12639386912365979978",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12639386912365979978&engine=google_scholar&hl=en",
+                "cites_id": "12639386912365979978"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Energy Efficient Chip-to-Chip Wireless Interconnection for Heterogeneous Architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:JQOojiI6XY0C",
+            "citation_id": "e3z7tT0AAAAJ:JQOojiI6XY0C",
+            "authors": "SH Gade, MM Ahmed, S Deb, A Ganguly",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 24 (5 \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112399373785790556",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5112399373785790556&engine=google_scholar&hl=en",
+                "cites_id": "5112399373785790556"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Reliability analysis of on-chip wireless links for many core wnocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:N5tVd3kTz84C",
+            "citation_id": "e3z7tT0AAAAJ:N5tVd3kTz84C",
+            "authors": "SH Gade, SS Rout, R Kashyap, S Deb",
+            "publication": "2018 Conference on Design of Circuits and Integrated Systems (DCIS), 1-6, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6641956860646871124",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6641956860646871124&engine=google_scholar&hl=en",
+                "cites_id": "6641956860646871124"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Energy efficient noc router for high throughput applications in many-core gpus",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:olpn-zPbct0C",
+            "citation_id": "e3z7tT0AAAAJ:olpn-zPbct0C",
+            "authors": "S Bansal, HK Mondal, SH Gade, S Deb",
+            "publication": "2017 IEEE International Symposium on Nanoelectronic and Information Systems \u2026, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8787756307556344178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8787756307556344178&engine=google_scholar&hl=en",
+                "cites_id": "8787756307556344178"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Energy efficient analog-to-information converter for biopotential acquisition systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:cFHS6HbyZ2cC",
+            "citation_id": "e3z7tT0AAAAJ:cFHS6HbyZ2cC",
+            "authors": "W Singh, S Deb",
+            "publication": "2015 IEEE International Symposium on Nanoelectronic and Information Systems \u2026, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12920139825733670626",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12920139825733670626&engine=google_scholar&hl=en",
+                "cites_id": "12920139825733670626"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Efficient Hardware Verification Using Machine Learning Approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:kzcrU_BdoSEC",
+            "citation_id": "e3z7tT0AAAAJ:kzcrU_BdoSEC",
+            "authors": "P Gaur, SS Rout, S Deb",
+            "publication": "2019 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18433619476089808962",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18433619476089808962&engine=google_scholar&hl=en",
+                "cites_id": "18433619476089808962"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Efficient router architecture for trace reduction during NoC post-silicon validation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:tKAzc9rXhukC",
+            "citation_id": "e3z7tT0AAAAJ:tKAzc9rXhukC",
+            "authors": "SS Rout, SB Patil, VI Chaudhari, S Deb",
+            "publication": "2019 32nd IEEE International System-on-Chip Conference (SOCC), 230-235, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3315632578332895692",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3315632578332895692&engine=google_scholar&hl=en",
+                "cites_id": "3315632578332895692"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A comparitive study of on-chip clock generators using a-IGZO TFTs for flexible electronic systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:LjlpjdlvIbIC",
+            "citation_id": "e3z7tT0AAAAJ:LjlpjdlvIbIC",
+            "authors": "N Wadhwa, J Martins, P Bahubalindruni, S Deb, P Barquinha",
+            "publication": "2018 International Flexible Electronics Technology Conference (IFETC), 1-6, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4922475272714177083",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4922475272714177083&engine=google_scholar&hl=en",
+                "cites_id": "4922475272714177083"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "High bandwidth off-chip memory access through hybrid switching and inter-chip wireless links",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:PELIpwtuRlgC",
+            "citation_id": "e3z7tT0AAAAJ:PELIpwtuRlgC",
+            "authors": "SH Gade, HK Mondal, S Deb",
+            "publication": "2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 100-105, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17621383304153385005",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17621383304153385005&engine=google_scholar&hl=en",
+                "cites_id": "17621383304153385005"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Energy efficient biopotential acquisition unit for wearable health monitoring applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:08ZZubdj9fEC",
+            "citation_id": "e3z7tT0AAAAJ:08ZZubdj9fEC",
+            "authors": "W Singh, Y Gupta, P Jivani, S Deb",
+            "publication": "2017 18th International Symposium on Quality Electronic Design (ISQED), 337-341, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11020778710893261184",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11020778710893261184&engine=google_scholar&hl=en",
+                "cites_id": "11020778710893261184"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "A Pre-RTL floorplanner tool for automated CMP design space exploration with thermal awareness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:VOx2b1Wkg3QC",
+            "citation_id": "e3z7tT0AAAAJ:VOx2b1Wkg3QC",
+            "authors": "SH Gade, P Kumar, S Deb",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-6, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4248083003662552240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4248083003662552240&engine=google_scholar&hl=en",
+                "cites_id": "4248083003662552240"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "A multi-signal acquisition system for preventive cardiology with cuff-less BP measurement capability",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:a0OBvERweLwC",
+            "citation_id": "e3z7tT0AAAAJ:a0OBvERweLwC",
+            "authors": "M Jain, N Kumar, S Deb",
+            "publication": "2016 8th International Conference on Communication Systems and Networks \u2026, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6119019772181315538",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6119019772181315538&engine=google_scholar&hl=en",
+                "cites_id": "6119019772181315538"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "MAC based FIR filter: A novel approach for low-power real-time de-noising of ECG signals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:NaGl4SEjCO4C",
+            "citation_id": "e3z7tT0AAAAJ:NaGl4SEjCO4C",
+            "authors": "R Kaur, R Malhotra, S Deb",
+            "publication": "2015 19th International Symposium on VLSI Design and Test, 1-5, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7756926594132262568",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7756926594132262568&engine=google_scholar&hl=en",
+                "cites_id": "7756926594132262568"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Sniffer: A machine learning approach for DoS attack localization in NoC-based SoCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:0KyAp5RtaNEC",
+            "citation_id": "e3z7tT0AAAAJ:0KyAp5RtaNEC",
+            "authors": "M Sinha, S Gupta, SS Rout, S Deb",
+            "publication": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems 11 (2 \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7446504023821303067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7446504023821303067&engine=google_scholar&hl=en",
+                "cites_id": "7446504023821303067"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Design space optimization of shared memory architecture in accelerator-rich systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:VLnqNzywnoUC",
+            "citation_id": "e3z7tT0AAAAJ:VLnqNzywnoUC",
+            "authors": "M Sinha, GS Harsha, P Bhattacharyya, S Deb",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 26 (4 \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17815340117891867239",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17815340117891867239&engine=google_scholar&hl=en",
+                "cites_id": "17815340117891867239"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "WiND: An Efficient Post-Silicon Debug Strategy for Network on Chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:j8SEvjWlNXcC",
+            "citation_id": "e3z7tT0AAAAJ:j8SEvjWlNXcC",
+            "authors": "SS Rout, S Deb, K Basu",
+            "publication": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9059677712293662047",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9059677712293662047&engine=google_scholar&hl=en",
+                "cites_id": "9059677712293662047"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Bootstrapping Circuit with IGZO TFTs for On-Chip Power Supply Generation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ZuybSZzF8UAC",
+            "citation_id": "e3z7tT0AAAAJ:ZuybSZzF8UAC",
+            "authors": "N Wadhwa, PG Bahubalindruni, S Deb, P Barquinha",
+            "publication": "2019 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18220880101358922965",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18220880101358922965&engine=google_scholar&hl=en",
+                "cites_id": "18220880101358922965"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A low-cost smart vein viewer system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:PR6Y55bgFSsC",
+            "citation_id": "e3z7tT0AAAAJ:PR6Y55bgFSsC",
+            "authors": "S Jindal, W Singh, S Deb",
+            "publication": "2018 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8659026829358014985",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8659026829358014985&engine=google_scholar&hl=en",
+                "cites_id": "8659026829358014985"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Exploration of real value modelling for complex mixed signal verification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:35N4QoGY0k4C",
+            "citation_id": "e3z7tT0AAAAJ:35N4QoGY0k4C",
+            "authors": "P Das, S Deb",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11811954803608413408",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11811954803608413408&engine=google_scholar&hl=en",
+                "cites_id": "11811954803608413408"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Reliability enhancement of SoCs based on dynamic memory access profiling in conjunction with PVT monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "e3z7tT0AAAAJ:Wp0gIr-vW9MC",
+            "authors": "D Baranwal, D Singh, K Soyeb, SS Rout, S Deb",
+            "publication": "2015 28th International Conference on VLSI Design, 541-546, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6957075231222071576",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6957075231222071576&engine=google_scholar&hl=en",
+                "cites_id": "6957075231222071576"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Energy-Efficient Network-on-Chip Architectures for Multi-Core Systems.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:2KloaMYe4IUC",
+            "citation_id": "e3z7tT0AAAAJ:2KloaMYe4IUC",
+            "authors": "PP Pande, A Ganguly, S Deb, K Chang",
+            "publication": "Handbook of Energy-Aware and Green Computing, 21-47, 2012",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15469988621361173941",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15469988621361173941&engine=google_scholar&hl=en",
+                "cites_id": "15469988621361173941"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Cuff-Less Estimation of Blood Pressure Using Pulse Transit Time and Prc-ejeclion Period",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:uWiczbcajpAC",
+            "citation_id": "e3z7tT0AAAAJ:uWiczbcajpAC",
+            "authors": "D SUJAY, C NANDA, JM D GOSWAMI, S CHAKRABATI",
+            "publication": "ICCIT 2007 the 2007 International Conference on Convergence Information \u2026, 2007",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9815632373868804665",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9815632373868804665&engine=google_scholar&hl=en",
+                "cites_id": "9815632373868804665"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Determination of SpO2 by Spectral Analysis of Data from a Low Cost Pulse Oximeter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:eQOLeE2rZwMC",
+            "citation_id": "e3z7tT0AAAAJ:eQOLeE2rZwMC",
+            "authors": "AK Jain, S Deb, D Goswami, A Barua, J Mukhopadhyay, S Chakrabarti",
+            "publication": "Indian Conference on Medical Informatics and Telemedicine (ICMIT), December 2006, 2006",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5340282954139127612",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5340282954139127612&engine=google_scholar&hl=en",
+                "cites_id": "5340282954139127612"
+            },
+            "year": "2006"
+        },
+        {
+            "title": "Securing an accelerator-rich system from flooding-based denial-of-service attacks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:uJ-U7cs_P_0C",
+            "citation_id": "e3z7tT0AAAAJ:uJ-U7cs_P_0C",
+            "authors": "M Sinha, P Bhattacharyya, SS Rout, NB Prakriya, S Deb",
+            "publication": "IEEE Transactions on Emerging Topics in Computing, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5490017880278986517",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5490017880278986517&engine=google_scholar&hl=en",
+                "cites_id": "5490017880278986517"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Security Threats in Channel Access Mechanism of Wireless NoC and Efficient Countermeasures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:fEOibwPWpKIC",
+            "citation_id": "e3z7tT0AAAAJ:fEOibwPWpKIC",
+            "authors": "SS Rout, A Singh, SB Patil, M Sinha, S Deb",
+            "publication": "2020 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9701935481094164576",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9701935481094164576&engine=google_scholar&hl=en",
+                "cites_id": "9701935481094164576"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Robust linear sampling switch for low-voltage SAR ADCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:7T2F9Uy0os0C",
+            "citation_id": "e3z7tT0AAAAJ:7T2F9Uy0os0C",
+            "authors": "B Tiwari, PG Bahubalindruni, S Deb, J Goes",
+            "publication": "Analog Integrated Circuits and Signal Processing 103 (2), 345-353, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1885034182536575744",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1885034182536575744&engine=google_scholar&hl=en",
+                "cites_id": "1885034182536575744"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "RCAS: Critical Load Based Ranking for Efficient Channel Allocation in Wireless NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:_Re3VWB3Y0AC",
+            "citation_id": "e3z7tT0AAAAJ:_Re3VWB3Y0AC",
+            "authors": "SS Rout, VI Chaudhari, SB Patil, S Deb",
+            "publication": "2019 32nd IEEE International System-on-Chip Conference (SOCC), 21-26, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15190382366218099655",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15190382366218099655&engine=google_scholar&hl=en",
+                "cites_id": "15190382366218099655"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A high-efficient current-mode PWM DC-DC Buck converter using dynamic frequency scaling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:_B80troHkn4C",
+            "citation_id": "e3z7tT0AAAAJ:_B80troHkn4C",
+            "authors": "A Rehani, S Deb, PG Bahubalindruni, B Odedara, S Bojja",
+            "publication": "2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 464-469, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4771770461569586256",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4771770461569586256&engine=google_scholar&hl=en",
+                "cites_id": "4771770461569586256"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Biopotential acquisition unit for energy-efficient wearable health monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:HE397vMXCloC",
+            "citation_id": "e3z7tT0AAAAJ:HE397vMXCloC",
+            "authors": "W Singh, S Deb",
+            "publication": "IET Cyber-Physical Systems: Theory & Applications 3 (2), 73-80, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1547462897948589968",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1547462897948589968&engine=google_scholar&hl=en",
+                "cites_id": "1547462897948589968"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Millimeter wave wireless interconnects in deep submicron chips: Challenges and opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:dQ2og3OwTAUC",
+            "citation_id": "e3z7tT0AAAAJ:dQ2og3OwTAUC",
+            "authors": "SH Gade, SS Ram, S Deb",
+            "publication": "Integration, the VLSI Journal 30, 1-10, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15441486616394199867",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15441486616394199867&engine=google_scholar&hl=en",
+                "cites_id": "15441486616394199867"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Smart mobility solution with multiple input Output interface",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:5Ul4iDaHHb8C",
+            "citation_id": "e3z7tT0AAAAJ:5Ul4iDaHHb8C",
+            "authors": "A Sethi, S Deb, P Ranjan, A Sardar",
+            "publication": "2017 39th Annual International Conference of the IEEE Engineering in \u2026, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11956897120031054917",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11956897120031054917&engine=google_scholar&hl=en",
+                "cites_id": "11956897120031054917"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Cuffless BP measurement using a correlation study of pulse transient time and heart rate",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:738O_yMBCRsC",
+            "citation_id": "e3z7tT0AAAAJ:738O_yMBCRsC",
+            "authors": "S Deb, A Agrawal, N Kumar",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5359845811661850035",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5359845811661850035&engine=google_scholar&hl=en",
+                "cites_id": "5359845811661850035"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Energy-efficient reconfigurable framework for evaluating hybrid NoCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:D_sINldO8mEC",
+            "citation_id": "e3z7tT0AAAAJ:D_sINldO8mEC",
+            "authors": "R Kishore, HK Mondal, S Deb",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-2, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12261131231890907854",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12261131231890907854&engine=google_scholar&hl=en",
+                "cites_id": "12261131231890907854"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "An effective and efficient algorithm to analyse and debug clock propagation issues",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:fQNAKQ3IYiAC",
+            "citation_id": "e3z7tT0AAAAJ:fQNAKQ3IYiAC",
+            "authors": "P Sehgal, A Sharma, AC Mishra, R Ramanujam, S Deb",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-6, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3340311339934701137",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3340311339934701137&engine=google_scholar&hl=en",
+                "cites_id": "3340311339934701137"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Pharmacognostical and preliminary phytochemical screening of the leaf Phlogacanthus thyrsiformis (Roxb. ex Hardw) Mabb.(Acanthaceae)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:BrmTIyaxlBUC",
+            "citation_id": "e3z7tT0AAAAJ:BrmTIyaxlBUC",
+            "authors": "U Sharma, S Deb, S Das, RK Sahu",
+            "publication": "Journal of Pharmaceutical Chemical and Biological Science 4 (2), 135-141, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11520338304073831119",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11520338304073831119&engine=google_scholar&hl=en",
+                "cites_id": "11520338304073831119"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Smart and efficient multi-scenario SoC timing closure and ECO generator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:vV6vV6tmYwMC",
+            "citation_id": "e3z7tT0AAAAJ:vV6vV6tmYwMC",
+            "authors": "A Sharma, S Deb",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12827771753459890215",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12827771753459890215&engine=google_scholar&hl=en",
+                "cites_id": "12827771753459890215"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Fodder beet\u2013A nutritive and high yielding fodder crop suitable for salt affected soils of arid regions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:4fKUyHm3Qg0C",
+            "citation_id": "e3z7tT0AAAAJ:4fKUyHm3Qg0C",
+            "authors": "SPS Tanwar, A Singh, SM Deb, V Khandelwal, BS Jodha",
+            "publication": "Annals of Arid Zone 52 (1), 23-25, 2013",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2736333175146643248",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2736333175146643248&engine=google_scholar&hl=en",
+                "cites_id": "2736333175146643248"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "A Proposition for Low Cost Preventive Cardiology for Rural Health Care System",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:WF5omc3nYNoC",
+            "citation_id": "e3z7tT0AAAAJ:WF5omc3nYNoC",
+            "authors": "S Deb, D Goswami, J Mukhopadhyay, S Chakrabarti",
+            "publication": "International Conference on e-Health Asia, Malaysia, 2007",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13145767323536997782",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13145767323536997782&engine=google_scholar&hl=en",
+                "cites_id": "13145767323536997782"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Interconnect Support for Energy Efficient and High Bandwidth Memory Access in CMPs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:BUYA1_V_uYcC",
+            "citation_id": "e3z7tT0AAAAJ:BUYA1_V_uYcC",
+            "authors": "HK Mondal, S Konar, P Hore, R Patra, P Sarkar, S Deb",
+            "publication": "Sustainable Computing: Informatics and Systems, 100720, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "A Study on Securing Data in Smart Healthcare Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&pagesize=100&citation_for_view=e3z7tT0AAAAJ:vDijr-p_gm4C",
+            "citation_id": "e3z7tT0AAAAJ:vDijr-p_gm4C",
+            "authors": "S Hussain, S Deb",
+            "publication": "2021 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Smart Camera for Enforcing Social Distancing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:zLWjf1WUPmwC",
+            "citation_id": "e3z7tT0AAAAJ:zLWjf1WUPmwC",
+            "authors": "A Gupta, D Thapar, S Deb",
+            "publication": "2021 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A Novel Hybrid Cache Coherence with Global Snooping for Many-core Architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:EkHepimYqZsC",
+            "citation_id": "e3z7tT0AAAAJ:EkHepimYqZsC",
+            "authors": "SH Gade, S Deb",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 27 (1 \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Mostly Passive \u0394\u2212 \u03a3 ADC with a-IGZO TFTs for Flexible Electronics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:t7zJ5fGR-2UC",
+            "citation_id": "e3z7tT0AAAAJ:t7zJ5fGR-2UC",
+            "authors": "N Wadhwa, P Bahubalindruni, A Correia, J Goes, S Deb, P Barquinha",
+            "publication": "2021 IEEE International Symposium on Circuits and Systems (ISCAS), 1-6, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Switched capacitor low\u2010pass filter with amorphous indium\u2010gallium\u2010zinc\u2010oxide thin\u2010film transistors on flexible substrate",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:z_wVstp3MssC",
+            "citation_id": "e3z7tT0AAAAJ:z_wVstp3MssC",
+            "authors": "N Wadhwa, PG Bahubalindruni, S Pedda, M Gupta, PK Mahato, D Gupta, ...",
+            "publication": "Electronics Letters 57 (10), 410-411, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Flexible electronics based efficient front-end circuits for noninvasive continuous health monitoring in biomedical wearable devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:uc_IGeMz5qoC",
+            "citation_id": "e3z7tT0AAAAJ:uc_IGeMz5qoC",
+            "authors": "PGM Bahubalindruni, S Deb",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "NoC Post-Silicon Validation and Debug",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:XD-gHx7UXLsC",
+            "citation_id": "e3z7tT0AAAAJ:XD-gHx7UXLsC",
+            "authors": "SS Rout, M Sinha, S Deb",
+            "publication": "Network-on-Chip Security and Privacy, 339-369, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Designing of an Optimization Technique for the Prediction of CTS Outcomes using Neural Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:9Nmd_mFXekcC",
+            "citation_id": "e3z7tT0AAAAJ:9Nmd_mFXekcC",
+            "authors": "S Nagaria, S Deb",
+            "publication": "2020 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Security aspects in wireless network-on-chips: analysis and proposal of new threat models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:yB1At4FlUx8C",
+            "citation_id": "e3z7tT0AAAAJ:yB1At4FlUx8C",
+            "authors": "A Singh, S Deb",
+            "publication": "IIIT Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Efficient communication in heterogeneous architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:-_dYPAW6P2MC",
+            "citation_id": "e3z7tT0AAAAJ:-_dYPAW6P2MC",
+            "authors": "NSH Gade, S Deb",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Energy-and Performance-Aware Router Design for Chip Multiprocessors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:W5xh706n7nkC",
+            "citation_id": "e3z7tT0AAAAJ:W5xh706n7nkC",
+            "authors": "W Singh, S Deb",
+            "publication": "2019 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Near Threshold Last Level Cache for Energy Efficient Embedded Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:hkOj_22Ku90C",
+            "citation_id": "e3z7tT0AAAAJ:hkOj_22Ku90C",
+            "authors": "M Sinha, SS Rout, SH Gade, S Deb",
+            "publication": "2018 Ninth International Green and Sustainable Computing Conference (IGSC), 1-6, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A PVT Insensitive Low-Power Differential Ring Oscillator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:VL0QpB8kHFEC",
+            "citation_id": "e3z7tT0AAAAJ:VL0QpB8kHFEC",
+            "authors": "N Wadhwa, PG Bahubalindruni, S Deb",
+            "publication": "International Symposium on VLSI Design and Test, 77-87, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Low swing NAND I/O transmitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:SdhP9T11ey4C",
+            "citation_id": "e3z7tT0AAAAJ:SdhP9T11ey4C",
+            "authors": "S Shukla, S Deb",
+            "publication": "IIIT-D, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A High-e cient current-mode PWM DC-DC buck converter using dynamic frequency scaling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:9vf0nzSNQJEC",
+            "citation_id": "e3z7tT0AAAAJ:9vf0nzSNQJEC",
+            "authors": "A Rehani, S Deb, PGM Bahubalindruni, B Odedara",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Enhancing Retention Voltage for SRAM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:mvPsJ3kp5DgC",
+            "citation_id": "e3z7tT0AAAAJ:mvPsJ3kp5DgC",
+            "authors": "A Rehani, S Deb, S Shukla",
+            "publication": "International Symposium on VLSI Design and Test, 406-413, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Pseudo-BIST: A Novel Technique for SAR-ADC Testing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:eflP2zaiRacC",
+            "citation_id": "e3z7tT0AAAAJ:eflP2zaiRacC",
+            "authors": "Y Gupta, S Deb, V Singh, VN Srinivasan, M Sharma, S Das",
+            "publication": "International Symposium on VLSI Design and Test, 168-178, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "2017 Index IEEE Transactions on Multi-Scale Computing Systems Vol. 3",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:WA5NYHcadZ8C",
+            "citation_id": "e3z7tT0AAAAJ:WA5NYHcadZ8C",
+            "authors": "AO Akmandor, MA Al Faruque, RA Beyah, BB Bhattacharya, ...",
+            "publication": "Complexity 72, 85, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Tutorial T8: Communication Infrastructure for Future Exascale Processors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:tOudhMTPpwUC",
+            "citation_id": "e3z7tT0AAAAJ:tOudhMTPpwUC",
+            "authors": "S Deb, SH Gade, HK Mondal",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Wavelet transform learning and applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:uLbwQdceFCQC",
+            "citation_id": "e3z7tT0AAAAJ:uLbwQdceFCQC",
+            "authors": "N Ansari, A Gupta",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "An Efficient Approach Targeting Broken Topological Clock Path for Master\u2014Generated Clock Pair",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:K3LRdlH-MEoC",
+            "citation_id": "e3z7tT0AAAAJ:K3LRdlH-MEoC",
+            "authors": "P Sehgal, AC Mishra, R Ramanujam, S Deb",
+            "publication": "2016 IEEE International Symposium on Nanoelectronic and Information Systems \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "A scalable solution for cache coherence in many-core systems using share-pattern aware cache segmentation and hybrid network-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:tS2w5q8j5-wC",
+            "citation_id": "e3z7tT0AAAAJ:tS2w5q8j5-wC",
+            "authors": "A Ganguly, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "An effective and efficient methodology for SoC power management through UPF",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:p2g8aNsByqUC",
+            "citation_id": "e3z7tT0AAAAJ:p2g8aNsByqUC",
+            "authors": "R Anusha, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Evaluation framework for technology agnostic hybrid NoC architecture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:OU6Ihb5iCvQC",
+            "citation_id": "e3z7tT0AAAAJ:OU6Ihb5iCvQC",
+            "authors": "R Kishore, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Mixed Mode Simulation and Verification of SSCG PLL through Real Value Modeling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:dfsIfKJdRG4C",
+            "citation_id": "e3z7tT0AAAAJ:dfsIfKJdRG4C",
+            "authors": "P Das, JK Yadav, S Deb",
+            "publication": "2016 29th International Conference on VLSI Design and 2016 15th \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Power estimation using transaction level modeling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:vRqMK49ujn8C",
+            "citation_id": "e3z7tT0AAAAJ:vRqMK49ujn8C",
+            "authors": "N Chandoke, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Development and enhancement of verification environment for complex designs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:70eg2SAEIzsC",
+            "citation_id": "e3z7tT0AAAAJ:70eg2SAEIzsC",
+            "authors": "R Madan, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Estimation of inter-symbol interference using clock pattern",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:J_g5lzvAfSwC",
+            "citation_id": "e3z7tT0AAAAJ:J_g5lzvAfSwC",
+            "authors": "VK Sharma, JN Tripathi, R Nagpal, S Deb, R Malik",
+            "publication": "2015 16th International Conference on Electronic Packaging Technology (ICEPT \u2026, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A novel approach to Reusable Time-economized STIL based pattern development",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:RGFaLdJalmkC",
+            "citation_id": "e3z7tT0AAAAJ:RGFaLdJalmkC",
+            "authors": "R Malhotra, S Deb, F Carlucci",
+            "publication": "2015 19th International Symposium on VLSI Design and Test, 1-5, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Comparative Study of Different Switch Implementations for Ook Modulator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:4DMP91E08xMC",
+            "citation_id": "e3z7tT0AAAAJ:4DMP91E08xMC",
+            "authors": "N Chitkara, N Chandoke, S Deb",
+            "publication": "2014 International Conference on Devices, Circuits and Communications \u2026, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Analysis and estimation of jitter sub-components",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:YOwf2qJgpHMC",
+            "citation_id": "e3z7tT0AAAAJ:YOwf2qJgpHMC",
+            "authors": "VK Sharma, S Deb",
+            "publication": "IIIT Delhi, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Reliability aware intelligent memory management (RAIMM)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ULOm3_A8WrAC",
+            "citation_id": "e3z7tT0AAAAJ:ULOm3_A8WrAC",
+            "authors": "SS Rout, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "UVM based STBUS veri cation IP for verifying SoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:Zph67rFs4hoC",
+            "citation_id": "e3z7tT0AAAAJ:Zph67rFs4hoC",
+            "authors": "P Samanta, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Subject: Applications are invited for one Research Associate position for DST INSPIRE sponsored project.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:3s1wT3WcHBgC",
+            "citation_id": "e3z7tT0AAAAJ:3s1wT3WcHBgC",
+            "authors": "S Deb, SS Ram",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Subject: Walk-in Interview for Research Assistant position at IIIT Delhi.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:_xSYboBqXhAC",
+            "citation_id": "e3z7tT0AAAAJ:_xSYboBqXhAC",
+            "authors": "A Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Subject: Walk-in Interview for Research Assistant position for project on Biomedical System Engineering at IIIT Delhi.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ZHo1McVdvXMC",
+            "citation_id": "e3z7tT0AAAAJ:ZHo1McVdvXMC",
+            "authors": "A Singh, S Deb",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Energy-E\ufb03cient Network-on-Chip Architectures for Multi-Core Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:t6usbXjVLHcC",
+            "citation_id": "e3z7tT0AAAAJ:t6usbXjVLHcC",
+            "authors": "P Pande, A Ganguly, S Deb, K Chang",
+            "publication": "Handbook of Energy-Aware and Green Computing, Volume 1, 39-66, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Wave propagation through periodic waveguides: a numerical simulation method [2212-32]",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:zA6iFVUQeVQC",
+            "citation_id": "e3z7tT0AAAAJ:zA6iFVUQeVQC",
+            "authors": "A Sharma, S Deb",
+            "publication": "PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 298-298, 1994",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1994"
+        },
+        {
+            "title": "Operating insurance (computer system protection)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:_Ybze24A_UAC",
+            "citation_id": "e3z7tT0AAAAJ:_Ybze24A_UAC",
+            "authors": "S Deb",
+            "publication": "IEEE Potentials 11 (2), 42-44, 1992",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1992"
+        },
+        {
+            "title": "Field controlled plasmas in doped semiconductors and modulation of mm waves(Field controlled plasmas in doped semiconductors and modulation of millimeter and submilliter waves \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:P5F9QuxV20EC",
+            "citation_id": "e3z7tT0AAAAJ:P5F9QuxV20EC",
+            "authors": "S DEB",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1965"
+        },
+        {
+            "title": "2021 IEEE International Symposium on Smart Electronic Systems (iSES)| 978-1-7281-8753-2/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109/iSES52644. 2021.00108",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:epqYDVWIO7EC",
+            "citation_id": "e3z7tT0AAAAJ:epqYDVWIO7EC",
+            "authors": "NO Adesina, S Agrawal, R Ahmad, SE Ahmed, J Akasam, A Alghamdi, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Technical Program Committee Members",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ipzZ9siozwsC",
+            "citation_id": "e3z7tT0AAAAJ:ipzZ9siozwsC",
+            "authors": "A Shrivastava, A Acharya, S Surat, A Mondal, NITA Pradesh, A Singh, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Bapat, Jyotsna 115 Basu, Subhashree 143 Bhaaskaran, VS Kanchana 109, 281 Bhusal, Hari 242",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:nrtMV_XWKgEC",
+            "citation_id": "e3z7tT0AAAAJ:nrtMV_XWKgEC",
+            "authors": "D Biswal, A Biswas, S Bodapati, S Borah, B BP, LR Cenkeramaddi, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "PHARMACOGNOSTICAL EVALUATION OF AERIAL PARTS OF IPOMOEA AQUATICA FORSK.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:tzM49s52ZIMC",
+            "citation_id": "e3z7tT0AAAAJ:tzM49s52ZIMC",
+            "authors": "S Deb, U Sharma, S Das, A Chowdhury",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Cristinel Ababei 255 KN Abhilash 347 Mohamed Abid 204 Cristhian Manuel Duran",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:ZfRJV9d4-WMC",
+            "citation_id": "e3z7tT0AAAAJ:ZfRJV9d4-WMC",
+            "authors": "I Akkawi, A Akogluy, SL Alarcon, A Aldammas, A Al-Dhelaan, S Ardalan, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Umar Albalawi, University of Tabuk Yamuna B, Amrita Vishwa Vidyapeetham YBN Kumar, National Institute of Technology Goa Yaser Banadaki, Southern University, Baton Rouge",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:Fu2w8maKXqMC",
+            "citation_id": "e3z7tT0AAAAJ:Fu2w8maKXqMC",
+            "authors": "TP Banerjee, HS Bhamra, O Boncalo, DB Licea, M Borowczak, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Energy Efficient Chip-to-Chip Wireless Interconnection for Heterogeneous Architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:UHK10RUVsp4C",
+            "citation_id": "e3z7tT0AAAAJ:UHK10RUVsp4C",
+            "authors": "",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "2017 Index IEEE Transactions on Sustainable Computing Vol. 2",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:Mojj43d5GZwC",
+            "citation_id": "e3z7tT0AAAAJ:Mojj43d5GZwC",
+            "authors": "A Ahmad, M Aiello, A Ali-Eldin, F Alvares, P Alvarez, P Amirian, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "CardioWatch: An Initiative Towards Affordable Preventive Cardiovascular Healthcare",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:bnK-pcrLprsC",
+            "citation_id": "e3z7tT0AAAAJ:bnK-pcrLprsC",
+            "authors": "S Deb, N Kumar, R Gupta",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Pharmacognostic Study and Develoment of Quality Parameters of Aerial Part of Plant Enhydra fluctuans Dc.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:q3oQSFYPqjQC",
+            "citation_id": "e3z7tT0AAAAJ:q3oQSFYPqjQC",
+            "authors": "S Deb, U Sharma, S Das, R Sahu",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Track-wise list of papers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:eJXPG6dFmWUC",
+            "citation_id": "e3z7tT0AAAAJ:eJXPG6dFmWUC",
+            "authors": "S Khandelwal, J Meena, L Garg, D Boolchandani, P Sharma, AK Gundu, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Vittorio Zaccaria C\u00e9sar Zeferino",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "e3z7tT0AAAAJ:nb7KW1ujOQ8C",
+            "authors": "N Agarwal, M Al Faruque, A Amory, M Azimi, A Banerjee, A Biberman, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Raaed Aldujaily Rachata Ausavarungnirun Radu David Radu Stefan",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:roLk4NBRz8UC",
+            "citation_id": "e3z7tT0AAAAJ:roLk4NBRz8UC",
+            "authors": "R Hendry, B Daya, C Fallin, D Mirzoyan, D Lee, E Cota, F Hameed, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Program Chair, ICAPR \u201809",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=e3z7tT0AAAAJ&cstart=100&pagesize=100&citation_for_view=e3z7tT0AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "e3z7tT0AAAAJ:LkGwnXOMwfcC",
+            "authors": "D Mitra, R Chatterjee, D Shaw, SS Das, S Deb, B Chanda",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 2233,
+                    "since_2017": 1395
+                }
+            },
+            {
+                "h_index": {
+                    "all": 22,
+                    "since_2017": 20
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 38,
+                    "since_2017": 31
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2010,
+                "citations": 7
+            },
+            {
+                "year": 2011,
+                "citations": 20
+            },
+            {
+                "year": 2012,
+                "citations": 64
+            },
+            {
+                "year": 2013,
+                "citations": 104
+            },
+            {
+                "year": 2014,
+                "citations": 158
+            },
+            {
+                "year": 2015,
+                "citations": 160
+            },
+            {
+                "year": 2016,
+                "citations": 256
+            },
+            {
+                "year": 2017,
+                "citations": 295
+            },
+            {
+                "year": 2018,
+                "citations": 287
+            },
+            {
+                "year": 2019,
+                "citations": 288
+            },
+            {
+                "year": 2020,
+                "citations": 211
+            },
+            {
+                "year": 2021,
+                "citations": 235
+            },
+            {
+                "year": 2022,
+                "citations": 74
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=e3z7tT0AAAAJ",
+        "available": 14,
+        "not_available": 4
+    },
+    "co_authors": [
+        {
+            "name": "Sri Harsha Gade",
+            "link": "https://scholar.google.com/citations?user=rsH6pfgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rsH6pfgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rsH6pfgAAAAJ",
+            "affiliations": "ARM Embedded Technologies Ltd.",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rsH6pfgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Amlan Ganguly",
+            "link": "https://scholar.google.com/citations?user=tuWDm5kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tuWDm5kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tuWDm5kAAAAJ",
+            "affiliations": "Associate Professor of Computer Engineering, Rochester Institute of Technology",
+            "email": "Verified email at rit.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tuWDm5kAAAAJ&citpid=2"
+        },
+        {
+            "name": "Partha Pande",
+            "link": "https://scholar.google.com/citations?user=LcbWF44AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LcbWF44AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "LcbWF44AAAAJ",
+            "affiliations": "Washington State University",
+            "email": "Verified email at wsu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LcbWF44AAAAJ&citpid=2"
+        },
+        {
+            "name": "Sidhartha Sankar Rout",
+            "link": "https://scholar.google.com/citations?user=2A34nJIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2A34nJIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2A34nJIAAAAJ",
+            "affiliations": "PhD Scholar, Indraprastha Institute of Information Technology Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2A34nJIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Xinmin Yu",
+            "link": "https://scholar.google.com/citations?user=sAH_YqoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sAH_YqoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "sAH_YqoAAAAJ",
+            "affiliations": "Qualcomm Inc.",
+            "email": "Verified email at eecs.wsu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Wazir Singh",
+            "link": "https://scholar.google.com/citations?user=h60AZKYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h60AZKYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h60AZKYAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h60AZKYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Suman Sah",
+            "link": "https://scholar.google.com/citations?user=yFJmPM0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yFJmPM0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yFJmPM0AAAAJ",
+            "affiliations": "Maxlinear, Inc",
+            "email": "Verified email at maxlinear.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yFJmPM0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Christof Teuscher",
+            "link": "https://scholar.google.com/citations?user=qUpC6TEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qUpC6TEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qUpC6TEAAAAJ",
+            "affiliations": "Professor of Electrical and Computer Engineering, Portland State University",
+            "email": "Verified email at teuscher.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qUpC6TEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Mitali Sinha",
+            "link": "https://scholar.google.com/citations?user=tsn4SxwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tsn4SxwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tsn4SxwAAAAJ",
+            "affiliations": "PHD Scholar at Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tsn4SxwAAAAJ&citpid=3"
+        },
+        {
+            "name": "SASWAT CHAKRABARTI",
+            "link": "https://scholar.google.com/citations?user=7zHOackAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7zHOackAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7zHOackAAAAJ",
+            "affiliations": "Professor, GS Sanyal School of Telecommunications at IIT Kharagpur",
+            "email": "Verified email at ece.iitkgp.ernet.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7zHOackAAAAJ&citpid=2"
+        },
+        {
+            "name": "Md Shahriar Shamim",
+            "link": "https://scholar.google.com/citations?user=7KnZ7ocAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7KnZ7ocAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7KnZ7ocAAAAJ",
+            "affiliations": "Apple Inc",
+            "email": "Verified email at apple.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7KnZ7ocAAAAJ&citpid=2"
+        },
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ankita Shukla",
+            "link": "https://scholar.google.com/citations?user=c-S0ouYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c-S0ouYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c-S0ouYAAAAJ",
+            "affiliations": "Arizona State University",
+            "email": "Verified email at asu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c-S0ouYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vijender Kumar Sharma",
+            "link": "https://scholar.google.com/citations?user=xyJrPGkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xyJrPGkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "xyJrPGkAAAAJ",
+            "affiliations": "Indian Institute of Technology Mandi",
+            "email": "Verified email at projects.iitmandi.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xyJrPGkAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dr. Suman Deb",
+            "link": "https://scholar.google.com/citations?user=zYH7wmAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zYH7wmAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "zYH7wmAAAAAJ",
+            "affiliations": "Computer Science and Engineering , National institute of Technology Agartala",
+            "email": "Verified email at nita.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zYH7wmAAAAAJ&citpid=6"
+        },
+        {
+            "name": "Naseef Mansoor",
+            "link": "https://scholar.google.com/citations?user=5iCdyzIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5iCdyzIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "5iCdyzIAAAAJ",
+            "affiliations": "Assistant Professor, Computer Information Science, Minnesota State University, Mankato",
+            "email": "Verified email at mnsu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5iCdyzIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Monika Jain",
+            "link": "https://scholar.google.com/citations?user=M9IXtmsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=M9IXtmsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "M9IXtmsAAAAJ",
+            "affiliations": "JECRC University, Jaipur",
+            "email": "Verified email at jecrcu.edu.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?author_id=e3z7tT0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=100"
+    }
+}

@@ -1,0 +1,1294 @@
+{
+    "search_metadata": {
+        "id": "6256df6c1baebb82f0ff3a94",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/649d4a1e3e4f3952/6256df6c1baebb82f0ff3a94.json",
+        "created_at": "2022-04-13 14:34:20 UTC",
+        "processed_at": "2022-04-13 14:34:20 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=qyth_0QAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/649d4a1e3e4f3952/6256df6c1baebb82f0ff3a94.html",
+        "total_time_taken": 0.8,
+        "total_articles": 72,
+        "total_co_authors": 20
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "qyth_0QAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Ganesh Bagler",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://cosylab.iiitd.edu.in/",
+        "interests": [
+            {
+                "title": "Complex Systems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:complex_systems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomplex_systems"
+            },
+            {
+                "title": "Computational Biology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_biology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_biology"
+            },
+            {
+                "title": "Computational Gastronomy",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_gastronomy",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_gastronomy"
+            },
+            {
+                "title": "Bioinformatics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bioinformatics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abioinformatics"
+            },
+            {
+                "title": "Network Science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_science"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qyth_0QAAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "Analysis of the airport network of India as a complex weighted network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "qyth_0QAAAAJ:u5HHmVD_uO8C",
+            "authors": "G Bagler",
+            "publication": "Physica A: Statistical Mechanics and its Applications 387 (12), 2972-2980, 2008",
+            "cited_by": {
+                "value": 529,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1269400912633862568",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1269400912633862568&engine=google_scholar&hl=en",
+                "cites_id": "1269400912633862568"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Network properties of protein structures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "qyth_0QAAAAJ:u-x6o8ySG0sC",
+            "authors": "G Bagler, S Sinha",
+            "publication": "Physica A: Statistical Mechanics and its Applications 346 (1-2), 27-33, 2005",
+            "cited_by": {
+                "value": 153,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2679467309993374521",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2679467309993374521&engine=google_scholar&hl=en",
+                "cites_id": "2679467309993374521"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Assortative mixing in protein contact networks and protein folding kinetics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "qyth_0QAAAAJ:d1gkVwhDpl0C",
+            "authors": "G Bagler, S Sinha",
+            "publication": "Bioinformatics 23 (14), 1760-1767, 2007",
+            "cited_by": {
+                "value": 146,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3974246692605573269",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3974246692605573269&engine=google_scholar&hl=en",
+                "cites_id": "3974246692605573269"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Engineering a thermo-stable superoxide dismutase functional at sub-zero to >50 \u00b0C, which also tolerates autoclaving",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "qyth_0QAAAAJ:eQOLeE2rZwMC",
+            "authors": "A Kumar, S Dutt, G Bagler, PS Ahuja, S Kumar",
+            "publication": "Scientific Reports (Nature Publishing Group) 2 (387), 1-8, 2012",
+            "cited_by": {
+                "value": 96,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17381576329616799000",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17381576329616799000&engine=google_scholar&hl=en",
+                "cites_id": "17381576329616799000"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Tyrosine-and tryptophan-coated gold nanoparticles inhibit amyloid aggregation of insulin",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:9DLIHnF0jcYC",
+            "citation_id": "qyth_0QAAAAJ:9DLIHnF0jcYC",
+            "authors": "K Dubey, BG Anand, R Badhwar, G Bagler, PN Navya, HK Daima, K Kar",
+            "publication": "Amino acids 47 (12), 2551-2560, 2015",
+            "cited_by": {
+                "value": 86,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7539011485095465830",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7539011485095465830&engine=google_scholar&hl=en",
+                "cites_id": "7539011485095465830"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Analysis of food pairing in regional cuisines of India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:1r-w4gtu6w8C",
+            "citation_id": "qyth_0QAAAAJ:1r-w4gtu6w8C",
+            "authors": "A Jain, R NK, G Bagler",
+            "publication": "PloS one 10 (10), e0139539, 2015",
+            "cited_by": {
+                "value": 65,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18005045486963626676",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18005045486963626676&engine=google_scholar&hl=en",
+                "cites_id": "18005045486963626676"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "FlavorDB: a database of flavor molecules",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:yTLRzDEmwhEC",
+            "citation_id": "qyth_0QAAAAJ:yTLRzDEmwhEC",
+            "authors": "N Garg, A Sethupathy, R Tuwani, R Nk, S Dokania, A Iyer, A Gupta, ...",
+            "publication": "Nucleic acids research 46 (D1), D1210-D1216, 2018",
+            "cited_by": {
+                "value": 62,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15728844501333251978",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15728844501333251978&engine=google_scholar&hl=en",
+                "cites_id": "15728844501333251978"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Phytochemica: a platform to explore phytochemicals of medicinal plants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:M0leSnx2MbUC",
+            "citation_id": "qyth_0QAAAAJ:M0leSnx2MbUC",
+            "authors": "S Pathania, SM Ramakrishnan, G Bagler",
+            "publication": "Database 2015, 2015",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13249294831299845482",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13249294831299845482&engine=google_scholar&hl=en",
+                "cites_id": "13249294831299845482"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Prospecting for Novel Plant-Derived Molecules of Rauvolfia serpentina as Inhibitors of Aldose Reductase, a Potent Drug Target for Diabetes and Its Complications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:UebtZRa9Y70C",
+            "citation_id": "qyth_0QAAAAJ:UebtZRa9Y70C",
+            "authors": "S Pathania, V Randhawa, G Bagler",
+            "publication": "PLoS ONE 8 (4), e61327, 2013",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16915871961722482586",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16915871961722482586&engine=google_scholar&hl=en",
+                "cites_id": "16915871961722482586"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Spices form the basis of food pairing in Indian cuisine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:R-LXmdHK_14C",
+            "citation_id": "qyth_0QAAAAJ:R-LXmdHK_14C",
+            "authors": "A Jain, R NK, G Bagler",
+            "publication": "arXiv:1502.03815 [physics.soc-ph], 2015",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4090446402286827853",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4090446402286827853&engine=google_scholar&hl=en",
+                "cites_id": "4090446402286827853"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Identification of critical regulatory genes in cancer signaling network using controllability analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:9NZAP19TdFAC",
+            "citation_id": "qyth_0QAAAAJ:9NZAP19TdFAC",
+            "authors": "V Ravindran, V Sunitha, G Bagler",
+            "publication": "Physica A: Statistical Mechanics and its Applications 474, 134-143, 2017",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10891386846673119577",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10891386846673119577&engine=google_scholar&hl=en",
+                "cites_id": "10891386846673119577"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "An approach for the identification of targets specific to bone metastasis using cancer genes interactome and gene ontology analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:roLk4NBRz8UC",
+            "citation_id": "qyth_0QAAAAJ:roLk4NBRz8UC",
+            "authors": "S Vashisht, G Bagler",
+            "publication": "PloS one 7 (11), e49401, 2012",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8992206955927693841",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8992206955927693841&engine=google_scholar&hl=en",
+                "cites_id": "8992206955927693841"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "SerpentinaDB: a database of plant-derived molecules of Rauvolfia serpentina",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:hNSvKAmkeYkC",
+            "citation_id": "qyth_0QAAAAJ:hNSvKAmkeYkC",
+            "authors": "S Pathania, SM Ramakrishnan, V Randhawa, G Bagler",
+            "publication": "BMC complementary and alternative medicine 15 (1), 1-8, 2015",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6257307303442502408",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6257307303442502408&engine=google_scholar&hl=en",
+                "cites_id": "6257307303442502408"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Capsaicin inhibits collagen fibril formation and increases the stability of collagen fibers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:qmtmRrLr0tkC",
+            "citation_id": "qyth_0QAAAAJ:qmtmRrLr0tkC",
+            "authors": "S Perumal, K Dubey, R Badhwar, KJ George, RK Sharma, G Bagler, ...",
+            "publication": "European Biophysics Journal 44 (1), 69-76, 2015",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15928526328878815723",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15928526328878815723&engine=google_scholar&hl=en",
+                "cites_id": "15928526328878815723"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Control of neuronal network in Caenorhabditis elegans",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:PQEM9vzQD9gC",
+            "citation_id": "qyth_0QAAAAJ:PQEM9vzQD9gC",
+            "authors": "R Badhwar, G Bagler",
+            "publication": "PloS one 10 (9), e0139204, 2015",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17319162390301375277",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17319162390301375277&engine=google_scholar&hl=en",
+                "cites_id": "17319162390301375277"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "BitterSweet: building machine learning models for predicting the bitter and sweet taste of small molecules",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:ifOnle78iJkC",
+            "citation_id": "qyth_0QAAAAJ:ifOnle78iJkC",
+            "authors": "R Tuwani, S Wadhwa, G Bagler",
+            "publication": "Scientific reports 9 (1), 1-13, 2019",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8083730011589851227",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8083730011589851227&engine=google_scholar&hl=en",
+                "cites_id": "8083730011589851227"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Data-driven analysis of biomedical literature suggests broad-spectrum benefits of culinary herbs and spices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:3_LpOwP6eMYC",
+            "citation_id": "qyth_0QAAAAJ:3_LpOwP6eMYC",
+            "authors": "NK Rakhi, R Tuwani, J Mukherjee, G Bagler",
+            "publication": "PloS one 13 (5), e0198030, 2018",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2343691605012218980",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2343691605012218980&engine=google_scholar&hl=en",
+                "cites_id": "2343691605012218980"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Identification of SRC as a potent drug target for asthma, using an integrative approach of protein interactome analysis and in silico drug discovery",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:4e5Qn2KL_jwC",
+            "citation_id": "qyth_0QAAAAJ:4e5Qn2KL_jwC",
+            "authors": "V Randhawa, G Bagler",
+            "publication": "Omics: a journal of integrative biology 16 (10), 513-526, 2012",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16171324264597776186",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16171324264597776186&engine=google_scholar&hl=en",
+                "cites_id": "16171324264597776186"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Identification of key nodes of Type 2 Diabetes Mellitus protein interactome and study of their interactions with phloridzin",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "qyth_0QAAAAJ:hqOjcs7Dif8C",
+            "authors": "V Randhawa, S Purnima, B Shashi, G Bagler",
+            "publication": "OMICS: A Journal of Integrative Biology 17 (6), 302-317, 2013",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18268023103101610402",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18268023103101610402&engine=google_scholar&hl=en",
+                "cites_id": "18268023103101610402"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Network controllability analysis of intracellular signalling reveals viruses are actively controlling molecular systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:Vno172sVVMwC",
+            "citation_id": "qyth_0QAAAAJ:Vno172sVVMwC",
+            "authors": "V Ravindran, JC Nacher, T Akutsu, M Ishitsuka, A Osadcenco, V Sunitha, ...",
+            "publication": "Scientific reports 9 (1), 1-11, 2019",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17504769080701869388",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17504769080701869388&engine=google_scholar&hl=en",
+                "cites_id": "17504769080701869388"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Designing evolvable libraries using multi-body potentials",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "qyth_0QAAAAJ:zYLM7Y9cAGgC",
+            "authors": "M Lappe, G Bagler, I Filippis, H Stehr, JM Duarte, R Sathyapriya",
+            "publication": "Current opinion in biotechnology 20 (4), 437-446, 2009",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9693715052332728052",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9693715052332728052&engine=google_scholar&hl=en",
+                "cites_id": "9693715052332728052"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "Complex Network view of performance and risks on Airport Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "qyth_0QAAAAJ:9yKSN-GCB0IC",
+            "authors": "G Bagler",
+            "publication": "arXiv preprint arXiv:0805.0924, 2008",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15888108507955720021",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15888108507955720021&engine=google_scholar&hl=en",
+                "cites_id": "15888108507955720021"
+            },
+            "year": "2008"
+        },
+        {
+            "title": "Differential network analysis reveals evolutionary complexity in secondary metabolism of Rauvolfia serpentina over Catharanthus roseus",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:KS-xo-ZNxMsC",
+            "citation_id": "qyth_0QAAAAJ:KS-xo-ZNxMsC",
+            "authors": "S Pathania, G Bagler, PS Ahuja",
+            "publication": "Frontiers in plant science 7, 1229, 2016",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14293624959026612892",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14293624959026612892&engine=google_scholar&hl=en",
+                "cites_id": "14293624959026612892"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Recipedb: A resource for exploring recipes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:Y9VhQm-5nPIC",
+            "citation_id": "qyth_0QAAAAJ:Y9VhQm-5nPIC",
+            "authors": "D Batra, N Diwan, U Upadhyay, JS Kalra, T Sharma, AK Sharma, ...",
+            "publication": "Database 2020, 2020",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4874789505998648102",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4874789505998648102&engine=google_scholar&hl=en",
+                "cites_id": "4874789505998648102"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Culinary evolution models for Indian cuisines",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:jlhcAiayVhoC",
+            "citation_id": "qyth_0QAAAAJ:jlhcAiayVhoC",
+            "authors": "A Jain, G Bagler",
+            "publication": "Physica A: Statistical Mechanics and its Applications 503, 170-176, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18085606360855612102",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18085606360855612102&engine=google_scholar&hl=en",
+                "cites_id": "18085606360855612102"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Phenotypic side effects prediction by optimizing correlation with chemical and target profiles of drugs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:n3vGvpFsckwC",
+            "citation_id": "qyth_0QAAAAJ:n3vGvpFsckwC",
+            "authors": "R Kanji, A Sharma, G Bagler",
+            "publication": "Molecular BioSystems 11 (11), 2900-2906, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12811290033082103673",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12811290033082103673&engine=google_scholar&hl=en",
+                "cites_id": "12811290033082103673"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A named entity based approach to model recipes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:vnF2_uLGgtgC",
+            "citation_id": "qyth_0QAAAAJ:vnF2_uLGgtgC",
+            "authors": "N Diwan, D Batra, G Bagler",
+            "publication": "2020 IEEE 36th International Conference on Data Engineering Workshops (ICDEW \u2026, 2020",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16002136595568896579",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16002136595568896579&engine=google_scholar&hl=en",
+                "cites_id": "16002136595568896579"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Computational models for the evolution of world cuisines",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:I858iXPj1OkC",
+            "citation_id": "qyth_0QAAAAJ:I858iXPj1OkC",
+            "authors": "R Tuwani, N Sahoo, N Singh, G Bagler",
+            "publication": "2019 IEEE 35th International Conference on Data Engineering Workshops (ICDEW \u2026, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13772713633018934752",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13772713633018934752&engine=google_scholar&hl=en",
+                "cites_id": "13772713633018934752"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Re-analysis of protein data reveals the germination pathway and up accumulation mechanism of cell wall hydrolases during the radicle protrusion step of seed germination in \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:WwIwg2wKZ0QC",
+            "citation_id": "qyth_0QAAAAJ:WwIwg2wKZ0QC",
+            "authors": "V Dogra, G Bagler, S Yelam",
+            "publication": "Frontiers in Plant Science 6 (874), 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16008491273071934104",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16008491273071934104&engine=google_scholar&hl=en",
+                "cites_id": "16008491273071934104"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Data-driven investigations of culinary patterns in traditional recipes across the world",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:YPNY0knpFBYC",
+            "citation_id": "qyth_0QAAAAJ:YPNY0knpFBYC",
+            "authors": "G Bagler, N Singh",
+            "publication": "2018 IEEE 34th International Conference on Data Engineering Workshops (ICDEW \u2026, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17994178086578801808",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17994178086578801808&engine=google_scholar&hl=en",
+                "cites_id": "17994178086578801808"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A distance constrained synaptic plasticity model of C. elegans neuronal network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:ndLnGcHYRF0C",
+            "citation_id": "qyth_0QAAAAJ:ndLnGcHYRF0C",
+            "authors": "R Badhwar, G Bagler",
+            "publication": "Physica A 469, 313\u2013322, 2016",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4706498740948334142",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4706498740948334142&engine=google_scholar&hl=en",
+                "cites_id": "4706498740948334142"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Modelling The Host-Parasite Interaction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "qyth_0QAAAAJ:2osOgNQ5qMEC",
+            "authors": "H Dixit, G Bagler, S Sinha",
+            "publication": "National Conference on Nonlinear Systems & Dynamics, 2003",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1795007403462426131",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1795007403462426131&engine=google_scholar&hl=en",
+                "cites_id": "1795007403462426131"
+            },
+            "year": "2003"
+        },
+        {
+            "title": "A hierarchical anatomical classification schema for prediction of phenotypic side effects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:TesyEGJKHF4C",
+            "citation_id": "qyth_0QAAAAJ:TesyEGJKHF4C",
+            "authors": "S Wadhwa, A Gupta, S Dokania, R Kanji, G Bagler",
+            "publication": "PLoS One 13 (3), e0193959, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12936232129343284999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12936232129343284999&engine=google_scholar&hl=en",
+                "cites_id": "12936232129343284999"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Network controllability: Viruses are driver agents in dynamic molecular systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:xGWFX6Gbr9MC",
+            "citation_id": "qyth_0QAAAAJ:xGWFX6Gbr9MC",
+            "authors": "V Ravindran, JC Nacher, T Akutsu, M Ishitsuka, A Osadcenco, V Sunitha, ...",
+            "publication": "bioRxiv, 311746, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17428236803503422734",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17428236803503422734&engine=google_scholar&hl=en",
+                "cites_id": "17428236803503422734"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Controllability of human cancer signaling network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:RMgMIBzvq-4C",
+            "citation_id": "qyth_0QAAAAJ:RMgMIBzvq-4C",
+            "authors": "V Ravindran, V Sunitha, G Bagler",
+            "publication": "2016 International Conference on Signal Processing and Communication (ICSC \u2026, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17985172031780830689",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17985172031780830689&engine=google_scholar&hl=en",
+                "cites_id": "17985172031780830689"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Complex Network Models of Protein Structures: Structural Correlates of Biophysical Properties",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "qyth_0QAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "G Bagler",
+            "publication": "LAP LAMBERT Academic Publishing, 2010",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4749159173072003052",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4749159173072003052&engine=google_scholar&hl=en",
+                "cites_id": "4749159173072003052"
+            },
+            "year": "2010"
+        },
+        {
+            "title": "Modeling protein contact networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "qyth_0QAAAAJ:IjCSPb-OGe4C",
+            "authors": "G Bagler",
+            "publication": "arXiv preprint arXiv:0711.2616, 2007",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8764380348893438935",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8764380348893438935&engine=google_scholar&hl=en",
+                "cites_id": "8764380348893438935"
+            },
+            "year": "2007"
+        },
+        {
+            "title": "Nutritional profile estimation in cooking recipes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:J3LtWjKFLicC",
+            "citation_id": "qyth_0QAAAAJ:J3LtWjKFLicC",
+            "authors": "J Kalra, D Batra, N Diwan, G Bagler",
+            "publication": "2020 IEEE 36th International Conference on Data Engineering Workshops (ICDEW \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17130394241648286735",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17130394241648286735&engine=google_scholar&hl=en",
+                "cites_id": "17130394241648286735"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Data-driven investigations of culinary patterns in traditional recipes across the world",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:TGkaJS32XoUC",
+            "citation_id": "qyth_0QAAAAJ:TGkaJS32XoUC",
+            "authors": "N Singh, G Bagler",
+            "publication": "arXiv preprint arXiv:1803.04343, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14759890873667024406",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14759890873667024406&engine=google_scholar&hl=en",
+                "cites_id": "14759890873667024406"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "SpiceRx: an integrated resource for the health impacts of culinary spices and herbs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:H7nrzBkawXsC",
+            "citation_id": "qyth_0QAAAAJ:H7nrzBkawXsC",
+            "authors": "R Nk, R Tuwani, N Garg, J Mukherjee, G Bagler",
+            "publication": "bioRxiv, 273599, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17538674996597218084",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17538674996597218084&engine=google_scholar&hl=en",
+                "cites_id": "17538674996597218084"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Graph theoretical biomarkers for schizophrenic brain functional networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:Y0-TYkg6YM4C",
+            "citation_id": "qyth_0QAAAAJ:Y0-TYkg6YM4C",
+            "authors": "M Singh, R Badhwar, G Bagler",
+            "publication": "2016 International Conference on Signal Processing and Communication (ICSC \u2026, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2219086575944702802",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2219086575944702802&engine=google_scholar&hl=en",
+                "cites_id": "2219086575944702802"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Network biomarkers of schizophrenia by graph theoretical investigations of Brain Functional Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:_tF6a-HnqWAC",
+            "citation_id": "qyth_0QAAAAJ:_tF6a-HnqWAC",
+            "authors": "M Singh, G Bagler",
+            "publication": "arXiv:1602.01191, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12423945816457124582",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12423945816457124582&engine=google_scholar&hl=en",
+                "cites_id": "12423945816457124582"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Proteomics potential and its contribution toward sustainable agriculture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:lg2tdxc6qMwC",
+            "citation_id": "qyth_0QAAAAJ:lg2tdxc6qMwC",
+            "authors": "A Sarkar, MT Islam, SM Zargar, V Dogra, ST Kim, R Gupta, R Deswal, ...",
+            "publication": "Agroecology, Ecosystems, and Sustainability, 151, 2014",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8103687226854717384",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8103687226854717384&engine=google_scholar&hl=en",
+                "cites_id": "8103687226854717384"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Hierarchical clustering of world cuisines",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:3A3nxV7CjKIC",
+            "citation_id": "qyth_0QAAAAJ:3A3nxV7CjKIC",
+            "authors": "T Sharma, U Upadhyay, J Kalra, S Arora, S Ahmad, B Aggarwal, G Bagler",
+            "publication": "2020 IEEE 36th International Conference on Data Engineering Workshops (ICDEW \u2026, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=507505137650696071",
+                "serpapi_link": "https://serpapi.com/search.json?cites=507505137650696071&engine=google_scholar&hl=en",
+                "cites_id": "507505137650696071"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Supervised learning of protein thermal stability using sequence mining and distribution statistics of network centrality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:lbI08cpqPnQC",
+            "citation_id": "qyth_0QAAAAJ:lbI08cpqPnQC",
+            "authors": "A Sharma, G Bagler, D Bera",
+            "publication": "BioRxiv, 777177, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4143651687309086944",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4143651687309086944&engine=google_scholar&hl=en",
+                "cites_id": "4143651687309086944"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Protein classification on the basis of thermal stability using supervised learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:R22Rs3tN8aoC",
+            "citation_id": "qyth_0QAAAAJ:R22Rs3tN8aoC",
+            "authors": "A Sharma, D Bera, G Bagler",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15867340560115394029",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15867340560115394029&engine=google_scholar&hl=en",
+                "cites_id": "15867340560115394029"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Robust Sigmoidal Control Response of C. elegans Neuronal Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:tz746QTLzJkC",
+            "citation_id": "qyth_0QAAAAJ:tz746QTLzJkC",
+            "authors": "R Badhwar, G Bagler",
+            "publication": "International Joint Conference on Rough Sets, 393-402, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6017774136701691609",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6017774136701691609&engine=google_scholar&hl=en",
+                "cites_id": "6017774136701691609"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Original article Phytochemica: a platform to explore phytochemicals of medicinal plants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:E7VqQtBCVmcC",
+            "citation_id": "qyth_0QAAAAJ:E7VqQtBCVmcC",
+            "authors": "S Pathania, SM Ramakrishnan, G Bagler",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8357233615316791015",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8357233615316791015&engine=google_scholar&hl=en",
+                "cites_id": "8357233615316791015"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "The Role of Host Migration on Host-Parasite Population Dynamics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:qjMakFHDy7sC",
+            "citation_id": "qyth_0QAAAAJ:qjMakFHDy7sC",
+            "authors": "G Bagler, S Sinha",
+            "publication": "National Conference on Nonlinear Systems and Dynamics, 37-40, 2005",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1261118364292303208",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1261118364292303208&engine=google_scholar&hl=en",
+                "cites_id": "1261118364292303208"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "Computational gastronomy: A data science approach to food",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:QaSi33NTfwYC",
+            "citation_id": "qyth_0QAAAAJ:QaSi33NTfwYC",
+            "authors": "M Goel, G Bagler",
+            "publication": "Journal of Biosciences 47 (1), 1-10, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Graph Signal Processing on protein residue networks helps in studying its biophysical properties",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:0sTkTiv_uMkC",
+            "citation_id": "qyth_0QAAAAJ:0sTkTiv_uMkC",
+            "authors": "D Srivastava, G Bagler, V Kumar",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Building Hierarchically Disentangled Language Models for Text Generation with Named Entities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:xyvS_IvSCKsC",
+            "citation_id": "qyth_0QAAAAJ:xyvS_IvSCKsC",
+            "authors": "Y Agarwal, D Batra, G Bagler",
+            "publication": "Proceedings of the 28th International Conference on Computational \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Classification of Cuisines from Sequentially Structured Recipes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:BAanoTsO0WEC",
+            "citation_id": "qyth_0QAAAAJ:BAanoTsO0WEC",
+            "authors": "T Sharma, U Upadhyay, G Bagler",
+            "publication": "2020 IEEE 36th International Conference on Data Engineering Workshops (ICDEW \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A Generalized Partial Canonical Correlation Model to Measure Contribution of Individual Drug Features Toward Side Effects Prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:eH23hyXCXa4C",
+            "citation_id": "qyth_0QAAAAJ:eH23hyXCXa4C",
+            "authors": "R Kanji, G Bagler",
+            "publication": "Advances in Data Science and Management, 159-172, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "A novel cross talk of AtRAV1, an ethylene responsive transcription factor with MAP kinases imparts broad spectrum disease resistance in plants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:XDrR66g3YHsC",
+            "citation_id": "qyth_0QAAAAJ:XDrR66g3YHsC",
+            "authors": "RK Chandan, R Kumar, DM Swain, S Ghosh, PK Bhagat, S Patel, ...",
+            "publication": "bioRxiv, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Network analysis of neuro-cognitive processes: studying mcgurk effect using EEG data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:g8uWPOAv7ggC",
+            "citation_id": "qyth_0QAAAAJ:g8uWPOAv7ggC",
+            "authors": "M Malik, G Bagler, A Banerjee",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Data-driven analysis of biomedical literature suggests broad-spectrum benevolence of culinary herbs and spices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:JH5k92_tO-AC",
+            "citation_id": "qyth_0QAAAAJ:JH5k92_tO-AC",
+            "authors": "R NK, R Tuwani, J Mukherjee, G Bagler",
+            "publication": "bioRxiv, 276105, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Data-driven analysis of biomedical literature suggests broad-spectrum benevolence of culinary herbs and spices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:60iIaj97TE0C",
+            "citation_id": "qyth_0QAAAAJ:60iIaj97TE0C",
+            "authors": "R Tuwani, J Mukherjee, G Bagler",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Tandem mass spectrometry workflow in El-MAVEN",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:vVJNg6_NJEsC",
+            "citation_id": "qyth_0QAAAAJ:vVJNg6_NJEsC",
+            "authors": "S Agrawal, A Jha, G Bagler",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "An fMRI investigation of yoga nidra meditation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:WWeOtg8bX_EC",
+            "citation_id": "qyth_0QAAAAJ:WWeOtg8bX_EC",
+            "authors": "V Tripathi, G Bagler, R Garg",
+            "publication": "IIIT-D, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Application of pattern mining on data of flavor molecules, their percepts and molecular features",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:aEW5N-EHWIMC",
+            "citation_id": "qyth_0QAAAAJ:aEW5N-EHWIMC",
+            "authors": "B Khan, D Bera, G Bagler",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Integration of multi-omics datasets in cancer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:9shLKfS_uJEC",
+            "citation_id": "qyth_0QAAAAJ:9shLKfS_uJEC",
+            "authors": "S Sood, G Bagler",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Controllability of complex networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:rLGzs9wiiwIC",
+            "citation_id": "qyth_0QAAAAJ:rLGzs9wiiwIC",
+            "authors": "D Chohan, G Bagler",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Investigation of control profile in biological networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:KTwcwpFFj4wC",
+            "citation_id": "qyth_0QAAAAJ:KTwcwpFFj4wC",
+            "authors": "V Ravindran, V Sunitha, G Bagler",
+            "publication": "BOOK OF ABSTRACTS, 69, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Advanced Techniques in Biology & Medicine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:bVQMTfhMCi4C",
+            "citation_id": "qyth_0QAAAAJ:bVQMTfhMCi4C",
+            "authors": "S Pande, G Bagler",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "A Data and Informatics Driven Drug Discovery Framework to Bridge Traditional and Modern Medicine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:QsKbpXNoaWkC",
+            "citation_id": "qyth_0QAAAAJ:QsKbpXNoaWkC",
+            "authors": "S Pande, G Bagler",
+            "publication": "Advanced Techniques in Biology & Medicine 3 (141), 1-3, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Numerical study of variable lung ventilation strategies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:4Yq6kJLCcecC",
+            "citation_id": "qyth_0QAAAAJ:4Yq6kJLCcecC",
+            "authors": "R Yadav, M Ghatge, K Hiremath, G Bagler",
+            "publication": "Systems Thinking Approach for Social Problems: Proceedings of 37th National \u2026, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Proteomics Potential and Its Contribution toward Sustainable Agriculture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:sfnaS5RM6jYC",
+            "citation_id": "qyth_0QAAAAJ:sfnaS5RM6jYC",
+            "authors": "",
+            "publication": "Agroecology, Ecosystems, and Sustainability, 152-180, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Evolutionary dynamics of Ecological Networks with Interacting Populations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "qyth_0QAAAAJ:UeHWp8X0CEIC",
+            "authors": "G Bagler, O Burger, X Fu, B Hallmark, S Pawar, F Wang",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2005"
+        },
+        {
+            "title": "An approach for the identification of targets specific to bone metastasis using cancer genes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:U0iAMwwPxtsC",
+            "citation_id": "qyth_0QAAAAJ:U0iAMwwPxtsC",
+            "authors": "S Vashisht, G Bagler",
+            "publication": "cancer 10 (18), 23-30, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Amritkar, RE 13",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:I8rxH6phXEkC",
+            "citation_id": "qyth_0QAAAAJ:I8rxH6phXEkC",
+            "authors": "T Aste, G Bagler, A Barrat, G Bianconi, I Bose, LA Braunstein, SV Buldyrev, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Conference photo x Preface xi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qyth_0QAAAAJ&pagesize=100&citation_for_view=qyth_0QAAAAJ:yeL6HyUMUGUC",
+            "citation_id": "qyth_0QAAAAJ:yeL6HyUMUGUC",
+            "authors": "R Stinchcombe, RE Amritkar, S Jalan, T Aste, T Di Matteo, ST Hyde, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 1603,
+                    "since_2017": 903
+                }
+            },
+            {
+                "h_index": {
+                    "all": 18,
+                    "since_2017": 16
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 24,
+                    "since_2017": 19
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2005,
+                "citations": 5
+            },
+            {
+                "year": 2006,
+                "citations": 3
+            },
+            {
+                "year": 2007,
+                "citations": 17
+            },
+            {
+                "year": 2008,
+                "citations": 22
+            },
+            {
+                "year": 2009,
+                "citations": 43
+            },
+            {
+                "year": 2010,
+                "citations": 33
+            },
+            {
+                "year": 2011,
+                "citations": 54
+            },
+            {
+                "year": 2012,
+                "citations": 63
+            },
+            {
+                "year": 2013,
+                "citations": 71
+            },
+            {
+                "year": 2014,
+                "citations": 104
+            },
+            {
+                "year": 2015,
+                "citations": 111
+            },
+            {
+                "year": 2016,
+                "citations": 121
+            },
+            {
+                "year": 2017,
+                "citations": 146
+            },
+            {
+                "year": 2018,
+                "citations": 148
+            },
+            {
+                "year": 2019,
+                "citations": 169
+            },
+            {
+                "year": 2020,
+                "citations": 193
+            },
+            {
+                "year": 2021,
+                "citations": 189
+            },
+            {
+                "year": 2022,
+                "citations": 53
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=qyth_0QAAAAJ",
+        "available": 10,
+        "not_available": 1
+    },
+    "co_authors": [
+        {
+            "name": "Rahul Badhwar",
+            "link": "https://scholar.google.com/citations?user=j3Gq4gYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j3Gq4gYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "j3Gq4gYAAAAJ",
+            "affiliations": "Reliance Industries Limited",
+            "email": "Verified email at ril.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j3Gq4gYAAAAJ&citpid=7"
+        },
+        {
+            "name": "Somdatta Sinha",
+            "link": "https://scholar.google.com/citations?user=9VXo7KEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9VXo7KEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "9VXo7KEAAAAJ",
+            "affiliations": "Adjunct Prof. (IISER Kolkata & IISER Mohali) and Visiting Prof. (Ashoka Univ). Earlier at IISER",
+            "email": "Verified email at iisermohali.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9VXo7KEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rudraksh Tuwani",
+            "link": "https://scholar.google.com/citations?user=crdKRSEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=crdKRSEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "crdKRSEAAAAJ",
+            "affiliations": "Student, Harvard University",
+            "email": "Verified email at hsph.harvard.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Rakhi N K",
+            "link": "https://scholar.google.com/citations?user=sapxXjUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sapxXjUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "sapxXjUAAAAJ",
+            "affiliations": "Doctoral student, Indian Institute of Technology Jodhpur",
+            "email": "Verified email at iitj.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Shivalika Pathania",
+            "link": "https://scholar.google.com/citations?user=UoaknzEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UoaknzEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "UoaknzEAAAAJ",
+            "affiliations": "Post-Doctoral fellow",
+            "email": "Verified email at imtech.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=UoaknzEAAAAJ&citpid=3"
+        },
+        {
+            "name": "Anupam Jain",
+            "link": "https://scholar.google.com/citations?user=AG41TzAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AG41TzAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "AG41TzAAAAAJ",
+            "affiliations": "IIT Jodhpur",
+            "email": "Verified email at iitj.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Vinay Randhawa",
+            "link": "https://scholar.google.com/citations?user=umGR9ZUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=umGR9ZUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "umGR9ZUAAAAJ",
+            "affiliations": "Brigham and Women's Hospital/Harvard Medical School",
+            "email": "Verified email at bwh.harvard.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=umGR9ZUAAAAJ&citpid=6"
+        },
+        {
+            "name": "RAKESH KANJI, Ph.D",
+            "link": "https://scholar.google.com/citations?user=RvDHZtoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RvDHZtoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "RvDHZtoAAAAJ",
+            "affiliations": "Asssitant Professor, NIT,JIS group, KOLKATA",
+            "email": "Verified email at iitj.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RvDHZtoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Sai Mukund Ramakrishnan",
+            "link": "https://scholar.google.com/citations?user=cp9jyZsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cp9jyZsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cp9jyZsAAAAJ",
+            "affiliations": "Washington University in Saint Louis",
+            "email": "Verified email at wustl.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cp9jyZsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Karunakar Kar",
+            "link": "https://scholar.google.com/citations?user=yo8HC9EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yo8HC9EAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yo8HC9EAAAAJ",
+            "affiliations": "Assistant Professor",
+            "email": "Verified email at mail.jnu.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yo8HC9EAAAAJ&citpid=4"
+        },
+        {
+            "name": "Kriti Dubey",
+            "link": "https://scholar.google.com/citations?user=s900TiEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=s900TiEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "s900TiEAAAAJ",
+            "affiliations": "Ph.D.",
+            "email": "Verified email at iitj.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Shubham Dokania",
+            "link": "https://scholar.google.com/citations?user=_RoYQWoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_RoYQWoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_RoYQWoAAAAJ",
+            "affiliations": "MS (Research), IIIT Hyderabad",
+            "email": "Verified email at research.iiit.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_RoYQWoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Neelansh Garg",
+            "link": "https://scholar.google.com/citations?user=RCpEZlIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RCpEZlIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "RCpEZlIAAAAJ",
+            "affiliations": "University of southern california",
+            "email": "Verified email at usc.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Shubhra Agrawal",
+            "link": "https://scholar.google.com/citations?user=4zaWMfEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4zaWMfEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4zaWMfEAAAAJ",
+            "affiliations": "Elucidata",
+            "email": "Verified email at elucidata.io",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Devansh Batra",
+            "link": "https://scholar.google.com/citations?user=IzZcF24AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IzZcF24AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IzZcF24AAAAJ",
+            "affiliations": "Netaji Subhas University of Technology",
+            "email": "Verified email at nsit.net.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Arun Kumar",
+            "link": "https://scholar.google.com/citations?user=EQc3kPIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=EQc3kPIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "EQc3kPIAAAAJ",
+            "affiliations": "Biotechnology Division, CSIR-Institute of Himalayan Bioresource Technology, Palampur, H.P. 176061",
+            "email": "Verified email at ihbt.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=EQc3kPIAAAAJ&citpid=16"
+        },
+        {
+            "name": "Som Dutt",
+            "link": "https://scholar.google.com/citations?user=PAJOA4MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PAJOA4MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "PAJOA4MAAAAJ",
+            "affiliations": "ICAR-Central Potato Research Institute (ICAR-CPRI) Shimla",
+            "email": "Verified email at icar.gov.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PAJOA4MAAAAJ&citpid=2"
+        },
+        {
+            "name": "Bibin G Anand",
+            "link": "https://scholar.google.com/citations?user=ZtB3m2IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZtB3m2IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ZtB3m2IAAAAJ",
+            "affiliations": "Indian Institute of Technology, Jodhpur",
+            "email": "Verified email at iitj.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZtB3m2IAAAAJ&citpid=3"
+        },
+        {
+            "name": "Hemant Kumar Daima, PhD",
+            "link": "https://scholar.google.com/citations?user=rhcvNjkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rhcvNjkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rhcvNjkAAAAJ",
+            "affiliations": "A/Professor, In-charge (AUSIC-II & ACNN) | Amity University Rajasthan, Jaipur, INDIA",
+            "email": "Verified email at jpr.amity.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rhcvNjkAAAAJ&citpid=41"
+        },
+        {
+            "name": "Nirav Diwan",
+            "link": "https://scholar.google.com/citations?user=-ADOnuAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-ADOnuAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-ADOnuAAAAAJ",
+            "affiliations": "IIITD",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

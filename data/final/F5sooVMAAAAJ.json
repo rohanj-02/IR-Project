@@ -1,0 +1,455 @@
+{
+    "search_metadata": {
+        "id": "6256e0da37014c2f321e7326",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d89f688d7869b789/6256e0da37014c2f321e7326.json",
+        "created_at": "2022-04-13 14:40:26 UTC",
+        "processed_at": "2022-04-13 14:40:26 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=F5sooVMAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/d89f688d7869b789/6256e0da37014c2f321e7326.html",
+        "total_time_taken": 1.9,
+        "total_articles": 20,
+        "total_co_authors": 10
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "F5sooVMAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Mukulika Maity",
+        "affiliations": "Assistant Professor at Indraprastha Institute of Information Technology (IIIT-Delhi)",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://faculty.iiitd.ac.in/~mukulika/",
+        "interests": [
+            {
+                "title": "Wireless Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_networks"
+            },
+            {
+                "title": "Mobile Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mobile_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amobile_computing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=F5sooVMAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "TCP download performance in dense WiFi scenarios: Analysis and solution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "F5sooVMAAAAJ:d1gkVwhDpl0C",
+            "authors": "M Maity, B Raman, M Vutukuru",
+            "publication": "IEEE Transactions on Mobile Computing 16 (1), 213-227, 2016",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15578357890385210105",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15578357890385210105&engine=google_scholar&hl=en",
+                "cites_id": "15578357890385210105"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Tcp download performance in dense wifi scenarios",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "F5sooVMAAAAJ:u5HHmVD_uO8C",
+            "authors": "M Maity, B Raman, M Vutukuru",
+            "publication": "2015 7th International Conference on Communication Systems and Networks \u2026, 2015",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7924460796868762748",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7924460796868762748&engine=google_scholar&hl=en",
+                "cites_id": "7924460796868762748"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Use of machine learning to detect causes of unnecessary active scanning in WiFi networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "F5sooVMAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "H Fulara, G Singh, D Jaisinghani, M Maity, T Chakraborty, V Naik",
+            "publication": "2019 IEEE 20th International Symposium on\" A World of Wireless, Mobile and \u2026, 2019",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=839308037678133253",
+                "serpapi_link": "https://serpapi.com/search.json?cites=839308037678133253&engine=google_scholar&hl=en",
+                "cites_id": "839308037678133253"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Scalable measurement of air pollution using COTS IoT devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "F5sooVMAAAAJ:2osOgNQ5qMEC",
+            "authors": "V Jain, M Goel, M Maity, V Naik, R Ramjee",
+            "publication": "2018 10th international conference on communication systems & networks \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15679654503413282858",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15679654503413282858&engine=google_scholar&hl=en",
+                "cites_id": "15679654503413282858"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "How much can we reuse? An empirical analysis of the performance benefits achieved by spatial-reuse of IEEE 802.11 ax",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "F5sooVMAAAAJ:IjCSPb-OGe4C",
+            "authors": "A Malhotra, M Maity, A Dutta",
+            "publication": "2019 11th International Conference on Communication Systems & Networks \u2026, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2496665136744967123",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2496665136744967123&engine=google_scholar&hl=en",
+                "cites_id": "2496665136744967123"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "An empirical evaluation of the COTS air pollution masks in a highly polluted real environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "F5sooVMAAAAJ:zYLM7Y9cAGgC",
+            "authors": "A Balotra, M Maity, V Naik",
+            "publication": "2019 11th International Conference on Communication Systems & Networks \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10995449021383053903",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10995449021383053903&engine=google_scholar&hl=en",
+                "cites_id": "10995449021383053903"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "MMRU-ALLOC: An optimal resource allocation framework for OFDMA in IEEE 802.11 ax",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:WF5omc3nYNoC",
+            "citation_id": "F5sooVMAAAAJ:WF5omc3nYNoC",
+            "authors": "A Dutta, N Gupta, S Das, M Maity",
+            "publication": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1100918147947123528",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1100918147947123528&engine=google_scholar&hl=en",
+                "cites_id": "1100918147947123528"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "The road not taken: re-thinking the feasibility of voice calling over tor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "F5sooVMAAAAJ:eQOLeE2rZwMC",
+            "authors": "PK Sharma, S Chaudhary, N Hassija, M Maity, S Chakravarty",
+            "publication": "arXiv preprint arXiv:2007.04673, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=367386013200011999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=367386013200011999&engine=google_scholar&hl=en",
+                "cites_id": "367386013200011999"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Elixir: Efficient Data Transfer in WiFi-based IoT Nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "F5sooVMAAAAJ:UeHWp8X0CEIC",
+            "authors": "D Jaisinghani, G Singh, H Fulara, M Maity, V Naik",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7533739178383960358",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7533739178383960358&engine=google_scholar&hl=en",
+                "cites_id": "7533739178383960358"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A Software Solution to Conduct Inquiry based Student Directed Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "F5sooVMAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Mishra, M Maity",
+            "publication": "2014 IEEE Sixth International Conference on Technology for Education, 18-25, 2014",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14859024849068338220",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14859024849068338220&engine=google_scholar&hl=en",
+                "cites_id": "14859024849068338220"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "YouTube over Google's QUIC vs Internet Middleboxes: A Tug of War between Protocol Sustainability and Application QoE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:UebtZRa9Y70C",
+            "citation_id": "F5sooVMAAAAJ:UebtZRa9Y70C",
+            "authors": "S Chaudhary, P Sachdeva, A Mondal, S Chakraborty, M Maity",
+            "publication": "arXiv preprint arXiv:2203.11977, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-propagation Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:Se3iqnhoufwC",
+            "citation_id": "F5sooVMAAAAJ:Se3iqnhoufwC",
+            "authors": "BC Chatterjee, I Ahmed, A Wadud, M Maity, E Oki",
+            "publication": "IEEE Transactions on Network and Service Management, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Shared Backup Path Protection-Based Resource Allocation Considering Inter-Core and Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "F5sooVMAAAAJ:LkGwnXOMwfcC",
+            "authors": "J Halder, M Maity, E Oki, BC Chatterjee",
+            "publication": "IEEE Communications Letters, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Who slowed down my app? a measurement study of response times of smartphone apps in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:roLk4NBRz8UC",
+            "citation_id": "F5sooVMAAAAJ:roLk4NBRz8UC",
+            "authors": "A Pandey, P Sachdeva, M Maity, A Bhattacharya",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Building performant, privacy-enhancing, and blocking-resistant communication systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "F5sooVMAAAAJ:_FxGoFyzp5QC",
+            "authors": "P Kumar, S Chakravarty, M Maity",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Adaptive ViFi: A Dynamic Protocol for IoT Nodes in Challenged WiFi Network Conditions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:ufrVoPGSRksC",
+            "citation_id": "F5sooVMAAAAJ:ufrVoPGSRksC",
+            "authors": "D Jaisinghani, N Gupta, M Maity, V Naik",
+            "publication": "2020 IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Data driven analysis of Wi-Fi networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "F5sooVMAAAAJ:Y0pCki6q_DkC",
+            "authors": "D Kesar, SK Kaul, M Maity",
+            "publication": "IIITD-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Sending data over WiFi management frames",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "F5sooVMAAAAJ:W7OEmFMy1HYC",
+            "authors": "H Fulara, V Naik, M Maity",
+            "publication": "IIITD-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Witals: AP-Centric Health Diagnosis of WiFi Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "F5sooVMAAAAJ:u-x6o8ySG0sC",
+            "authors": "M Maity, B Raman, M Vutukuru, A Chaurasia, R Srivastava",
+            "publication": "IEEE Transactions on Mobile Computing 17 (4), 975-989, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Demo: Witals, AP-centric Health Diagnosis of WiFiNetworks.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:qjMakFHDy7sC",
+            "citation_id": "F5sooVMAAAAJ:qjMakFHDy7sC",
+            "authors": "M Maity, A Chaurasia, R Srivastava, B Raman, M Vutukuru",
+            "publication": "The 21st Annual International Conference on Mobile Computing and Networking, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 73,
+                    "since_2017": 66
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 4
+            },
+            {
+                "year": 2017,
+                "citations": 5
+            },
+            {
+                "year": 2018,
+                "citations": 12
+            },
+            {
+                "year": 2019,
+                "citations": 12
+            },
+            {
+                "year": 2020,
+                "citations": 17
+            },
+            {
+                "year": 2021,
+                "citations": 18
+            },
+            {
+                "year": 2022,
+                "citations": 2
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=F5sooVMAAAAJ",
+        "available": 3,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vinayak Naik",
+            "link": "https://scholar.google.com/citations?user=HF7IPeQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HF7IPeQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HF7IPeQAAAAJ",
+            "affiliations": "Head of CS Dept, Head of Computing Center, Professor of CS, and Professor in APPCAIR at BITS Pilani",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HF7IPeQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Bhaskaran Raman",
+            "link": "https://scholar.google.com/citations?user=qj3IRU8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qj3IRU8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qj3IRU8AAAAJ",
+            "affiliations": "Associate Professor, Department of Computer Science and Engineering, IIT Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qj3IRU8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Mythili Vutukuru",
+            "link": "https://scholar.google.com/citations?user=-OpGJpYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-OpGJpYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-OpGJpYAAAAJ",
+            "affiliations": "Associate Professor, Computer Science and Engineering, Indian Institute of Technology, Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-OpGJpYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dheryta Jaisinghani",
+            "link": "https://scholar.google.com/citations?user=YB_62i8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YB_62i8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YB_62i8AAAAJ",
+            "affiliations": "Assistant Professor, Dept. of Computer Science, University of Northern Iowa, Cedar Falls, Iowa",
+            "email": "Verified email at uni.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YB_62i8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Tanmoy Chakraborty",
+            "link": "https://scholar.google.com/citations?user=C5S9JnIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=C5S9JnIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "C5S9JnIAAAAJ",
+            "affiliations": "IIIT-Delhi, India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C5S9JnIAAAAJ&citpid=6"
+        },
+        {
+            "name": "Mansi Goel",
+            "link": "https://scholar.google.com/citations?user=gD0oy18AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gD0oy18AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "gD0oy18AAAAJ",
+            "affiliations": "University of Maryland, College Park",
+            "email": "Verified email at cs.umd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gD0oy18AAAAJ&citpid=4"
+        },
+        {
+            "name": "Ramachandran Ramjee",
+            "link": "https://scholar.google.com/citations?user=0P35aLUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0P35aLUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "0P35aLUAAAAJ",
+            "affiliations": "Microsoft Research India",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0P35aLUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Varun Jain",
+            "link": "https://scholar.google.com/citations?user=LUrWFsYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LUrWFsYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "LUrWFsYAAAAJ",
+            "affiliations": "Master of Science in Computer Science, EECS at UC Berkeley",
+            "email": "Verified email at berkeley.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LUrWFsYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Shitanshu Mishra",
+            "link": "https://scholar.google.com/citations?user=yZ86YskAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yZ86YskAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yZ86YskAAAAJ",
+            "affiliations": "Indian Institute of Technology Bombay",
+            "email": "Verified email at iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yZ86YskAAAAJ&citpid=7"
+        },
+        {
+            "name": "Avinash Kumar Chaurasia",
+            "link": "https://scholar.google.com/citations?user=8VKqmv8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8VKqmv8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "8VKqmv8AAAAJ",
+            "affiliations": "IIT Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8VKqmv8AAAAJ&citpid=1"
+        }
+    ]
+}

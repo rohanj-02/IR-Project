@@ -1,0 +1,557 @@
+{
+    "search_metadata": {
+        "id": "6256e0fd116a5522278f1daa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7a0a1378fb8564e1/6256e0fd116a5522278f1daa.json",
+        "created_at": "2022-04-13 14:41:01 UTC",
+        "processed_at": "2022-04-13 14:41:01 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=ILI-_h4AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/7a0a1378fb8564e1/6256e0fd116a5522278f1daa.html",
+        "total_time_taken": 2.4,
+        "total_articles": 24,
+        "total_co_authors": 13
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "ILI-_h4AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Bapi Chatterjee",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://bapi.github.io/",
+        "interests": [
+            {
+                "title": "concurrent data structures",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:concurrent_data_structures",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aconcurrent_data_structures"
+            },
+            {
+                "title": "distributed machine learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:distributed_machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adistributed_machine_learning"
+            },
+            {
+                "title": "federated learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:federated_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afederated_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ILI-_h4AAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "An optimization formulation to compute Nash equilibrium in finite games",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "ILI-_h4AAAAJ:u-x6o8ySG0sC",
+            "authors": "B Chatterjee",
+            "publication": "2009 Proceeding of International Conference on Methods and Models in \u2026, 2009",
+            "cited_by": {
+                "value": 81,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5367121530449485613",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5367121530449485613&engine=google_scholar&hl=en",
+                "cites_id": "5367121530449485613"
+            },
+            "year": "2009"
+        },
+        {
+            "title": "Efficient lock-free binary search trees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "ILI-_h4AAAAJ:9yKSN-GCB0IC",
+            "authors": "B Chatterjee, N Nguyen, P Tsigas",
+            "publication": "Proceedings of the 2014 ACM symposium on Principles of distributed computing \u2026, 2014",
+            "cited_by": {
+                "value": 52,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3301746436170235599",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3301746436170235599&engine=google_scholar&hl=en",
+                "cites_id": "3301746436170235599"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "A study of the behavior of synchronization methods in commonly used languages and systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "ILI-_h4AAAAJ:d1gkVwhDpl0C",
+            "authors": "D Cederman, B Chatterjee, N Nguyen, Y Nikolakopoulos, ...",
+            "publication": "2013 IEEE 27th International Symposium on Parallel and Distributed \u2026, 2013",
+            "cited_by": {
+                "value": 35,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9450552004440077909",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9450552004440077909&engine=google_scholar&hl=en",
+                "cites_id": "9450552004440077909"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Understanding the Performance of Concurrent Data Structures on Graphics Processors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "ILI-_h4AAAAJ:u5HHmVD_uO8C",
+            "authors": "D Cederman, B Chatterjee, P Tsigas",
+            "publication": "Euro-Par 2012 Parallel Processing, 883-894, 2012",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=622779189789371957",
+                "serpapi_link": "https://serpapi.com/search.json?cites=622779189789371957&engine=google_scholar&hl=en",
+                "cites_id": "622779189789371957"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Efficiently processing temporal queries on hyperledger fabric",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:eQOLeE2rZwMC",
+            "citation_id": "ILI-_h4AAAAJ:eQOLeE2rZwMC",
+            "authors": "H Gupta, S Hans, K Aggarwal, S Mehta, B Chatterjee, P Jayachandran",
+            "publication": "2018 IEEE 34th International Conference on Data Engineering (ICDE), 1489-1494, 2018",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3161224433627528673",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3161224433627528673&engine=google_scholar&hl=en",
+                "cites_id": "3161224433627528673"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Lock-free linearizable 1-dimensional range queries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "ILI-_h4AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "B Chatterjee",
+            "publication": "Proceedings of the 18th International Conference on Distributed Computing \u2026, 2017",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4833277546971058037",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4833277546971058037&engine=google_scholar&hl=en",
+                "cites_id": "4833277546971058037"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Elastic Consistency: A Practical Consistency Model for Distributed Stochastic Gradient Descent",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:kNdYIx-mwKoC",
+            "citation_id": "ILI-_h4AAAAJ:kNdYIx-mwKoC",
+            "authors": "G Nadiradze, I Markov, B Chatterjee, V Kungurtsev, D Alistarh",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence, Virtual \u2026, 2021",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2081180938933322597,4234191295320237871",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2081180938933322597%2C4234191295320237871&engine=google_scholar&hl=en",
+                "cites_id": "2081180938933322597,4234191295320237871"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A simple and practical concurrent non-blocking unbounded graph with linearizable reachability queries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:Se3iqnhoufwC",
+            "citation_id": "ILI-_h4AAAAJ:Se3iqnhoufwC",
+            "authors": "B Chatterjee, S Peri, M Sa, N Singhal",
+            "publication": "Proceedings of the 20th International Conference on Distributed Computing \u2026, 2019",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4812704524064377063",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4812704524064377063&engine=google_scholar&hl=en",
+                "cites_id": "4812704524064377063"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "A persistent homology perspective to the link prediction problem",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "ILI-_h4AAAAJ:hqOjcs7Dif8C",
+            "authors": "S Bhatia, B Chatterjee, D Nathani, M Kaul",
+            "publication": "International Conference on Complex Networks and Their Applications, 27-39, 2019",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2112223546538306206,12854782083103437753",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2112223546538306206%2C12854782083103437753&engine=google_scholar&hl=en",
+                "cites_id": "2112223546538306206,12854782083103437753"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Concurrent linearizable nearest neighbour search in lockfree-kd-tree",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "ILI-_h4AAAAJ:UeHWp8X0CEIC",
+            "authors": "B Chatterjee, I Walulya, P Tsigas",
+            "publication": "Theoretical Computer Science 886, 27-48, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1788277894570107876",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1788277894570107876&engine=google_scholar&hl=en",
+                "cites_id": "1788277894570107876"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Asynchronous stochastic subgradient methods for general nonsmooth nonconvex optimization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:3fE2CSJIrl8C",
+            "citation_id": "ILI-_h4AAAAJ:3fE2CSJIrl8C",
+            "authors": "V Kungurtsev, M Egan, B Chatterjee, D Alistarh",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9123478226300384789,2028302526064397985",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9123478226300384789%2C2028302526064397985&engine=google_scholar&hl=en",
+                "cites_id": "9123478226300384789,2028302526064397985"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Help-optimal and Language-portable Lock-free Concurrent Data Structures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "ILI-_h4AAAAJ:IjCSPb-OGe4C",
+            "authors": "B Chatterjee, I Walulya, P Tsigas",
+            "publication": "2016 45th International Conference on Parallel Processing (ICPP), 360-369, 2016",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15253356346380127179",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15253356346380127179&engine=google_scholar&hl=en",
+                "cites_id": "15253356346380127179"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Dynamic Graph Operations: A Consistent Non-blocking Approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:5nxA0vEk-isC",
+            "citation_id": "ILI-_h4AAAAJ:5nxA0vEk-isC",
+            "authors": "B Chatterjee, S Peri, M Sa",
+            "publication": "arXiv preprint arXiv:2003.01697, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=356537213475826991",
+                "serpapi_link": "https://serpapi.com/search.json?cites=356537213475826991&engine=google_scholar&hl=en",
+                "cites_id": "356537213475826991"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Provenance in context of Hadoop as a Service (HaaS)-State of the Art and Research Directions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "ILI-_h4AAAAJ:_FxGoFyzp5QC",
+            "authors": "H Gupta, S Mehta, S Hans, B Chatterjee, P Lohia, C Rajmohan",
+            "publication": "2017 IEEE 10th International Conference on Cloud Computing (CLOUD), 680-683, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14043468590412791485",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14043468590412791485&engine=google_scholar&hl=en",
+                "cites_id": "14043468590412791485"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Scaling the Wild: Decentralizing Hogwild!-style Shared-memory SGD",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "ILI-_h4AAAAJ:M3ejUd6NZC8C",
+            "authors": "B Chatterjee, V Kungurtsev, D Alistarh",
+            "publication": "arXiv preprint arXiv:2203.06638, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Non-Blocking Dynamic Unbounded Graphs with Worst-Case Amortized Bounds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:4TOpqqG69KYC",
+            "citation_id": "ILI-_h4AAAAJ:4TOpqqG69KYC",
+            "authors": "B Chatterjee, S Peri, M Sa, K Manogna",
+            "publication": "25th International Conference on Principles of Distributed Systems (OPODIS 2021), 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Brief Announcement: Non-Blocking Dynamic Unbounded Graphs with Worst-Case Amortized Bounds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:YOwf2qJgpHMC",
+            "citation_id": "ILI-_h4AAAAJ:YOwf2qJgpHMC",
+            "authors": "B Chatterjee, S Peri, M Sa",
+            "publication": "35th International Symposium on Distributed Computing (DISC 2021), 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Local SGD Meets Asynchrony",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:KlAtU1dfN6UC",
+            "citation_id": "ILI-_h4AAAAJ:KlAtU1dfN6UC",
+            "authors": "B Chatterjee, V Kungurtsev, D Alistarh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Stochastic Gradient Langevin with Delayed Gradients",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "ILI-_h4AAAAJ:MXK_kJrjxJIC",
+            "authors": "V Kungurtsev, B Chatterjee, D Alistarh",
+            "publication": "arXiv preprint arXiv:2006.07362, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Concurrent lock-free unbounded priority queue with mutable priorities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "ILI-_h4AAAAJ:LkGwnXOMwfcC",
+            "authors": "I Walulya, B Chatterjee, AK Datta, R Niyolia, P Tsigas",
+            "publication": "International Symposium on Stabilizing, Safety, and Security of Distributed \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "A Simple and Practical Concurrent Non-blocking Unbounded Graph with Reachability Queries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "ILI-_h4AAAAJ:YsMSGLbcyi4C",
+            "authors": "B Chatterjee, S Peri, M Sa, N Singhal",
+            "publication": "arXiv preprint arXiv:1809.00896, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Lock-free Concurrent Search",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "ILI-_h4AAAAJ:Y0pCki6q_DkC",
+            "authors": "B Chatterjee",
+            "publication": "PQDT-Global, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Efficient Implementation of Concurrent Data Structures on Multi-core and Many-core Architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:qjMakFHDy7sC",
+            "citation_id": "ILI-_h4AAAAJ:qjMakFHDy7sC",
+            "authors": "B Chatterjee",
+            "publication": "PQDT-Global, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "On Some Aspects of the Computer Aided Analysis of Town Structures used in Wind Mills",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ILI-_h4AAAAJ&pagesize=100&citation_for_view=ILI-_h4AAAAJ:Zph67rFs4hoC",
+            "citation_id": "ILI-_h4AAAAJ:Zph67rFs4hoC",
+            "authors": "A Datta, M Maitra, BP Chatterjee",
+            "publication": "Journal of the Association of Engineers, India 56 (1-4), 75-81, 1981",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1981"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 290,
+                    "since_2017": 214
+                }
+            },
+            {
+                "h_index": {
+                    "all": 9,
+                    "since_2017": 9
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 9,
+                    "since_2017": 9
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2011,
+                "citations": 2
+            },
+            {
+                "year": 2012,
+                "citations": 3
+            },
+            {
+                "year": 2013,
+                "citations": 7
+            },
+            {
+                "year": 2014,
+                "citations": 14
+            },
+            {
+                "year": 2015,
+                "citations": 20
+            },
+            {
+                "year": 2016,
+                "citations": 26
+            },
+            {
+                "year": 2017,
+                "citations": 49
+            },
+            {
+                "year": 2018,
+                "citations": 30
+            },
+            {
+                "year": 2019,
+                "citations": 41
+            },
+            {
+                "year": 2020,
+                "citations": 41
+            },
+            {
+                "year": 2021,
+                "citations": 39
+            },
+            {
+                "year": 2022,
+                "citations": 14
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=ILI-_h4AAAAJ",
+        "available": 7,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Philippas Tsigas",
+            "link": "https://scholar.google.com/citations?user=rcvCfQEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rcvCfQEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rcvCfQEAAAAJ",
+            "affiliations": "Professor of Computer Science, Chalmers University of Technology",
+            "email": "Verified email at chalmers.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rcvCfQEAAAAJ&citpid=11"
+        },
+        {
+            "name": "Dan Alistarh",
+            "link": "https://scholar.google.com/citations?user=75q-6ZQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=75q-6ZQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "75q-6ZQAAAAJ",
+            "affiliations": "IST Austria",
+            "email": "Verified email at ist.ac.at",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=75q-6ZQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vyacheslav Kungurtsev",
+            "link": "https://scholar.google.com/citations?user=Dkp_oGsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Dkp_oGsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Dkp_oGsAAAAJ",
+            "affiliations": "Czech Technical University",
+            "email": "Verified email at fel.cvut.cz",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Nhan Nguyen",
+            "link": "https://scholar.google.com/citations?user=WAvUKXQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAvUKXQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAvUKXQAAAAJ",
+            "affiliations": "PhD, Computer Science and Engineering, Chalmers University of Technology",
+            "email": "Verified email at chalmers.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAvUKXQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Daniel Cederman",
+            "link": "https://scholar.google.com/citations?user=QCSatB8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QCSatB8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QCSatB8AAAAJ",
+            "affiliations": "Postdoc, Chalmers University of Technology",
+            "email": "Verified email at chalmers.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QCSatB8AAAAJ&citpid=5"
+        },
+        {
+            "name": "Sathya Peri",
+            "link": "https://scholar.google.com/citations?user=fUUk1jkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fUUk1jkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "fUUk1jkAAAAJ",
+            "affiliations": "IIT Hyderabad",
+            "email": "Verified email at iith.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sameep Mehta",
+            "link": "https://scholar.google.com/citations?user=NXA956gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NXA956gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "NXA956gAAAAJ",
+            "affiliations": "IBM Research India",
+            "email": "Verified email at in.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NXA956gAAAAJ&citpid=1"
+        },
+        {
+            "name": "Ivan Walulya",
+            "link": "https://scholar.google.com/citations?user=pxgjO5UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pxgjO5UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "pxgjO5UAAAAJ",
+            "affiliations": "Department of Computer Science and Engineering, Chalmers University of Technology",
+            "email": "Verified email at chalmers.se",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Marina Papatriantafilou",
+            "link": "https://scholar.google.com/citations?user=XWZYkEwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XWZYkEwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XWZYkEwAAAAJ",
+            "affiliations": "Assoc. Professor; Computer Science and Engineering, Chalmers University",
+            "email": "Verified email at chalmers.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XWZYkEwAAAAJ&citpid=4"
+        },
+        {
+            "name": "Yiannis Nikolakopoulos",
+            "link": "https://scholar.google.com/citations?user=Iz4nuBIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Iz4nuBIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Iz4nuBIAAAAJ",
+            "affiliations": "ZeroPoint Technologies",
+            "email": "Verified email at zptcorp.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Manohar Kaul",
+            "link": "https://scholar.google.com/citations?user=jNroyK4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jNroyK4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "jNroyK4AAAAJ",
+            "affiliations": "IIT Hyderabad, India",
+            "email": "Verified email at iith.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jNroyK4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Sumit Bhatia",
+            "link": "https://scholar.google.com/citations?user=8HVTWNkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8HVTWNkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "8HVTWNkAAAAJ",
+            "affiliations": "Senior ML Scientist, Adobe Inc.",
+            "email": "Verified email at adobe.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8HVTWNkAAAAJ&citpid=9"
+        },
+        {
+            "name": "Ajoy K Datta",
+            "link": "https://scholar.google.com/citations?user=hmPxInwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hmPxInwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "hmPxInwAAAAJ",
+            "affiliations": "Department of Computer Science, University of Nevada Las Vegas",
+            "email": "Verified email at unlv.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hmPxInwAAAAJ&citpid=2"
+        }
+    ]
+}

@@ -1,0 +1,1018 @@
+{
+    "search_metadata": {
+        "id": "6256e0faaf63049f5fdc2448",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/dbd8b0b69f6110ea/6256e0faaf63049f5fdc2448.json",
+        "created_at": "2022-04-13 14:40:58 UTC",
+        "processed_at": "2022-04-13 14:40:58 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=13e0zscAAAAJ&hl&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/dbd8b0b69f6110ea/6256e0faaf63049f5fdc2448.html",
+        "total_time_taken": 0.12,
+        "total_articles": 53,
+        "total_co_authors": 20
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "13e0zscAAAAJ&hl",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Vinayak Abrol",
+        "affiliations": "IIIT Delhi, India",
+        "email": "Verified email at ieee.org",
+        "website": "https://sites.google.com/view/vinayakabrol/home",
+        "interests": [
+            {
+                "title": "Signal Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:signal_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asignal_processing"
+            },
+            {
+                "title": "Speech/Audio Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:speech_audio_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspeech_audio_processing"
+            },
+            {
+                "title": "Sparse representation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:sparse_representation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asparse_representation"
+            },
+            {
+                "title": "Machine/Deep Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_deep_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=13e0zscAAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Deep-sparse-representation-based features for speech recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:aqlVkmm33-oC",
+            "citation_id": "13e0zscAAAAJ:aqlVkmm33-oC",
+            "authors": "P Sharma, V Abrol, AK Sao",
+            "publication": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 25 (11 \u2026, 2017",
+            "cited_by": {
+                "value": 37,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=214170125754372614",
+                "serpapi_link": "https://serpapi.com/search.json?cites=214170125754372614&engine=google_scholar&hl=en",
+                "cites_id": "214170125754372614"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Evaluating performance of compressed sensing for speech signals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "13e0zscAAAAJ:9yKSN-GCB0IC",
+            "authors": "V Abrol, P Sharma, S Budhiraja",
+            "publication": "2013 3rd IEEE International Advance Computing Conference (IACC), 1159-1164, 2013",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1729273534669569952",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1729273534669569952&engine=google_scholar&hl=en",
+                "cites_id": "1729273534669569952"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Greedy dictionary learning for kernel sparse representation based classifier",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "13e0zscAAAAJ:3fE2CSJIrl8C",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "Pattern Recognition Letters 78, 64-69, 2016",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2590138176275865113",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2590138176275865113&engine=google_scholar&hl=en",
+                "cites_id": "2590138176275865113"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Voiced/nonvoiced detection in compressively sensed speech signals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:0EnyYjriUFMC",
+            "citation_id": "13e0zscAAAAJ:0EnyYjriUFMC",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "Speech Communication 72, 194-207, 2015",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6766031282506455641",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6766031282506455641&engine=google_scholar&hl=en",
+                "cites_id": "6766031282506455641"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Sparse coding based features for speech units classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:8k81kl-MbHgC",
+            "citation_id": "13e0zscAAAAJ:8k81kl-MbHgC",
+            "authors": "P Sharma, V Abrol, AD Dileep, AK Sao",
+            "publication": "Computer Speech & Language 47, 333-350, 2018",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2649041028211684138",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2649041028211684138&engine=google_scholar&hl=en",
+                "cites_id": "2649041028211684138"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Understanding and Visualizing Raw Waveform-Based CNNs.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:-f6ydRqryjwC",
+            "citation_id": "13e0zscAAAAJ:-f6ydRqryjwC",
+            "authors": "H Muckenhirn, V Abrol, M Magimai-Doss, S Marcel",
+            "publication": "Interspeech, 2345-2349, 2019",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3350966041745670780",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3350966041745670780&engine=google_scholar&hl=en",
+                "cites_id": "3350966041745670780"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Speech Enhancement Using Compressed Sensing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "13e0zscAAAAJ:W7OEmFMy1HYC",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "14th INTERSPEECH, 2013",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2058897907552199992",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2058897907552199992&engine=google_scholar&hl=en",
+                "cites_id": "2058897907552199992"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Compressed convex spectral embedding for bird species classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "13e0zscAAAAJ:9ZlFYXVOiuMC",
+            "authors": "A Thakur, V Abrol, P Sharma, P Rajan",
+            "publication": "2018 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2018",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15225748467022214778",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15225748467022214778&engine=google_scholar&hl=en",
+                "cites_id": "15225748467022214778"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Optimized cluster head selection & rotation for cooperative spectrum sensing in cognitive radio networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "13e0zscAAAAJ:zYLM7Y9cAGgC",
+            "authors": "P Sharma, V Abrol",
+            "publication": "2013 Tenth International Conference on Wireless and Optical Communications \u2026, 2013",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9337477950625450779",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9337477950625450779&engine=google_scholar&hl=en",
+                "cites_id": "9337477950625450779"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "Greedy double sparse dictionary learning for sparse representation of speech signals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:_kc_bZDykSQC",
+            "citation_id": "13e0zscAAAAJ:_kc_bZDykSQC",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "Speech Communication 85, 71-82, 2016",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18181995544173506514",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18181995544173506514&engine=google_scholar&hl=en",
+                "cites_id": "18181995544173506514"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Learning hierarchy aware embedding from raw audio for acoustic scene classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "13e0zscAAAAJ:R3hNpaxXUhUC",
+            "authors": "V Abrol, P Sharma",
+            "publication": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 28, 1964-1973, 2020",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14351245674269508268",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14351245674269508268&engine=google_scholar&hl=en",
+                "cites_id": "14351245674269508268"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "R\u00e9nyi entropy based mutual information for semi-supervised bird vocalization segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "13e0zscAAAAJ:mVmsd5A6BfQC",
+            "authors": "A Thakur, V Abrol, P Sharma, P Rajan",
+            "publication": "2017 IEEE 27th International Workshop on Machine Learning for Signal \u2026, 2017",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8234012488514199227",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8234012488514199227&engine=google_scholar&hl=en",
+                "cites_id": "8234012488514199227"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Archetypal analysis based sparse convex sequence kernel for bird activity detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "13e0zscAAAAJ:qxL8FJ1GzNcC",
+            "authors": "V Abrol, P Sharma, A Thakur, P Rajan, AD Dileep, AK Sao",
+            "publication": "2017 25th European Signal Processing Conference (EUSIPCO), 1774-1778, 2017",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2949672574409573474",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2949672574409573474&engine=google_scholar&hl=en",
+                "cites_id": "2949672574409573474"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "The model order limit: deep sparse factorization for resting brain",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "13e0zscAAAAJ:7PzlFSSx8tAC",
+            "authors": "D Dash, V Abrol, AK Sao, B Biswal",
+            "publication": "2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018 \u2026, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5980000763309300613",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5980000763309300613&engine=google_scholar&hl=en",
+                "cites_id": "5980000763309300613"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Deep Convex Representations: Feature Representations for Bioacoustics Classification.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:IWHjjKOFINEC",
+            "citation_id": "13e0zscAAAAJ:IWHjjKOFINEC",
+            "authors": "A Thakur, V Abrol, P Sharma, P Rajan",
+            "publication": "Interspeech, 2127-2131, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4417582928378717099",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4417582928378717099&engine=google_scholar&hl=en",
+                "cites_id": "4417582928378717099"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Deterministic compressed-sensing matrix from grassmannian matrix: Application to speech processing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "13e0zscAAAAJ:2osOgNQ5qMEC",
+            "authors": "V Abrol, P Sharma, S Budhiraja",
+            "publication": "2013 3rd IEEE International Advance Computing Conference (IACC), 1165-1170, 2013",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11681304437435663325",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11681304437435663325&engine=google_scholar&hl=en",
+                "cites_id": "11681304437435663325"
+            },
+            "year": "2013"
+        },
+        {
+            "title": "ASe: Acoustic Scene Embedding Using Deep Archetypal Analysis and GMM.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:qUcmZB5y_30C",
+            "citation_id": "13e0zscAAAAJ:qUcmZB5y_30C",
+            "authors": "P Sharma, V Abrol, A Thakur",
+            "publication": "Interspeech, 3299-3303, 2018",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2387935651310747911",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2387935651310747911&engine=google_scholar&hl=en",
+                "cites_id": "2387935651310747911"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Fast exemplar selection algorithm for matrix approximation and representation: A variant oasis algorithm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:4TOpqqG69KYC",
+            "citation_id": "13e0zscAAAAJ:4TOpqqG69KYC",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "2017 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2017",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12841185523994672414",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12841185523994672414&engine=google_scholar&hl=en",
+                "cites_id": "12841185523994672414"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Sector coded transmission protocol for cognitive radio networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:qjMakFHDy7sC",
+            "citation_id": "13e0zscAAAAJ:qjMakFHDy7sC",
+            "authors": "V Abrol, P Sharma",
+            "publication": "2012 International Conference on Communication, Information & Computing \u2026, 2012",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1068081356111890606",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1068081356111890606&engine=google_scholar&hl=en",
+                "cites_id": "1068081356111890606"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Compressed sensing for unit selection based speech synthesis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "13e0zscAAAAJ:MXK_kJrjxJIC",
+            "authors": "P Sharma, V Abrol, AK Sao",
+            "publication": "2015 23rd European Signal Processing Conference (EUSIPCO), 1731-1735, 2015",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14494756758125901932",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14494756758125901932&engine=google_scholar&hl=en",
+                "cites_id": "14494756758125901932"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Reducing footprint of unit selection based text-to-speech system using compressed sensing and sparse representation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:dhFuZR0502QC",
+            "citation_id": "13e0zscAAAAJ:dhFuZR0502QC",
+            "authors": "P Sharma, V Abrol, AK Sao",
+            "publication": "Computer Speech & Language 52, 191-208, 2018",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9690447904529411231",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9690447904529411231&engine=google_scholar&hl=en",
+                "cites_id": "9690447904529411231"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Local compressed convex spectral embedding for bird species identification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "13e0zscAAAAJ:ZeXyd9-uunAC",
+            "authors": "A Thakur, V Abrol, P Sharma, P Rajan",
+            "publication": "The Journal of the Acoustical Society of America 143 (6), 3819-3828, 2018",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17084414859408563821",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17084414859408563821&engine=google_scholar&hl=en",
+                "cites_id": "17084414859408563821"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Spatial sparsification and low rank projection for fast analysis of multi-subject resting state fMRI data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "13e0zscAAAAJ:L8Ckcad2t8MC",
+            "authors": "D Dash, V Abrol, AK Sao, B Biswal",
+            "publication": "2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018 \u2026, 2018",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12065230743422503148",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12065230743422503148&engine=google_scholar&hl=en",
+                "cites_id": "12065230743422503148"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Fast and robust fMRI unmixing using hierarchical dictionary learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "13e0zscAAAAJ:kNdYIx-mwKoC",
+            "authors": "V Abrol, P Sharma, SF Roohi, AK Sao, AA Kassim",
+            "publication": "2016 IEEE International Conference on Image Processing (ICIP), 714-718, 2016",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11241484800854871653",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11241484800854871653&engine=google_scholar&hl=en",
+                "cites_id": "11241484800854871653"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Speech emotion recognition using kernel sparse representation based classifier",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "13e0zscAAAAJ:YOwf2qJgpHMC",
+            "authors": "P Sharma, V Abrol, A Sachdev, AD Dileep",
+            "publication": "2016 24th European Signal Processing Conference (EUSIPCO), 374-377, 2016",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16294762235395671814",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16294762235395671814&engine=google_scholar&hl=en",
+                "cites_id": "16294762235395671814"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Supervised speech enhancement using compressed sensing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "13e0zscAAAAJ:hqOjcs7Dif8C",
+            "authors": "P Sharma, V Abrol, AK Sao",
+            "publication": "2015 Twenty First National Conference on Communications (NCC), 1-5, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8337650305617425991",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8337650305617425991&engine=google_scholar&hl=en",
+                "cites_id": "8337650305617425991"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "An empirical study of derivative-free-optimization algorithms for targeted black-box attacks in deep neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:r0BpntZqJG4C",
+            "citation_id": "13e0zscAAAAJ:r0BpntZqJG4C",
+            "authors": "G Ughi, V Abrol, J Tanner",
+            "publication": "Optimization and Engineering, 1-28, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11579681437776707270",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11579681437776707270&engine=google_scholar&hl=en",
+                "cites_id": "11579681437776707270"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Information-bottleneck under mean field initialization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "13e0zscAAAAJ:RHpTSmoSYBkC",
+            "authors": "V Abrol, J Tanner",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17495900889837909055",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17495900889837909055&engine=google_scholar&hl=en",
+                "cites_id": "17495900889837909055"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Improving generative modelling in VAEs using multimodal prior",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "13e0zscAAAAJ:j3f4tGmQtD8C",
+            "authors": "V Abrol, P Sharma, A Patra",
+            "publication": "IEEE Transactions on Multimedia 23, 2153-2161, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11556826617845928936",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11556826617845928936&engine=google_scholar&hl=en",
+                "cites_id": "11556826617845928936"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Learned dictionaries for sparse representation based unit selection speech synthesis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "13e0zscAAAAJ:KlAtU1dfN6UC",
+            "authors": "P Sharma, V Abrol, AK Sao",
+            "publication": "2016 Twenty Second National Conference on Communication (NCC), 1-5, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9168428343790710428",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9168428343790710428&engine=google_scholar&hl=en",
+                "cites_id": "9168428343790710428"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "A geometric approach to archetypal analysis via sparse projections",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "13e0zscAAAAJ:4JMBOYKVnBMC",
+            "authors": "V Abrol, P Sharma",
+            "publication": "International Conference on Machine Learning, 42-51, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9783313617732918170",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9783313617732918170&engine=google_scholar&hl=en",
+                "cites_id": "9783313617732918170"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Gradient-based spectral visualization of CNNs using raw waveforms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "13e0zscAAAAJ:hFOr9nPyWt4C",
+            "authors": "H Muckenhirn, V Abrol, S Marcel",
+            "publication": "Idiap, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17703125790195307871",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17703125790195307871&engine=google_scholar&hl=en",
+                "cites_id": "17703125790195307871"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "GMM-AA system for acoustic scene classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "13e0zscAAAAJ:Wp0gIr-vW9MC",
+            "authors": "V Abrol, P Sharma, A Thakur",
+            "publication": "Tech. Rep., DCASE2017 Challenge, Tech. Rep, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12905979121108802007",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12905979121108802007&engine=google_scholar&hl=en",
+                "cites_id": "12905979121108802007"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Identifying archetypes by exploiting sparsity of convex representations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "13e0zscAAAAJ:M3ejUd6NZC8C",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "Workshop on The Signal Processing with Adaptive Sparse Structured \u2026, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9459565284144950086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9459565284144950086&engine=google_scholar&hl=en",
+                "cites_id": "9459565284144950086"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Classification of Infant Behavioural Traits using Acoustic Cry: An Empirical Study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:maZDTaKrznsC",
+            "citation_id": "13e0zscAAAAJ:maZDTaKrznsC",
+            "authors": "S Jindal, K Nathwani, V Abrol",
+            "publication": "2021 12th International Symposium on Image and Signal Processing and \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14942080670450846793",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14942080670450846793&engine=google_scholar&hl=en",
+                "cites_id": "14942080670450846793"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "A Model-Based Derivative-Free Approach to Black-Box Adversarial Examples: BOBYQA",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:TQgYirikUcIC",
+            "citation_id": "13e0zscAAAAJ:TQgYirikUcIC",
+            "authors": "G Ughi, V Abrol, J Tanner",
+            "publication": "arXiv preprint arXiv:2002.10349, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8499534027088874790",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8499534027088874790&engine=google_scholar&hl=en",
+                "cites_id": "8499534027088874790"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Understanding raw waveform based CNN through low-rank spectro-temporal decoupling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:HDshCWvjkbEC",
+            "citation_id": "13e0zscAAAAJ:HDshCWvjkbEC",
+            "authors": "V Abrol, SP Dubagunta",
+            "publication": "Idiap, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15590518863838230136",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15590518863838230136&engine=google_scholar&hl=en",
+                "cites_id": "15590518863838230136"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Class specific GMM based sparse feature for speech units classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:4DMP91E08xMC",
+            "citation_id": "13e0zscAAAAJ:4DMP91E08xMC",
+            "authors": "P Sharma, V Abrol, AD Dileep, AK Sao",
+            "publication": "2017 25th European Signal Processing Conference (EUSIPCO), 528-532, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6456949882070630655",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6456949882070630655&engine=google_scholar&hl=en",
+                "cites_id": "6456949882070630655"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Coordinate descent on the orthogonal group for recurrent neural network training",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:TFP_iSt0sucC",
+            "citation_id": "13e0zscAAAAJ:TFP_iSt0sucC",
+            "authors": "E Massart, V Abrol",
+            "publication": "arXiv preprint arXiv:2108.00051, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15467463075127358590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15467463075127358590&engine=google_scholar&hl=en",
+                "cites_id": "15467463075127358590"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Transfer Learning for Speech Intelligibility Improvement in Noisy Environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:k_IJM867U9cC",
+            "citation_id": "13e0zscAAAAJ:k_IJM867U9cC",
+            "authors": "R Biswas, K Nathwani, V Abrol",
+            "publication": "Proc. Interspeech 2021, 176-180, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16764979080025400738",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16764979080025400738&engine=google_scholar&hl=en",
+                "cites_id": "16764979080025400738"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Conv-codes: audio hashing for bird species classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:hC7cP41nSMkC",
+            "citation_id": "13e0zscAAAAJ:hC7cP41nSMkC",
+            "authors": "A Thakur, P Sharma, V Abrol, P Rajan",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7911366155927756150",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7911366155927756150&engine=google_scholar&hl=en",
+                "cites_id": "7911366155927756150"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Activation function design for deep networks: linearity and effective initialisation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "13e0zscAAAAJ:bEWYMUwI8FkC",
+            "authors": "M Murray, V Abrol, J Tanner",
+            "publication": "Applied and Computational Harmonic Analysis, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022"
+        },
+        {
+            "title": "Data pre-processing using Neural Processes for Modelling Personalised Vital-Sign Time-Series Data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:isC4tDSrTZIC",
+            "citation_id": "13e0zscAAAAJ:isC4tDSrTZIC",
+            "authors": "P Sharma, FE Shamout, V Abrol, D Clifton",
+            "publication": "IEEE Journal of Biomedical and Health Informatics, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "2021 Index IEEE Transactions on Multimedia Vol. 23",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "13e0zscAAAAJ:M3NEmzRMIkIC",
+            "authors": "V Abrol, OA Ademoye, A Aghagolzadeh, M Akbari, Z Al-Halah, ...",
+            "publication": "IEEE Transactions on Multimedia 23, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "2020 Index IEEE/ACM Transactions on Audio, Speech, and Language Processing Vol. 28",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "13e0zscAAAAJ:iH-uZ7U-co4C",
+            "authors": "V Abrol, A Abtahi, P Agrawal, Y Ai, X Alameda-Pineda, P Alku, A Amar, ...",
+            "publication": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 28, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "TROPE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:mB3voiENLucC",
+            "citation_id": "13e0zscAAAAJ:mB3voiENLucC",
+            "authors": "CNNT LOW-RANK, ST DECOUPLING",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "TROPE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "13e0zscAAAAJ:e5wmG9Sq2KIC",
+            "authors": "VOFCU RAW",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Greedy dictionary learning methods for sparse representation of signals (PhD)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "13e0zscAAAAJ:_Qo2XoVZTnwC",
+            "authors": "V Abrol",
+            "publication": "IITMandi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "2017 Index IEEE/ACM Transactions on Audio, Speech, and Language Processing Vol. 25",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "13e0zscAAAAJ:QIV2ME_5wuYC",
+            "authors": "J Abeber, J Abel, J Abeser, TD Abhayapala, V Abrol, MO Ahmad, ...",
+            "publication": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 25 (12), 2463, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Proceedings of the third\" international Traveling Workshop on Interactions between Sparse models and Technology\"(iTWIST'16)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:Zph67rFs4hoC",
+            "citation_id": "13e0zscAAAAJ:Zph67rFs4hoC",
+            "authors": "V Abrol, O Absil, PA Absil, S Anthoine, P Antoine, T Arildsen, N Bertin, ...",
+            "publication": "arXiv preprint arXiv:1609.04167, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Making sense of randomness: Fast signal recovery from compressive samples",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "13e0zscAAAAJ:ULOm3_A8WrAC",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "2016 24th European Signal Processing Conference (EUSIPCO), 56-60, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Making sense of randomness: an approach for fast recovery of compressively sensed signals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:5nxA0vEk-isC",
+            "citation_id": "13e0zscAAAAJ:5nxA0vEk-isC",
+            "authors": "V Abrol, P Sharma, AK Sao",
+            "publication": "arXiv preprint arXiv:1507.07077, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Radio model for sector coded transmission protocol",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=13e0zscAAAAJ&pagesize=100&citation_for_view=13e0zscAAAAJ:roLk4NBRz8UC",
+            "citation_id": "13e0zscAAAAJ:roLk4NBRz8UC",
+            "authors": "V Abrol, P Sharma",
+            "publication": "2014 Eleventh International Conference on Wireless and Optical \u2026, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 360,
+                    "since_2017": 289
+                }
+            },
+            {
+                "h_index": {
+                    "all": 11,
+                    "since_2017": 10
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 13,
+                    "since_2017": 11
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2013,
+                "citations": 5
+            },
+            {
+                "year": 2014,
+                "citations": 14
+            },
+            {
+                "year": 2015,
+                "citations": 19
+            },
+            {
+                "year": 2016,
+                "citations": 33
+            },
+            {
+                "year": 2017,
+                "citations": 22
+            },
+            {
+                "year": 2018,
+                "citations": 72
+            },
+            {
+                "year": 2019,
+                "citations": 50
+            },
+            {
+                "year": 2020,
+                "citations": 53
+            },
+            {
+                "year": 2021,
+                "citations": 69
+            },
+            {
+                "year": 2022,
+                "citations": 22
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=13e0zscAAAAJ",
+        "available": 6,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Pulkit Sharma",
+            "link": "https://scholar.google.com/citations?user=btaBdcgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=btaBdcgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "btaBdcgAAAAJ",
+            "affiliations": "Post-doctoral Researcher, University of Oxford",
+            "email": "Verified email at eng.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=btaBdcgAAAAJ&citpid=4"
+        },
+        {
+            "name": "Anil Kumar Sao",
+            "link": "https://scholar.google.com/citations?user=Ldop8wEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Ldop8wEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Ldop8wEAAAAJ",
+            "affiliations": "Associate Professor",
+            "email": "Verified email at iitmandi.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Anshul Thakur",
+            "link": "https://scholar.google.com/citations?user=yB-oPPoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yB-oPPoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yB-oPPoAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at eng.ox.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Padmanabhan Rajan",
+            "link": "https://scholar.google.com/citations?user=g2W04wkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=g2W04wkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "g2W04wkAAAAJ",
+            "affiliations": "Indian Institute of Technology Mandi",
+            "email": "Verified email at iitmandi.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=g2W04wkAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dileep Aroor Dinesh",
+            "link": "https://scholar.google.com/citations?user=fqQk1gcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fqQk1gcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "fqQk1gcAAAAJ",
+            "affiliations": "Indian Institute of Technology Mandi",
+            "email": "Verified email at iitmandi.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Jared Tanner",
+            "link": "https://scholar.google.com/citations?user=J7248tkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=J7248tkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "J7248tkAAAAJ",
+            "affiliations": "Professor of Mathematics of Information, University of Oxford",
+            "email": "Verified email at maths.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=J7248tkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sumit Budhiraja",
+            "link": "https://scholar.google.com/citations?user=6AR5mf0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6AR5mf0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6AR5mf0AAAAJ",
+            "affiliations": "Panjab University Chandigarh",
+            "email": "Verified email at pu.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6AR5mf0AAAAJ&citpid=7"
+        },
+        {
+            "name": "S\u00e9bastien Marcel",
+            "link": "https://scholar.google.com/citations?user=K9ku4jYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=K9ku4jYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "K9ku4jYAAAAJ",
+            "affiliations": "Senior researcher ( Idiap research institute ) and Professor ( University of Lausanne )",
+            "email": "Verified email at idiap.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=K9ku4jYAAAAJ&citpid=5"
+        },
+        {
+            "name": "Hannah Muckenhirn",
+            "link": "https://scholar.google.com/citations?user=tyB3qnoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tyB3qnoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tyB3qnoAAAAJ",
+            "affiliations": "Google AI",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Bharat Biswal",
+            "link": "https://scholar.google.com/citations?user=FJ8WWDYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FJ8WWDYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FJ8WWDYAAAAJ",
+            "affiliations": "Department of Biomedical Engineering,NJIT and Department of Radiology, New Jersey Medical School",
+            "email": "Verified email at njit.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Debadatta Dash",
+            "link": "https://scholar.google.com/citations?user=vlEo2T0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vlEo2T0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "vlEo2T0AAAAJ",
+            "affiliations": "NINDS, NIH",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vlEo2T0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Mathew Magimai Doss",
+            "link": "https://scholar.google.com/citations?user=_LvtkuAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_LvtkuAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_LvtkuAAAAAJ",
+            "affiliations": "Senior Researcher, Idiap Research Institute, Martigny, Switzerland",
+            "email": "Verified email at idiap.ch",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Giuseppe Ughi",
+            "link": "https://scholar.google.com/citations?user=vK8Qd30AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vK8Qd30AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "vK8Qd30AAAAJ",
+            "affiliations": "PhD Student, University of Oxford",
+            "email": "Verified email at maths.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vK8Qd30AAAAJ&citpid=1"
+        },
+        {
+            "name": "Karan Nathwani",
+            "link": "https://scholar.google.com/citations?user=YmtqiOUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YmtqiOUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YmtqiOUAAAAJ",
+            "affiliations": "Assistant Professor",
+            "email": "Verified email at iitjammu.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YmtqiOUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Ashraf A. Kassim",
+            "link": "https://scholar.google.com/citations?user=JmcDlF8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JmcDlF8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JmcDlF8AAAAJ",
+            "affiliations": "Professor of ECE, National University of Singapore",
+            "email": "Verified email at u.nus.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JmcDlF8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Shahrooz Faghih Roohi",
+            "link": "https://scholar.google.com/citations?user=0dwN7qAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0dwN7qAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "0dwN7qAAAAAJ",
+            "affiliations": "Senior Research Scientist, Technical University of Munich",
+            "email": "Verified email at tum.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0dwN7qAAAAAJ&citpid=6"
+        },
+        {
+            "name": "Arijit Patra",
+            "link": "https://scholar.google.com/citations?user=PytkJLcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=PytkJLcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "PytkJLcAAAAJ",
+            "affiliations": "University of Oxford",
+            "email": "Verified email at eng.ox.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=PytkJLcAAAAJ&citpid=1"
+        },
+        {
+            "name": "S Pavankumar Dubagunta",
+            "link": "https://scholar.google.com/citations?user=--k6n58AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=--k6n58AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "--k6n58AAAAJ",
+            "affiliations": "Uniphore Software Systems",
+            "email": "Verified email at uniphore.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=--k6n58AAAAJ&citpid=1"
+        },
+        {
+            "name": "Sahil Jindal",
+            "link": "https://scholar.google.com/citations?user=F6ACHV8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=F6ACHV8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "F6ACHV8AAAAJ",
+            "affiliations": "University of Massachusetts Amherst",
+            "email": "Verified email at umass.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=F6ACHV8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Estelle Massart",
+            "link": "https://scholar.google.com/citations?user=F_xNQ7IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=F_xNQ7IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "F_xNQ7IAAAAJ",
+            "affiliations": "FNRS Scientific Collaborator, UCLouvain",
+            "email": "Verified email at uclouvain.be",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

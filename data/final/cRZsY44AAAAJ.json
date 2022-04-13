@@ -1,0 +1,475 @@
+{
+    "search_metadata": {
+        "id": "6256e0ee9bddf798a0f7f3fa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/27795907fef9d184/6256e0ee9bddf798a0f7f3fa.json",
+        "created_at": "2022-04-13 14:40:46 UTC",
+        "processed_at": "2022-04-13 14:40:46 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=cRZsY44AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/27795907fef9d184/6256e0ee9bddf798a0f7f3fa.html",
+        "total_time_taken": 0.78,
+        "total_articles": 23,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "cRZsY44AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Vivek Kumar",
+        "affiliations": "Assistant Professor, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://vivkumar.github.io/",
+        "interests": [
+            {
+                "title": "Parallel programming models",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:parallel_programming_models",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparallel_programming_models"
+            },
+            {
+                "title": "runtime systems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:runtime_systems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aruntime_systems"
+            },
+            {
+                "title": "task scheduling",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:task_scheduling",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atask_scheduling"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cRZsY44AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "HabaneroUPC++: a Compiler-free PGAS Library",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:Se3iqnhoufwC",
+            "citation_id": "cRZsY44AAAAJ:Se3iqnhoufwC",
+            "authors": "V Kumar, Y Zheng, V Cave \u0301, Z Budimlic \u0301, V Sarkar",
+            "publication": "Proceedings of the 8th International Conference on Partitioned Global \u2026, 2014",
+            "cited_by": {
+                "value": 61,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5752101220814181352",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5752101220814181352&engine=google_scholar&hl=en",
+                "cites_id": "5752101220814181352"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Work-stealing without the baggage",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "cRZsY44AAAAJ:u5HHmVD_uO8C",
+            "authors": "V Kumar, D Frampton, SM Blackburn, D Grove, O Tardieu",
+            "publication": "ACM SIGPLAN Notices 47 (10), 297-314, 2012",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8364229494398893847",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8364229494398893847&engine=google_scholar&hl=en",
+                "cites_id": "8364229494398893847"
+            },
+            "year": "2012"
+        },
+        {
+            "title": "Optimized Distributed Work-Stealing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:Tiz5es2fbqcC",
+            "citation_id": "cRZsY44AAAAJ:Tiz5es2fbqcC",
+            "authors": "V Kumar, K Murthy, V Sarkar, Y Zheng",
+            "publication": "Proceedings of the 6th Workshop on Irregular Applications: Architectures and \u2026, 2016",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7991125967422098373",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7991125967422098373&engine=google_scholar&hl=en",
+                "cites_id": "7991125967422098373"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Integrating Asynchronous Task Parallelism with OpenSHMEM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:KxtntwgDAa4C",
+            "citation_id": "cRZsY44AAAAJ:KxtntwgDAa4C",
+            "authors": "M Grossman, V Kumar, Z Budimlic, V Sarkar",
+            "publication": "Proceedings of the 3rd workshop on OpenSHMEM and Related Technologies, 2016",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6198267249144265253",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6198267249144265253&engine=google_scholar&hl=en",
+                "cites_id": "6198267249144265253"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "A Pluggable Framework for Composable HPC Scheduling Libraries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:5Ul4iDaHHb8C",
+            "citation_id": "cRZsY44AAAAJ:5Ul4iDaHHb8C",
+            "authors": "M Grossman, V Kumar, Z Vrvilo, Nick, Budimlic, V Sarkar",
+            "publication": "IEEE International Parallel and Distributed Processing Symposium Workshops \u2026, 2017",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1991351670081479260",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1991351670081479260&engine=google_scholar&hl=en",
+                "cites_id": "1991351670081479260"
+            },
+            "year": "2017"
+        },
+        {
+            "title": "Heterogeneous Work-stealing across CPU and DSP cores",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "cRZsY44AAAAJ:hqOjcs7Dif8C",
+            "authors": "V Kumar, A Sbi\u0302rlea, A Jayaraj, Z Budimlic \u0301, D Majeti, V Sarkar",
+            "publication": "Proceedings of 19th IEEE High Performance Extreme Computing Conference (HPEC), 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9600003555425429998",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9600003555425429998&engine=google_scholar&hl=en",
+                "cites_id": "9600003555425429998"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Friendly barriers: Efficient work-stealing with return barriers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "cRZsY44AAAAJ:IjCSPb-OGe4C",
+            "authors": "V Kumar, SM Blackburn, D Grove",
+            "publication": "ACM SIGPLAN Notices 49 (7), 165-176, 2014",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9263760127501900543",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9263760127501900543&engine=google_scholar&hl=en",
+                "cites_id": "9263760127501900543"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "Integrating Asynchronous Task Parallelism and Data-centric Atomicity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "cRZsY44AAAAJ:nb7KW1ujOQ8C",
+            "authors": "V Kumar, J Dolby, SM Blackburn",
+            "publication": "Proceedings of the 13th International Conference on Principles and Practices \u2026, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5190538129810532039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5190538129810532039&engine=google_scholar&hl=en",
+                "cites_id": "5190538129810532039"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "OneStopTuner: An End to End Architecture for JVM Tuning of Spark Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:yB1At4FlUx8C",
+            "citation_id": "cRZsY44AAAAJ:yB1At4FlUx8C",
+            "authors": "PB Bindal, D Singhal, AV Subramanyam, V Kumar",
+            "publication": "arXiv preprint arXiv:2009.06374, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5269889704591146121",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5269889704591146121&engine=google_scholar&hl=en",
+                "cites_id": "5269889704591146121"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "Featherlight Speculative Task Parallelism",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:JoZmwDi-zQgC",
+            "citation_id": "cRZsY44AAAAJ:JoZmwDi-zQgC",
+            "authors": "V Kumar",
+            "publication": "European Conference on Parallel Processing, 391-404, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16268513139817229558",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16268513139817229558&engine=google_scholar&hl=en",
+                "cites_id": "16268513139817229558"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "Work-stealing by stealing states from live stack frames of a running application",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "cRZsY44AAAAJ:Y0pCki6q_DkC",
+            "authors": "V Kumar, D Frampton, D Grove, O Tardieu, SM Blackburn",
+            "publication": "Proceedings of the ACM SIGPLAN X10 Workshop, 2011",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1273705530258890567",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1273705530258890567&engine=google_scholar&hl=en",
+                "cites_id": "1273705530258890567"
+            },
+            "year": "2011"
+        },
+        {
+            "title": "HiPC 2021 Workshop on Parallel Programming in the Exascale Era (PPEE 2021)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:lmc2jWPfTJgC",
+            "citation_id": "cRZsY44AAAAJ:lmc2jWPfTJgC",
+            "authors": "V Kumar, S Biswas, V Jatala",
+            "publication": "2021 IEEE 28th International Conference on High Performance Computing, Data \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Teaching High Productivity and High Performance in an Introductory Parallel Programming Course",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:MLfJN-KU85MC",
+            "citation_id": "cRZsY44AAAAJ:MLfJN-KU85MC",
+            "authors": "V Kumar",
+            "publication": "2021 IEEE 28th International Conference on High Performance Computing, Data \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "Cuttlefish: Library for Achieving Energy Efficiency in Multicore Parallel Programs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:L7CI7m0gUJcC",
+            "citation_id": "cRZsY44AAAAJ:L7CI7m0gUJcC",
+            "authors": "S Kumar, A Gupta, V Kumar, S Bhalachandra",
+            "publication": "Proceedings of the International Conference for High Performance Computing \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021"
+        },
+        {
+            "title": "PufferFish: NUMA-Aware Work-stealing Library using Elastic Tasks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:BwyfMAYsbu0C",
+            "citation_id": "cRZsY44AAAAJ:BwyfMAYsbu0C",
+            "authors": "V Kumar",
+            "publication": "2020 IEEE 27th International Conference on High Performance Computing, Data \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020"
+        },
+        {
+            "title": "HetroOMP: OpenMP for Hybrid Load Balancing Across Heterogeneous Processors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:SdhP9T11ey4C",
+            "citation_id": "cRZsY44AAAAJ:SdhP9T11ey4C",
+            "authors": "V Kumar, A Tiwari, G Mitra",
+            "publication": "International Workshop on OpenMP, 63-77, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019"
+        },
+        {
+            "title": "High performance and energy optimal parallel programming on CPU and DSP based MPSoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:BrmTIyaxlBUC",
+            "citation_id": "cRZsY44AAAAJ:BrmTIyaxlBUC",
+            "authors": "A Tiwari, V Kumar, G Mitra",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018"
+        },
+        {
+            "title": "Integrating Asynchronous Task Parallelism with OpenSHMEM, In: OpenSHMEM 2016: OpenSHMEM and Related Technologies. Enhancing OpenSHMEM for Hybrid Environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:N5tVd3kTz84C",
+            "citation_id": "cRZsY44AAAAJ:N5tVd3kTz84C",
+            "authors": "M Grossman, V Kumar, Z Budimli\u0107, V Sarkar",
+            "publication": "OPENSHMEM AND RELATED TECHNOLOGIES: ENHANCING OPENSHMEM FOR HYBRID \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016"
+        },
+        {
+            "title": "Scaling HabaneroUPC++ on Heterogeneous Supercomputers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:4OULZ7Gr8RgC",
+            "citation_id": "cRZsY44AAAAJ:4OULZ7Gr8RgC",
+            "authors": "V Kumar, M Grossman, H Shan, V Sarkar",
+            "publication": "2015 9th International Conference on Partitioned Global Address Space \u2026, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015"
+        },
+        {
+            "title": "Achieving High Performance and High Productivity in Next Generational Parallel Programming Languages",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:fQNAKQ3IYiAC",
+            "citation_id": "cRZsY44AAAAJ:fQNAKQ3IYiAC",
+            "authors": "V Kumar",
+            "publication": "The Australian National University, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014"
+        },
+        {
+            "title": "HiPCW 2021",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:b1wdh0AR-JQC",
+            "citation_id": "cRZsY44AAAAJ:b1wdh0AR-JQC",
+            "authors": "S Ghafoor, SK Prasad, C Weems, J Adams, V Kumar, S Wang, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Antonino Tumeo, Pacific Northwest National Laboratory (PNNL)(antonino. tumeo@ pnnl. gov) John Feo, Pacific Northwest National Laboratory (PNNL), Northwest Institute for \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:eJXPG6dFmWUC",
+            "citation_id": "cRZsY44AAAAJ:eJXPG6dFmWUC",
+            "authors": "O Villa, M Becchi, D Brooks, H Franke, TJ Watson, USJ Gilbert, V Kumar, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        },
+        {
+            "title": "Faster Work\u2013Stealing With Return Barriers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "cRZsY44AAAAJ:d1gkVwhDpl0C",
+            "authors": "V Kumar, SM Blackburn",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 180,
+                    "since_2017": 118
+                }
+            },
+            {
+                "h_index": {
+                    "all": 7,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2013,
+                "citations": 6
+            },
+            {
+                "year": 2014,
+                "citations": 13
+            },
+            {
+                "year": 2015,
+                "citations": 16
+            },
+            {
+                "year": 2016,
+                "citations": 22
+            },
+            {
+                "year": 2017,
+                "citations": 21
+            },
+            {
+                "year": 2018,
+                "citations": 26
+            },
+            {
+                "year": 2019,
+                "citations": 31
+            },
+            {
+                "year": 2020,
+                "citations": 10
+            },
+            {
+                "year": 2021,
+                "citations": 28
+            },
+            {
+                "year": 2022,
+                "citations": 2
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=cRZsY44AAAAJ",
+        "available": 3,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vivek Sarkar",
+            "link": "https://scholar.google.com/citations?user=XjeIqxYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XjeIqxYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XjeIqxYAAAAJ",
+            "affiliations": "School of Computer Science, Georgia Institute of Technology",
+            "email": "Verified email at gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XjeIqxYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Steve Blackburn",
+            "link": "https://scholar.google.com/citations?user=HgSTO7oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HgSTO7oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HgSTO7oAAAAJ",
+            "affiliations": "Professor of Computer Science, Australian National University",
+            "email": "Verified email at anu.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HgSTO7oAAAAJ&citpid=4"
+        },
+        {
+            "name": "David Grove",
+            "link": "https://scholar.google.com/citations?user=iU8ijrYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iU8ijrYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "iU8ijrYAAAAJ",
+            "affiliations": "IBM Research",
+            "email": "Verified email at us.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iU8ijrYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Yili Zheng",
+            "link": "https://scholar.google.com/citations?user=DcDI6VcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DcDI6VcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "DcDI6VcAAAAJ",
+            "affiliations": "Google",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DcDI6VcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Julian Dolby",
+            "link": "https://scholar.google.com/citations?user=o5QfxzkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=o5QfxzkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "o5QfxzkAAAAJ",
+            "affiliations": "IBM Thomas J. Watson Research Center",
+            "email": "Verified email at us.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o5QfxzkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Gaurav Mitra",
+            "link": "https://scholar.google.com/citations?user=6WvxN4YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6WvxN4YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6WvxN4YAAAAJ",
+            "affiliations": "Facebook Inc.",
+            "email": "Verified email at fb.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6WvxN4YAAAAJ&citpid=2"
+        },
+        {
+            "name": "Karthik S Murthy",
+            "link": "https://scholar.google.com/citations?user=bakqC5EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bakqC5EAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "bakqC5EAAAAJ",
+            "affiliations": "Engineer, Google",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}
