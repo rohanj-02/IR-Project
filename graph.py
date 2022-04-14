@@ -1,8 +1,10 @@
 import json
 import os
-
+import networkx as nx
+import matplotlib
 
 class Author:
+    
     def __init__(self, name, authorType, authorCategory, penNames, articles=None):
         self.name = name
         self.authorType = authorType
@@ -13,6 +15,12 @@ class Author:
     def printAuthor(self):
         print('Name =', self.name, 'Type =', self.authorType, 'Category =', self.authorCategory, 'NameList =',
               self.penNames)
+    
+    def __str__(self):
+        return f'{self.name}'#    ,Type :{self.authorType}, Category: {self.authorCategory}, NameList: {self.penNames}'
+
+    def __repr__(self):
+        return str(self)
 
 
 class Graph:
@@ -46,8 +54,8 @@ class Graph:
 
 
 G = Graph()
-filepath = 'C:\\Users\\gitsa\\Documents\\GitHub\\IR-Project\\data\\final\\'
-filepath2 = 'C:\\Users\\gitsa\\Documents\\GitHub\\IR-Project\\data\\final2\\'
+filepath = 'data/final/'
+filepath2 = 'data/final2/'
 facultyData = os.listdir(filepath)
 studentData = os.listdir(filepath2)
 facultyList = []
@@ -136,7 +144,7 @@ l = []
 # for i in aList:
 #     i.printAuthor()
 
-with open('authorData.josn', 'r') as f:
+with open('authorData.json', 'r') as f:
     data = json.load(f)
 objList = []
 newList = []
@@ -166,7 +174,7 @@ for paper in data:
     objList.append(temp)
 # rlist = sorted(rlist, key = rlist.count,reverse = True)
 # print(result)
-print(len(objList), count)
+# print(len(objList), count)
 # rdict={}
 # for i in rlist:
 #     if i in rdict.keys():
@@ -180,6 +188,12 @@ for combo in objList:
         for j in range(i+1,len(combo)):
             G.addEdge(combo[i],combo[j])
 
+
+
+# print(G.graph)
+
+
+
 # ddict={1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,9:0,10:0,11:0,12:0,13:0,14:0,15:0,16:0,17:0,18:0,19:0,20:0,}
 # for a in G.graph:
 #     for b in G.graph[a]:
@@ -188,3 +202,21 @@ for combo in objList:
 #         else:
 #             ddict[G.graph[a][b]]+=1
 # print(ddict)
+
+
+
+
+# Convert The Graph to NetorkX Graph
+G_=nx.Graph()
+for author in G.graph:
+    G_.add_node(author.name,articles=author.articles,authorCategory=author.authorCategory,
+                authorType=author.authorType,penNames=author.penNames)
+
+for i in G.graph:
+    for j in G.graph[i]:
+        G_.add_edge(i.name,j.name,weight=G.graph[i][j])
+
+import pickle 
+with open('data/graph.pkl','wb') as f:
+    pickle.dump(G_,f)
+

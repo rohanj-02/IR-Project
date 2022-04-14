@@ -43,7 +43,7 @@ print(len(publications),len(allAuthors),len(diffAuthors))
 data={}
 for i in range(len(publications)):
     data[publications[i]]=diffAuthors[i]
-with open('authorData.josn','w') as f:
+with open('authorData.json','w') as f:
     json.dump(data,f,indent=4)
 
 
