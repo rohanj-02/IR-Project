@@ -1,0 +1,2685 @@
+{
+    "search_metadata": {
+        "id": "6256e2751071f4eea8c3c2b4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/e78399e6ad48b46b/6256e2751071f4eea8c3c2b4.json",
+        "created_at": "2022-04-13 14:47:17 UTC",
+        "processed_at": "2022-04-13 14:47:17 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=x5XsnwkAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/e78399e6ad48b46b/6256e2751071f4eea8c3c2b4.html",
+        "total_time_taken": 1.78,
+        "total_articles": 62,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "x5XsnwkAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Pravesh Biyani",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Signal Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:signal_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asignal_processing"
+            },
+            {
+                "title": "Transportation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:transportation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atransportation"
+            },
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Distributed representations for biological sequence analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "x5XsnwkAAAAJ:hqOjcs7Dif8C",
+            "authors": "D Kimothi, A Soni, P Biyani, JM Hogan",
+            "publication": "arXiv preprint arXiv:1608.05949, 2016",
+            "cited_by": {
+                "value": 58,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8989136497173606486",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8989136497173606486&engine=google_scholar&hl=en",
+                "cites_id": "8989136497173606486"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distributed representations for biological sequence analysis",
+                    "author": [
+                        "D Kimothi",
+                        "A Soni",
+                        "P Biyani",
+                        "JM Hogan"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "arXiv preprint arXiv:1608.05949",
+                    "abstract": "Biological sequence comparison is a key step in inferring the relatedness of various organisms and the functional similarity of their components. Thanks to the Next Generation Sequencing efforts, an abundance of sequence data is now available to be processed for a range of bioinformatics applications. Embedding a biological sequence over a nucleotide or amino acid alphabet in a lower dimensional vector space makes the data more amenable for use by current machine learning tools, provided the quality of embedding is high and it"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1608.05949",
+                "author_id": [
+                    "JQzhc-QAAAAJ",
+                    "xy2sXpUAAAAJ",
+                    "x5XsnwkAAAAJ",
+                    "OgUoa_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VjCIhwTUv3wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistributed%2Brepresentations%2Bfor%2Bbiological%2Bsequence%2Banalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VjCIhwTUv3wJ&ei=nxtjYqbiE7yCy9YPv5-K-Ac&json=",
+                "num_citations": 58,
+                "citedby_url": "/scholar?cites=8989136497173606486&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VjCIhwTUv3wJ:scholar.google.com/&scioq=Distributed+representations+for+biological+sequence+analysis&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1608.05949"
+            }
+        },
+        {
+            "title": "Impulse denoising for hyper-spectral images: A blind compressed sensing approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:qjMakFHDy7sC",
+            "citation_id": "x5XsnwkAAAAJ:qjMakFHDy7sC",
+            "authors": "A Majumdar, N Ansari, H Aggarwal, P Biyani",
+            "publication": "Signal Processing 119, 136-141, 2016",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1189597258978222462",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1189597258978222462&engine=google_scholar&hl=en",
+                "cites_id": "1189597258978222462"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Impulse denoising for hyper-spectral images: A blind compressed sensing approach",
+                    "author": [
+                        "A Majumdar",
+                        "N Ansari",
+                        "H Aggarwal",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Signal Processing",
+                    "abstract": "In this work we propose a technique to remove sparse impulse noise from hyperspectral images. Our algorithm accounts for the spatial redundancy and spectral correlation of such images. The proposed method is based on the recently introduced Blind Compressed Sensing (BCS) framework, ie it empirically learns the spatial and spectral sparsifying dictionaries while denoising the images. The BCS framework differs from existing CS techniques that employ fixed sparsifying basis; BCS also differs from prior dictionary"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0165168415002546",
+                "author_id": [
+                    "nwNIkAUAAAAJ",
+                    "SxuQKigAAAAJ",
+                    "SbXoUs0AAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fuEsf2dMghAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImpulse%2Bdenoising%2Bfor%2Bhyper-spectral%2Bimages:%2BA%2Bblind%2Bcompressed%2Bsensing%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fuEsf2dMghAJ&ei=oxtjYvizA8LZmQHc1ovQAg&json=",
+                "num_citations": 24,
+                "citedby_url": "/scholar?cites=1189597258978222462&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fuEsf2dMghAJ:scholar.google.com/&scioq=Impulse+denoising+for+hyper-spectral+images:+A+blind+compressed+sensing+approach&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1912.06630"
+            }
+        },
+        {
+            "title": "Joint classification and pairing of human chromosomes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:roLk4NBRz8UC",
+            "citation_id": "x5XsnwkAAAAJ:roLk4NBRz8UC",
+            "authors": "P Biyani, X Wu, A Sinha",
+            "publication": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 2 (2), 102-109, 2005",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7924046773040066143",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7924046773040066143&engine=google_scholar&hl=en",
+                "cites_id": "7924046773040066143"
+            },
+            "year": "2005",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Joint classification and pairing of human chromosomes",
+                    "author": [
+                        "P Biyani",
+                        "X Wu",
+                        "A Sinha"
+                    ],
+                    "pub_year": "2005",
+                    "venue": "IEEE/ACM Transactions on \u2026",
+                    "abstract": "We reexamine the problems of computer-aided classification and pairing of human chromosomes, and propose to jointly optimize the solutions of these two related problems. The combined problem is formulated into one of optimal three-dimensional assignment with an objective function of maximum likelihood. This formulation poses two technical challenges: 1) estimation of the posterior probability that two chromosomes form a pair and the pair belongs to a class and 2) good heuristic algorithms to solve the three-dimensional"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/1438347/",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "ZuQnEIgAAAAJ",
+                    "HyBYVFAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Xy6igo7e920J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DJoint%2Bclassification%2Band%2Bpairing%2Bof%2Bhuman%2Bchromosomes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Xy6igo7e920J&ei=phtjYqq-DrKO6rQPy-CRsA8&json=",
+                "num_citations": 24,
+                "citedby_url": "/scholar?cites=7924046773040066143&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Xy6igo7e920J:scholar.google.com/&scioq=Joint+classification+and+pairing+of+human+chromosomes&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Adaptive off-diagonal MIMO pre-coder (ODMP) for downstream DSL self FEXT cancellation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "x5XsnwkAAAAJ:MXK_kJrjxJIC",
+            "authors": "P Duvaut, A Mahadevan, M Sorbara, E Langberg, P Biyani",
+            "publication": "IEEE GLOBECOM 2007-IEEE Global Telecommunications Conference, 2910-2915, 2007",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10396869568860239889",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10396869568860239889&engine=google_scholar&hl=en",
+                "cites_id": "10396869568860239889"
+            },
+            "year": "2007",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive off-diagonal MIMO pre-coder (ODMP) for downstream DSL self FEXT cancellation",
+                    "author": [
+                        "P Duvaut",
+                        "A Mahadevan",
+                        "M Sorbara"
+                    ],
+                    "pub_year": "2007",
+                    "venue": "\u2026 2007-IEEE Global \u2026",
+                    "abstract": "This paper introduces a new family of per frequency linear pre-coders, called off-diagonal MIMO pre-coders (ODMP), for discrete multi-tone (DMT) based digital subscriber line (DSL) systems. ODMP target pre-compensation of the off-diagonal self far-end cross talk (FEXT) terms in the downstream DSL-MIMO channel matrix. We derive a low complexity and adaptive ODMP that simultaneously maximizes the Shannon Capacities per tone, experienced by the (non-cooperative) end-users. The updating scheme makes use of the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/4411461/",
+                "author_id": [
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Ebj7s8kZSZAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%2Boff-diagonal%2BMIMO%2Bpre-coder%2B(ODMP)%2Bfor%2Bdownstream%2BDSL%2Bself%2BFEXT%2Bcancellation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ebj7s8kZSZAJ&ei=qRtjYva-J4OEmgH1zZjACQ&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=10396869568860239889&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Ebj7s8kZSZAJ:scholar.google.com/&scioq=Adaptive+off-diagonal+MIMO+pre-coder+(ODMP)+for+downstream+DSL+self+FEXT+cancellation&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Simultaneous bus transit route network and frequency setting search algorithm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "x5XsnwkAAAAJ:Wp0gIr-vW9MC",
+            "authors": "SMH Mahdavi Moghaddam, KR Rao, G Tiwari, P Biyani",
+            "publication": "Journal of Transportation Engineering, Part A: Systems 145 (4), 04019011, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16349976204921726168",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16349976204921726168&engine=google_scholar&hl=en",
+                "cites_id": "16349976204921726168"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Simultaneous bus transit route network and frequency setting search algorithm",
+                    "author": [
+                        "SMH Mahdavi Moghaddam",
+                        "KR Rao"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026 Engineering, Part A \u2026",
+                    "abstract": "A simultaneous bus route network design and frequency setting model is formulated as the weighted sum multiobjective genetic algorithm optimization. It aims to search for a near-optimum set of routes and corresponding frequencies while minimizing both user and operator costs. It is a nondeterministic polynomial time complete optimization problem, and searching the entire space through metaheuristic algorithms is impractical. It does require narrowing down the search space into some feasible regions. In this paper, two strategies"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000229",
+                "author_id": [
+                    "",
+                    "3qDoM8kAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2ORyhLvI5uIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimultaneous%2Bbus%2Btransit%2Broute%2Bnetwork%2Band%2Bfrequency%2Bsetting%2Bsearch%2Balgorithm%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2ORyhLvI5uIJ&ei=rBtjYo2QOpLeyQTE46-QAg&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=16349976204921726168&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2ORyhLvI5uIJ:scholar.google.com/&scioq=Simultaneous+bus+transit+route+network+and+frequency+setting+search+algorithm&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Method and apparatus for cancelling impulse noise in dsl systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "x5XsnwkAAAAJ:9ZlFYXVOiuMC",
+            "authors": "P Biyani, SM Zafaruddin, L Pierrugues, LF Alloin",
+            "publication": "US Patent App. 14/058,112, 2014",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17101182693412687178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17101182693412687178&engine=google_scholar&hl=en",
+                "cites_id": "17101182693412687178"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Method and apparatus for cancelling impulse noise in dsl systems",
+                    "author": [
+                        "P Biyani",
+                        "SM Zafaruddin",
+                        "L Pierrugues"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "US Patent App. 14 \u2026",
+                    "abstract": "The present invention generally relates to an impulse noise canceller for DSL systems. According to certain aspects, embodiments of the invention provide a dual sensor receiver to deal with the impulse noise effectively. The second sensor can be incorporated by either a common mode or unused differential port. Alternatively a power line sensor can also act as a sensor. According to certain additional aspects, embodiments of the invention provide various alternative implementations of an impulse noise canceller within a DSL receiver"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20140112379A1/en",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "E0TI5OQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Ss3rvw2bU-0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethod%2Band%2Bapparatus%2Bfor%2Bcancelling%2Bimpulse%2Bnoise%2Bin%2Bdsl%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ss3rvw2bU-0J&ei=sBtjYqjhMYOEmgH1zZjACQ&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=17101182693412687178&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Ss3rvw2bU-0J:scholar.google.com/&scioq=Method+and+apparatus+for+cancelling+impulse+noise+in+dsl+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/11/7c/5a/2add4ea4772c23/US20140112379A1.pdf"
+            }
+        },
+        {
+            "title": "Systems and methods for mitigating self-induced far-end crosstalk",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:_kc_bZDykSQC",
+            "citation_id": "x5XsnwkAAAAJ:_kc_bZDykSQC",
+            "authors": "P Biyani, LF Alloin, S Prakriya, S Prasad, A Mahadevan",
+            "publication": "US Patent 8,644,127, 2014",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13166034600425977498",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13166034600425977498&engine=google_scholar&hl=en",
+                "cites_id": "13166034600425977498"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Systems and methods for mitigating self-induced far-end crosstalk",
+                    "author": [
+                        "P Biyani",
+                        "LF Alloin",
+                        "S Prakriya",
+                        "S Prasad"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "US Patent \u2026",
+                    "abstract": "Systems and methods for partial self-FEXT (far-end crosstalk) are described. One method, among others, comprises determining one or more instantaneous characteristics of an input signal, wherein the one or more instantaneous characteristics comprise one or more of amplitude of the input signal and an energy level of the input signal. The method further comprises selecting one or more disturbers to cancel according to the one or more instantaneous characteristics, wherein selecting one or more disturbers is performed on a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US8644127B2/en",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "",
+                    "NfefWDkAAAAJ",
+                    "kFWm_hkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mnbkYrYmt7YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSystems%2Band%2Bmethods%2Bfor%2Bmitigating%2Bself-induced%2Bfar-end%2Bcrosstalk%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mnbkYrYmt7YJ&ei=tBtjYuiKBrKO6rQPy-CRsA8&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=13166034600425977498&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mnbkYrYmt7YJ:scholar.google.com/&scioq=Systems+and+methods+for+mitigating+self-induced+far-end+crosstalk&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/25/b4/ad/e2465f2085fe50/US8644127.pdf"
+            }
+        },
+        {
+            "title": "Adaptive off-diagonal MIMO canceller (ODMC) for VDSL upstream self FEXT mitigation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "x5XsnwkAAAAJ:ULOm3_A8WrAC",
+            "authors": "P Duvaut, P Biyani, A Mahadevan, S Singh, S Maheshwari",
+            "publication": "2008 16th European Signal Processing Conference, 1-5, 2008",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12302303100857023270",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12302303100857023270&engine=google_scholar&hl=en",
+                "cites_id": "12302303100857023270"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive off-diagonal MIMO canceller (ODMC) for VDSL upstream self FEXT mitigation",
+                    "author": [
+                        "P Duvaut",
+                        "P Biyani",
+                        "A Mahadevan"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "2008 16th European \u2026",
+                    "abstract": "This contribution presents a linear off-diagonal MIMO canceller (ODMC) that aims at mitigating the upstream self far-end cross-talk (FEXT) that severely impacts the performance of very high speed digital subscriber line (VDSL) services at the central office (CO). The ODMC operates per frequency and is thus well suited for DMT-based VDSL systems. We introduce a low complexity and low latency adaptive algorithm that converges towards the optimum ODMC that simultaneously maximizes the distributed Shannon capacities of the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7080251/",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:JvvEZX2PuqoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%2Boff-diagonal%2BMIMO%2Bcanceller%2B(ODMC)%2Bfor%2BVDSL%2Bupstream%2Bself%2BFEXT%2Bmitigation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JvvEZX2PuqoJ&ei=uRtjYryzGo2ymgHnvp6ICA&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=12302303100857023270&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JvvEZX2PuqoJ:scholar.google.com/&scioq=Adaptive+off-diagonal+MIMO+canceller+(ODMC)+for+VDSL+upstream+self+FEXT+mitigation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.eurasip.org/Proceedings/Eusipco/Eusipco2008/papers/1569100392.pdf"
+            }
+        },
+        {
+            "title": "Globally optimal classification and pairing of human chromosomes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "x5XsnwkAAAAJ:M3ejUd6NZC8C",
+            "authors": "X Wu, P Biyani, S Dumitrescu, Q Wu",
+            "publication": "The 26th Annual International Conference of the IEEE Engineering in Medicine \u2026, 2004",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15827479681732466685",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15827479681732466685&engine=google_scholar&hl=en",
+                "cites_id": "15827479681732466685"
+            },
+            "year": "2004",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Globally optimal classification and pairing of human chromosomes",
+                    "author": [
+                        "X Wu",
+                        "P Biyani",
+                        "S Dumitrescu"
+                    ],
+                    "pub_year": "2004",
+                    "venue": "The 26th Annual \u2026",
+                    "abstract": "We investigate globally optimal algorithms for automated classification and pairing of human chromosomes. Even in cases where the cell data are incomplete as often encountered in practice, we can still formulate the problem as a transportation problem, and hence find the globally optimal solution in polynomial time. In addition, we propose a technique of homologue pairing via maximum-weight graph matching. It obtains the globally optimal solution by forming all homologue pairs simultaneously under a maximum likelihood"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/1403797/",
+                "author_id": [
+                    "ZuQnEIgAAAAJ",
+                    "x5XsnwkAAAAJ",
+                    "CTHATnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_Vdgt-mAptsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGlobally%2Boptimal%2Bclassification%2Band%2Bpairing%2Bof%2Bhuman%2Bchromosomes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_Vdgt-mAptsJ&ei=vBtjYv-uOpLeyQTE46-QAg&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=15827479681732466685&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_Vdgt-mAptsJ:scholar.google.com/&scioq=Globally+optimal+classification+and+pairing+of+human+chromosomes&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Cooperative MIMO for alien noise cancellation (COMAC) for upstream VDSL systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "x5XsnwkAAAAJ:2osOgNQ5qMEC",
+            "authors": "P Biyani, A Mahadevan, P Duvaut",
+            "publication": "US Patent 8,300,803, 2012",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=850450572437739809",
+                "serpapi_link": "https://serpapi.com/search.json?cites=850450572437739809&engine=google_scholar&hl=en",
+                "cites_id": "850450572437739809"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cooperative MIMO for alien noise cancellation (COMAC) for upstream VDSL systems",
+                    "author": [
+                        "P Biyani",
+                        "A Mahadevan",
+                        "P Duvaut"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "US Patent 8,300,803",
+                    "abstract": "Included are embodiments for reducing alien crosstalk. At least one embodiment of a method includes receiving noise data associated with a first user signal on a first tone, receiving noise data associated with a second user signal on the first tone, and receiving at least one alien crosstalk canceller coefficient for the first user on the first tone. Some embodiments include applying the at least one alien crosstalk canceller coefficient to the second user signal to reduce alien crosstalk for the first user signal."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US8300803B2/en",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:IdktLUpozQsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCooperative%2BMIMO%2Bfor%2Balien%2Bnoise%2Bcancellation%2B(COMAC)%2Bfor%2Bupstream%2BVDSL%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IdktLUpozQsJ&ei=wBtjYrWsMMLZmQHc1ovQAg&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=850450572437739809&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IdktLUpozQsJ:scholar.google.com/&scioq=Cooperative+MIMO+for+alien+noise+cancellation+(COMAC)+for+upstream+VDSL+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/f5/25/c3/7a767efba97ab6/US8300803.pdf"
+            }
+        },
+        {
+            "title": "Systems and methods for mitigating the effects of upstream far-end cross talk",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:UebtZRa9Y70C",
+            "citation_id": "x5XsnwkAAAAJ:UebtZRa9Y70C",
+            "authors": "P Duvaut, A Mahadevan, P Biyani, S Singh, S Maheshwari",
+            "publication": "US Patent 7,835,368, 2010",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8378544183448998742",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8378544183448998742&engine=google_scholar&hl=en",
+                "cites_id": "8378544183448998742"
+            },
+            "year": "2010",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Systems and methods for mitigating the effects of upstream far-end cross talk",
+                    "author": [
+                        "P Duvaut",
+                        "A Mahadevan",
+                        "P Biyani",
+                        "S Singh"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "US Patent \u2026",
+                    "abstract": "A method is described for reducing self-induced far end crosstalk (self-FEXT) in a multiple input multiple output (MIMO) digital subscriber line (xDSL) system. An initial value for an off-diagonal multiple input multiple output canceller (ODMC) is derived while the ODMC is inactive and while in data mode. The method includes activating the initial ODMC and converging towards an steady-state value for the ODMC by performing an adaptive algorithm to maximize the Shannon's capacity of the system and to reduce upstream self"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US7835368B2/en",
+                "author_id": [
+                    "",
+                    "",
+                    "x5XsnwkAAAAJ",
+                    "94MUG58AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VpNkHYuRRnQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSystems%2Band%2Bmethods%2Bfor%2Bmitigating%2Bthe%2Beffects%2Bof%2Bupstream%2Bfar-end%2Bcross%2Btalk%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VpNkHYuRRnQJ&ei=yxtjYrDDGZyO6rQP_qe3mAs&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=8378544183448998742&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VpNkHYuRRnQJ:scholar.google.com/&scioq=Systems+and+methods+for+mitigating+the+effects+of+upstream+far-end+cross+talk&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/af/bd/10/fd83adb7582edd/US7835368.pdf"
+            }
+        },
+        {
+            "title": "Co-operative alien noise cancellation in upstream VDSL: a new decision directed approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "x5XsnwkAAAAJ:eQOLeE2rZwMC",
+            "authors": "P Biyani, A Mahadevan, S Prakriya, P Duvaut, S Prasad",
+            "publication": "IEEE transactions on communications 61 (8), 3494-3504, 2013",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5689727903628858218",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5689727903628858218&engine=google_scholar&hl=en",
+                "cites_id": "5689727903628858218"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Co-operative alien noise cancellation in upstream VDSL: a new decision directed approach",
+                    "author": [
+                        "P Biyani",
+                        "A Mahadevan",
+                        "S Prakriya"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "IEEE transactions on \u2026",
+                    "abstract": "Alien noise in the vectored very-high-speed digital subscriber line (VDSL) system is part of the additive noise at the receiver and exhibits strong correlation among users. We present a per-tone co-operative alien noise cancellation (CoMAC) algorithm for the upstream (US) VDSL that can be applied subsequent to any self far-end-crosstalk (FEXT) mitigation strategy. CoMAC operates by predicting the noise seen by a given user based on the error samples from the remaining users. These errors are conveniently obtained after slicing the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6528069/",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "",
+                    "NfefWDkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ahNtBGL59U4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCo-operative%2Balien%2Bnoise%2Bcancellation%2Bin%2Bupstream%2BVDSL:%2Ba%2Bnew%2Bdecision%2Bdirected%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ahNtBGL59U4J&ei=zhtjYurSBrKO6rQPy-CRsA8&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=5689727903628858218&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ahNtBGL59U4J:scholar.google.com/&scioq=Co-operative+alien+noise+cancellation+in+upstream+VDSL:+a+new+decision+directed+approach&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Cooperative MIMO for alien noise cancellation in upstream VDSL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "x5XsnwkAAAAJ:LkGwnXOMwfcC",
+            "authors": "P Biyani, A Mahadevan, P Duvaut, S Singh",
+            "publication": "2009 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2009",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7461220305172403124",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7461220305172403124&engine=google_scholar&hl=en",
+                "cites_id": "7461220305172403124"
+            },
+            "year": "2009",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cooperative MIMO for alien noise cancellation in upstream VDSL",
+                    "author": [
+                        "P Biyani",
+                        "A Mahadevan",
+                        "P Duvaut"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "2009 IEEE International \u2026",
+                    "abstract": "We present cooperative MIMO for alien noise cancellation (CoMAC): a per-tone, blind, low-complexity, linear, and adaptive noise whitening algorithm for alien crosstalk mitigation in upstream vectored VDSL systems. CoMAC directly acts on the residual errors of the vectored users after self-FEXT cancellation and frequency domain equalization, and thus, leverages the inherent alien-crosstalk-induced spatial correlation across users. CoMAC employs a low-complexity recursion scheme derived from the optimal MMSE noise whitener"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/4960166/",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:tJO7GFaUi2cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCooperative%2BMIMO%2Bfor%2Balien%2Bnoise%2Bcancellation%2Bin%2Bupstream%2BVDSL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tJO7GFaUi2cJ&ei=0RtjYuiSEo2ymgHnvp6ICA&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=7461220305172403124&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tJO7GFaUi2cJ:scholar.google.com/&scioq=Cooperative+MIMO+for+alien+noise+cancellation+in+upstream+VDSL&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pravesh-Biyani/publication/224461269_Cooperative_MIMO_for_alien_noise_cancellation_in_upstream_VDSL/links/00b7d515acccb87189000000/Cooperative-MIMO-for-alien-noise-cancellation-in-upstream-VDSL.pdf"
+            }
+        },
+        {
+            "title": "Dynamic programming based multi-user resource allocation for partial crosstalk cancellation in VDSL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "x5XsnwkAAAAJ:Y0pCki6q_DkC",
+            "authors": "P Biyani, S Prakriya, A Bagchi, S Prasad",
+            "publication": "IEEE communications letters 16 (3), 420-423, 2012",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3375339877363297532",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3375339877363297532&engine=google_scholar&hl=en",
+                "cites_id": "3375339877363297532"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dynamic programming based multi-user resource allocation for partial crosstalk cancellation in VDSL",
+                    "author": [
+                        "P Biyani",
+                        "S Prakriya",
+                        "A Bagchi"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "IEEE communications \u2026",
+                    "abstract": "This letter deals with multi-user computational resource allocation for partial crosstalk cancellation in the vectored VDSL2 systems. We re-look at the multi-user rate optimization problem and provide a dynamic programming based optimal algorithm with deterministic computational complexity, which is quadratic in the problem size."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6150657/",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "NfefWDkAAAAJ",
+                    "U4g_OxEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_CxzMryd1y4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2Bprogramming%2Bbased%2Bmulti-user%2Bresource%2Ballocation%2Bfor%2Bpartial%2Bcrosstalk%2Bcancellation%2Bin%2BVDSL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_CxzMryd1y4J&ei=1BtjYvOZBvmQ6rQP5OqKqAo&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=3375339877363297532&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_CxzMryd1y4J:scholar.google.com/&scioq=Dynamic+programming+based+multi-user+resource+allocation+for+partial+crosstalk+cancellation+in+VDSL&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Learning supervised embeddings for large scale sequence comparisons",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "x5XsnwkAAAAJ:mVmsd5A6BfQC",
+            "authors": "D Kimothi, P Biyani, JM Hogan, A Soni, W Kelly",
+            "publication": "PloS one 15 (3), e0216636, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10458011021022307592",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10458011021022307592&engine=google_scholar&hl=en",
+                "cites_id": "10458011021022307592"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Learning supervised embeddings for large scale sequence comparisons",
+                    "author": [
+                        "D Kimothi",
+                        "P Biyani",
+                        "JM Hogan",
+                        "A Soni",
+                        "W Kelly"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "PloS one",
+                    "abstract": "Similarity-based search of sequence collections is a core task in bioinformatics, one dominated for most of the genomic era by exact and heuristic alignment-based algorithms. However, even efficient heuristics such as BLAST may not scale to the data sets now emerging, motivating a range of alignment-free alternatives exploiting the underlying lexical structure of each sequence. In this paper, we introduce two supervised approaches\u2014SuperVec and SuperVecX\u2014to learn sequence embeddings. These methods extend earlier"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216636",
+                "author_id": [
+                    "JQzhc-QAAAAJ",
+                    "x5XsnwkAAAAJ",
+                    "OgUoa_MAAAAJ",
+                    "xy2sXpUAAAAJ",
+                    "DQfTTSMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CKUnXZ1RIpEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Bsupervised%2Bembeddings%2Bfor%2Blarge%2Bscale%2Bsequence%2Bcomparisons%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CKUnXZ1RIpEJ&ei=3xtjYuabBqmTy9YPsu-CuAM&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=10458011021022307592&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:CKUnXZ1RIpEJ:scholar.google.com/&scioq=Learning+supervised+embeddings+for+large+scale+sequence+comparisons&hl=en&as_sdt=0,33",
+                "eprint_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216636"
+            }
+        },
+        {
+            "title": "Early estimation of voice over ip quality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "x5XsnwkAAAAJ:YOwf2qJgpHMC",
+            "authors": "P Biyani, O Hagsand, G Karlsson, I Marsh, I M\u00e1s",
+            "publication": "Proc. of the 21st Nordunet network conference, 2003",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12626706215337842853",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12626706215337842853&engine=google_scholar&hl=en",
+                "cites_id": "12626706215337842853"
+            },
+            "year": "2003",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Early estimation of voice over ip quality",
+                    "author": [
+                        "P Biyani",
+                        "O Hagsand",
+                        "G Karlsson",
+                        "I Marsh"
+                    ],
+                    "pub_year": "2003",
+                    "venue": "Proc. of the 21st Nordunet \u2026",
+                    "abstract": "Users of Voice over IP (VoIP) applications are sensitive to the quality of an ongoing call. We hypothesize that the quality of a VoIP session can be estimated from the first few seconds of the session and this can be generalized to other VoIP calls. Our approach is an in-band probing mechanism and does not require any external monitoring schemes or network support. We show by post processing VoIP data from globally distributed sites that it is possible to determine the quality after an initial number of seconds. One application is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.1734&rep=rep1&type=pdf",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "XwcgVVIAAAAJ",
+                    "lISeVIEAAAAJ",
+                    "dXK5rtUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pdhtWGcSO68J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEarly%2Bestimation%2Bof%2Bvoice%2Bover%2Bip%2Bquality%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pdhtWGcSO68J&ei=4htjYpv0IsLZmQHc1ovQAg&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=12626706215337842853&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pdhtWGcSO68J:scholar.google.com/&scioq=Early+estimation+of+voice+over+ip+quality&hl=en&as_sdt=0,33",
+                "eprint_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.1734&rep=rep1&type=pdf"
+            }
+        },
+        {
+            "title": "Traffic estimation and prediction via online variational bayesian subspace filtering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:qUcmZB5y_30C",
+            "citation_id": "x5XsnwkAAAAJ:qUcmZB5y_30C",
+            "authors": "C Paliwal, U Bhatt, P Biyani, K Rajawat",
+            "publication": "IEEE Transactions on Intelligent Transportation Systems, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3485708897799458703",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3485708897799458703&engine=google_scholar&hl=en",
+                "cites_id": "3485708897799458703"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Traffic estimation and prediction via online variational bayesian subspace filtering",
+                    "author": [
+                        "C Paliwal",
+                        "U Bhatt",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "With the increased proliferation of smart devices, the transit passengers of today expect a higher quality of service in the form of real-time traffic updates, accurate expected time-of-arrival (ETA) predictions. Providing these services requires public transit agencies and private transportation players to maintain full situational awareness of the city-wide traffic. However, most such agencies and companies are resource-constrained and do not have access to city-wide traffic data. The availability of sparsely sampled and outlier-corrupted"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9329124/",
+                "author_id": [
+                    "",
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:j0_BQ8a5XzAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTraffic%2Bestimation%2Band%2Bprediction%2Bvia%2Bonline%2Bvariational%2Bbayesian%2Bsubspace%2Bfiltering%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=j0_BQ8a5XzAJ&ei=5RtjYr-CKu-Sy9YPmNWywAs&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=3485708897799458703&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:j0_BQ8a5XzAJ:scholar.google.com/&scioq=Traffic+estimation+and+prediction+via+online+variational+bayesian+subspace+filtering&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Improved real time ride sharing via graph coloring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "x5XsnwkAAAAJ:hFOr9nPyWt4C",
+            "authors": "S Jain, P Biyani",
+            "publication": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 956-961, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9107597739229649041",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9107597739229649041&engine=google_scholar&hl=en",
+                "cites_id": "9107597739229649041"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Improved real time ride sharing via graph coloring",
+                    "author": [
+                        "S Jain",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Intelligent Transportation Systems \u2026",
+                    "abstract": "Ride-sharing is one of the solutions to the ever-increasing problem of congestion and air pollution in cities. However, its effectiveness in reducing private vehicles is contingent on its efficiency while maintaining economic viability from the perspective of both the operator and the passenger. We propose a ride-sharing framework that jointly takes into account the quality of sharing as well as the operator revenue while fixing the consumer cost. We formulate a weighted graph coloring optimisation problem that has the flexibility to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8917407/",
+                "author_id": [
+                    "ZoZXIdwAAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kRjvw-OvZH4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImproved%2Breal%2Btime%2Bride%2Bsharing%2Bvia%2Bgraph%2Bcoloring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kRjvw-OvZH4J&ei=6BtjYqmGPIyuyAT-mrWwCA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=9107597739229649041&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kRjvw-OvZH4J:scholar.google.com/&scioq=Improved+real+time+ride+sharing+via+graph+coloring&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Online variational Bayesian subspace filtering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:hC7cP41nSMkC",
+            "citation_id": "x5XsnwkAAAAJ:hC7cP41nSMkC",
+            "authors": "U Bhatt, P Biyani, K Rajawat",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7583085738411901936",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7583085738411901936&engine=google_scholar&hl=en",
+                "cites_id": "7583085738411901936"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Traffic estimation and prediction via online variational bayesian subspace filtering",
+                    "author": [
+                        "C Paliwal",
+                        "U Bhatt",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "ROBUST VARIATIONAL BAYESIAN SUBSPACE FILTERING In this section, we consider  the robust version of the variational Bayesian subspace filtering problem in Sec. II. Within this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9329124/",
+                "author_id": [
+                    "",
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:j0_BQ8a5XzAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOnline%2Bvariational%2BBayesian%2Bsubspace%2Bfiltering%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=j0_BQ8a5XzAJ&ei=6xtjYoXWJamTy9YPsu-CuAM&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=3485708897799458703&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:j0_BQ8a5XzAJ:scholar.google.com/&scioq=Online+variational+Bayesian+subspace+filtering&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Metric learning on biological sequence embeddings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:4TOpqqG69KYC",
+            "citation_id": "x5XsnwkAAAAJ:4TOpqqG69KYC",
+            "authors": "D Kimothi, A Shukla, P Biyani, S Anand, JM Hogan",
+            "publication": "2017 IEEE 18th International Workshop on Signal Processing Advances in \u2026, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15708006495040600131",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15708006495040600131&engine=google_scholar&hl=en",
+                "cites_id": "15708006495040600131"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Metric learning on biological sequence embeddings",
+                    "author": [
+                        "D Kimothi",
+                        "A Shukla",
+                        "P Biyani",
+                        "S Anand"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE 18th \u2026",
+                    "abstract": "Embedding techniques such as word2vec [1] have gained popularity due to their ability to represent words and their semantic variants as real valued vectors. Biological sequence analysis may also leverage unsupervised feature representations, augmented with supervised learning techniques for tasks like retrieval and classification. Algorithms that rely on distance metrics are computationally efficient and can handle large datasets, however, default distances in the embedded space often yield inadequate accuracy. In this paper, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8227769/",
+                "author_id": [
+                    "JQzhc-QAAAAJ",
+                    "c-S0ouYAAAAJ",
+                    "x5XsnwkAAAAJ",
+                    "YmYvVEQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Q3hswq4M_tkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMetric%2Blearning%2Bon%2Bbiological%2Bsequence%2Bembeddings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Q3hswq4M_tkJ&ei=9htjYrPNN6KUy9YPyMyGkAI&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=15708006495040600131&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Q3hswq4M_tkJ:scholar.google.com/&scioq=Metric+learning+on+biological+sequence+embeddings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://faculty.iiitd.ac.in/~anands/files/papers/Kimothi+_SPAWC2017_MetricLearningOnBiologicalSequenceEmbeddings.pdf"
+            }
+        },
+        {
+            "title": "A fast converging method for common mode sensor based impulse noise cancellation for downstream VDSL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:8k81kl-MbHgC",
+            "citation_id": "x5XsnwkAAAAJ:8k81kl-MbHgC",
+            "authors": "R Ahuja, A Gang, P Biyani, S Prasad",
+            "publication": "2016 24th European Signal Processing Conference (EUSIPCO), 310-315, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10117425344629869087",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10117425344629869087&engine=google_scholar&hl=en",
+                "cites_id": "10117425344629869087"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A fast converging method for common mode sensor based impulse noise cancellation for downstream VDSL",
+                    "author": [
+                        "R Ahuja",
+                        "A Gang",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 24th European \u2026",
+                    "abstract": "Impulse noise cancellation using an additional common mode sensor at the customer premises equipment (CPE) receiver is akin to an interference cancellation problem in a SIMO receiver. However, the common mode (CM)-differential mode (DM) cross-correlation for impulse noise signal needs to be estimated during showtime in the presence of a much stronger DM useful data signal. Existing works on this topic rely on the repetitive nature of impulse noise and use a large number of DMT symbols for estimation of the canceler and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7760260/",
+                "author_id": [
+                    "",
+                    "I6W9aTUAAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:H4oyHL9QaIwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bfast%2Bconverging%2Bmethod%2Bfor%2Bcommon%2Bmode%2Bsensor%2Bbased%2Bimpulse%2Bnoise%2Bcancellation%2Bfor%2Bdownstream%2BVDSL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=H4oyHL9QaIwJ&ei=-RtjYuy8O_mQ6rQP5OqKqAo&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=10117425344629869087&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:H4oyHL9QaIwJ:scholar.google.com/&scioq=A+fast+converging+method+for+common+mode+sensor+based+impulse+noise+cancellation+for+downstream+VDSL&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.eurasip.org/Proceedings/Eusipco/Eusipco2016/papers/1570256290.pdf"
+            }
+        },
+        {
+            "title": "DM-CM diversity receiver for a wireline communication system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "x5XsnwkAAAAJ:zYLM7Y9cAGgC",
+            "authors": "LF Alloin, P Biyani, L Pierrugues, SM Zafaruddin, CV Kumar",
+            "publication": "US Patent 9,042,498, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2702629578335362243",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2702629578335362243&engine=google_scholar&hl=en",
+                "cites_id": "2702629578335362243"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "DM-CM diversity receiver for a wireline communication system",
+                    "author": [
+                        "LF Alloin",
+                        "P Biyani",
+                        "L Pierrugues"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "US Patent \u2026",
+                    "abstract": "In general, the present invention provides methods and apparatuses for exploiting the extra degree of freedom provided by the sensing of the CM signal along with the DM signal at the receiver end of a wireline communication system. According to certain aspects, this extra degree of freedom can be used to cancel alien noises at the receiver in both upstream downstream directions. According to further aspects, a CM channel can be potentially used to exploit the diversity created in the CM channel along with the regular DM channel. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US9042498B2/en",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:w5wkSEirgSUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDM-CM%2Bdiversity%2Breceiver%2Bfor%2Ba%2Bwireline%2Bcommunication%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=w5wkSEirgSUJ&ei=_RtjYrywBe-Sy9YPmNWywAs&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=2702629578335362243&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:w5wkSEirgSUJ:scholar.google.com/&scioq=DM-CM+diversity+receiver+for+a+wireline+communication+system&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/bf/a5/0b/d6394b9f8a4071/US9042498.pdf"
+            }
+        },
+        {
+            "title": "On large throughputs in high density enterprise wireless LAN (s)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:0EnyYjriUFMC",
+            "citation_id": "x5XsnwkAAAAJ:0EnyYjriUFMC",
+            "authors": "M Singh, S Kaul, P Biyani",
+            "publication": "2014 IEEE Global Communications Conference, 4864-4869, 2014",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9082887912199368879",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9082887912199368879&engine=google_scholar&hl=en",
+                "cites_id": "9082887912199368879"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On large throughputs in high density enterprise wireless LAN (s)",
+                    "author": [
+                        "M Singh",
+                        "S Kaul",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 IEEE Global Communications \u2026",
+                    "abstract": "While the density of access points in enterprise settings has increased, the sharing of the spatial resource amongst links in 802.11 wireless local area networks remains inefficient. Conservative mechanisms based on a static carrier sense range (CSR) are used and are designed to avoid occurrence of interfering transmissions. Even when the CSR is adapted to allow interfering transmissions, it is with the goal of increasing spatial reuse, which may not translate to a larger network throughput. We formulate the network throughput optimization"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7037576/",
+                "author_id": [
+                    "",
+                    "XGNQPRsAAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:rzBV1W7mDH4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Blarge%2Bthroughputs%2Bin%2Bhigh%2Bdensity%2Benterprise%2Bwireless%2BLAN%2B(s)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rzBV1W7mDH4J&ei=ABxjYtT6IMLZmQHc1ovQAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=9082887912199368879&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:rzBV1W7mDH4J:scholar.google.com/&scioq=On+large+throughputs+in+high+density+enterprise+wireless+LAN+(s)&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Sanjit-Kaul/publication/282374739_On_large_throughputs_in_high_density_enterprise_wireless_LANs/links/56c6f71b08ae408dfe509041/On-large-throughputs-in-high-density-enterprise-wireless-LANs.pdf"
+            }
+        },
+        {
+            "title": "Fast chromosome karyotyping by auction algorithm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "x5XsnwkAAAAJ:kNdYIx-mwKoC",
+            "authors": "X Wu, S Dumitrescu, P Biyani, Q Wu",
+            "publication": "International Journal of Bioinformatics Research and Applications 1 (3), 351-362, 2005",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10833524886357276547",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10833524886357276547&engine=google_scholar&hl=en",
+                "cites_id": "10833524886357276547"
+            },
+            "year": "2005",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fast chromosome karyotyping by auction algorithm",
+                    "author": [
+                        "X Wu",
+                        "S Dumitrescu",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2005",
+                    "venue": "International Journal of \u2026",
+                    "abstract": "We consider the problem of automated classification of human chromosomes or karyotyping and study discrete optimisation algorithms to solve the problem as one of joint maximum likelihood classification. We demonstrate that the auction algorithm offers a simpler and more efficient solution for chromosome karyotyping than the previously known transportation algorithm, while still guaranteeing global optimality. This improvement in algorithm efficiency is made possible by first casting chromosome karyotyping into a problem of optimal"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2005.007911",
+                "author_id": [
+                    "ZuQnEIgAAAAJ",
+                    "CTHATnQAAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:g_etVHxpWJYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFast%2Bchromosome%2Bkaryotyping%2Bby%2Bauction%2Balgorithm%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=g_etVHxpWJYJ&ei=DRxjYvWlOfmQ6rQP5OqKqAo&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=10833524886357276547&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:g_etVHxpWJYJ:scholar.google.com/&scioq=Fast+chromosome+karyotyping+by+auction+algorithm&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "To each route its own ETA: A generative modeling framework for ETA prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:-f6ydRqryjwC",
+            "citation_id": "x5XsnwkAAAAJ:-f6ydRqryjwC",
+            "authors": "C Paliwal, P Biyani",
+            "publication": "2019 IEEE Intelligent Transportation Systems Conference (ITSC), 3076-3081, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9022933425172316282",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9022933425172316282&engine=google_scholar&hl=en",
+                "cites_id": "9022933425172316282"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "To each route its own ETA: A generative modeling framework for ETA prediction",
+                    "author": [
+                        "C Paliwal",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Intelligent Transportation \u2026",
+                    "abstract": "Accurate expected time of arrival (ETA) information is crucial in maintaining the quality of service of public transit. Recent advances in artificial intelligence (AI) has led to more effective models for ETA estimation that rely heavily on a large GPS datasets. More importantly, these are mainly cabs based datasets which may not be fit for bus based public transport. Consequently, the latest methods may not be applicable for ETA estimation in cities with the absence of large training data set. On the other hand, the ETA estimation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8917465/",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:egBlByXmN30J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTo%2Beach%2Broute%2Bits%2Bown%2BETA:%2BA%2Bgenerative%2Bmodeling%2Bframework%2Bfor%2BETA%2Bprediction%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=egBlByXmN30J&ei=EhxjYs63AbyCy9YPv5-K-Ac&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=9022933425172316282&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:egBlByXmN30J:scholar.google.com/&scioq=To+each+route+its+own+ETA:+A+generative+modeling+framework+for+ETA+prediction&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Towards automated single channel source separation using neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:ufrVoPGSRksC",
+            "citation_id": "x5XsnwkAAAAJ:ufrVoPGSRksC",
+            "authors": "A Gang, P Biyani, A Soni",
+            "publication": "arXiv preprint arXiv:1806.08086, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5889481029285287043",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5889481029285287043&engine=google_scholar&hl=en",
+                "cites_id": "5889481029285287043"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Towards automated single channel source separation using neural networks",
+                    "author": [
+                        "A Gang",
+                        "P Biyani",
+                        "A Soni"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv:1806.08086",
+                    "abstract": "Many applications of single channel source separation (SCSS) including automatic speech recognition (ASR), hearing aids etc. require an estimation of only one source from a mixture of many sources. Treating this special case as a regular SCSS problem where in all constituent sources are given equal priority in terms of reconstruction may result in a suboptimal separation performance. In this paper, we tackle the one source separation problem by suitably modifying the orthodox SCSS framework and focus only on one source"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1806.08086",
+                "author_id": [
+                    "I6W9aTUAAAAJ",
+                    "x5XsnwkAAAAJ",
+                    "xy2sXpUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:g5Tz1cqju1EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bautomated%2Bsingle%2Bchannel%2Bsource%2Bseparation%2Busing%2Bneural%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=g5Tz1cqju1EJ&ei=FRxjYt6AOKKUy9YPyMyGkAI&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=5889481029285287043&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:g5Tz1cqju1EJ:scholar.google.com/&scioq=Towards+automated+single+channel+source+separation+using+neural+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1806.08086"
+            }
+        },
+        {
+            "title": "A* algorithm based power minimization for discontinuous operations in G. fast",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:Se3iqnhoufwC",
+            "citation_id": "x5XsnwkAAAAJ:Se3iqnhoufwC",
+            "authors": "A Raj, P Biyani, S Aine",
+            "publication": "2017 IEEE International Conference on Communications (ICC), 1-6, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8060456109896448180",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8060456109896448180&engine=google_scholar&hl=en",
+                "cites_id": "8060456109896448180"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A* algorithm based power minimization for discontinuous operations in G. fast",
+                    "author": [
+                        "A Raj",
+                        "P Biyani",
+                        "S Aine"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE International Conference \u2026",
+                    "abstract": "To enable energy efficiency, G. fast standards define discontinuous operations (DO) where a set of users can remain inactive while others transmit during a time domain duplex (TDD) frame. In this work, we investigate energy efficient discontinuous operations (DO) by scheduling users to time slots, such that the total energy consumption is minimized while satisfying the individual data rate constraints. Since the user-slot assignment problem is NP complete in nature, we propose the use of weighted A* algorithm that achieves reasonable"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7997153/",
+                "author_id": [
+                    "dcjyb40AAAAJ",
+                    "x5XsnwkAAAAJ",
+                    "xhs98p4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tDgBNiB-3G8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA*%2Balgorithm%2Bbased%2Bpower%2Bminimization%2Bfor%2Bdiscontinuous%2Boperations%2Bin%2BG.%2Bfast%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tDgBNiB-3G8J&ei=GRxjYqv7DamTy9YPsu-CuAM&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=8060456109896448180&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tDgBNiB-3G8J:scholar.google.com/&scioq=A*+algorithm+based+power+minimization+for+discontinuous+operations+in+G.+fast&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "On Discriminative Framework for Single Channel Audio Source Separation.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "x5XsnwkAAAAJ:KlAtU1dfN6UC",
+            "authors": "A Gang, P Biyani",
+            "publication": "Interspeech, 565-569, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11947115842211801137",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11947115842211801137&engine=google_scholar&hl=en",
+                "cites_id": "11947115842211801137"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On Discriminative Framework for Single Channel Audio Source Separation.",
+                    "author": [
+                        "A Gang",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Interspeech",
+                    "abstract": "Single channel source separation (SCSS) algorithms that utilise discriminative source models perform better in comparison to those that are trained independently. However, all the aspects of training discriminative models have not been addressed in the literature. For instance, the choice of dimensions of source models (number of columns of NMF, Dictionary etc) not only influences the fidelity of a given source but also impacts the interference introduced in it. Therefore choosing a right dimension parameter for every source model is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.isca-speech.org/archive_v0/Interspeech_2016/pdfs/0701.PDF",
+                "author_id": [
+                    "I6W9aTUAAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Meh5WY-uzKUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2BDiscriminative%2BFramework%2Bfor%2BSingle%2BChannel%2BAudio%2BSource%2BSeparation.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Meh5WY-uzKUJ&ei=HRxjYoSSCfmQ6rQP5OqKqAo&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=11947115842211801137&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Meh5WY-uzKUJ:scholar.google.com/&scioq=On+Discriminative+Framework+for+Single+Channel+Audio+Source+Separation.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Arpita-Gang/publication/307889316_On_Discriminative_Framework_for_Single_Channel_Audio_Source_Separation/links/5dc098654585151435e8c1cd/On-Discriminative-Framework-for-Single-Channel-Audio-Source-Separation.pdf"
+            }
+        },
+        {
+            "title": "TrafficKarma: Estimating effective traffic indicators using public data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:WF5omc3nYNoC",
+            "citation_id": "x5XsnwkAAAAJ:WF5omc3nYNoC",
+            "authors": "K Pant, D Talukder, P Biyani",
+            "publication": "Proceedings of the 2nd IKDD Conference on Data Sciences, 1-4, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5785581636151949181",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5785581636151949181&engine=google_scholar&hl=en",
+                "cites_id": "5785581636151949181"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "TrafficKarma: Estimating effective traffic indicators using public data",
+                    "author": [
+                        "K Pant",
+                        "D Talukder",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 2nd IKDD Conference \u2026",
+                    "abstract": "TrafficKarma optimizes the use of publicly available information to monitor and estimate traffic data in order to map and visualize it for its effective use. This is achieved by using state of the art optimization and machine learning techniques coupled with insightful visualization of the data. Traffic Karma can be used by authorities in transportation, traffic police and various agencies that needs current (online) or past (statistical) information about traffic. This paper will concisely explain the features of the application proposed, strategy, data sources"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2778865.2778871",
+                "author_id": [
+                    "HxFJ7v8AAAAJ",
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fTfcQdiDSlAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTrafficKarma:%2BEstimating%2Beffective%2Btraffic%2Bindicators%2Busing%2Bpublic%2Bdata%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fTfcQdiDSlAJ&ei=KBxjYqKGHPmQ6rQP5OqKqAo&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=5785581636151949181&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fTfcQdiDSlAJ:scholar.google.com/&scioq=TrafficKarma:+Estimating+effective+traffic+indicators+using+public+data&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Sequence representations and their utility for predicting protein-protein interactions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:TQgYirikUcIC",
+            "citation_id": "x5XsnwkAAAAJ:TQgYirikUcIC",
+            "authors": "D Kimothi, P Biyani, J Hogan, M Davis",
+            "publication": "IEEE/ACM transactions on computational biology and bioinformatics, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9581523564691855640",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9581523564691855640&engine=google_scholar&hl=en",
+                "cites_id": "9581523564691855640"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sequence representations and their utility for predicting protein-protein interactions",
+                    "author": [
+                        "D Kimothi",
+                        "P Biyani",
+                        "J Hogan"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE/ACM transactions \u2026",
+                    "abstract": "Protein-Protein Interactions (PPIs) are a crucial mechanism underpinning the function of the cell. So far, a wide range of machine-learning based methods have been proposed for predicting these relationships. Their success is heavily dependent on the construction of the underlying feature vectors, with most using a set of physico-chemical properties derived from the sequence. Few work directly with the sequence itself. In this paper, we explore the utility of sequence embeddings for predicting protein-protein interactions. We construct a protein"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9661301/",
+                "author_id": [
+                    "JQzhc-QAAAAJ",
+                    "x5XsnwkAAAAJ",
+                    "OgUoa_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GBl-wOpo-IQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSequence%2Brepresentations%2Band%2Btheir%2Butility%2Bfor%2Bpredicting%2Bprotein-protein%2Binteractions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GBl-wOpo-IQJ&ei=KxxjYt33MamTy9YPsu-CuAM&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9581523564691855640&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GBl-wOpo-IQJ:scholar.google.com/&scioq=Sequence+representations+and+their+utility+for+predicting+protein-protein+interactions&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2019/12/31/2019.12.31.890699.full.pdf"
+            }
+        },
+        {
+            "title": "Low complexity training methods for common mode aided cancellation of intermittent alien noise in downstream VDSL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "x5XsnwkAAAAJ:3fE2CSJIrl8C",
+            "authors": "R Ahuja, P Biyani, S Prasad",
+            "publication": "IEEE Transactions on Communications 66 (1), 290-301, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9384403697707937504",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9384403697707937504&engine=google_scholar&hl=en",
+                "cites_id": "9384403697707937504"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Low complexity training methods for common mode aided cancellation of intermittent alien noise in downstream VDSL",
+                    "author": [
+                        "R Ahuja",
+                        "P Biyani",
+                        "S Prasad"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "The adoption of precoding (vectoring) in VDSL2 at the central office has resulted in mitigation of the far-end crosstalk seen at the customer premises equipment (CPE). As a result, alien noise (including repetitive impulse noise) is the new dominant source of impairment for downstream VDSL. At the CPE, an additional common mode (CM) sensor can sense the electromagnetically coupled alien noise signal, which can then be used to cancel the alien noise coupling into the differential mode signal. The intermittent and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7984831/",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ",
+                    "kFWm_hkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4G6-PnEZPIIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLow%2Bcomplexity%2Btraining%2Bmethods%2Bfor%2Bcommon%2Bmode%2Baided%2Bcancellation%2Bof%2Bintermittent%2Balien%2Bnoise%2Bin%2Bdownstream%2BVDSL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4G6-PnEZPIIJ&ei=MRxjYtuSHe-Sy9YPmNWywAs&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9384403697707937504&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:4G6-PnEZPIIJ:scholar.google.com/&scioq=Low+complexity+training+methods+for+common+mode+aided+cancellation+of+intermittent+alien+noise+in+downstream+VDSL&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pravesh-Biyani/publication/318550072_Low_Complexity_Training_Methods_for_Common_Mode_Aided_Cancellation_of_Intermittent_Alien_Noise_in_Downstream_VDSL/links/5b6e60bda6fdcc87df7138dc/Low-Complexity-Training-Methods-for-Common-Mode-Aided-Cancellation-of-Intermittent-Alien-Noise-in-Downstream-VDSL.pdf"
+            }
+        },
+        {
+            "title": "Per-Tone model for Common Mode sensor based alien noise cancellation for Downstream xDSL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:5nxA0vEk-isC",
+            "citation_id": "x5XsnwkAAAAJ:5nxA0vEk-isC",
+            "authors": "R Ahuja, P Biyani, S Prasad, B Lall",
+            "publication": "arXiv preprint arXiv:1707.01210, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9867931322772612219",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9867931322772612219&engine=google_scholar&hl=en",
+                "cites_id": "9867931322772612219"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Per-Tone model for Common Mode sensor based alien noise cancellation for Downstream xDSL",
+                    "author": [
+                        "R Ahuja",
+                        "P Biyani",
+                        "S Prasad",
+                        "B Lall"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "arXiv preprint arXiv:1707.01210",
+                    "abstract": "For xDSL systems, alien noise cancellation using an additional common mode sensor at the downstream receiver can be thought of as interference cancellation in a Single Input Dual Output (SIDO) system. The coupling between the common mode and differential mode can be modelled as an LTI system with a long impulse response, resulting in high complexity for cancellation. Frequency domain per-tone cancellation offers a low complexity approach to the problem besides having other advantages like faster training, but suffers from loss in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1707.01210",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ",
+                    "kFWm_hkAAAAJ",
+                    "7EnEz7gaXWcC"
+                ],
+                "url_scholarbib": "/scholar?q=info:e-TPaUHv8YgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPer-Tone%2Bmodel%2Bfor%2BCommon%2BMode%2Bsensor%2Bbased%2Balien%2Bnoise%2Bcancellation%2Bfor%2BDownstream%2BxDSL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=e-TPaUHv8YgJ&ei=NBxjYpL2NPmQ6rQP5OqKqAo&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9867931322772612219&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:e-TPaUHv8YgJ:scholar.google.com/&scioq=Per-Tone+model+for+Common+Mode+sensor+based+alien+noise+cancellation+for+Downstream+xDSL&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1707.01210"
+            }
+        },
+        {
+            "title": "On low complexity per-tone common mode sensor based alien noise cancellation for downstream VDSL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "x5XsnwkAAAAJ:9yKSN-GCB0IC",
+            "authors": "R Ahuja, P Biyani, S Prasad",
+            "publication": "2017 IEEE International Conference on Communications (ICC), 1-7, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=350573052217100431",
+                "serpapi_link": "https://serpapi.com/search.json?cites=350573052217100431&engine=google_scholar&hl=en",
+                "cites_id": "350573052217100431"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On low complexity per-tone common mode sensor based alien noise cancellation for downstream VDSL",
+                    "author": [
+                        "R Ahuja",
+                        "P Biyani",
+                        "S Prasad"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE International \u2026",
+                    "abstract": "For VDSL systems, alien noise cancellation using an additional common mode sensor at the customer premises equipment (CPE) receiver can be done by combining the differential-mode (DM) signal with the common-mode (CM) signal passed through a long linear filter. Frequency domain per-tone cancellation offers a low complexity approach to the problem but suffers from loss in cancellation performance due to approximations in the per-tone model. We analyze this loss and show that it is possible to minimize it by a post-training"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7997155/",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ",
+                    "kFWm_hkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:j4g5ZVV83QQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Blow%2Bcomplexity%2Bper-tone%2Bcommon%2Bmode%2Bsensor%2Bbased%2Balien%2Bnoise%2Bcancellation%2Bfor%2Bdownstream%2BVDSL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=j4g5ZVV83QQJ&ei=OBxjYtegD7yCy9YPv5-K-Ac&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=350573052217100431&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:j4g5ZVV83QQJ:scholar.google.com/&scioq=On+low+complexity+per-tone+common+mode+sensor+based+alien+noise+cancellation+for+downstream+VDSL&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Method and apparatus for cancelling impulse noise in dsl systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:isC4tDSrTZIC",
+            "citation_id": "x5XsnwkAAAAJ:isC4tDSrTZIC",
+            "authors": "P Biyani, SM Zafaruddin, L Pierrugues, LF Alloin",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2689842428182227172",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2689842428182227172&engine=google_scholar&hl=en",
+                "cites_id": "2689842428182227172"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Method and apparatus for cancelling impulse noise in dsl systems",
+                    "author": [
+                        "P Biyani",
+                        "SM Zafaruddin",
+                        "L Pierrugues"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "US Patent App. 14 \u2026",
+                    "abstract": "The present invention generally relates to an impulse noise canceller for DSL systems. According to certain aspects, embodiments of the invention provide a dual sensor receiver to deal with the impulse noise effectively. The second sensor can be incorporated by either a common mode or unused differential port. Alternatively a power line sensor can also act as a sensor. According to certain additional aspects, embodiments of the invention provide various alternative implementations of an impulse noise canceller within a DSL receiver"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20140112379A1/en",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "E0TI5OQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Ss3rvw2bU-0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethod%2Band%2Bapparatus%2Bfor%2Bcancelling%2Bimpulse%2Bnoise%2Bin%2Bdsl%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ss3rvw2bU-0J&ei=OxxjYtaVBs6E6rQP5-KmKA&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=17101182693412687178&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Ss3rvw2bU-0J:scholar.google.com/&scioq=Method+and+apparatus+for+cancelling+impulse+noise+in+dsl+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/11/7c/5a/2add4ea4772c23/US20140112379A1.pdf"
+            }
+        },
+        {
+            "title": "Dense Air Quality Maps Using Regressive Facility Location Based Drive By Sensing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:TFP_iSt0sucC",
+            "citation_id": "x5XsnwkAAAAJ:TFP_iSt0sucC",
+            "authors": "C Paliwal, P Biyani",
+            "publication": "arXiv preprint arXiv:2201.09739, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dense Air Quality Maps Using Regressive Facility Location Based Drive By Sensing",
+                    "author": [
+                        "C Paliwal",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2201.09739",
+                    "abstract": "Currently, fixed static sensing is a primary way to monitor environmental data like air quality in cities. However, to obtain a dense spatial coverage, a large number of static monitors are required, thereby making it a costly option. Dense spatiotemporal coverage can be achieved using only a fraction of static sensors by deploying them on the moving vehicles, known as the drive by sensing paradigm. The redundancy present in the air quality data can be exploited by processing the sparsely sampled data to impute the remaining unobserved"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2201.09739",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tNfvRkAmBKUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDense%2BAir%2BQuality%2BMaps%2BUsing%2BRegressive%2BFacility%2BLocation%2BBased%2BDrive%2BBy%2BSensing%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tNfvRkAmBKUJ&ei=PhxjYovtB4yuyAT-mrWwCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:tNfvRkAmBKUJ:scholar.google.com/&scioq=Dense+Air+Quality+Maps+Using+Regressive+Facility+Location+Based+Drive+By+Sensing&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2201.09739"
+            }
+        },
+        {
+            "title": "Variational Bayesian Filtering with Subspace Information for Extreme Spatio-Temporal Matrix Completion",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "x5XsnwkAAAAJ:bEWYMUwI8FkC",
+            "authors": "C Paliwal, P Biyani, K Rajawat",
+            "publication": "arXiv preprint arXiv:2201.08307, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Variational Bayesian Filtering with Subspace Information for Extreme Spatio-Temporal Matrix Completion",
+                    "author": [
+                        "C Paliwal",
+                        "P Biyani",
+                        "K Rajawat"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2201.08307",
+                    "abstract": "Missing data is a common problem in real-world sensor data collection. The performance of various approaches to impute data degrade rapidly in the extreme scenarios of low data sampling and noisy sampling, a case present in many real-world problems in the field of traffic sensing and environment monitoring, etc. However, jointly exploiting the spatiotemporal and periodic structure, which is generally not captured by classical matrix completion approaches, can improve the imputation performance of sensor data in such real"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2201.08307",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ",
+                    "56rGYOYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QBs7lchnOAoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVariational%2BBayesian%2BFiltering%2Bwith%2BSubspace%2BInformation%2Bfor%2BExtreme%2BSpatio-Temporal%2BMatrix%2BCompletion%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QBs7lchnOAoJ&ei=QRxjYofcGI6pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:QBs7lchnOAoJ:scholar.google.com/&scioq=Variational+Bayesian+Filtering+with+Subspace+Information+for+Extreme+Spatio-Temporal+Matrix+Completion&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2201.08307"
+            }
+        },
+        {
+            "title": "Demo Abstract: Contactless E-ticketing in Public Transport Buses",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:mB3voiENLucC",
+            "citation_id": "x5XsnwkAAAAJ:mB3voiENLucC",
+            "authors": "R Girsa, K Srivastava, A Jain, P Biyani",
+            "publication": "2021 International Conference on COMmunication Systems & NETworkS (COMSNETS \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Demo Abstract: Contactless E-ticketing in Public Transport Buses",
+                    "author": [
+                        "R Girsa",
+                        "K Srivastava",
+                        "A Jain"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 Systems & NETworkS \u2026",
+                    "abstract": "Open Transit Data (OTD) availability presents an excellent opportunity for commuter-centric applications. Applications that use OTD to inform users about their commute. Moreover, the current scenario demands applications that make travel in public transit safer and more comfortable. To this cause, we present a contactless e-ticketing solution for public transport buses allowing passengers to purchase tickets in a contactless manner. It is currently in a trial phase since September and has sold over 200k tickets. The system also presents"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9352918/",
+                "author_id": [
+                    "",
+                    "uSMcjq4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:nosmzKxZjaQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDemo%2BAbstract:%2BContactless%2BE-ticketing%2Bin%2BPublic%2BTransport%2BBuses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nosmzKxZjaQJ&ei=RxxjYtK-Ju-Sy9YPmNWywAs&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Learning representations for molecular sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:r0BpntZqJG4C",
+            "citation_id": "x5XsnwkAAAAJ:r0BpntZqJG4C",
+            "authors": "D Kimothi",
+            "publication": "Queensland University of technology, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Learning representations for molecular sequences",
+                    "author": [
+                        "D Kimothi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "This thesis explores the utility of representation learning for bioinformatics applications. It proposes approaches for generating low dimensional embeddings for molecular sequences, which proved effective for downstream bioinformatics tasks such as protein classification and protein-protein interaction prediction. One specific theme of this thesis is to develop a scalable and computationally effective solution for large scale sequence comparisons and two successful approaches\u2013one based on a hierarchy of models, the other"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://eprints.qut.edu.au/226106/",
+                "author_id": [
+                    "JQzhc-QAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jpn_1ninYGcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Brepresentations%2Bfor%2Bmolecular%2Bsequences%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jpn_1ninYGcJ&ei=UBxjYoyVDo2ymgHnvp6ICA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:jpn_1ninYGcJ:scholar.google.com/&scioq=Learning+representations+for+molecular+sequences&hl=en&as_sdt=0,33",
+                "eprint_url": "https://eprints.qut.edu.au/226106/1/Dhananjay_Kimothi_Thesis.pdf"
+            }
+        },
+        {
+            "title": "Benchmark Dataset for Timetable optimization of Bus Routes in the City of New Delhi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "x5XsnwkAAAAJ:e5wmG9Sq2KIC",
+            "authors": "A Kumar, S Balodi, A Jain, P Biyani",
+            "publication": "2020 IEEE 23rd International Conference on Intelligent Transportation \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Benchmark Dataset for Timetable Optimization of Bus Routes in the City of New Delhi",
+                    "author": [
+                        "A Jain",
+                        "A Kumar",
+                        "S Balodi",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv:1910.08903",
+                    "abstract": "Public transport is one of the major forms of transportation in the world. This makes it vital to ensure that public transport is efficient. This research presents a novel real-time GPS bus transit data for over 500 routes of buses operating in New Delhi. The data can be used for modeling various timetable optimization tasks as well as in other domains such as traffic management, travel time estimation, etc. The paper also presents an approach to reduce the waiting time of Delhi buses by analyzing the traffic behavior and proposing a timetable. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1910.08903",
+                "author_id": [
+                    "6GnwSSYAAAAJ",
+                    "qrpd8wkAAAAJ",
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VEIVFDf10fgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBenchmark%2BDataset%2Bfor%2BTimetable%2Boptimization%2Bof%2BBus%2BRoutes%2Bin%2Bthe%2BCity%2Bof%2BNew%2BDelhi%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VEIVFDf10fgJ&ei=VRxjYpWtOJGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:VEIVFDf10fgJ:scholar.google.com/&scioq=Benchmark+Dataset+for+Timetable+optimization+of+Bus+Routes+in+the+City+of+New+Delhi&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1910.08903"
+            }
+        },
+        {
+            "title": "Spatio temporal methods for prediction of power consumption in Indian railways",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "x5XsnwkAAAAJ:4JMBOYKVnBMC",
+            "authors": "N Ramanathan, S Malhotra, P Biyani",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Spatio temporal methods for prediction of power consumption in Indian railways",
+                    "author": [
+                        "N Ramanathan",
+                        "S Malhotra",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "NA",
+                    "abstract": "Load forecasting is a challenging problem and many Machine Learning approaches have been used for the estimation of power consumption in the recent years. The Indian Railways is a vast railway network. It is divided into 18 zones and each zone is further divided into various divisions. The railway network is spread over a span of 1, 21,407 kilometers all over the country. Due to the large spread of the railway network in the country, it is a challenging problem to estimate the power consumption for each zone. By applying a few traditional"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/907",
+                "author_id": [
+                    "",
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cYzpGsHGz-gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpatio%2Btemporal%2Bmethods%2Bfor%2Bprediction%2Bof%2Bpower%2Bconsumption%2Bin%2BIndian%2Brailways%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cYzpGsHGz-gJ&ei=WhxjYrXRDIyuyAT-mrWwCA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/907/Nakul%20Ramanathan-2016168,%20Sanchit%20Malhotra-2016264.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Applications of open transit data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "x5XsnwkAAAAJ:RHpTSmoSYBkC",
+            "authors": "K Srivastava, P Biyani",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Open Transit Data: State of the practice and experiences from participating agencies in the United States",
+                    "author": [
+                        "J Wong",
+                        "L Reed",
+                        "K Watkins",
+                        "R Hammond"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "NA",
+                    "abstract": "-readable format is \u201copen\u201d when it is  for open transit data: how web applications use open  transit data, what benefits agencies gain by giving software developers access to the data and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://trid.trb.org/view/1240398",
+                "author_id": [
+                    "",
+                    "77RXMVgAAAAJ",
+                    "gkID6ccAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:PQeYYf18wLYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DApplications%2Bof%2Bopen%2Btransit%2Bdata%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PQeYYf18wLYJ&ei=XRxjYv23M4OEmgH1zZjACQ&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=13168662738137253693&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PQeYYf18wLYJ:scholar.google.com/&scioq=Applications+of+open+transit+data&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Benchmark Dataset for Timetable Optimization of Bus Routes in the City of New Delhi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "x5XsnwkAAAAJ:_Qo2XoVZTnwC",
+            "authors": "A Jain, A Kumar, S Balodi, P Biyani",
+            "publication": "arXiv preprint arXiv:1910.08903, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Benchmark Dataset for Timetable Optimization of Bus Routes in the City of New Delhi",
+                    "author": [
+                        "A Jain",
+                        "A Kumar",
+                        "S Balodi",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv:1910.08903",
+                    "abstract": "Public transport is one of the major forms of transportation in the world. This makes it vital to ensure that public transport is efficient. This research presents a novel real-time GPS bus transit data for over 500 routes of buses operating in New Delhi. The data can be used for modeling various timetable optimization tasks as well as in other domains such as traffic management, travel time estimation, etc. The paper also presents an approach to reduce the waiting time of Delhi buses by analyzing the traffic behavior and proposing a timetable. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1910.08903",
+                "author_id": [
+                    "6GnwSSYAAAAJ",
+                    "qrpd8wkAAAAJ",
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VEIVFDf10fgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBenchmark%2BDataset%2Bfor%2BTimetable%2BOptimization%2Bof%2BBus%2BRoutes%2Bin%2Bthe%2BCity%2Bof%2BNew%2BDelhi%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VEIVFDf10fgJ&ei=YBxjYqCUFYOEmgH1zZjACQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:VEIVFDf10fgJ:scholar.google.com/&scioq=Benchmark+Dataset+for+Timetable+Optimization+of+Bus+Routes+in+the+City+of+New+Delhi&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1910.08903"
+            }
+        },
+        {
+            "title": "Weighted- Based Energy Efficient Resource Allocation in G.Fast",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:dhFuZR0502QC",
+            "citation_id": "x5XsnwkAAAAJ:dhFuZR0502QC",
+            "authors": "A Raj, P Biyani",
+            "publication": "IEEE Transactions on Communications 67 (11), 7744-7754, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Weighted-  Based Energy Efficient Resource Allocation in G.Fast",
+                    "author": [
+                        "A Raj",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Transactions on Communications",
+                    "abstract": "One of the key challenges in G. fast is to minimize the power consumption at distribution points. G. fast standards define Discontinuous Operation modes that provide avenues for power reduction by allowing intermittent transmission of users along time slots. In this paper, we formulate a power efficiency problem as a user-slot assignment problem, where we schedule users to time slots during discontinuous operation such that the total power consumption is minimized. Since the general user-slot assignment is NP hard, we propose a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8794838/",
+                "author_id": [
+                    "dcjyb40AAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:orJgz0K1ZhgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWeighted-%2BBased%2BEnergy%2BEfficient%2BResource%2BAllocation%2Bin%2BG.Fast%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=orJgz0K1ZhgJ&ei=YxxjYor5BLKO6rQPy-CRsA8&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:orJgz0K1ZhgJ:scholar.google.com/&scioq=Weighted-+Based+Energy+Efficient+Resource+Allocation+in+G.Fast&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Optimization problems in bus route network design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "x5XsnwkAAAAJ:ZeXyd9-uunAC",
+            "authors": "S Jain, P Biyani",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Optimization problems in bus route network design",
+                    "author": [
+                        "S Jain",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "Ride-sharing has been one of the emerging solutions to the ever-increasing problem of congestion and air pollution in cities. However, the effectiveness of ride-sharing in reducing private vehicles is contingent on its e ciency while maintaining economic viability from the perspective of both the operator and the passenger. This work proposes a ride-sharing framework that jointly takes into account the quality of sharing as well as the operator revenue while xing the consumer cost. It formulates a weighted graph coloring optimization"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/760",
+                "author_id": [
+                    "ZoZXIdwAAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oQIl33DIPiEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOptimization%2Bproblems%2Bin%2Bbus%2Broute%2Bnetwork%2Bdesign%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oQIl33DIPiEJ&ei=ZxxjYvmHL8LZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:oQIl33DIPiEJ:scholar.google.com/&scioq=Optimization+problems+in+bus+route+network+design&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/760/2016261_SAATVIK%20JAIN.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Traffc analysis through GPS data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "x5XsnwkAAAAJ:7PzlFSSx8tAC",
+            "authors": "A Kumar, S Balodi, P Biyani",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Urban traffic analysis through an UAV",
+                    "author": [
+                        "G Salvo",
+                        "L Caruso",
+                        "A Scordo"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Procedia-Social and Behavioral Sciences",
+                    "abstract": "real traffic flows using manual data collection or through probe vehicles equipped with GPS  ( errors due to human error and the use of GPS analysis, in particular, might be not correct for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S187704281400144X",
+                "author_id": [
+                    "",
+                    "",
+                    "4b6oqa4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Mmju0CHnlF0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTraffic%2Banalysis%2Bthrough%2BGPS%2Bdata%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Mmju0CHnlF0J&ei=cxxjYu_UE7KO6rQPy-CRsA8&json=",
+                "num_citations": 135,
+                "citedby_url": "/scholar?cites=6743268674505697330&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Mmju0CHnlF0J:scholar.google.com/&scioq=Traffic+analysis+through+GPS+data&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.sciencedirect.com/science/article/pii/S187704281400144X/pdf?md5=bdffc1da5d61853fe4a671b24d009978&pid=1-s2.0-S187704281400144X-main.pdf"
+            }
+        },
+        {
+            "title": "To each route its own ETA: A generative modeling framework for ETA prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "x5XsnwkAAAAJ:R3hNpaxXUhUC",
+            "authors": "P Biyani",
+            "publication": "arXiv preprint arXiv:1906.09925, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "To each route its own ETA: A generative modeling framework for ETA prediction",
+                    "author": [
+                        "C Paliwal",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Intelligent Transportation \u2026",
+                    "abstract": "Accurate expected time of arrival (ETA) information is crucial in maintaining the quality of service of public transit. Recent advances in artificial intelligence (AI) has led to more effective models for ETA estimation that rely heavily on a large GPS datasets. More importantly, these are mainly cabs based datasets which may not be fit for bus based public transport. Consequently, the latest methods may not be applicable for ETA estimation in cities with the absence of large training data set. On the other hand, the ETA estimation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8917465/",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:egBlByXmN30J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTo%2Beach%2Broute%2Bits%2Bown%2BETA:%2BA%2Bgenerative%2Bmodeling%2Bframework%2Bfor%2BETA%2Bprediction%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=egBlByXmN30J&ei=eRxjYtjPD8LZmQHc1ovQAg&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=9022933425172316282&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:egBlByXmN30J:scholar.google.com/&scioq=To+each+route+its+own+ETA:+A+generative+modeling+framework+for+ETA+prediction&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Online Variational Bayesian Subspace Filtering with Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "x5XsnwkAAAAJ:L8Ckcad2t8MC",
+            "authors": "U Bhatt, P Biyani, K Rajawat",
+            "publication": "arXiv preprint arXiv:1906.09920, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Online Variational Bayesian Subspace Filtering with Applications",
+                    "author": [
+                        "U Bhatt",
+                        "P Biyani",
+                        "K Rajawat"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv:1906.09920",
+                    "abstract": "Matrix completion and robust principal component analysis have been widely used for the recovery of data suffering from missing entries or outliers. In many real-world applications however, the data is also time-varying, and the naive approach of per-snapshot recovery is both expensive and sub-optimal. This paper develops generative Bayesian models that fit sequential multivariate measurements arising from a low-dimensional time-varying subspace. A variational Bayesian subspace filtering approach is proposed that learns the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1906.09920",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ",
+                    "56rGYOYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6YIMe0jZPx8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOnline%2BVariational%2BBayesian%2BSubspace%2BFiltering%2Bwith%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6YIMe0jZPx8J&ei=hhxjYrCzCoOEmgH1zZjACQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:6YIMe0jZPx8J:scholar.google.com/&scioq=Online+Variational+Bayesian+Subspace+Filtering+with+Applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1906.09920"
+            }
+        },
+        {
+            "title": "Speech denoising with re-synthesis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:IWHjjKOFINEC",
+            "citation_id": "x5XsnwkAAAAJ:IWHjjKOFINEC",
+            "authors": "A Malik, P Biyani",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Speech denoising with re-synthesis",
+                    "author": [
+                        "A Malik",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "When performing speech denoising, the goal of and algorithm is to remove the unwanted frequency, known as noise, while preserving the feature vectors of the signal. In this text, we present an algorithm for speech denoising that removes the noise by converting the speech signal to text and then regenerating the speech signal from the text. We also aim to perform voice adaptation and retention of the emotional components (prosodic parameters) of the original speech in order to preserve the speech feature vectors. In order to do this, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/761",
+                "author_id": [
+                    "",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:EBnvRx43eSMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpeech%2Bdenoising%2Bwith%2Bre-synthesis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EBnvRx43eSMJ&ei=iRxjYpPWL6KUy9YPyMyGkAI&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/761/2015003_AAYUSHI%20MALIK%20-%20Copy.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "EATM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "x5XsnwkAAAAJ:iH-uZ7U-co4C",
+            "authors": "PK Pruthi, R Girsa, SR Butta, P Biyani",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enhanced efficiency of solid-state NMR investigations of energy materials using an external automatic tuning/matching (eATM) robot",
+                    "author": [
+                        "O Pecher",
+                        "DM Halat",
+                        "J Lee",
+                        "Z Liu",
+                        "KJ Griffith"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Journal of Magnetic \u2026",
+                    "abstract": "We show that use of the eATM robot significantly boosts the overall collection  eATM system  accommodates and extends these approaches, as we demonstrate with a combined eATM"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S1090780716302725",
+                "author_id": [
+                    "NLWI2skAAAAJ",
+                    "rVgPLFQAAAAJ",
+                    "",
+                    "MklHLUYAAAAJ",
+                    "zmw1o5MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:YXuZRZiC9JcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEATM%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YXuZRZiC9JcJ&ei=jRxjYob0LpyO6rQP_qe3mAs&json=",
+                "num_citations": 42,
+                "citedby_url": "/scholar?cites=10949520184558844769&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:YXuZRZiC9JcJ:scholar.google.com/&scioq=EATM&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1090780716302725"
+            }
+        },
+        {
+            "title": "A, M., and Kannu, AP, Channel Estimation Strategies for Multi-User mm Wave Systems; TCOMM Nov. 2018 5678-5690 Aalamifar, F., and Lampe, L., Cost-Efficient QoS-Aware Data \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "x5XsnwkAAAAJ:UeHWp8X0CEIC",
+            "authors": "I Ahmad, KD Nguyen, N Letzepis, A Pollok, A Ahmadzadeh, V Jamali, ...",
+            "publication": "IEEE Transactions on Communications 66 (12), 6677, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Channel estimation strategies for multi-user mm wave systems",
+                    "author": [
+                        "A Manoj",
+                        "AP Kannu"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Transactions on Communications",
+                    "abstract": "In a multi-user millimeter (mm) wave communication system, we consider the problem of estimating the channel response between the base station (BS) and each of the user equipments (UEs). We propose three different pilot training schemes/strategies, namely: 1) estimating mm wave channels separately at the UE's; 2) joint estimation of mm wave channels of all the UE's simultaneously at the BS; and 3) two stage process involving estimation at both the UE's and the BS. We propose two random constructions for the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8408477/",
+                "author_id": [
+                    "",
+                    "WP7b1VoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bw5GQdTwkqgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA,%2BM.,%2Band%2BKannu,%2BAP,%2BChannel%2BEstimation%2BStrategies%2Bfor%2BMulti-User%2Bmm%2BWave%2BSystems%253B%2BTCOMM%2BNov.%2B2018%2B5678-5690%2BAalamifar,%2BF.,%2Band%2BLampe,%2BL.,%2BCost-Efficient%2BQoS-Aware%2BData%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bw5GQdTwkqgJ&ei=kRxjYsp4jJLIBJmToeAI&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=12147035939390492271&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bw5GQdTwkqgJ:scholar.google.com/&scioq=A,+M.,+and+Kannu,+AP,+Channel+Estimation+Strategies+for+Multi-User+mm+Wave+Systems%3B+TCOMM+Nov.+2018+5678-5690+Aalamifar,+F.,+and+Lampe,+L.,+Cost-Efficient+QoS-Aware+Data+%E2%80%A6&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.ee.iitm.ac.in/~arunpachai/papers/tcom_18.pdf"
+            }
+        },
+        {
+            "title": "Word2vec for reviews",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "x5XsnwkAAAAJ:QIV2ME_5wuYC",
+            "authors": "A Verma, P Biyani",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Word2Vec model for sentiment analysis of product reviews in Indonesian language",
+                    "author": [
+                        "MA Fauzi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "International Journal of Electrical and Computer \u2026",
+                    "abstract": "use of Word2Vec model as features in the SVM based sentiment analysis of product reviews  in  However, the Word2vec model has the lowest accuracy (only 0.70), compared to other"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.academia.edu/download/63912912/58_2018-06-22_2018-02-03_11416-21566-1-ED_Edit_Lelli20200713-11864-1kia3vo.pdf",
+                "author_id": [
+                    "6wYOsaoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hr3l3j20uV4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWord2vec%2Bfor%2Breviews%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hr3l3j20uV4J&ei=kxxjYsX9ObKO6rQPy-CRsA8&json=",
+                "num_citations": 34,
+                "citedby_url": "/scholar?cites=6825684888082300294&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:hr3l3j20uV4J:scholar.google.com/&scioq=Word2vec+for+reviews&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/63912912/58_2018-06-22_2018-02-03_11416-21566-1-ED_Edit_Lelli20200713-11864-1kia3vo.pdf"
+            }
+        },
+        {
+            "title": "Method and apparatus for cancelling impulse noise in dsl systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "x5XsnwkAAAAJ:_FxGoFyzp5QC",
+            "authors": "P Biyani, SM Zafaruddin, L Pierrugues, LF Alloin",
+            "publication": "US Patent App. 15/207,211, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Method and apparatus for cancelling impulse noise in dsl systems",
+                    "author": [
+                        "P Biyani",
+                        "SM Zafaruddin",
+                        "L Pierrugues"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "US Patent App. 14 \u2026",
+                    "abstract": "The present invention generally relates to an impulse noise canceller for DSL systems. According to certain aspects, embodiments of the invention provide a dual sensor receiver to deal with the impulse noise effectively. The second sensor can be incorporated by either a common mode or unused differential port. Alternatively a power line sensor can also act as a sensor. According to certain additional aspects, embodiments of the invention provide various alternative implementations of an impulse noise canceller within a DSL receiver"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20140112379A1/en",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "E0TI5OQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Ss3rvw2bU-0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethod%2Band%2Bapparatus%2Bfor%2Bcancelling%2Bimpulse%2Bnoise%2Bin%2Bdsl%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ss3rvw2bU-0J&ei=ohxjYoHTMI2ymgHnvp6ICA&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=17101182693412687178&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Ss3rvw2bU-0J:scholar.google.com/&scioq=Method+and+apparatus+for+cancelling+impulse+noise+in+dsl+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/11/7c/5a/2add4ea4772c23/US20140112379A1.pdf"
+            }
+        },
+        {
+            "title": "Resource allocation problems in G. fast and enterprise Wi-Fi networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "x5XsnwkAAAAJ:IjCSPb-OGe4C",
+            "authors": "A Raj, P Biyani",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Resource allocation problems in G. fast and enterprise Wi-Fi networks",
+                    "author": [
+                        "A Raj",
+                        "P Biyani"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "This thesis addresses resource allocation problems in two different domains: G. fast and Wi-Fi. One of the key challenges in G. fast is to minimize power consumption at the distribution points. G. fast standards define Discontinuous Operation modes that provide avenues for power reduction by allowing intermittent transmission of users a long time slots. We formulate power efficiency problem as a user-slot assignment problem, where we schedule users to time slots during discontinuous operation such that the total power consumption is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/409",
+                "author_id": [
+                    "dcjyb40AAAAJ",
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kyiJ7VleRxUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DResource%2Ballocation%2Bproblems%2Bin%2BG.%2Bfast%2Band%2Benterprise%2BWi-Fi%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kyiJ7VleRxUJ&ei=pxxjYuD2A6mTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:kyiJ7VleRxUJ:scholar.google.com/&scioq=Resource+allocation+problems+in+G.+fast+and+enterprise+Wi-Fi+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/409/MT14077_ANKITA%20RAJ.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "METHOD AND DEVICE FOR SUPPRESSING IMPULSE RUSH IN DSL SYSTEMS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "x5XsnwkAAAAJ:j3f4tGmQtD8C",
+            "authors": "P Biyani, SM Zafaruddin, L Pierrugues, LF Alloin",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "METHOD AND DEVICE FOR SUPPRESSING IMPULSE RUSH IN DSL SYSTEMS",
+                    "author": [
+                        "P Biyani",
+                        "SM Zafaruddin",
+                        "L Pierrugues",
+                        "LF Alloin"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "Prior art keywords impulse noise dsl systems  H04B1/1036\u2014Means associated with  receiver for limiting or suppressing noise or interference assessing signal quality or  detecting noise/interference for the received signal with automatic suppression of narrow  band noise or interference, eg by using tuneable notch filters"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/EP2909984A4/fi%20US4325121.pdf",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "E0TI5OQAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:1d8Pmr2_aPgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMETHOD%2BAND%2BDEVICE%2BFOR%2BSUPPRESSING%2BIMPULSE%2BRUSH%2BIN%2BDSL%2BSYSTEMS%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1d8Pmr2_aPgJ&ei=tBxjYtrOEfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:1d8Pmr2_aPgJ:scholar.google.com/&scioq=METHOD+AND+DEVICE+FOR+SUPPRESSING+IMPULSE+RUSH+IN+DSL+SYSTEMS&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Systems and methods of resource allocation for cancellation of crosstalk",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "x5XsnwkAAAAJ:YsMSGLbcyi4C",
+            "authors": "P Biyani, LF Alloin, S Prakriya, S Prasad",
+            "publication": "US Patent 9,042,211, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Systems and methods of resource allocation for cancellation of crosstalk",
+                    "author": [
+                        "P Biyani",
+                        "LF Alloin",
+                        "S Prakriya",
+                        "S Prasad"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "US Patent 9,042,211",
+                    "abstract": "A method implemented in a multi-user communication system is described for performing far-end crosstalk (FEXT) cancellation for each victim user. The method comprises performing dynamic programming to allocate resources according to (N\u2212 1) normalized disturber coupling values and difference rate function values associated with N total users in the system involved in partial FEXT cancellation. In accordance with some embodiments, dynamic programming comprises selecting a tone and one or more disturbers to be"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US9042211B2/en",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "",
+                    "NfefWDkAAAAJ",
+                    "kFWm_hkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OEtkEKx-skwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSystems%2Band%2Bmethods%2Bof%2Bresource%2Ballocation%2Bfor%2Bcancellation%2Bof%2Bcrosstalk%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OEtkEKx-skwJ&ei=vxxjYpaRHbKO6rQPy-CRsA8&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:OEtkEKx-skwJ:scholar.google.com/&scioq=Systems+and+methods+of+resource+allocation+for+cancellation+of+crosstalk&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/8d/09/ce/2bd11c28b7acd4/US9042211.pdf"
+            }
+        },
+        {
+            "title": "Low complexity algorithms for vectored VDSL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:Zph67rFs4hoC",
+            "citation_id": "x5XsnwkAAAAJ:Zph67rFs4hoC",
+            "authors": "P Biyani",
+            "publication": "IIT Delhi, 2011",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Low complexity algorithms for vectored VDSL",
+                    "author": [
+                        "P Biyani"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "NA",
+                    "abstract": "Signal co-operation at the central office (CO) along with the synchronized reception and  transmission and use of sophisticated multiple-input-multiple-output (MIMO) signal processing  techniques are major features of the vectored VDSL systems. Although the solutions to FEXT  and related issues in the VDSL are well known, innovative solutions are needed for many  practical problems for making implementation of these systems feasible. In this thesis, we  attempt to bridge this gap.  Adaptability, low complexity and backward compatibility are the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://eprint.iitd.ac.in/bitstream/handle/12345678/5637/TH-4188.pdf?sequence=2",
+                "author_id": [
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:YgEtmditW6oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLow%2Bcomplexity%2Balgorithms%2Bfor%2Bvectored%2BVDSL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YgEtmditW6oJ&ei=xBxjYoKAOMLZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "eprint_url": "http://eprint.iitd.ac.in/bitstream/handle/12345678/5637/TH-4188.pdf?sequence=2"
+            }
+        },
+        {
+            "title": "2005 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 2",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:HDshCWvjkbEC",
+            "citation_id": "x5XsnwkAAAAJ:HDshCWvjkbEC",
+            "authors": "MS Alber, J Allali, A Wai-Ho, V Bafna, TC Bailey, L Benini, D Bertrand, ...",
+            "publication": "IEEE/ACM Transactions on Computational Biology and Bioinformatics 2 (4), 381, 2005",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2005",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "2005 Index IEEE/ACM Transactions on Computational Biology and Bioinformatics Vol. 2",
+                    "author": [
+                        "MS Alber",
+                        "J Allali",
+                        "A Wai-Ho",
+                        "V Bafna"
+                    ],
+                    "pub_year": "2005",
+                    "venue": "IEEE/ACM \u2026",
+                    "abstract": "This index covers all technical items-papers, correspondence, reviews, etc.-that appeared in this periodical during the year, and items from previous years that were commented upon or corrected in this year. Departments and other items may also be covered if they have been judged to have archival value. The Author Index contains the primary entry for each item, listed under the first author's name. The primary entry includes the co-authors' names, the title of the paper or other item, and its location, specified by the publication abbreviation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/1541989/",
+                "author_id": [
+                    "CUs1mxsAAAAJ",
+                    "dCMddzcAAAAJ",
+                    "",
+                    "NzQu5SwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bAPargxJd7wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D2005%2BIndex%2BIEEE/ACM%2BTransactions%2Bon%2BComputational%2BBiology%2Band%2BBioinformatics%2BVol.%2B2%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bAPargxJd7wJ&ei=2RxjYuaBILyCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel5/8857/32929/01541989.pdf"
+            }
+        },
+        {
+            "title": "Joint Optimal Classification and Pairing of Human Chromosomes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:4DMP91E08xMC",
+            "citation_id": "x5XsnwkAAAAJ:4DMP91E08xMC",
+            "authors": "P Biyani",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2004",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Joint Optimal Classification and Pairing of Human Chromosomes",
+                    "author": [
+                        "P Biyani"
+                    ],
+                    "pub_year": "2004",
+                    "venue": "NA",
+                    "abstract": "In this thesis, we reexamine the problems of computer-aided classification and pairing of human chromosomes. Traditionally researchers have dealt with the problem of classification and pairing separately. In our work, we propose to jointly optimize the solutions of these two very closely related problems. The combined problem is formulated into one of optimal three-dimensional assignment with an objective function of maximum likelihood. This formulation poses two technical challenges: 1. estimation of the posterior probability that two"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://macsphere.mcmaster.ca/handle/11375/13057",
+                "author_id": [
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ypQh4oyvv-IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DJoint%2BOptimal%2BClassification%2Band%2BPairing%2Bof%2BHuman%2BChromosomes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ypQh4oyvv-IJ&ei=3BxjYpzhNbyCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ypQh4oyvv-IJ:scholar.google.com/&scioq=Joint+Optimal+Classification+and+Pairing+of+Human+Chromosomes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://macsphere.mcmaster.ca/bitstream/11375/13057/1/fulltext.pdf"
+            }
+        },
+        {
+            "title": "Early estimation of voip quality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "x5XsnwkAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "P Biyani, O Hagsand, I Marsh",
+            "publication": "21st NORDUnet Network Conference, 25 Aug 2003, Rejkavik, Iceland, 2003",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2003",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Early estimation of voice over ip quality",
+                    "author": [
+                        "P Biyani",
+                        "O Hagsand",
+                        "G Karlsson",
+                        "I Marsh"
+                    ],
+                    "pub_year": "2003",
+                    "venue": "Proc. of the 21st Nordunet \u2026",
+                    "abstract": "quality of VoIP sessions over best effort IP networks. Our contribution is a method for estimating  the quality of a VoIP session from the early  the loss can be estimated early. We state that"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.1734&rep=rep1&type=pdf",
+                "author_id": [
+                    "x5XsnwkAAAAJ",
+                    "XwcgVVIAAAAJ",
+                    "lISeVIEAAAAJ",
+                    "dXK5rtUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pdhtWGcSO68J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEarly%2Bestimation%2Bof%2Bvoip%2Bquality%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pdhtWGcSO68J&ei=4BxjYr-xDqmTy9YPsu-CuAM&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=12626706215337842853&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pdhtWGcSO68J:scholar.google.com/&scioq=Early+estimation+of+voip+quality&hl=en&as_sdt=0,33",
+                "eprint_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.59.1734&rep=rep1&type=pdf"
+            }
+        },
+        {
+            "title": "Antony Franklin A Indian Institute of Technology Hyderabad India Amit Acharyya IIT HYDERABAD India Samar Agnihotri Indian Institute of Technology Mandi India Monika Agrawal IIT \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:aqlVkmm33-oC",
+            "citation_id": "x5XsnwkAAAAJ:aqlVkmm33-oC",
+            "authors": "SR Ahamed, MJ Akhtar",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Antony Franklin A Indian Institute of Technology Hyderabad India Amit Acharyya IIT HYDERABAD India Samar Agnihotri Indian Institute of Technology \u2026",
+                    "author": [
+                        "SR Ahamed",
+                        "MJ Akhtar"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "India Dileep Aroor  Indian Institute of Technology Mandi (IIT Mandi India Ashwin Ashok"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8600002/",
+                "author_id": [
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:kaegH_NkxeAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAntony%2BFranklin%2BA%2BIndian%2BInstitute%2Bof%2BTechnology%2BHyderabad%2BIndia%2BAmit%2BAcharyya%2BIIT%2BHYDERABAD%2BIndia%2BSamar%2BAgnihotri%2BIndian%2BInstitute%2Bof%2BTechnology%2BMandi%2BIndia%2BMonika%2BAgrawal%2BIIT%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kaegH_NkxeAJ&ei=4xxjYoGkLYyuyAT-mrWwCA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/8577949/8599880/08600002.pdf"
+            }
+        },
+        {
+            "title": "Other reviewers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "x5XsnwkAAAAJ:qxL8FJ1GzNcC",
+            "authors": "B Abraham, S Agarwal, S Agnihotri, MAIIT India, R Ahuja, J Akhtar, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Understanding deja reviewers",
+                    "author": [
+                        "E Gilbert",
+                        "K Karahalios"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "Proceedings of the 2010 ACM conference on \u2026",
+                    "abstract": "I'm sure that other reviewers noted the same features that  reviews, but every one of our  reviewers ignored the rest. This is  The second is the relationship to other reviewers: amateurs"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/1718918.1718961",
+                "author_id": [
+                    "71OktocAAAAJ",
+                    "xyHrRFUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JxXsAcxLTu4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOther%2Breviewers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JxXsAcxLTu4J&ei=5hxjYvX8KvmQ6rQP5OqKqAo&json=",
+                "num_citations": 89,
+                "citedby_url": "/scholar?cites=17171745768787940647&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JxXsAcxLTu4J:scholar.google.com/&scioq=Other+reviewers&hl=en&as_sdt=0,33",
+                "eprint_url": "http://eegilbert.org/papers/cscw10.deja.gilbert.pdf"
+            }
+        },
+        {
+            "title": "ADSP Course Project: Homologue Pair matching of Human Chromosomes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=x5XsnwkAAAAJ&pagesize=100&citation_for_view=x5XsnwkAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "x5XsnwkAAAAJ:W7OEmFMy1HYC",
+            "authors": "P Biyani",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ADSP Course Project: Homologue Pair matching of Human Chromosomes",
+                    "author": [
+                        "P Biyani"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "x5XsnwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:E_3GCilbEUQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DADSP%2BCourse%2BProject:%2BHomologue%2BPair%2Bmatching%2Bof%2BHuman%2BChromosomes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=E_3GCilbEUQJ&ei=7RxjYvO9B--Sy9YPmNWywAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:E_3GCilbEUQJ:scholar.google.com/&scioq=ADSP+Course+Project:+Homologue+Pair+matching+of+Human+Chromosomes&hl=en&as_sdt=0,33"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 283,
+                    "since_2017": 170
+                }
+            },
+            {
+                "h_index": {
+                    "all": 11,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 11,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2006,
+                "citations": 2
+            },
+            {
+                "year": 2007,
+                "citations": 3
+            },
+            {
+                "year": 2008,
+                "citations": 8
+            },
+            {
+                "year": 2009,
+                "citations": 5
+            },
+            {
+                "year": 2010,
+                "citations": 12
+            },
+            {
+                "year": 2011,
+                "citations": 8
+            },
+            {
+                "year": 2012,
+                "citations": 15
+            },
+            {
+                "year": 2013,
+                "citations": 12
+            },
+            {
+                "year": 2014,
+                "citations": 18
+            },
+            {
+                "year": 2015,
+                "citations": 12
+            },
+            {
+                "year": 2016,
+                "citations": 17
+            },
+            {
+                "year": 2017,
+                "citations": 30
+            },
+            {
+                "year": 2018,
+                "citations": 21
+            },
+            {
+                "year": 2019,
+                "citations": 30
+            },
+            {
+                "year": 2020,
+                "citations": 45
+            },
+            {
+                "year": 2021,
+                "citations": 33
+            },
+            {
+                "year": 2022,
+                "citations": 11
+            }
+        ]
+    },
+    "co_authors": []
+}

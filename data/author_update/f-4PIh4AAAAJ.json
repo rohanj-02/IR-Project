@@ -1,0 +1,423 @@
+{
+    "search_metadata": {
+        "id": "6256e0dd925641094d4c071c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d495fb5fd563c953/6256e0dd925641094d4c071c.json",
+        "created_at": "2022-04-13 14:40:29 UTC",
+        "processed_at": "2022-04-13 14:40:29 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=f-4PIh4AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/d495fb5fd563c953/6256e0dd925641094d4c071c.html",
+        "total_time_taken": 1.11,
+        "total_articles": 8,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "f-4PIh4AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Piyus Kedia",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://www.cse.iitd.ac.in/~siy107537/",
+        "interests": [
+            {
+                "title": "Operating Systems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:operating_systems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoperating_systems"
+            },
+            {
+                "title": "Programming language",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:programming_language",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprogramming_language"
+            },
+            {
+                "title": "System security",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:system_security",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asystem_security"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Fast dynamic binary translation for the kernel",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "f-4PIh4AAAAJ:u5HHmVD_uO8C",
+            "authors": "P Kedia, S Bansal",
+            "publication": "Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems \u2026, 2013",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5282251285048210032",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5282251285048210032&engine=google_scholar&hl=en",
+                "cites_id": "5282251285048210032"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fast dynamic binary translation for the kernel",
+                    "author": [
+                        "P Kedia",
+                        "S Bansal"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the Twenty-Fourth ACM Symposium \u2026",
+                    "abstract": "Dynamic binary translation (DBT) is a powerful technique with several important applications. System-level binary translators have been used for implementing a Virtual Machine Monitor [2] and for instrumentation in the OS kernel [10]. In current designs, the performance overhead of binary translation on kernel-intensive workloads is high. eg, over 10x slowdowns were reported on the syscall nanobenchmark in [2], 2-5x slowdowns were reported on lmbench microbenchmarks in [10]. These overheads are primarily due to the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2517349.2522718",
+                "author_id": [
+                    "f-4PIh4AAAAJ",
+                    "VgCn1s4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cDKmo45TTkkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFast%2Bdynamic%2Bbinary%2Btranslation%2Bfor%2Bthe%2Bkernel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cDKmo45TTkkJ&ei=Cr1iYuO7ObyCy9YPv5-K-Ac&json=",
+                "num_citations": 24,
+                "citedby_url": "/scholar?cites=5282251285048210032&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cDKmo45TTkkJ:scholar.google.com/&scioq=Fast+dynamic+binary+translation+for+the+kernel&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/2517349.2522718"
+            }
+        },
+        {
+            "title": "Simple, fast, and safe manual memory management.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "f-4PIh4AAAAJ:IjCSPb-OGe4C",
+            "authors": "P Kedia, M Costa, M Parkinson, K Vaswani, D Vytiniotis, A Blankstein",
+            "publication": "In Proceedings of the 38th ACM SIGPLAN Conference on Programming Language \u2026, 2017",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4179039967725895377",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4179039967725895377&engine=google_scholar&hl=en",
+                "cites_id": "4179039967725895377"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Simple, fast, and safe manual memory management",
+                    "author": [
+                        "P Kedia",
+                        "M Costa",
+                        "M Parkinson",
+                        "K Vaswani"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the 38th \u2026",
+                    "abstract": "Safe programming languages are readily available, but many applications continue to be written in unsafe languages because of efficiency. As a consequence, many applications continue to have exploitable memory safety bugs. Since garbage collection is a major source of inefficiency in the implementation of safe languages, replacing it with safe manual memory management would be an important step towards solving this problem."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3062341.3062376",
+                "author_id": [
+                    "f-4PIh4AAAAJ",
+                    "RM9mfYUAAAAJ",
+                    "N2K6i8MAAAAJ",
+                    "iLMw2EUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:0T52irXu_jkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimple,%2Bfast,%2Band%2Bsafe%2Bmanual%2Bmemory%2Bmanagement.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0T52irXu_jkJ&ei=Db1iYp-eMe-Sy9YPmNWywAs&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=4179039967725895377&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:0T52irXu_jkJ:scholar.google.com/&scioq=Simple,+fast,+and+safe+manual+memory+management.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://sjmulder.nl/dl/pdf/unsorted/2017%20-%20Kedia%20et%20al%20-%20Simple,%20Fast%20and%20Safe%20Manual%20Memory%20Management.pdf"
+            }
+        },
+        {
+            "title": "Improving remote desktopping through adaptive record/replay",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "f-4PIh4AAAAJ:2osOgNQ5qMEC",
+            "authors": "S Jaffer, P Kedia, S Bansal",
+            "publication": "Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on \u2026, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12117163405406993305",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12117163405406993305&engine=google_scholar&hl=en",
+                "cites_id": "12117163405406993305"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Improving remote desktopping through adaptive record/replay",
+                    "author": [
+                        "S Jaffer",
+                        "P Kedia",
+                        "S Bansal"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 11th ACM SIGPLAN \u2026",
+                    "abstract": "Accessing the display of a computer remotely, is popularly called remote desktopping. Remote desktopping software installs at both the user-facing client computer and the remote server computer; it simulates user's input events at server, and streams the corresponding display changes to client, thus providing an illusion to the user of controlling the remote machine using local input devices (eg, keyboard/mouse). Many such remote desktopping tools are widely used. We show that if the remote server is a virtual machine (VM) and the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2731186.2731193",
+                "author_id": [
+                    "io6_JsIAAAAJ",
+                    "f-4PIh4AAAAJ",
+                    "VgCn1s4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mXul8OrPKKgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImproving%2Bremote%2Bdesktopping%2Bthrough%2Badaptive%2Brecord/replay%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mXul8OrPKKgJ&ei=EL1iYsbyFpyO6rQP-viEEA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=12117163405406993305&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mXul8OrPKKgJ:scholar.google.com/&scioq=Improving+remote+desktopping+through+adaptive+record/replay&hl=en&as_sdt=0,33",
+                "eprint_url": "http://vglab.cse.iitd.ac.in/~sbansal/pubs/rdrr.pdf"
+            }
+        },
+        {
+            "title": "CGuard: Efficient Spatial Safety for C",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "f-4PIh4AAAAJ:LkGwnXOMwfcC",
+            "authors": "P Kedia, R Purandare, UK Agarwal",
+            "publication": "arXiv preprint arXiv:2107.10533, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "CGuard: Efficient Spatial Safety for C",
+                    "author": [
+                        "P Kedia",
+                        "R Purandare",
+                        "UK Agarwal"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv:2107.10533",
+                    "abstract": "Spatial safety violations are the root cause of many security attacks and unexpected behavior of applications. Existing techniques to enforce spatial safety work broadly at either object or pointer granularity. Object-based approaches tend to incur high CPU overheads, whereas pointer-based approaches incur both high CPU and memory overheads. SGXBounds, an object-based approach, is so far the most efficient technique that provides complete out-of-bounds protection for objects. However, a major drawback of this approach"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2107.10533",
+                "author_id": [
+                    "f-4PIh4AAAAJ",
+                    "",
+                    "CH1cBp4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TOIhTWB3_gAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCGuard:%2BEfficient%2BSpatial%2BSafety%2Bfor%2BC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TOIhTWB3_gAJ&ei=Er1iYraNNbyCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:TOIhTWB3_gAJ:scholar.google.com/&scioq=CGuard:+Efficient+Spatial+Safety+for+C&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2107.10533"
+            }
+        },
+        {
+            "title": "Dynamic binary translation for deterministic replay",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "f-4PIh4AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "P Kedia",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dynamic binary translation for deterministic replay",
+                    "author": [
+                        "P Kedia"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "We present an efficient software implementation to deterministically record and replay a  full multiprocessor virtual machine (VM), including its guest OS kernel and applications. Deterministically  replaying a shared-memory monolithic OS kernel (like Linux) presents a significant  performance challenge and we demonstrate the use of dynamic binary translation to  achieve this objective.  We present a kernel-level binary translation mechanism which  exhibits near-native performance even on applications with large kernel activity. Our translator"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://103.27.10.17/bitstream/handle/12345678/7556/TH-5474.pdf?sequence=2&isAllowed=y",
+                "author_id": [
+                    "f-4PIh4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:RuCKu3ucSPcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2Bbinary%2Btranslation%2Bfor%2Bdeterministic%2Breplay%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=RuCKu3ucSPcJ&ei=Gb1iYr-uA-HDywTjooCQBQ&json=",
+                "num_citations": 0,
+                "eprint_url": "http://103.27.10.17/bitstream/handle/12345678/7556/TH-5474.pdf?sequence=2&isAllowed=y"
+            }
+        },
+        {
+            "title": "A Software-only Mechanism for Device Passthrough and Sharing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "f-4PIh4AAAAJ:d1gkVwhDpl0C",
+            "authors": "P Kedia, S Bansal",
+            "publication": "arXiv preprint arXiv:1508.06367, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Software-only Mechanism for Device Passthrough and Sharing",
+                    "author": [
+                        "P Kedia",
+                        "S Bansal"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "arXiv preprint arXiv:1508.06367",
+                    "abstract": "Network processing elements in virtual machines, also known as Network Function Virtualization (NFV) often face CPU bottlenecks at the virtualization interface. Even highly optimized paravirtual device interfaces fall short of the throughput requirements of modern devices. Passthrough devices, together with SR-IOV support for multiple device virtual functions (VF) and IOMMU support, mitigate this problem somewhat, by allowing a VM to directly control a device partition bypassing the virtualization stack. However, device"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1508.06367",
+                "author_id": [
+                    "f-4PIh4AAAAJ",
+                    "VgCn1s4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7x0Ml5PZDgkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BSoftware-only%2BMechanism%2Bfor%2BDevice%2BPassthrough%2Band%2BSharing%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7x0Ml5PZDgkJ&ei=Hb1iYvyBHe-Sy9YPmNWywAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:7x0Ml5PZDgkJ:scholar.google.com/&scioq=A+Software-only+Mechanism+for+Device+Passthrough+and+Sharing&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1508.06367"
+            }
+        },
+        {
+            "title": "Building Resilient Cloud Over Unreliable Commodity Infrastructure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "f-4PIh4AAAAJ:9yKSN-GCB0IC",
+            "authors": "P Kedia, S Bansal, D Deshpande, S Iyer",
+            "publication": "2012 IEEE International Conference on Cloud Computing in Emerging Markets \u2026, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Building Resilient Cloud Over Unreliable Commodity Infrastructure",
+                    "author": [
+                        "P Kedia",
+                        "S Bansal",
+                        "D Deshpande"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "2012 IEEE International \u2026",
+                    "abstract": "Cloud Computing has emerged as a successful computing paradigm for efficiently utilizing managed compute infrastructure such as high speed rack-mounted servers, connected with high speed networking, and reliable storage. Usually such infrastructure is dedicated, physically secured and has reliable power and networking infrastructure. However, much of our idle compute capacity is present in unmanaged infrastructure like idle desktops, lab machines, physically distant server machines, and laptops. We present a scheme to utilize"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6354601/",
+                "author_id": [
+                    "f-4PIh4AAAAJ",
+                    "VgCn1s4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:1C2gax9FAVQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBuilding%2BResilient%2BCloud%2BOver%2BUnreliable%2BCommodity%2BInfrastructure%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1C2gax9FAVQJ&ei=IL1iYpOkIvmQ6rQPzKCxuAY&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:1C2gax9FAVQJ:scholar.google.com/&scioq=Building+Resilient+Cloud+Over+Unreliable+Commodity+Infrastructure&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1208.6406"
+            }
+        },
+        {
+            "title": "Millisecond Rollbacks to Recover from Software Failures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=f-4PIh4AAAAJ&pagesize=100&citation_for_view=f-4PIh4AAAAJ:qjMakFHDy7sC",
+            "citation_id": "f-4PIh4AAAAJ:qjMakFHDy7sC",
+            "authors": "S Bansal, P Kedia",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Millisecond Rollbacks to Recover from Software Failures",
+                    "author": [
+                        "S Bansal",
+                        "P Kedia"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "We present a method to recover from failures caused by software bugs. Our method relies on two key observations: first, bugs in a running software system are likely to be either rare and non-deterministic, or triggered by an unfriendly external input; second, the failure symptoms are highly likely to be observed within a short instruction-count window of the occurrence of the input or event triggering the bug. We refer to the input or non-deterministic choice which triggered the bug as the root-cause event, and the occurrence of the failure"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.475.8708&rep=rep1&type=pdf",
+                "author_id": [
+                    "VgCn1s4AAAAJ",
+                    "f-4PIh4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IyJg8XipK-UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMillisecond%2BRollbacks%2Bto%2BRecover%2Bfrom%2BSoftware%2BFailures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IyJg8XipK-UJ&ei=I71iYr_MJIyuyASD3KfABw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:IyJg8XipK-UJ:scholar.google.com/&scioq=Millisecond+Rollbacks+to+Recover+from+Software+Failures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.475.8708&rep=rep1&type=pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 38,
+                    "since_2017": 30
+                }
+            },
+            {
+                "h_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 2
+            },
+            {
+                "year": 2015,
+                "citations": 5
+            },
+            {
+                "year": 2016,
+                "citations": 4
+            },
+            {
+                "year": 2017,
+                "citations": 4
+            },
+            {
+                "year": 2018,
+                "citations": 9
+            },
+            {
+                "year": 2019,
+                "citations": 9
+            },
+            {
+                "year": 2020,
+                "citations": 4
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=f-4PIh4AAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": []
+}

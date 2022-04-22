@@ -1,0 +1,908 @@
+{
+    "search_metadata": {
+        "id": "6256e0e1303eb1579d6d8149",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/26edc7659f146998/6256e0e1303eb1579d6d8149.json",
+        "created_at": "2022-04-13 14:40:33 UTC",
+        "processed_at": "2022-04-13 14:40:33 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=7nBU-20AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/26edc7659f146998/6256e0e1303eb1579d6d8149.html",
+        "total_time_taken": 0.66,
+        "total_articles": 18,
+        "total_co_authors": 4
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "7nBU-20AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Syamantak Das",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Approximation Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:approximation_algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aapproximation_algorithms"
+            },
+            {
+                "title": "Online Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:online_algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aonline_algorithms"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Rejecting jobs to minimize load and maximum flow-time",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "7nBU-20AAAAJ:LkGwnXOMwfcC",
+            "authors": "AR Choudhury, S Das, N Garg, A Kumar",
+            "publication": "Proceedings of the Twenty-Sixth Annual ACM-SIAM Symposium on Discrete \u2026, 2014",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12430610609553110990",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12430610609553110990&engine=google_scholar&hl=en",
+                "cites_id": "12430610609553110990"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Rejecting jobs to minimize load and maximum flow-time",
+                    "author": [
+                        "AR Choudhury",
+                        "S Das",
+                        "N Garg",
+                        "A Kumar"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "\u2026 of the Twenty-Sixth Annual ACM \u2026",
+                    "abstract": "Online algorithms are usually analyzed using the notion of competitive ratio which compares the solution obtained by the algorithm to that obtained by an online adversary for the worst possible input sequence. Often this measure turns out to be too pessimistic, and one popular approach especially for scheduling problems has been that of \u201cresource augmentation\u201d which was first proposed by Kalyanasundaram and Pruhs. Although resource augmentation has been very successful in dealing with a variety of objective functions, there are problems"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611973730.75",
+                "author_id": [
+                    "JkXhwucAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "wNRE148AAAAJ",
+                    "vjHvohEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:znedO31mgqwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRejecting%2Bjobs%2Bto%2Bminimize%2Bload%2Band%2Bmaximum%2Bflow-time%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=znedO31mgqwJ&ei=EdViYuiTNamTy9YPsu-CuAM&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=12430610609553110990&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:znedO31mgqwJ:scholar.google.com/&scioq=Rejecting+jobs+to+minimize+load+and+maximum+flow-time&hl=en&as_sdt=0,33",
+                "eprint_url": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611973730.75"
+            }
+        },
+        {
+            "title": "On minimizing the makespan when some jobs cannot be assigned on the same machine",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "7nBU-20AAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Das, A Wiese",
+            "publication": "25th Annual European Symposium on Algorithms (ESA 2017), 2017",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12754286874947174511",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12754286874947174511&engine=google_scholar&hl=en",
+                "cites_id": "12754286874947174511"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On minimizing the makespan when some jobs cannot be assigned on the same machine",
+                    "author": [
+                        "S Das",
+                        "A Wiese"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "25th Annual European Symposium on \u2026",
+                    "abstract": "We study the classical scheduling problem of assigning jobs to machines in order to minimize the makespan. It is well-studied and admits an EPTAS on identical machines and a (2-1/m)-approximation algorithm on unrelated machines. In this paper we study a variation in which the input jobs are partitioned into bags and no two jobs from the same bag are allowed to be assigned on the same machine. Such a constraint can easily arise, eg, due to system stability and redundancy considerations. Unfortunately, as we demonstrate in this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://drops.dagstuhl.de/opus/volltexte/2017/7845/",
+                "author_id": [
+                    "7nBU-20AAAAJ",
+                    "KogUfnAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:b0CncFZUALEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bminimizing%2Bthe%2Bmakespan%2Bwhen%2Bsome%2Bjobs%2Bcannot%2Bbe%2Bassigned%2Bon%2Bthe%2Bsame%2Bmachine%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=b0CncFZUALEJ&ei=FNViYs_KEIySyATlkbrQCA&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=12754286874947174511&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:b0CncFZUALEJ:scholar.google.com/&scioq=On+minimizing+the+makespan+when+some+jobs+cannot+be+assigned+on+the+same+machine&hl=en&as_sdt=0,33",
+                "eprint_url": "https://drops.dagstuhl.de/opus/volltexte/2017/7845/pdf/LIPIcs-ESA-2017-31.pdf"
+            }
+        },
+        {
+            "title": "Distributional individual fairness in clustering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:KlAtU1dfN6UC",
+            "citation_id": "7nBU-20AAAAJ:KlAtU1dfN6UC",
+            "authors": "N Anderson, SK Bera, S Das, Y Liu",
+            "publication": "arXiv preprint arXiv:2006.12589, 2020",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=394494731072362613",
+                "serpapi_link": "https://serpapi.com/search.json?cites=394494731072362613&engine=google_scholar&hl=en",
+                "cites_id": "394494731072362613"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distributional individual fairness in clustering",
+                    "author": [
+                        "N Anderson",
+                        "SK Bera",
+                        "S Das",
+                        "Y Liu"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv:2006.12589",
+                    "abstract": "In this paper, we initiate the study of fair clustering that ensures distributional similarity among similar individuals. In response to improving fairness in machine learning, recent papers have investigated fairness in clustering algorithms and have focused on the paradigm of statistical parity/group fairness. These efforts attempt to minimize bias against some protected groups in the population. However, to the best of our knowledge, the alternative viewpoint of individual fairness, introduced by Dwork et al.(ITCS 2012) in the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2006.12589",
+                "author_id": [
+                    "al_A3rgAAAAJ",
+                    "tZjen7YAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "jKrIVCIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ddhUJ96GeQUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistributional%2Bindividual%2Bfairness%2Bin%2Bclustering%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ddhUJ96GeQUJ&ei=F9ViYoP5G-HDywTjooCQBQ&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=394494731072362613&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ddhUJ96GeQUJ:scholar.google.com/&scioq=Distributional+individual+fairness+in+clustering&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.12589"
+            }
+        },
+        {
+            "title": "Beyond metric embedding: Approximating group steiner trees on bounded treewidth graphs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "7nBU-20AAAAJ:UeHWp8X0CEIC",
+            "authors": "P Chalermsook, S Das, B Laekhanukit, D Vaz",
+            "publication": "Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete \u2026, 2017",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4131117764386915520",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4131117764386915520&engine=google_scholar&hl=en",
+                "cites_id": "4131117764386915520"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Beyond metric embedding: Approximating group steiner trees on bounded treewidth graphs",
+                    "author": [
+                        "P Chalermsook",
+                        "S Das",
+                        "B Laekhanukit",
+                        "D Vaz"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the Twenty \u2026",
+                    "abstract": "The Group Steiner Tree (GST) problem is a classical problem in combinatorial optimization and theoretical computer science. In the Edge-Weighted Group Steiner Tree (EW-GST) problem, we are given an undirected graph G=(V, E) on n vertices with edge costs c: E\u2192 \u211d\u2265 0, a source vertex s and a collection of subsets of vertices, called groups, S1,, Sk\u2286 V. The goal is to find a minimum-cost tree H\u2286 G that connects s to some vertex from each group S i, for all i= 1, 2,, k. The Node-Weighted Group Steiner Tree (NW-GST)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611974782.47",
+                "author_id": [
+                    "Cw6NQasAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "vmemchMAAAAJ",
+                    "wnXvPkAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wISWF7itVDkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBeyond%2Bmetric%2Bembedding:%2BApproximating%2Bgroup%2Bsteiner%2Btrees%2Bon%2Bbounded%2Btreewidth%2Bgraphs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wISWF7itVDkJ&ei=I9ViYuDhC5GJmwGIxre4DA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=4131117764386915520&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wISWF7itVDkJ:scholar.google.com/&scioq=Beyond+metric+embedding:+Approximating+group+steiner+trees+on+bounded+treewidth+graphs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611974782.47"
+            }
+        },
+        {
+            "title": "Minimizing weighted lp-norm of flow-time in the rejection model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "7nBU-20AAAAJ:2osOgNQ5qMEC",
+            "authors": "A Roy Choudhury, S Das, A Kumar",
+            "publication": "35th IARCS Annual Conference on Foundations of Software Technology and \u2026, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8383279232497294685",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8383279232497294685&engine=google_scholar&hl=en",
+                "cites_id": "8383279232497294685"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Minimizing weighted lp-norm of flow-time in the rejection model",
+                    "author": [
+                        "A Roy Choudhury",
+                        "S Das",
+                        "A Kumar"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "35th IARCS Annual \u2026",
+                    "abstract": "We consider the online scheduling problem to minimize the weighted ell_p-norm of flow-time of jobs. We study this problem under the rejection model introduced by Choudhury et al.(SODA 2015)-here the online algorithm is allowed to not serve an eps-fraction of the requests. We consider the restricted assignments setting where each job can go to a specified subset of machines. Our main result is an immediate dispatch non-migratory 1/eps^{O (1)}-competitive algorithm for this problem when one is allowed to reject at most"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://drops.dagstuhl.de/opus/volltexte/2015/5634/",
+                "author_id": [
+                    "JkXhwucAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "vjHvohEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XR3poQtkV3QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMinimizing%2Bweighted%2Blp-norm%2Bof%2Bflow-time%2Bin%2Bthe%2Brejection%2Bmodel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XR3poQtkV3QJ&ei=JtViYvGuIqmTy9YPsu-CuAM&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=8383279232497294685&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XR3poQtkV3QJ:scholar.google.com/&scioq=Minimizing+weighted+lp-norm+of+flow-time+in+the+rejection+model&hl=en&as_sdt=0,33",
+                "eprint_url": "https://drops.dagstuhl.de/opus/volltexte/2015/5634/pdf/19.pdf"
+            }
+        },
+        {
+            "title": "Survivable network design for group connectivity in low-treewidth graphs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "7nBU-20AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "P Chalermsook, S Das, G Even, B Laekhanukit, D Vaz",
+            "publication": "arXiv preprint arXiv:1802.10403, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=150012959037078114",
+                "serpapi_link": "https://serpapi.com/search.json?cites=150012959037078114&engine=google_scholar&hl=en",
+                "cites_id": "150012959037078114"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Survivable network design for group connectivity in low-treewidth graphs",
+                    "author": [
+                        "P Chalermsook",
+                        "S Das",
+                        "G Even",
+                        "B Laekhanukit"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "In the Group Steiner Tree problem (GST), we are given a (vertex or edge)-weighted graph $ G=(V, E) $ on $ n $ vertices, a root vertex $ r $ and a collection of groups $\\{S_i\\} _ {i\\in [h]}: S_i\\subseteq V (G) $. The goal is to find a min-cost subgraph $ H $ that connects the root to every group. We consider a fault-tolerant variant of GST, which we call Restricted (Rooted) Group SNDP. In this setting, each group $ S_i $ has a demand $ k_i\\in [k], k\\in\\mathbb N $, and we wish to find a min-cost $ H\\subseteq G $ such that, for each group $ S_i $, there is a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1802.10403",
+                "author_id": [
+                    "Cw6NQasAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "3evp9QMAAAAJ",
+                    "vmemchMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Yjocz_3zFAIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSurvivable%2Bnetwork%2Bdesign%2Bfor%2Bgroup%2Bconnectivity%2Bin%2Blow-treewidth%2Bgraphs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Yjocz_3zFAIJ&ei=KtViYrqqBKmTy9YPsu-CuAM&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=150012959037078114&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Yjocz_3zFAIJ:scholar.google.com/&scioq=Survivable+network+design+for+group+connectivity+in+low-treewidth+graphs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1802.10403"
+            }
+        },
+        {
+            "title": "Rejecting jobs to minimize load and maximum flow-time",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "7nBU-20AAAAJ:u-x6o8ySG0sC",
+            "authors": "AR Choudhury, S Das, N Garg, A Kumar",
+            "publication": "Journal of Computer and System Sciences 91, 42-68, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2337249529557596750",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2337249529557596750&engine=google_scholar&hl=en",
+                "cites_id": "2337249529557596750"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Rejecting jobs to minimize load and maximum flow-time",
+                    "author": [
+                        "AR Choudhury",
+                        "S Das",
+                        "N Garg",
+                        "A Kumar"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "\u2026 of the Twenty-Sixth Annual ACM \u2026",
+                    "abstract": "Online algorithms are usually analyzed using the notion of competitive ratio which compares the solution obtained by the algorithm to that obtained by an online adversary for the worst possible input sequence. Often this measure turns out to be too pessimistic, and one popular approach especially for scheduling problems has been that of \u201cresource augmentation\u201d which was first proposed by Kalyanasundaram and Pruhs. Although resource augmentation has been very successful in dealing with a variety of objective functions, there are problems"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611973730.75",
+                "author_id": [
+                    "JkXhwucAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "wNRE148AAAAJ",
+                    "vjHvohEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:znedO31mgqwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRejecting%2Bjobs%2Bto%2Bminimize%2Bload%2Band%2Bmaximum%2Bflow-time%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=znedO31mgqwJ&ei=L9ViYuiIL42ymgHnvp6ICA&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=12430610609553110990&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:znedO31mgqwJ:scholar.google.com/&scioq=Rejecting+jobs+to+minimize+load+and+maximum+flow-time&hl=en&as_sdt=0,33",
+                "eprint_url": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611973730.75"
+            }
+        },
+        {
+            "title": "Syamantak Das, Bundit Laekhanukit, Yunbum Kook, Yang P Liu, Richard Peng, Mark Sellke, and Daniel Vaz. Vertex sparsification for edge connectivity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:4TOpqqG69KYC",
+            "citation_id": "7nBU-20AAAAJ:4TOpqqG69KYC",
+            "authors": "P Chalermsook",
+            "publication": "Proceedings of the 32nd Annual ACM-SIAM Symposium on Discrete Algorithms \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2754442796422780397",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2754442796422780397&engine=google_scholar&hl=en",
+                "cites_id": "2754442796422780397"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Vertex sparsification for edge connectivity",
+                    "author": [
+                        "",
+                        "Y Kook",
+                        "B Laekhanukit",
+                        "YP Liu",
+                        "R Peng",
+                        "M Sellke"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 2021 \u2026",
+                    "abstract": "The notion of vertex sparsification we consider here is that of cut sparsification, introduced  by [34 In this setting, we are given an edge-capacitated graph G and a subset T \u2286 V (G) of k"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611976465.74",
+                "author_id": [
+                    "",
+                    "mWASLKEAAAAJ",
+                    "vmemchMAAAAJ",
+                    "LrHm5cgAAAAJ",
+                    "loh7ivYAAAAJ",
+                    "lXCP2cMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Y2JAf5FHVFQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSyamantak%2BDas,%2BBundit%2BLaekhanukit,%2BYunbum%2BKook,%2BYang%2BP%2BLiu,%2BRichard%2BPeng,%2BMark%2BSellke,%2Band%2BDaniel%2BVaz.%2BVertex%2Bsparsification%2Bfor%2Bedge%2Bconnectivity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Y2JAf5FHVFQJ&ei=Q9ViYoGmAYOEmgH1zZjACQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=6076560487460397667&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Y2JAf5FHVFQJ:scholar.google.com/&scioq=Syamantak+Das,+Bundit+Laekhanukit,+Yunbum+Kook,+Yang+P+Liu,+Richard+Peng,+Mark+Sellke,+and+Daniel+Vaz.+Vertex+sparsification+for+edge+connectivity&hl=en&as_sdt=0,33",
+                "eprint_url": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611976465.74"
+            }
+        },
+        {
+            "title": "Vertex sparsification for edge connectivity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:3fE2CSJIrl8C",
+            "citation_id": "7nBU-20AAAAJ:3fE2CSJIrl8C",
+            "authors": "P Chalermsook, S Das, Y Kook, B Laekhanukit, YP Liu, R Peng, M Sellke, ...",
+            "publication": "Proceedings of the 2021 ACM-SIAM Symposium on Discrete Algorithms (SODA \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6076560487460397667",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6076560487460397667&engine=google_scholar&hl=en",
+                "cites_id": "6076560487460397667"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Vertex sparsification for edge connectivity",
+                    "author": [
+                        "P Chalermsook",
+                        "S Das",
+                        "Y Kook",
+                        "B Laekhanukit"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 2021 \u2026",
+                    "abstract": "Graph compression or sparsification is a basic information-theoretic and computational question. A major open problem in this research area is whether (1+\u220a)-approximate cut-preserving vertex sparsifiers with size close to the number of terminals exist. As a step towards this goal, we study a thresholded version of the problem: for a given parameter c, find a smaller graph, which we call connectivity-c mimicking network, which preserves connectivity among k terminals exactly up to the value of c. We show that connectivity-c"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611976465.74",
+                "author_id": [
+                    "Cw6NQasAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "mWASLKEAAAAJ",
+                    "vmemchMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Y2JAf5FHVFQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVertex%2Bsparsification%2Bfor%2Bedge%2Bconnectivity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Y2JAf5FHVFQJ&ei=RtViYojoI--Sy9YPmNWywAs&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=6076560487460397667&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Y2JAf5FHVFQJ:scholar.google.com/&scioq=Vertex+sparsification+for+edge+connectivity&hl=en&as_sdt=0,33",
+                "eprint_url": "https://epubs.siam.org/doi/pdf/10.1137/1.9781611976465.74"
+            }
+        },
+        {
+            "title": "MMRU-ALLOC: An optimal resource allocation framework for OFDMA in IEEE 802.11 ax",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:_kc_bZDykSQC",
+            "citation_id": "7nBU-20AAAAJ:_kc_bZDykSQC",
+            "authors": "A Dutta, N Gupta, S Das, M Maity",
+            "publication": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1100918147947123528",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1100918147947123528&engine=google_scholar&hl=en",
+                "cites_id": "1100918147947123528"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MMRU-ALLOC: An optimal resource allocation framework for OFDMA in IEEE 802.11 ax",
+                    "author": [
+                        "A Dutta",
+                        "N Gupta",
+                        "S Das",
+                        "M Maity"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 31st Annual \u2026",
+                    "abstract": "IEEE 802.11 ax introduces OFDMA (Orthogonal Frequency Division Multiple Access) that allows multiple users to transmit or receive frames concurrently. The OFDMA transmission duration is decided by the client with maximum transmission duration. We focus on minimizing the maximum transmission duration. The standard restricts assignment of at max one RU to a client and provides a specific way of splitting the channel into smaller RUs. In this paper, we come up with a generic framework, MMRU-Alloc (Min Max Resource Unit"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9217154/",
+                "author_id": [
+                    "yAj2_NgAAAAJ",
+                    "8z2Ct_oAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:SFMr_zg_Rw8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMMRU-ALLOC:%2BAn%2Boptimal%2Bresource%2Ballocation%2Bframework%2Bfor%2BOFDMA%2Bin%2BIEEE%2B802.11%2Bax%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SFMr_zg_Rw8J&ei=S9ViYoHUBJGJmwGIxre4DA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=1100918147947123528&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:SFMr_zg_Rw8J:scholar.google.com/&scioq=MMRU-ALLOC:+An+optimal+resource+allocation+framework+for+OFDMA+in+IEEE+802.11+ax&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Avik-Dutta-3/publication/346036426_MMRU-ALLOC_An_Optimal_Resource_Allocation_Framework_for_OFDMA_in_IEEE_80211ax/links/5fb7b424a6fdcc6cc64f82d9/MMRU-ALLOC-An-Optimal-Resource-Allocation-Framework-for-OFDMA-in-IEEE-80211ax.pdf"
+            }
+        },
+        {
+            "title": "A constant factor approximation for capacitated min-max tree cover",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "7nBU-20AAAAJ:MXK_kJrjxJIC",
+            "authors": "S Das, L Jain, N Kumar",
+            "publication": "arXiv preprint arXiv:1907.08304, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4060027697015972976",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4060027697015972976&engine=google_scholar&hl=en",
+                "cites_id": "4060027697015972976"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A constant factor approximation for capacitated min-max tree cover",
+                    "author": [
+                        "S Das",
+                        "L Jain",
+                        "N Kumar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv:1907.08304",
+                    "abstract": "Given a graph $ G=(V, E) $ with non-negative real edge lengths and an integer parameter $ k $, the Min-Max k-Tree Cover problem seeks to find a set of at most $ k $ subtrees of $ G $, such that the union of the trees is the vertex set $ V $. The objective is to minimize the maximum length among all the trees. We give the first constant factor approximation for the hard uniform capacitated version of this problem, where, an input parameter $\\lambda $ upper bounds the number of vertices that can be covered by any of the trees. Our result"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1907.08304",
+                "author_id": [
+                    "7nBU-20AAAAJ",
+                    "P-E1E34AAAAJ",
+                    "O77-ctwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cGTi8q0dWDgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bconstant%2Bfactor%2Bapproximation%2Bfor%2Bcapacitated%2Bmin-max%2Btree%2Bcover%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cGTi8q0dWDgJ&ei=TtViYtiJA5yO6rQP-viEEA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=4060027697015972976&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cGTi8q0dWDgJ:scholar.google.com/&scioq=A+constant+factor+approximation+for+capacitated+min-max+tree+cover&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1907.08304"
+            }
+        },
+        {
+            "title": "Mimicking networks parameterized by connectivity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:0EnyYjriUFMC",
+            "citation_id": "7nBU-20AAAAJ:0EnyYjriUFMC",
+            "authors": "P Chalermsook, S Das, B Laekhanukit, D Vaz",
+            "publication": "arXiv preprint arXiv:1910.10665, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13450475798475355944",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13450475798475355944&engine=google_scholar&hl=en",
+                "cites_id": "13450475798475355944"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mimicking networks parameterized by connectivity",
+                    "author": [
+                        "P Chalermsook",
+                        "S Das",
+                        "B Laekhanukit"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Given a graph $ G=(V, E) $, capacities $ w (e) $ on edges, and a subset of terminals $\\mathcal {T}\\subseteq V:|\\mathcal {T}|= k $, a mimicking network for $(G,\\mathcal {T}) $ is a graph $(H, w') $ that contains copies of $\\mathcal {T} $ and preserves the value of minimum cuts separating any subset $ A, B\\subseteq\\mathcal {T} $ of terminals. Mimicking networks of size $2^{2^ k} $ are known to exist and can be constructed algorithmically, while the best known lower bound is $2^{\\Omega (k)} $; therefore, an exponential size is required if one"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1910.10665",
+                "author_id": [
+                    "Cw6NQasAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "vmemchMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KLccnHmwqboJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMimicking%2Bnetworks%2Bparameterized%2Bby%2Bconnectivity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KLccnHmwqboJ&ei=UtViYpFbvILL1g-_n4r4Bw&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=13450475798475355944&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KLccnHmwqboJ:scholar.google.com/&scioq=Mimicking+networks+parameterized+by+connectivity&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1910.10665"
+            }
+        },
+        {
+            "title": "Study on pore size distributions of microporous polymer membranes having different physical architecture using capillary flow porometry",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:4DMP91E08xMC",
+            "citation_id": "7nBU-20AAAAJ:4DMP91E08xMC",
+            "authors": "C Agarwal, S Das, AK Pandey",
+            "publication": "Materials Today Chemistry 23, 100652, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Study on pore size distributions of microporous polymer membranes having different physical architecture using capillary flow porometry",
+                    "author": [
+                        "C Agarwal",
+                        "S Das",
+                        "AK Pandey"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "Materials Today Chemistry",
+                    "abstract": "Capillary flow porometry (CFP) is an emerging technique to measure the most constricted part of the through pores in membranes. In our previous work, the technique was successfully tested for track-etch membranes, which are model membranes with straight cylindrical pores. In this work, this technique has been used to measure the mean pore size, smallest pore size, and bubble point pore size for commercially available microporous membranes such as poly (propylene), poly (ethersulfone), poly (tetrafluoroethylene), and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S2468519421002329",
+                "author_id": [
+                    "pa22CDkAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "_tycBnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:lwhKvI-YTA8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStudy%2Bon%2Bpore%2Bsize%2Bdistributions%2Bof%2Bmicroporous%2Bpolymer%2Bmembranes%2Bhaving%2Bdifferent%2Bphysical%2Barchitecture%2Busing%2Bcapillary%2Bflow%2Bporometry%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lwhKvI-YTA8J&ei=VtViYuuJBuHDywTjooCQBQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:lwhKvI-YTA8J:scholar.google.com/&scioq=Study+on+pore+size+distributions+of+microporous+polymer+membranes+having+different+physical+architecture+using+capillary+flow+porometry&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "The Multi-vehicle Ride-Sharing Problem",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "7nBU-20AAAAJ:qxL8FJ1GzNcC",
+            "authors": "K Luo, C Agarwal, S Das, X Guo",
+            "publication": "Proceedings of the Fifteenth ACM International Conference on Web Search and \u2026, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "The Multi-vehicle Ride-Sharing Problem",
+                    "author": [
+                        "K Luo",
+                        "C Agarwal",
+                        "S Das",
+                        "X Guo"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "\u2026 Conference on Web Search and Data \u2026",
+                    "abstract": "Ride-sharing is one of the most popular models of economical and eco-friendly transportation in modern smart cities, especially when riding hybrid and electric vehicles. Usually multiple passengers with similar itineraries are grouped together, which significantly reduces travel cost (or time), road congestion, and traffic emissions. In this paper, we study the ride-sharing problem where each vehicle is shared by exactly $ \u0142ambda $ riders for any fixed $ \u0142ambda> 0$, and the goal is to minimize the total travel distance. The min-cost ride"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3488560.3498449",
+                "author_id": [
+                    "LjxMQQ0AAAAJ",
+                    "",
+                    "7nBU-20AAAAJ",
+                    "BMIYUw8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nlxKyobr6BQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2BMulti-vehicle%2BRide-Sharing%2BProblem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nlxKyobr6BQJ&ei=WtViYoaTHKmTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3488560.3498449"
+            }
+        },
+        {
+            "title": "Fair k-Center Clustering in MapReduce and Streaming",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:aqlVkmm33-oC",
+            "citation_id": "7nBU-20AAAAJ:aqlVkmm33-oC",
+            "authors": "S Bera, S Das, S Galhotra, S Kale",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fair k-Center Clustering in MapReduce and Streaming",
+                    "author": [
+                        "S Bera",
+                        "S Das",
+                        "S Galhotra",
+                        "S Kale"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "NA",
+                    "abstract": "Center-based clustering techniques are fundamental to many realworld applications such as data summarization and social network analysis. In this work, we study the problem of fairness aware \ud835\udc58center clustering over large datasets. We are given an input dataset comprising a set of \ud835\udc5b points, where each point belongs to a specific demographic group characterized by a protected attribute, such as race or gender. The goal is to identify \ud835\udc58 clusters such that all clusters have considerable representation from all groups and the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://eprints.cs.univie.ac.at/7292/1/Fair__k_Center_in_MPC_and_Streaming.pdf",
+                "author_id": [
+                    "",
+                    "7nBU-20AAAAJ",
+                    "0_9V8PgAAAAJ",
+                    "yVJqlcwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5CXG7pcqCZkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFair%2Bk-Center%2BClustering%2Bin%2BMapReduce%2Band%2BStreaming%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5CXG7pcqCZkJ&ei=YdViYpmCLZGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "eprint_url": "http://eprints.cs.univie.ac.at/7292/1/Fair__k_Center_in_MPC_and_Streaming.pdf"
+            }
+        },
+        {
+            "title": "Minimizing average flow-time under knapsack constraint",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "7nBU-20AAAAJ:d1gkVwhDpl0C",
+            "authors": "SK Bera, S Das, A Kumar",
+            "publication": "Theoretical Computer Science 609, 516-525, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Minimizing average flow-time under knapsack constraint",
+                    "author": [
+                        "SK Bera",
+                        "S Das",
+                        "A Kumar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Theoretical Computer Science",
+                    "abstract": "We give the first logarithmic approximation for minimizing average flow-time of jobs in the subset parallel machine setting (also called the restricted assignment setting) under a single knapsack constraint. In a knapsack constraint setting, each job has a profit, and the set of jobs which get scheduled must have a total profit of at least a quantity \u03a0. Our result extends the work of Gupta et al.(2009)[8] who considered the special case where the profit of each job is unity. Our algorithm is based on rounding a natural LP relaxation for this problem. In"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0304397515003746",
+                "author_id": [
+                    "tZjen7YAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "k9d5ELsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uGLkEDiLveEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMinimizing%2Baverage%2Bflow-time%2Bunder%2Bknapsack%2Bconstraint%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uGLkEDiLveEJ&ei=aNViYvrTJ5yO6rQP-viEEA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:uGLkEDiLveEJ:scholar.google.com/&scioq=Minimizing+average+flow-time+under+knapsack+constraint&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0304397515003746"
+            }
+        },
+        {
+            "title": "Scheduling with outliers to minimize load and flow-time",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:Se3iqnhoufwC",
+            "citation_id": "7nBU-20AAAAJ:Se3iqnhoufwC",
+            "authors": "S Das",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Scheduling with outliers to minimize load and flow-time",
+                    "author": [
+                        "S Das"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "In this thesis, we consider problems of scheduling jobs in a multiprocessor environment in  order to minimize some standard metrics. Central to all the problems considered is a model  where one is allowed to reject or not process some jobs, but only upto a bounded fraction of the  entire input. We consider such problems in both online and offline settings. In the online setting,  we work in both restricted assignments and unrelated machines models and consider the  objectives of load balancing, minimizing maximum weighted flowtime and more generally"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://eprint.iitd.ac.in/bitstream/handle/2074/7147/TH-5073.pdf?sequence=2",
+                "author_id": [
+                    "7nBU-20AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Uks1BOoIVtkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DScheduling%2Bwith%2Boutliers%2Bto%2Bminimize%2Bload%2Band%2Bflow-time%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Uks1BOoIVtkJ&ei=bdViYrGDIYOEmgH1zZjACQ&json=",
+                "num_citations": 0,
+                "eprint_url": "http://eprint.iitd.ac.in/bitstream/handle/2074/7147/TH-5073.pdf?sequence=2"
+            }
+        },
+        {
+            "title": "Minimizing Average Flow-Time under Knapsack Constraint",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7nBU-20AAAAJ&pagesize=100&citation_for_view=7nBU-20AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "7nBU-20AAAAJ:M3ejUd6NZC8C",
+            "authors": "SK Bera, S Das, A Kumar",
+            "publication": "International Computing and Combinatorics Conference, 584-595, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Minimizing average flow-time under knapsack constraint",
+                    "author": [
+                        "SK Bera",
+                        "S Das",
+                        "A Kumar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Theoretical Computer Science",
+                    "abstract": "We give the first logarithmic approximation for minimizing average flow-time of jobs in the subset parallel machine setting (also called the restricted assignment setting) under a single knapsack constraint. In a knapsack constraint setting, each job has a profit, and the set of jobs which get scheduled must have a total profit of at least a quantity \u03a0. Our result extends the work of Gupta et al.(2009)[8] who considered the special case where the profit of each job is unity. Our algorithm is based on rounding a natural LP relaxation for this problem. In"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0304397515003746",
+                "author_id": [
+                    "tZjen7YAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "k9d5ELsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uGLkEDiLveEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMinimizing%2BAverage%2BFlow-Time%2Bunder%2BKnapsack%2BConstraint%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uGLkEDiLveEJ&ei=cdViYo_DDoyuyASD3KfABw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:uGLkEDiLveEJ:scholar.google.com/&scioq=Minimizing+Average+Flow-Time+under+Knapsack+Constraint&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0304397515003746"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 67,
+                    "since_2017": 60
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 2
+            },
+            {
+                "year": 2016,
+                "citations": 5
+            },
+            {
+                "year": 2017,
+                "citations": 8
+            },
+            {
+                "year": 2018,
+                "citations": 4
+            },
+            {
+                "year": 2019,
+                "citations": 7
+            },
+            {
+                "year": 2020,
+                "citations": 8
+            },
+            {
+                "year": 2021,
+                "citations": 24
+            },
+            {
+                "year": 2022,
+                "citations": 8
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=7nBU-20AAAAJ",
+        "available": 5,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Bundit Laekhanukit",
+            "link": "https://scholar.google.com/citations?user=vmemchMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vmemchMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "vmemchMAAAAJ",
+            "affiliations": "Shanghai University of Finance and Economics",
+            "email": "Verified email at sufe.edu.cn",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Parinya Chalermsook",
+            "link": "https://scholar.google.com/citations?user=Cw6NQasAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Cw6NQasAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Cw6NQasAAAAJ",
+            "affiliations": "Aalto University",
+            "email": "Verified email at aalto.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Cw6NQasAAAAJ&citpid=5"
+        },
+        {
+            "name": "Naveen Garg",
+            "link": "https://scholar.google.com/citations?user=wNRE148AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wNRE148AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "wNRE148AAAAJ",
+            "affiliations": "Computer Science and Engineering, IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wNRE148AAAAJ&citpid=2"
+        },
+        {
+            "name": "Andreas Wiese",
+            "link": "https://scholar.google.com/citations?user=KogUfnAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=KogUfnAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "KogUfnAAAAAJ",
+            "affiliations": "Adjoint Professor",
+            "email": "Verified email at dii.uchile.cl",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

@@ -1,0 +1,1735 @@
+{
+    "search_metadata": {
+        "id": "6256e0d74d443d97a35ac506",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0e50d754666183bf/6256e0d74d443d97a35ac506.json",
+        "created_at": "2022-04-13 14:40:23 UTC",
+        "processed_at": "2022-04-13 14:40:23 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=QCZleNQAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/0e50d754666183bf/6256e0d74d443d97a35ac506.html",
+        "total_time_taken": 1.64,
+        "total_articles": 35,
+        "total_co_authors": 18
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "QCZleNQAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Jainendra Shukla",
+        "affiliations": "Assistant Professor, \u200bIndraprastha Institute of Information Technology, Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.ac.in/jainendra",
+        "interests": [
+            {
+                "title": "Affective Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:affective_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaffective_computing"
+            },
+            {
+                "title": "Human-Computer Interaction",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:human_computer_interaction",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_computer_interaction"
+            },
+            {
+                "title": "Social Robotics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_robotics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_robotics"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QCZleNQAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Feature extraction and selection for emotion recognition from electrodermal activity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "QCZleNQAAAAJ:LkGwnXOMwfcC",
+            "authors": "J Shukla, M Barreda-Angeles, J Oliver, GC Nandi, D Puig",
+            "publication": "IEEE Transactions on Affective Computing 12 (4), 857-869, 2019",
+            "cited_by": {
+                "value": 62,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=50431347983365156",
+                "serpapi_link": "https://serpapi.com/search.json?cites=50431347983365156&engine=google_scholar&hl=en",
+                "cites_id": "50431347983365156"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Feature extraction and selection for emotion recognition from electrodermal activity",
+                    "author": [
+                        "J Shukla",
+                        "M Barreda-Angeles",
+                        "J Oliver"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Transactions \u2026",
+                    "abstract": "Electrodermal activity (EDA) is indicative of psychological processes related to human cognition and emotions. Previous research has studied many methods for extracting EDA features; however, their appropriateness for emotion recognition has been tested using a small number of distinct feature sets and on different, usually small, data sets. In the current research, we reviewed 25 studies and implemented 40 different EDA features across time, frequency and time-frequency domains on the publicly available AMIGOS dataset. We"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8653316/",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "FwNZHw0AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:JLQXNgsrswAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFeature%2Bextraction%2Band%2Bselection%2Bfor%2Bemotion%2Brecognition%2Bfrom%2Belectrodermal%2Bactivity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JLQXNgsrswAJ&ei=kRdjYumnI42ymgHnvp6ICA&json=",
+                "num_citations": 64,
+                "citedby_url": "/scholar?cites=50431347983365156&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JLQXNgsrswAJ:scholar.google.com/&scioq=Feature+extraction+and+selection+for+emotion+recognition+from+electrodermal+activity&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Jainendra-Shukla/publication/331363660_Feature_Extraction_and_Selection_for_Emotion_Recognition_from_Electrodermal_Activity/links/5caee22592851c8d22e315d0/Feature-Extraction-and-Selection-for-Emotion-Recognition-from-Electrodermal-Activity.pdf"
+            }
+        },
+        {
+            "title": "Efficient wavelet-based artifact removal for electrodermal activity in real-world applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "QCZleNQAAAAJ:YsMSGLbcyi4C",
+            "authors": "J Shukla, M Barreda-\u00c1ngeles, J Oliver, D Puig",
+            "publication": "Biomedical Signal Processing and Control 42, 45-52, 2018",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10845048273904696184",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10845048273904696184&engine=google_scholar&hl=en",
+                "cites_id": "10845048273904696184"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Efficient wavelet-based artifact removal for electrodermal activity in real-world applications",
+                    "author": [
+                        "J Shukla",
+                        "M Barreda-\u00c1ngeles",
+                        "J Oliver"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Signal Processing and \u2026",
+                    "abstract": "Online monitoring of electrodermal activity (EDA) may serve as an economical and explicit source of information about actual emotional state and engagement level of users during their interaction with information and communications technologies (ICT) applications in real-world situations. In such contexts, however, EDA signal is affected by motion artifacts that introduce noise in the signal and can make it unusable. As the scope of movement minimization during EDA data acquisition is limited, this scenario demands online methods"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S1746809418300090",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "FwNZHw0AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:eHsNEvJZgZYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEfficient%2Bwavelet-based%2Bartifact%2Bremoval%2Bfor%2Belectrodermal%2Bactivity%2Bin%2Breal-world%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=eHsNEvJZgZYJ&ei=lBdjYq-JNO-Sy9YPmNWywAs&json=",
+                "num_citations": 22,
+                "citedby_url": "/scholar?cites=10845048273904696184&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:eHsNEvJZgZYJ:scholar.google.com/&scioq=Efficient+wavelet-based+artifact+removal+for+electrodermal+activity+in+real-world+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Miguel-Barreda-Angeles/publication/323399602_Efficient_wavelet-based_artifact_removal_for_electrodermal_activity_in_real-world_applications/links/5f889cf2458515b7cf84de88/Efficient-wavelet-based-artifact-removal-for-electrodermal-activity-in-real-world-applications.pdf"
+            }
+        },
+        {
+            "title": "A case study of robot interaction among individuals with profound and multiple learning disabilities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "QCZleNQAAAAJ:2osOgNQ5qMEC",
+            "authors": "J Shukla, J Cristiano, D Amela, L Anguera, J Verg\u00e9s-Llah\u00ed, D Puig",
+            "publication": "International Conference on Social Robotics, 613-622, 2015",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16063647526633921591",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16063647526633921591&engine=google_scholar&hl=en",
+                "cites_id": "16063647526633921591"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A case study of robot interaction among individuals with profound and multiple learning disabilities",
+                    "author": [
+                        "J Shukla",
+                        "J Cristiano",
+                        "D Amela",
+                        "L Anguera"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "\u2026 Conference on Social \u2026",
+                    "abstract": "A tremendous amount of research is being performed regarding robot interaction with individuals having intellectual disability, especially for kids with Autism Spectrum Disorders (ASD). These researches have shown many promising advancements about the use of interactive robots for rehabilitation of such individuals. However, these studies fail to analyze and explore the effects of robotics interaction with individuals having profound and multiple learning disabilities (PMLD). This research presents a thorough case study regarding"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-25554-5_61",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "6Y8Y5XoAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:N9wYDlGK7d4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bcase%2Bstudy%2Bof%2Brobot%2Binteraction%2Bamong%2Bindividuals%2Bwith%2Bprofound%2Band%2Bmultiple%2Blearning%2Bdisabilities%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=N9wYDlGK7d4J&ei=mBdjYtGKD42ymgHnvp6ICA&json=",
+                "num_citations": 20,
+                "citedby_url": "/scholar?cites=16063647526633921591&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:N9wYDlGK7d4J:scholar.google.com/&scioq=A+case+study+of+robot+interaction+among+individuals+with+profound+and+multiple+learning+disabilities&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-25554-5_61.pdf"
+            }
+        },
+        {
+            "title": "Robot assisted interventions for individuals with intellectual disabilities: impact on users and caregivers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:ufrVoPGSRksC",
+            "citation_id": "QCZleNQAAAAJ:ufrVoPGSRksC",
+            "authors": "J Shukla, J Cristiano, J Oliver, D Puig",
+            "publication": "International Journal of Social Robotics 11 (4), 631-649, 2019",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1993504668722544951",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1993504668722544951&engine=google_scholar&hl=en",
+                "cites_id": "1993504668722544951"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robot assisted interventions for individuals with intellectual disabilities: impact on users and caregivers",
+                    "author": [
+                        "J Shukla",
+                        "J Cristiano",
+                        "J Oliver",
+                        "D Puig"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "International Journal of Social \u2026",
+                    "abstract": "Recent advancements in socially assistive robotics (SAR) have shown a vital potential and have thus inspired us to explore the benefits of robot assisted cognitive rehabilitation of individuals with intellectual disability (ID). Accordingly, the aim of this research was to evaluate the fitness of robot-assisted mental health interventions among individuals with ID and to assess its impact on the users and their caregivers. Firstly, the fitness of robot-assisted mental health interventions was studied through interviews conducted with seven"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s12369-019-00527-w",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "6Y8Y5XoAAAAJ",
+                    "",
+                    "2lmYVYAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:N0FKJe9ZqhsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobot%2Bassisted%2Binterventions%2Bfor%2Bindividuals%2Bwith%2Bintellectual%2Bdisabilities:%2Bimpact%2Bon%2Busers%2Band%2Bcaregivers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=N0FKJe9ZqhsJ&ei=mxdjYpPXF8LZmQHc1ovQAg&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=1993504668722544951&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:N0FKJe9ZqhsJ:scholar.google.com/&scioq=Robot+assisted+interventions+for+individuals+with+intellectual+disabilities:+impact+on+users+and+caregivers&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "A cloud based robot localization technique",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "QCZleNQAAAAJ:u-x6o8ySG0sC",
+            "authors": "FQ Ansari, JK Pal, J Shukla, GC Nandi, P Chakraborty",
+            "publication": "International Conference on Contemporary Computing, 347-357, 2012",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15862883189501770974",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15862883189501770974&engine=google_scholar&hl=en",
+                "cites_id": "15862883189501770974"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A cloud based robot localization technique",
+                    "author": [
+                        "FQ Ansari",
+                        "JK Pal",
+                        "J Shukla",
+                        "GC Nandi"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "International Conference \u2026",
+                    "abstract": "Recently Cloud robotics is a very vibrant research area due to its strategic application potentials. In this paper we have developed a basic cloud based architecture for knowing the localization information of a robot in a dynamic environment. Subsequently, this information could be useful to guide the robot in the desired path as trained by the central cloud. In this paper, Artificial Neural Network (ANN) is used for the training of locations with Radial Basis Function (RBF). The idea is to establish the communication between the cloud"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-32129-0_36",
+                "author_id": [
+                    "",
+                    "",
+                    "QCZleNQAAAAJ",
+                    "cVdB1iwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:3rzENzdIJNwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bcloud%2Bbased%2Brobot%2Blocalization%2Btechnique%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3rzENzdIJNwJ&ei=nxdjYuTLK--Sy9YPmNWywAs&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=15862883189501770974&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:3rzENzdIJNwJ:scholar.google.com/&scioq=A+cloud+based+robot+localization+technique&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Jainendra-Shukla/publication/257965440_A_Cloud_Based_Robot_Localization_Technique/links/58248e3408ae61258e4254af/A-Cloud-Based-Robot-Localization-Technique.pdf"
+            }
+        },
+        {
+            "title": "Effectiveness of socially assistive robotics during cognitive stimulation interventions: Impact on caregivers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "QCZleNQAAAAJ:W7OEmFMy1HYC",
+            "authors": "J Shukla, M Barreda-\u00c1ngeles, J Oliver, D Puig",
+            "publication": "2017 26th IEEE international symposium on robot and human interactive \u2026, 2017",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1086501634462401058",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1086501634462401058&engine=google_scholar&hl=en",
+                "cites_id": "1086501634462401058"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effectiveness of socially assistive robotics during cognitive stimulation interventions: Impact on caregivers",
+                    "author": [
+                        "J Shukla",
+                        "M Barreda-\u00c1ngeles",
+                        "J Oliver"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 26th IEEE \u2026",
+                    "abstract": "Execution of cognitive stimulation interventions for cognitive training of individuals in need represents significant burden on caregivers in time and labor costs. Recent advancements in Socially Assistive Robotics (SAR) research can be exploited to reduce caregivers burden by work sharing with robots and supplementing/complementing human resources in execution of interventions. Current research evaluates the effectiveness of the SAR empowered cognitive training activity of Bingo Musical among thirty individuals with ID in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8172281/",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "FwNZHw0AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:IkID4noHFA8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffectiveness%2Bof%2Bsocially%2Bassistive%2Brobotics%2Bduring%2Bcognitive%2Bstimulation%2Binterventions:%2BImpact%2Bon%2Bcaregivers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IkID4noHFA8J&ei=oxdjYojbDrKO6rQPxdeOqA4&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=1086501634462401058&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IkID4noHFA8J:scholar.google.com/&scioq=Effectiveness+of+socially+assistive+robotics+during+cognitive+stimulation+interventions:+Impact+on+caregivers&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Jainendra-Shukla/publication/321821016_Effectiveness_of_socially_assistive_robotics_during_cognitive_stimulation_interventions_Impact_on_caregivers/links/5caee2ce4585156cd78f6d53/Effectiveness-of-socially-assistive-robotics-during-cognitive-stimulation-interventions-Impact-on-caregivers.pdf"
+            }
+        },
+        {
+            "title": "An interdisciplinary approach to improving cognitive human-robot interaction\u2013a novel emotion-based model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "QCZleNQAAAAJ:zYLM7Y9cAGgC",
+            "authors": "WSR Can, SDJ Seibt",
+            "publication": "What Social Robots Can and Should Do: Proceedings of Robophilosophy 2016 \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6443701463107528328",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6443701463107528328&engine=google_scholar&hl=en",
+                "cites_id": "6443701463107528328"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An interdisciplinary approach to improving cognitive human-robot interaction\u2013a novel emotion-based model",
+                    "author": [
+                        "WSR Can",
+                        "SDJ Seibt"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "What Social Robots Can and Should Do \u2026",
+                    "abstract": "Socially Assistive Robotics (SAR) aims to provide robot-assisted therapy, for physical as well as cognitive rehabilitation. The paper analyzes two distinct use cases of cognitive rehabilitation therapies, one among involving children with Traumatic Brain Injury (TBI); and another one; second among involving individuals with Intellectual Disability (ID), and raises concerns regarding emotional adaptation, personalization, design, and ELS issues of humanrobot interaction in such cases. The paper's aim is to provide some guidance on how"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://books.google.com/books?hl=en&lr=&id=QxKhDQAAQBAJ&oi=fnd&pg=PA195&dq=An+interdisciplinary+approach+to+improving+cognitive+human-robot+interaction%E2%80%93a+novel+emotion-based+model&ots=ETGVcgHC9r&sig=4E8U-m9CNn4LIbyLEhDnl43TMro",
+                "author_id": [
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:iGYwK1egbFkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Binterdisciplinary%2Bapproach%2Bto%2Bimproving%2Bcognitive%2Bhuman-robot%2Binteraction%25E2%2580%2593a%2Bnovel%2Bemotion-based%2Bmodel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=iGYwK1egbFkJ&ei=phdjYtmzLuiSy9YPt-ShmAg&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=6443701463107528328&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:iGYwK1egbFkJ:scholar.google.com/&scioq=An+interdisciplinary+approach+to+improving+cognitive+human-robot+interaction%E2%80%93a+novel+emotion-based+model&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Eduard-Fosch-Villaronga/publication/309429946_An_Interdisciplinary_Approach_to_Improving_Cognitive_Human-Robot_Interaction_-_A_Novel_Emotion-Based_Model/links/5a16a4f6a6fdcc50ade4a3f4/An-Interdisciplinary-Approach-to-Improving-Cognitive-Human-Robot-Interaction-A-Novel-Emotion-Based-Model.pdf"
+            }
+        },
+        {
+            "title": "Exploring Semi-Supervised Learning for Predicting Listener Backchannels",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:_kc_bZDykSQC",
+            "citation_id": "QCZleNQAAAAJ:_kc_bZDykSQC",
+            "authors": "V Jain, M Leekha, RR Shah, J Shukla",
+            "publication": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems \u2026, 2021",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=776901534962133024",
+                "serpapi_link": "https://serpapi.com/search.json?cites=776901534962133024&engine=google_scholar&hl=en",
+                "cites_id": "776901534962133024"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploring semi-supervised learning for predicting listener backchannels",
+                    "author": [
+                        "V Jain",
+                        "M Leekha",
+                        "RR Shah",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 of the 2021 CHI Conference on \u2026",
+                    "abstract": "Developing human-like conversational agents is a prime area in HCI research and subsumes many tasks. Predicting listener backchannels is one such actively-researched task. While many studies have used different approaches for backchannel prediction, they all have depended on manual annotations for a large dataset. This is a bottleneck impacting the scalability of development. To this end, we propose using semi-supervised techniques to automate the process of identifying backchannels, thereby easing the annotation process"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445449",
+                "author_id": [
+                    "bf4_C6QAAAAJ",
+                    "JwYqJmgAAAAJ",
+                    "WAChZv4AAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IKjfcNQbyAoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploring%2BSemi-Supervised%2BLearning%2Bfor%2BPredicting%2BListener%2BBackchannels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IKjfcNQbyAoJ&ei=qhdjYqWwIamTy9YPsu-CuAM&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=776901534962133024&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IKjfcNQbyAoJ:scholar.google.com/&scioq=Exploring+Semi-Supervised+Learning+for+Predicting+Listener+Backchannels&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2101.01899"
+            }
+        },
+        {
+            "title": "MuDERI: multimodal database for emotion recognition among intellectually disabled individuals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "QCZleNQAAAAJ:IjCSPb-OGe4C",
+            "authors": "J Shukla, M Barreda-\u00c1ngeles, J Oliver, D Puig",
+            "publication": "International Conference on Social Robotics, 264-273, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6300995641541379184",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6300995641541379184&engine=google_scholar&hl=en",
+                "cites_id": "6300995641541379184"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MuDERI: multimodal database for emotion recognition among intellectually disabled individuals",
+                    "author": [
+                        "J Shukla",
+                        "M Barreda-\u00c1ngeles",
+                        "J Oliver"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 Conference on Social \u2026",
+                    "abstract": "Social robots with empathic interaction is a crucial requirement towards deliverance of an effective cognitive stimulation among individuals with Intellectual Disability (ID) and has been challenged by absence of any particular database. Project REHABIBOTICS presents a first ever multimodal database of individuals with ID, recorded in a nearly real world settings for analysis of human affective states. MuDERI is an annotated multimodal database of audiovisual recordings, RGB-D videos and physiological signals of 12 participants in actual"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-47437-3_26",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "FwNZHw0AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:cMRb4SaicVcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMuDERI:%2Bmultimodal%2Bdatabase%2Bfor%2Bemotion%2Brecognition%2Bamong%2Bintellectually%2Bdisabled%2Bindividuals%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cMRb4SaicVcJ&ei=rRdjYoz-Ou-Sy9YPmNWywAs&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=6300995641541379184&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cMRb4SaicVcJ:scholar.google.com/&scioq=MuDERI:+multimodal+database+for+emotion+recognition+among+intellectually+disabled+individuals&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Smart-A social mobile advanced robot test bed for humanoid Robot Researchers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "QCZleNQAAAAJ:u5HHmVD_uO8C",
+            "authors": "J Shukla, JK Pal, FQ Ansari, GC Nandi, P Chakraborty",
+            "publication": "International Conference on Contemporary Computing, 463-470, 2012",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18130905131641703400",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18130905131641703400&engine=google_scholar&hl=en",
+                "cites_id": "18130905131641703400"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Smart-A social mobile advanced robot test bed for humanoid Robot Researchers",
+                    "author": [
+                        "J Shukla",
+                        "JK Pal",
+                        "FQ Ansari",
+                        "GC Nandi"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "International Conference \u2026",
+                    "abstract": "We envision that in near future, Humanoid Robots will enter in the household. They have capability to change the quality of life and advance the human civilizations further. For this thing to happen, humanoid robot researchers need to solve many challenging problems. Towards this we have taken a significant step in developing indigenously a low cost research test bed where researchers can develop and test many technologies for Human Robot interactions. The basic issue which has been addressed is the development of a cost"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-32129-0_46",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "",
+                    "",
+                    "cVdB1iwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6IvP0yfqnfsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSmart-A%2Bsocial%2Bmobile%2Badvanced%2Brobot%2Btest%2Bbed%2Bfor%2Bhumanoid%2BRobot%2BResearchers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6IvP0yfqnfsJ&ei=shdjYsavKLKO6rQPxdeOqA4&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=18130905131641703400&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:6IvP0yfqnfsJ:scholar.google.com/&scioq=Smart-A+social+mobile+advanced+robot+test+bed+for+humanoid+Robot+Researchers&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "A Comparison of Robot Interaction with Tactile Gaming Console Stimulation in Clinical Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:qjMakFHDy7sC",
+            "citation_id": "QCZleNQAAAAJ:qjMakFHDy7sC",
+            "authors": "J Shukla, J Cristiano, L Anguera, J Verg\u00e9s-Llah\u00ed, D Puig",
+            "publication": "Robot 2015: Second Iberian Robotics Conference, 435-445, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11319037307920613297",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11319037307920613297&engine=google_scholar&hl=en",
+                "cites_id": "11319037307920613297"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A comparison of robot interaction with tactile gaming console stimulation in clinical applications",
+                    "author": [
+                        "J Shukla",
+                        "J Cristiano",
+                        "L Anguera",
+                        "J Verg\u00e9s-Llah\u00ed"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Robot 2015: Second \u2026",
+                    "abstract": "Technological advancements in recent years have encouraged lots of research focus on robot interaction among individuals with intellectual disability, especially among kids with Autism Spectrum Disorders (ASD). However, promising advancements shown by these investigations, about use of interactive robots for rehabilitation of such individuals can be questioned on various aspects, eg is effectiveness of interaction therapy because of the robot itself or due to the sensory stimulations? Only few studies have shown any significant"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-27149-1_34",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "6Y8Y5XoAAAAJ",
+                    "",
+                    "M0ZiXKMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:sX8A8nVMFZ0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BComparison%2Bof%2BRobot%2BInteraction%2Bwith%2BTactile%2BGaming%2BConsole%2BStimulation%2Bin%2BClinical%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sX8A8nVMFZ0J&ei=uhdjYuWBJY2ymgHnvp6ICA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=11319037307920613297&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:sX8A8nVMFZ0J:scholar.google.com/&scioq=A+Comparison+of+Robot+Interaction+with+Tactile+Gaming+Console+Stimulation+in+Clinical+Applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Jainendra-Shukla/publication/281742375_A_Comparison_of_Robot_Interaction_with_Tactile_Gaming_Console_Stimulation_in_Clinical_Applications/links/5652d80908aeafc2aabac729/A-Comparison-of-Robot-Interaction-with-Tactile-Gaming-Console-Stimulation-in-Clinical-Applications.pdf"
+            }
+        },
+        {
+            "title": "Vyaktitv: A Multimodal Peer-to-Peer Hindi Conversations based Dataset for Personality Assessment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:0EnyYjriUFMC",
+            "citation_id": "QCZleNQAAAAJ:0EnyYjriUFMC",
+            "authors": "SN Khan, M Leekha, J Shukla, RR Shah",
+            "publication": "2020 IEEE Sixth International Conference on Multimedia Big Data (BigMM), 103-111, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10856042925118811998",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10856042925118811998&engine=google_scholar&hl=en",
+                "cites_id": "10856042925118811998"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Vyaktitv: A Multimodal Peer-to-Peer Hindi Conversations based Dataset for Personality Assessment",
+                    "author": [
+                        "SN Khan",
+                        "M Leekha",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE Sixth \u2026",
+                    "abstract": "Automatically detecting personality traits can aid several applications, such as mental health recognition and human resource management. Most datasets introduced for personality detection so far have analyzed these traits for each individual in isolation. However, personality is intimately linked to our social behavior. Furthermore, surprisingly little research has focused on personality analysis using low resource languages. To this end, we present a novel peer-to-peer Hindi conversation dataset, Vyaktitv. It consists of high-quality"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232539/",
+                "author_id": [
+                    "",
+                    "JwYqJmgAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Xm8ZyoVpqJYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVyaktitv:%2BA%2BMultimodal%2BPeer-to-Peer%2BHindi%2BConversations%2Bbased%2BDataset%2Bfor%2BPersonality%2BAssessment%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Xm8ZyoVpqJYJ&ei=zBdjYvC6CbyCy9YPv5-K-Ac&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=10856042925118811998&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Xm8ZyoVpqJYJ:scholar.google.com/&scioq=Vyaktitv:+A+Multimodal+Peer-to-Peer+Hindi+Conversations+based+Dataset+for+Personality+Assessment&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2008.13769"
+            }
+        },
+        {
+            "title": "Toy, Tutor, Peer, or Pet? Preliminary Findings from Child-Robot Interactions in a Community School",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:UebtZRa9Y70C",
+            "citation_id": "QCZleNQAAAAJ:UebtZRa9Y70C",
+            "authors": "D Kumar Singh, S Sharma, J Shukla, G Eden",
+            "publication": "Companion of the 2020 ACM/IEEE International Conference on Human-Robot \u2026, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7722819511418824284",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7722819511418824284&engine=google_scholar&hl=en",
+                "cites_id": "7722819511418824284"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Toy, tutor, peer, or pet? preliminary findings from child-robot interactions in a community school",
+                    "author": [
+                        "D Kumar Singh",
+                        "S Sharma",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Companion of the 2020 \u2026",
+                    "abstract": "Research focused upon Child-Robot Interaction shows that robots in the classroom can support diverse learning goals amongst pre-school children. However, studies with children and robots in the Global South are currently limited. To address this gap, we conducted a study with children aged 4-8 years at a community school in New Delhi, India, to understand their interaction and experiences with a social robot. The children were asked to teach the English alphabet to a Cozmo robot using flash cards. Preliminary"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3371382.3378315",
+                "author_id": [
+                    "hqoE9bgAAAAJ",
+                    "d0N1QYAAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XCaTqm33LGsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DToy,%2BTutor,%2BPeer,%2Bor%2BPet%253F%2BPreliminary%2BFindings%2Bfrom%2BChild-Robot%2BInteractions%2Bin%2Ba%2BCommunity%2BSchool%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XCaTqm33LGsJ&ei=zxdjYtKGOI2ymgHnvp6ICA&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7722819511418824284&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XCaTqm33LGsJ:scholar.google.com/&scioq=Toy,+Tutor,+Peer,+or+Pet%3F+Preliminary+Findings+from+Child-Robot+Interactions+in+a+Community+School&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Grace-Eden/publication/340365605_Toy_Tutor_Peer_or_Pet_Preliminary_Findings_from_Child-Robot_Interactions_in_a_Community_School/links/5eb17ffba6fdcc7050a9cfcf/Toy-Tutor-Peer-or-Pet-Preliminary-Findings-from-Child-Robot-Interactions-in-a-Community-School.pdf"
+            }
+        },
+        {
+            "title": "It's Not What They Play, It's What You Hear: Understanding Perceived vs. Induced Emotions in Hindustani Classical Music",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "QCZleNQAAAAJ:MXK_kJrjxJIC",
+            "authors": "A Gulati, B Joshi, C Jain, J Shukla",
+            "publication": "Companion Publication of the 2020 International Conference on Multimodal \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=426765162829048383",
+                "serpapi_link": "https://serpapi.com/search.json?cites=426765162829048383&engine=google_scholar&hl=en",
+                "cites_id": "426765162829048383"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "It's Not What They Play, It's What You Hear: Understanding Perceived vs. Induced Emotions in Hindustani Classical Music",
+                    "author": [
+                        "A Gulati",
+                        "B Joshi",
+                        "C Jain",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Companion Publication of the 2020 \u2026",
+                    "abstract": "Music is an efficient medium to elicit and convey emotions. The comparison between perceived and induced emotions from western music has been widely studied. However, this relationship has not been studied from the perspective of Hindustani classical music. In this work, we explore the relationship between perceived and induced emotions with Hindustani classical music as our stimuli. We observe that there is little to no correlation between them, however, audio features help in distinguishing the increase or decrease in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3395035.3425246",
+                "author_id": [
+                    "VVQZL08AAAAJ",
+                    "j0vHYhcAAAAJ",
+                    "5t_mGgQAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:P-rvjKcs7AUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIt%2527s%2BNot%2BWhat%2BThey%2BPlay,%2BIt%2527s%2BWhat%2BYou%2BHear:%2BUnderstanding%2BPerceived%2Bvs.%2BInduced%2BEmotions%2Bin%2BHindustani%2BClassical%2BMusic%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=P-rvjKcs7AUJ&ei=0xdjYtf5IrKO6rQPxdeOqA4&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=426765162829048383&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:P-rvjKcs7AUJ:scholar.google.com/&scioq=It%27s+Not+What+They+Play,+It%27s+What+You+Hear:+Understanding+Perceived+vs.+Induced+Emotions+in+Hindustani+Classical+Music&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Proceedings of the Workshop on Social Robots in Therapy: Focusing on Autonomy and Ethical Challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:WF5omc3nYNoC",
+            "citation_id": "QCZleNQAAAAJ:WF5omc3nYNoC",
+            "authors": "PG Esteban, DH Garc\u00eda, HR Lee, P Chevalier, P Baxter, CL Bethel, ...",
+            "publication": "arXiv preprint arXiv:1812.07613, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3568466176006184696",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3568466176006184696&engine=google_scholar&hl=en",
+                "cites_id": "3568466176006184696"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Proceedings of the workshop on social robots in therapy: Focusing on autonomy and ethical challenges",
+                    "author": [
+                        "PG Esteban",
+                        "DH Garc\u00eda",
+                        "HR Lee",
+                        "P Chevalier"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Robot-Assisted Therapy (RAT) has successfully been used in HRI research by including social robots in health-care interventions by virtue of their ability to engage human users both social and emotional dimensions. Research projects on this topic exist all over the globe in the USA, Europe, and Asia. All of these projects have the overall ambitious goal to increase the well-being of a vulnerable population. Typical work in RAT is performed using remote controlled robots; a technique called Wizard-of-Oz (WoZ). The robot is usually"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1812.07613",
+                "author_id": [
+                    "ntBza-UAAAAJ",
+                    "WUy_3DEAAAAJ",
+                    "t8lUL5AAAAAJ",
+                    "ZJdjCTAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-F7YnRS9hTEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProceedings%2Bof%2Bthe%2BWorkshop%2Bon%2BSocial%2BRobots%2Bin%2BTherapy:%2BFocusing%2Bon%2BAutonomy%2Band%2BEthical%2BChallenges%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-F7YnRS9hTEJ&ei=1xdjYqWQOc6E6rQPz8uiuAc&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=3568466176006184696&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-F7YnRS9hTEJ:scholar.google.com/&scioq=Proceedings+of+the+Workshop+on+Social+Robots+in+Therapy:+Focusing+on+Autonomy+and+Ethical+Challenges&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1812.07613"
+            }
+        },
+        {
+            "title": "Research proposal paper on Sanskrit voice engine: convert text-to-audio in Sanskrit/Hindi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "QCZleNQAAAAJ:d1gkVwhDpl0C",
+            "authors": "P Mishra, J Shukla",
+            "publication": "International Journal of Computer Applications 70 (26), 2013",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8431006980397518091",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8431006980397518091&engine=google_scholar&hl=en",
+                "cites_id": "8431006980397518091"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Research proposal paper on Sanskrit voice engine: convert text-to-audio in Sanskrit/Hindi",
+                    "author": [
+                        "P Mishra",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "International Journal of Computer Applications",
+                    "abstract": "This paper presents, Methodology, Application area& some Results obtained in association to the proposal of an \u201cAutomated System\u201d. Our proposed system is capable of teaching \u201cSanskrit Language\u201d with the help of \u201cHindi Language\u201d. System would have two major modules under its consideration ie \u201cTeaching\u201d & \u201cEvaluation\u201d. The system's main motivation is to utilize the similarities of the two languages &add on to the Sanskrit learning environments in accordance to the \u201cModern Education Scenario\u201d."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.8596&rep=rep1&type=pdf",
+                "author_id": [
+                    "xPS1VqYAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:C81u5S30AHUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DResearch%2Bproposal%2Bpaper%2Bon%2BSanskrit%2Bvoice%2Bengine:%2Bconvert%2Btext-to-audio%2Bin%2BSanskrit/Hindi%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=C81u5S30AHUJ&ei=2hdjYpzMNeiSy9YPt-ShmAg&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=8431006980397518091&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:C81u5S30AHUJ:scholar.google.com/&scioq=Research+proposal+paper+on+Sanskrit+voice+engine:+convert+text-to-audio+in+Sanskrit/Hindi&hl=en&as_sdt=0,33",
+                "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.8596&rep=rep1&type=pdf"
+            }
+        },
+        {
+            "title": "Engagement Analysis of ADHD Students using Visual Cues from Eye Tracker",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "QCZleNQAAAAJ:ULOm3_A8WrAC",
+            "authors": "H Chauhan, A Prasad, J Shukla",
+            "publication": "Companion Publication of the 2020 International Conference on Multimodal \u2026, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11487023693344057056",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11487023693344057056&engine=google_scholar&hl=en",
+                "cites_id": "11487023693344057056"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Engagement Analysis of ADHD Students using Visual Cues from Eye Tracker",
+                    "author": [
+                        "H Chauhan",
+                        "A Prasad",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Companion Publication of the 2020 \u2026",
+                    "abstract": "In this paper, we focus on finding the correlation between visual attention and engagement of ADHD students in one-on-one sessions with specialized educators using visual cues and eye-tracking data. Our goal is to investigate the extent to which observations of eye-gaze, posture, emotion and other physiological signals can be used to model the cognitive state of subjects and to explore the integration of multiple sensor modalities to improve the reliability of detection of human displays of awareness and emotion in the context of ADHD affected"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3395035.3425256",
+                "author_id": [
+                    "XlqysusAAAAJ",
+                    "",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4KZEMDAbap8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEngagement%2BAnalysis%2Bof%2BADHD%2BStudents%2Busing%2BVisual%2BCues%2Bfrom%2BEye%2BTracker%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4KZEMDAbap8J&ei=3hdjYqutMqKUy9YPyMyGkAI&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=11487023693344057056&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:4KZEMDAbap8J:scholar.google.com/&scioq=Engagement+Analysis+of+ADHD+Students+using+Visual+Cues+from+Eye+Tracker&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Robot Assisted Diagnosis of Autism in Children",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "QCZleNQAAAAJ:M3ejUd6NZC8C",
+            "authors": "B Ashwini",
+            "publication": "Proceedings of the 2020 International Conference on Multimodal Interaction \u2026, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14409687372999850011",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14409687372999850011&engine=google_scholar&hl=en",
+                "cites_id": "14409687372999850011"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robot Assisted Diagnosis of Autism in Children",
+                    "author": [
+                        "B Ashwini"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the 2020 International Conference on \u2026",
+                    "abstract": "The diagnosis of autism spectrum disorder is cumbersome even for expert clinicians owing to the diversity in the symptoms exhibited by the children which depend on the severity of the disorder. Furthermore, the diagnosis is based on the behavioural observations and the developmental history of the child which has substantial dependence on the perspectives and interpretations of the specialists. In this paper, we present a robot-assisted diagnostic system for the assessment of behavioural symptoms in children for providing a reliable"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3382507.3421162",
+                "author_id": [
+                    "SBYdeooAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:G3gW6FF--ccJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobot%2BAssisted%2BDiagnosis%2Bof%2BAutism%2Bin%2BChildren%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=G3gW6FF--ccJ&ei=4xdjYtmpFbyCy9YPv5-K-Ac&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=14409687372999850011&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:G3gW6FF--ccJ:scholar.google.com/&scioq=Robot+Assisted+Diagnosis+of+Autism+in+Children&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Feature Extraction and Feature Selection for Emotion Recognition using Facial Expression",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:8k81kl-MbHgC",
+            "citation_id": "QCZleNQAAAAJ:8k81kl-MbHgC",
+            "authors": "D Choudhary, J Shukla",
+            "publication": "2020 IEEE Sixth International Conference on Multimedia Big Data (BigMM), 125-133, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15401174045829114870",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15401174045829114870&engine=google_scholar&hl=en",
+                "cites_id": "15401174045829114870"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Feature extraction and feature selection for emotion recognition using facial expression",
+                    "author": [
+                        "D Choudhary",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE Sixth International \u2026",
+                    "abstract": "Facial expressions play a significant role in describing the emotions of a person. Due to its applicability to a wide range of applications, such as human-computer interaction, driver status monitoring, etc. Facial Expression Recognition (FER) has received substantial attention among the researchers. According to the earlier studies, a small feature set is used for the extraction of facial features for FER system. To date, a systematic comparison of the facial features does not exist. Therefore, in the current research, we identified 18 different"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232510/",
+                "author_id": [
+                    "",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9iucHTL2u9UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFeature%2BExtraction%2Band%2BFeature%2BSelection%2Bfor%2BEmotion%2BRecognition%2Busing%2BFacial%2BExpression%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9iucHTL2u9UJ&ei=8hdjYqOILKKUy9YPyMyGkAI&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=15401174045829114870&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9iucHTL2u9UJ:scholar.google.com/&scioq=Feature+Extraction+and+Feature+Selection+for+Emotion+Recognition+using+Facial+Expression&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Stakeholders Acceptance and Expectations of Robot-Assisted Therapy for Children with Autism Spectrum Disorder",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:Se3iqnhoufwC",
+            "citation_id": "QCZleNQAAAAJ:Se3iqnhoufwC",
+            "authors": "J Oliver, R Oliv\u00e1n, J Shukla, A Folch, R Mart\u00ednez-Leal, M Castell\u00e1, D Puig",
+            "publication": "2019 28th IEEE International Conference on Robot and Human Interactive \u2026, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1381065499800381140",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1381065499800381140&engine=google_scholar&hl=en",
+                "cites_id": "1381065499800381140"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Stakeholders acceptance and expectations of robot-assisted therapy for children with autism spectrum disorder",
+                    "author": [
+                        "J Oliver",
+                        "R Oliv\u00e1n",
+                        "J Shukla",
+                        "A Folch"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 28th IEEE \u2026",
+                    "abstract": "Robot assisted therapy for children with Autism Spectrum Disorder (ASD) should take into account the stakeholders expectations about their potential benefits. Any disparity between the stakeholders expectations and the gained benefits may negatively impact the acceptance and adoption of the robot assisted therapy. In this research, we conducted an observational study with eleven parents and five clinical professionals related with the children with ASD who were preselected to undergo robot assisted therapeutic sessions"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8956419/",
+                "author_id": [
+                    "",
+                    "",
+                    "QCZleNQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:1CYmP8GHKhMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStakeholders%2BAcceptance%2Band%2BExpectations%2Bof%2BRobot-Assisted%2BTherapy%2Bfor%2BChildren%2Bwith%2BAutism%2BSpectrum%2BDisorder%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1CYmP8GHKhMJ&ei=9xdjYsJkopTL1g_IzIaQAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=1381065499800381140&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:1CYmP8GHKhMJ:scholar.google.com/&scioq=Stakeholders+Acceptance+and+Expectations+of+Robot-Assisted+Therapy+for+Children+with+Autism+Spectrum+Disorder&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Mapping Robotic Affordances with Pre-requisite Learning Interventions for Children with Autism Spectrum Disorder",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:roLk4NBRz8UC",
+            "citation_id": "QCZleNQAAAAJ:roLk4NBRz8UC",
+            "authors": "J Shukla, VR Suri, J Garg, K Verma, P Kansal",
+            "publication": "2019 28th IEEE International Conference on Robot and Human Interactive \u2026, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15275873012463922534",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15275873012463922534&engine=google_scholar&hl=en",
+                "cites_id": "15275873012463922534"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mapping robotic affordances with pre-requisite learning interventions for children with autism spectrum disorder",
+                    "author": [
+                        "J Shukla",
+                        "VR Suri",
+                        "J Garg",
+                        "K Verma"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 28th IEEE \u2026",
+                    "abstract": "For children with Autism Spectrum Disease (ASD), pre-requisite learning (PRL) skills are particularly important because they form the basis for acquiring other advanced cognitive skills. Globally, researchers have shown that robot-assisted therapy (RAT) can have several positive effects on children with ASD. However, previous researches have failed in clearly mapping the PRL skill training tasks and strategies to robot affordances. In this research, we foster a better understanding of the objectives of the PRL skills required for children with"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8956247/",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "nVCrKGEAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Zm3j3ZHN_tMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMapping%2BRobotic%2BAffordances%2Bwith%2BPre-requisite%2BLearning%2BInterventions%2Bfor%2BChildren%2Bwith%2BAutism%2BSpectrum%2BDisorder%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Zm3j3ZHN_tMJ&ei=-xdjYvbrB6mTy9YPsu-CuAM&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=15275873012463922534&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Zm3j3ZHN_tMJ:scholar.google.com/&scioq=Mapping+Robotic+Affordances+with+Pre-requisite+Learning+Interventions+for+Children+with+Autism+Spectrum+Disorder&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Venkata-Suri-2/publication/336717280_Mapping_Robotic_Affordances_with_Pre-requisite_Learning_Interventions_for_Children_with_Autism_Spectrum_Disorder_as_presented_at_the_The_28th_IEEE_International_Conference_on_Robot_Human_Interactive_C/links/5daebc2da6fdccc99d92aafc/Mapping-Robotic-Affordances-with-Pre-requisite-Learning-Interventions-for-Children-with-Autism-Spectrum-Disorder-as-presented-at-the-The-28th-IEEE-International-Conference-on-Robot-Human-Interactive.pdf"
+            }
+        },
+        {
+            "title": "Using Humanoid Robots to Convey Rehabilitation Therapies to Disabled People",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "QCZleNQAAAAJ:UeHWp8X0CEIC",
+            "authors": "J Shukla",
+            "publication": "2nd URV Doctoral Workshop in Computer Science and Mathematics, 63-65, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2480396283362935960",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2480396283362935960&engine=google_scholar&hl=en",
+                "cites_id": "2480396283362935960"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Using humanoid robots to convey rehabilitation therapies to disabled people",
+                    "author": [
+                        "J Shukla"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2nd URV Doctoral Workshop in Computer Science \u2026",
+                    "abstract": "The thesis aims to develop a system to automatically create rehabilitation therapies for patients with disabilities (mental and physical), in the form of psycho-motor activities/games, dance or workout routines that incorporate the use of humanoid robots within the therapeutic loop by cloning human behavior learned by imitation. The objective of this research project is to implement a system that will be able to generate therapeutic routines from imitation of human actors and, also, objectively measure both the interaction between robot and the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://books.google.com/books?hl=en&lr=&id=xCmICwAAQBAJ&oi=fnd&pg=PA63&dq=Using+Humanoid+Robots+to+Convey+Rehabilitation+Therapies+to+Disabled+People&ots=VxyxVe4Vcq&sig=-dbZnTI-ONNoXcJHrfnHbbw_MyQ",
+                "author_id": [
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mAQMLEcjbCIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUsing%2BHumanoid%2BRobots%2Bto%2BConvey%2BRehabilitation%2BTherapies%2Bto%2BDisabled%2BPeople%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mAQMLEcjbCIJ&ei=_hdjYpqrNpLeyQTms5KQBg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=2480396283362935960&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mAQMLEcjbCIJ:scholar.google.com/&scioq=Using+Humanoid+Robots+to+Convey+Rehabilitation+Therapies+to+Disabled+People&hl=en&as_sdt=0,33",
+                "eprint_url": "https://books.google.com/books?hl=en&lr=&id=xCmICwAAQBAJ&oi=fnd&pg=PA63&dq=Using+Humanoid+Robots+to+Convey+Rehabilitation+Therapies+to+Disabled+People&ots=VxyxVe4Vcq&sig=-dbZnTI-ONNoXcJHrfnHbbw_MyQ"
+            }
+        },
+        {
+            "title": "Outlook of Mobile Robot Navigation in Dynamic Environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "QCZleNQAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "Y Ramashare, A Upadhyay, J Shukla",
+            "publication": "International Journal of Current Engineering and Technology 3 (2), 414-416, 2013",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15832467038023813723",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15832467038023813723&engine=google_scholar&hl=en",
+                "cites_id": "15832467038023813723"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Outlook of Mobile Robot Navigation in Dynamic Environment",
+                    "author": [
+                        "Y Ramashare",
+                        "A Upadhyay",
+                        "J Shukla"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    "",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:W4p9F-M4uNsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOutlook%2Bof%2BMobile%2BRobot%2BNavigation%2Bin%2BDynamic%2BEnvironment%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W4p9F-M4uNsJ&ei=AhhjYp-nKZyO6rQP-viEEA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=15832467038023813723&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:W4p9F-M4uNsJ:scholar.google.com/&scioq=Outlook+of+Mobile+Robot+Navigation+in+Dynamic+Environment&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Contextual Emotion Learning Challenge",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "QCZleNQAAAAJ:9ZlFYXVOiuMC",
+            "authors": "J Shukla, P Gupta, A Bera, A Sarkar, P Goel, S Butta, AK Gupta, S Sanyal, ...",
+            "publication": "2021 16th IEEE International Conference on Automatic Face and Gesture \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Contextual Emotion Learning Challenge",
+                    "author": [
+                        "J Shukla",
+                        "P Gupta",
+                        "A Bera",
+                        "A Sarkar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 16th IEEE \u2026",
+                    "abstract": "To address both the temporal and the environmental context, this work proposes the Indian  Contextual Emotion Recognition (ICER) dataset of video clips that consist of information"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9667034/",
+                "author_id": [
+                    "QCZleNQAAAAJ",
+                    "yUB8lNsAAAAJ",
+                    "q3UdHk4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:v5MWpKI6CukJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DContextual%2BEmotion%2BLearning%2BChallenge%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=v5MWpKI6CukJ&ei=BhhjYp2hG7KO6rQPxdeOqA4&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:v5MWpKI6CukJ:scholar.google.com/&scioq=Contextual+Emotion+Learning+Challenge&hl=en&as_sdt=0,33",
+                "eprint_url": "https://snehilsanyal.github.io/files/paper2.pdf"
+            }
+        },
+        {
+            "title": "ExpressEar: Sensing Fine-Grained Facial Expressions with Earables",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "QCZleNQAAAAJ:Wp0gIr-vW9MC",
+            "authors": "D Verma, S Bhalla, D Sahnan, J Shukla, A Parnami",
+            "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ExpressEar: Sensing Fine-Grained Facial Expressions with Earables",
+                    "author": [
+                        "D Verma",
+                        "S Bhalla",
+                        "D Sahnan",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the ACM \u2026",
+                    "abstract": "Continuous and unobtrusive monitoring of facial expressions holds tremendous potential to enable compelling applications in a multitude of domains ranging from healthcare and education to interactive systems. Traditional, vision-based facial expression recognition (FER) methods, however, are vulnerable to external factors like occlusion and lighting, while also raising privacy concerns coupled with the impractical requirement of positioning the camera in front of the user at all times. To bridge this gap, we propose ExpressEar, a novel"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3478085",
+                "author_id": [
+                    "KJgi6GMAAAAJ",
+                    "SwDlgvoAAAAJ",
+                    "AwLsb_gAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:04kzeFSz3MwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExpressEar:%2BSensing%2BFine-Grained%2BFacial%2BExpressions%2Bwith%2BEarables%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=04kzeFSz3MwJ&ei=ChhjYqePAqmTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:04kzeFSz3MwJ:scholar.google.com/&scioq=ExpressEar:+Sensing+Fine-Grained+Facial+Expressions+with+Earables&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Effect of Polite Triggers in Chatbot Conversations on User Experience across Gender, Age, and Personality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:4DMP91E08xMC",
+            "citation_id": "QCZleNQAAAAJ:4DMP91E08xMC",
+            "authors": "K Rana, R Madaan, J Shukla",
+            "publication": "2021 30th IEEE International Conference on Robot & Human Interactive \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of Polite Triggers in Chatbot Conversations on User Experience across Gender, Age, and Personality",
+                    "author": [
+                        "K Rana",
+                        "R Madaan",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 30th IEEE International \u2026",
+                    "abstract": "Chatbots are one of the emerging intelligent systems which interact with customers to solve different queries in a wide range of domain areas. During social interaction, politeness plays a vital role in achieving effective communication. Consequently, it becomes essential to understand how a chatbot's politeness affects user experience during the interaction. To understand it, we conducted a between-subject user study with two chatbots where one of the chatbots employs polite triggers, and the other one replies intending to answer the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9515528/",
+                "author_id": [
+                    "CqBUM-QAAAAJ",
+                    "Glyhz5oAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WIuzSoNm7UwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2BPolite%2BTriggers%2Bin%2BChatbot%2BConversations%2Bon%2BUser%2BExperience%2Bacross%2BGender,%2BAge,%2Band%2BPersonality%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WIuzSoNm7UwJ&ei=DRhjYrLOA46pywSdh6agAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:WIuzSoNm7UwJ:scholar.google.com/&scioq=Effect+of+Polite+Triggers+in+Chatbot+Conversations+on+User+Experience+across+Gender,+Age,+and+Personality&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Responsiveness towards robot-assisted interactions among pre-primary children of Indian ethnicity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:aqlVkmm33-oC",
+            "citation_id": "QCZleNQAAAAJ:aqlVkmm33-oC",
+            "authors": "B Ashwini, V Narayan, A Bhatia, J Shukla",
+            "publication": "2021 30th IEEE International Conference on Robot & Human Interactive \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Responsiveness towards robot-assisted interactions among pre-primary children of Indian ethnicity",
+                    "author": [
+                        "B Ashwini",
+                        "V Narayan",
+                        "A Bhatia"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 30th IEEE \u2026",
+                    "abstract": "Today's world is undeniably technology-driven and children are the ones who adopt technology with ease. This fact could be leveraged to design assistive technologies for children using social robots as they are observed to be efficient pedagogical agents. Robotic technology is evolving rapidly and robots are designed to play social roles in education, health care and home assistance. However, there has been limited research focusing on the use of robotic technologies for designing interactions with children in the global south, owing"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9515520/",
+                "author_id": [
+                    "SBYdeooAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:4a8-nZUBRUEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DResponsiveness%2Btowards%2Brobot-assisted%2Binteractions%2Bamong%2Bpre-primary%2Bchildren%2Bof%2BIndian%2Bethnicity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4a8-nZUBRUEJ&ei=EBhjYrXDMO-Sy9YPmNWywAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:4a8-nZUBRUEJ:scholar.google.com/&scioq=Responsiveness+towards+robot-assisted+interactions+among+pre-primary+children+of+Indian+ethnicity&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Feature Fused Human Activity Recognition Network (FFHAR-Net)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "QCZleNQAAAAJ:qxL8FJ1GzNcC",
+            "authors": "A Singhal, M Goyal, J Shukla, R Mutharaju",
+            "publication": "International Conference on Human-Computer Interaction, 540-547, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Feature Fused Human Activity Recognition Network (FFHAR-Net)",
+                    "author": [
+                        "A Singhal",
+                        "M Goyal",
+                        "J Shukla",
+                        "R Mutharaju"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "International Conference on \u2026",
+                    "abstract": "With the advances in smart home technology and Internet of Things (IoT), there has been keen research interest in human activity recognition to allow service systems to understand human intentions. Recognizing human objectives by these systems without user intervention, results in better service, which is crucial to improve the user experience. Existing research approaches have focused primarily on probabilistic methods like Bayesian networks (for instance, the CRAFFT algorithm). Though quite versatile, these probabilistic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-78642-7_72",
+                "author_id": [
+                    "lxqlMxUAAAAJ",
+                    "7crkHZsAAAAJ",
+                    "QCZleNQAAAAJ",
+                    "69pEM_YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:c8wgU1nQxAUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFeature%2BFused%2BHuman%2BActivity%2BRecognition%2BNetwork%2B(FFHAR-Net)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=c8wgU1nQxAUJ&ei=FBhjYpCFJuiSy9YPt-ShmAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:c8wgU1nQxAUJ:scholar.google.com/&scioq=Feature+Fused+Human+Activity+Recognition+Network+(FFHAR-Net)&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "It\u2019s LeVAsa not LevioSA! Latent Encodings for Valence-Arousal Structure Alignment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "QCZleNQAAAAJ:hqOjcs7Dif8C",
+            "authors": "SS Nath, V Udandarao, J Shukla",
+            "publication": "8th ACM IKDD CODS and 26th COMAD, 238-242, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "It's LeVAsa not LevioSA! Latent Encodings for Valence-Arousal Structure Alignment",
+                    "author": [
+                        "SS Nath",
+                        "V Udandarao",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "8th ACM IKDD CODS and 26th \u2026",
+                    "abstract": "In recent years, great strides have been made in the field of affective computing. Several models have been developed to represent and quantify emotions. Two popular ones include (i) categorical models which represent emotions as discrete labels, and (ii) dimensional models which represent emotions in a Valence-Arousal (VA) circumplex domain. However, there is no standard for annotation mapping between the two labelling methods. We build a novel algorithm for mapping categorical and dimensional model labels using annotation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3430984.3431037",
+                "author_id": [
+                    "NFwaRUcAAAAJ",
+                    "jUOcawkAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dMMd59Bs3KMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIt%25E2%2580%2599s%2BLeVAsa%2Bnot%2BLevioSA!%2BLatent%2BEncodings%2Bfor%2BValence-Arousal%2BStructure%2BAlignment%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dMMd59Bs3KMJ&ei=GBhjYtHhA8LZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:dMMd59Bs3KMJ:scholar.google.com/&scioq=It%E2%80%99s+LeVAsa+not+LevioSA!+Latent+Encodings+for+Valence-Arousal+Structure+Alignment&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2007.10058.pdf?ref=https://githubhelp.com"
+            }
+        },
+        {
+            "title": "Before stress overcomes you, we overcome it: a digital solution to predict and relieve acute stress in young adults",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "QCZleNQAAAAJ:QIV2ME_5wuYC",
+            "authors": "A Katyal, A Gupta, J Shukla",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Before stress overcomes you, we overcome it: a digital solution to predict and relieve acute stress in young adults",
+                    "author": [
+                        "A Katyal",
+                        "A Gupta",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "Stress is natural, especially during this unprecedented COVID-19 crisis that has brought various emotions and challenges. However, stress experienced over an extended period can lead to serious health problems. It is therefore important to timely detect and overcome it. Studies conducted in the past have shown the signi_cance of Electrodermal Activity (EDA) and Heart Rate Variability (HRV) in stress detection. We present a digital solution that involves both stress prediction and mitigation with the help of an Android Application. We"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/969",
+                "author_id": [
+                    "",
+                    "",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:x4cf2_4tbnEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBefore%2Bstress%2Bovercomes%2Byou,%2Bwe%2Bovercome%2Bit:%2Ba%2Bdigital%2Bsolution%2Bto%2Bpredict%2Band%2Brelieve%2Bacute%2Bstress%2Bin%2Byoung%2Badults%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=x4cf2_4tbnEJ&ei=GxhjYtjJBuiSy9YPt-ShmAg&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/969/Akshyta%20Katyal_2017216%2C%20Anushika%20Gupta_2017135.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Vyaktitv: A Multimodal Peer-to-Peer Hindi Conversations based Dataset for Personality Assessment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:5nxA0vEk-isC",
+            "citation_id": "QCZleNQAAAAJ:5nxA0vEk-isC",
+            "authors": "S Nawaz Khan, M Leekha, J Shukla, R Ratn Shah",
+            "publication": "arXiv e-prints, arXiv: 2008.13769, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Vyaktitv: A Multimodal Peer-to-Peer Hindi Conversations based Dataset for Personality Assessment",
+                    "author": [
+                        "SN Khan",
+                        "M Leekha",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE Sixth \u2026",
+                    "abstract": "Automatically detecting personality traits can aid several applications, such as mental health recognition and human resource management. Most datasets introduced for personality detection so far have analyzed these traits for each individual in isolation. However, personality is intimately linked to our social behavior. Furthermore, surprisingly little research has focused on personality analysis using low resource languages. To this end, we present a novel peer-to-peer Hindi conversation dataset, Vyaktitv. It consists of high-quality"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232539/",
+                "author_id": [
+                    "",
+                    "JwYqJmgAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Xm8ZyoVpqJYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVyaktitv:%2BA%2BMultimodal%2BPeer-to-Peer%2BHindi%2BConversations%2Bbased%2BDataset%2Bfor%2BPersonality%2BAssessment%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Xm8ZyoVpqJYJ&ei=JRhjYuzGGuiSy9YPt-ShmAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=10856042925118811998&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Xm8ZyoVpqJYJ:scholar.google.com/&scioq=Vyaktitv:+A+Multimodal+Peer-to-Peer+Hindi+Conversations+based+Dataset+for+Personality+Assessment&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2008.13769"
+            }
+        },
+        {
+            "title": "Intraepidermal injection of autologous non-cultured epidermal cell suspension in lesions of stable vitiligo: A novel method of repigmenting vitiligo",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "QCZleNQAAAAJ:YOwf2qJgpHMC",
+            "authors": "S Kumar, T Mehta, S Nain, SS Pandey, AK Gulati, J Shukla",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Intraepidermal injection of autologous non-cultured epidermal cell suspension in lesions of stable vitiligo: A novel method of repigmenting vitiligo",
+                    "author": [
+                        "S Kumar",
+                        "T Mehta",
+                        "S Nain",
+                        "SS Pandey",
+                        "AK Gulati"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "Background: Transplantation of autologous non-cultured epidermal cell suspension containing melanocytes (ANEM) is one of the well-known surgical options for repigmenting stable vitiligo lesions. The recipient site for transplantation has traditionally been prepared by dermabrasion, liquid N2, or laser resurfacing, which is costly, cumbersome and has risk of scarring. Objectives: The objectives of this study were to experiment a novel method of repigmenting stable vitiligo lesions by intraepidermal injection of ANEM in the vitiligo"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://pesquisa.bvsalud.org/portal/resource/pt/sea-205507",
+                "author_id": [
+                    "o8mcf4kAAAAJ",
+                    "",
+                    "",
+                    "Six-IukAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:nCFS6DgMQCAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntraepidermal%2Binjection%2Bof%2Bautologous%2Bnon-cultured%2Bepidermal%2Bcell%2Bsuspension%2Bin%2Blesions%2Bof%2Bstable%2Bvitiligo:%2BA%2Bnovel%2Bmethod%2Bof%2Brepigmenting%2Bvitiligo%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nCFS6DgMQCAJ&ei=KxhjYoXlO86E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://www.academia.edu/download/79884804/67-1559144017.pdf"
+            }
+        },
+        {
+            "title": "Empowering Cognitive Stimulation Therapy (CST) with Socially Assistive Robotics (SAR) and Emotion Recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "QCZleNQAAAAJ:eQOLeE2rZwMC",
+            "authors": "J Shukla",
+            "publication": "Universitat Rovira i Virgili, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Empowering Cognitive Stimulation Therapy (CST) with Socially Assistive Robotics (SAR) and Emotion Recognition",
+                    "author": [
+                        "J Shukla"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "Robot-assisted systems for cognitive rehabilitation can increase the reach of potential benefits of evidence-based psychological or psychosocial interventions to the individuals with a wide range of mental health concerns. Existing researches in socially assistive robots (SAR) lack clinical validation and hence, medical practitioners have little motivation for their use in clinical practices. Besides, existing human-robot interactions are inattentive to the user's current emotional state and engagement. Cognitive rehabilitation interventions for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.tdx.cat/handle/10803/586279",
+                "author_id": [
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Zic70C758KYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEmpowering%2BCognitive%2BStimulation%2BTherapy%2B(CST)%2Bwith%2BSocially%2BAssistive%2BRobotics%2B(SAR)%2Band%2BEmotion%2BRecognition%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Zic70C758KYJ&ei=LxhjYuTnHpLeyQTms5KQBg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Zic70C758KYJ:scholar.google.com/&scioq=Empowering+Cognitive+Stimulation+Therapy+(CST)+with+Socially+Assistive+Robotics+(SAR)+and+Emotion+Recognition&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.tdx.cat/bitstream/handle/10803/586279/TESI.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "2nd URV Doctoral Workshop in Computer Science and Mathematics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "QCZleNQAAAAJ:_FxGoFyzp5QC",
+            "authors": "MS Artigas, AV Mateu",
+            "publication": "PUBLICACIONS UNIVERSITAT ROVIRA I VIRGILI, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "2nd URV Doctoral Workshop in Computer Science and Mathematics",
+                    "author": [
+                        "MS Artigas",
+                        "AV Mateu"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "This proceeding book contains the contributions presented at the 2nd URV Doctoral workshop in Computer Science and Mathematics. The main aim of this workshop is to promote the dissemination of the ideas, methods and results that are developed by the students of our PhD program."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://books.google.com/books?hl=en&lr=&id=xCmICwAAQBAJ&oi=fnd&pg=PP3&dq=2nd+URV+Doctoral+Workshop+in+Computer+Science+and+Mathematics&ots=VxyxVe4W7s&sig=5zz2Qa3hQph32dhNe1fe-eEXhWk",
+                "author_id": [
+                    "JhLFxZEAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:QgoI9zP5Hx0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D2nd%2BURV%2BDoctoral%2BWorkshop%2Bin%2BComputer%2BScience%2Band%2BMathematics%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QgoI9zP5Hx0J&ei=MxhjYrfeL6KUy9YPyMyGkAI&json=",
+                "num_citations": 0,
+                "eprint_url": "https://books.google.com/books?hl=en&lr=&id=xCmICwAAQBAJ&oi=fnd&pg=PP3&dq=2nd+URV+Doctoral+Workshop+in+Computer+Science+and+Mathematics&ots=VxyxVe4W7s&sig=5zz2Qa3hQph32dhNe1fe-eEXhWk"
+            }
+        },
+        {
+            "title": "Design for the Well-Being of LGBTQ+ University Students",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QCZleNQAAAAJ&pagesize=100&citation_for_view=QCZleNQAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "QCZleNQAAAAJ:mVmsd5A6BfQC",
+            "authors": "DK Singh, VR Suri, J Shukla",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design for the Well-Being of LGBTQ+ University Students",
+                    "author": [
+                        "DK Singh",
+                        "VR Suri",
+                        "J Shukla"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "In the past decade, there has been a significant amount of work in HCI & ICT4D to understand different ways in which we can empower the most marginalized and vulnerable populations in our society. Accessible healthcare is one of the major focuses of such work, but designing for the LGBTQ+ community in India with a focus on health is still understudied. In India, the LGBTQ+ community is very diverse, and prior research in Sociology has suggested that the community has faced a lot of oppression, discrimination, and violence in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://divyanshu-krs.github.io/assets/Div_WellBeing_CSCW20_WorkshopPaper.pdf",
+                "author_id": [
+                    "hqoE9bgAAAAJ",
+                    "nVCrKGEAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:iTPMiUUP-3UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Bfor%2Bthe%2BWell-Being%2Bof%2BLGBTQ%252B%2BUniversity%2BStudents%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=iTPMiUUP-3UJ&ei=NhhjYrSGM42ymgHnvp6ICA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:iTPMiUUP-3UJ:scholar.google.com/&scioq=Design+for+the+Well-Being+of+LGBTQ%2B+University+Students&hl=en&as_sdt=0,33",
+                "eprint_url": "https://divyanshu-krs.github.io/assets/Div_WellBeing_CSCW20_WorkshopPaper.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 189,
+                    "since_2017": 176
+                }
+            },
+            {
+                "h_index": {
+                    "all": 7,
+                    "since_2017": 7
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 5,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 3
+            },
+            {
+                "year": 2015,
+                "citations": 3
+            },
+            {
+                "year": 2016,
+                "citations": 7
+            },
+            {
+                "year": 2017,
+                "citations": 6
+            },
+            {
+                "year": 2018,
+                "citations": 16
+            },
+            {
+                "year": 2019,
+                "citations": 26
+            },
+            {
+                "year": 2020,
+                "citations": 42
+            },
+            {
+                "year": 2021,
+                "citations": 64
+            },
+            {
+                "year": 2022,
+                "citations": 22
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=QCZleNQAAAAJ",
+        "available": 4,
+        "not_available": 1
+    },
+    "co_authors": [
+        {
+            "name": "Domenec Puig",
+            "link": "https://scholar.google.com/citations?user=2lmYVYAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2lmYVYAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2lmYVYAAAAAJ",
+            "affiliations": "Full Professor, University Rovira i Virgili",
+            "email": "Verified email at urv.cat",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2lmYVYAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Miguel Barreda-\u00c1ngeles",
+            "link": "https://scholar.google.com/citations?user=FwNZHw0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FwNZHw0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FwNZHw0AAAAJ",
+            "affiliations": "Vrije Universiteit Amsterdam",
+            "email": "Verified email at vu.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FwNZHw0AAAAJ&citpid=24"
+        },
+        {
+            "name": "G C Nandi",
+            "link": "https://scholar.google.com/citations?user=cVdB1iwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cVdB1iwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cVdB1iwAAAAJ",
+            "affiliations": "Professor, Head of the Center of Intelligent Robotics and Advisor(QAA), IIIT-A",
+            "email": "Verified email at iiita.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cVdB1iwAAAAJ&citpid=2"
+        },
+        {
+            "name": "Juli\u00e1n Cristiano",
+            "link": "https://scholar.google.com/citations?user=6Y8Y5XoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6Y8Y5XoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6Y8Y5XoAAAAJ",
+            "email": "Verified email at urv.cat",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6Y8Y5XoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jaume Verg\u00e9s Llah\u00ed",
+            "link": "https://scholar.google.com/citations?user=M0ZiXKMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=M0ZiXKMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "M0ZiXKMAAAAJ",
+            "affiliations": "Senior SW Engineer at HP.",
+            "email": "Verified email at hp.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Pavan Chakraborty",
+            "link": "https://scholar.google.com/citations?user=wm_7a-0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wm_7a-0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "wm_7a-0AAAAJ",
+            "affiliations": "Indian Institute of Information Technology Allahabad",
+            "email": "Verified email at iiita.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=wm_7a-0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Maitree Leekha",
+            "link": "https://scholar.google.com/citations?user=JwYqJmgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JwYqJmgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JwYqJmgAAAAJ",
+            "affiliations": "Delhi Technological University",
+            "email": "Verified email at dtu.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JwYqJmgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Divyanshu Kumar Singh",
+            "link": "https://scholar.google.com/citations?user=hqoE9bgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hqoE9bgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "hqoE9bgAAAAJ",
+            "affiliations": "Undergraduate, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hqoE9bgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Vidit Jain",
+            "link": "https://scholar.google.com/citations?user=bf4_C6QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bf4_C6QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "bf4_C6QAAAAJ",
+            "affiliations": "Student at IIIT-D",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=bf4_C6QAAAAJ&citpid=1"
+        },
+        {
+            "name": "Ratnadeep Suri",
+            "link": "https://scholar.google.com/citations?user=bQQc460AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bQQc460AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "bQQc460AAAAJ",
+            "email": "Verified email at ntu.edu.sg",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Sumita Sharma",
+            "link": "https://scholar.google.com/citations?user=d0N1QYAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=d0N1QYAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "d0N1QYAAAAAJ",
+            "affiliations": "INTERACT Research Unit, ITEE, University of Oulu, Finland",
+            "email": "Verified email at oulu.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d0N1QYAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Grace Eden",
+            "link": "https://scholar.google.com/citations?user=Gs5GF8YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Gs5GF8YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Gs5GF8YAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, Delhi (IIITD)",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Gs5GF8YAAAAJ&citpid=8"
+        },
+        {
+            "name": "Chirag Jain",
+            "link": "https://scholar.google.com/citations?user=5t_mGgQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5t_mGgQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "5t_mGgQAAAAJ",
+            "affiliations": "CSE Undergraduate",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5t_mGgQAAAAJ&citpid=1"
+        },
+        {
+            "name": "Brihi Joshi",
+            "link": "https://scholar.google.com/citations?user=j0vHYhcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j0vHYhcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "j0vHYhcAAAAJ",
+            "affiliations": "University of Southern California",
+            "email": "Verified email at usc.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j0vHYhcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Amogh Gulati",
+            "link": "https://scholar.google.com/citations?user=VVQZL08AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VVQZL08AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VVQZL08AAAAJ",
+            "affiliations": "Student IIITD",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VVQZL08AAAAJ&citpid=2"
+        },
+        {
+            "name": "Vishaal Udandarao",
+            "link": "https://scholar.google.com/citations?user=jUOcawkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jUOcawkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "jUOcawkAAAAJ",
+            "affiliations": "Student at University of Cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jUOcawkAAAAJ&citpid=1"
+        },
+        {
+            "name": "Surabhi S. Nath",
+            "link": "https://scholar.google.com/citations?user=NFwaRUcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NFwaRUcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "NFwaRUcAAAAJ",
+            "affiliations": "Doctoral Student, Max Planck School of Cognition",
+            "email": "Verified email at maxplanckschools.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NFwaRUcAAAAJ&citpid=7"
+        }
+    ]
+}

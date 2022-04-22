@@ -1,0 +1,373 @@
+{
+    "search_metadata": {
+        "id": "6256e5f81baebb83841e2416",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/03ebbf85f0242759/6256e5f81baebb83841e2416.json",
+        "created_at": "2022-04-13 15:02:16 UTC",
+        "processed_at": "2022-04-13 15:02:16 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=gzKjW90AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/03ebbf85f0242759/6256e5f81baebb83841e2416.html",
+        "total_time_taken": 0.93,
+        "total_articles": 7,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "gzKjW90AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Debika Banerjee",
+        "affiliations": "Assistant Professor",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Number Theory",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:number_theory",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anumber_theory"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Abel-Tauber process and asymptotic formulas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gzKjW90AAAAJ&pagesize=100&citation_for_view=gzKjW90AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "gzKjW90AAAAJ:2osOgNQ5qMEC",
+            "authors": "D Banerjee, K Chakraborty, S Kanemitsu, B Maji",
+            "publication": "Kyushu Journal of Mathematics 71 (2), 363-385, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5532025265519177904",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5532025265519177904&engine=google_scholar&hl=en",
+                "cites_id": "5532025265519177904"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Abel-Tauber process and asymptotic formulas",
+                    "author": [
+                        "D Banerjee",
+                        "K Chakraborty",
+                        "S Kanemitsu"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Kyushu Journal of \u2026",
+                    "abstract": "The Abel\u2013Tauber process consists of the Abelian process of forming the Riesz sums and the subsequent Tauberian process of differencing the Riesz sums, an analogue of the integration\u2013differentiation process. In this article, we use the Abel\u2013Tauber process to establish an interesting asymptotic expansion for the Riesz sums of arithmetic functions with best possible error estimate. The novelty of our paper is that we incorporate the Selberg type divisor problem in this process by viewing the contour integral as part of the residual"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.jstage.jst.go.jp/article/kyushujm/71/2/71_363/_article/-char/ja/",
+                "author_id": [
+                    "gzKjW90AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:sLDBR6uzxUwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAbel-Tauber%2Bprocess%2Band%2Basymptotic%2Bformulas%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sLDBR6uzxUwJ&ei=h7liYs7DKvmQ6rQPzKCxuAY&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=5532025265519177904&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:sLDBR6uzxUwJ:scholar.google.com/&scioq=Abel-Tauber+process+and+asymptotic+formulas&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.jstage.jst.go.jp/article/kyushujm/71/2/71_363/_pdf"
+            }
+        },
+        {
+            "title": "The average behaviour of the error term in a new kind of the divisor problem",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gzKjW90AAAAJ&pagesize=100&citation_for_view=gzKjW90AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "gzKjW90AAAAJ:u5HHmVD_uO8C",
+            "authors": "D Banerjee, M Minamide",
+            "publication": "Journal of Mathematical Analysis and Applications 438 (2), 533-550, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=467195123914297220",
+                "serpapi_link": "https://serpapi.com/search.json?cites=467195123914297220&engine=google_scholar&hl=en",
+                "cites_id": "467195123914297220"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "The average behaviour of the error term in a new kind of the divisor problem",
+                    "author": [
+                        "D Banerjee",
+                        "M Minamide"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Journal of Mathematical Analysis and \u2026",
+                    "abstract": "We define a new kind of divisor function D (1)(n) by the nth coefficient of the Dirichlet series (\u03b6\u2032(s)) 2 and denote by \u0394 (1)(x) the error term in the asymptotic formula for\u2211 n\u2264 x D (1)(n). Then we compute the first moment of \u0394 (1)(x) that is\u222b 1 X \u0394 (1)(x) dx and consider 'discrete mean values'\u2211 n\u2264 x \u0394 (1) k (n)(k= 1, 2) and deduce asymptotic formulas which are analogous to the results obtained by Vorono\u00ef, Hardy and Furuya."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022247X16001372",
+                "author_id": [
+                    "gzKjW90AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:hM-0aX3PewYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Baverage%2Bbehaviour%2Bof%2Bthe%2Berror%2Bterm%2Bin%2Ba%2Bnew%2Bkind%2Bof%2Bthe%2Bdivisor%2Bproblem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hM-0aX3PewYJ&ei=lLliYvnqBI2ymgHnvp6ICA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=467195123914297220&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:hM-0aX3PewYJ:scholar.google.com/&scioq=The+average+behaviour+of+the+error+term+in+a+new+kind+of+the+divisor+problem&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0022247X16001372"
+            }
+        },
+        {
+            "title": "Linearized product of two Riemann zeta functions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gzKjW90AAAAJ&pagesize=100&citation_for_view=gzKjW90AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "gzKjW90AAAAJ:9yKSN-GCB0IC",
+            "authors": "D Banerjee, J Mehta",
+            "publication": "Proceedings of the Japan Academy, Series A, Mathematical Sciences 90 (8 \u2026, 2014",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3265552666308285738",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3265552666308285738&engine=google_scholar&hl=en",
+                "cites_id": "3265552666308285738"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Linearized product of two Riemann zeta functions",
+                    "author": [
+                        "D Banerjee",
+                        "J Mehta"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Proceedings of the Japan Academy, Series \u2026",
+                    "abstract": "In this paper, we elucidate the well-known Wilton's formula for the product of two Riemann zeta functions. A proof of Wilton's expression for product of two zeta functions was given by M. Nakajima in~[5] using the Atkinson dissection. On the similar line we derive Wilton's formula using the Riesz sum of the order $\\kappa= 1$."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://projecteuclid.org/journals/proceedings-of-the-japan-academy-series-a-mathematical-sciences/volume-90/issue-8/Linearized-product-of-two-Riemann-zeta-functions/10.3792/pjaa.90.123.short",
+                "author_id": [
+                    "gzKjW90AAAAJ",
+                    "X7DozG4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KpWiLtmSUS0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLinearized%2Bproduct%2Bof%2Btwo%2BRiemann%2Bzeta%2Bfunctions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KpWiLtmSUS0J&ei=l7liYqaDBMLZmQHc1ovQAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=3265552666308285738&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KpWiLtmSUS0J:scholar.google.com/&scioq=Linearized+product+of+two+Riemann+zeta+functions&hl=en&as_sdt=0,33",
+                "eprint_url": "https://projecteuclid.org/journals/proceedings-of-the-japan-academy-series-a-mathematical-sciences/volume-90/issue-8/Linearized-product-of-two-Riemann-zeta-functions/10.3792/pjaa.90.123.pdf"
+            }
+        },
+        {
+            "title": "A Voronoi\u2013Oppenheim summation formula for totally real number fields",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gzKjW90AAAAJ&pagesize=100&citation_for_view=gzKjW90AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "gzKjW90AAAAJ:d1gkVwhDpl0C",
+            "authors": "D Banerjee, EM Baruch, E Tenetov",
+            "publication": "Journal of Number Theory 199, 63-97, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3128604205880213109",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3128604205880213109&engine=google_scholar&hl=en",
+                "cites_id": "3128604205880213109"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Voronoi\u2013Oppenheim summation formula for totally real number fields",
+                    "author": [
+                        "D Banerjee",
+                        "EM Baruch",
+                        "E Tenetov"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Journal of Number Theory",
+                    "abstract": "We obtain a Voronoi\u2013Oppenheim summation formula for divisor functions of totally real number fields. This generalizes a formula proved by Oppenheim in 1927. We use a similar method to the one developed by Beineke and Bump in order to prove the classical Oppenheim summation using a certain Eisenstein series and representation theory. Our formula has a simple formulation for real quadratic number fields."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022314X18301276",
+                "author_id": [
+                    "gzKjW90AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:dX5I_vIIaysJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BVoronoi%25E2%2580%2593Oppenheim%2Bsummation%2Bformula%2Bfor%2Btotally%2Breal%2Bnumber%2Bfields%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dX5I_vIIaysJ&ei=nbliYt69HLKO6rQPxdeOqA4&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=3128604205880213109&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dX5I_vIIaysJ:scholar.google.com/&scioq=A+Voronoi%E2%80%93Oppenheim+summation+formula+for+totally+real+number+fields&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Bounds of double zeta-functions and their applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gzKjW90AAAAJ&pagesize=100&citation_for_view=gzKjW90AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "gzKjW90AAAAJ:UeHWp8X0CEIC",
+            "authors": "D Banerjee, TM Minamide, Y Tanigawa",
+            "publication": "Pacific Journal of Mathematics 304 (1), 15-41, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Bounds of double zeta-functions and their applications",
+                    "author": [
+                        "D Banerjee",
+                        "TM Minamide",
+                        "Y Tanigawa"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Pacific Journal of Mathematics",
+                    "abstract": "In this paper, we shall improve the bounds on Euler\u2013Zagier type double zeta-functions in the region 0< Re sj< 1 (j= 1, 2) which provides a positive answer to a conjecture posed by Kiuchi and Tanigawa (2006). As an application, we improve the error term that appears in the asymptotic formula for the moment of the double zeta-function."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://msp.org/pjm/2020/304-1/p02.xhtml",
+                "author_id": [
+                    "gzKjW90AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:4es2HdD-kHwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBounds%2Bof%2Bdouble%2Bzeta-functions%2Band%2Btheir%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4es2HdD-kHwJ&ei=oLliYvqSJvmQ6rQPzKCxuAY&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "SOME RESULTS RELATED TO RIESZ SUM AND K-FREE INTEGERS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gzKjW90AAAAJ&pagesize=100&citation_for_view=gzKjW90AAAAJ:qjMakFHDy7sC",
+            "citation_id": "gzKjW90AAAAJ:qjMakFHDy7sC",
+            "authors": "D BANERJEE",
+            "publication": "HOMI BHABHA NATIONAL INSTITUTE, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SOME RESULTS RELATED TO RIESZ SUM AND K-FREE INTEGERS",
+                    "author": [
+                        "D BANERJEE"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "The first two chapters deal with the results related to Riesz sum and last chapter  comprises of results concerning k-free integers. The first chapter is based on a result   Now we shall move to next part of my thesis where we will discuss problems related to k-free  integers  On the similar line we derive Wilton\u2019s formula using Riesz sum of the order \u03ba = 1."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.hri.res.in/~libweb/theses/softcopy/debika-banerjee-math.pdf",
+                "author_id": [
+                    "gzKjW90AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:V8r7EAdmx2cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSOME%2BRESULTS%2BRELATED%2BTO%2BRIESZ%2BSUM%2BAND%2BK-FREE%2BINTEGERS%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=V8r7EAdmx2cJ&ei=pLliYtOsBZyO6rQP-viEEA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:V8r7EAdmx2cJ:scholar.google.com/&scioq=SOME+RESULTS+RELATED+TO+RIESZ+SUM+AND+K-FREE+INTEGERS&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.hri.res.in/~libweb/theses/softcopy/debika-banerjee-math.pdf"
+            }
+        },
+        {
+            "title": "On an analogue of Buchstab\u2019s identity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gzKjW90AAAAJ&pagesize=100&citation_for_view=gzKjW90AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "gzKjW90AAAAJ:u-x6o8ySG0sC",
+            "authors": "D Banerjee, M Minamide",
+            "publication": "NOTES ON NUMBER THEORY AND DISCRETE MATHEMATICS 22 (1), 8-17, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On an analogue of Buchstab's identity",
+                    "author": [
+                        "D Banerjee",
+                        "M Minamide"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NOTES ON NUMBER THEORY AND \u2026",
+                    "abstract": "n\u2264x,p|n\u21d2p>yf(n) and \u03c8(x, y;f) = \u2211n\u2264x,p|n\u21d2p<yf(n) for certain kinds of arithmetical functions  f and prove some identities for \u03a6 and \u03c8 which are analogous to the \u2018so-called\u2019 Buchstab  identity. As an application, we will prove some formulas for square-free integers. Keywords:   Some analogues of \u03a8(x, y) and \u03a6(x, y) are considered by Alladi [1, 2] and Ivic [9]. Being  motivated by these studies we shall consider analogues of Buchstab\u2019s identity and deduce  some results concerned with square-free integers."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.nntdm.net/papers/nntdm-22/NNTDM-22-1-08-17.pdf",
+                "author_id": [
+                    "gzKjW90AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:4wYBxugxCQwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Ban%2Banalogue%2Bof%2BBuchstab%25E2%2580%2599s%2Bidentity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4wYBxugxCQwJ&ei=p7liYo3tDbyCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:4wYBxugxCQwJ:scholar.google.com/&scioq=On+an+analogue+of+Buchstab%E2%80%99s+identity&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.nntdm.net/papers/nntdm-22/NNTDM-22-1-08-17.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 12,
+                    "since_2017": 11
+                }
+            },
+            {
+                "h_index": {
+                    "all": 3,
+                    "since_2017": 2
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 2
+            },
+            {
+                "year": 2018,
+                "citations": 2
+            },
+            {
+                "year": 2019,
+                "citations": 1
+            },
+            {
+                "year": 2020,
+                "citations": 2
+            },
+            {
+                "year": 2021,
+                "citations": 3
+            },
+            {
+                "year": 2022,
+                "citations": 1
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=gzKjW90AAAAJ",
+        "available": 0,
+        "not_available": 1
+    },
+    "co_authors": []
+}

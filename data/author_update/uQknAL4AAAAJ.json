@@ -1,0 +1,1288 @@
+{
+    "search_metadata": {
+        "id": "6256e100ada54b0fc4218b79",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9e3ec6cfce4afda4/6256e100ada54b0fc4218b79.json",
+        "created_at": "2022-04-13 14:41:04 UTC",
+        "processed_at": "2022-04-13 14:41:04 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=uQknAL4AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/9e3ec6cfce4afda4/6256e100ada54b0fc4218b79.html",
+        "total_time_taken": 0.21,
+        "total_articles": 24,
+        "total_co_authors": 19
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "uQknAL4AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Diptapriyo Majumdar",
+        "affiliations": "Indraprastha Institute of Information Technology Delhi, India",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://diptapriyomajumdar.wixsite.com/toto",
+        "interests": [
+            {
+                "title": "Graph Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:graph_algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agraph_algorithms"
+            },
+            {
+                "title": "Parameterized Complexity",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:parameterized_complexity",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparameterized_complexity"
+            },
+            {
+                "title": "Kernelization",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:kernelization",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Akernelization"
+            },
+            {
+                "title": "Exact Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:exact_algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aexact_algorithms"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uQknAL4AAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Revisiting connected vertex cover: FPT algorithms and lossy kernels",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:qjMakFHDy7sC",
+            "citation_id": "uQknAL4AAAAJ:qjMakFHDy7sC",
+            "authors": "R Krithika, D Majumdar, V Raman",
+            "publication": "Theory of Computing Systems 62 (8), 1690-1714, 2018",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13408544040491466134",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13408544040491466134&engine=google_scholar&hl=en",
+                "cites_id": "13408544040491466134"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Revisiting connected vertex cover: FPT algorithms and lossy kernels",
+                    "author": [
+                        "R Krithika",
+                        "D Majumdar",
+                        "V Raman"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Theory of Computing Systems",
+                    "abstract": "The Connected Vertex Cover problem asks for a vertex cover in a graph that induces a connected subgraph. The problem is known to be fixed-parameter tractable (FPT), and is unlikely to have a polynomial sized kernel (under complexity theoretic assumptions) when parameterized by the solution size. In a recent paper, Lokshtanov et al. STOC 2017, have shown an \u03b1-approximate kernel for the problem for every \u03b1> 1, in the framework of approximate or lossy kernelization. In this work, we exhibit lossy kernels and FPT algorithms"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00224-017-9837-y",
+                "author_id": [
+                    "nAeD9dUAAAAJ",
+                    "uQknAL4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:lr2saMO3FLoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRevisiting%2Bconnected%2Bvertex%2Bcover:%2BFPT%2Balgorithms%2Band%2Blossy%2Bkernels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lr2saMO3FLoJ&ei=nrxiYvuREYOEmgH1zZjACQ&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=13408544040491466134&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:lr2saMO3FLoJ:scholar.google.com/&scioq=Revisiting+connected+vertex+cover:+FPT+algorithms+and+lossy+kernels&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1711.07872"
+            }
+        },
+        {
+            "title": "Polynomial kernels for vertex cover parameterized by small degree modulators",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "uQknAL4AAAAJ:IjCSPb-OGe4C",
+            "authors": "D Majumdar, V Raman, S Saurabh",
+            "publication": "Theory of Computing Systems 62 (8), 1910-1951, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3967119832870221287",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3967119832870221287&engine=google_scholar&hl=en",
+                "cites_id": "3967119832870221287"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Polynomial kernels for vertex cover parameterized by small degree modulators",
+                    "author": [
+                        "D Majumdar",
+                        "V Raman",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Theory of Computing Systems",
+                    "abstract": "Vertex Cover is one of the most well studied problems in the realm of parameterized algorithms. It admits a kernel with O (\u2113 2) \u0307i\\!O(\u2113^2) edges and 2 \u2113 \u0307i\\!2\u2113 vertices where \u2113 \u0307i\\!\u2113 denotes the size of the vertex cover we are seeking for. A natural question is whether Vertex Cover is fixed-parameter tractable or admits a polynomial kernel with respect to a parameter k, that is, provably smaller than the size of the vertex cover. Jansen and Bodlaender STACS 2011, TOCS 2013 raised this question and gave a kernel for Vertex"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00224-018-9858-1",
+                "author_id": [
+                    "uQknAL4AAAAJ",
+                    "",
+                    "76_9TI0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5_WiI3gKDjcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolynomial%2Bkernels%2Bfor%2Bvertex%2Bcover%2Bparameterized%2Bby%2Bsmall%2Bdegree%2Bmodulators%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5_WiI3gKDjcJ&ei=qbxiYo6qOpWMy9YPt8OamA0&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=3967119832870221287&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5_WiI3gKDjcJ:scholar.google.com/&scioq=Polynomial+kernels+for+vertex+cover+parameterized+by+small+degree+modulators&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.imsc.res.in/~diptapriyom/vc-ipec-tocs.pdf"
+            }
+        },
+        {
+            "title": "Kernels for structural parameterizations of vertex cover-case of small degree modulators",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "uQknAL4AAAAJ:u5HHmVD_uO8C",
+            "authors": "D Majumdar, V Raman, S Saurabh",
+            "publication": "10th International Symposium on Parameterized and Exact Computation (IPEC 2015), 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5147977593268628754",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5147977593268628754&engine=google_scholar&hl=en",
+                "cites_id": "5147977593268628754"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Kernels for structural parameterizations of vertex cover-case of small degree modulators",
+                    "author": [
+                        "D Majumdar",
+                        "V Raman",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "\u2026 International Symposium on \u2026",
+                    "abstract": "Vertex Cover is one of the most well studied problems in the realm of parameterized algorithms and admits a kernel with O (l^ 2) edges and 2* l vertices. Here, l denotes the size of a vertex cover we are seeking for. A natural question is whether Vertex Cover admits a polynomial kernel (or a parameterized algorithm) with respect to a parameter k, that is, provably smaller than the size of the vertex cover. Jansen and Bodlaender [STACS 2011, TOCS 2013] raised this question and gave a kernel for Vertex Cover of size O (f^ 3), where f"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://drops.dagstuhl.de/opus/volltexte/2015/5594/",
+                "author_id": [
+                    "uQknAL4AAAAJ",
+                    "",
+                    "76_9TI0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Em1yjlhKcUcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKernels%2Bfor%2Bstructural%2Bparameterizations%2Bof%2Bvertex%2Bcover-case%2Bof%2Bsmall%2Bdegree%2Bmodulators%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Em1yjlhKcUcJ&ei=rbxiYujeG5GJmwGIxre4DA&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=5147977593268628754&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Em1yjlhKcUcJ:scholar.google.com/&scioq=Kernels+for+structural+parameterizations+of+vertex+cover-case+of+small+degree+modulators&hl=en&as_sdt=0,33",
+                "eprint_url": "https://drops.dagstuhl.de/opus/volltexte/2015/5594/pdf/31.pdf"
+            }
+        },
+        {
+            "title": "Structural parameterizations of undirected feedback vertex set: FPT algorithms and kernelization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "uQknAL4AAAAJ:UeHWp8X0CEIC",
+            "authors": "D Majumdar, V Raman",
+            "publication": "Algorithmica 80 (9), 2683-2724, 2018",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6028696947639541588",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6028696947639541588&engine=google_scholar&hl=en",
+                "cites_id": "6028696947639541588"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Structural parameterizations of undirected feedback vertex set: FPT algorithms and kernelization",
+                    "author": [
+                        "D Majumdar",
+                        "V Raman"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Algorithmica",
+                    "abstract": "A feedback vertex set in an undirected graph is a subset of vertices whose removal results in an acyclic graph. We consider the parameterized and kernelization complexity of feedback vertex set where the parameter is the size of some structure in the input. In particular, we consider parameterizations where the parameter is (instead of the solution size), the distance to a class of graphs where the problem is polynomial time solvable, and sometimes smaller than the solution size. Here, by distance to a class of graphs, we mean the minimum"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00453-018-0419-4",
+                "author_id": [
+                    "uQknAL4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:VF-Jtu47qlMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructural%2Bparameterizations%2Bof%2Bundirected%2Bfeedback%2Bvertex%2Bset:%2BFPT%2Balgorithms%2Band%2Bkernelization%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VF-Jtu47qlMJ&ei=srxiYpbeAs6E6rQPz8uiuAc&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=6028696947639541588&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VF-Jtu47qlMJ:scholar.google.com/&scioq=Structural+parameterizations+of+undirected+feedback+vertex+set:+FPT+algorithms+and+kernelization&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.imsc.res.in/~diptapriyom/fvs-algo.pdf"
+            }
+        },
+        {
+            "title": "Structural parameterizations of feedback vertex set",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "uQknAL4AAAAJ:u-x6o8ySG0sC",
+            "authors": "D Majumdar",
+            "publication": "11th International Symposium on Parameterized and Exact Computation (IPEC 2016), 2017",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=294249882447666823",
+                "serpapi_link": "https://serpapi.com/search.json?cites=294249882447666823&engine=google_scholar&hl=en",
+                "cites_id": "294249882447666823"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Structural parameterizations of feedback vertex set",
+                    "author": [
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "\u2026 on Parameterized and Exact Computation (IPEC \u2026",
+                    "abstract": "A feedback vertex set in an undirected graph is a subset of vertices whose removal results in an acyclic graph. It is well-known that the problem of finding a minimum sized (or k sized in case of decision version of) feedback vertex set (FVS) is polynomial time solvable in (sub)-cubic graphs, in pseudo-forests (graphs where each component has at most one cycle) and mock-forests (graph where each vertex is part of at most one cycle). In general graphs, it is known that the problem is NP-Complete, and has an O*((3.619)^ k) fixed-parameter"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://drops.dagstuhl.de/opus/volltexte/2017/6933/",
+                "author_id": [
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:h15-hrViFQQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructural%2Bparameterizations%2Bof%2Bfeedback%2Bvertex%2Bset%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=h15-hrViFQQJ&ei=tLxiYvLAHsLZmQHc1ovQAg&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=294249882447666823&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:h15-hrViFQQJ:scholar.google.com/&scioq=Structural+parameterizations+of+feedback+vertex+set&hl=en&as_sdt=0,33",
+                "eprint_url": "https://drops.dagstuhl.de/opus/volltexte/2017/6933/pdf/LIPIcs-IPEC-2016-21.pdf"
+            }
+        },
+        {
+            "title": "Parameterized pre-coloring extension and list coloring problems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "uQknAL4AAAAJ:_FxGoFyzp5QC",
+            "authors": "G Gutin, D Majumdar, S Ordyniak, M Wahlstro\u0308m",
+            "publication": "SIAM Journal on Discrete Mathematics 35 (1), 575-596, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2960521999869626471",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2960521999869626471&engine=google_scholar&hl=en",
+                "cites_id": "2960521999869626471"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Parameterized pre-coloring extension and list coloring problems",
+                    "author": [
+                        "G Gutin",
+                        "D Majumdar",
+                        "S Ordyniak"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "SIAM Journal on Discrete \u2026",
+                    "abstract": "Golovach, Paulusma, and Song Inform. and Comput., 237 (2014), pp. 204--214 asked to determine the parameterized complexity of the following problems parameterized by k: 1. Given a graph G, a clique modulator D (a clique modulator is a set of vertices, whose removal results in a clique) of size k for G, and a list L(v) of colors for every v\u2208V(G), decide whether G has a proper list coloring. 2. Given a graph G, a clique modulator D of size k for G, and a pre-coloring \\lambda_P:X\u2192Q for X\u2286V(G), decide whether \\lambda_P can be"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/20M1323369",
+                "author_id": [
+                    "JR5DwxoAAAAJ",
+                    "uQknAL4AAAAJ",
+                    "CkB7r4MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Z0j1xxLjFSkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DParameterized%2Bpre-coloring%2Bextension%2Band%2Blist%2Bcoloring%2Bproblems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Z0j1xxLjFSkJ&ei=t7xiYtL5L5WMy9YPt8OamA0&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=2960521999869626471&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Z0j1xxLjFSkJ:scholar.google.com/&scioq=Parameterized+pre-coloring+extension+and+list+coloring+problems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1907.12061"
+            }
+        },
+        {
+            "title": "On the approximate compressibility of connected vertex cover",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:WF5omc3nYNoC",
+            "citation_id": "uQknAL4AAAAJ:WF5omc3nYNoC",
+            "authors": "D Majumdar, MS Ramanujan, S Saurabh",
+            "publication": "Algorithmica 82 (10), 2902-2926, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9382124066753837891",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9382124066753837891&engine=google_scholar&hl=en",
+                "cites_id": "9382124066753837891"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the approximate compressibility of connected vertex cover",
+                    "author": [
+                        "D Majumdar",
+                        "MS Ramanujan",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Algorithmica",
+                    "abstract": "The Connected Vertex Cover problem, where the goal is to compute a minimum set of vertices in a given graph which forms a vertex cover and induces a connected subgraph, is a fundamental combinatorial problem and has received extensive attention in various subdomains of algorithmics. In the area of kernelization, it is known that this problem is unlikely to have a polynomial kernelization algorithm. However, it has been shown in a recent work of Lokshtanov et al.(Proceedings of the 49th annual ACM SIGACT symposium"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00453-020-00708-4",
+                "author_id": [
+                    "uQknAL4AAAAJ",
+                    "XMuyXpEAAAAJ",
+                    "76_9TI0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Q3uBTSEANIIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bthe%2Bapproximate%2Bcompressibility%2Bof%2Bconnected%2Bvertex%2Bcover%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Q3uBTSEANIIJ&ei=u7xiYoiMFrKO6rQPxdeOqA4&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=9382124066753837891&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Q3uBTSEANIIJ:scholar.google.com/&scioq=On+the+approximate+compressibility+of+connected+vertex+cover&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1905.03379"
+            }
+        },
+        {
+            "title": "Kernelization of cycle packing with relaxed disjointness constraints",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "uQknAL4AAAAJ:2osOgNQ5qMEC",
+            "authors": "A Agrawal, D Lokshtanov, D Majumdar, AE Mouawad, S Saurabh",
+            "publication": "SIAM Journal on Discrete Mathematics 32 (3), 1619-1643, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9640465991945812143",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9640465991945812143&engine=google_scholar&hl=en",
+                "cites_id": "9640465991945812143"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Kernelization of cycle packing with relaxed disjointness constraints",
+                    "author": [
+                        "A Agrawal",
+                        "D Lokshtanov",
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "SIAM Journal on Discrete \u2026",
+                    "abstract": "A key result in the field of kernelization, a subfield of parameterized complexity, states that the classic Disjoint Cycle Packing problem, ie, finding k vertex disjoint cycles in a given graph G, admits no polynomial kernel unless \\sfNP\u2286\\sfcoNP/\\sfpoly. However, very little is known about this problem beyond the aforementioned kernelization lower bound (within the parameterized complexity framework). In the hope of clarifying the picture and better understanding the types of constraints that separate kernelizable from nonkernelizable"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/17M1136614",
+                "author_id": [
+                    "V_2z1BEAAAAJ",
+                    "vaQGFLsAAAAJ",
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:r_gpB77QyYUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKernelization%2Bof%2Bcycle%2Bpacking%2Bwith%2Brelaxed%2Bdisjointness%2Bconstraints%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=r_gpB77QyYUJ&ei=v7xiYq-CF42ymgHnvp6ICA&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=9640465991945812143&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:r_gpB77QyYUJ:scholar.google.com/&scioq=Kernelization+of+cycle+packing+with+relaxed+disjointness+constraints&hl=en&as_sdt=0,33",
+                "eprint_url": "https://drops.dagstuhl.de/opus/volltexte/2016/6305/pdf/LIPIcs-ICALP-2016-26.pdf"
+            }
+        },
+        {
+            "title": "Parameterized complexity of deletion to scattered graph classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:0EnyYjriUFMC",
+            "citation_id": "uQknAL4AAAAJ:0EnyYjriUFMC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "International Symposium on Parameterized and Exact Computation 180, 18:1-18:17, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12952211478848549017",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12952211478848549017&engine=google_scholar&hl=en",
+                "cites_id": "12952211478848549017"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Parameterized complexity of deletion to scattered graph classes",
+                    "author": [
+                        "A Jacob",
+                        "JJH de Kroon",
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Graph-modification problems, where we add/delete a small number of vertices/edges to make the given graph to belong to a simpler graph class, is a well-studied optimization problem in all algorithmic paradigms including classical, approximation and parameterized complexity. Specifically, graph-deletion problems, where one needs to delete at most $ k $ vertices to place it in a given non-trivial hereditary (closed under induced subgraphs) graph class, captures several well-studied problems including {\\sc Vertex Cover},{\\sc Feedback"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2105.04660",
+                "author_id": [
+                    "",
+                    "",
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mTCBXLd_v7MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DParameterized%2Bcomplexity%2Bof%2Bdeletion%2Bto%2Bscattered%2Bgraph%2Bclasses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mTCBXLd_v7MJ&ei=xbxiYrKdFKKUy9YPyMyGkAI&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=12952211478848549017&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mTCBXLd_v7MJ:scholar.google.com/&scioq=Parameterized+complexity+of+deletion+to+scattered+graph+classes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2105.04660"
+            }
+        },
+        {
+            "title": "FPT algorithms for FVS parameterized by split and cluster vertex deletion sets and other parameters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "uQknAL4AAAAJ:d1gkVwhDpl0C",
+            "authors": "D Majumdar, V Raman",
+            "publication": "International Workshop on Frontiers in Algorithmics, 209-220, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7769900897300948725",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7769900897300948725&engine=google_scholar&hl=en",
+                "cites_id": "7769900897300948725"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "FPT algorithms for FVS parameterized by split and cluster vertex deletion sets and other parameters",
+                    "author": [
+                        "D Majumdar",
+                        "V Raman"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "International Workshop on Frontiers in \u2026",
+                    "abstract": "A feedback vertex set in an undirected graph is a subset of vertices whose deletion results in an acyclic graph. The problem (which we call FVS) of finding a minimum (or k sized) feedback vertex set is NP-hard in general graphs, while it is polynomial time solvable in some classes of graphs including split graphs and cluster graphs. The current best fixed-parameter tractable (FPT) algorithm for determining whether a given undirected graph has a feedback vertex set of size at most k has a runtime of\\mathcal O^*(3.618^ k)(\\mathcal O"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-59605-1_19",
+                "author_id": [
+                    "uQknAL4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:9aacC7M71GsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFPT%2Balgorithms%2Bfor%2BFVS%2Bparameterized%2Bby%2Bsplit%2Band%2Bcluster%2Bvertex%2Bdeletion%2Bsets%2Band%2Bother%2Bparameters%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9aacC7M71GsJ&ei=yLxiYoaqF42ymgHnvp6ICA&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7769900897300948725&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9aacC7M71GsJ:scholar.google.com/&scioq=FPT+algorithms+for+FVS+parameterized+by+split+and+cluster+vertex+deletion+sets+and+other+parameters&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Diptapriyo-Majumdar/publication/318013395_FPT_Algorithms_for_FVS_Parameterized_by_Split_and_Cluster_Vertex_Deletion_Sets_and_Other_Parameters/links/59d07b000f7e9b4fd7f69263/FPT-Algorithms-for-FVS-Parameterized-by-Split-and-Cluster-Vertex-Deletion-Sets-and-Other-Parameters.pdf"
+            }
+        },
+        {
+            "title": "Exact and Parameterized Algorithms for (k, i)-Coloring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "uQknAL4AAAAJ:9yKSN-GCB0IC",
+            "authors": "D Majumdar, R Neogi, V Raman, P Tale",
+            "publication": "Conference on Algorithms and Discrete Applied Mathematics, 281-293, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8699383635623627808",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8699383635623627808&engine=google_scholar&hl=en",
+                "cites_id": "8699383635623627808"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exact and Parameterized Algorithms for (k, i)-Coloring",
+                    "author": [
+                        "D Majumdar",
+                        "R Neogi",
+                        "V Raman",
+                        "P Tale"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Conference on Algorithms and \u2026",
+                    "abstract": "Graph coloring problem asks to assign a color to every vertex such that adjacent vertices get different color. There have been different ways to generalize classical graph coloring problem. Among them, we study (k, i)-coloring of a graph. In (k, i)-coloring, every vertex is assigned a set of k colors so that adjacent vertices share at most i colors between them. The (k, i)-chromatic number of a graph is the minimum number of total colors used to assign a proper (k, i)-coloring. It is clear that (1, 0)-coloring is equivalent to the classical graph"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-53007-9_25",
+                "author_id": [
+                    "uQknAL4AAAAJ",
+                    "AlOpkuIAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:IEwxRlNrungJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExact%2Band%2BParameterized%2BAlgorithms%2Bfor%2B(k,%2Bi)-Coloring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IEwxRlNrungJ&ei=zLxiYvfYArKO6rQPxdeOqA4&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=8699383635623627808&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IEwxRlNrungJ:scholar.google.com/&scioq=Exact+and+Parameterized+Algorithms+for+(k,+i)-Coloring&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Diptapriyo-Majumdar/publication/313252443_Exact_and_Parameterized_Algorithms_for_k_i-Coloring/links/59d07cf20f7e9b4fd7f6c711/Exact-and-Parameterized-Algorithms-for-k-i-Coloring.pdf"
+            }
+        },
+        {
+            "title": "Parameterized complexity of conflict-free set cover",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:ufrVoPGSRksC",
+            "citation_id": "uQknAL4AAAAJ:ufrVoPGSRksC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "Theory of Computing Systems 65 (3), 515-540, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9707278340164111422",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9707278340164111422&engine=google_scholar&hl=en",
+                "cites_id": "9707278340164111422"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Parameterized complexity of conflict-free set cover",
+                    "author": [
+                        "A Jacob",
+                        "D Majumdar",
+                        "V Raman"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Theory of Computing Systems",
+                    "abstract": "Set Cover is one of the well-known classical NP-hard problems. We study the conflict-free version of the Set Cover problem. Here we have a universe UU, a family FF of subsets of UU and a graph GF G_F on the vertex set FF and we look for a subfamily F\u2032\u2286 FF^\u2032\u2286F of minimum size that covers UU and also forms an independent set in GF G_F. We study conflict-free Set Cover in parameterized complexity by restricting the focus to the variants where Set Cover is fixed parameter tractable (FPT). We give upper bounds and lower"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00224-020-10022-9",
+                "author_id": [
+                    "",
+                    "uQknAL4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:PkxTETgut4YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DParameterized%2Bcomplexity%2Bof%2Bconflict-free%2Bset%2Bcover%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PkxTETgut4YJ&ei=0bxiYqXWJ5yO6rQP-viEEA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=9707278340164111422&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PkxTETgut4YJ:scholar.google.com/&scioq=Parameterized+complexity+of+conflict-free+set+cover&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pure.royalholloway.ac.uk/portal/files/40220434/conflict_free_set_cover.pdf"
+            }
+        },
+        {
+            "title": "Bounded and approximate strong satisfiability in workflows",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "uQknAL4AAAAJ:YsMSGLbcyi4C",
+            "authors": "J Crampton, G Gutin, D Majumdar",
+            "publication": "Proceedings of the 24th ACM Symposium on Access Control Models and \u2026, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2318060716547732736",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2318060716547732736&engine=google_scholar&hl=en",
+                "cites_id": "2318060716547732736"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Bounded and approximate strong satisfiability in workflows",
+                    "author": [
+                        "J Crampton",
+                        "G Gutin",
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026 of the 24th ACM Symposium on \u2026",
+                    "abstract": "There has been a considerable amount of interest in recent years in the problem of workflow satisfiability, which asks whether the existence of constraints in a workflow specification makes it impossible to allocate authorized users to each step in the workflow. Recent developments have seen the workflow satisfiability problem (WSP) studied in the context of workflow specifications in which the set of steps may vary from one instance of the workflow to another. This, in turn, means that some constraints may only apply to certain workflow"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3322431.3325418",
+                "author_id": [
+                    "asPMwYoAAAAJ",
+                    "JR5DwxoAAAAJ",
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:AHWdqfBnKyAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBounded%2Band%2Bapproximate%2Bstrong%2Bsatisfiability%2Bin%2Bworkflows%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AHWdqfBnKyAJ&ei=1LxiYrL7H4yuyASD3KfABw&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=2318060716547732736&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:AHWdqfBnKyAJ:scholar.google.com/&scioq=Bounded+and+approximate+strong+satisfiability+in+workflows&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1904.07234"
+            }
+        },
+        {
+            "title": "Structural parameterizations of dominating set variants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "uQknAL4AAAAJ:zYLM7Y9cAGgC",
+            "authors": "D Goyal, A Jacob, K Kumar, D Majumdar, V Raman",
+            "publication": "International Computer Science Symposium in Russia, 157-168, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12436124294322796630",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12436124294322796630&engine=google_scholar&hl=en",
+                "cites_id": "12436124294322796630"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Structural parameterizations of dominating set variants",
+                    "author": [
+                        "D Goyal",
+                        "A Jacob",
+                        "K Kumar",
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Science Symposium in \u2026",
+                    "abstract": "We consider structural parameterizations of the fundamental dominating set problem and its variants in the parameter ecology program. We give improved fixed-parameter tractable (FPT) algorithms and lower bounds under well-known conjectures for dominating set in graphs that are k vertices away from a cluster graph or a split graph. These are graphs in which there is a set of k vertices (called the modulator) whose deletion results in a cluster graph or a split graph. We also call k as the deletion distance (to the appropriate class of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-90530-3_14",
+                "author_id": [
+                    "2DSJgpsAAAAJ",
+                    "",
+                    "",
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Vji3ASj9lawJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructural%2Bparameterizations%2Bof%2Bdominating%2Bset%2Bvariants%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Vji3ASj9lawJ&ei=17xiYomrIY2ymgHnvp6ICA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=12436124294322796630&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Vji3ASj9lawJ:scholar.google.com/&scioq=Structural+parameterizations+of+dominating+set+variants&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Valued Authorization Policy Existence Problem",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:UebtZRa9Y70C",
+            "citation_id": "uQknAL4AAAAJ:UebtZRa9Y70C",
+            "authors": "J Crampton, E Eiben, G Gutin, D Karapetyan, D Majumdar",
+            "publication": "Proceedings of the 26th ACM Symposium on Access Control Models and \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1821992441049270330",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1821992441049270330&engine=google_scholar&hl=en",
+                "cites_id": "1821992441049270330"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Valued Authorization Policy Existence Problem",
+                    "author": [
+                        "J Crampton",
+                        "E Eiben",
+                        "G Gutin",
+                        "D Karapetyan"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 26th \u2026",
+                    "abstract": "Problems of satisfiability and resiliency in workflows have been widely studied in the last decade. Recent work has shown that many such problems may be viewed as special cases of the authorization policy existence problem (APEP), which returns an authorization policy if one exists and\" No''otherwise. A solution may not exist because of the restrictions imposed by the base authorization relation and constraints that form part of the input to APEP."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3450569.3463571",
+                "author_id": [
+                    "asPMwYoAAAAJ",
+                    "VzCxpJcAAAAJ",
+                    "JR5DwxoAAAAJ",
+                    "O-rI2E0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OkgwyHgESRkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DValued%2BAuthorization%2BPolicy%2BExistence%2BProblem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OkgwyHgESRkJ&ei=3rxiYoz9CbKO6rQPxdeOqA4&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=1821992441049270330&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:OkgwyHgESRkJ:scholar.google.com/&scioq=Valued+Authorization+Policy+Existence+Problem&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pure.royalholloway.ac.uk/portal/files/41951385/sacmat_2021_04_18.pdf"
+            }
+        },
+        {
+            "title": "Deletion to Scattered Graph Classes II--Improved FPT Algorithms for Deletion to Pairs of Graph Classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "uQknAL4AAAAJ:MXK_kJrjxJIC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "arXiv preprint arXiv:2201.03142, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Deletion to Scattered Graph Classes II--Improved FPT Algorithms for Deletion to Pairs of Graph Classes",
+                    "author": [
+                        "A Jacob",
+                        "D Majumdar",
+                        "V Raman"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2201.03142",
+                    "abstract": "Let $\\Pi $ be a hereditary graph class. The problem of deletion to $\\Pi $, takes as input a graph $ G $ and asks for a minimum number (or a fixed integer $ k $) of vertices to be deleted from $ G $ so that the resulting graph belongs to $\\Pi $. This is a well-studied problem in paradigms including approximation and parameterized complexity. Recently, the study of a natural extension of the problem was initiated where we are given a finite set of hereditary graph classes, and the goal is to determine whether $ k $ vertices can be deleted"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2201.03142",
+                "author_id": [
+                    "",
+                    "uQknAL4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:FzMg4sWkB4cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDeletion%2Bto%2BScattered%2BGraph%2BClasses%2BII--Improved%2BFPT%2BAlgorithms%2Bfor%2BDeletion%2Bto%2BPairs%2Bof%2BGraph%2BClasses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FzMg4sWkB4cJ&ei=5LxiYq_kJoOEmgH1zZjACQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:FzMg4sWkB4cJ:scholar.google.com/&scioq=Deletion+to+Scattered+Graph+Classes+II--Improved+FPT+Algorithms+for+Deletion+to+Pairs+of+Graph+Classes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2201.03142"
+            }
+        },
+        {
+            "title": "Deletion to Scattered Graph Classes I -- case of finite number of graph classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:kNdYIx-mwKoC",
+            "citation_id": "uQknAL4AAAAJ:kNdYIx-mwKoC",
+            "authors": "A Jacob, JJH Kroon, D Majumdar, V Raman",
+            "publication": "https://arxiv.org/abs/2105.04660v2, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Parameterized complexity of deletion to scattered graph classes",
+                    "author": [
+                        "A Jacob",
+                        "JJH de Kroon",
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "the deletion problem corresponding to each of the finite classes is  a graph belongs to each  of the classes is expressible in CMSO logic. When each graph class has a finite forbidden set"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2105.04660",
+                "author_id": [
+                    "",
+                    "",
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mTCBXLd_v7MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDeletion%2Bto%2BScattered%2BGraph%2BClasses%2BI%2B--%2Bcase%2Bof%2Bfinite%2Bnumber%2Bof%2Bgraph%2Bclasses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mTCBXLd_v7MJ&ei=57xiYp-OL5LeyQTms5KQBg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=12952211478848549017&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mTCBXLd_v7MJ:scholar.google.com/&scioq=Deletion+to+Scattered+Graph+Classes+I+--+case+of+finite+number+of+graph+classes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2105.04660"
+            }
+        },
+        {
+            "title": "Constrained Hitting Set Problem with Intervals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:8k81kl-MbHgC",
+            "citation_id": "uQknAL4AAAAJ:8k81kl-MbHgC",
+            "authors": "A Acharyya, V Keikha, D Majumdar, S Pandit",
+            "publication": "International Computing and Combinatorics Conference, 604-616, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Constrained Hitting Set Problem with Intervals",
+                    "author": [
+                        "A Acharyya",
+                        "V Keikha",
+                        "D Majumdar",
+                        "S Pandit"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "International Computing \u2026",
+                    "abstract": "We study a constrained version of the Geometric Hitting Set problem where we are given a set of points, partitioned into disjoint subsets, and a set of intervals. The objective is to hit all the intervals with a minimum number of points such that if we select a point from a subset then we must select all the points from that subset. In general, when the intervals are disjoint, we prove that the problem is in FPT, when parameterized by the size of the solution. We also complement this result by giving a lower bound in the size of the kernel for disjoint intervals"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-89543-3_50",
+                "author_id": [
+                    "BcouO7cAAAAJ",
+                    "1-6dmjoAAAAJ",
+                    "uQknAL4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:_POxr1jKbxkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConstrained%2BHitting%2BSet%2BProblem%2Bwith%2BIntervals%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_POxr1jKbxkJ&ei=6rxiYr3sJPmQ6rQPzKCxuAY&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:_POxr1jKbxkJ:scholar.google.com/&scioq=Constrained+Hitting+Set+Problem+with+Intervals&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pure.royalholloway.ac.uk/portal/files/43172611/COCOON_Final_Version.pdf"
+            }
+        },
+        {
+            "title": "Faster FPT Algorithms for Deletion to Pairs of Graph Classes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:5nxA0vEk-isC",
+            "citation_id": "uQknAL4AAAAJ:5nxA0vEk-isC",
+            "authors": "A Jacob, D Majumdar, V Raman",
+            "publication": "International Symposium on Fundamentals of Computation Theory, 314-326, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Faster FPT Algorithms for Deletion to Pairs of Graph Classes",
+                    "author": [
+                        "A Jacob",
+                        "D Majumdar",
+                        "V Raman"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "International Symposium on \u2026",
+                    "abstract": "Let\\varPi \u03a0 be a hereditary graph class. The problem of deletion to\\varPi \u03a0, takes as input a graph G and asks for a minimum number (or a fixed integer k) of vertices to be deleted from G so that the resulting graph belongs to\\varPi \u03a0. This is a well-studied problem in paradigms including approximation and parameterized complexity. This problem, for example, generalizes vertex cover, feedback vertex set, cluster vertex deletion, perfect deletion to name a few. The study of this problem in parameterized complexity has resulted in several"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-86593-1_22",
+                "author_id": [
+                    "",
+                    "uQknAL4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:07q4O0a7mAsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFaster%2BFPT%2BAlgorithms%2Bfor%2BDeletion%2Bto%2BPairs%2Bof%2BGraph%2BClasses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=07q4O0a7mAsJ&ei=7bxiYoPnHLKO6rQPxdeOqA4&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:07q4O0a7mAsJ:scholar.google.com/&scioq=Faster+FPT+Algorithms+for+Deletion+to+Pairs+of+Graph+Classes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pure.royalholloway.ac.uk/portal/files/42673422/scattered_classes_main.pdf"
+            }
+        },
+        {
+            "title": "Towards Better Understanding of User Authorization Query via Multi-variable Complexity Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "uQknAL4AAAAJ:hqOjcs7Dif8C",
+            "authors": "J Crampton, G Gutin, D Majumdar",
+            "publication": "ACM Transactions on Privacy and Security 24 (3), 21:1-21:22, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Towards Better Understanding of User Authorization Query Problem via Multi-variable Complexity Analysis",
+                    "author": [
+                        "J Crampton",
+                        "GZ Gutin",
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "ACM Transactions on Privacy and \u2026",
+                    "abstract": "User authorization queries in the context of role-based access control have attracted considerable interest in the past 15 years. Such queries are used to determine whether it is possible to allocate a set of roles to a user that enables the user to complete a task, in the sense that all the permissions required to complete the task are assigned to the roles in that set. Answering such a query, in general, must take into account a number of factors, including, but not limited to, the roles to which the user is assigned and constraints on the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3450768",
+                "author_id": [
+                    "asPMwYoAAAAJ",
+                    "JR5DwxoAAAAJ",
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TdpdayN85z4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2BBetter%2BUnderstanding%2Bof%2BUser%2BAuthorization%2BQuery%2Bvia%2BMulti-variable%2BComplexity%2BAnalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TdpdayN85z4J&ei=87xiYsq6C8LZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:TdpdayN85z4J:scholar.google.com/&scioq=Towards+Better+Understanding+of+User+Authorization+Query+via+Multi-variable+Complexity+Analysis&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2104.05983"
+            }
+        },
+        {
+            "title": "Valued Authorization Policy Existence Problem: Theory and Experiments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:3fE2CSJIrl8C",
+            "citation_id": "uQknAL4AAAAJ:3fE2CSJIrl8C",
+            "authors": "J Crampton, E Eiben, G Gutin, D Karapetyan, D Majumdar",
+            "publication": "arXiv preprint arXiv:2106.05761, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Valued Authorization Policy Existence Problem: Theory and Experiments",
+                    "author": [
+                        "J Crampton",
+                        "E Eiben",
+                        "G Gutin",
+                        "D Karapetyan"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Recent work has shown that many problems of satisfiability and resiliency in workflows may be viewed as special cases of the authorization policy existence problem (APEP), which returns an authorization policy if one exists and'No'otherwise. However, in many practical settings it would be more useful to obtain a'least bad'policy than just a'No', where'least bad'is characterized by some numerical value indicating the extent to which the policy violates the base authorization relation and constraints. Accordingly, we introduce the Valued APEP"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2106.05761",
+                "author_id": [
+                    "asPMwYoAAAAJ",
+                    "VzCxpJcAAAAJ",
+                    "JR5DwxoAAAAJ",
+                    "O-rI2E0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2-gh1Asl_ywJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DValued%2BAuthorization%2BPolicy%2BExistence%2BProblem:%2BTheory%2Band%2BExperiments%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2-gh1Asl_ywJ&ei=97xiYpbUB46pywSdh6agAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:2-gh1Asl_ywJ:scholar.google.com/&scioq=Valued+Authorization+Policy+Existence+Problem:+Theory+and+Experiments&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2106.05761"
+            }
+        },
+        {
+            "title": "p-Edge/Vertex-Connected Vertex Cover: Parameterized and Approximation Algorithms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "uQknAL4AAAAJ:LkGwnXOMwfcC",
+            "authors": "C Einarson, G Gutin, BMP Jansen, D Majumdar, M Wahlstrom",
+            "publication": "arXiv preprint arXiv:2009.08158, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "p-Edge/Vertex-Connected Vertex Cover: Parameterized and Approximation Algorithms",
+                    "author": [
+                        "C Einarson",
+                        "G Gutin",
+                        "BMP Jansen",
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "We introduce and study two natural generalizations of the Connected VertexCover (VC) problem: the $ p $-Edge-Connected and $ p $-Vertex-Connected VC problem (where $ p\\geq 2$ is a fixed integer). Like Connected VC, both new VC problems are FPT, but do not admit a polynomial kernel unless $ NP\\subseteq coNP/poly $, which is highly unlikely. We prove however that both problems admit time efficient polynomial sized approximate kernelization schemes. We obtain an $ O (2^{O (pk)} n^{O (1)}) $-time algorithm for the $ p"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2009.08158",
+                "author_id": [
+                    "",
+                    "JR5DwxoAAAAJ",
+                    "h8FEAYMAAAAJ",
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:1edS4L1V3JMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dp-Edge/Vertex-Connected%2BVertex%2BCover:%2BParameterized%2Band%2BApproximation%2BAlgorithms%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1edS4L1V3JMJ&ei=-rxiYq-EB-HDywTjooCQBQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:1edS4L1V3JMJ:scholar.google.com/&scioq=p-Edge/Vertex-Connected+Vertex+Cover:+Parameterized+and+Approximation+Algorithms&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2009.08158"
+            }
+        },
+        {
+            "title": "Tractability of K\u00f6nig edge deletion problems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "uQknAL4AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "D Majumdar, R Neogi, V Raman, S Vaishali",
+            "publication": "Theoretical Computer Science 796, 207-215, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Tractability of K\u00f6nig edge deletion problems",
+                    "author": [
+                        "D Majumdar",
+                        "R Neogi",
+                        "V Raman",
+                        "S Vaishali"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Theoretical Computer Science",
+                    "abstract": "A graph is said to be a K\u00f6nig graph if the size of its maximum matching is equal to the size of its minimum vertex cover. The K\u00f6nig Edge Deletion problem asks if in a given graph there exists a set of at most k edges whose deletion results in a K\u00f6nig graph. While the vertex version of the problem (K\u00f6nig vertex deletion) has been shown to be fixed-parameter tractable more than a decade ago, the fixed-parameter-tractability of the K\u00f6nig Edge Deletion problem has been open since then, and has been conjectured to be W [1]-hard in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0304397519305559",
+                "author_id": [
+                    "uQknAL4AAAAJ",
+                    "AlOpkuIAAAAJ",
+                    "",
+                    "iru-a1QAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4vYOpJOuxEsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTractability%2Bof%2BK%25C3%25B6nig%2Bedge%2Bdeletion%2Bproblems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4vYOpJOuxEsJ&ei=_bxiYp2ZEJLeyQTms5KQBg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:4vYOpJOuxEsJ:scholar.google.com/&scioq=Tractability+of+K%C3%B6nig+edge+deletion+problems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1811.04560"
+            }
+        },
+        {
+            "title": "Classical and Approximate Kernels for Structural Parameterizations of some Graph Parameters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uQknAL4AAAAJ&pagesize=100&citation_for_view=uQknAL4AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "uQknAL4AAAAJ:Y0pCki6q_DkC",
+            "authors": "D Majumdar",
+            "publication": "HOMI BHABHA NATIONAL INSTITUTE, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Classical and Approximate Kernels for Structural Parameterizations of some Graph Parameters",
+                    "author": [
+                        "D Majumdar"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "Disjoint Cycle Packing is one of the first and an important NP-hard problems to which lower bound machinery of kernelization was applied. In this problem, we are given as input an n-vertex undirected graph G and an integer k, and the task is to find a collection C of at least pairwise disjoint vertex sets of G, such that every set C\u2208 C is a cycle of G. Sometimes, we just call this Cycle Packing when it is clear from the context. Disjoint Cycle Packing Input: An undirected (multi) graph G and integers k. Parameter: k Question: Does G have at least k"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Diptapriyo-Majumdar/publication/328955832_Classical_and_Approximate_Kernels_for_Structural_Parameterizations_of_some_Graph_Parameters/links/5bed67ef92851c6b27c0d306/Classical-and-Approximate-Kernels-for-Structural-Parameterizations-of-some-Graph-Parameters.pdf",
+                "author_id": [
+                    "uQknAL4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_4RMTwrvDaEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClassical%2Band%2BApproximate%2BKernels%2Bfor%2BStructural%2BParameterizations%2Bof%2Bsome%2BGraph%2BParameters%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_4RMTwrvDaEJ&ei=_7xiYq7uOZGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:_4RMTwrvDaEJ:scholar.google.com/&scioq=Classical+and+Approximate+Kernels+for+Structural+Parameterizations+of+some+Graph+Parameters&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Diptapriyo-Majumdar/publication/328955832_Classical_and_Approximate_Kernels_for_Structural_Parameterizations_of_some_Graph_Parameters/links/5bed67ef92851c6b27c0d306/Classical-and-Approximate-Kernels-for-Structural-Parameterizations-of-some-Graph-Parameters.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 85,
+                    "since_2017": 84
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 3
+            },
+            {
+                "year": 2018,
+                "citations": 24
+            },
+            {
+                "year": 2019,
+                "citations": 8
+            },
+            {
+                "year": 2020,
+                "citations": 24
+            },
+            {
+                "year": 2021,
+                "citations": 14
+            },
+            {
+                "year": 2022,
+                "citations": 9
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=uQknAL4AAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Saket Saurabh",
+            "link": "https://scholar.google.com/citations?user=76_9TI0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=76_9TI0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "76_9TI0AAAAJ",
+            "affiliations": "Professor at Institute of Mathematical Sciences",
+            "email": "Verified email at imsc.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=76_9TI0AAAAJ&citpid=1"
+        },
+        {
+            "name": "G. Gutin",
+            "link": "https://scholar.google.com/citations?user=JR5DwxoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JR5DwxoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JR5DwxoAAAAJ",
+            "affiliations": "Professor of Computer Science, Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JR5DwxoAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jason Crampton",
+            "link": "https://scholar.google.com/citations?user=asPMwYoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=asPMwYoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "asPMwYoAAAAJ",
+            "affiliations": "Professor of Information Security, Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "R. Krithika",
+            "link": "https://scholar.google.com/citations?user=nAeD9dUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nAeD9dUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nAeD9dUAAAAJ",
+            "affiliations": "Indian Institute of Technology Palakkad",
+            "email": "Verified email at iitpkd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Magnus Wahlstr\u00f6m",
+            "link": "https://scholar.google.com/citations?user=2x-QnZsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2x-QnZsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2x-QnZsAAAAJ",
+            "affiliations": "Royal Holloway, University of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Rian Neogi",
+            "link": "https://scholar.google.com/citations?user=AlOpkuIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AlOpkuIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "AlOpkuIAAAAJ",
+            "affiliations": "University of Waterloo",
+            "email": "Verified email at uwaterloo.ca",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Amer Mouawad",
+            "link": "https://scholar.google.com/citations?user=MK6WseUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MK6WseUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "MK6WseUAAAAJ",
+            "affiliations": "American University of Beirut",
+            "email": "Verified email at aub.edu.lb",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MK6WseUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Daniel Lokshtanov",
+            "link": "https://scholar.google.com/citations?user=vaQGFLsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vaQGFLsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "vaQGFLsAAAAJ",
+            "affiliations": "Associate Professor in Computer Science, UCSB",
+            "email": "Verified email at ucsb.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vaQGFLsAAAAJ&citpid=6"
+        },
+        {
+            "name": "Sebastian Ordyniak",
+            "link": "https://scholar.google.com/citations?user=CkB7r4MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=CkB7r4MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "CkB7r4MAAAAJ",
+            "affiliations": "University of Sheffield",
+            "email": "Verified email at sheffield.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ramanujan M. S.",
+            "link": "https://scholar.google.com/citations?user=XMuyXpEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XMuyXpEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XMuyXpEAAAAJ",
+            "affiliations": "University of Warwick, UK",
+            "email": "Verified email at warwick.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XMuyXpEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Akanksha Agrawal",
+            "link": "https://scholar.google.com/citations?user=V_2z1BEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=V_2z1BEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "V_2z1BEAAAAJ",
+            "affiliations": "Indian Institute of Technology Madras",
+            "email": "Verified email at cse.iitm.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V_2z1BEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Daniel Karapetyan",
+            "link": "https://scholar.google.com/citations?user=O-rI2E0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=O-rI2E0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "O-rI2E0AAAAJ",
+            "affiliations": "School of Computer Science, University of Nottingham",
+            "email": "Verified email at nottingham.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=O-rI2E0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Eduard Eiben",
+            "link": "https://scholar.google.com/citations?user=VzCxpJcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VzCxpJcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VzCxpJcAAAAJ",
+            "affiliations": "Lecturer in Computer Science, Royal Holloway, Univeristy of London",
+            "email": "Verified email at rhul.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VzCxpJcAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dishant Goyal",
+            "link": "https://scholar.google.com/citations?user=2DSJgpsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2DSJgpsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2DSJgpsAAAAJ",
+            "affiliations": "Research Scholar IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2DSJgpsAAAAJ&citpid=2"
+        },
+        {
+            "name": "Vaishali Surianarayanan",
+            "link": "https://scholar.google.com/citations?user=iru-a1QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iru-a1QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "iru-a1QAAAAJ",
+            "affiliations": "University of California, Santa Barabara",
+            "email": "Verified email at ucsb.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Bart M. P. Jansen",
+            "link": "https://scholar.google.com/citations?user=h8FEAYMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h8FEAYMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h8FEAYMAAAAJ",
+            "affiliations": "Associate Professor, Eindhoven University of Technology",
+            "email": "Verified email at tue.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h8FEAYMAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ankush Acharyya",
+            "link": "https://scholar.google.com/citations?user=BcouO7cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BcouO7cAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BcouO7cAAAAJ",
+            "affiliations": "Post Doctoral Fellow, Institute of Computer Science, The Czech Academy of Science",
+            "email": "Verified email at isical.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BcouO7cAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vahideh Keikha",
+            "link": "https://scholar.google.com/citations?user=1-6dmjoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1-6dmjoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "1-6dmjoAAAAJ",
+            "affiliations": "Research Fellow",
+            "email": "Verified email at cs.cas.cz",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1-6dmjoAAAAJ&citpid=4"
+        },
+        {
+            "name": "Ashwin Jacob",
+            "link": "https://scholar.google.com/citations?user=nyQkLtQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nyQkLtQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nyQkLtQAAAAJ",
+            "affiliations": "Senior Research Fellow, The Institute of Mathematical Sciences, HBNI, Chennai",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nyQkLtQAAAAJ&citpid=1"
+        }
+    ]
+}

@@ -1,0 +1,1273 @@
+{
+    "search_metadata": {
+        "id": "6256e9731e803f49119a3783",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a3f88844821eb48a/6256e9731e803f49119a3783.json",
+        "created_at": "2022-04-13 15:17:07 UTC",
+        "processed_at": "2022-04-13 15:17:07 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=Kg9qeQEAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a3f88844821eb48a/6256e9731e803f49119a3783.html",
+        "total_time_taken": 0.11,
+        "total_articles": 27,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "Kg9qeQEAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Abhijit Mitra",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://faculty.iiitd.ac.in/~abhijit/index.html",
+        "interests": [
+            {
+                "title": "Optical Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:optical_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptical_networks"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Kg9qeQEAAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "Core networks in the flexgrid era",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "Kg9qeQEAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Lord, P Wright, A Mitra",
+            "publication": "Journal of Lightwave Technology 33 (5), 1126-1135, 2015",
+            "cited_by": {
+                "value": 69,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=34610812700874686",
+                "serpapi_link": "https://serpapi.com/search.json?cites=34610812700874686&engine=google_scholar&hl=en",
+                "cites_id": "34610812700874686"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Core networks in the flexgrid era",
+                    "author": [
+                        "A Lord",
+                        "P Wright",
+                        "A Mitra"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Journal of Lightwave Technology",
+                    "abstract": "This paper reviews the status of research into elastic optical networks and flexgrid, illustrating  the benefits of new flexible technologies to allow higher network capacities and support"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7042796/",
+                "author_id": [
+                    "gErZOh4AAAAJ",
+                    "",
+                    "Kg9qeQEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vldszFn2egAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCore%2Bnetworks%2Bin%2Bthe%2Bflexgrid%2Bera%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vldszFn2egAJ&ei=ABFjYpWlJ5GJmwGIxre4DA&json=",
+                "num_citations": 69,
+                "citedby_url": "/scholar?cites=34610812700874686&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vldszFn2egAJ:scholar.google.com/&scioq=Core+networks+in+the+flexgrid+era&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Effect of link margin and frequency granularity on the performance of a flexgrid optical network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "Kg9qeQEAAAAJ:Y0pCki6q_DkC",
+            "authors": "A Mitra, A Lord, S Kar, P Wright",
+            "publication": "Optics express 22 (1), 41-46, 2014",
+            "cited_by": {
+                "value": 35,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16089490895596097570",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16089490895596097570&engine=google_scholar&hl=en",
+                "cites_id": "16089490895596097570"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of link margin and frequency granularity on the performance of a flexgrid optical network",
+                    "author": [
+                        "A Mitra",
+                        "A Lord",
+                        "S Kar",
+                        "P Wright"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Optics express",
+                    "abstract": "We show how dynamically adjustable modulation formats can be used to reduce link margins in flexgrid networks, reverting to lower order QAM due to reduced OSNR, if ageing occurs. Spectral savings amount to as much as 63% gain in capacity across a network using 64QAM with a fine frequency granularity of 6.25 GHz, with variable baud rate transponder. Further, a fixed baud rate, demand multiplexed transponder with adaptive modulation has been suggested. These transponders provide twice as much network capacity as compared"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=oe-22-1-41",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "gErZOh4AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:IhDjSLlaSd8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Blink%2Bmargin%2Band%2Bfrequency%2Bgranularity%2Bon%2Bthe%2Bperformance%2Bof%2Ba%2Bflexgrid%2Boptical%2Bnetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IhDjSLlaSd8J&ei=AxFjYufRLY6pywSdh6agAg&json=",
+                "num_citations": 35,
+                "citedby_url": "/scholar?cites=16089490895596097570&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IhDjSLlaSd8J:scholar.google.com/&scioq=Effect+of+link+margin+and+frequency+granularity+on+the+performance+of+a+flexgrid+optical+network&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.osapublishing.org/viewmedia.cfm?uri=oe-22-1-41&html=true"
+            }
+        },
+        {
+            "title": "Network equipment and their procurement strategy for high capacity elastic optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "Kg9qeQEAAAAJ:9yKSN-GCB0IC",
+            "authors": "A Mitra, D Ives, A Lord, S Savory, S Kar, P Wright",
+            "publication": "Journal of Optical Communications and Networking 8 (7), A201-A211, 2016",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3793936833873213585",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3793936833873213585&engine=google_scholar&hl=en",
+                "cites_id": "3793936833873213585"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Network equipment and their procurement strategy for high capacity elastic optical networks",
+                    "author": [
+                        "A Mitra",
+                        "D Ives",
+                        "A Lord",
+                        "S Savory",
+                        "S Kar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Journal of Optical \u2026",
+                    "abstract": "In elastic optical networks, the success of providing high network capacity depends on the optical signal-to-noise ratio (OSNR) values of network lightpaths. As each lightpath's OSNR value defines the modulation format and capacity it can support, having high OSNR lightpaths is always beneficial. Hence, with a given set of modulation formats, service providers need to optimize their optical infrastructure, including in-line amplifiers and reconfigurable optical add\u2013drop multiplexers (ROADMs), given the size and topology of their"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=jocn-8-7-a201",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "0hgqCOMAAAAJ",
+                    "gErZOh4AAAAJ",
+                    "11pxSRQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:kXhIA3PFpjQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNetwork%2Bequipment%2Band%2Btheir%2Bprocurement%2Bstrategy%2Bfor%2Bhigh%2Bcapacity%2Belastic%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kXhIA3PFpjQJ&ei=CBFjYveRCpGJmwGIxre4DA&json=",
+                "num_citations": 21,
+                "citedby_url": "/scholar?cites=3793936833873213585&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kXhIA3PFpjQJ:scholar.google.com/&scioq=Network+equipment+and+their+procurement+strategy+for+high+capacity+elastic+optical+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "http://38.95.177.60/jocn/abstract.cfm?uri=jocn-8-7-A201"
+            }
+        },
+        {
+            "title": "Dynamic routing, spectrum, and modulation-format allocation in mixed-grid optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "Kg9qeQEAAAAJ:hqOjcs7Dif8C",
+            "authors": "T Ahmed, S Rahman, S Ferdousi, M Tornatore, A Mitra, BC Chatterjee, ...",
+            "publication": "Journal of Optical Communications and Networking 12 (5), 79-88, 2020",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17628492133155186375",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17628492133155186375&engine=google_scholar&hl=en",
+                "cites_id": "17628492133155186375"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dynamic routing, spectrum, and modulation-format allocation in mixed-grid optical networks",
+                    "author": [
+                        "T Ahmed",
+                        "S Rahman",
+                        "S Ferdousi"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Journal of Optical \u2026",
+                    "abstract": "Traffic in optical backbone networks is evolving rapidly in terms of type, volume, and dynamicity following the rapid growth of cloud-based services, ongoing adoption of 5G communications, and explosion of the Internet of Things (IoT). The elastic optical network (EON), by adopting a flexible grid, can provide the required capacity and flexibility to handle these rapid changes. However, operators rarely perform greenfield deployments, so to limit upfront investment, a gradual migration from fixed-grid to flexible-grid switching equipment is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=jocn-12-5-79",
+                "author_id": [
+                    "VPAA9xgAAAAJ",
+                    "sk7J-OwAAAAJ",
+                    "LY1SFU8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:x6Z7AjL8pPQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2Brouting,%2Bspectrum,%2Band%2Bmodulation-format%2Ballocation%2Bin%2Bmixed-grid%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=x6Z7AjL8pPQJ&ei=CxFjYsfUE8LZmQHc1ovQAg&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=17628492133155186375&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:x6Z7AjL8pPQJ:scholar.google.com/&scioq=Dynamic+routing,+spectrum,+and+modulation-format+allocation+in+mixed-grid+optical+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://par.nsf.gov/servlets/purl/10157245"
+            }
+        },
+        {
+            "title": "Effect of channel launch power on fill margin in C+ L band elastic optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "Kg9qeQEAAAAJ:_FxGoFyzp5QC",
+            "authors": "A Mitra, D Semrau, N Gahlawat, A Srivastava, P Bayvel, A Lord",
+            "publication": "Journal of Lightwave Technology 38 (5), 1032-1040, 2019",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4262671972400722075",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4262671972400722075&engine=google_scholar&hl=en",
+                "cites_id": "4262671972400722075"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of channel launch power on fill margin in C+ L band elastic optical networks",
+                    "author": [
+                        "A Mitra",
+                        "D Semrau",
+                        "N Gahlawat"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Journal of Lightwave \u2026",
+                    "abstract": "Increasing traffic in the optical backbone network has made it incumbent upon operators to extend the use of optical spectrum beyond the C-band. In this work we estimate network performance over the C+ L band using a physical layer model for estimating the optical signal to noise ratio (OSNR) for lightpaths operating over the C+ L band optical spectrum. The model considers nonlinear interference (NLI) due to inter-channel stimulated Raman scattering (ISRS) and the impact of ISRS gain on amplified spontaneous emission (ASE)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8896064/",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "AHCWi0QAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:m3D1BJMNKDsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Bchannel%2Blaunch%2Bpower%2Bon%2Bfill%2Bmargin%2Bin%2BC%252B%2BL%2Bband%2Belastic%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=m3D1BJMNKDsJ&ei=DhFjYq6tAeHDywTjooCQBQ&json=",
+                "num_citations": 18,
+                "citedby_url": "/scholar?cites=4262671972400722075&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:m3D1BJMNKDsJ:scholar.google.com/&scioq=Effect+of+channel+launch+power+on+fill+margin+in+C%2B+L+band+elastic+optical+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://discovery.ucl.ac.uk/id/eprint/10114194/1/Effect%20of%20Channel%20Launch%20Power%20on%20Fill%20Margin%20in%20C%2BL%20Band%20Elastic%20Optical%20Networks.pdf"
+            }
+        },
+        {
+            "title": "Effect of reduced link margins on C+ L band elastic optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "Kg9qeQEAAAAJ:YsMSGLbcyi4C",
+            "authors": "A Mitra, D Semrau, N Gahlawat, A Srivastava, P Bayvel, A Lord",
+            "publication": "Journal of Optical Communications and Networking 11 (10), C86-C93, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14722022507792165819",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14722022507792165819&engine=google_scholar&hl=en",
+                "cites_id": "14722022507792165819"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of reduced link margins on C+ L band elastic optical networks",
+                    "author": [
+                        "A Mitra",
+                        "D Semrau",
+                        "N Gahlawat"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Journal of Optical \u2026",
+                    "abstract": "Network traffic is growing exponentially, which has increased the onus on network operators to expand their network spectral resources beyond the C band. This work explores the effect of operating at a reduced link margin (LM) over the combined C and L bands. For this purpose, we utilize a lightpath optical signal-to-noise ratio (OSNR) estimation model that considers nonlinear interference due to inter-channel stimulated Raman scattering and amplified spontaneous emission noise generated by in-line amplifiers while predicting the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=jocn-11-10-C86",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "AHCWi0QAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:u-tBYHghT8wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Breduced%2Blink%2Bmargins%2Bon%2BC%252B%2BL%2Bband%2Belastic%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=u-tBYHghT8wJ&ei=ExFjYuKbIc6E6rQPz8uiuAc&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=14722022507792165819&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:u-tBYHghT8wJ:scholar.google.com/&scioq=Effect+of+reduced+link+margins+on+C%2B+L+band+elastic+optical+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://opg.optica.org/jocn/abstract.cfm?uri=jocn-11-10-C86"
+            }
+        },
+        {
+            "title": "Effect of frequency granularity and link margin at 100G and beyond flexgrid optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "Kg9qeQEAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "A Mitra, S Kar, A Lord",
+            "publication": "2014 Twentieth National Conference on Communications (NCC), 1-5, 2014",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15119249744952086685",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15119249744952086685&engine=google_scholar&hl=en",
+                "cites_id": "15119249744952086685"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of frequency granularity and link margin at 100G and beyond flexgrid optical networks",
+                    "author": [
+                        "A Mitra",
+                        "S Kar",
+                        "A Lord"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 Twentieth National Conference on \u2026",
+                    "abstract": "The core network traffic has been increasing with the evolution of multimedia applications, rise in cloud computing and data centres. This has lead to wide heterogeneity of demands of more than 100Gbps which the current fixed grid network cannot handle. This paper focuses on the concept of Superchannel in the Flexgrid Network Paradigm and its ability to handle demands beyond 100Gbps. We show the advantages of operating at the OSNR limit with reduced Link Margin (LM) and compare the increase in network capacity at 0.1 Cumulative"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6811286/",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "",
+                    "gErZOh4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ndBIrold0tEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Bfrequency%2Bgranularity%2Band%2Blink%2Bmargin%2Bat%2B100G%2Band%2Bbeyond%2Bflexgrid%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ndBIrold0tEJ&ei=HxFjYovSL7yCy9YPv5-K-Ac&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=15119249744952086685&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ndBIrold0tEJ:scholar.google.com/&scioq=Effect+of+frequency+granularity+and+link+margin+at+100G+and+beyond+flexgrid+optical+networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Effect of link margins and frequency granularity on the performance and modulation format sweet spot of multiple flexgrid optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "Kg9qeQEAAAAJ:u-x6o8ySG0sC",
+            "authors": "A Mitra, A Lord, S Kar, P Wright",
+            "publication": "Optical Fiber Communication Conference, W3A. 6, 2014",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3350526205268672563",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3350526205268672563&engine=google_scholar&hl=en",
+                "cites_id": "3350526205268672563"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of link margins and frequency granularity on the performance and modulation format sweet spot of multiple flexgrid optical networks",
+                    "author": [
+                        "A Mitra",
+                        "A Lord",
+                        "S Kar",
+                        "P Wright"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Optical Fiber Communication \u2026",
+                    "abstract": "We consider range of modulation formats for small, medium and large networks  as a function of line margin and frequency granularity. Capacity increases by 80%, 65% and  46.5% with 12.5GHz  We show the impact of reducing link margins by 4dB and 6dB using  the above adaptive transponder and highlight the modulation sweet spot for each network  at various LMs. Our approach measures the amount of traffic supported by the above  networks at a given Cumulative Blocking Probability (CBP). The CBP"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=OFC-2014-W3A.6",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "gErZOh4AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:M0Ct89R1fy4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Blink%2Bmargins%2Band%2Bfrequency%2Bgranularity%2Bon%2Bthe%2Bperformance%2Band%2Bmodulation%2Bformat%2Bsweet%2Bspot%2Bof%2Bmultiple%2Bflexgrid%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=M0Ct89R1fy4J&ei=JBFjYoL7AoySyATlkbrQCA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=3350526205268672563&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:M0Ct89R1fy4J:scholar.google.com/&scioq=Effect+of+link+margins+and+frequency+granularity+on+the+performance+and+modulation+format+sweet+spot+of+multiple+flexgrid+optical+networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Resource allocation and QoS guarantees for real world IP traffic in integrated XG-PON and IEEE802. 11e EDCA networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "Kg9qeQEAAAAJ:LkGwnXOMwfcC",
+            "authors": "R Kaur, A Gupta, A Srivastava, BC Chatterjee, A Mitra, B Ramamurthy, ...",
+            "publication": "IEEE Access 8, 124883-124893, 2020",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2715595830550720535",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2715595830550720535&engine=google_scholar&hl=en",
+                "cites_id": "2715595830550720535"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Resource allocation and QoS guarantees for real world IP traffic in integrated XG-PON and IEEE802. 11e EDCA networks",
+                    "author": [
+                        "R Kaur",
+                        "A Gupta",
+                        "A Srivastava",
+                        "BC Chatterjee"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE \u2026",
+                    "abstract": "Globally, there is a significant rise in the number of connected devices. Every device has an access to wide variety of telecom services among which voice, video and best effort (BE) contribute significantly. There is a noticeable growing trend towards upstream BE traffic besides real time e-services that demand high quality of service (QoS). Converged next-generation fiber-wireless (FiWi) access networks composed of next-generation passive optical network (XG-PON) and 802.11 n based wireless local area network (WLAN) has"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9134770/",
+                "author_id": [
+                    "aE0S7agAAAAJ",
+                    "iejeXSgAAAAJ",
+                    "",
+                    "mYKBDyYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:F_CBIQW8ryUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DResource%2Ballocation%2Band%2BQoS%2Bguarantees%2Bfor%2Breal%2Bworld%2BIP%2Btraffic%2Bin%2Bintegrated%2BXG-PON%2Band%2BIEEE802.%2B11e%2BEDCA%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=F_CBIQW8ryUJ&ei=JxFjYt_aJYySyATlkbrQCA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=2715595830550720535&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:F_CBIQW8ryUJ:scholar.google.com/&scioq=Resource+allocation+and+QoS+guarantees+for+real+world+IP+traffic+in+integrated+XG-PON+and+IEEE802.+11e+EDCA+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09134770.pdf"
+            }
+        },
+        {
+            "title": "Impact of WSS passband narrowing effect on the capacity of the flexible-spectrum networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "Kg9qeQEAAAAJ:IjCSPb-OGe4C",
+            "authors": "H Yang, R Wang, P Wright, A Mitra, B Robertson, P Wilkinson, S Kar, ...",
+            "publication": "Optical Fiber Communication Conference, W1I. 5, 2017",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11716887183093528500",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11716887183093528500&engine=google_scholar&hl=en",
+                "cites_id": "11716887183093528500"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Impact of WSS passband narrowing effect on the capacity of the flexible-spectrum networks",
+                    "author": [
+                        "H Yang",
+                        "R Wang",
+                        "P Wright",
+                        "A Mitra"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Optical Fiber \u2026",
+                    "abstract": "In this paper, we incorporate the effect of OSNR penalty due to the cascaded WSSs into  the network capacity model, along with the impairments due to the optical amplification and  fiber non-linearity. We compare the capacities between networks operating on fixed and  flexible spectrum regimes, and further explore the benefit of the optimized WSS passbands  in these scenarios. Simulations are carried out over both BT-UK and PAN-Europe networks  in order to investigate the impact from different network characteristics."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=ofc-2017-W1I.5",
+                "author_id": [
+                    "Rg1cCs8AAAAJ",
+                    "",
+                    "",
+                    "Kg9qeQEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tPedddC-mqIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImpact%2Bof%2BWSS%2Bpassband%2Bnarrowing%2Beffect%2Bon%2Bthe%2Bcapacity%2Bof%2Bthe%2Bflexible-spectrum%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tPedddC-mqIJ&ei=KhFjYrfiJIySyATlkbrQCA&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=11716887183093528500&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tPedddC-mqIJ:scholar.google.com/&scioq=Impact+of+WSS+passband+narrowing+effect+on+the+capacity+of+the+flexible-spectrum+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://opg.optica.org/viewmedia.cfm?uri=OFC-2017-W1I.5&seq=0"
+            }
+        },
+        {
+            "title": "Non-linear impairment modeling for flexgrid network and its application in offline network equipment upgrade strategy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "Kg9qeQEAAAAJ:2osOgNQ5qMEC",
+            "authors": "A Mitra, D Ives, A Lord, P Wright, S Kar",
+            "publication": "2015 International Conference on Optical Network Design and Modeling (ONDM \u2026, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4079379371717347796",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4079379371717347796&engine=google_scholar&hl=en",
+                "cites_id": "4079379371717347796"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Non-linear impairment modeling for flexgrid network and its application in offline network equipment upgrade strategy",
+                    "author": [
+                        "A Mitra",
+                        "D Ives",
+                        "A Lord",
+                        "P Wright"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "\u2026 Conference on Optical \u2026",
+                    "abstract": "This paper describes a comprehensive network model which sufficiently captures the noise impairments in the physical layer due to in-line EDFA amplifiers, non-linear impairments in optical links and noise at the network nodes due to lossy ROADMs for dispersion uncompensated transmission systems. The model builds upon the LOGON strategy, helps in modularizing the contribution of noise by the ROADMs and optical links and thereby making it suitable to use for network management and planning purposes. Further, the model was"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7127274/",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "0hgqCOMAAAAJ",
+                    "gErZOh4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:1MlE0-zdnDgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNon-linear%2Bimpairment%2Bmodeling%2Bfor%2Bflexgrid%2Bnetwork%2Band%2Bits%2Bapplication%2Bin%2Boffline%2Bnetwork%2Bequipment%2Bupgrade%2Bstrategy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1MlE0-zdnDgJ&ei=LhFjYsmSGY2ymgHnvp6ICA&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=4079379371717347796&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:1MlE0-zdnDgJ:scholar.google.com/&scioq=Non-linear+impairment+modeling+for+flexgrid+network+and+its+application+in+offline+network+equipment+upgrade+strategy&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Effect of link margin on spectrum saving and advantages of flexgrid optical networking",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "Kg9qeQEAAAAJ:UeHWp8X0CEIC",
+            "authors": "A Mitra, S Kar, A Lord",
+            "publication": "2013 National Conference on Communications (NCC), 1-5, 2013",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7324119588194969545",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7324119588194969545&engine=google_scholar&hl=en",
+                "cites_id": "7324119588194969545"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of link margin on spectrum saving and advantages of flexgrid optical networking",
+                    "author": [
+                        "A Mitra",
+                        "S Kar",
+                        "A Lord"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "2013 National Conference on \u2026",
+                    "abstract": "Optical networks are now evolving due to the high bit rate demands of multimedia applications and internet services. These applications demand high bandwidth and the current fixed grid network can no longer work for data rate of 400Gbps or higher. This paper focuses on Link Margin (LM) and its effect on the spectrum saving for the demand of 100Gbps and 1000Gbps in a point to point optical link. Optical Signal to Noise Ratio (OSNR) threshold values are calculated for various Link Margins to achieve a BER of 10\u2212 3 for all M"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6488036/",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "",
+                    "gErZOh4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:yWfX6vV_pGUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Blink%2Bmargin%2Bon%2Bspectrum%2Bsaving%2Band%2Badvantages%2Bof%2Bflexgrid%2Boptical%2Bnetworking%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yWfX6vV_pGUJ&ei=OhFjYtQnzoTqtA_Py6K4Bw&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=7324119588194969545&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yWfX6vV_pGUJ:scholar.google.com/&scioq=Effect+of+link+margin+on+spectrum+saving+and+advantages+of+flexgrid+optical+networking&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "When Is Operation Over Bands More Economical than Multifiber for Capacity Upgrade of an Optical Backbone Network?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:5nxA0vEk-isC",
+            "citation_id": "Kg9qeQEAAAAJ:5nxA0vEk-isC",
+            "authors": "RK Jana, A Mitra, A Pradhan, K Grattan, A Srivastava, B Mukherjee, ...",
+            "publication": "2020 European Conference on Optical Communications (ECOC), 1-4, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8451367311603274318",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8451367311603274318&engine=google_scholar&hl=en",
+                "cites_id": "8451367311603274318"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "When Is Operation Over  Bands More Economical than Multifiber for Capacity Upgrade of an Optical Backbone Network?",
+                    "author": [
+                        "RK Jana",
+                        "A Mitra",
+                        "A Pradhan",
+                        "K Grattan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 on Optical \u2026",
+                    "abstract": "fiber lease cost may strongly influence the choice of upgrade  effect of fiber lease cost on  network cost upgrade (measured  -diverse networks--BT-UK and Indian network[3]--has been"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9333276/",
+                "author_id": [
+                    "V5iZ3s4AAAAJ",
+                    "Kg9qeQEAAAAJ",
+                    "iZLPt1sAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ThJ26spJSXUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWhen%2BIs%2BOperation%2BOver%2BBands%2BMore%2BEconomical%2Bthan%2BMultifiber%2Bfor%2BCapacity%2BUpgrade%2Bof%2Ban%2BOptical%2BBackbone%2BNetwork%253F%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ThJ26spJSXUJ&ei=PBFjYt_3M6KUy9YPyMyGkAI&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=8451367311603274318&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ThJ26spJSXUJ:scholar.google.com/&scioq=When+Is+Operation+Over+Bands+More+Economical+than+Multifiber+for+Capacity+Upgrade+of+an+Optical+Backbone+Network%3F&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Performance analysis of fairness oriented dynamic bandwidth algorithm in integrated fiber-wireless architecture based on XG-PON and Wi-Fi",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:roLk4NBRz8UC",
+            "citation_id": "Kg9qeQEAAAAJ:roLk4NBRz8UC",
+            "authors": "R Kaur, A Srivastava, BC Chatterjee, A Mitra, B Ramamurthy",
+            "publication": "2018 20th International Conference on Transparent Optical Networks (ICTON), 1-4, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8355276807150115558",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8355276807150115558&engine=google_scholar&hl=en",
+                "cites_id": "8355276807150115558"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance analysis of fairness oriented dynamic bandwidth algorithm in integrated fiber-wireless architecture based on XG-PON and Wi-Fi",
+                    "author": [
+                        "R Kaur",
+                        "A Srivastava",
+                        "BC Chatterjee"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 20th \u2026",
+                    "abstract": "In today's global IP traffic trend, there are various service types that differ based on users' demands and technologies deployed in different regions. Besides real time entertainment services, there is also a rapid increase in demand to deliver best-effort services such as voice over internet protocol (VoIP), offline viewing, file sharing, and web browsing in a cost-efficient manner. Integrated fiber-wireless (FiWi) broadband access networks have emerged as a promising broadband access technology that can provide high quality e-services to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8473632/",
+                "author_id": [
+                    "aE0S7agAAAAJ",
+                    "",
+                    "mYKBDyYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5ho-6vzn83MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2Banalysis%2Bof%2Bfairness%2Boriented%2Bdynamic%2Bbandwidth%2Balgorithm%2Bin%2Bintegrated%2Bfiber-wireless%2Barchitecture%2Bbased%2Bon%2BXG-PON%2Band%2BWi-Fi%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5ho-6vzn83MJ&ei=SBFjYvvcBLKO6rQPxdeOqA4&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=8355276807150115558&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5ho-6vzn83MJ:scholar.google.com/&scioq=Performance+analysis+of+fairness+oriented+dynamic+bandwidth+algorithm+in+integrated+fiber-wireless+architecture+based+on+XG-PON+and+Wi-Fi&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Upgrading to low loss ROADMs and additional line amplifiers for increased capacity in EDFA and Raman flexgrid networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "Kg9qeQEAAAAJ:d1gkVwhDpl0C",
+            "authors": "A Mitra, A Lord, S Kar, P Wright, S Desbruslais",
+            "publication": "2014 The European Conference on Optical Communication (ECOC), 1-3, 2014",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3366640039831477701",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3366640039831477701&engine=google_scholar&hl=en",
+                "cites_id": "3366640039831477701"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Upgrading to low loss ROADMs and additional line amplifiers for increased capacity in EDFA and Raman flexgrid networks",
+                    "author": [
+                        "A Mitra",
+                        "A Lord",
+                        "S Kar",
+                        "P Wright"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 The European \u2026",
+                    "abstract": "Targeted use of low noise ROADMs and Raman amplifiers provide increased network capacity for minimal additional equipment. For Raman amplifiers with frequency granularities of 50 GHz and 12.5 GHz, 19.5 Tbps and 30 Tbps extra network capacity is available for BT's core network."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6964027/",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "gErZOh4AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:xR3DbEe1uC4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUpgrading%2Bto%2Blow%2Bloss%2BROADMs%2Band%2Badditional%2Bline%2Bamplifiers%2Bfor%2Bincreased%2Bcapacity%2Bin%2BEDFA%2Band%2BRaman%2Bflexgrid%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xR3DbEe1uC4J&ei=XBFjYsTIIPmQ6rQPzKCxuAY&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=3366640039831477701&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:xR3DbEe1uC4J:scholar.google.com/&scioq=Upgrading+to+low+loss+ROADMs+and+additional+line+amplifiers+for+increased+capacity+in+EDFA+and+Raman+flexgrid+networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "C+ L-band upgrade strategies to sustain traffic growth in optical backbone networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "Kg9qeQEAAAAJ:3fE2CSJIrl8C",
+            "authors": "T Ahmed, A Mitra, S Rahman, M Tornatore, A Lord, B Mukherjee",
+            "publication": "Journal of Optical Communications and Networking 13 (7), 193-203, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8999146260092004721",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8999146260092004721&engine=google_scholar&hl=en",
+                "cites_id": "8999146260092004721"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "C+ L-band upgrade strategies to sustain traffic growth in optical backbone networks",
+                    "author": [
+                        "T Ahmed",
+                        "A Mitra",
+                        "S Rahman"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Journal of Optical \u2026",
+                    "abstract": "We investigate cost-efficient upgrade strategies for capacity enhancement in optical backbone networks enabled by C+ L-band optical line systems. A multi-period strategy for upgrading network links from the C band to the C+ L band is proposed, ensuring physical-layer awareness, cost effectiveness, and less than 0.1% blocking. Results indicate that the performance of an upgrade strategy depends on efficient selection of the sequence of links to be upgraded and on the time instant to upgrade, which are either topology or traffic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=jocn-13-7-193",
+                "author_id": [
+                    "VPAA9xgAAAAJ",
+                    "Kg9qeQEAAAAJ",
+                    "sk7J-OwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:camREthj43wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DC%252B%2BL-band%2Bupgrade%2Bstrategies%2Bto%2Bsustain%2Btraffic%2Bgrowth%2Bin%2Boptical%2Bbackbone%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=camREthj43wJ&ei=YRFjYsykOqKUy9YPyMyGkAI&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=8999146260092004721&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:camREthj43wJ:scholar.google.com/&scioq=C%2B+L-band+upgrade+strategies+to+sustain+traffic+growth+in+optical+backbone+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://re.public.polimi.it/bitstream/11311/1203305/1/Ahmed_JOCN_2021_pdfA.pdf"
+            }
+        },
+        {
+            "title": "Enhanced inherent survivability to link failures at low link margin in a flexgrid optical network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "Kg9qeQEAAAAJ:zYLM7Y9cAGgC",
+            "authors": "A Mitra, A Lord, S Kar, P Wright",
+            "publication": "2015 European Conference on Optical Communication (ECOC), 1-3, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12620901047269132803",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12620901047269132803&engine=google_scholar&hl=en",
+                "cites_id": "12620901047269132803"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enhanced inherent survivability to link failures at low link margin in a flexgrid optical network",
+                    "author": [
+                        "A Mitra",
+                        "A Lord",
+                        "S Kar",
+                        "P Wright"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 European Conference \u2026",
+                    "abstract": "In this paper, we model a single link failure scenario in the BT UK core network. We show  the benefits of operating at lower Link Margin (LM) to attain additional inherent protection to  these failures over a 25 year period. Our approach measures the Cumulative Blocking  Probability (CBP) and  Fiber links were failed randomly, using the FIT rate of 133/km and  taking account of the different link lengths."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7341802/",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "gErZOh4AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:AwrVU6JyJq8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnhanced%2Binherent%2Bsurvivability%2Bto%2Blink%2Bfailures%2Bat%2Blow%2Blink%2Bmargin%2Bin%2Ba%2Bflexgrid%2Boptical%2Bnetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AwrVU6JyJq8J&ei=ZRFjYqzeHc6E6rQPz8uiuAc&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=12620901047269132803&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:AwrVU6JyJq8J:scholar.google.com/&scioq=Enhanced+inherent+survivability+to+link+failures+at+low+link+margin+in+a+flexgrid+optical+network&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Machine learning-assisted nonlinear-impairment-aware proactive defragmentation for C+L band elastic optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "Kg9qeQEAAAAJ:KlAtU1dfN6UC",
+            "authors": "RK Jana, BC Chatterjee, AP Singh, A Srivastava, B Mukherjee, A Lord, ...",
+            "publication": "Journal of Optical Communications and Networking 14 (3), 56-68, 2022",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16995739061714418730",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16995739061714418730&engine=google_scholar&hl=en",
+                "cites_id": "16995739061714418730"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Machine learning-assisted nonlinear-impairment-aware proactive defragmentation for C+L band elastic optical networks",
+                    "author": [
+                        "RK Jana",
+                        "BC Chatterjee",
+                        "AP Singh"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "Journal of Optical \u2026",
+                    "abstract": "Efficient resource allocation and management can enhance the capacity of an optical backbone network. In this context, spectrum retuning via hitless defragmentation has been presented for elastic optical networks to enhance efficient spectrum accommodation while reducing the unused fragmented spaces in the spectrum. However, the quality of service committed in a service level agreement may be affected due to spectrum retuning. In particular, for transmission beyond the conventional C band, the presence of inter-channel"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=jocn-14-3-56",
+                "author_id": [
+                    "V5iZ3s4AAAAJ",
+                    "mYKBDyYAAAAJ",
+                    "OXuRjyMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Kvy3HKH-3OsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMachine%2Blearning-assisted%2Bnonlinear-impairment-aware%2Bproactive%2Bdefragmentation%2Bfor%2BC%252BL%2Bband%2Belastic%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Kvy3HKH-3OsJ&ei=aBFjYuD3LZGJmwGIxre4DA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=16995739061714418730&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Kvy3HKH-3OsJ:scholar.google.com/&scioq=Machine+learning-assisted+nonlinear-impairment-aware+proactive+defragmentation+for+C%2BL+band+elastic+optical+networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "C to C+ L Bands Upgrade with Resource Re-provisioning in Optical Backbone Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "Kg9qeQEAAAAJ:kNdYIx-mwKoC",
+            "authors": "T Ahmed, S Rahman, A Pradhan, A Mitra, M Tornatore, A Lord, ...",
+            "publication": "Optical Fiber Communication Conference, W1F. 7, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5451248918964353454",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5451248918964353454&engine=google_scholar&hl=en",
+                "cites_id": "5451248918964353454"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "C to C+ L Bands Upgrade with Resource Re-provisioning in Optical Backbone Networks",
+                    "author": [
+                        "T Ahmed",
+                        "S Rahman",
+                        "A Pradhan",
+                        "A Mitra"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Optical Fiber \u2026",
+                    "abstract": "So, we study moving lightpaths from C band to L band judiciously to free up valuable  resources of C band. We study efficient allocation of resources during upgrade of network  links from C to C+L bands. After an  No Lightpath Re-Provisioning (NoR, NoRC): We  compare the above strategies with two strategies with no re-provisioning: (i) NoR, ie, no re-provisioning,  assuming new requests after upgrade are routed in L band first and (ii) NoRC, ie, no re-provisioning,  but assuming new requests after upgrade are routed in C band first."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osapublishing.org/abstract.cfm?uri=ofc-2021-W1F.7",
+                "author_id": [
+                    "VPAA9xgAAAAJ",
+                    "sk7J-OwAAAAJ",
+                    "iZLPt1sAAAAJ",
+                    "Kg9qeQEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:rjkahQK6pksJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DC%2Bto%2BC%252B%2BL%2BBands%2BUpgrade%2Bwith%2BResource%2BRe-provisioning%2Bin%2BOptical%2BBackbone%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rjkahQK6pksJ&ei=chFjYu3uFbKO6rQPxdeOqA4&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5451248918964353454&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:rjkahQK6pksJ:scholar.google.com/&scioq=C+to+C%2B+L+Bands+Upgrade+with+Resource+Re-provisioning+in+Optical+Backbone+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://par.nsf.gov/servlets/purl/10299486"
+            }
+        },
+        {
+            "title": "Capacity Benefits of Operation Over Band Elastic Optical Network in the Indian Network Scenario",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:UebtZRa9Y70C",
+            "citation_id": "Kg9qeQEAAAAJ:UebtZRa9Y70C",
+            "authors": "A Mitra, D Semrau, N Gahlawat, A Pradhan, S Dey, A Srivastava, P Bayvel, ...",
+            "publication": "2019 IEEE International Conference on Advanced Networks and \u2026, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10134929823934318715",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10134929823934318715&engine=google_scholar&hl=en",
+                "cites_id": "10134929823934318715"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Capacity Benefits of Operation Over  Band Elastic Optical Network in the Indian Network Scenario",
+                    "author": [
+                        "A Mitra",
+                        "D Semrau",
+                        "N Gahlawat"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026 Advanced Networks \u2026",
+                    "abstract": "the benefits of operating the Indian backbone optical network across the C+L band as compared  to the operation on the C band. In  being placed at equal spans in the ith link, the net Pi"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9117992/",
+                "author_id": [
+                    "Kg9qeQEAAAAJ",
+                    "AHCWi0QAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ewgeS_qApowJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCapacity%2BBenefits%2Bof%2BOperation%2BOver%2BBand%2BElastic%2BOptical%2BNetwork%2Bin%2Bthe%2BIndian%2BNetwork%2BScenario%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ewgeS_qApowJ&ei=dxFjYpiVHcLZmQHc1ovQAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=10134929823934318715&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ewgeS_qApowJ:scholar.google.com/&scioq=Capacity+Benefits+of+Operation+Over+Band+Elastic+Optical+Network+in+the+Indian+Network+Scenario&hl=en&as_sdt=0,33",
+                "eprint_url": "https://discovery.ucl.ac.uk/id/eprint/10114196/1/Capacity%20Benefits%20of%20Operation%20Over%20C%2BL%20Band.pdf"
+            }
+        },
+        {
+            "title": "Optical Communications and Networking",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:Se3iqnhoufwC",
+            "citation_id": "Kg9qeQEAAAAJ:Se3iqnhoufwC",
+            "authors": "T Ahmed, S Rahman, S Ferdousi, M Tornatore, A Mitra, BC Chatterjee, ...",
+            "publication": "Journal of 12 (5), 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Guest Editorial. Optical communications and networking series",
+                    "author": [
+                        "VWS Chan"
+                    ],
+                    "pub_year": "2005",
+                    "venue": "\u2026 Journal on Selected Areas in Communications",
+                    "abstract": "to solicit his opinion on research directions for optical networking. In a rather direct manner,  he told  are in optical communications, wireless communications, space communications and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/1490633/",
+                "author_id": [
+                    "rYZ5Br0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pIFDNMqEKd4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOptical%2BCommunications%2Band%2BNetworking%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pIFDNMqEKd4J&ei=hBFjYpiED46pywSdh6agAg&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=16008472354460238244&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pIFDNMqEKd4J:scholar.google.com/&scioq=Optical+Communications+and+Networking&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel5/49/32049/01490633.pdf"
+            }
+        },
+        {
+            "title": "Solar panel as a receiver",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:8k81kl-MbHgC",
+            "citation_id": "Kg9qeQEAAAAJ:8k81kl-MbHgC",
+            "authors": "SA Naqvi, A Srivastava, A Mitra",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the design of a solar-panel receiver for optical wireless communications with simultaneous energy harvesting",
+                    "author": [
+                        "Z Wang",
+                        "D Tsonev",
+                        "S Videv"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "IEEE Journal on Selected \u2026",
+                    "abstract": ") receiver using a solar panel as a photodetector. The proposed system is capable of  simultaneous data transmission and energy harvesting. The solar panel  the proposed receiver."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7010358/",
+                "author_id": [
+                    "",
+                    "",
+                    "hqcyKnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jf9Hf8AJ920J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSolar%2Bpanel%2Bas%2Ba%2Breceiver%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jf9Hf8AJ920J&ei=hxFjYoeDJIySyATlkbrQCA&json=",
+                "num_citations": 185,
+                "citedby_url": "/scholar?cites=7923812791755472781&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jf9Hf8AJ920J:scholar.google.com/&scioq=Solar+panel+as+a+receiver&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/49/7156176/07010358.pdf"
+            }
+        },
+        {
+            "title": "Enabling data communication over solar PV cells",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:ufrVoPGSRksC",
+            "citation_id": "Kg9qeQEAAAAJ:ufrVoPGSRksC",
+            "authors": "A Zaman, S Singh, A Mitra, A Srivastava, GS Visweswaran",
+            "publication": "IIIT-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enabling data communication over solar PV cells",
+                    "author": [
+                        "A Zaman",
+                        "S Singh",
+                        "A Mitra",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "As the telecom services evolve towards 5G, service providers are exploring innovative technologies which are easier to deploy, provide high data rate communication and enable dense network connectivity at a low cost. Visual Light Communication (VLC) can achieve the above objectives as it uses of the shelf Light Emitting Diode (LEDs) which are widely deployed and provide high bandwidth. In our proposed VLC system, while using an off-the-shelf LED as a light source, we demonstrate data communication using a Photo Voltaic (PV)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/726",
+                "author_id": [
+                    "",
+                    "",
+                    "Kg9qeQEAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:KFE9bfvarGAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnabling%2Bdata%2Bcommunication%2Bover%2Bsolar%2BPV%2Bcells%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KFE9bfvarGAJ&ei=ihFjYoGKBu-Sy9YPmNWywAs&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Study of the Impact of optical nonlinear interference on elastic optical networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:WF5omc3nYNoC",
+            "citation_id": "Kg9qeQEAAAAJ:WF5omc3nYNoC",
+            "authors": "N Gahlawat, A Mitra, A Srivastava",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Study of the Impact of optical nonlinear interference on elastic optical networks",
+                    "author": [
+                        "N Gahlawat",
+                        "A Mitra",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "In the BTP, an innovative lightpath OSNR estimation model has been developed which considers the Ampli ed Spontaneous Emission (ASE) noise and Nonlinear Interference (NLI) sue to Inter-channel Stimulated Raman Scattering (ISRS) while predicting the OSNR of a network lightpath. Further, this model has been used to report the bene ts of operating at reduced Link Margin (LM) in various diverse networks across the C+ L band optical spectrum. K"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/733",
+                "author_id": [
+                    "",
+                    "Kg9qeQEAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Ps-kftPyJ3EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStudy%2Bof%2Bthe%2BImpact%2Bof%2Boptical%2Bnonlinear%2Binterference%2Bon%2Belastic%2Boptical%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ps-kftPyJ3EJ&ei=jBFjYsX7M5WMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Ps-kftPyJ3EJ:scholar.google.com/&scioq=Study+of+the+Impact+of+optical+nonlinear+interference+on+elastic+optical+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/733/2015151_NISHANT.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Performance of Dispersion-Reduced Wavelength Assignment in Wavelength-Routed Optical Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "Kg9qeQEAAAAJ:W7OEmFMy1HYC",
+            "authors": "BC Chatterjee, N Sarma, A Mitra, A Srivastava, N Stol, E Oki",
+            "publication": "2018 20th International Conference on Transparent Optical Networks (ICTON), 1-4, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance of Dispersion-Reduced Wavelength Assignment in Wavelength-Routed Optical Networks",
+                    "author": [
+                        "BC Chatterjee",
+                        "N Sarma",
+                        "A Mitra"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 20th \u2026",
+                    "abstract": "This paper analyses the performance of the dispersion-reduced wavelength assignment (DRWA) scheme in wavelength-routed optical networks. The signal quality degradation due to the dispersion effect in longer lightpaths is higher than that of shorter lightpaths in a dispersion uncompensated network. DRWA assigns the longer distance lightpath requests to the wavelengths having a lower dispersion effect, and the wavelengths having a higher dispersion effect are allocated to the shorter distance lightpath requests. Thus, the signal"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8473915/",
+                "author_id": [
+                    "mYKBDyYAAAAJ",
+                    "UQgxrBcAAAAJ",
+                    "Kg9qeQEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9kMGzOOa9D0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2Bof%2BDispersion-Reduced%2BWavelength%2BAssignment%2Bin%2BWavelength-Routed%2BOptical%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9kMGzOOa9D0J&ei=jxFjYoO6IamTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:9kMGzOOa9D0J:scholar.google.com/&scioq=Performance+of+Dispersion-Reduced+Wavelength+Assignment+in+Wavelength-Routed+Optical+Networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Effect of reduced link margin, the role of equipments and their budgeting in the design of high capacity elestic optical Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:qjMakFHDy7sC",
+            "citation_id": "Kg9qeQEAAAAJ:qjMakFHDy7sC",
+            "authors": "A Mitra",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of reduced link margin, the role of equipments and their budgeting in the design of high capacity elestic optical Networks",
+                    "author": [
+                        "A Mitra"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "Paul Wright for his development of Optimod simulation tool for flexgrid at BT and  providing me with a platform over which I could extend the optical layer to do simulations  pertaining to this thesis. I would also like to thank the  Therefore the operators need to  utilize flexible spectrum provisioning under Elastic Optical Network (EON) technology while  utilizing high order Polarization Multiplexed m-ary modulations. In this thesis, we focus on  the optical part of the communication system. The EON"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://eprint.iitd.ac.in/bitstream/handle/12345678/7360/TH-5280.pdf?sequence=2",
+                "author_id": [
+                    "Kg9qeQEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nbI_0MlR5x0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Breduced%2Blink%2Bmargin,%2Bthe%2Brole%2Bof%2Bequipments%2Band%2Btheir%2Bbudgeting%2Bin%2Bthe%2Bdesign%2Bof%2Bhigh%2Bcapacity%2Belestic%2Boptical%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nbI_0MlR5x0J&ei=lBFjYqzEE-HDywTjooCQBQ&json=",
+                "num_citations": 0,
+                "eprint_url": "http://eprint.iitd.ac.in/bitstream/handle/12345678/7360/TH-5280.pdf?sequence=2"
+            }
+        },
+        {
+            "title": "Robust Control of Synchronous Reluctance Motors by Means of Linear Matrix Inequalities.............. FP Scalcon, CRD Os\u00f3rio, GG Koch, TS Gabbi, RP Vieira, HA Gr\u00fcndling, RCLF \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Kg9qeQEAAAAJ&pagesize=100&citation_for_view=Kg9qeQEAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "Kg9qeQEAAAAJ:MXK_kJrjxJIC",
+            "authors": "N Sarma, PM Tuohy, S Djurovic, F Evestedt, JJ P\u00e9rez-Loya, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robust control of synchronous reluctance motors by means of linear matrix inequalities",
+                    "author": [
+                        "FP Scalcon",
+                        "CRD Osorio",
+                        "GG Koch"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Transactions \u2026",
+                    "abstract": "This article proposes an alternative for robust control of synchronous reluctance motors using linear matrix inequalities to obtain fixed gains that ensure current and speed regulation, under parameter uncertainties and variations. The proposed design procedure is based on a polytopic model, which takes into account: i) uncertainties and variations of the mechanical and electrical parameters of the motor, ii) one step delay from digital implementation of the control law, and iii) internal model based controllers to guarantee"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9211763/",
+                "author_id": [
+                    "6qmVBK4AAAAJ",
+                    "6rbM6PMAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:LYQTJ9guiEAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobust%2BControl%2Bof%2BSynchronous%2BReluctance%2BMotors%2Bby%2BMeans%2Bof%2BLinear%2BMatrix%2BInequalities..............%2BFP%2BScalcon,%2BCRD%2BOs%25C3%25B3rio,%2BGG%2BKoch,%2BTS%2BGabbi,%2BRP%2BVieira,%2BHA%2BGr%25C3%25BCndling,%2BRCLF%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LYQTJ9guiEAJ&ei=mRFjYvGxJo6pywSdh6agAg&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=4650018121163441197&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LYQTJ9guiEAJ:scholar.google.com/&scioq=Robust+Control+of+Synchronous+Reluctance+Motors+by+Means+of+Linear+Matrix+Inequalities..............+FP+Scalcon,+CRD+Os%C3%B3rio,+GG+Koch,+TS+Gabbi,+RP+Vieira,+HA+Gr%C3%BCndling,+RCLF+%E2%80%A6&hl=en&as_sdt=0,33"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 246,
+                    "since_2017": 175
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 7,
+                    "since_2017": 6
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 9
+            },
+            {
+                "year": 2015,
+                "citations": 24
+            },
+            {
+                "year": 2016,
+                "citations": 37
+            },
+            {
+                "year": 2017,
+                "citations": 31
+            },
+            {
+                "year": 2018,
+                "citations": 18
+            },
+            {
+                "year": 2019,
+                "citations": 30
+            },
+            {
+                "year": 2020,
+                "citations": 26
+            },
+            {
+                "year": 2021,
+                "citations": 52
+            },
+            {
+                "year": 2022,
+                "citations": 18
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Kg9qeQEAAAAJ",
+        "available": 6,
+        "not_available": 2
+    },
+    "co_authors": [
+        {
+            "name": "Andrew Lord",
+            "link": "https://scholar.google.com/citations?user=gErZOh4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gErZOh4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "gErZOh4AAAAJ",
+            "affiliations": "British Telecom",
+            "email": "Verified email at bt.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gErZOh4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Biswanath Mukherjee",
+            "link": "https://scholar.google.com/citations?user=ytXtLjkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ytXtLjkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ytXtLjkAAAAJ",
+            "affiliations": "Distinguished Professor at University of California, Davis",
+            "email": "Verified email at ucdavis.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ytXtLjkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Bijoy Chand Chatterjee",
+            "link": "https://scholar.google.com/citations?user=mYKBDyYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=mYKBDyYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "mYKBDyYAAAAJ",
+            "affiliations": "South Asian University (An international university established by SAARC nations)",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=mYKBDyYAAAAJ&citpid=5"
+        }
+    ]
+}

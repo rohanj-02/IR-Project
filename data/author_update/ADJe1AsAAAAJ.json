@@ -1,0 +1,1967 @@
+{
+    "search_metadata": {
+        "id": "6256e28da3f4ef2dc0ccef97",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ddc6c9de0040fa86/6256e28da3f4ef2dc0ccef97.json",
+        "created_at": "2022-04-13 14:47:41 UTC",
+        "processed_at": "2022-04-13 14:47:41 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=ADJe1AsAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/ddc6c9de0040fa86/6256e28da3f4ef2dc0ccef97.html",
+        "total_time_taken": 2.25,
+        "total_articles": 42,
+        "total_co_authors": 13
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "ADJe1AsAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Ranjitha Prasad",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.ac.in/ranjitha",
+        "interests": [
+            {
+                "title": "Bayesian Inference",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:bayesian_inference",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abayesian_inference"
+            },
+            {
+                "title": "Statistical estimation",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:statistical_estimation",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astatistical_estimation"
+            },
+            {
+                "title": "Causal Inference",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:causal_inference",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acausal_inference"
+            },
+            {
+                "title": "Survival Analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:survival_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asurvival_analysis"
+            },
+            {
+                "title": "Healthcare",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:healthcare",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealthcare"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ADJe1AsAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Joint approximately sparse channel estimation and data detection in OFDM systems using sparse Bayesian learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:qjMakFHDy7sC",
+            "citation_id": "ADJe1AsAAAAJ:qjMakFHDy7sC",
+            "authors": "R Prasad, CR Murthy, BD Rao",
+            "publication": "IEEE Transactions on Signal Processing 62 (14), 3591-3603, 2014",
+            "cited_by": {
+                "value": 123,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2162313170616486700",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2162313170616486700&engine=google_scholar&hl=en",
+                "cites_id": "2162313170616486700"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Joint approximately sparse channel estimation and data detection in OFDM systems using sparse Bayesian learning",
+                    "author": [
+                        "R Prasad",
+                        "CR Murthy",
+                        "BD Rao"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "IEEE Transactions on Signal \u2026",
+                    "abstract": "It is well known that the impulse response of a wideband wireless channel is approximately sparse, in the sense that it has a small number of significant components relative to the channel delay spread. In this paper, we consider the estimation of the unknown channel coefficients and its support in OFDM systems using a sparse Bayesian learning (SBL) framework for exact inference. In a quasi-static, block-fading scenario, we employ the SBL algorithm for channel estimation and propose a joint SBL (J-SBL) and a low-complexity"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6826590/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "tlQbRJMAAAAJ",
+                    "dJRKST0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LIu-S18UAh4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DJoint%2Bapproximately%2Bsparse%2Bchannel%2Bestimation%2Band%2Bdata%2Bdetection%2Bin%2BOFDM%2Bsystems%2Busing%2Bsparse%2BBayesian%2Blearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LIu-S18UAh4J&ei=odViYrSzFIySyATlkbrQCA&json=",
+                "num_citations": 124,
+                "citedby_url": "/scholar?cites=2162313170616486700&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LIu-S18UAh4J:scholar.google.com/&scioq=Joint+approximately+sparse+channel+estimation+and+data+detection+in+OFDM+systems+using+sparse+Bayesian+learning&hl=en&as_sdt=0,33",
+                "eprint_url": "https://scholar.archive.org/work/xwfnw3hsfbde7fjcvoymjfygra/access/wayback/http://www.ece.iisc.ernet.in/~cmurthy/lib/exe/fetch.php?media=recursive_twocol.pdf"
+            }
+        },
+        {
+            "title": "Joint channel estimation and data detection in MIMO-OFDM systems: A sparse Bayesian learning approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "ADJe1AsAAAAJ:zYLM7Y9cAGgC",
+            "authors": "R Prasad, CR Murthy, BD Rao",
+            "publication": "IEEE Transactions on signal processing 63 (20), 5369-5382, 2015",
+            "cited_by": {
+                "value": 104,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9884311728554038612",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9884311728554038612&engine=google_scholar&hl=en",
+                "cites_id": "9884311728554038612"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Joint channel estimation and data detection in MIMO-OFDM systems: A sparse Bayesian learning approach",
+                    "author": [
+                        "R Prasad",
+                        "CR Murthy",
+                        "BD Rao"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "IEEE Transactions on signal \u2026",
+                    "abstract": "The impulse response of wireless channels between the Nt transmit and Nr receive antennas of a MIMO-OFDM system are group approximately sparse (ga-sparse), ie, the NtNr channels have a small number of significant paths relative to the channel delay spread and the time-lags of the significant paths between transmit and receive antenna pairs coincide. Often, wireless channels are also group approximately cluster-sparse (gac-sparse), ie, every ga-sparse channel consists of clusters, where a few clusters have all strong components"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7140825/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "tlQbRJMAAAAJ",
+                    "dJRKST0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VNWw1SUhLIkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DJoint%2Bchannel%2Bestimation%2Band%2Bdata%2Bdetection%2Bin%2BMIMO-OFDM%2Bsystems:%2BA%2Bsparse%2BBayesian%2Blearning%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VNWw1SUhLIkJ&ei=pdViYtj7GsLZmQHc1ovQAg&json=",
+                "num_citations": 106,
+                "citedby_url": "/scholar?cites=9884311728554038612&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VNWw1SUhLIkJ:scholar.google.com/&scioq=Joint+channel+estimation+and+data+detection+in+MIMO-OFDM+systems:+A+sparse+Bayesian+learning+approach&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Cram\u00e9r-Rao-type bounds for sparse Bayesian learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "ADJe1AsAAAAJ:2osOgNQ5qMEC",
+            "authors": "R Prasad, CR Murthy",
+            "publication": "IEEE Transactions on Signal Processing 61 (3), 622-632, 2012",
+            "cited_by": {
+                "value": 52,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13736494018080765762",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13736494018080765762&engine=google_scholar&hl=en",
+                "cites_id": "13736494018080765762"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cram\u00e9r-Rao-type bounds for sparse Bayesian learning",
+                    "author": [
+                        "R Prasad",
+                        "CR Murthy"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "IEEE Transactions on Signal Processing",
+                    "abstract": "In this paper, we derive Hybrid, Bayesian and Marginalized Cram\u00e9r-Rao lower bounds (HCRB, BCRB and MCRB) for the single and multiple measurement vector Sparse Bayesian Learning (SBL) problem of estimating compressible vectors and their prior distribution parameters. We assume the unknown vector to be drawn from a compressible Student-t prior distribution. We derive CRBs that encompass the deterministic or random nature of the unknown parameters of the prior distribution and the regression noise variance. We extend"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6338355/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "tlQbRJMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Qnf7xofUob4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCram%25C3%25A9r-Rao-type%2Bbounds%2Bfor%2Bsparse%2BBayesian%2Blearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Qnf7xofUob4J&ei=qdViYt6NBpyO6rQP-viEEA&json=",
+                "num_citations": 52,
+                "citedby_url": "/scholar?cites=13736494018080765762&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Qnf7xofUob4J:scholar.google.com/&scioq=Cram%C3%A9r-Rao-type+bounds+for+sparse+Bayesian+learning&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1202.1119"
+            }
+        },
+        {
+            "title": "Uma.(2013). Modeling analysis of potential carbon sequestration under existing agroforestry systems in three districts of Indo-gangetic plains in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:J_g5lzvAfSwC",
+            "citation_id": "ADJe1AsAAAAJ:J_g5lzvAfSwC",
+            "authors": "DSK Ajit, R SK, AK Handa, R Prasad, B Alam, RH Rizvi, G Gupta, ...",
+            "publication": "Agroforestry Systems 87 (5), 1129-1146, 0",
+            "cited_by": {
+                "value": 48,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6283840484476910821",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6283840484476910821&engine=google_scholar&hl=en",
+                "cites_id": "6283840484476910821"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Uma.(2013). Modeling analysis of potential carbon sequestration under existing agroforestry systems in three districts of Indo-gangetic plains in India",
+                    "author": [
+                        "DSK Ajit",
+                        "R SK",
+                        "AK Handa",
+                        "R Prasad",
+                        "B Alam",
+                        "RH Rizvi"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "3Gn0nJsAAAAJ",
+                    "",
+                    "",
+                    "DCkxN60AAAAJ",
+                    "5EoV93cAAAAJ",
+                    "-_4B3jAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5fx2nqCvNFcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUma.(2013).%2BModeling%2Banalysis%2Bof%2Bpotential%2Bcarbon%2Bsequestration%2Bunder%2Bexisting%2Bagroforestry%2Bsystems%2Bin%2Bthree%2Bdistricts%2Bof%2BIndo-gangetic%2Bplains%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5fx2nqCvNFcJ&ei=t9ViYoCTH46pywSdh6agAg&json=",
+                "num_citations": 48,
+                "citedby_url": "/scholar?cites=6283840484476910821&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5fx2nqCvNFcJ:scholar.google.com/&scioq=Uma.(2013).+Modeling+analysis+of+potential+carbon+sequestration+under+existing+agroforestry+systems+in+three+districts+of+Indo-gangetic+plains+in+India&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Bayesian learning for joint sparse OFDM channel estimation and data detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "ADJe1AsAAAAJ:u5HHmVD_uO8C",
+            "authors": "R Prasad, CR Murthy",
+            "publication": "2010 IEEE Global Telecommunications Conference GLOBECOM 2010, 1-6, 2010",
+            "cited_by": {
+                "value": 32,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3918603935442503795",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3918603935442503795&engine=google_scholar&hl=en",
+                "cites_id": "3918603935442503795"
+            },
+            "year": "2010",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Bayesian learning for joint sparse OFDM channel estimation and data detection",
+                    "author": [
+                        "R Prasad",
+                        "CR Murthy"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "2010 IEEE Global Telecommunications \u2026",
+                    "abstract": "The impulse response of a typical wireless multipath channel can be modeled as a tapped delay line filter whose non-zero components are sparse relative to the channel delay spread. In this paper, a novel method of estimating such sparse multipath fading channels for OFDM systems is explored. In particular, Sparse Bayesian Learning (SBL) techniques are applied to jointly estimate the sparse channel and its second order statistics, and a new Bayesian Cramer-Rao bound is derived for the SBL algorithm. Further, in the context of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/5683775/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "tlQbRJMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:c4h_g4StYTYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBayesian%2Blearning%2Bfor%2Bjoint%2Bsparse%2BOFDM%2Bchannel%2Bestimation%2Band%2Bdata%2Bdetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=c4h_g4StYTYJ&ei=utViYoGtNZLeyQTms5KQBg&json=",
+                "num_citations": 33,
+                "citedby_url": "/scholar?cites=3918603935442503795&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:c4h_g4StYTYJ:scholar.google.com/&scioq=Bayesian+learning+for+joint+sparse+OFDM+channel+estimation+and+data+detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pdfs.semanticscholar.org/2756/bc4cea8694e26219d0df66a9c6546ee5ef4e.pdf"
+            }
+        },
+        {
+            "title": "Nested sparse Bayesian learning for block-sparse signals with intra-block correlation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "ADJe1AsAAAAJ:UeHWp8X0CEIC",
+            "authors": "R Prasad, CR Murthy, BD Rao",
+            "publication": "2014 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2014",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11119943805721380852",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11119943805721380852&engine=google_scholar&hl=en",
+                "cites_id": "11119943805721380852"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Nested sparse Bayesian learning for block-sparse signals with intra-block correlation",
+                    "author": [
+                        "R Prasad",
+                        "CR Murthy",
+                        "BD Rao"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 IEEE International \u2026",
+                    "abstract": "In this work, we address the recovery of block sparse vectors with intra-block correlation, ie, the recovery of vectors in which the correlated nonzero entries are constrained to lie in a few clusters, from noisy underdetermined linear measurements. Among Bayesian sparse recovery techniques, the cluster Sparse Bayesian Learning (SBL) is an efficient tool for block-sparse vector recovery, with intrablock correlation. However, this technique uses a heuristic method to estimate the intra-block correlation. In this paper, we propose the Nested SBL"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6854994/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "tlQbRJMAAAAJ",
+                    "dJRKST0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9AdUrvn5UZoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNested%2Bsparse%2BBayesian%2Blearning%2Bfor%2Bblock-sparse%2Bsignals%2Bwith%2Bintra-block%2Bcorrelation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9AdUrvn5UZoJ&ei=vtViYomjO42ymgHnvp6ICA&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=11119943805721380852&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9AdUrvn5UZoJ:scholar.google.com/&scioq=Nested+sparse+Bayesian+learning+for+block-sparse+signals+with+intra-block+correlation&hl=en&as_sdt=0,33",
+                "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.887.3797&rep=rep1&type=pdf"
+            }
+        },
+        {
+            "title": "Variational student: Learning compact and sparser networks in knowledge distillation framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:HDshCWvjkbEC",
+            "citation_id": "ADJe1AsAAAAJ:HDshCWvjkbEC",
+            "authors": "S Hegde, R Prasad, R Hebbalaguppe, V Kumar",
+            "publication": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and \u2026, 2020",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15539218281364711868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15539218281364711868&engine=google_scholar&hl=en",
+                "cites_id": "15539218281364711868"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Variational student: Learning compact and sparser networks in knowledge distillation framework",
+                    "author": [
+                        "S Hegde",
+                        "R Prasad",
+                        "R Hebbalaguppe"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "ICASSP 2020-2020 \u2026",
+                    "abstract": "The holy grail in deep neural network research is porting the memory-and computation-intensive network models on embedded platforms with a minimal compromise in model accuracy. To this end, we propose Variational Student where we reap the benefits of compressibility of the knowledge distillation framework, and sparsity inducing abilities of variational inference (VI) techniques. Essentially, we build an accurate and sparse student network, whose sparsity is induced by the variational parameters found via optimizing a loss"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9054157/",
+                "author_id": [
+                    "_tDIXM0AAAAJ",
+                    "ADJe1AsAAAAJ",
+                    "IJjnjZIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vOn_U7JkptcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVariational%2Bstudent:%2BLearning%2Bcompact%2Band%2Bsparser%2Bnetworks%2Bin%2Bknowledge%2Bdistillation%2Bframework%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vOn_U7JkptcJ&ei=w9ViYsjFMs6E6rQPz8uiuAc&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=15539218281364711868&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vOn_U7JkptcJ:scholar.google.com/&scioq=Variational+student:+Learning+compact+and+sparser+networks+in+knowledge+distillation+framework&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1910.12061"
+            }
+        },
+        {
+            "title": "Cresa: A deep learning approach to competing risks, recurrent event survival analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:UebtZRa9Y70C",
+            "citation_id": "ADJe1AsAAAAJ:UebtZRa9Y70C",
+            "authors": "G Gupta, V Sunder, R Prasad, G Shroff",
+            "publication": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 108-122, 2019",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5683805031072833826",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5683805031072833826&engine=google_scholar&hl=en",
+                "cites_id": "5683805031072833826"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cresa: A deep learning approach to competing risks, recurrent event survival analysis",
+                    "author": [
+                        "G Gupta",
+                        "V Sunder",
+                        "R Prasad",
+                        "G Shroff"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Pacific-Asia Conference on \u2026",
+                    "abstract": "Survival analysis refers to a gamut of statistical techniques developed to infer the survival time from time-to-event data. In particular, we are interested in recurrent event survival analysis in the presence of one or more competing risks in each recurrent time-step, in order to obtain the probabilistic relationship between the input covariates and the distribution of event times. Since traditional survival analysis techniques suffer from drawbacks due to strong parametric model constraints and constant hazard based assumptions, we propose a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-16145-3_9",
+                "author_id": [
+                    "V89bf1cAAAAJ",
+                    "7Gre5tsAAAAJ",
+                    "ADJe1AsAAAAJ",
+                    "f70Rc2wAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IqGsyY_u4E4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCresa:%2BA%2Bdeep%2Blearning%2Bapproach%2Bto%2Bcompeting%2Brisks,%2Brecurrent%2Bevent%2Bsurvival%2Banalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IqGsyY_u4E4J&ei=x9ViYonjHY2ymgHnvp6ICA&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=5683805031072833826&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IqGsyY_u4E4J:scholar.google.com/&scioq=Cresa:+A+deep+learning+approach+to+competing+risks,+recurrent+event+survival+analysis&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Garima-Gupta-35/publication/332193994_CRESA_A_Deep_Learning_Approach_to_Competing_Risks_Recurrent_Event_Survival_Analysis/links/5f02e077299bf1881603a353/CRESA-A-Deep-Learning-Approach-to-Competing-Risks-Recurrent-Event-Survival-Analysis.pdf"
+            }
+        },
+        {
+            "title": "Joint channel estimation and data detection in MIMO-OFDM systems using sparse Bayesian learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "ADJe1AsAAAAJ:IjCSPb-OGe4C",
+            "authors": "R Prasad, CR Murthy",
+            "publication": "2014 Twentieth National Conference on Communications (NCC), 1-6, 2014",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9508146180911369447",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9508146180911369447&engine=google_scholar&hl=en",
+                "cites_id": "9508146180911369447"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Joint channel estimation and data detection in MIMO-OFDM systems: A sparse Bayesian learning approach",
+                    "author": [
+                        "R Prasad",
+                        "CR Murthy",
+                        "BD Rao"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "IEEE Transactions on signal \u2026",
+                    "abstract": "In this subsection, we present the basic set-up of the coded MIMO-OFDM system  channel  estimation and joint channel estimation and data detection in a MIMO-OFDM system using the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7140825/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "tlQbRJMAAAAJ",
+                    "dJRKST0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VNWw1SUhLIkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DJoint%2Bchannel%2Bestimation%2Band%2Bdata%2Bdetection%2Bin%2BMIMO-OFDM%2Bsystems%2Busing%2Bsparse%2BBayesian%2Blearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VNWw1SUhLIkJ&ei=ytViYoW1Do2ymgHnvp6ICA&json=",
+                "num_citations": 106,
+                "citedby_url": "/scholar?cites=9884311728554038612&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VNWw1SUhLIkJ:scholar.google.com/&scioq=Joint+channel+estimation+and+data+detection+in+MIMO-OFDM+systems+using+sparse+Bayesian+learning&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "MetaCI: Meta-Learning for Causal Inference in a Heterogeneous Population",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:mB3voiENLucC",
+            "citation_id": "ADJe1AsAAAAJ:mB3voiENLucC",
+            "authors": "GS Ankit Sharma, Garima Gupta, Ranjitha Prasad, Arnab Chatterjee, Lovekesh Vig",
+            "publication": "Conference on Neural Information Processing Systems(NeurIPS 2019) - CausalML \u2026, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16044564325859120009",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16044564325859120009&engine=google_scholar&hl=en",
+                "cites_id": "16044564325859120009"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Metaci: Meta-learning for causal inference in a heterogeneous population",
+                    "author": [
+                        "A Sharma",
+                        "G Gupta",
+                        "R Prasad",
+                        "A Chatterjee"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Performing inference on data obtained through observational studies is becoming extremely relevant due to the widespread availability of data in fields such as healthcare, education, retail, etc. Furthermore, this data is accrued from multiple homogeneous subgroups of a heterogeneous population, and hence, generalizing the inference mechanism over such data is essential. We propose the MetaCI framework with the goal of answering counterfactual questions in the context of causal inference (CI), where the factual"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1912.03960",
+                "author_id": [
+                    "clYkqokAAAAJ",
+                    "V89bf1cAAAAJ",
+                    "ADJe1AsAAAAJ",
+                    "Rri-ZPUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:idO8Ij--qd4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMetaCI:%2BMeta-Learning%2Bfor%2BCausal%2BInference%2Bin%2Ba%2BHeterogeneous%2BPopulation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=idO8Ij--qd4J&ei=1dViYoD6K8LZmQHc1ovQAg&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=16044564325859120009&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:idO8Ij--qd4J:scholar.google.com/&scioq=MetaCI:+Meta-Learning+for+Causal+Inference+in+a+Heterogeneous+Population&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1912.03960"
+            }
+        },
+        {
+            "title": "Joint data detection and dominant singular mode estimation in time varying reciprocal MIMO systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "ADJe1AsAAAAJ:u-x6o8ySG0sC",
+            "authors": "R Prasad, BN Bharath, CR Murthy",
+            "publication": "2011 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2011",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9856889967411038286",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9856889967411038286&engine=google_scholar&hl=en",
+                "cites_id": "9856889967411038286"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Joint data detection and dominant singular mode estimation in time varying reciprocal MIMO systems",
+                    "author": [
+                        "R Prasad",
+                        "BN Bharath"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "2011 IEEE International \u2026",
+                    "abstract": "This paper proposes an algorithm for joint data detection and tracking of the dominant singular mode of a time varying channel at the transmitter and receiver of a time division duplex multiple input multiple output beamforming system. The method proposed is a modified expectation maximization algorithm which utilizes an initial estimate to track the dominant modes of the channel at the transmitter and the receiver blindly; and simultaneously detects the un known data. Furthermore, the estimates are constrained to be"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/5946712/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "AOuGtukAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ToiliTO1yogJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DJoint%2Bdata%2Bdetection%2Band%2Bdominant%2Bsingular%2Bmode%2Bestimation%2Bin%2Btime%2Bvarying%2Breciprocal%2BMIMO%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ToiliTO1yogJ&ei=7dViYuDyGoyuyASD3KfABw&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=9856889967411038286&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ToiliTO1yogJ:scholar.google.com/&scioq=Joint+data+detection+and+dominant+singular+mode+estimation+in+time+varying+reciprocal+MIMO+systems&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Camta: Causal attention model for multi-touch attribution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "ADJe1AsAAAAJ:j3f4tGmQtD8C",
+            "authors": "S Kumar, G Gupta, R Prasad, A Chatterjee, L Vig, G Shroff",
+            "publication": "2020 International Conference on Data Mining Workshops (ICDMW), 79-86, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13685575165990693817",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13685575165990693817&engine=google_scholar&hl=en",
+                "cites_id": "13685575165990693817"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Camta: Causal attention model for multi-touch attribution",
+                    "author": [
+                        "S Kumar",
+                        "G Gupta",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 Conference on Data \u2026",
+                    "abstract": "Advertising channels have evolved from conventional print media, billboards and radio-advertising to online digital advertising (ad), where the users are exposed to a sequence of ad campaigns via social networks, display ads, search etc. While advertisers revisit the design of ad campaigns to concurrently serve the requirements emerging out of new ad channels, it is also critical for advertisers to estimate the contribution from touch-points (view, clicks, converts) on different channels, based on the sequence of customer actions. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9346365/",
+                "author_id": [
+                    "Mx_fvegAAAAJ",
+                    "V89bf1cAAAAJ",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uWvIqxru7L0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCamta:%2BCausal%2Battention%2Bmodel%2Bfor%2Bmulti-touch%2Battribution%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uWvIqxru7L0J&ei=-NViYu6TLpyO6rQP-viEEA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=13685575165990693817&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:uWvIqxru7L0J:scholar.google.com/&scioq=Camta:+Causal+attention+model+for+multi-touch+attribution&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2012.11403"
+            }
+        },
+        {
+            "title": "Multimbnn: Matched and balanced causal inference with neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "ADJe1AsAAAAJ:e5wmG9Sq2KIC",
+            "authors": "A Sharma, G Gupta, R Prasad, A Chatterjee, L Vig, G Shroff",
+            "publication": "arXiv preprint arXiv:2004.13446, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3205048227298061259",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3205048227298061259&engine=google_scholar&hl=en",
+                "cites_id": "3205048227298061259"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multimbnn: Matched and balanced causal inference with neural networks",
+                    "author": [
+                        "A Sharma",
+                        "G Gupta",
+                        "R Prasad",
+                        "A Chatterjee"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Causal inference (CI) in observational studies has received a lot of attention in healthcare, education, ad attribution, policy evaluation, etc. Confounding is a typical hazard, where the context affects both, the treatment assignment and response. In a multiple treatment scenario, we propose the neural network based MultiMBNN, where we overcome confounding by employing generalized propensity score based matching, and learning balanced representations. We benchmark the performance on synthetic and real-world"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2004.13446",
+                "author_id": [
+                    "clYkqokAAAAJ",
+                    "V89bf1cAAAAJ",
+                    "ADJe1AsAAAAJ",
+                    "Rri-ZPUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:y6sYtGGeeiwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMultimbnn:%2BMatched%2Band%2Bbalanced%2Bcausal%2Binference%2Bwith%2Bneural%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=y6sYtGGeeiwJ&ei=-9ViYv3aKY2ymgHnvp6ICA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=3205048227298061259&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:y6sYtGGeeiwJ:scholar.google.com/&scioq=Multimbnn:+Matched+and+balanced+causal+inference+with+neural+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2004.13446"
+            }
+        },
+        {
+            "title": "Online recovery of temporally correlated sparse signals using multiple measurement vectors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:ufrVoPGSRksC",
+            "citation_id": "ADJe1AsAAAAJ:ufrVoPGSRksC",
+            "authors": "G Joseph, CR Murthy, R Prasad, BD Rao",
+            "publication": "2015 IEEE Global Communications Conference (GLOBECOM), 1-6, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12680308139837041320",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12680308139837041320&engine=google_scholar&hl=en",
+                "cites_id": "12680308139837041320"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Online recovery of temporally correlated sparse signals using multiple measurement vectors",
+                    "author": [
+                        "G Joseph",
+                        "CR Murthy",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE Global \u2026",
+                    "abstract": "This work addresses the problem of sequential recovery of temporally correlated sparse vectors with common support from noisy under-determined linear measurements. The Kalman sparse Bayesian learning (SBL) algorithm [1] is an efficient tool for solving the problem when the temporal correlation is modeled using a first order autoregressive model. However, this method processes the input data in a batch mode, which results in high latency. We propose two online SBL algorithms which operate on the observations in a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7417777/",
+                "author_id": [
+                    "6OG4_gQAAAAJ",
+                    "tlQbRJMAAAAJ",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qCp77RGB-a8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOnline%2Brecovery%2Bof%2Btemporally%2Bcorrelated%2Bsparse%2Bsignals%2Busing%2Bmultiple%2Bmeasurement%2Bvectors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qCp77RGB-a8J&ei=AdZiYr_vDJGJmwGIxre4DA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=12680308139837041320&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qCp77RGB-a8J:scholar.google.com/&scioq=Online+recovery+of+temporally+correlated+sparse+signals+using+multiple+measurement+vectors&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Global warming: genesis, facts and impacts on livestock farming and mitigation strategies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "ADJe1AsAAAAJ:M3NEmzRMIkIC",
+            "authors": "RJ Prasad, SJ Sourie, VR Cherukuri, L Fita, CE Merera",
+            "publication": "Int. J. Agric. Innov. Res 3, 2319-1473, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8063159760114791126",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8063159760114791126&engine=google_scholar&hl=en",
+                "cites_id": "8063159760114791126"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Global warming: genesis, facts and impacts on livestock farming and mitigation strategies",
+                    "author": [
+                        "RJ Prasad",
+                        "SJ Sourie",
+                        "VR Cherukuri",
+                        "L Fita"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Int. J. Agric. Innov \u2026",
+                    "abstract": "Global warming is the phenomenon of increase in the temperature of Earth's surface bringing permanent change in the environment, which is due to release of anthropogenic greenhouse gases (GHGs) mainly carbon dioxide, methane and nitrous oxide due to combustion of fossil fuels like oil, gas, coal, electronic goods and other sources. Livestock sector is one of the top two or three most significant contributors to the environmental problems, contributing 12.5-18% of GHG emissions, which include 9% of carbon dioxide"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://www.ijair.org/administrator/components/com_jresearch/files/publications/IJAIR_1267_Final.pdf",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:1rLd1BQZ5m8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGlobal%2Bwarming:%2Bgenesis,%2Bfacts%2Band%2Bimpacts%2Bon%2Blivestock%2Bfarming%2Band%2Bmitigation%2Bstrategies%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1rLd1BQZ5m8J&ei=CtZiYrSOO5WMy9YPt8OamA0&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=8063159760114791126&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:1rLd1BQZ5m8J:scholar.google.com/&scioq=Global+warming:+genesis,+facts+and+impacts+on+livestock+farming+and+mitigation+strategies&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.ijair.org/administrator/components/com_jresearch/files/publications/IJAIR_1267_Final.pdf"
+            }
+        },
+        {
+            "title": "Sparse signal recovery in the presence of colored noise and rank-deficient noise covariance matrix: An sbl approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "ADJe1AsAAAAJ:Y0pCki6q_DkC",
+            "authors": "V Vinjamuri, R Prasad, CR Murthy",
+            "publication": "2015 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=871298758976402574",
+                "serpapi_link": "https://serpapi.com/search.json?cites=871298758976402574&engine=google_scholar&hl=en",
+                "cites_id": "871298758976402574"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sparse signal recovery in the presence of colored noise and rank-deficient noise covariance matrix: An sbl approach",
+                    "author": [
+                        "V Vinjamuri",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE International \u2026",
+                    "abstract": "In this work, we address the recovery of sparse and compressible vectors in the presence of colored noise possibly with a rank-deficient noise covariance matrix, from overcomplete noisy linear measurements. We exploit the structure of the noise covariance matrix in a Bayesian framework. In particular, we propose the CoNo-SBL algorithm based on the popular and efficient Sparse Bayesian Learning (SBL) technique. We also derive Bayesian and Marginalized Cram\u00e9r Rao lower Bounds (CRB) for the problem of estimating"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7178674/",
+                "author_id": [
+                    "",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jvQG3pp5FwwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSparse%2Bsignal%2Brecovery%2Bin%2Bthe%2Bpresence%2Bof%2Bcolored%2Bnoise%2Band%2Brank-deficient%2Bnoise%2Bcovariance%2Bmatrix:%2BAn%2Bsbl%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jvQG3pp5FwwJ&ei=FtZiYrzyLJLeyQTms5KQBg&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=871298758976402574&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jvQG3pp5FwwJ:scholar.google.com/&scioq=Sparse+signal+recovery+in+the+presence+of+colored+noise+and+rank-deficient+noise+covariance+matrix:+An+sbl+approach&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "DAGSurv: Directed Ayclic Graph Based Survival Analysis Using Deep Neural Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:YFjsv_pBGBYC",
+            "citation_id": "ADJe1AsAAAAJ:YFjsv_pBGBYC",
+            "authors": "AK Sharma, R Kukreja, R Prasad, S Rao",
+            "publication": "Asian Conference on Machine Learning, 1065-1080, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2019438423984835011",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2019438423984835011&engine=google_scholar&hl=en",
+                "cites_id": "2019438423984835011"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "DAGSurv: Directed Ayclic Graph Based Survival Analysis Using Deep Neural Networks",
+                    "author": [
+                        "AK Sharma",
+                        "R Kukreja",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Asian Conference on \u2026",
+                    "abstract": "Causal structures for observational survival data provide crucial information regarding the relationships between covariates and time-to-event. We derive motivation from the information theoretic source coding argument, and show that incorporating the knowledge of the directed acyclic graph (DAG) can be beneficial if suitable source encoders are employed. As a possible source encoder in this context, we derive a variational inference based conditional variational autoencoder for causal structured survival prediction, which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://proceedings.mlr.press/v157/sharma21a.html",
+                "author_id": [
+                    "XphnX3cAAAAJ",
+                    "",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wwlkE4x8BhwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDAGSurv:%2BDirected%2BAyclic%2BGraph%2BBased%2BSurvival%2BAnalysis%2BUsing%2BDeep%2BNeural%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wwlkE4x8BhwJ&ei=G9ZiYpigDuHDywTjooCQBQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=2019438423984835011&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wwlkE4x8BhwJ:scholar.google.com/&scioq=DAGSurv:+Directed+Ayclic+Graph+Based+Survival+Analysis+Using+Deep+Neural+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://proceedings.mlr.press/v157/sharma21a/sharma21a.pdf"
+            }
+        },
+        {
+            "title": "Hi-CI: Deep Causal Inference in High Dimensions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:r0BpntZqJG4C",
+            "citation_id": "ADJe1AsAAAAJ:r0BpntZqJG4C",
+            "authors": "A Sharma, G Gupta, R Prasad, A Chatterjee, L Vig, G Shroff",
+            "publication": "Proceedings of the 2020 KDD Workshop on Causal Discovery, 39-61, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9224272058040881407",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9224272058040881407&engine=google_scholar&hl=en",
+                "cites_id": "9224272058040881407"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Hi-CI: Deep Causal Inference in High Dimensions",
+                    "author": [
+                        "A Sharma",
+                        "G Gupta",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "We address the problem of counterfactual regression using causal inference (CI) in obser-vational studies consisting of high dimensional covariates and high cardinality treatments. Confounding bias, which leads to inaccurate treatment effect estimation, is attributed to covariates that affect both treatments and outcome. The presence of high-dimensional co-variates exacerbates the impact of bias as it is harder to isolate and measure the impact of these confounders. In the presence of high-cardinality treatment variables, CI is rendered ill"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://proceedings.mlr.press/v127/sharma20a",
+                "author_id": [
+                    "clYkqokAAAAJ",
+                    "V89bf1cAAAAJ",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_5AWg5AyA4AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHi-CI:%2BDeep%2BCausal%2BInference%2Bin%2BHigh%2BDimensions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_5AWg5AyA4AJ&ei=INZiYsrGBYOEmgH1zZjACQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9224272058040881407&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_5AWg5AyA4AJ:scholar.google.com/&scioq=Hi-CI:+Deep+Causal+Inference+in+High+Dimensions&hl=en&as_sdt=0,33",
+                "eprint_url": "http://proceedings.mlr.press/v127/sharma20a/sharma20a.pdf"
+            }
+        },
+        {
+            "title": "Sparse Bayesian Learning For Joint Channel Estimation Data Detection In OFDM Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "ADJe1AsAAAAJ:YsMSGLbcyi4C",
+            "authors": "R Prasad",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3627579653838493634",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3627579653838493634&engine=google_scholar&hl=en",
+                "cites_id": "3627579653838493634"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sparse Bayesian Learning For Joint Channel Estimation Data Detection In OFDM Systems",
+                    "author": [
+                        "R Prasad"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "Bayesian approaches for sparse signal recovery have enjoyed a long-standing history in signal processing and machine learning literature. Among the Bayesian techniques, the expectation maximization based Sparse Bayesian Learning (SBL) approach is an iterative procedure with global convergence guarantee to a local optimum, which uses a parameterized prior that encourages sparsity under an evidence maximization frame\u00ac work. SBL has been successfully employed in a wide range of applications ranging from image"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://etd.iisc.ac.in/handle/2005/4008",
+                "author_id": [
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wld6tXnAVzIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSparse%2BBayesian%2BLearning%2BFor%2BJoint%2BChannel%2BEstimation%2BData%2BDetection%2BIn%2BOFDM%2BSystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wld6tXnAVzIJ&ei=JNZiYsObLu-Sy9YPmNWywAs&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=3627579653838493634&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wld6tXnAVzIJ:scholar.google.com/&scioq=Sparse+Bayesian+Learning+For+Joint+Channel+Estimation+Data+Detection+In+OFDM+Systems&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Lower bounds on the bayes risk of the Bayesian BTL model with applications to comparison graphs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:Se3iqnhoufwC",
+            "citation_id": "ADJe1AsAAAAJ:Se3iqnhoufwC",
+            "authors": "M Alsan, R Prasad, VYF Tan",
+            "publication": "IEEE Journal of Selected Topics in Signal Processing 12 (5), 975-988, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2436379934313942186",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2436379934313942186&engine=google_scholar&hl=en",
+                "cites_id": "2436379934313942186"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lower bounds on the bayes risk of the Bayesian BTL model with applications to comparison graphs",
+                    "author": [
+                        "M Alsan",
+                        "R Prasad",
+                        "VYF Tan"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Journal of Selected Topics \u2026",
+                    "abstract": "We consider the problem of aggregating pairwise comparisons to obtain a consensus ranking order over a collection of objects. We use the popular Bradley-Terry-Luce (BTL) model, which allows us to probabilistically describe pairwise comparisons between objects. In particular, we employ the Bayesian BTL model, which allows for meaningful prior assumptions and to cope with situations where the number of objects is large and the number of comparisons between some objects is small or even zero. For the conventional"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8338110/",
+                "author_id": [
+                    "",
+                    "ADJe1AsAAAAJ",
+                    "dJoAVvAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qgysSqTCzyEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLower%2Bbounds%2Bon%2Bthe%2Bbayes%2Brisk%2Bof%2Bthe%2BBayesian%2BBTL%2Bmodel%2Bwith%2Bapplications%2Bto%2Bcomparison%2Bgraphs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qgysSqTCzyEJ&ei=MNZiYrT0OI6pywSdh6agAg&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=2436379934313942186&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qgysSqTCzyEJ:scholar.google.com/&scioq=Lower+bounds+on+the+bayes+risk+of+the+Bayesian+BTL+model+with+applications+to+comparison+graphs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1709.09676"
+            }
+        },
+        {
+            "title": "Lower bounds on the bayes risk of the Bayesian BTL model with applications to comparison graphs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "ADJe1AsAAAAJ:LkGwnXOMwfcC",
+            "authors": "M Alsan, R Prasad, VYF Tan",
+            "publication": "IEEE Journal of Selected Topics in Signal Processing 12 (5), 975-988, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2436379934313942186",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2436379934313942186&engine=google_scholar&hl=en",
+                "cites_id": "2436379934313942186"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lower bounds on the bayes risk of the Bayesian BTL model with applications to comparison graphs",
+                    "author": [
+                        "M Alsan",
+                        "R Prasad",
+                        "VYF Tan"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Journal of Selected Topics \u2026",
+                    "abstract": "We consider the problem of aggregating pairwise comparisons to obtain a consensus ranking order over a collection of objects. We use the popular Bradley-Terry-Luce (BTL) model, which allows us to probabilistically describe pairwise comparisons between objects. In particular, we employ the Bayesian BTL model, which allows for meaningful prior assumptions and to cope with situations where the number of objects is large and the number of comparisons between some objects is small or even zero. For the conventional"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8338110/",
+                "author_id": [
+                    "",
+                    "ADJe1AsAAAAJ",
+                    "dJoAVvAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qgysSqTCzyEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLower%2Bbounds%2Bon%2Bthe%2Bbayes%2Brisk%2Bof%2Bthe%2BBayesian%2BBTL%2Bmodel%2Bwith%2Bapplications%2Bto%2Bcomparison%2Bgraphs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qgysSqTCzyEJ&ei=PdZiYse8I--Sy9YPmNWywAs&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=2436379934313942186&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qgysSqTCzyEJ:scholar.google.com/&scioq=Lower+bounds+on+the+bayes+risk+of+the+Bayesian+BTL+model+with+applications+to+comparison+graphs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1709.09676"
+            }
+        },
+        {
+            "title": "Unlabelled Sensing: A Sparse Bayesian Learning Approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:roLk4NBRz8UC",
+            "citation_id": "ADJe1AsAAAAJ:roLk4NBRz8UC",
+            "authors": "R Prasad",
+            "publication": "https://arxiv.org/pdf/1802.00559.pdf, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12930854554987459274",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12930854554987459274&engine=google_scholar&hl=en",
+                "cites_id": "12930854554987459274"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Unlabelled Sensing: A Sparse Bayesian Learning Approach",
+                    "author": [
+                        "R Prasad"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv:1802.00559",
+                    "abstract": "We address the recovery of sparse vectors in an overcomplete, linear and noisy multiple measurement framework, where the measurement matrix is known upto a permutation of its rows. We derive sparse Bayesian learning (SBL) based updates for joint recovery of the unknown sparse vector and the sensing order, represented using a permutation matrix. We model the sparse matrix using multiple uncorrelated and correlated vectors, and in particular, we use the first order AR model for the correlated sparse vectors. We propose the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1802.00559",
+                "author_id": [
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:yvJECLWfc7MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUnlabelled%2BSensing:%2BA%2BSparse%2BBayesian%2BLearning%2BApproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yvJECLWfc7MJ&ei=RdZiYuKjMoyuyASD3KfABw&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=12930854554987459274&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yvJECLWfc7MJ:scholar.google.com/&scioq=Unlabelled+Sensing:+A+Sparse+Bayesian+Learning+Approach&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1802.00559"
+            }
+        },
+        {
+            "title": "Robust channel tracking in fast fading MIMO channels",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "ADJe1AsAAAAJ:d1gkVwhDpl0C",
+            "authors": "R Prasad, K Giridhar",
+            "publication": "IEEE GLOBECOM 2008-2008 IEEE Global Telecommunications Conference, 1-5, 2008",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5480889213231083846",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5480889213231083846&engine=google_scholar&hl=en",
+                "cites_id": "5480889213231083846"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robust channel tracking in fast fading MIMO channels",
+                    "author": [
+                        "R Prasad",
+                        "K Giridhar"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "IEEE GLOBECOM 2008-2008 IEEE \u2026",
+                    "abstract": "Channel estimation for Alamouti space frequency coded (ASFC) 2 times 2 and 2 times 1 MIMO OFDM systems, employing decision directed channel tracking (DDCT) for high fade rates and long frame durations is studied here. Errors in the regression matrix (ie equalisation errors) have a Gaussian distribution, but due to error propagation problem of DDCT at high fade rates and long symbol durations, large deviations from the Gaussian model is observed. Hence the problem of channel estimation can be formulated as an outlier"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/4698605/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "WAZimrsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:RrHoT7MHEEwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobust%2Bchannel%2Btracking%2Bin%2Bfast%2Bfading%2BMIMO%2Bchannels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=RrHoT7MHEEwJ&ei=SNZiYrnGE46pywSdh6agAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5480889213231083846&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:RrHoT7MHEEwJ:scholar.google.com/&scioq=Robust+channel+tracking+in+fast+fading+MIMO+channels&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Learn to Live Longer: Counterfactual Inference using Balanced Representations for Parametric Deep Survival Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:BqipwSGYUEgC",
+            "citation_id": "ADJe1AsAAAAJ:BqipwSGYUEgC",
+            "authors": "R Prasad",
+            "publication": "TechRxiv, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Learn to Live Longer: Counterfactual Inference using Balanced Representations for Parametric Deep Survival Analysis",
+                    "author": [
+                        "R Prasad"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "NA",
+                    "abstract": "Learn to Live Longer: Counterfactual Inference using Balanced Representations for  Parametric Deep Survival Analysis"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.techrxiv.org/articles/preprint/Learn_to_Live_Longer_Counterfactual_Inference_using_Balanced_Representations_for_Parametric_Deep_Survival_Analysis/19105451",
+                "author_id": [
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:SZj6otKJUWUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearn%2Bto%2BLive%2BLonger:%2BCounterfactual%2BInference%2Busing%2BBalanced%2BRepresentations%2Bfor%2BParametric%2BDeep%2BSurvival%2BAnalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SZj6otKJUWUJ&ei=StZiYtmoIu-Sy9YPmNWywAs&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "DAGSurv: Directed Acyclic Graph Based Survival Analysis Using Deep Neural Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:blknAaTinKkC",
+            "citation_id": "ADJe1AsAAAAJ:blknAaTinKkC",
+            "authors": "SR Ansh Kumar Sharma, Rahul Kukreja, Ranjitha Prasad",
+            "publication": "ACML, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "DAGSurv: Directed Ayclic Graph Based Survival Analysis Using Deep Neural Networks",
+                    "author": [
+                        "AK Sharma",
+                        "R Kukreja",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Asian Conference on \u2026",
+                    "abstract": "Causal structures for observational survival data provide crucial information regarding the relationships between covariates and time-to-event. We derive motivation from the information theoretic source coding argument, and show that incorporating the knowledge of the directed acyclic graph (DAG) can be beneficial if suitable source encoders are employed. As a possible source encoder in this context, we derive a variational inference based conditional variational autoencoder for causal structured survival prediction, which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://proceedings.mlr.press/v157/sharma21a.html",
+                "author_id": [
+                    "XphnX3cAAAAJ",
+                    "",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wwlkE4x8BhwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDAGSurv:%2BDirected%2BAcyclic%2BGraph%2BBased%2BSurvival%2BAnalysis%2BUsing%2BDeep%2BNeural%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wwlkE4x8BhwJ&ei=TtZiYoU7wtmZAdzWi9AC&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=2019438423984835011&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wwlkE4x8BhwJ:scholar.google.com/&scioq=DAGSurv:+Directed+Acyclic+Graph+Based+Survival+Analysis+Using+Deep+Neural+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://proceedings.mlr.press/v157/sharma21a/sharma21a.pdf"
+            }
+        },
+        {
+            "title": "Method and system for matched and balanced causal inference for multiple treatments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:NMxIlDl6LWMC",
+            "citation_id": "ADJe1AsAAAAJ:NMxIlDl6LWMC",
+            "authors": "G Gupta, A Sharma, R Prasad, A Chatterjee, L Vig, G Shroff",
+            "publication": "US Patent App. 17/249,454, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Method and system for matched and balanced causal inference for multiple treatments",
+                    "author": [
+                        "G Gupta",
+                        "A Sharma",
+                        "R Prasad",
+                        "A Chatterjee"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "US Patent App. 17 \u2026",
+                    "abstract": "Causality is a crucial paradigm in several domains where observational data is available. Primary goal of Causal Inference (CI) is to uncover cause-effect relationship between entities. Conventional methods face challenges in providing an accurate CI framework due to cofounding and selection bias in multiple treatment scenario. The present disclosure computes a Propensity Score (PS) from a received CI data for the plurality of subjects under test for a treatment. A Generalized Propensity Score (GPS) is computed for a plurality of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20210326727A1/en",
+                "author_id": [
+                    "",
+                    "",
+                    "ADJe1AsAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:AfFe0VzHF8MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethod%2Band%2Bsystem%2Bfor%2Bmatched%2Band%2Bbalanced%2Bcausal%2Binference%2Bfor%2Bmultiple%2Btreatments%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AfFe0VzHF8MJ&ei=UtZiYriNMZWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "eprint_url": "https://patentimages.storage.googleapis.com/0a/aa/32/4f7be34acac1c2/US20210326727A1.pdf"
+            }
+        },
+        {
+            "title": "Locally Interpretable Model Agnostic Explanations using Gaussian Processes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:hMod-77fHWUC",
+            "citation_id": "ADJe1AsAAAAJ:hMod-77fHWUC",
+            "authors": "A Saini, R Prasad",
+            "publication": "arXiv preprint arXiv:2108.06907, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Locally Interpretable Model Agnostic Explanations using Gaussian Processes",
+                    "author": [
+                        "A Saini",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv:2108.06907",
+                    "abstract": "Owing to tremendous performance improvements in data-intensive domains, machine learning (ML) has garnered immense interest in the research community. However, these ML models turn out to be black boxes, which are tough to interpret, resulting in a direct decrease in productivity. Local Interpretable Model-Agnostic Explanations (LIME) is a popular technique for explaining the prediction of a single instance. Although LIME is simple and versatile, it suffers from instability in the generated explanations. In this paper, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2108.06907",
+                "author_id": [
+                    "dZ7bBxQAAAAJ",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:3Yw-oyS1vIcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLocally%2BInterpretable%2BModel%2BAgnostic%2BExplanations%2Busing%2BGaussian%2BProcesses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3Yw-oyS1vIcJ&ei=VtZiYo-9Bu-Sy9YPmNWywAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:3Yw-oyS1vIcJ:scholar.google.com/&scioq=Locally+Interpretable+Model+Agnostic+Explanations+using+Gaussian+Processes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2108.06907"
+            }
+        },
+        {
+            "title": "Path-Aware OMP Algorithms for Provenance Recovery in Vehicular Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "ADJe1AsAAAAJ:JV2RwH3_ST0C",
+            "authors": "S Mishra, J Harshan, R Prasad",
+            "publication": "arXiv e-prints, arXiv: 2105.12456, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Path-Aware OMP Algorithms for Provenance Recovery in Vehicular Networks",
+                    "author": [
+                        "S Mishra",
+                        "J Harshan",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv e-prints",
+                    "abstract": "Low-latency provenance embedding methods have received traction in vehicular networks for their ability to track the footprint of information flow. One such known method is based on Bloom filters wherein the nodes that forward the packets appropriately choose a certain number of hash functions to embed their signatures in a shared space in the packet. Although Bloom filter methods can achieve the required accuracy level in provenance recovery, they are known to incur higher processing delay since higher number of hash"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210512456M/abstract",
+                "author_id": [
+                    "",
+                    "",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:INNMk-PfmbYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPath-Aware%2BOMP%2BAlgorithms%2Bfor%2BProvenance%2BRecovery%2Bin%2BVehicular%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=INNMk-PfmbYJ&ei=WNZiYv6WNvmQ6rQPzKCxuAY&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Supplementary Material: DAGSurv: Directed Ayclic Graph Based Survival Analysis Using Deep Neural Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:ns9cj8rnVeAC",
+            "citation_id": "ADJe1AsAAAAJ:ns9cj8rnVeAC",
+            "authors": "AK Sharma, R Kukreja, R Prasad, S Rao",
+            "publication": "Proceedings of Machine Learning Research 157 (2021), 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "DAGSurv: Directed Ayclic Graph Based Survival Analysis Using Deep Neural Networks",
+                    "author": [
+                        "AK Sharma",
+                        "R Kukreja",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Asian Conference on \u2026",
+                    "abstract": "Causal structures for observational survival data provide crucial information regarding the relationships between covariates and time-to-event. We derive motivation from the information theoretic source coding argument, and show that incorporating the knowledge of the directed acyclic graph (DAG) can be beneficial if suitable source encoders are employed. As a possible source encoder in this context, we derive a variational inference based conditional variational autoencoder for causal structured survival prediction, which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://proceedings.mlr.press/v157/sharma21a.html",
+                "author_id": [
+                    "XphnX3cAAAAJ",
+                    "",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wwlkE4x8BhwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSupplementary%2BMaterial:%2BDAGSurv:%2BDirected%2BAyclic%2BGraph%2BBased%2BSurvival%2BAnalysis%2BUsing%2BDeep%2BNeural%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wwlkE4x8BhwJ&ei=XNZiYo6eIoOEmgH1zZjACQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=2019438423984835011&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wwlkE4x8BhwJ:scholar.google.com/&scioq=Supplementary+Material:+DAGSurv:+Directed+Ayclic+Graph+Based+Survival+Analysis+Using+Deep+Neural+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://proceedings.mlr.press/v157/sharma21a/sharma21a.pdf"
+            }
+        },
+        {
+            "title": "B-SMALL: A Bayesian Neural Network Approach to Sparse Model-Agnostic Meta-Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:GnPB-g6toBAC",
+            "citation_id": "ADJe1AsAAAAJ:GnPB-g6toBAC",
+            "authors": "A Madan, R Prasad",
+            "publication": "IEEE International Conference on Acoustics, Speech and Signal Processing, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distributed Few-Shot Learning for Intelligent Recognition of Communication Jamming",
+                    "author": [
+                        "M Liu",
+                        "Z Liu",
+                        "W Lu",
+                        "Y Chen",
+                        "X Gao"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Journal of Selected \u2026",
+                    "abstract": "as the model-agnostic meta-learning network input, and then train the distributed network  through  [25] A, Madan, R Prasad, \u201cB-small: a bayesian neural network approach to sparse"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9658166/",
+                "author_id": [
+                    "XRsveJYAAAAJ",
+                    "ODFLmIwAAAAJ",
+                    "",
+                    "WMbGRBwAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:DpARxV82Vu0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DB-SMALL:%2BA%2BBayesian%2BNeural%2BNetwork%2BApproach%2Bto%2BSparse%2BModel-Agnostic%2BMeta-Learning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DpARxV82Vu0J&ei=YtZiYtnfJoyuyASD3KfABw&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=17101916419942092814&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:DpARxV82Vu0J:scholar.google.com/&scioq=B-SMALL:+A+Bayesian+Neural+Network+Approach+to+Sparse+Model-Agnostic+Meta-Learning&hl=en&as_sdt=0,33",
+                "eprint_url": "http://wrap.warwick.ac.uk/161185/1/WRAP-distributed-few-shot%20learning-intelligent-recognition-communication-jamming-Chen-2021.pdf"
+            }
+        },
+        {
+            "title": "Sparsity constraints and knowledge distillation based learning of sparser and compressed neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "ADJe1AsAAAAJ:iH-uZ7U-co4C",
+            "authors": "S Hegde, R Hebbalaguppe, R Prasad",
+            "publication": "US Patent App. 16/562,758, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sparsity constraints and knowledge distillation based learning of sparser and compressed neural networks",
+                    "author": [
+                        "S Hegde",
+                        "R Hebbalaguppe",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "US Patent App. 16/562,758",
+                    "abstract": "Implementations of the present disclosure build a Bayesian student network using the knowledge learnt by an accurate but complex pre-trained teacher network, and sparsity induced by the variational parameters in a student network. Further, the sparsity inducing capability of the teacher on the student network is learnt by employing a Block Sparse Regularizer on a concatenated tensor of teacher and student network weights. Specifically, the student network is trained using the variational lower bound based loss function"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20200387782A1/en",
+                "author_id": [
+                    "_tDIXM0AAAAJ",
+                    "IJjnjZIAAAAJ",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:es22j2oR8-4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSparsity%2Bconstraints%2Band%2Bknowledge%2Bdistillation%2Bbased%2Blearning%2Bof%2Bsparser%2Band%2Bcompressed%2Bneural%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=es22j2oR8-4J&ei=ZtZiYuSCJ4ySyATlkbrQCA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://patentimages.storage.googleapis.com/f2/46/b2/c129197e541a05/US20200387782A1.pdf"
+            }
+        },
+        {
+            "title": "CAMTA: Causal Attention Model for Multi-touch Attribution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "ADJe1AsAAAAJ:4JMBOYKVnBMC",
+            "authors": "GS Sachin Kumar, Garima Gupta, Ranjitha Prasad, Arnab Chatterjee, Lovekesh Vig",
+            "publication": "ICDM DMS workshop, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Camta: Causal attention model for multi-touch attribution",
+                    "author": [
+                        "S Kumar",
+                        "G Gupta",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 Conference on Data \u2026",
+                    "abstract": "Advertising channels have evolved from conventional print media, billboards and radio-advertising to online digital advertising (ad), where the users are exposed to a sequence of ad campaigns via social networks, display ads, search etc. While advertisers revisit the design of ad campaigns to concurrently serve the requirements emerging out of new ad channels, it is also critical for advertisers to estimate the contribution from touch-points (view, clicks, converts) on different channels, based on the sequence of customer actions. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9346365/",
+                "author_id": [
+                    "Mx_fvegAAAAJ",
+                    "V89bf1cAAAAJ",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uWvIqxru7L0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCAMTA:%2BCausal%2BAttention%2BModel%2Bfor%2BMulti-touch%2BAttribution%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uWvIqxru7L0J&ei=adZiYuXtO4ySyATlkbrQCA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=13685575165990693817&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:uWvIqxru7L0J:scholar.google.com/&scioq=CAMTA:+Causal+Attention+Model+for+Multi-touch+Attribution&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2012.11403"
+            }
+        },
+        {
+            "title": "Hi-CI: Deep Causal Inference in High Dimensions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "ADJe1AsAAAAJ:_Qo2XoVZTnwC",
+            "authors": "GS Ankit Sharma, Garima Gupta, Ranjitha Prasad, Arnab Chatterjee, Lovekesh Vig",
+            "publication": "The 2020 ACM SIGKDD Workshop on Causal Discovery, Proceedings of Machine \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Hi-CI: Deep Causal Inference in High Dimensions",
+                    "author": [
+                        "A Sharma",
+                        "G Gupta",
+                        "R Prasad"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "We address the problem of counterfactual regression using causal inference (CI) in obser-vational studies consisting of high dimensional covariates and high cardinality treatments. Confounding bias, which leads to inaccurate treatment effect estimation, is attributed to covariates that affect both treatments and outcome. The presence of high-dimensional co-variates exacerbates the impact of bias as it is harder to isolate and measure the impact of these confounders. In the presence of high-cardinality treatment variables, CI is rendered ill"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://proceedings.mlr.press/v127/sharma20a",
+                "author_id": [
+                    "clYkqokAAAAJ",
+                    "V89bf1cAAAAJ",
+                    "ADJe1AsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_5AWg5AyA4AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHi-CI:%2BDeep%2BCausal%2BInference%2Bin%2BHigh%2BDimensions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_5AWg5AyA4AJ&ei=bdZiYonwGI2ymgHnvp6ICA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9224272058040881407&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_5AWg5AyA4AJ:scholar.google.com/&scioq=Hi-CI:+Deep+Causal+Inference+in+High+Dimensions&hl=en&as_sdt=0,33",
+                "eprint_url": "http://proceedings.mlr.press/v127/sharma20a/sharma20a.pdf"
+            }
+        },
+        {
+            "title": "Inference Algorithms for the Multiplicative Mixture Mallows Model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:qUcmZB5y_30C",
+            "citation_id": "ADJe1AsAAAAJ:qUcmZB5y_30C",
+            "authors": "R Prasad, VYF Tan",
+            "publication": "2018 International Conference on Signal Processing and Communications (SPCOM \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Inference Algorithms for the Multiplicative Mixture Mallows Model",
+                    "author": [
+                        "R Prasad",
+                        "VYF Tan"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 International Conference on Signal \u2026",
+                    "abstract": "A popular approach to obtain a consensus ranking from ranking data is based on the probabilistic, distance-based Mallows model comprising of a modal permutation and dispersion parameters. Often, the population consists of several subpopulations. As a result, finite mixture models are used to distinguish latent sub-groups of individuals in a heterogeneous population. Given a finite number of subpopulations each based on the Mallows model, a popular inference approach is the computationally intensive expectation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8724429/",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "dJoAVvAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Fsg86-jmGg0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInference%2BAlgorithms%2Bfor%2Bthe%2BMultiplicative%2BMixture%2BMallows%2BModel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Fsg86-jmGg0J&ei=cdZiYuakFY2ymgHnvp6ICA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Fsg86-jmGg0J:scholar.google.com/&scioq=Inference+Algorithms+for+the+Multiplicative+Mixture+Mallows+Model&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Lower Bounds on the Bayes Risk of the Bayesian BTL Model with Applications to Random Graphs.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:TQgYirikUcIC",
+            "citation_id": "ADJe1AsAAAAJ:TQgYirikUcIC",
+            "authors": "M Alsan, R Prasad, VYF Tan",
+            "publication": "arXiv preprint arXiv:1709.09676, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lower bounds on the bayes risk of the Bayesian BTL model with applications to comparison graphs",
+                    "author": [
+                        "M Alsan",
+                        "R Prasad",
+                        "VYF Tan"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Journal of Selected Topics \u2026",
+                    "abstract": "We consider the problem of aggregating pairwise comparisons to obtain a consensus ranking order over a collection of objects. We use the popular Bradley-Terry-Luce (BTL) model, which allows us to probabilistically describe pairwise comparisons between objects. In particular, we employ the Bayesian BTL model, which allows for meaningful prior assumptions and to cope with situations where the number of objects is large and the number of comparisons between some objects is small or even zero. For the conventional"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8338110/",
+                "author_id": [
+                    "",
+                    "ADJe1AsAAAAJ",
+                    "dJoAVvAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qgysSqTCzyEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLower%2BBounds%2Bon%2Bthe%2BBayes%2BRisk%2Bof%2Bthe%2BBayesian%2BBTL%2BModel%2Bwith%2BApplications%2Bto%2BRandom%2BGraphs.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qgysSqTCzyEJ&ei=dtZiYsvTIM6E6rQPz8uiuAc&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=2436379934313942186&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qgysSqTCzyEJ:scholar.google.com/&scioq=Lower+Bounds+on+the+Bayes+Risk+of+the+Bayesian+BTL+Model+with+Applications+to+Random+Graphs.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1709.09676"
+            }
+        },
+        {
+            "title": "ALLOCATION OF SEQUESTERED CARBON AMONG TREE-COMPONENTS AND ALTERNATIVE METHOD FOR ITS ESTIMATION IN AGROFORESTRY TREES",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:lSLTfruPkqcC",
+            "citation_id": "ADJe1AsAAAAJ:lSLTfruPkqcC",
+            "authors": "R Prasad, NK Saroj, R Newaj, SK Dhyani",
+            "publication": "Flora and Fauna(Jhansi) 17 (2), 255-262, 2011",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Biomass production and C-sequestration of Gmelina arborea in plantation and agroforestry system in India",
+                    "author": [
+                        "SL Swamy",
+                        "S Puri"
+                    ],
+                    "pub_year": "2005",
+                    "venue": "Agroforestry systems",
+                    "abstract": ", C-sequestration and nitrogen allocation in Gmelina arborea  , it varied significantly (P \u2264  0.05) among tree components  plementarity of resource capture between trees and crops would"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s10457-004-1999-3",
+                "author_id": [
+                    "",
+                    "EQkMdfMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CWaNXTcCxb4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DALLOCATION%2BOF%2BSEQUESTERED%2BCARBON%2BAMONG%2BTREE-COMPONENTS%2BAND%2BALTERNATIVE%2BMETHOD%2BFOR%2BITS%2BESTIMATION%2BIN%2BAGROFORESTRY%2BTREES%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CWaNXTcCxb4J&ei=etZiYs_oFJLeyQTms5KQBg&json=",
+                "num_citations": 132,
+                "citedby_url": "/scholar?cites=13746395874434311689&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:CWaNXTcCxb4J:scholar.google.com/&scioq=ALLOCATION+OF+SEQUESTERED+CARBON+AMONG+TREE-COMPONENTS+AND+ALTERNATIVE+METHOD+FOR+ITS+ESTIMATION+IN+AGROFORESTRY+TREES&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Standardizing methodology for estimating carbon sequestration potential of agroforestry systems in Bundelkhand Region: parameterization of CO2FIX model in Indian context.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:RYcK_YlVTxYC",
+            "citation_id": "ADJe1AsAAAAJ:RYcK_YlVTxYC",
+            "authors": "N Ram, SK Dhyani, AK Handa, B Alam, RH Rizvi, R Prasad, R Singh",
+            "publication": "Range Management and Agroforestry 32 (1), 68-70, 2011",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Standardizing methodology for estimating carbon sequestration potential of agroforestry systems in Bundelkhand Region: Parameterization of CO2FIX model in \u2026",
+                    "author": [
+                        "RN Ajit",
+                        "SK Dhyani",
+                        "AK Handa",
+                        "B Alam",
+                        "RH Rizvi"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Agroforestry is a viable alternative to prevent and mitigate climate change. IPCC recognized agroforestry as having high potential for sequestering carbon par of the climate change mitigations strategies (Watson et al., 2000). In India, average sequestration potential in agroforestry has been estimated to be 25 t carbon per ha over 96 million ha (Sathaye and Ravindranath, 1998), but there is a considerable variation in different regions depending upon the biomass production (Ram Newaj and Dhyani, 2008; Dhyani et al., 2009) and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Raza-Rizvi-5/publication/286213226_Standardizing_methodology_for_estimating_carbon_sequestration_potential_of_agroforestry_systems_in_Bundelkhand_Region_Parameterization_of_CO2FIX_model_in_Indian_context/links/598acfee45851519f10c8fca/Standardizing-methodology-for-estimating-carbon-sequestration-potential-of-agroforestry-systems-in-Bundelkhand-Region-Parameterization-of-CO2FIX-model-in-Indian-context.pdf",
+                "author_id": [
+                    "",
+                    "",
+                    "",
+                    "5EoV93cAAAAJ",
+                    "-_4B3jAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xN0qZfACHxcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStandardizing%2Bmethodology%2Bfor%2Bestimating%2Bcarbon%2Bsequestration%2Bpotential%2Bof%2Bagroforestry%2Bsystems%2Bin%2BBundelkhand%2BRegion:%2Bparameterization%2Bof%2BCO2FIX%2Bmodel%2Bin%2BIndian%2Bcontext.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xN0qZfACHxcJ&ei=fdZiYsC4MaKUy9YPyMyGkAI&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:xN0qZfACHxcJ:scholar.google.com/&scioq=Standardizing+methodology+for+estimating+carbon+sequestration+potential+of+agroforestry+systems+in+Bundelkhand+Region:+parameterization+of+CO2FIX+model+in+Indian+context.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Raza-Rizvi-5/publication/286213226_Standardizing_methodology_for_estimating_carbon_sequestration_potential_of_agroforestry_systems_in_Bundelkhand_Region_Parameterization_of_CO2FIX_model_in_Indian_context/links/598acfee45851519f10c8fca/Standardizing-methodology-for-estimating-carbon-sequestration-potential-of-agroforestry-systems-in-Bundelkhand-Region-Parameterization-of-CO2FIX-model-in-Indian-context.pdf"
+            }
+        },
+        {
+            "title": "INDUCTION CHEMOTHERAPY AND CONCURRENT CHEMO-RADIOTHERAPY FOR STAGE 4 NON-METASTATIC SQUAMOUS CARCINOMA OF THE TONSIL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:O3NaXMp0MMsC",
+            "citation_id": "ADJe1AsAAAAJ:O3NaXMp0MMsC",
+            "authors": "K Dyker, A Choudhury, R Prasad, D Williamson, J Anderson, C Coyle, ...",
+            "publication": "RADIOTHERAPY AND ONCOLOGY 88, S257-S257, 2008",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "INDUCTION CHEMOTHERAPY AND CONCURRENT CHEMO-RADIOTHERAPY FOR STAGE 4 NON-METASTATIC SQUAMOUS CARCINOMA OF THE \u2026",
+                    "author": [
+                        "K Dyker",
+                        "A Choudhury"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "\u2026",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:isSg1hCk0RQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DINDUCTION%2BCHEMOTHERAPY%2BAND%2BCONCURRENT%2BCHEMO-RADIOTHERAPY%2BFOR%2BSTAGE%2B4%2BNON-METASTATIC%2BSQUAMOUS%2BCARCINOMA%2BOF%2BTHE%2BTONSIL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=isSg1hCk0RQJ&ei=gdZiYsXQF5GJmwGIxre4DA&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Biomass fuels, technical interventions and environmental impacts in the Indian Himalaya",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:vV6vV6tmYwMC",
+            "citation_id": "ADJe1AsAAAAJ:vV6vV6tmYwMC",
+            "authors": "R Prasad, A Sharma",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1999",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Biomass fuels, technical interventions and environmental impacts in the Indian Himalaya",
+                    "author": [
+                        "R Prasad",
+                        "A Sharma"
+                    ],
+                    "pub_year": "1999",
+                    "venue": "NA",
+                    "abstract": "The Indian Himalaya has about 52 million people and 9 million livestock. Most people live in villages and mainly engage in agricultural and allied activities. They depend on biomass resources for meeting various needs. Biomass is available as cattle dung, crop residues and wood. More than 90% of the total energy consumed in the mountain area comes from biomass such as firewood and cow dung. Moreover, even now, the same are used in an inefficient traditional manner. The problem has been aggravated further because of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osti.gov/etdeweb/biblio/20041544",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "jzeb5K8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ChiECYkoslEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBiomass%2Bfuels,%2Btechnical%2Binterventions%2Band%2Benvironmental%2Bimpacts%2Bin%2Bthe%2BIndian%2BHimalaya%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ChiECYkoslEJ&ei=hdZiYp5zjbKaAee-nogI&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Relativistic generalization of whistler mode modulational instability",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:RGFaLdJalmkC",
+            "citation_id": "ADJe1AsAAAAJ:RGFaLdJalmkC",
+            "authors": "R Prasad, GP Gupta, RN Singh",
+            "publication": "Canadian Journal of Physics 59 (10), 1376-1379, 1981",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1981",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Relativistic generalization of whistler mode modulational instability",
+                    "author": [
+                        "R Prasad",
+                        "GP Gupta",
+                        "RN Singh"
+                    ],
+                    "pub_year": "1981",
+                    "venue": "Canadian Journal of Physics",
+                    "abstract": "The modulational instability of whistler mode waves interacting with relativistic plasma has been studied. The application of the Karpman and Krushkal criterion to the nonlinear Schr\u00f6dinger wave equation gives the spectrum of modulationally unstable whistler mode waves. The effect of relativistic particles on the growth rate and frequency spectrum of modulationally unstable whistler mode waves has been discussed."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://cdnsciencepub.com/doi/abs/10.1139/p81-181",
+                "author_id": [
+                    "0J6vYkEAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:I44BcQwbrG8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRelativistic%2Bgeneralization%2Bof%2Bwhistler%2Bmode%2Bmodulational%2Binstability%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=I44BcQwbrG8J&ei=iNZiYrS3M6mTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:I44BcQwbrG8J:scholar.google.com/&scioq=Relativistic+generalization+of+whistler+mode+modulational+instability&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Standardizing methodology for estimating carbon sequestration potential of agroforestry systems in Bundelkhand Region: Parameterization of CO2FIX model in Indian context",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:NaGl4SEjCO4C",
+            "citation_id": "ADJe1AsAAAAJ:NaGl4SEjCO4C",
+            "authors": "RN Ajit, SK Dhyani, AK Handa, B Alam, RH Rizvi, R Prasad, R Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Standardizing methodology for estimating carbon sequestration potential of agroforestry systems in Bundelkhand Region: Parameterization of CO2FIX model in \u2026",
+                    "author": [
+                        "RN Ajit",
+                        "SK Dhyani",
+                        "AK Handa",
+                        "B Alam",
+                        "RH Rizvi"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Agroforestry is a viable alternative to prevent and mitigate climate change. IPCC recognized agroforestry as having high potential for sequestering carbon par of the climate change mitigations strategies (Watson et al., 2000). In India, average sequestration potential in agroforestry has been estimated to be 25 t carbon per ha over 96 million ha (Sathaye and Ravindranath, 1998), but there is a considerable variation in different regions depending upon the biomass production (Ram Newaj and Dhyani, 2008; Dhyani et al., 2009) and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Raza-Rizvi-5/publication/286213226_Standardizing_methodology_for_estimating_carbon_sequestration_potential_of_agroforestry_systems_in_Bundelkhand_Region_Parameterization_of_CO2FIX_model_in_Indian_context/links/598acfee45851519f10c8fca/Standardizing-methodology-for-estimating-carbon-sequestration-potential-of-agroforestry-systems-in-Bundelkhand-Region-Parameterization-of-CO2FIX-model-in-Indian-context.pdf",
+                "author_id": [
+                    "",
+                    "",
+                    "",
+                    "5EoV93cAAAAJ",
+                    "-_4B3jAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xN0qZfACHxcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStandardizing%2Bmethodology%2Bfor%2Bestimating%2Bcarbon%2Bsequestration%2Bpotential%2Bof%2Bagroforestry%2Bsystems%2Bin%2BBundelkhand%2BRegion:%2BParameterization%2Bof%2BCO2FIX%2Bmodel%2Bin%2BIndian%2Bcontext%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xN0qZfACHxcJ&ei=jdZiYtqYLs6E6rQPz8uiuAc&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:xN0qZfACHxcJ:scholar.google.com/&scioq=Standardizing+methodology+for+estimating+carbon+sequestration+potential+of+agroforestry+systems+in+Bundelkhand+Region:+Parameterization+of+CO2FIX+model+in+Indian+context&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Raza-Rizvi-5/publication/286213226_Standardizing_methodology_for_estimating_carbon_sequestration_potential_of_agroforestry_systems_in_Bundelkhand_Region_Parameterization_of_CO2FIX_model_in_Indian_context/links/598acfee45851519f10c8fca/Standardizing-methodology-for-estimating-carbon-sequestration-potential-of-agroforestry-systems-in-Bundelkhand-Region-Parameterization-of-CO2FIX-model-in-Indian-context.pdf"
+            }
+        },
+        {
+            "title": "Robust DDCT for Fast Fading MIMO-OFDM Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ADJe1AsAAAAJ&pagesize=100&citation_for_view=ADJe1AsAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "ADJe1AsAAAAJ:9yKSN-GCB0IC",
+            "authors": "R Prasad, K Giridhar",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robust DDCT for Fast Fading MIMO-OFDM Systems",
+                    "author": [
+                        "R Prasad",
+                        "K Giridhar"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Channel estimation for MIMO OFDM sys-tems, employing Decision Directed Channel tracking (DDCT) for high fade rates (fdTs> 0.01) and long frame durations is studied here. The conventional tracking schemes like 2-D MMSE and subspace based methods used in WiMAX suffers from error floors at high fade rates. We propose to formulate the problem of MIMO OFDM channel estimation as an outlier contaminated Gaussian linear regression problem and use the framework of robust statistics to improve the performance of DDCT"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/K-Giridhar/publication/228907569_Robust_DDCT_for_Fast_Fading_MIMO-OFDM_Systems/links/55cd823208ae1141f6b9f0cf/Robust-DDCT-for-Fast-Fading-MIMO-OFDM-Systems.pdf",
+                "author_id": [
+                    "ADJe1AsAAAAJ",
+                    "WAZimrsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vy5A2CWMZzoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobust%2BDDCT%2Bfor%2BFast%2BFading%2BMIMO-OFDM%2BSystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vy5A2CWMZzoJ&ei=lNZiYpz1LLKO6rQPxdeOqA4&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:vy5A2CWMZzoJ:scholar.google.com/&scioq=Robust+DDCT+for+Fast+Fading+MIMO-OFDM+Systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/K-Giridhar/publication/228907569_Robust_DDCT_for_Fast_Fading_MIMO-OFDM_Systems/links/55cd823208ae1141f6b9f0cf/Robust-DDCT-for-Fast-Fading-MIMO-OFDM-Systems.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 436,
+                    "since_2017": 325
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 7
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 7,
+                    "since_2017": 6
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2012,
+                "citations": 2
+            },
+            {
+                "year": 2013,
+                "citations": 4
+            },
+            {
+                "year": 2014,
+                "citations": 18
+            },
+            {
+                "year": 2015,
+                "citations": 32
+            },
+            {
+                "year": 2016,
+                "citations": 52
+            },
+            {
+                "year": 2017,
+                "citations": 55
+            },
+            {
+                "year": 2018,
+                "citations": 68
+            },
+            {
+                "year": 2019,
+                "citations": 51
+            },
+            {
+                "year": 2020,
+                "citations": 64
+            },
+            {
+                "year": 2021,
+                "citations": 70
+            },
+            {
+                "year": 2022,
+                "citations": 17
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Chandra Murthy",
+            "link": "https://scholar.google.com/citations?user=tlQbRJMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tlQbRJMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tlQbRJMAAAAJ",
+            "affiliations": "Professor, ECE, Indian Institute of Science",
+            "email": "Verified email at iisc.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tlQbRJMAAAAJ&citpid=2"
+        },
+        {
+            "name": "Bhaskar Rao",
+            "link": "https://scholar.google.com/citations?user=dJRKST0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dJRKST0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "dJRKST0AAAAJ",
+            "affiliations": "University of California, San Diego",
+            "email": "Verified email at eng.ucsd.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Gautam Shroff",
+            "link": "https://scholar.google.com/citations?user=f70Rc2wAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=f70Rc2wAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "f70Rc2wAAAAJ",
+            "affiliations": "Sr. Vice President and Head - TCS Research",
+            "email": "Verified email at tcs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=f70Rc2wAAAAJ&citpid=2"
+        },
+        {
+            "name": "Lovekesh Vig",
+            "link": "https://scholar.google.com/citations?user=M5MIeROF8JYC&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=M5MIeROF8JYC&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "M5MIeROF8JYC",
+            "affiliations": "TCS Research",
+            "email": "Verified email at tcs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=M5MIeROF8JYC&citpid=1"
+        },
+        {
+            "name": "Garima Gupta",
+            "link": "https://scholar.google.com/citations?user=V89bf1cAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=V89bf1cAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "V89bf1cAAAAJ",
+            "affiliations": "TCS Research, Delhi",
+            "email": "Verified email at tcs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V89bf1cAAAAJ&citpid=3"
+        },
+        {
+            "name": "Ankit Sharma",
+            "link": "https://scholar.google.com/citations?user=clYkqokAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=clYkqokAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "clYkqokAAAAJ",
+            "affiliations": "AI Researcher II, American Express",
+            "email": "Verified email at aexp.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=clYkqokAAAAJ&citpid=1"
+        },
+        {
+            "name": "Ramya Hebbalaguppe",
+            "link": "https://scholar.google.com/citations?user=IJjnjZIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IJjnjZIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IJjnjZIAAAAJ",
+            "affiliations": "Research Scientist",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IJjnjZIAAAAJ&citpid=13"
+        },
+        {
+            "name": "Srinidhi Hegde",
+            "link": "https://scholar.google.com/citations?user=_tDIXM0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_tDIXM0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_tDIXM0AAAAJ",
+            "affiliations": "University of Maryland College Park",
+            "email": "Verified email at umd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_tDIXM0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Vishal Sunder",
+            "link": "https://scholar.google.com/citations?user=7Gre5tsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7Gre5tsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7Gre5tsAAAAJ",
+            "affiliations": "PhD student, The Ohio State University",
+            "email": "Verified email at buckeyemail.osu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7Gre5tsAAAAJ&citpid=5"
+        },
+        {
+            "name": "Vincent Y. F. Tan",
+            "link": "https://scholar.google.com/citations?user=dJoAVvAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dJoAVvAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "dJoAVvAAAAAJ",
+            "affiliations": "Dean's Chair Associate Professor, National University of Singapore",
+            "email": "Verified email at nus.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dJoAVvAAAAAJ&citpid=6"
+        },
+        {
+            "name": "B. N. Bharath",
+            "link": "https://scholar.google.com/citations?user=AOuGtukAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=AOuGtukAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "AOuGtukAAAAJ",
+            "affiliations": "Assistant professor, Dept. of electrical engineering, IIT Dharwad",
+            "email": "Verified email at iitdh.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=AOuGtukAAAAJ&citpid=1"
+        },
+        {
+            "name": "Geethu Joseph",
+            "link": "https://scholar.google.com/citations?user=6OG4_gQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6OG4_gQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6OG4_gQAAAAJ",
+            "affiliations": "Delft University of Technology",
+            "email": "Verified email at tudelft.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6OG4_gQAAAAJ&citpid=1"
+        },
+        {
+            "name": "ANISH MADAN",
+            "link": "https://scholar.google.com/citations?user=eZ4WZmIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=eZ4WZmIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "eZ4WZmIAAAAJ",
+            "affiliations": "Associate ML Scientist @ Wadhwani AI | B.Tech, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=eZ4WZmIAAAAJ&citpid=2"
+        }
+    ]
+}

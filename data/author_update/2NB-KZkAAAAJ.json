@@ -1,0 +1,739 @@
+{
+    "search_metadata": {
+        "id": "6256e5fa477c0e2541edfb68",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cccaa784cfda87bc/6256e5fa477c0e2541edfb68.json",
+        "created_at": "2022-04-13 15:02:18 UTC",
+        "processed_at": "2022-04-13 15:02:18 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=2NB-KZkAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/cccaa784cfda87bc/6256e5fa477c0e2541edfb68.html",
+        "total_time_taken": 1.12,
+        "total_articles": 14,
+        "total_co_authors": 6
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "2NB-KZkAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Subhashree Mohapatra",
+        "affiliations": "IIIT Delhi India",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Computational Mathematics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_mathematics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_mathematics"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2NB-KZkAAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "CONVERGENCE RATE FOR A GAUSS COLLOCATION METHOD APPLIED TO CONSTRAINED OPTIMAL CONTROL",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "2NB-KZkAAAAJ:UeHWp8X0CEIC",
+            "authors": "WW Hager, J Liu, S Mohapatra, AV Rao, XS Wang",
+            "publication": "Siam Journal of Control and Optimization 56 (2), 1386\u20131411, 2018",
+            "cited_by": {
+                "value": 53,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15549090662962082371,16906131127922042343",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15549090662962082371%2C16906131127922042343&engine=google_scholar&hl=en",
+                "cites_id": "15549090662962082371,16906131127922042343"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Convergence rate for a Gauss collocation method applied to constrained optimal control",
+                    "author": [
+                        "WW Hager",
+                        "J Liu",
+                        "S Mohapatra",
+                        "AV Rao"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "SIAM Journal on Control \u2026",
+                    "abstract": "A local convergence rate is established for a Gauss orthogonal collocation method applied to optimal control problems with control constraints. If the Hamiltonian possesses a strong convexity property, then the theory yields convergence for problems whose optimal state and costate possess two square integrable derivatives. The convergence theory is based on a stability result for the sup-norm change in the solution of a variational inequality relative to a 2-norm perturbation, and on a Sobolev space bound for the error in interpolation at the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://epubs.siam.org/doi/abs/10.1137/16M1096761",
+                "author_id": [
+                    "d7AKIuQAAAAJ",
+                    "qNPb_EcAAAAJ",
+                    "2NB-KZkAAAAJ",
+                    "QqfzMMkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:56X3NbCknuoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCONVERGENCE%2BRATE%2BFOR%2BA%2BGAUSS%2BCOLLOCATION%2BMETHOD%2BAPPLIED%2BTO%2BCONSTRAINED%2BOPTIMAL%2BCONTROL%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=56X3NbCknuoJ&ei=cbBiYqeNLJGJmwGIxre4DA&json=",
+                "num_citations": 32,
+                "citedby_url": "/scholar?cites=16906131127922042343&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:56X3NbCknuoJ:scholar.google.com/&scioq=CONVERGENCE+RATE+FOR+A+GAUSS+COLLOCATION+METHOD+APPLIED+TO+CONSTRAINED+OPTIMAL+CONTROL&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1607.02798"
+            }
+        },
+        {
+            "title": "Convergence rate for a Radau hp collocation method applied to constrained optimal control",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "2NB-KZkAAAAJ:eQOLeE2rZwMC",
+            "authors": "WW Hager, H Hou, S Mohapatra, AV Rao, XS Wang",
+            "publication": "Computational Optimization and Applications 74 (1), 275-314, 2019",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14784722307669848873",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14784722307669848873&engine=google_scholar&hl=en",
+                "cites_id": "14784722307669848873"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Convergence rate for a Radau hp collocation method applied to constrained optimal control",
+                    "author": [
+                        "WW Hager",
+                        "H Hou",
+                        "S Mohapatra",
+                        "AV Rao"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Computational \u2026",
+                    "abstract": "For control problems with control constraints, a local convergence rate is established for an hp-method based on collocation at the Radau quadrature points in each mesh interval of the discretization. If the continuous problem has a sufficiently smooth solution and the Hamiltonian satisfies a strong convexity condition, then the discrete problem possesses a local minimizer in a neighborhood of the continuous solution, and as either the number of collocation points or the number of mesh intervals increase, the discrete solution"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s10589-019-00100-1",
+                "author_id": [
+                    "d7AKIuQAAAAJ",
+                    "UnywjUYAAAAJ",
+                    "2NB-KZkAAAAJ",
+                    "QqfzMMkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KXN0I5viLc0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConvergence%2Brate%2Bfor%2Ba%2BRadau%2Bhp%2Bcollocation%2Bmethod%2Bapplied%2Bto%2Bconstrained%2Boptimal%2Bcontrol%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KXN0I5viLc0J&ei=dbBiYomvJ--Sy9YPmNWywAs&json=",
+                "num_citations": 24,
+                "citedby_url": "/scholar?cites=14784722307669848873&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KXN0I5viLc0J:scholar.google.com/&scioq=Convergence+rate+for+a+Radau+hp+collocation+method+applied+to+constrained+optimal+control&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1605.02121"
+            }
+        },
+        {
+            "title": "Multi-speed sedimentation velocity implementation in UltraScan-III",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "2NB-KZkAAAAJ:Y0pCki6q_DkC",
+            "authors": "GE Gorbet, S Mohapatra, B Demeler",
+            "publication": "European Biophysics Journal, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5277097104364985648",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5277097104364985648&engine=google_scholar&hl=en",
+                "cites_id": "5277097104364985648"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-speed sedimentation velocity implementation in UltraScan-III",
+                    "author": [
+                        "GE Gorbet",
+                        "S Mohapatra",
+                        "B Demeler"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "European Biophysics Journal",
+                    "abstract": "A framework for the global analysis of multi-speed analytical ultracentrifugation sedimentation velocity experiments is presented. We discuss extensions to the adaptive space\u2013time finite element fitting methods implemented in UltraScan-III to model sedimentation velocity experiments where a single run is performed at multiple rotor speeds, and describe extensions in the optimization routines used for fitting experimental data collected at arbitrary multi-speed profiles. Our implementation considers factors such as"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00249-018-1297-z",
+                "author_id": [
+                    "MvsJSJEAAAAJ",
+                    "2NB-KZkAAAAJ",
+                    "2fhNo7IAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:MN3qbtsDPEkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-speed%2Bsedimentation%2Bvelocity%2Bimplementation%2Bin%2BUltraScan-III%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MN3qbtsDPEkJ&ei=eLBiYoTaMJyO6rQP-viEEA&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=5277097104364985648&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:MN3qbtsDPEkJ:scholar.google.com/&scioq=Multi-speed+sedimentation+velocity+implementation+in+UltraScan-III&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6676492/"
+            }
+        },
+        {
+            "title": "Spectral element method for three dimensional elliptic problems with smooth interfaces",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "2NB-KZkAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Khan, A Husain, S Mohapatra, CS Upadhyay",
+            "publication": "Computer Methods in Applied Mechanics and Engineering 315, 522-549, 2017",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13144678096973634103",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13144678096973634103&engine=google_scholar&hl=en",
+                "cites_id": "13144678096973634103"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Spectral element method for three dimensional elliptic problems with smooth interfaces",
+                    "author": [
+                        "A Khan",
+                        "A Husain",
+                        "S Mohapatra"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Computer Methods in \u2026",
+                    "abstract": "In this paper we propose a least-squares spectral element method for three dimensional elliptic interface problems. The differentiability estimates and the main stability theorem, using non-conforming spectral element functions, are proven. The proposed method is free from any kind of first order reformulation. A suitable preconditioner is constructed with help of the regularity estimate and proposed stability estimates which is used to control the condition number. We show that these preconditioners are spectrally equivalent to the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0045782516308271",
+                "author_id": [
+                    "a1lyQpUAAAAJ",
+                    "fqqj6OIAAAAJ",
+                    "2NB-KZkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:N5r48BVHa7YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpectral%2Belement%2Bmethod%2Bfor%2Bthree%2Bdimensional%2Belliptic%2Bproblems%2Bwith%2Bsmooth%2Binterfaces%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=N5r48BVHa7YJ&ei=e7BiYtPTDIySyATlkbrQCA&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=13144678096973634103&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:N5r48BVHa7YJ:scholar.google.com/&scioq=Spectral+element+method+for+three+dimensional+elliptic+problems+with+smooth+interfaces&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ci2ma.udec.cl/wonapde2016/minisymposia/abstract/husain.pdf"
+            }
+        },
+        {
+            "title": "Convergence Rate for an hp Collocation Method Applied to Constrained Optimal Control",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "2NB-KZkAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "WW Hager, H Hou, S Mohapatra, AV Rao",
+            "publication": "arXiv:1605.02121, 2017",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15227386121427184378",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15227386121427184378&engine=google_scholar&hl=en",
+                "cites_id": "15227386121427184378"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Convergence Rate for an hp-Collocation Method Applied to Unconstrained Optimal Control",
+                    "author": [
+                        "WW Hager",
+                        "H Hou",
+                        "S Mohapatra"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "For unconstrained control problems, a local convergence rate is established for an hp-orthogonal collocation method based on collocation at the Radau quadrature points in each mesh interval of the discretization. If the continuous problem has a sufficiently smooth solution and the Hamiltonian satisfies a strong convexity condition, then the discrete problem possesses a local minimizer in a neighborhood of the continuous solution, and as either the number of collocation points or the number of mesh intervals increase, the discrete"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Subhashree-Mohapatra/publication/302567763_Convergence_Rate_for_an_hp_Collocation_Method_Applied_to_Unconstrained_Optimal_Control/links/57c5e36b08ae6db2cc76a6cd/Convergence-Rate-for-an-hp-Collocation-Method-Applied-to-Unconstrained-Optimal-Control.pdf",
+                "author_id": [
+                    "d7AKIuQAAAAJ",
+                    "UnywjUYAAAAJ",
+                    "2NB-KZkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-mph0f-KUtMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConvergence%2BRate%2Bfor%2Ban%2Bhp%2BCollocation%2BMethod%2BApplied%2Bto%2BConstrained%2BOptimal%2BControl%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-mph0f-KUtMJ&ei=frBiYu2bH_mQ6rQPzKCxuAY&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=15227386121427184378&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-mph0f-KUtMJ:scholar.google.com/&scioq=Convergence+Rate+for+an+hp+Collocation+Method+Applied+to+Constrained+Optimal+Control&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Subhashree-Mohapatra/publication/302567763_Convergence_Rate_for_an_hp_Collocation_Method_Applied_to_Unconstrained_Optimal_Control/links/57c5e36b08ae6db2cc76a6cd/Convergence-Rate-for-an-hp-Collocation-Method-Applied-to-Unconstrained-Optimal-Control.pdf"
+            }
+        },
+        {
+            "title": "A non-conforming least squares spectral element formulation for Oseen equations with applications to Navier-Stokes equations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "2NB-KZkAAAAJ:d1gkVwhDpl0C",
+            "authors": "S Mohapatra, S Ganesan",
+            "publication": "Numerical Functional Analysis and Optimization 37 (10), 1295-1311, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13573473583118751365",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13573473583118751365&engine=google_scholar&hl=en",
+                "cites_id": "13573473583118751365"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A non-conforming least squares spectral element formulation for Oseen equations with applications to Navier-Stokes equations",
+                    "author": [
+                        "S Mohapatra",
+                        "S Ganesan"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Numerical Functional Analysis and \u2026",
+                    "abstract": "In this article, we propose a non-conforming exponentially accurate least-squares spectral element method for Oseen equations in primitive variable formulation that is applicable to both two-and three-dimensional domains. First-order reformulation is avoided, and the condition number is controlled by a suitable preconditioner for velocity components and pressure variable. A preconditioned conjugate gradient method is used to obtain the solution. Navier-Stokes equations in primitive variable formulation have been solved by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/01630563.2016.1209518",
+                "author_id": [
+                    "2NB-KZkAAAAJ",
+                    "h3t25mkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hRbx-U6qXrwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bnon-conforming%2Bleast%2Bsquares%2Bspectral%2Belement%2Bformulation%2Bfor%2BOseen%2Bequations%2Bwith%2Bapplications%2Bto%2BNavier-Stokes%2Bequations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hRbx-U6qXrwJ&ei=gbBiYrbyKJWMy9YPt8OamA0&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=13573473583118751365&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:hRbx-U6qXrwJ:scholar.google.com/&scioq=A+non-conforming+least+squares+spectral+element+formulation+for+Oseen+equations+with+applications+to+Navier-Stokes+equations&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Least-squares spectral element method for three dimensional Stokes equations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "2NB-KZkAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Mohapatra, A Husain",
+            "publication": "Applied Numerical Mathematics 102, 31-54, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12814111062269494844",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12814111062269494844&engine=google_scholar&hl=en",
+                "cites_id": "12814111062269494844"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Least-squares spectral element method for three dimensional Stokes equations",
+                    "author": [
+                        "S Mohapatra",
+                        "A Husain"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Applied Numerical Mathematics",
+                    "abstract": "In this paper we propose a non-conforming least squares spectral element method for Stokes equations on three dimensional domains. Any kind of first order transformation has been avoided by using a block diagonal preconditioner for velocity and pressure variables. Preconditioned conjugate gradient method is used to obtain the numerical solution. The method is proved to be exponentially accurate. Numerical results are provided to validate the proposed estimates."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0168927415001713",
+                "author_id": [
+                    "2NB-KZkAAAAJ",
+                    "fqqj6OIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:PAb6eh7e1LEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLeast-squares%2Bspectral%2Belement%2Bmethod%2Bfor%2Bthree%2Bdimensional%2BStokes%2Bequations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PAb6eh7e1LEJ&ei=hLBiYq6mMoyuyASD3KfABw&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=12814111062269494844&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PAb6eh7e1LEJ:scholar.google.com/&scioq=Least-squares+spectral+element+method+for+three+dimensional+Stokes+equations&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Non-conforming least-squares spectral element method for Stokes equations on non-smooth domains",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:WF5omc3nYNoC",
+            "citation_id": "2NB-KZkAAAAJ:WF5omc3nYNoC",
+            "authors": "S Mohapatra, P Dutt, BVR Kumar, MI Gerritsma",
+            "publication": "Journal of Computational and Applied Mathematics 372, 112696, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16369552724307448500",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16369552724307448500&engine=google_scholar&hl=en",
+                "cites_id": "16369552724307448500"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Non-conforming least-squares spectral element method for Stokes equations on non-smooth domains",
+                    "author": [
+                        "S Mohapatra",
+                        "P Dutt",
+                        "BVR Kumar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Journal of Computational \u2026",
+                    "abstract": "In this paper we present a discontinuous least-squares spectral element method for Stokes equations with primitive variable formulation on both smooth and non-smooth domains. We propose an exponentially accurate numerical scheme based on the stability estimates and implement it on different polygonal domains. Preconditioned conjugate gradient method is used to obtain the numerical solution."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0377042719307010",
+                "author_id": [
+                    "2NB-KZkAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:tJJfIHlVLOMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNon-conforming%2Bleast-squares%2Bspectral%2Belement%2Bmethod%2Bfor%2BStokes%2Bequations%2Bon%2Bnon-smooth%2Bdomains%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tJJfIHlVLOMJ&ei=iLBiYr_7IqmTy9YPsu-CuAM&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=16369552724307448500&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tJJfIHlVLOMJ:scholar.google.com/&scioq=Non-conforming+least-squares+spectral+element+method+for+Stokes+equations+on+non-smooth+domains&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Effect of fluid whey incorporation on quality of chevon nuggets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "2NB-KZkAAAAJ:LkGwnXOMwfcC",
+            "authors": "S Mohapatra, G Kandeepan, SK Mendiratta, B Soni, B Kumar, ...",
+            "publication": "Italian Journal of Food Science 25 (4), 379, 2013",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3126603804968146143",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3126603804968146143&engine=google_scholar&hl=en",
+                "cites_id": "3126603804968146143"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of fluid whey incorporation on quality of chevon nuggets",
+                    "author": [
+                        "S Mohapatra",
+                        "G Kandeepan",
+                        "SK Mendiratta"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Italian Journal of \u2026",
+                    "abstract": "Utilizing fluid whey to replace ice flakes in chevon nugget formulation was studied and the physicochemical, technological, microbiological and sensory quality of the product was evaluated. results showed no statistically significant differences in most of the sensory parameters determined. Even 100% replacement of fluid whey did not produce any adverse effect in sensory properties. However, emulsion stability rate was significantly increased with fluid whey addition to the formulation and 100% replacement of fluid whey showed the most"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://www.chiriottieditori.it/pdf/ijfs/IJFS%20254%20ok.pdf#page=4",
+                "author_id": [
+                    "2NB-KZkAAAAJ",
+                    "Zd40FE4AAAAJ",
+                    "DpB1dQoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:39SCXJjtYysJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2Bfluid%2Bwhey%2Bincorporation%2Bon%2Bquality%2Bof%2Bchevon%2Bnuggets%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=39SCXJjtYysJ&ei=jrBiYvWXEIOEmgH1zZjACQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=3126603804968146143&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:39SCXJjtYysJ:scholar.google.com/&scioq=Effect+of+fluid+whey+incorporation+on+quality+of+chevon+nuggets&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.chiriottieditori.it/pdf/ijfs/IJFS%20254%20ok.pdf#page=4"
+            }
+        },
+        {
+            "title": "A pseudospectral method for optimal control based on collocation at the gauss points",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "2NB-KZkAAAAJ:W7OEmFMy1HYC",
+            "authors": "WW Hager, J Liu, S Mohapatra, AV Rao, XS Wang",
+            "publication": "2018 IEEE Conference on Decision and Control (CDC), 2490-2495, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10225725466433035017",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10225725466433035017&engine=google_scholar&hl=en",
+                "cites_id": "10225725466433035017"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A pseudospectral method for optimal control based on collocation at the gauss points",
+                    "author": [
+                        "WW Hager",
+                        "J Liu",
+                        "S Mohapatra"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 IEEE Conference on \u2026",
+                    "abstract": "The focus of the work is on optimal control problems of the form  The dimension of PN  is N + 1, and there are N + 1 equations in (2) corresponding to the collocated dynamics at N  points and the initial condition. This paper considers collocation at the Gauss quadrature  points, which are symmetric about t = 0 and satisfy"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8618929/",
+                "author_id": [
+                    "d7AKIuQAAAAJ",
+                    "qNPb_EcAAAAJ",
+                    "2NB-KZkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CRtoLSIT6Y0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bpseudospectral%2Bmethod%2Bfor%2Boptimal%2Bcontrol%2Bbased%2Bon%2Bcollocation%2Bat%2Bthe%2Bgauss%2Bpoints%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CRtoLSIT6Y0J&ei=l7BiYvPCLPmQ6rQPzKCxuAY&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=10225725466433035017&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:CRtoLSIT6Y0J:scholar.google.com/&scioq=A+pseudospectral+method+for+optimal+control+based+on+collocation+at+the+gauss+points&hl=en&as_sdt=0,33",
+                "eprint_url": "https://par.nsf.gov/servlets/purl/10093310"
+            }
+        },
+        {
+            "title": "Importance of financial skill development for employability of management students",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "2NB-KZkAAAAJ:_FxGoFyzp5QC",
+            "authors": "P Singh, B Kumar, S Mohapatra, N Samayar, T Shukla, N Saxena",
+            "publication": "Employable Skill Development in New India-Benchmarks and Best Practices and \u2026, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14562014939387213121",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14562014939387213121&engine=google_scholar&hl=en",
+                "cites_id": "14562014939387213121"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Importance of financial skill development for employability of management students",
+                    "author": [
+                        "P Singh",
+                        "B Kumar",
+                        "S Mohapatra"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Skill Development in \u2026",
+                    "abstract": "employable skills with special reference to requirements relating to finance professionals.   management students have theoretical inputs given to them in their business schools.   impact of skills training on the financial behaviour, employability and educational"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Preeti-Singh-39/publication/334204296_Importance_of_Financial_Skill_Development_for_Employability_of_Management_Students/links/5e00df074585159aa49596d3/Importance-of-Financial-Skill-Development-for-Employability-of-Management-Students.pdf",
+                "author_id": [
+                    "",
+                    "",
+                    "2NB-KZkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QTUbPG-rFsoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImportance%2Bof%2Bfinancial%2Bskill%2Bdevelopment%2Bfor%2Bemployability%2Bof%2Bmanagement%2Bstudents%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QTUbPG-rFsoJ&ei=m7BiYtvKB_mQ6rQPzKCxuAY&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=14562014939387213121&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QTUbPG-rFsoJ:scholar.google.com/&scioq=Importance+of+financial+skill+development+for+employability+of+management+students&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Preeti-Singh-39/publication/334204296_Importance_of_Financial_Skill_Development_for_Employability_of_Management_Students/links/5e00df074585159aa49596d3/Importance-of-Financial-Skill-Development-for-Employability-of-Management-Students.pdf"
+            }
+        },
+        {
+            "title": "Least-squares formulations for Stokes equations with non-standard boundary conditions--A unified approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:UebtZRa9Y70C",
+            "citation_id": "2NB-KZkAAAAJ:UebtZRa9Y70C",
+            "authors": "S Mohapatra, NK Kumar",
+            "publication": "arXiv preprint arXiv:2203.10732, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Least-squares formulations for Stokes equations with non-standard boundary conditions--A unified approach",
+                    "author": [
+                        "S Mohapatra",
+                        "NK Kumar"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2203.10732",
+                    "abstract": "In this paper, we propose a unified non-conforming least-squares spectral element approach for solving Stokes equations with various non-standard boundary conditions. Existing least-squares formulations mostly deal with Dirichlet boundary conditions are formulated using ADN theory-based regularity estimates. However, changing boundary conditions lead to a search for parameters satisfying supplementing and complimenting conditions [4] which is not easy always. Here we have avoided ADN theory-based regularity"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2203.10732",
+                "author_id": [
+                    "2NB-KZkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:2_3iWnSf-_kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLeast-squares%2Bformulations%2Bfor%2BStokes%2Bequations%2Bwith%2Bnon-standard%2Bboundary%2Bconditions--A%2Bunified%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2_3iWnSf-_kJ&ei=nrBiYpX7CpWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2203.10732"
+            }
+        },
+        {
+            "title": "Correction to: Convergence rate for a Radau hp collocation method applied to constrained optimal control",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "2NB-KZkAAAAJ:YsMSGLbcyi4C",
+            "authors": "WW Hager, H Hou, S Mohapatra, AV Rao, W Xiang-Sheng",
+            "publication": "Computational Optimization and Applications 74 (1), 315-316, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Convergence rate for a Radau hp collocation method applied to constrained optimal control",
+                    "author": [
+                        "WW Hager",
+                        "H Hou",
+                        "S Mohapatra",
+                        "AV Rao"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Computational \u2026",
+                    "abstract": "For control problems with control constraints, a local convergence rate is established for an hp-method based on collocation at the Radau quadrature points in each mesh interval of the discretization. If the continuous problem has a sufficiently smooth solution and the Hamiltonian satisfies a strong convexity condition, then the discrete problem possesses a local minimizer in a neighborhood of the continuous solution, and as either the number of collocation points or the number of mesh intervals increase, the discrete solution"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s10589-019-00100-1",
+                "author_id": [
+                    "d7AKIuQAAAAJ",
+                    "UnywjUYAAAAJ",
+                    "2NB-KZkAAAAJ",
+                    "QqfzMMkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KXN0I5viLc0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorrection%2Bto:%2BConvergence%2Brate%2Bfor%2Ba%2BRadau%2Bhp%2Bcollocation%2Bmethod%2Bapplied%2Bto%2Bconstrained%2Boptimal%2Bcontrol%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KXN0I5viLc0J&ei=o7BiYrYykYmbAYjGt7gM&json=",
+                "num_citations": 24,
+                "citedby_url": "/scholar?cites=14784722307669848873&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KXN0I5viLc0J:scholar.google.com/&scioq=Correction+to:+Convergence+rate+for+a+Radau+hp+collocation+method+applied+to+constrained+optimal+control&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1605.02121"
+            }
+        },
+        {
+            "title": "Effect of Fluid Whey Incorporation on Quality of chevon Nuggets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2NB-KZkAAAAJ&pagesize=100&citation_for_view=2NB-KZkAAAAJ:roLk4NBRz8UC",
+            "citation_id": "2NB-KZkAAAAJ:roLk4NBRz8UC",
+            "authors": "S Mohapatra, G Kandeepan, SK Mendiratta, B Soni, B Kumar, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effect of fluid whey incorporation on quality of chevon nuggets",
+                    "author": [
+                        "S Mohapatra",
+                        "G Kandeepan",
+                        "SK Mendiratta"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Italian Journal of \u2026",
+                    "abstract": "Utilizing fluid whey to replace ice flakes in chevon nugget formulation was studied and the physicochemical, technological, microbiological and sensory quality of the product was evaluated. results showed no statistically significant differences in most of the sensory parameters determined. Even 100% replacement of fluid whey did not produce any adverse effect in sensory properties. However, emulsion stability rate was significantly increased with fluid whey addition to the formulation and 100% replacement of fluid whey showed the most"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://www.chiriottieditori.it/pdf/ijfs/IJFS%20254%20ok.pdf#page=4",
+                "author_id": [
+                    "2NB-KZkAAAAJ",
+                    "Zd40FE4AAAAJ",
+                    "DpB1dQoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:39SCXJjtYysJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffect%2Bof%2BFluid%2BWhey%2BIncorporation%2Bon%2BQuality%2Bof%2Bchevon%2BNuggets%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=39SCXJjtYysJ&ei=pbBiYofAKuHDywTjooCQBQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=3126603804968146143&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:39SCXJjtYysJ:scholar.google.com/&scioq=Effect+of+Fluid+Whey+Incorporation+on+Quality+of+chevon+Nuggets&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.chiriottieditori.it/pdf/ijfs/IJFS%20254%20ok.pdf#page=4"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 126,
+                    "since_2017": 124
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 2
+            },
+            {
+                "year": 2017,
+                "citations": 10
+            },
+            {
+                "year": 2018,
+                "citations": 21
+            },
+            {
+                "year": 2019,
+                "citations": 14
+            },
+            {
+                "year": 2020,
+                "citations": 29
+            },
+            {
+                "year": 2021,
+                "citations": 41
+            },
+            {
+                "year": 2022,
+                "citations": 9
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=2NB-KZkAAAAJ",
+        "available": 5,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "William Hager",
+            "link": "https://scholar.google.com/citations?user=d7AKIuQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=d7AKIuQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "d7AKIuQAAAAJ",
+            "affiliations": "Professor of Mathematics, University of Florida",
+            "email": "Verified email at ufl.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d7AKIuQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Anil V. Rao",
+            "link": "https://scholar.google.com/citations?user=QqfzMMkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QqfzMMkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QqfzMMkAAAAJ",
+            "affiliations": "Professor, University of Florida",
+            "email": "Verified email at ufl.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QqfzMMkAAAAJ&citpid=4"
+        },
+        {
+            "name": "Hongyan Hou",
+            "link": "https://scholar.google.com/citations?user=UnywjUYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UnywjUYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "UnywjUYAAAAJ",
+            "affiliations": "University of Florida",
+            "email": "Verified email at ufl.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Akhlaq Husain",
+            "link": "https://scholar.google.com/citations?user=fqqj6OIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fqqj6OIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "fqqj6OIAAAAJ",
+            "affiliations": "Associate Professor, BML Munjal University Gurgaon",
+            "email": "Verified email at bmu.edu.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fqqj6OIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Arbaz khan",
+            "link": "https://scholar.google.com/citations?user=a1lyQpUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=a1lyQpUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "a1lyQpUAAAAJ",
+            "affiliations": "Professor (Assistant), Department of Mathematics, Indian Institute of Technology Roorkee (IITR",
+            "email": "Verified email at ma.iitr.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=a1lyQpUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Prof. Sashikumaar Ganesan",
+            "link": "https://scholar.google.com/citations?user=h3t25mkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h3t25mkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h3t25mkAAAAJ",
+            "affiliations": "Chairman, Department of Computational and Data Sciences , Indian Institute",
+            "email": "Verified email at iisc.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h3t25mkAAAAJ&citpid=5"
+        }
+    ]
+}

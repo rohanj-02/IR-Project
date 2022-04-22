@@ -1,0 +1,1121 @@
+{
+    "search_metadata": {
+        "id": "6256e0ee9bddf798a0f7f3fa",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/27795907fef9d184/6256e0ee9bddf798a0f7f3fa.json",
+        "created_at": "2022-04-13 14:40:46 UTC",
+        "processed_at": "2022-04-13 14:40:46 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=cRZsY44AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/27795907fef9d184/6256e0ee9bddf798a0f7f3fa.html",
+        "total_time_taken": 0.78,
+        "total_articles": 23,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "cRZsY44AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Vivek Kumar",
+        "affiliations": "Assistant Professor, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://vivkumar.github.io/",
+        "interests": [
+            {
+                "title": "Parallel programming models",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:parallel_programming_models",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aparallel_programming_models"
+            },
+            {
+                "title": "runtime systems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:runtime_systems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aruntime_systems"
+            },
+            {
+                "title": "task scheduling",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:task_scheduling",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atask_scheduling"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cRZsY44AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "HabaneroUPC++: a Compiler-free PGAS Library",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:Se3iqnhoufwC",
+            "citation_id": "cRZsY44AAAAJ:Se3iqnhoufwC",
+            "authors": "V Kumar, Y Zheng, V Cave \u0301, Z Budimlic \u0301, V Sarkar",
+            "publication": "Proceedings of the 8th International Conference on Partitioned Global \u2026, 2014",
+            "cited_by": {
+                "value": 61,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5752101220814181352",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5752101220814181352&engine=google_scholar&hl=en",
+                "cites_id": "5752101220814181352"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Habaneroupc++ a coMPIler-free pgas library",
+                    "author": [
+                        "V Kumar",
+                        "Y Zheng",
+                        "V Cav\u00e9",
+                        "Z Budimli\u0107"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Proceedings of the 8th \u2026",
+                    "abstract": "The Partitioned Global Address Space (PGAS) programming models combine shared and distributed memory features, providing the basis for high performance and high productivity parallel programming environments. UPC++[39] is a very recent PGAS implementation that takes a library-based approach and avoids the complexities associated with compiler transformations. However, this implementation does not support dynamic task parallelism and only relies on other threading models (eg, OpenMP or pthreads) for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2676870.2676879",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "DcDI6VcAAAAJ",
+                    "",
+                    "zg9zDcsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6FO4mpWR008J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHabaneroUPC%252B%252B:%2Ba%2BCompiler-free%2BPGAS%2BLibrary%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6FO4mpWR008J&ei=J79iYvHdEu-Sy9YPmNWywAs&json=",
+                "num_citations": 61,
+                "citedby_url": "/scholar?cites=5752101220814181352&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:6FO4mpWR008J:scholar.google.com/&scioq=HabaneroUPC%2B%2B:+a+Compiler-free+PGAS+Library&hl=en&as_sdt=0,33",
+                "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1079.1455&rep=rep1&type=pdf"
+            }
+        },
+        {
+            "title": "Work-stealing without the baggage",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "cRZsY44AAAAJ:u5HHmVD_uO8C",
+            "authors": "V Kumar, D Frampton, SM Blackburn, D Grove, O Tardieu",
+            "publication": "ACM SIGPLAN Notices 47 (10), 297-314, 2012",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8364229494398893847",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8364229494398893847&engine=google_scholar&hl=en",
+                "cites_id": "8364229494398893847"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Work-stealing without the baggage",
+                    "author": [
+                        "V Kumar",
+                        "D Frampton",
+                        "SM Blackburn",
+                        "D Grove"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "ACM SIGPLAN \u2026",
+                    "abstract": "Work-stealing is a promising approach for effectively exploiting software parallelism on parallel hardware. A programmer who uses work-stealing explicitly identifies potential parallelism and the runtime then schedules work, keeping otherwise idle hardware busy while relieving overloaded hardware of its burden. Prior work has demonstrated that work-stealing is very effective in practice. However, work-stealing comes with a substantial overhead: as much as 2x to 12x slowdown over orthodox sequential code. In this paper we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2398857.2384639",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "",
+                    "HgSTO7oAAAAJ",
+                    "iU8ijrYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:F7992Wi2E3QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWork-stealing%2Bwithout%2Bthe%2Bbaggage%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=F7992Wi2E3QJ&ei=K79iYqyyDYySyATlkbrQCA&json=",
+                "num_citations": 51,
+                "citedby_url": "/scholar?cites=8364229494398893847&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:F7992Wi2E3QJ:scholar.google.com/&scioq=Work-stealing+without+the+baggage&hl=en&as_sdt=0,33",
+                "eprint_url": "https://vivkumar.github.io/papers/ws-oopsla-2012-1.pdf"
+            }
+        },
+        {
+            "title": "Optimized Distributed Work-Stealing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:Tiz5es2fbqcC",
+            "citation_id": "cRZsY44AAAAJ:Tiz5es2fbqcC",
+            "authors": "V Kumar, K Murthy, V Sarkar, Y Zheng",
+            "publication": "Proceedings of the 6th Workshop on Irregular Applications: Architectures and \u2026, 2016",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7991125967422098373",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7991125967422098373&engine=google_scholar&hl=en",
+                "cites_id": "7991125967422098373"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Optimized distributed work-stealing",
+                    "author": [
+                        "V Kumar",
+                        "K Murthy",
+                        "V Sarkar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 6th Workshop on \u2026",
+                    "abstract": "of distributed workstealing in HabaneroUPC++ PGAS library \u2014 BaselineWS and SuccessOnlyWS.  \u2022 We implement BaselineWS using traditional approaches to distributed work-stealing"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7833309/",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "",
+                    "XjeIqxYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xQuYg7ou5m4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOptimized%2BDistributed%2BWork-Stealing%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xQuYg7ou5m4J&ei=L79iYtDVE_mQ6rQPzKCxuAY&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=7991125967422098373&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:xQuYg7ou5m4J:scholar.google.com/&scioq=Optimized+Distributed+Work-Stealing&hl=en&as_sdt=0,33",
+                "eprint_url": "https://vivkumar.github.io/papers/ia3-kumar-2016.pdf"
+            }
+        },
+        {
+            "title": "Integrating Asynchronous Task Parallelism with OpenSHMEM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:KxtntwgDAa4C",
+            "citation_id": "cRZsY44AAAAJ:KxtntwgDAa4C",
+            "authors": "M Grossman, V Kumar, Z Budimlic, V Sarkar",
+            "publication": "Proceedings of the 3rd workshop on OpenSHMEM and Related Technologies, 2016",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6198267249144265253",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6198267249144265253&engine=google_scholar&hl=en",
+                "cites_id": "6198267249144265253"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Integrating asynchronous task parallelism with openshmem",
+                    "author": [
+                        "M Grossman",
+                        "V Kumar",
+                        "Z Budimli\u0107",
+                        "V Sarkar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Workshop on OpenSHMEM \u2026",
+                    "abstract": "Partitioned Global Address Space (PGAS) programming models combine shared and distributed memory features, and provide a foundation for high-productivity parallel programming using lightweight one-sided communications. The OpenSHMEM programming interface has recently begun gaining popularity as a lightweight library-based approach for developing PGAS applications, in part through its use of a symmetric heap to realize more efficient implementations of global pointers than in other PGAS systems. However, current"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-50995-2_1",
+                "author_id": [
+                    "Ha9SJrcAAAAJ",
+                    "cRZsY44AAAAJ",
+                    "zg9zDcsAAAAJ",
+                    "XjeIqxYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JXouKDmrBFYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntegrating%2BAsynchronous%2BTask%2BParallelism%2Bwith%2BOpenSHMEM%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JXouKDmrBFYJ&ei=M79iYrSoKLKO6rQPxdeOqA4&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=6198267249144265253&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JXouKDmrBFYJ:scholar.google.com/&scioq=Integrating+Asynchronous+Task+Parallelism+with+OpenSHMEM&hl=en&as_sdt=0,33",
+                "eprint_url": "https://vivkumar.github.io/papers/asyncshmem1.pdf"
+            }
+        },
+        {
+            "title": "A Pluggable Framework for Composable HPC Scheduling Libraries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:5Ul4iDaHHb8C",
+            "citation_id": "cRZsY44AAAAJ:5Ul4iDaHHb8C",
+            "authors": "M Grossman, V Kumar, Z Vrvilo, Nick, Budimlic, V Sarkar",
+            "publication": "IEEE International Parallel and Distributed Processing Symposium Workshops \u2026, 2017",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1991351670081479260",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1991351670081479260&engine=google_scholar&hl=en",
+                "cites_id": "1991351670081479260"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A pluggable framework for composable hpc scheduling libraries",
+                    "author": [
+                        "M Grossman",
+                        "V Kumar",
+                        "N Vrvilo"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE \u2026",
+                    "abstract": "Driven by the increasing diversity of current and future HPC hardware and software platforms, the HPC community has seen a dramatic increase in research and development efforts into the composability of discrete software systems. While modularity is often desirable from a software engineering, quality assurance, and maintainability perspective, the barriers between software components often hide optimization opportunities. Recent examples of work in composable HPC software include GPU-Aware MPI, OpenMP's target"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7965114/",
+                "author_id": [
+                    "Ha9SJrcAAAAJ",
+                    "cRZsY44AAAAJ",
+                    "t8Zt5XMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XGIWFsuzohsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BPluggable%2BFramework%2Bfor%2BComposable%2BHPC%2BScheduling%2BLibraries%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XGIWFsuzohsJ&ei=N79iYrvUJ_mQ6rQPzKCxuAY&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=1991351670081479260&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XGIWFsuzohsJ:scholar.google.com/&scioq=A+Pluggable+Framework+for+Composable+HPC+Scheduling+Libraries&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.cs.rice.edu/~zoran/Publications_files/hiper.pdf"
+            }
+        },
+        {
+            "title": "Heterogeneous Work-stealing across CPU and DSP cores",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "cRZsY44AAAAJ:hqOjcs7Dif8C",
+            "authors": "V Kumar, A Sbi\u0302rlea, A Jayaraj, Z Budimlic \u0301, D Majeti, V Sarkar",
+            "publication": "Proceedings of 19th IEEE High Performance Extreme Computing Conference (HPEC), 2015",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9600003555425429998",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9600003555425429998&engine=google_scholar&hl=en",
+                "cites_id": "9600003555425429998"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Heterogeneous work-stealing across CPU and DSP cores",
+                    "author": [
+                        "V Kumar",
+                        "A Sb\u00eerlea",
+                        "A Jayaraj"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE High \u2026",
+                    "abstract": "Due to the increasing power constraints and higher and higher performance demands, many vendors have shifted their focus from designing high-performance computer nodes using powerful multicore general-purpose CPUs, to nodes containing a smaller number of general-purpose CPUs aided by a larger number of more power-efficient special purpose processing units, such as GPUs, FPGAs or DSPs. While offering a lower power-to-performance ratio, unfortunately, such heterogeneous systems are notoriously hard to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7322452/",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "Ayoag8IAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:7qme414QOoUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHeterogeneous%2BWork-stealing%2Bacross%2BCPU%2Band%2BDSP%2Bcores%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7qme414QOoUJ&ei=Pb9iYq_rJ7KO6rQPxdeOqA4&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=9600003555425429998&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7qme414QOoUJ:scholar.google.com/&scioq=Heterogeneous+Work-stealing+across+CPU+and+DSP+cores&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.cs.rice.edu/~zoran/Publications_files/HPEC2015.pdf"
+            }
+        },
+        {
+            "title": "Friendly barriers: Efficient work-stealing with return barriers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "cRZsY44AAAAJ:IjCSPb-OGe4C",
+            "authors": "V Kumar, SM Blackburn, D Grove",
+            "publication": "ACM SIGPLAN Notices 49 (7), 165-176, 2014",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9263760127501900543",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9263760127501900543&engine=google_scholar&hl=en",
+                "cites_id": "9263760127501900543"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Friendly barriers: Efficient work-stealing with return barriers",
+                    "author": [
+                        "V Kumar",
+                        "SM Blackburn",
+                        "D Grove"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "ACM SIGPLAN Notices",
+                    "abstract": "This paper addresses the problem of efficiently supporting parallelism within a managed runtime. A popular approach for exploiting software parallelism on parallel hardware is task parallelism, where the programmer explicitly identifies potential parallelism and the runtime then schedules the work. Work-stealing is a promising scheduling strategy that a runtime may use to keep otherwise idle hardware busy while relieving overloaded hardware of its burden. However, work-stealing comes with substantial overheads. Recent work identified"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2674025.2576207",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "HgSTO7oAAAAJ",
+                    "iU8ijrYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_5otJMF8j4AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFriendly%2Bbarriers:%2BEfficient%2Bwork-stealing%2Bwith%2Breturn%2Bbarriers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_5otJMF8j4AJ&ei=T79iYpnSKIyuyASD3KfABw&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=9263760127501900543&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_5otJMF8j4AJ:scholar.google.com/&scioq=Friendly+barriers:+Efficient+work-stealing+with+return+barriers&hl=en&as_sdt=0,33",
+                "eprint_url": "https://openresearch-repository.anu.edu.au/bitstream/1885/66719/2/01_Kumar_Friendly_Barriers%3A_Efficient_2014.pdf"
+            }
+        },
+        {
+            "title": "Integrating Asynchronous Task Parallelism and Data-centric Atomicity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "cRZsY44AAAAJ:nb7KW1ujOQ8C",
+            "authors": "V Kumar, J Dolby, SM Blackburn",
+            "publication": "Proceedings of the 13th International Conference on Principles and Practices \u2026, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5190538129810532039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5190538129810532039&engine=google_scholar&hl=en",
+                "cites_id": "5190538129810532039"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Integrating asynchronous task parallelism and data-centric atomicity",
+                    "author": [
+                        "V Kumar",
+                        "J Dolby",
+                        "SM Blackburn"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 and Practices of Programming on the \u2026",
+                    "abstract": "Processor design has turned toward parallelism and heterogeneous cores to achieve performance and energy efficiency. Developers find high-level languages attractive as they use abstraction to offer productivity and portability over these hardware complexities. Over the past few decades, researchers have developed increasingly advanced mechanisms to deliver performance despite the overheads naturally imposed by this abstraction. Recent work has demonstrated that such mechanisms can be exploited to attack overheads that"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2972206.2972214",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "o5QfxzkAAAAJ",
+                    "HgSTO7oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xyZ6rO1-CEgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntegrating%2BAsynchronous%2BTask%2BParallelism%2Band%2BData-centric%2BAtomicity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xyZ6rO1-CEgJ&ei=U79iYoXrL86E6rQPz8uiuAc&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=5190538129810532039&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:xyZ6rO1-CEgJ:scholar.google.com/&scioq=Integrating+Asynchronous+Task+Parallelism+and+Data-centric+Atomicity&hl=en&as_sdt=0,33",
+                "eprint_url": "http://users.cecs.anu.edu.au/~steveb/pubs/papers/ws-pppj-2016.pdf"
+            }
+        },
+        {
+            "title": "OneStopTuner: An End to End Architecture for JVM Tuning of Spark Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:yB1At4FlUx8C",
+            "citation_id": "cRZsY44AAAAJ:yB1At4FlUx8C",
+            "authors": "PB Bindal, D Singhal, AV Subramanyam, V Kumar",
+            "publication": "arXiv preprint arXiv:2009.06374, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5269889704591146121",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5269889704591146121&engine=google_scholar&hl=en",
+                "cites_id": "5269889704591146121"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "OneStopTuner: An End to End Architecture for JVM Tuning of Spark Applications",
+                    "author": [
+                        "PB Bindal",
+                        "D Singhal",
+                        "AV Subramanyam"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Java is the backbone of widely used big data frameworks, such as Apache Spark, due to its productivity, portability from JVM-based execution, and support for a rich set of libraries. However, the performance of these applications can widely vary depending on the runtime flags chosen out of all existing JVM flags. Manually tuning these flags is both cumbersome and error-prone. Automated tuning approaches can ease the task, but current solutions either require considerable processing time or target a subset of flags to avoid time and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2009.06374",
+                "author_id": [
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ibyk58NoIkkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOneStopTuner:%2BAn%2BEnd%2Bto%2BEnd%2BArchitecture%2Bfor%2BJVM%2BTuning%2Bof%2BSpark%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ibyk58NoIkkJ&ei=Wb9iYvDJCu-Sy9YPmNWywAs&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5269889704591146121&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ibyk58NoIkkJ:scholar.google.com/&scioq=OneStopTuner:+An+End+to+End+Architecture+for+JVM+Tuning+of+Spark+Applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2009.06374"
+            }
+        },
+        {
+            "title": "Featherlight Speculative Task Parallelism",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:JoZmwDi-zQgC",
+            "citation_id": "cRZsY44AAAAJ:JoZmwDi-zQgC",
+            "authors": "V Kumar",
+            "publication": "European Conference on Parallel Processing, 391-404, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16268513139817229558",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16268513139817229558&engine=google_scholar&hl=en",
+                "cites_id": "16268513139817229558"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Featherlight Speculative Task Parallelism",
+                    "author": [
+                        "V Kumar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "European Conference on Parallel Processing",
+                    "abstract": "In this paper we propose Featherlight, a new programming model for speculative task  parallelism  model, Featherlight, for speculative task parallelism that doesn\u2019t require any form of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-29400-7_28",
+                "author_id": [
+                    "cRZsY44AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9qyUooFexeEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFeatherlight%2BSpeculative%2BTask%2BParallelism%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9qyUooFexeEJ&ei=ZL9iYqKlKY6pywSdh6agAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=16268513139817229558&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9qyUooFexeEJ:scholar.google.com/&scioq=Featherlight+Speculative+Task+Parallelism&hl=en&as_sdt=0,33",
+                "eprint_url": "https://vivkumar.github.io/papers/europar2019_slides.pdf"
+            }
+        },
+        {
+            "title": "Work-stealing by stealing states from live stack frames of a running application",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "cRZsY44AAAAJ:Y0pCki6q_DkC",
+            "authors": "V Kumar, D Frampton, D Grove, O Tardieu, SM Blackburn",
+            "publication": "Proceedings of the ACM SIGPLAN X10 Workshop, 2011",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1273705530258890567",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1273705530258890567&engine=google_scholar&hl=en",
+                "cites_id": "1273705530258890567"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Work-stealing by stealing states from live stack frames of a running application",
+                    "author": [
+                        "V Kumar",
+                        "D Frampton",
+                        "D Grove",
+                        "O Tardieu"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "The use of a work stealing scheduler has become a popular approach for providing task parallelism. It is used in many modern parallel programming languages, such as Cilk and X10, which have emerged to address the concerns of parallel programming complexity on modern multicore architectures. There are various challenges in providing an efficient implementation of work-stealing, but in any implementation it must be possible for the thief to access the execution state required to perform the stolen task. The natural way to achieve"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://hipec.iiitd.edu.in/papers/x10-2011ws.pdf",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "",
+                    "iU8ijrYAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Rx-Ib24crREJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWork-stealing%2Bby%2Bstealing%2Bstates%2Bfrom%2Blive%2Bstack%2Bframes%2Bof%2Ba%2Brunning%2Bapplication%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Rx-Ib24crREJ&ei=aL9iYt3_K7KO6rQPxdeOqA4&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=1273705530258890567&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Rx-Ib24crREJ:scholar.google.com/&scioq=Work-stealing+by+stealing+states+from+live+stack+frames+of+a+running+application&hl=en&as_sdt=0,33",
+                "eprint_url": "http://hipec.iiitd.edu.in/papers/x10-2011ws.pdf"
+            }
+        },
+        {
+            "title": "HiPC 2021 Workshop on Parallel Programming in the Exascale Era (PPEE 2021)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:lmc2jWPfTJgC",
+            "citation_id": "cRZsY44AAAAJ:lmc2jWPfTJgC",
+            "authors": "V Kumar, S Biswas, V Jatala",
+            "publication": "2021 IEEE 28th International Conference on High Performance Computing, Data \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "HiPC 2021 Workshop on Parallel Programming in the Exascale Era (PPEE 2021)",
+                    "author": [
+                        "V Kumar",
+                        "S Biswas",
+                        "V Jatala"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE 28th International \u2026",
+                    "abstract": "This is the first edition of the PPEE workshop. The upcoming exascale systems will impose new requirements on application developers and programming systems to target platforms with hundreds of homogeneous and heterogeneous cores. The four critical challenges for exascale systems are extreme parallelism, power demand, data movement, and reliability. These systems are aimed to solve problems that were previously out of reach and to improve the parallel performance of applications by a factor of 50x. The power budget for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9680808/",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:GitvAeo5wpQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHiPC%2B2021%2BWorkshop%2Bon%2BParallel%2BProgramming%2Bin%2Bthe%2BExascale%2BEra%2B(PPEE%2B2021)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GitvAeo5wpQJ&ei=bL9iYr-CHM6E6rQPz8uiuAc&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/9681151/9680801/09680808.pdf"
+            }
+        },
+        {
+            "title": "Teaching High Productivity and High Performance in an Introductory Parallel Programming Course",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:MLfJN-KU85MC",
+            "citation_id": "cRZsY44AAAAJ:MLfJN-KU85MC",
+            "authors": "V Kumar",
+            "publication": "2021 IEEE 28th International Conference on High Performance Computing, Data \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Teaching High Productivity and High Performance in an Introductory Parallel Programming Course",
+                    "author": [
+                        "V Kumar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE 28th International Conference on High \u2026",
+                    "abstract": "Multicore processors are ubiquitous. Several prior research has emphasized the need for high productivity parallel programming models that require minimal changes to the sequential program and can still deliver high performance using runtimes based approaches on various architectures. In this paper, we present the structure and experience of teaching the Foundations of Parallel Programming course (FPP) at IIIT Delhi using a task-based parallel programming model, Habanero C/C++ Library (HClib). FPP covers a wide"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9681375/",
+                "author_id": [
+                    "cRZsY44AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6kn8xUudr4UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTeaching%2BHigh%2BProductivity%2Band%2BHigh%2BPerformance%2Bin%2Ban%2BIntroductory%2BParallel%2BProgramming%2BCourse%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6kn8xUudr4UJ&ei=b79iYq3oJ--Sy9YPmNWywAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:6kn8xUudr4UJ:scholar.google.com/&scioq=Teaching+High+Productivity+and+High+Performance+in+an+Introductory+Parallel+Programming+Course&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Cuttlefish: Library for Achieving Energy Efficiency in Multicore Parallel Programs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:L7CI7m0gUJcC",
+            "citation_id": "cRZsY44AAAAJ:L7CI7m0gUJcC",
+            "authors": "S Kumar, A Gupta, V Kumar, S Bhalachandra",
+            "publication": "Proceedings of the International Conference for High Performance Computing \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cuttlefish: library for achieving energy efficiency in multicore parallel programs",
+                    "author": [
+                        "S Kumar",
+                        "A Gupta",
+                        "V Kumar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "A low-cap power budget is challenging for exascale computing. Dynamic Voltage and Frequency Scaling (DVFS) and Uncore Frequency Scaling (UFS) are the two widely used techniques for limiting the HPC application's energy footprint. However, existing approaches fail to provide a unified solution that can work with different types of parallel programming models and applications."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3458817.3476163",
+                "author_id": [
+                    "ZW1f5h8AAAAJ",
+                    "",
+                    "cRZsY44AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pDl6J-lPMxoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCuttlefish:%2BLibrary%2Bfor%2BAchieving%2BEnergy%2BEfficiency%2Bin%2BMulticore%2BParallel%2BPrograms%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pDl6J-lPMxoJ&ei=c79iYvr6HI2ymgHnvp6ICA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:pDl6J-lPMxoJ:scholar.google.com/&scioq=Cuttlefish:+Library+for+Achieving+Energy+Efficiency+in+Multicore+Parallel+Programs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2110.00617"
+            }
+        },
+        {
+            "title": "PufferFish: NUMA-Aware Work-stealing Library using Elastic Tasks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:BwyfMAYsbu0C",
+            "citation_id": "cRZsY44AAAAJ:BwyfMAYsbu0C",
+            "authors": "V Kumar",
+            "publication": "2020 IEEE 27th International Conference on High Performance Computing, Data \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "PufferFish: NUMA-Aware Work-stealing Library using Elastic Tasks",
+                    "author": [
+                        "V Kumar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 27th International Conference on High \u2026",
+                    "abstract": "Due to the challenges in providing adequate memory access to many cores on a single processor, Multi-Die and Multi-Socket based multicore systems are becoming mainstream. These systems offer cache-coherent Non-Uniform Memory Access (NUMA) across several memory banks and cache hierarchy to increase memory capacity and bandwidth. Random work-stealing is a widely used technique for dynamic load balancing of tasks on multicore processors. However, it scales poorly on such NUMA systems for memory-bound"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9406769/",
+                "author_id": [
+                    "cRZsY44AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cx93uCkQBxwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPufferFish:%2BNUMA-Aware%2BWork-stealing%2BLibrary%2Busing%2BElastic%2BTasks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cx93uCkQBxwJ&ei=dr9iYpeoPJyO6rQP-viEEA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:cx93uCkQBxwJ:scholar.google.com/&scioq=PufferFish:+NUMA-Aware+Work-stealing+Library+using+Elastic+Tasks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://vivkumar.github.io/papers/hipc2020.pdf"
+            }
+        },
+        {
+            "title": "HetroOMP: OpenMP for Hybrid Load Balancing Across Heterogeneous Processors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:SdhP9T11ey4C",
+            "citation_id": "cRZsY44AAAAJ:SdhP9T11ey4C",
+            "authors": "V Kumar, A Tiwari, G Mitra",
+            "publication": "International Workshop on OpenMP, 63-77, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "HetroOMP: OpenMP for Hybrid Load Balancing Across Heterogeneous Processors",
+                    "author": [
+                        "V Kumar",
+                        "A Tiwari",
+                        "G Mitra"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "International Workshop on OpenMP",
+                    "abstract": "The OpenMP accelerator model enables an efficient method of offloading computation from host CPU cores to accelerator devices. However, it leaves it up to the programmer to try and utilize CPU cores while offloading computation to an accelerator. In this paper, we propose HetroOMP, an extension of the OpenMP accelerator model that supports a new clause hetro which enables computation to execute simultaneously across both host and accelerator devices using standard tasking and work-sharing pragmas. To illustrate our proposal for a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-28596-8_5",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "",
+                    "6WvxN4YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jLOxQ3acU-EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHetroOMP:%2BOpenMP%2Bfor%2BHybrid%2BLoad%2BBalancing%2BAcross%2BHeterogeneous%2BProcessors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jLOxQ3acU-EJ&ei=eb9iYrvlKpGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:jLOxQ3acU-EJ:scholar.google.com/&scioq=HetroOMP:+OpenMP+for+Hybrid+Load+Balancing+Across+Heterogeneous+Processors&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pdfs.semanticscholar.org/4d6a/6f9ee35e4240fde56821e9600c7404528428.pdf"
+            }
+        },
+        {
+            "title": "High performance and energy optimal parallel programming on CPU and DSP based MPSoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:BrmTIyaxlBUC",
+            "citation_id": "cRZsY44AAAAJ:BrmTIyaxlBUC",
+            "authors": "A Tiwari, V Kumar, G Mitra",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "High performance and energy optimal parallel programming on CPU and DSP based MPSoC",
+                    "author": [
+                        "A Tiwari",
+                        "V Kumar",
+                        "G Mitra"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "With energy efficiency becoming a major concern in the HPC community, low-power alternatives such as heterogeneous Multi-Processor System-on-chip (MPSoC) are gainingpopularity. These devices house several different kinds of accelerators on-chip includingDigital Signal Processors (DSP) alongside CPU and GPU cores. Maximum performance from MPSoC devices can be achieved through the simultaneous use of all the processing elements. In addition to partitioning work across different processing elements"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/630",
+                "author_id": [
+                    "",
+                    "cRZsY44AAAAJ",
+                    "6WvxN4YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bU08rQLAQF8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHigh%2Bperformance%2Band%2Benergy%2Boptimal%2Bparallel%2Bprogramming%2Bon%2BCPU%2Band%2BDSP%2Bbased%2BMPSoC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bU08rQLAQF8J&ei=fb9iYtChOOHDywTjooCQBQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:bU08rQLAQF8J:scholar.google.com/&scioq=High+performance+and+energy+optimal+parallel+programming+on+CPU+and+DSP+based+MPSoC&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/630/MT16002_Abhiprayah.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Integrating Asynchronous Task Parallelism with OpenSHMEM, In: OpenSHMEM 2016: OpenSHMEM and Related Technologies. Enhancing OpenSHMEM for Hybrid Environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:N5tVd3kTz84C",
+            "citation_id": "cRZsY44AAAAJ:N5tVd3kTz84C",
+            "authors": "M Grossman, V Kumar, Z Budimli\u0107, V Sarkar",
+            "publication": "OPENSHMEM AND RELATED TECHNOLOGIES: ENHANCING OPENSHMEM FOR HYBRID \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Integrating Asynchronous Task Parallelism with OpenSHMEM, In: OpenSHMEM 2016: OpenSHMEM and Related Technologies. Enhancing OpenSHMEM for Hybrid \u2026",
+                    "author": [
+                        "M Grossman",
+                        "V Kumar",
+                        "Z Budimli\u0107",
+                        "V Sarkar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 OPENSHMEM FOR HYBRID \u2026",
+                    "abstract": "Partitioned Global Address Space (PGAS) programming models combine shared and distributed memory features, and provide a foundation for high-productivity parallel programming using lightweight one-sided communications. The OpenSHMEM programming interface has recently begun gaining popularity as a lightweight library-based approach for developing PGAS applications, in part through its use of a symmetric heap to realize more efficient implementations of global pointers than in other PGAS systems. However, current"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.osti.gov/biblio/1567408",
+                "author_id": [
+                    "Ha9SJrcAAAAJ",
+                    "cRZsY44AAAAJ",
+                    "zg9zDcsAAAAJ",
+                    "XjeIqxYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:lJyiRgv0BbQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntegrating%2BAsynchronous%2BTask%2BParallelism%2Bwith%2BOpenSHMEM,%2BIn:%2BOpenSHMEM%2B2016:%2BOpenSHMEM%2Band%2BRelated%2BTechnologies.%2BEnhancing%2BOpenSHMEM%2Bfor%2BHybrid%2BEnvironments%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lJyiRgv0BbQJ&ei=gb9iYs3SOO-Sy9YPmNWywAs&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Scaling HabaneroUPC++ on Heterogeneous Supercomputers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:4OULZ7Gr8RgC",
+            "citation_id": "cRZsY44AAAAJ:4OULZ7Gr8RgC",
+            "authors": "V Kumar, M Grossman, H Shan, V Sarkar",
+            "publication": "2015 9th International Conference on Partitioned Global Address Space \u2026, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Scaling HabaneroUPC++ on Heterogeneous Supercomputers",
+                    "author": [
+                        "V Kumar",
+                        "M Grossman",
+                        "H Shan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 9th International \u2026",
+                    "abstract": "Accelerators/co-processors have made their way into supercomputing systems. These modern heterogeneous systems feature multiple layers of memory hierarchies, and produce a high degree of thread-level parallelism. To ensure that current and future applications perform well on these systems, it is important that users be able to cleanly express the various types of parallelism found in their applications while trusting that expertly-implemented runtime libraries will schedule this parallelism in a way that efficiently utilizes"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7306104/",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "Ha9SJrcAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:S_6YJwPtBaUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DScaling%2BHabaneroUPC%252B%252B%2Bon%2BHeterogeneous%2BSupercomputers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=S_6YJwPtBaUJ&ei=hr9iYqiIBJyO6rQP-viEEA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:S_6YJwPtBaUJ:scholar.google.com/&scioq=Scaling+HabaneroUPC%2B%2B+on+Heterogeneous+Supercomputers&hl=en&as_sdt=0,33",
+                "eprint_url": "https://vivkumar.github.io/papers/pgas15.pdf"
+            }
+        },
+        {
+            "title": "Achieving High Performance and High Productivity in Next Generational Parallel Programming Languages",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:fQNAKQ3IYiAC",
+            "citation_id": "cRZsY44AAAAJ:fQNAKQ3IYiAC",
+            "authors": "V Kumar",
+            "publication": "The Australian National University, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Achieving High Performance and High Productivity in Next Generational Parallel Programming Languages",
+                    "author": [
+                        "V Kumar"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "NA",
+                    "abstract": "Processor design has turned toward parallelism and heterogeneity cores to achieve performance and energy efficiency. Developers find high-level languages attractive because they use abstraction to offer productivity and portability over hardware complexities. To achieve performance, some modern implementations of high-level languages use work-stealing scheduling for load balancing of dynamically created tasks. Work-stealing is a promising approach for effectively exploiting software parallelism on parallel hardware. A"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://openresearch-repository.anu.edu.au/bitstream/1885/145103/1/Kumar%20Thesis%202015.pdf",
+                "author_id": [
+                    "cRZsY44AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:MQNHqS4lP8YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAchieving%2BHigh%2BPerformance%2Band%2BHigh%2BProductivity%2Bin%2BNext%2BGenerational%2BParallel%2BProgramming%2BLanguages%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MQNHqS4lP8YJ&ei=ir9iYqOiGamTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:MQNHqS4lP8YJ:scholar.google.com/&scioq=Achieving+High+Performance+and+High+Productivity+in+Next+Generational+Parallel+Programming+Languages&hl=en&as_sdt=0,33",
+                "eprint_url": "https://openresearch-repository.anu.edu.au/bitstream/1885/145103/1/Kumar%20Thesis%202015.pdf"
+            }
+        },
+        {
+            "title": "HiPCW 2021",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:b1wdh0AR-JQC",
+            "citation_id": "cRZsY44AAAAJ:b1wdh0AR-JQC",
+            "authors": "S Ghafoor, SK Prasad, C Weems, J Adams, V Kumar, S Wang, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "HiPCW 2021",
+                    "author": [
+                        "S Ghafoor",
+                        "SK Prasad",
+                        "C Weems",
+                        "J Adams",
+                        "V Kumar"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "2021 IEEE 28th International,Conference on High,Performance Computing,,Data, and  Analytics Workshop,(HiPCW),HiPCW 2021, ,Table of Contents, , , ,Message from the HiPC"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.computer.org/csdl/proceedings-article/hipcw/2021/103700z005/1AlCNutdN5u",
+                "author_id": [
+                    "",
+                    "WdZpkD0AAAAJ",
+                    "bkN-YUkAAAAJ",
+                    "",
+                    "cRZsY44AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:RgjK2k8w1UQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHiPCW%2B2021%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=RgjK2k8w1UQJ&ei=lb9iYueLOM6E6rQPz8uiuAc&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Antonino Tumeo, Pacific Northwest National Laboratory (PNNL)(antonino. tumeo@ pnnl. gov) John Feo, Pacific Northwest National Laboratory (PNNL), Northwest Institute for \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:eJXPG6dFmWUC",
+            "citation_id": "cRZsY44AAAAJ:eJXPG6dFmWUC",
+            "authors": "O Villa, M Becchi, D Brooks, H Franke, TJ Watson, USJ Gilbert, V Kumar, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Antonino Tumeo, Pacific Northwest National Laboratory (PNNL)(antonino. tumeo@ pnnl. gov) John Feo, Pacific Northwest National Laboratory (PNNL) \u2026",
+                    "author": [
+                        "O Villa",
+                        "M Becchi",
+                        "D Brooks",
+                        "H Franke",
+                        "TJ Watson"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Scott Beamer, Lawrence Berkeley National Laboratory (LBNL), US Michela Becchi, University  of Missouri, US David Brooks, Harvard University, US Hubertus Franke, IBM TJ Watson, US  John Gilbert, University of California at Santa Barbara, US Maya Gokhale, Lawrence Livermore  National Laboratory (LLNL), US Vivek Kumar, Rice University, US  Richard Murphy,  Micron, US Miquel Moret\u00f3, UPC-BSC, ES Walid Najjar, University of California Riverside, US  Jacob Nelson, University of Washington, US Ozcan Ozturk, Bilkent University, TR Gianluca"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7833295/",
+                "author_id": [
+                    "ElikqN4AAAAJ",
+                    "pkjoANMAAAAJ",
+                    "vXHA_XYAAAAJ",
+                    "iklPa0oAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:NbjKcpKdaA8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAntonino%2BTumeo,%2BPacific%2BNorthwest%2BNational%2BLaboratory%2B(PNNL)(antonino.%2Btumeo%2540%2Bpnnl.%2Bgov)%2BJohn%2BFeo,%2BPacific%2BNorthwest%2BNational%2BLaboratory%2B(PNNL),%2BNorthwest%2BInstitute%2Bfor%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NbjKcpKdaA8J&ei=mb9iYtz8H--Sy9YPmNWywAs&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Faster Work\u2013Stealing With Return Barriers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cRZsY44AAAAJ&pagesize=100&citation_for_view=cRZsY44AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "cRZsY44AAAAJ:d1gkVwhDpl0C",
+            "authors": "V Kumar, SM Blackburn",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Faster Work\u2013Stealing With Return Barriers",
+                    "author": [
+                        "V Kumar",
+                        "SM Blackburn"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "\u2013 Reduce the cost of each steal \u2022 Return barriers \u2013 Reduce total number of steal events \u2022  Steal more than one continuation at a time  \u2013 Reduce the cost of each steal \u2022 Return  barriers \u2013 Reduce total number of steals \u2022 Steal more than one  \u2013 Reduce the cost of each  steal \u2022 Return barriers \u2013 Reduce total number of steals \u2022 Steal more than one"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://vivkumar.github.io/papers/vmil2012.pdf",
+                "author_id": [
+                    "cRZsY44AAAAJ",
+                    "HgSTO7oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bfVbfLJQoVMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFaster%2BWork%25E2%2580%2593Stealing%2BWith%2BReturn%2BBarriers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bfVbfLJQoVMJ&ei=nL9iYp24GLyCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "eprint_url": "https://vivkumar.github.io/papers/vmil2012.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 180,
+                    "since_2017": 118
+                }
+            },
+            {
+                "h_index": {
+                    "all": 7,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2013,
+                "citations": 6
+            },
+            {
+                "year": 2014,
+                "citations": 13
+            },
+            {
+                "year": 2015,
+                "citations": 16
+            },
+            {
+                "year": 2016,
+                "citations": 22
+            },
+            {
+                "year": 2017,
+                "citations": 21
+            },
+            {
+                "year": 2018,
+                "citations": 26
+            },
+            {
+                "year": 2019,
+                "citations": 31
+            },
+            {
+                "year": 2020,
+                "citations": 10
+            },
+            {
+                "year": 2021,
+                "citations": 28
+            },
+            {
+                "year": 2022,
+                "citations": 2
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=cRZsY44AAAAJ",
+        "available": 3,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vivek Sarkar",
+            "link": "https://scholar.google.com/citations?user=XjeIqxYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XjeIqxYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XjeIqxYAAAAJ",
+            "affiliations": "School of Computer Science, Georgia Institute of Technology",
+            "email": "Verified email at gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XjeIqxYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Steve Blackburn",
+            "link": "https://scholar.google.com/citations?user=HgSTO7oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HgSTO7oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HgSTO7oAAAAJ",
+            "affiliations": "Professor of Computer Science, Australian National University",
+            "email": "Verified email at anu.edu.au",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HgSTO7oAAAAJ&citpid=4"
+        },
+        {
+            "name": "David Grove",
+            "link": "https://scholar.google.com/citations?user=iU8ijrYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iU8ijrYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "iU8ijrYAAAAJ",
+            "affiliations": "IBM Research",
+            "email": "Verified email at us.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=iU8ijrYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Yili Zheng",
+            "link": "https://scholar.google.com/citations?user=DcDI6VcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=DcDI6VcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "DcDI6VcAAAAJ",
+            "affiliations": "Google",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DcDI6VcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Julian Dolby",
+            "link": "https://scholar.google.com/citations?user=o5QfxzkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=o5QfxzkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "o5QfxzkAAAAJ",
+            "affiliations": "IBM Thomas J. Watson Research Center",
+            "email": "Verified email at us.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o5QfxzkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Gaurav Mitra",
+            "link": "https://scholar.google.com/citations?user=6WvxN4YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6WvxN4YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6WvxN4YAAAAJ",
+            "affiliations": "Facebook Inc.",
+            "email": "Verified email at fb.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6WvxN4YAAAAJ&citpid=2"
+        },
+        {
+            "name": "Karthik S Murthy",
+            "link": "https://scholar.google.com/citations?user=bakqC5EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=bakqC5EAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "bakqC5EAAAAJ",
+            "affiliations": "Engineer, Google",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

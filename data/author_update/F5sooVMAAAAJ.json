@@ -1,0 +1,998 @@
+{
+    "search_metadata": {
+        "id": "6256e0da37014c2f321e7326",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d89f688d7869b789/6256e0da37014c2f321e7326.json",
+        "created_at": "2022-04-13 14:40:26 UTC",
+        "processed_at": "2022-04-13 14:40:26 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=F5sooVMAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/d89f688d7869b789/6256e0da37014c2f321e7326.html",
+        "total_time_taken": 1.9,
+        "total_articles": 20,
+        "total_co_authors": 10
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "F5sooVMAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Mukulika Maity",
+        "affiliations": "Assistant Professor at Indraprastha Institute of Information Technology (IIIT-Delhi)",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://faculty.iiitd.ac.in/~mukulika/",
+        "interests": [
+            {
+                "title": "Wireless Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_networks"
+            },
+            {
+                "title": "Mobile Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mobile_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amobile_computing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=F5sooVMAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "TCP download performance in dense WiFi scenarios: Analysis and solution",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "F5sooVMAAAAJ:d1gkVwhDpl0C",
+            "authors": "M Maity, B Raman, M Vutukuru",
+            "publication": "IEEE Transactions on Mobile Computing 16 (1), 213-227, 2016",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15578357890385210105",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15578357890385210105&engine=google_scholar&hl=en",
+                "cites_id": "15578357890385210105"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "TCP download performance in dense WiFi scenarios: Analysis and solution",
+                    "author": [
+                        "M Maity",
+                        "B Raman",
+                        "M Vutukuru"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "IEEE Transactions on Mobile \u2026",
+                    "abstract": "How does a dense WiFi network perform, specifically for the common case of TCP download? While the empirical answer to this question ispoor', analysis and experimentation in prior work has indicated that TCP clocks itself quite well, avoiding contention-driven WiFi overload in dense settings. This paper focuses on measurements from a real-life use of WiFi in a dense scenario: a classroom where several students use the network to download quizzes and instruction material. We find that the TCP download"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7430293/",
+                "author_id": [
+                    "F5sooVMAAAAJ",
+                    "qj3IRU8AAAAJ",
+                    "-OpGJpYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-WpQsPZxMdgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTCP%2Bdownload%2Bperformance%2Bin%2Bdense%2BWiFi%2Bscenarios:%2BAnalysis%2Band%2Bsolution%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-WpQsPZxMdgJ&ei=d9liYs39Lc6E6rQPz8uiuAc&json=",
+                "num_citations": 30,
+                "citedby_url": "/scholar?cites=15578357890385210105&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-WpQsPZxMdgJ:scholar.google.com/&scioq=TCP+download+performance+in+dense+WiFi+scenarios:+Analysis+and+solution&hl=en&as_sdt=0,33",
+                "eprint_url": "http://faculty.iiitd.ac.in/~mukulika/papers/wifirr_published.pdf"
+            }
+        },
+        {
+            "title": "Tcp download performance in dense wifi scenarios",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "F5sooVMAAAAJ:u5HHmVD_uO8C",
+            "authors": "M Maity, B Raman, M Vutukuru",
+            "publication": "2015 7th International Conference on Communication Systems and Networks \u2026, 2015",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7924460796868762748",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7924460796868762748&engine=google_scholar&hl=en",
+                "cites_id": "7924460796868762748"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Tcp download performance in dense wifi scenarios",
+                    "author": [
+                        "M Maity",
+                        "B Raman",
+                        "M Vutukuru"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 7th International \u2026",
+                    "abstract": "How does a dense WiFi network perform, specifically for the common case of TCP download? While the empirical answer to this question ispoor', analysis and experimentation in prior work has indicated that TCP clocks itself quite well, avoiding contention-driven WiFi overload in dense settings. This paper focuses on measurements from a real-life use of WiFi in a dense scenario: a classroom where several students use the network to download quizzes and instruction material. We find that the TCP download"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7098698/",
+                "author_id": [
+                    "F5sooVMAAAAJ",
+                    "qj3IRU8AAAAJ",
+                    "-OpGJpYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fBzf8RtX-W0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTcp%2Bdownload%2Bperformance%2Bin%2Bdense%2Bwifi%2Bscenarios%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fBzf8RtX-W0J&ei=e9liYvOKHoOEmgH1zZjACQ&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=7924460796868762748&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fBzf8RtX-W0J:scholar.google.com/&scioq=Tcp+download+performance+in+dense+wifi+scenarios&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.cse.iitb.ac.in/~mukulika/publications/comsnets.pdf"
+            }
+        },
+        {
+            "title": "Use of machine learning to detect causes of unnecessary active scanning in WiFi networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "F5sooVMAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "H Fulara, G Singh, D Jaisinghani, M Maity, T Chakraborty, V Naik",
+            "publication": "2019 IEEE 20th International Symposium on\" A World of Wireless, Mobile and \u2026, 2019",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=839308037678133253",
+                "serpapi_link": "https://serpapi.com/search.json?cites=839308037678133253&engine=google_scholar&hl=en",
+                "cites_id": "839308037678133253"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Use of machine learning to detect causes of unnecessary active scanning in WiFi networks",
+                    "author": [
+                        "H Fulara",
+                        "G Singh",
+                        "D Jaisinghani"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE 20th \u2026",
+                    "abstract": "We address the problem of automating the process of network troubleshooting for a large-scale WiFi network. Specifically, we target identifying the causes of unnecessary active scans in WiFi networks, that are known to degrade the WiFi performance. We collect 340 hours worth of data with several thousands of episodes of active scans to train various machine learning models. Data is collected with 27 devices across vendors in varied network setups under a controlled setting. We study unsupervised and supervised machine"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8793010/",
+                "author_id": [
+                    "",
+                    "",
+                    "YB_62i8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:BXDvojbSpQsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUse%2Bof%2Bmachine%2Blearning%2Bto%2Bdetect%2Bcauses%2Bof%2Bunnecessary%2Bactive%2Bscanning%2Bin%2BWiFi%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BXDvojbSpQsJ&ei=ftliYo2_NfmQ6rQPzKCxuAY&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=839308037678133253&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:BXDvojbSpQsJ:scholar.google.com/&scioq=Use+of+machine+learning+to+detect+causes+of+unnecessary+active+scanning+in+WiFi+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vinayak-Naik-4/publication/333506831_Use_of_Machine_Learning_to_Detect_Causes_of_Unnecessary_Active_Scanning_in_WiFi_Networks/links/5cf0baa04585153c3da7b023/Use-of-Machine-Learning-to-Detect-Causes-of-Unnecessary-Active-Scanning-in-WiFi-Networks.pdf"
+            }
+        },
+        {
+            "title": "Scalable measurement of air pollution using COTS IoT devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "F5sooVMAAAAJ:2osOgNQ5qMEC",
+            "authors": "V Jain, M Goel, M Maity, V Naik, R Ramjee",
+            "publication": "2018 10th international conference on communication systems & networks \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15679654503413282858",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15679654503413282858&engine=google_scholar&hl=en",
+                "cites_id": "15679654503413282858"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Scalable measurement of air pollution using COTS IoT devices",
+                    "author": [
+                        "V Jain",
+                        "M Goel",
+                        "M Maity",
+                        "V Naik"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 10th international \u2026",
+                    "abstract": "Air pollution levels have been rising at an alarming rate for the past ten years. The situation is considerably worse in developing nations, such as India. The average concentration of PM10 in Delhi has increased by over 66% between the years 2007 and 2010 and continues to increase further. Rising air pollution has been shown to have a detrimental effect on human health. The first line of action is to sensitize people about the problem by informing them about the quality of air that they are breathing in their immediate vicinity. Unfortunately"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8328271/",
+                "author_id": [
+                    "LUrWFsYAAAAJ",
+                    "gD0oy18AAAAJ",
+                    "F5sooVMAAAAJ",
+                    "HF7IPeQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KnjNTLJSmdkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DScalable%2Bmeasurement%2Bof%2Bair%2Bpollution%2Busing%2BCOTS%2BIoT%2Bdevices%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KnjNTLJSmdkJ&ei=gtliYpjvAY6pywSdh6agAg&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=15679654503413282858&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KnjNTLJSmdkJ:scholar.google.com/&scioq=Scalable+measurement+of+air+pollution+using+COTS+IoT+devices&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vinayak-Naik-4/publication/322077248_Scalable_Measurement_of_Air_Pollution_using_COTS_IoT_Devices/links/5a434afa458515f6b0508560/Scalable-Measurement-of-Air-Pollution-using-COTS-IoT-Devices.pdf"
+            }
+        },
+        {
+            "title": "How much can we reuse? An empirical analysis of the performance benefits achieved by spatial-reuse of IEEE 802.11 ax",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "F5sooVMAAAAJ:IjCSPb-OGe4C",
+            "authors": "A Malhotra, M Maity, A Dutta",
+            "publication": "2019 11th International Conference on Communication Systems & Networks \u2026, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2496665136744967123",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2496665136744967123&engine=google_scholar&hl=en",
+                "cites_id": "2496665136744967123"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "How much can we reuse? An empirical analysis of the performance benefits achieved by spatial-reuse of IEEE 802.11 ax",
+                    "author": [
+                        "A Malhotra",
+                        "M Maity",
+                        "A Dutta"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 11th International \u2026",
+                    "abstract": "The IEEE 802.11 ax standard is the latest innovation in WiFi, also referred to as WiFi 6 (sixth generation). It focuses on improving the performance in dense Wireless Local Area Networks (WLAN). It proposes various features to improve the same. OFDMA, spatial-reuse, and Downlink and Uplink MUMIMO are the most important features introduced. In this paper, we focus on the spatial-reuse feature. The standard proposes OBSS (Overlapping Basic Service Set) colouring to increase spatial reuse in dense scenarios. We evaluate the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8711404/",
+                "author_id": [
+                    "",
+                    "F5sooVMAAAAJ",
+                    "yAj2_NgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:0yvJxrbvpSIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHow%2Bmuch%2Bcan%2Bwe%2Breuse%253F%2BAn%2Bempirical%2Banalysis%2Bof%2Bthe%2Bperformance%2Bbenefits%2Bachieved%2Bby%2Bspatial-reuse%2Bof%2BIEEE%2B802.11%2Bax%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0yvJxrbvpSIJ&ei=i9liYtb-MsLZmQHc1ovQAg&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=2496665136744967123&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:0yvJxrbvpSIJ:scholar.google.com/&scioq=How+much+can+we+reuse%3F+An+empirical+analysis+of+the+performance+benefits+achieved+by+spatial-reuse+of+IEEE+802.11+ax&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Avik-Dutta-3/publication/333068220_How_much_can_we_reuse_An_empirical_analysis_of_the_performance_benefits_achieved_by_spatial-reuse_of_IEEE_80211ax/links/5d7174c8a6fdcc9961b1fa4d/How-much-can-we-reuse-An-empirical-analysis-of-the-performance-benefits-achieved-by-spatial-reuse-of-IEEE-80211ax.pdf"
+            }
+        },
+        {
+            "title": "An empirical evaluation of the COTS air pollution masks in a highly polluted real environment",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "F5sooVMAAAAJ:zYLM7Y9cAGgC",
+            "authors": "A Balotra, M Maity, V Naik",
+            "publication": "2019 11th International Conference on Communication Systems & Networks \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10995449021383053903",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10995449021383053903&engine=google_scholar&hl=en",
+                "cites_id": "10995449021383053903"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An empirical evaluation of the COTS air pollution masks in a highly polluted real environment",
+                    "author": [
+                        "A Balotra",
+                        "M Maity",
+                        "V Naik"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 11th International Conference \u2026",
+                    "abstract": "Air pollution levels have been increasing at an alarming rate for the past few years. The concentration of particulate matter in the air in Delhi has increased by 66% in last ten years. Increased levels of pollution are causing health hazards. It is high time to sensitize people about the quality of air they are breathing in. The need of the hour is to make people aware of different methods to protect themselves from pollution. Using respiratory masks, is one of them. However, just using the respiratory mask does not solve the problem. People need to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8711171/",
+                "author_id": [
+                    "",
+                    "F5sooVMAAAAJ",
+                    "HF7IPeQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TxJ06aCul5gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Bempirical%2Bevaluation%2Bof%2Bthe%2BCOTS%2Bair%2Bpollution%2Bmasks%2Bin%2Ba%2Bhighly%2Bpolluted%2Breal%2Benvironment%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TxJ06aCul5gJ&ei=kdliYr3IEo6pywSdh6agAg&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=10995449021383053903&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:TxJ06aCul5gJ:scholar.google.com/&scioq=An+empirical+evaluation+of+the+COTS+air+pollution+masks+in+a+highly+polluted+real+environment&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vinayak-Naik-4/publication/330776652_An_Empirical_Evaluation_of_the_COTS_Air_Pollution_Masks_in_a_Highly_Polluted_Real_Environment/links/5c53cb4492851c22a39f69d2/An-Empirical-Evaluation-of-the-COTS-Air-Pollution-Masks-in-a-Highly-Polluted-Real-Environment.pdf"
+            }
+        },
+        {
+            "title": "MMRU-ALLOC: An optimal resource allocation framework for OFDMA in IEEE 802.11 ax",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:WF5omc3nYNoC",
+            "citation_id": "F5sooVMAAAAJ:WF5omc3nYNoC",
+            "authors": "A Dutta, N Gupta, S Das, M Maity",
+            "publication": "2020 IEEE 31st Annual International Symposium on Personal, Indoor and Mobile \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1100918147947123528",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1100918147947123528&engine=google_scholar&hl=en",
+                "cites_id": "1100918147947123528"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MMRU-ALLOC: An optimal resource allocation framework for OFDMA in IEEE 802.11 ax",
+                    "author": [
+                        "A Dutta",
+                        "N Gupta",
+                        "S Das",
+                        "M Maity"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 31st Annual \u2026",
+                    "abstract": "IEEE 802.11 ax introduces OFDMA (Orthogonal Frequency Division Multiple Access) that allows multiple users to transmit or receive frames concurrently. The OFDMA transmission duration is decided by the client with maximum transmission duration. We focus on minimizing the maximum transmission duration. The standard restricts assignment of at max one RU to a client and provides a specific way of splitting the channel into smaller RUs. In this paper, we come up with a generic framework, MMRU-Alloc (Min Max Resource Unit"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9217154/",
+                "author_id": [
+                    "yAj2_NgAAAAJ",
+                    "8z2Ct_oAAAAJ",
+                    "7nBU-20AAAAJ",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:SFMr_zg_Rw8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMMRU-ALLOC:%2BAn%2Boptimal%2Bresource%2Ballocation%2Bframework%2Bfor%2BOFDMA%2Bin%2BIEEE%2B802.11%2Bax%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SFMr_zg_Rw8J&ei=ltliYvPOFfmQ6rQPzKCxuAY&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=1100918147947123528&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:SFMr_zg_Rw8J:scholar.google.com/&scioq=MMRU-ALLOC:+An+optimal+resource+allocation+framework+for+OFDMA+in+IEEE+802.11+ax&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Avik-Dutta-3/publication/346036426_MMRU-ALLOC_An_Optimal_Resource_Allocation_Framework_for_OFDMA_in_IEEE_80211ax/links/5fb7b424a6fdcc6cc64f82d9/MMRU-ALLOC-An-Optimal-Resource-Allocation-Framework-for-OFDMA-in-IEEE-80211ax.pdf"
+            }
+        },
+        {
+            "title": "The road not taken: re-thinking the feasibility of voice calling over tor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "F5sooVMAAAAJ:eQOLeE2rZwMC",
+            "authors": "PK Sharma, S Chaudhary, N Hassija, M Maity, S Chakravarty",
+            "publication": "arXiv preprint arXiv:2007.04673, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=367386013200011999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=367386013200011999&engine=google_scholar&hl=en",
+                "cites_id": "367386013200011999"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "The road not taken: re-thinking the feasibility of voice calling over tor",
+                    "author": [
+                        "PK Sharma",
+                        "S Chaudhary",
+                        "N Hassija",
+                        "M Maity"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Anonymous VoIP calls over the Internet holds great significance for privacy-conscious users, whistle-blowers and political activists alike. Prior research deems popular anonymization systems like Tor unsuitable for providing requisite performance guarantees that real-time applications like VoIP need. Their claims are backed by studies that may no longer be valid due to constant advancements in Tor. Moreover, we believe that these studies lacked the requisite diversity and comprehensiveness. Thus, conclusions from these studies led them"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2007.04673",
+                "author_id": [
+                    "eO1M0vgAAAAJ",
+                    "6T3CaUcAAAAJ",
+                    "",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:39I77KE3GQUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Broad%2Bnot%2Btaken:%2Bre-thinking%2Bthe%2Bfeasibility%2Bof%2Bvoice%2Bcalling%2Bover%2Btor%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=39I77KE3GQUJ&ei=mtliYr7CLqKUy9YPyMyGkAI&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=367386013200011999&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:39I77KE3GQUJ:scholar.google.com/&scioq=The+road+not+taken:+re-thinking+the+feasibility+of+voice+calling+over+tor&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2007.04673"
+            }
+        },
+        {
+            "title": "Elixir: Efficient Data Transfer in WiFi-based IoT Nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "F5sooVMAAAAJ:UeHWp8X0CEIC",
+            "authors": "D Jaisinghani, G Singh, H Fulara, M Maity, V Naik",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7533739178383960358",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7533739178383960358&engine=google_scholar&hl=en",
+                "cites_id": "7533739178383960358"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Elixir: Efficient Data Transfer in WiFi-based IoT Nodes",
+                    "author": [
+                        "D Jaisinghani",
+                        "G Singh",
+                        "H Fulara",
+                        "M Maity"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the 24th \u2026",
+                    "abstract": "Internet-of-Things (IoT) nodes in dense WiFi deployments struggle to maintain their associations with the access points (APs) and efficiently transmit their data. In the process, they waste their energy and airtime, which affects their battery-life and throughput. We present Elixir, a protocol for WiFi-based IoT nodes that enables them to transmit data without the need of a WiFi association. Elixir is implemented in the user space, which makes it easy to port the implementation to any Linux-based client and AP. We demonstrate its end"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3241539.3267717",
+                "author_id": [
+                    "YB_62i8AAAAJ",
+                    "",
+                    "",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JukEBt43jWgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DElixir:%2BEfficient%2BData%2BTransfer%2Bin%2BWiFi-based%2BIoT%2BNodes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JukEBt43jWgJ&ei=ndliYpXnKYySyATlkbrQCA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=7533739178383960358&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JukEBt43jWgJ:scholar.google.com/&scioq=Elixir:+Efficient+Data+Transfer+in+WiFi-based+IoT+Nodes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vinayak-Naik-4/publication/328322820_Elixir_Efficient_Data_Transfer_in_WiFi-based_IoT_Nodes/links/5f9ade4f458515b7cfa780ce/Elixir-Efficient-Data-Transfer-in-WiFi-based-IoT-Nodes.pdf"
+            }
+        },
+        {
+            "title": "A Software Solution to Conduct Inquiry based Student Directed Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "F5sooVMAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Mishra, M Maity",
+            "publication": "2014 IEEE Sixth International Conference on Technology for Education, 18-25, 2014",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14859024849068338220",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14859024849068338220&engine=google_scholar&hl=en",
+                "cites_id": "14859024849068338220"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Software Solution to Conduct Inquiry based Student Directed Learning",
+                    "author": [
+                        "S Mishra",
+                        "M Maity"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 IEEE Sixth International Conference \u2026",
+                    "abstract": "Question posing (QP) refers to the generation of questions by learners. It has been shown to be an effective instructional strategy for teaching-learning of complex materials. QP enables students to inquire into the given situation and generate new knowledge through self exploration. Students questioning can be used as a strategy to enable student directed learning and create a student centered curriculum. In this paper we present a software solution to incorporate a smooth implementation of an inquiry based student directed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7009528/",
+                "author_id": [
+                    "yZ86YskAAAAJ",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LKxrrV_cNc4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BSoftware%2BSolution%2Bto%2BConduct%2BInquiry%2Bbased%2BStudent%2BDirected%2BLearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LKxrrV_cNc4J&ei=odliYrmMB4OEmgH1zZjACQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=14859024849068338220&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LKxrrV_cNc4J:scholar.google.com/&scioq=A+Software+Solution+to+Conduct+Inquiry+based+Student+Directed+Learning&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Shitanshu-Mishra/publication/280557317_A_Software_Solution_to_Conduct_Inquiry_Based_Student_Directed_Learning/links/5a1273b8a6fdccc2d79b6dc2/A-Software-Solution-to-Conduct-Inquiry-Based-Student-Directed-Learning.pdf"
+            }
+        },
+        {
+            "title": "YouTube over Google's QUIC vs Internet Middleboxes: A Tug of War between Protocol Sustainability and Application QoE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:UebtZRa9Y70C",
+            "citation_id": "F5sooVMAAAAJ:UebtZRa9Y70C",
+            "authors": "S Chaudhary, P Sachdeva, A Mondal, S Chakraborty, M Maity",
+            "publication": "arXiv preprint arXiv:2203.11977, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "YouTube over Google's QUIC vs Internet Middleboxes: A Tug of War between Protocol Sustainability and Application QoE",
+                    "author": [
+                        "S Chaudhary",
+                        "P Sachdeva",
+                        "A Mondal"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Middleboxes such as web proxies, firewalls, etc. are widely deployed in today's network infrastructure. As a result, most protocols need to adapt their behavior to co-exist. One of the most commonly used transport protocols, QUIC, adapts to such middleboxes by falling back to TCP, where they block it. In this paper, we argue that the blind fallback behavior of QUIC, ie, not distinguishing between failures caused by middleboxes and that caused by network congestion, hugely impacts the performance of QUIC. For this, we focus on YouTube video"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2203.11977",
+                "author_id": [
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:6stsvVuVujYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DYouTube%2Bover%2BGoogle%2527s%2BQUIC%2Bvs%2BInternet%2BMiddleboxes:%2BA%2BTug%2Bof%2BWar%2Bbetween%2BProtocol%2BSustainability%2Band%2BApplication%2BQoE%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6stsvVuVujYJ&ei=ptliYu_cBJWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2203.11977"
+            }
+        },
+        {
+            "title": "BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-propagation Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:Se3iqnhoufwC",
+            "citation_id": "F5sooVMAAAAJ:Se3iqnhoufwC",
+            "authors": "BC Chatterjee, I Ahmed, A Wadud, M Maity, E Oki",
+            "publication": "IEEE Transactions on Network and Service Management, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "BPRIA: Crosstalk-Avoided Bi-Partitioning-Based Counter-propagation Resource Identification and Allocation for Spectrally-Spatially Elastic Optical Networks",
+                    "author": [
+                        "BC Chatterjee",
+                        "I Ahmed",
+                        "A Wadud"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Signal transmission using counter-propagation nowadays is adopted to enhance resource utilization in spectrally-spatially elastic optical networks (SS-EONs), where inter-mode and inter-core crosstalks always degrade signal quality and become bottlenecks for high transport capacity. In this paper, we propose BPRIA for the first time, a Bi-Partitioning-based crosstalk-avoided Resource Identification and Allocation scheme in SS-EONs to enhance resource utilization while suppressing both inter-mode and inter-core crosstalks. We"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9733389/",
+                "author_id": [
+                    "mYKBDyYAAAAJ",
+                    "ZjQ42rYAAAAJ",
+                    "zeAyW5YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Odkd1Zh_TE0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBPRIA:%2BCrosstalk-Avoided%2BBi-Partitioning-Based%2BCounter-propagation%2BResource%2BIdentification%2Band%2BAllocation%2Bfor%2BSpectrally-Spatially%2BElastic%2BOptical%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Odkd1Zh_TE0J&ei=qdliYtKhLbyCy9YPv5-K-Ac&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Shared Backup Path Protection-Based Resource Allocation Considering Inter-Core and Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "F5sooVMAAAAJ:LkGwnXOMwfcC",
+            "authors": "J Halder, M Maity, E Oki, BC Chatterjee",
+            "publication": "IEEE Communications Letters, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Shared Backup Path Protection-Based Resource Allocation Considering Inter-Core and Inter-Mode Crosstalk for Spectrally-Spatially Elastic Optical Networks",
+                    "author": [
+                        "J Halder",
+                        "M Maity",
+                        "E Oki"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Communications \u2026",
+                    "abstract": "In the future, the most challenging issue for network operators will be to provide survivability against failure and enhance resource utilization simultaneously in spectrally-spatially elastic optical networks (SS-EONs). To address the above issue, this letter, for the first time, proposes a shared backup path protection-based resource allocation model considering inter-core and inter-mode crosstalks (XTs) for offline SS-EONs. The proposed model introduces two optimization problems as integer linear programming (ILP), which are based"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9667387/",
+                "author_id": [
+                    "",
+                    "F5sooVMAAAAJ",
+                    "JHhIaMoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bE799iRe5hoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DShared%2BBackup%2BPath%2BProtection-Based%2BResource%2BAllocation%2BConsidering%2BInter-Core%2Band%2BInter-Mode%2BCrosstalk%2Bfor%2BSpectrally-Spatially%2BElastic%2BOptical%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bE799iRe5hoJ&ei=rNliYvqpLZyO6rQP-viEEA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:bE799iRe5hoJ:scholar.google.com/&scioq=Shared+Backup+Path+Protection-Based+Resource+Allocation+Considering+Inter-Core+and+Inter-Mode+Crosstalk+for+Spectrally-Spatially+Elastic+Optical+Networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Who slowed down my app? a measurement study of response times of smartphone apps in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:roLk4NBRz8UC",
+            "citation_id": "F5sooVMAAAAJ:roLk4NBRz8UC",
+            "authors": "A Pandey, P Sachdeva, M Maity, A Bhattacharya",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Who slowed down my app? a measurement study of response times of smartphone apps in India",
+                    "author": [
+                        "A Pandey",
+                        "P Sachdeva",
+                        "M Maity",
+                        "A Bhattacharya"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "India has seen a rapid rise in the adoption of smart phones, with a majority of Indians accessing the Internet through smart phones. Smart phones have become one of the most important mediums of delivering essential services such as news, entertainment, and even payment services in India. However, it is not clearly understood how the quality of experience of individual users varies, especially considering the huge diversity of the Smartphone models, network conditions, and regions from which they are used. We quantify"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/959",
+                "author_id": [
+                    "",
+                    "",
+                    "F5sooVMAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:oe7H6goK4psJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWho%2Bslowed%2Bdown%2Bmy%2Bapp%253F%2Ba%2Bmeasurement%2Bstudy%2Bof%2Bresponse%2Btimes%2Bof%2Bsmartphone%2Bapps%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oe7H6goK4psJ&ei=r9liYoWRH4ySyATlkbrQCA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/959/Abhivandan%20Pandey_2017007%2C%20Prince%20Sachdeva_2017080.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Building performant, privacy-enhancing, and blocking-resistant communication systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "F5sooVMAAAAJ:_FxGoFyzp5QC",
+            "authors": "P Kumar, S Chakravarty, M Maity",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Building performant, privacy-enhancing, and blocking-resistant communication systems",
+                    "author": [
+                        "P Kumar",
+                        "S Chakravarty",
+                        "M Maity"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "Free and open communication over the Internet is essential for the overall advancement of modern societies. However, there are numerous ways with which malevolent adversaries try to control the flow of information, by either selectively restricting access to content or in extreme scenarios completely shutting down the Internet. Hence, we aim to augment existing research as well as build novel systems to facilitate open communication over the Internet. Thus, in this thesis, we attempt to answer the question\u2014Can we facilitate open"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/939",
+                "author_id": [
+                    "Ub5cNW0AAAAJ",
+                    "8CJgHUIAAAAJ",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kcD4mbFBZ3QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBuilding%2Bperformant,%2Bprivacy-enhancing,%2Band%2Bblocking-resistant%2Bcommunication%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kcD4mbFBZ3QJ&ei=stliYtWgIpLeyQTms5KQBg&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Adaptive ViFi: A Dynamic Protocol for IoT Nodes in Challenged WiFi Network Conditions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:ufrVoPGSRksC",
+            "citation_id": "F5sooVMAAAAJ:ufrVoPGSRksC",
+            "authors": "D Jaisinghani, N Gupta, M Maity, V Naik",
+            "publication": "2020 IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive ViFi: A Dynamic Protocol for IoT Nodes in Challenged WiFi Network Conditions",
+                    "author": [
+                        "D Jaisinghani",
+                        "N Gupta",
+                        "M Maity"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 17th \u2026",
+                    "abstract": "We address the problem of connecting IoT nodes to the Internet via challenged networks, which are characterized by minimal or intermittent network association. Examples of such networks can be found in forests with distant access points or in railway stations with overburdened access points. In such places, it is difficult for a node to establish and maintain an association with the access point. There exist several solutions that demonstrate the feasibility of data transfer using low bit-rate broadcast of discovery frames that do not"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9356044/",
+                "author_id": [
+                    "YB_62i8AAAAJ",
+                    "8z2Ct_oAAAAJ",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:SEd4Y4kf96YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%2BViFi:%2BA%2BDynamic%2BProtocol%2Bfor%2BIoT%2BNodes%2Bin%2BChallenged%2BWiFi%2BNetwork%2BConditions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SEd4Y4kf96YJ&ei=ttliYs7BBKmTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:SEd4Y4kf96YJ:scholar.google.com/&scioq=Adaptive+ViFi:+A+Dynamic+Protocol+for+IoT+Nodes+in+Challenged+WiFi+Network+Conditions&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vinayak-Naik-4/publication/349567175_Adaptive_ViFi_A_Dynamic_Protocol_for_IoT_Nodes_in_Challenged_WiFi_Network_Conditions/links/603dd770a6fdcc9c780827e6/Adaptive-ViFi-A-Dynamic-Protocol-for-IoT-Nodes-in-Challenged-WiFi-Network-Conditions.pdf"
+            }
+        },
+        {
+            "title": "Data driven analysis of Wi-Fi networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "F5sooVMAAAAJ:Y0pCki6q_DkC",
+            "authors": "D Kesar, SK Kaul, M Maity",
+            "publication": "IIITD-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Data driven analysis of Wi-Fi networks",
+                    "author": [
+                        "D Kesar",
+                        "SK Kaul",
+                        "M Maity"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "With the increase in demand for enterprise wi-, there is a growing need to understand the functioning of these networks. Large scale Wi-Fi deployment is a challenging task. There is a need to diagnose network related problems after deployment of this large scale Wi-Fi. Another important task is to identify if the client behaviour is anomalous. Clustering is a method that can be used to detect it. In this report user trajectories have been trained using Doc2Vec and the results have been reported."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/745",
+                "author_id": [
+                    "",
+                    "",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:aW9sdXNFCFIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData%2Bdriven%2Banalysis%2Bof%2BWi-Fi%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=aW9sdXNFCFIJ&ei=utliYpj4CvmQ6rQPzKCxuAY&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/745/2015024_DEVISHI.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Sending data over WiFi management frames",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "F5sooVMAAAAJ:W7OEmFMy1HYC",
+            "authors": "H Fulara, V Naik, M Maity",
+            "publication": "IIITD-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sending data over WiFi management frames",
+                    "author": [
+                        "H Fulara",
+                        "V Naik",
+                        "M Maity"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "When a mobile client gets wirelessly associated with an access point, it continuously monitors its connection with the access point. To monitor the connection, the client continuously exchanges management frames with the access point. This continuous exchange of frames burns out the client's unnecessary energy. This problem is more severe in a dense WiFi network consisting of thousands of clients, for example, a large scale network of IoT devices because these unnecessary frames inject more traffic in an already"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/743",
+                "author_id": [
+                    "",
+                    "HF7IPeQAAAAJ",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:D36H9rC5p3oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSending%2Bdata%2Bover%2BWiFi%2Bmanagement%2Bframes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=D36H9rC5p3oJ&ei=vdliYommF6KUy9YPyMyGkAI&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:D36H9rC5p3oJ:scholar.google.com/&scioq=Sending+data+over+WiFi+management+frames&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/743/2014143_HARISH%20FULARA.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Witals: AP-Centric Health Diagnosis of WiFi Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "F5sooVMAAAAJ:u-x6o8ySG0sC",
+            "authors": "M Maity, B Raman, M Vutukuru, A Chaurasia, R Srivastava",
+            "publication": "IEEE Transactions on Mobile Computing 17 (4), 975-989, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Witals: AP-Centric Health Diagnosis of WiFi Networks",
+                    "author": [
+                        "M Maity",
+                        "B Raman",
+                        "M Vutukuru"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Transactions \u2026",
+                    "abstract": "In recent years, WiFi has grown in capacity as well as deployment demand. WiFi system administrators (sysads) want a simple answer to the question \u201cIs my WiFi network healthy?\u201d, and a possible follow-up \u201cWhat is wrong with it?\u201d, if it is reported as \u201cunhealthy\u201d. But we are far from having such an interface today. It is this gap that this work attempts to fill. We present Witals, a system for WiFi performance diagnosis. We first design a causal diagnosis graph, that extensively identifies the underlying cause (s) of WiFi performance problems. Next, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8010330/",
+                "author_id": [
+                    "F5sooVMAAAAJ",
+                    "qj3IRU8AAAAJ",
+                    "-OpGJpYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2YC-zrakDUMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWitals:%2BAP-Centric%2BHealth%2BDiagnosis%2Bof%2BWiFi%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2YC-zrakDUMJ&ei=ydliYonfMY2ymgHnvp6ICA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:2YC-zrakDUMJ:scholar.google.com/&scioq=Witals:+AP-Centric+Health+Diagnosis+of+WiFi+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/2789168.2789179"
+            }
+        },
+        {
+            "title": "Demo: Witals, AP-centric Health Diagnosis of WiFiNetworks.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=F5sooVMAAAAJ&pagesize=100&citation_for_view=F5sooVMAAAAJ:qjMakFHDy7sC",
+            "citation_id": "F5sooVMAAAAJ:qjMakFHDy7sC",
+            "authors": "M Maity, A Chaurasia, R Srivastava, B Raman, M Vutukuru",
+            "publication": "The 21st Annual International Conference on Mobile Computing and Networking, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": ""
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 73,
+                    "since_2017": 66
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 4
+            },
+            {
+                "year": 2017,
+                "citations": 5
+            },
+            {
+                "year": 2018,
+                "citations": 12
+            },
+            {
+                "year": 2019,
+                "citations": 12
+            },
+            {
+                "year": 2020,
+                "citations": 17
+            },
+            {
+                "year": 2021,
+                "citations": 18
+            },
+            {
+                "year": 2022,
+                "citations": 2
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=F5sooVMAAAAJ",
+        "available": 3,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vinayak Naik",
+            "link": "https://scholar.google.com/citations?user=HF7IPeQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HF7IPeQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HF7IPeQAAAAJ",
+            "affiliations": "Head of CS Dept, Head of Computing Center, Professor of CS, and Professor in APPCAIR at BITS Pilani",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HF7IPeQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Bhaskaran Raman",
+            "link": "https://scholar.google.com/citations?user=qj3IRU8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qj3IRU8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qj3IRU8AAAAJ",
+            "affiliations": "Associate Professor, Department of Computer Science and Engineering, IIT Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qj3IRU8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Mythili Vutukuru",
+            "link": "https://scholar.google.com/citations?user=-OpGJpYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-OpGJpYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-OpGJpYAAAAJ",
+            "affiliations": "Associate Professor, Computer Science and Engineering, Indian Institute of Technology, Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-OpGJpYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dheryta Jaisinghani",
+            "link": "https://scholar.google.com/citations?user=YB_62i8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YB_62i8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YB_62i8AAAAJ",
+            "affiliations": "Assistant Professor, Dept. of Computer Science, University of Northern Iowa, Cedar Falls, Iowa",
+            "email": "Verified email at uni.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YB_62i8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Tanmoy Chakraborty",
+            "link": "https://scholar.google.com/citations?user=C5S9JnIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=C5S9JnIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "C5S9JnIAAAAJ",
+            "affiliations": "IIIT-Delhi, India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C5S9JnIAAAAJ&citpid=6"
+        },
+        {
+            "name": "Mansi Goel",
+            "link": "https://scholar.google.com/citations?user=gD0oy18AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gD0oy18AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "gD0oy18AAAAJ",
+            "affiliations": "University of Maryland, College Park",
+            "email": "Verified email at cs.umd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gD0oy18AAAAJ&citpid=4"
+        },
+        {
+            "name": "Ramachandran Ramjee",
+            "link": "https://scholar.google.com/citations?user=0P35aLUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0P35aLUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "0P35aLUAAAAJ",
+            "affiliations": "Microsoft Research India",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0P35aLUAAAAJ&citpid=3"
+        },
+        {
+            "name": "Varun Jain",
+            "link": "https://scholar.google.com/citations?user=LUrWFsYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LUrWFsYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "LUrWFsYAAAAJ",
+            "affiliations": "Master of Science in Computer Science, EECS at UC Berkeley",
+            "email": "Verified email at berkeley.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LUrWFsYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Shitanshu Mishra",
+            "link": "https://scholar.google.com/citations?user=yZ86YskAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yZ86YskAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yZ86YskAAAAJ",
+            "affiliations": "Indian Institute of Technology Bombay",
+            "email": "Verified email at iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yZ86YskAAAAJ&citpid=7"
+        },
+        {
+            "name": "Avinash Kumar Chaurasia",
+            "link": "https://scholar.google.com/citations?user=8VKqmv8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8VKqmv8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "8VKqmv8AAAAJ",
+            "affiliations": "IIT Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8VKqmv8AAAAJ&citpid=1"
+        }
+    ]
+}

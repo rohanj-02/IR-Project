@@ -1,0 +1,987 @@
+{
+    "search_metadata": {
+        "id": "6256e0f0a4be10b5b5a0d10d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a7b37ce7492142b5/6256e0f0a4be10b5b5a0d10d.json",
+        "created_at": "2022-04-13 14:40:48 UTC",
+        "processed_at": "2022-04-13 14:40:48 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=QgTEe-gAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a7b37ce7492142b5/6256e0f0a4be10b5b5a0d10d.html",
+        "total_time_taken": 1.44,
+        "total_articles": 19,
+        "total_co_authors": 10
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "QgTEe-gAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Koteswar Rao JERRIPOTHULA",
+        "affiliations": "Faculty, IIIT-Delhi \u2605 PhD'17, NTU Singapore \u2605 BTech'12, IIT Roorkee",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://faculty.iiitd.ac.in/~koteswar",
+        "interests": [
+            {
+                "title": "Computer Vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "Multimedia",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multimedia",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultimedia"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QgTEe-gAAAAJ&citpid=18"
+    },
+    "articles": [
+        {
+            "title": "Image co-segmentation via saliency co-fusion",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:Ba4ZglSFa04C",
+            "citation_id": "QgTEe-gAAAAJ:Ba4ZglSFa04C",
+            "authors": "KR Jerripothula, J Cai, J Yuan",
+            "publication": "IEEE Transactions on Multimedia (TMM) 18 (9), 1896-1909, 2016",
+            "cited_by": {
+                "value": 117,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7948250054699842436,1226686181075694913",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7948250054699842436%2C1226686181075694913&engine=google_scholar&hl=en",
+                "cites_id": "7948250054699842436,1226686181075694913"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Image co-segmentation via saliency co-fusion",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Yuan"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Most existing high-performance co-segmentation algorithms are usually complex due to the way of co-labeling a set of images as well as the common need of fine-tuning few parameters for effective co-segmentation. In this paper, instead of following the conventional way of co-labeling multiple images, we propose to first exploit inter-image information through co-saliency, and then perform single-image segmentation on each individual image. To make the system robust and to avoid heavy dependence on one single saliency"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7484309/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "fJ7seq0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hPtcKFDbTW4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImage%2Bco-segmentation%2Bvia%2Bsaliency%2Bco-fusion%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hPtcKFDbTW4J&ei=vbhiYtjxDuHDywTjooCQBQ&json=",
+                "num_citations": 117,
+                "citedby_url": "/scholar?cites=7948250054699842436&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:hPtcKFDbTW4J:scholar.google.com/&scioq=Image+co-segmentation+via+saliency+co-fusion&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Object co-skeletonization with co-segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:UUAsIpEgjrcC",
+            "citation_id": "QgTEe-gAAAAJ:UUAsIpEgjrcC",
+            "authors": "KR Jerripothula, J Cai, J Lu, J Yuan",
+            "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 3881-3889, 2017",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8766384658620517740,15250926766689696960",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8766384658620517740%2C15250926766689696960&engine=google_scholar&hl=en",
+                "cites_id": "8766384658620517740,15250926766689696960"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Object co-skeletonization with co-segmentation",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Lu"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE Conference on \u2026",
+                    "abstract": "Recent advances in the joint processing of images have certainly shown its advantages over the individual processing. Different from the existing works geared towards co-segmentation or co-localization, in this paper, we explore a new joint processing topic: co-skeletonization, which is defined as joint skeleton extraction of common objects in a set of semantically similar images. Object skeletonization in real world images is a challenging problem, because there is no prior knowledge of the objects shape if we consider only a single image"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8099896/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "atKv7qoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bI2ClWZ0qHkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DObject%2Bco-skeletonization%2Bwith%2Bco-segmentation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bI2ClWZ0qHkJ&ei=wLhiYoavK-HDywTjooCQBQ&json=",
+                "num_citations": 49,
+                "citedby_url": "/scholar?cites=8766384658620517740&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bI2ClWZ0qHkJ:scholar.google.com/&scioq=Object+co-skeletonization+with+co-segmentation&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Automatic image co-segmentation using geometric mean saliency",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:AkQCnCHIR28C",
+            "citation_id": "QgTEe-gAAAAJ:AkQCnCHIR28C",
+            "authors": "KR Jerripothula, J Cai, F Meng, J Yuan",
+            "publication": "IEEE International Conference on Image Processing (ICIP), 3277-3281, 2014",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3861100131643240801",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3861100131643240801&engine=google_scholar&hl=en",
+                "cites_id": "3861100131643240801"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automatic image co-segmentation using geometric mean saliency",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "F Meng"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 IEEE International \u2026",
+                    "abstract": "Most existing high-performance co-segmentation algorithms are usually complicated due to the way of co-labelling a set of images and the requirement to handle quite a few parameters for effective co-segmentation. In this paper, instead of relying on the complex process of co-labelling multiple images, we perform segmentation on individual images but based on a combined saliency map that is obtained by fusing single-image saliency maps of a group of similar images. Particularly, a new multiple image based saliency map extraction"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7025663/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "96hJnFoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:YTHP3BxilTUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomatic%2Bimage%2Bco-segmentation%2Busing%2Bgeometric%2Bmean%2Bsaliency%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YTHP3BxilTUJ&ei=xbhiYp2aCLKO6rQPxdeOqA4&json=",
+                "num_citations": 43,
+                "citedby_url": "/scholar?cites=3861100131643240801&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:YTHP3BxilTUJ:scholar.google.com/&scioq=Automatic+image+co-segmentation+using+geometric+mean+saliency&hl=en&as_sdt=0,33",
+                "eprint_url": "https://projet.liris.cnrs.fr/imagine/pub/proceedings/ICIP-2014/Papers/1569913619.pdf"
+            }
+        },
+        {
+            "title": "CATS: Co-saliency activated tracklet selection for video co-localization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:K_bBBR5tcgMC",
+            "citation_id": "QgTEe-gAAAAJ:K_bBBR5tcgMC",
+            "authors": "KR Jerripothula, J Cai, J Yuan",
+            "publication": "European Conference on Computer Vision (ECCV), 187-202, 2016",
+            "cited_by": {
+                "value": 37,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15241069578328129592",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15241069578328129592&engine=google_scholar&hl=en",
+                "cites_id": "15241069578328129592"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cats: Co-saliency activated tracklet selection for video co-localization",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Yuan"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "European Conference on Computer \u2026",
+                    "abstract": "Video co-localization is the task of jointly localizing common objects across videos. Due to the appearance variations both across the videos and within the video, it is a challenging problem to identify and track them without any supervision. In contrast to previous joint frameworks that use bounding box proposals to attack the problem, we propose to leverage co-saliency activated tracklets to address the challenge. To identify the common visual object, we first explore inter-video commonness, intra-video commonness, and motion"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-46478-7_12",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "fJ7seq0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OMBC5Qcog9MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCATS:%2BCo-saliency%2Bactivated%2Btracklet%2Bselection%2Bfor%2Bvideo%2Bco-localization%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OMBC5Qcog9MJ&ei=yLhiYsLCMI6pywSdh6agAg&json=",
+                "num_citations": 37,
+                "citedby_url": "/scholar?cites=15241069578328129592&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:OMBC5Qcog9MJ:scholar.google.com/&scioq=CATS:+Co-saliency+activated+tracklet+selection+for+video+co-localization&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-319-46478-7_12"
+            }
+        },
+        {
+            "title": "Quality-guided fusion-based co-saliency estimation for image co-segmentation and colocalization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:LpWf3qrnWeoC",
+            "citation_id": "QgTEe-gAAAAJ:LpWf3qrnWeoC",
+            "authors": "KR Jerripothula, J Cai, J Yuan",
+            "publication": "IEEE Transactions on Multimedia (TMM) 20 (9), 2466-2477, 2018",
+            "cited_by": {
+                "value": 35,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15122351689178859375",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15122351689178859375&engine=google_scholar&hl=en",
+                "cites_id": "15122351689178859375"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Quality-guided fusion-based co-saliency estimation for image co-segmentation and colocalization",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Yuan"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Despite the advantage of exploiting interimage information by performing joint processing of images for co-saliency, co-segmentation, or co-localization, it introduces a few drawbacks: 1) its necessity in scenarios where the joint processing might not perform better than individual image processing; 2) increased complexity over individual image processing; and 3) complex parameter tuning. In this paper, we propose a simple cosaliency estimation method where we fuse saliency maps of different images using the dense correspondence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8269367/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "fJ7seq0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:b8cIWr1i3dEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DQuality-guided%2Bfusion-based%2Bco-saliency%2Bestimation%2Bfor%2Bimage%2Bco-segmentation%2Band%2Bcolocalization%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=b8cIWr1i3dEJ&ei=zrhiYrCcOIyuyASD3KfABw&json=",
+                "num_citations": 36,
+                "citedby_url": "/scholar?cites=15122351689178859375&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:b8cIWr1i3dEJ:scholar.google.com/&scioq=Quality-guided+fusion-based+co-saliency+estimation+for+image+co-segmentation+and+colocalization&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Group saliency propagation for large scale and quick image co-segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:SN5MtqHu-psC",
+            "citation_id": "QgTEe-gAAAAJ:SN5MtqHu-psC",
+            "authors": "KR Jerripothula, J Cai, J Yuan",
+            "publication": "IEEE International Conference on Image Processing (ICIP), 4639-4643, 2015",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17856112827029873179",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17856112827029873179&engine=google_scholar&hl=en",
+                "cites_id": "17856112827029873179"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Group saliency propagation for large scale and quick image co-segmentation",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Yuan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE International \u2026",
+                    "abstract": "Most of the existing co-segmentation methods are usually complex, and require pre-grouping of images, fine-tuning a few parameters and initial segmentation masks etc. These limitations become serious concerns for their application on large scale datasets. In this paper, Group Saliency Propagation (GSP) model is proposed where a single group saliency map is developed, which can be propagated to segment the entire group. In addition, it is also shown how a pool of these group saliency maps can help in quickly segmenting new"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7351686/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "fJ7seq0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:G2JprAKozfcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGroup%2Bsaliency%2Bpropagation%2Bfor%2Blarge%2Bscale%2Band%2Bquick%2Bimage%2Bco-segmentation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=G2JprAKozfcJ&ei=07hiYq7FA7KO6rQPxdeOqA4&json=",
+                "num_citations": 20,
+                "citedby_url": "/scholar?cites=17856112827029873179&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:G2JprAKozfcJ:scholar.google.com/&scioq=Group+saliency+propagation+for+large+scale+and+quick+image+co-segmentation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Koteswar-Jerripothula/publication/286496281_Group_saliency_propagation_for_large_scale_and_quick_image_co-segmentation/links/566b984d08ae62b05f0527c5/Group-saliency-propagation-for-large-scale-and-quick-image-co-segmentation.pdf"
+            }
+        },
+        {
+            "title": "Efficient video object co-localization with co-saliency activated tracklets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:viPVbuMW504C",
+            "citation_id": "QgTEe-gAAAAJ:viPVbuMW504C",
+            "authors": "KR Jerripothula, J Cai, J Yuan",
+            "publication": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 29 (3 \u2026, 2019",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8851208826982887772",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8851208826982887772&engine=google_scholar&hl=en",
+                "cites_id": "8851208826982887772"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Efficient video object co-localization with co-saliency activated tracklets",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Yuan"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Transactions on Circuits \u2026",
+                    "abstract": "Video object co-localization is the task of jointly localizing common visual objects across videos. Due to the large variations both across the videos and within each video, it is quite challenging to identify and track the common objects jointly. Unlike the previous joint frameworks that use a large number of bounding box proposals to attack the problem, we propose to leverage co-saliency activated tracklets to efficiently address the problem. To highlight the common object regions, we first explore inter-video commonness, intra-video"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8290832/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "fJ7seq0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XPEdTYjP1XoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEfficient%2Bvideo%2Bobject%2Bco-localization%2Bwith%2Bco-saliency%2Bactivated%2Btracklets%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XPEdTYjP1XoJ&ei=4bhiYsnWO6KUy9YPyMyGkAI&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=8851208826982887772&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XPEdTYjP1XoJ:scholar.google.com/&scioq=Efficient+video+object+co-localization+with+co-saliency+activated+tracklets&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "QCCE: Quality constrained co-saliency estimation for common object detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:SxVRRePJDnEC",
+            "citation_id": "QgTEe-gAAAAJ:SxVRRePJDnEC",
+            "authors": "KR Jerripothula, J Cai, J Yuan",
+            "publication": "IEEE Visual Communications and Image Processing (VCIP) Conference, 1-4, 2015",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10305807435116765508",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10305807435116765508&engine=google_scholar&hl=en",
+                "cites_id": "10305807435116765508"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Qcce: Quality constrained co-saliency estimation for common object detection",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Yuan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 Visual Communications \u2026",
+                    "abstract": "Despite recent advances in joint processing of images, sometimes it may not be as effective as single image processing for object discovery problems. In this paper while aiming for common object detection, we attempt to address this problem by proposing a novel QCCE: Quality Constrained Co-saliency Estimation method. The approach here is to iteratively update the saliency maps through co-saliency estimation depending upon quality scores, which indicate the degree of separation of foreground and background likelihoods (the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7457899/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "fJ7seq0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ROG2fUKVBY8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DQCCE:%2BQuality%2Bconstrained%2Bco-saliency%2Bestimation%2Bfor%2Bcommon%2Bobject%2Bdetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ROG2fUKVBY8J&ei=5rhiYt6LJZLeyQTms5KQBg&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=10305807435116765508&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ROG2fUKVBY8J:scholar.google.com/&scioq=QCCE:+Quality+constrained+co-saliency+estimation+for+common+object+detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://cse.buffalo.edu/~jsyuan/papers/2015/QCCE%20Quality%20Constrained%20Co-saliency%20Estimation%20for%20Common%20Object%20Detection.pdf"
+            }
+        },
+        {
+            "title": "SGG: Spinbot, Grammarly and GloVe based Fake News Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:qLQjcG-1Y3AC",
+            "citation_id": "QgTEe-gAAAAJ:qLQjcG-1Y3AC",
+            "authors": "A Gautam, KR Jerripothula",
+            "publication": "IEEE International Conference on Multimedia Big Data (BigMM), 174-182, 2020",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=443461853734695091,14374319896917699219",
+                "serpapi_link": "https://serpapi.com/search.json?cites=443461853734695091%2C14374319896917699219&engine=google_scholar&hl=en",
+                "cites_id": "443461853734695091,14374319896917699219"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SGG: spinbot, grammarly and GloVe based fake news detection",
+                    "author": [
+                        "A Gautam",
+                        "KR Jerripothula"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE Sixth International \u2026",
+                    "abstract": "Recently, news consumption using online news portals has increased exponentially due to several reasons, such as low cost and easy accessibility. However, such online platforms inadvertently also become the cause of spreading false information across the web. They are being misused quite frequently as a medium to disseminate misinformation and hoaxes. Such malpractices call for a robust automatic fake news detection system that can keep us at bay from such misinformation and hoaxes. We propose a robust yet simple fake news"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232537/",
+                "author_id": [
+                    "7F63SjIAAAAJ",
+                    "QgTEe-gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:s_BK1zR-JwYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSGG:%2BSpinbot,%2BGrammarly%2Band%2BGloVe%2Bbased%2BFake%2BNews%2BDetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=s_BK1zR-JwYJ&ei=7bhiYsHPEryCy9YPv5-K-Ac&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=443461853734695091&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:s_BK1zR-JwYJ:scholar.google.com/&scioq=SGG:+Spinbot,+Grammarly+and+GloVe+based+Fake+News+Detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2008.06854"
+            }
+        },
+        {
+            "title": "Feature-level rating system using customer reviews and review votes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:f36TrmluGJsC",
+            "citation_id": "QgTEe-gAAAAJ:f36TrmluGJsC",
+            "authors": "KR Jerripothula, A Rai, K Garg, YS Rautela",
+            "publication": "IEEE Transactions on Computational Social Systems (TCSS) 7 (5), 1210-1219, 2020",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15364159492124070856",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15364159492124070856&engine=google_scholar&hl=en",
+                "cites_id": "15364159492124070856"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Feature-level rating system using customer reviews and review votes",
+                    "author": [
+                        "KR Jerripothula",
+                        "A Rai",
+                        "K Garg"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "This work studies how we can obtain feature-level ratings of the mobile products from the customer reviews and review votes to influence decision-making, both for new customers and manufacturers. Such a rating system gives a more comprehensive picture of the product than what a product-level rating system offers. While product-level ratings are too generic, feature-level ratings are particular; we exactly know what is good or bad about the product. There has always been a need to know which features fall short or are doing well according"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9153789/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:yFOAwKd1ONUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFeature-level%2Brating%2Bsystem%2Busing%2Bcustomer%2Breviews%2Band%2Breview%2Bvotes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yFOAwKd1ONUJ&ei=8rhiYr_qB7yCy9YPv5-K-Ac&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=15364159492124070856&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yFOAwKd1ONUJ:scholar.google.com/&scioq=Feature-level+rating+system+using+customer+reviews+and+review+votes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2007.09513"
+            }
+        },
+        {
+            "title": "Detection of gait abnormalities caused by neurological disorders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:LnJLeQ70pnUC",
+            "citation_id": "QgTEe-gAAAAJ:LnJLeQ70pnUC",
+            "authors": "D Goyal, KR Jerripothula, A Mittal",
+            "publication": "IEEE International Workshop on Multimedia Signal Processing (MMSP), 1-6, 2020",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13238290970162355056",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13238290970162355056&engine=google_scholar&hl=en",
+                "cites_id": "13238290970162355056"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Detection of gait abnormalities caused by neurological disorders",
+                    "author": [
+                        "D Goyal",
+                        "KR Jerripothula",
+                        "A Mittal"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 22nd \u2026",
+                    "abstract": "In this paper, we leverage gait to potentially detect some of the important neurological disorders, namely Parkinson's disease, Diplegia, Hemiplegia, and Huntington's Chorea. Persons with these neurological disorders often have a very abnormal gait, which motivates us to target gait for their potential detection. Some of the abnormalities involve the circumduction of legs, forward-bending, involuntary movements, etc. To detect such abnormalities in gait, we develop gait features from the key-points of the human pose"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9287163/",
+                "author_id": [
+                    "",
+                    "QgTEe-gAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:cNvJdX_bt7cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDetection%2Bof%2Bgait%2Babnormalities%2Bcaused%2Bby%2Bneurological%2Bdisorders%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cNvJdX_bt7cJ&ei=9bhiYpaOHqmTy9YPsu-CuAM&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=13238290970162355056&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cNvJdX_bt7cJ:scholar.google.com/&scioq=Detection+of+gait+abnormalities+caused+by+neurological+disorders&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2008.06861"
+            }
+        },
+        {
+            "title": "Image Co-skeletonization via Co-segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:MTuJV9umhWMC",
+            "citation_id": "QgTEe-gAAAAJ:MTuJV9umhWMC",
+            "authors": "KR Jerripothula, J Cai, J Lu, J Yuan",
+            "publication": "IEEE Transactions on Image Processing (TIP) 30, 2784-2797, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5300611952950009245,11977916116508810704",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5300611952950009245%2C11977916116508810704&engine=google_scholar&hl=en",
+                "cites_id": "5300611952950009245,11977916116508810704"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Image Co-Skeletonization via Co-Segmentation",
+                    "author": [
+                        "KR Jerripothula",
+                        "J Cai",
+                        "J Lu"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Recent advances in the joint processing of a set of images have shown its advantages over individual processing. Unlike the existing works geared towards co-segmentation or co-localization, in this article, we explore a new joint processing topic: image co-skeletonization, which is defined as joint skeleton extraction of the foreground objects in an image collection. It is well known that object skeletonization in a single natural image is challenging, because there is hardly any prior knowledge available about the object present"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9343773/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "N6czCoUAAAAJ",
+                    "atKv7qoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nV3Gw3yOj0kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImage%2BCo-skeletonization%2Bvia%2BCo-segmentation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nV3Gw3yOj0kJ&ei=_LhiYvWAJpyO6rQP-viEEA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=5300611952950009245&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:nV3Gw3yOj0kJ:scholar.google.com/&scioq=Image+Co-skeletonization+via+Co-segmentation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2004.05575"
+            }
+        },
+        {
+            "title": "Co-saliency based visual object co-segmentation and co-localization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:kRWl-cVF35UC",
+            "citation_id": "QgTEe-gAAAAJ:kRWl-cVF35UC",
+            "authors": "KR Jerripothula",
+            "publication": "Ph.D. Thesis (NTU Singapore), 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=986934117789460781",
+                "serpapi_link": "https://serpapi.com/search.json?cites=986934117789460781&engine=google_scholar&hl=en",
+                "cites_id": "986934117789460781"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Co-saliency based visual object co-segmentation and co-localization",
+                    "author": [
+                        "KR Jerripothula"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Ph. D. dissertation",
+                    "abstract": "Automatic foreground segmentation and localization in images or videos are very important and basic problems in computer vision. Due to lacking of sufficient information about the foreground object in a single image or a video, these tasks usually become very difficult. However, if a set of similar images (where foreground objects are of the same category) are provided for joint processing, the job becomes little easier because we can exploit the available commonness clue. Thus, by jointly processing similar images together we provide"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Koteswar-Jerripothula/publication/319179453_CO-SALIENCY_BASED_VISUAL_OBJECT_CO-SEGMENTATION_AND_CO-LOCALIZATION/links/5a1ac1820f7e9be37f9be030/CO-SALIENCY-BASED-VISUAL-OBJECT-CO-SEGMENTATION-AND-CO-LOCALIZATION.pdf",
+                "author_id": [
+                    "QgTEe-gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LemN41lLsg0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCo-saliency%2Bbased%2Bvisual%2Bobject%2Bco-segmentation%2Band%2Bco-localization%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LemN41lLsg0J&ei=AbliYoHeA-HDywTjooCQBQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=986934117789460781&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LemN41lLsg0J:scholar.google.com/&scioq=Co-saliency+based+visual+object+co-segmentation+and+co-localization&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Koteswar-Jerripothula/publication/319179453_CO-SALIENCY_BASED_VISUAL_OBJECT_CO-SEGMENTATION_AND_CO-LOCALIZATION/links/5a1ac1820f7e9be37f9be030/CO-SALIENCY-BASED-VISUAL-OBJECT-CO-SEGMENTATION-AND-CO-LOCALIZATION.pdf"
+            }
+        },
+        {
+            "title": "Eye-focused Detection of Bell\u2019s Palsy in Videos",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:V6rzEKW62mYC",
+            "citation_id": "QgTEe-gAAAAJ:V6rzEKW62mYC",
+            "authors": "SA Ansari, KR Jerripothula, P Nagpal, A Mittal",
+            "publication": "34th Canadian Conference on Artificial Intelligence (Canadian AI), 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17948051870806487673,2383780250577712885",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17948051870806487673%2C2383780250577712885&engine=google_scholar&hl=en",
+                "cites_id": "17948051870806487673,2383780250577712885"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Eye-focused Detection of Bell's Palsy in Videos",
+                    "author": [
+                        "SA Ansari",
+                        "KR Jerripothula",
+                        "P Nagpal"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "In this paper, we present how Bell's Palsy, a neurological disorder, can be detected just from a subject's eyes in a video. We notice that Bell's Palsy patients often struggle to blink their eyes on the affected side. As a result, we can observe a clear contrast between the blinking patterns of the two eyes. Although previous works did utilize images/videos to detect this disorder, none have explicitly focused on the eyes. Most of them require the entire face. One obvious advantage of having an eye-focused detection system is that subjects' anonymity is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2201.11479",
+                "author_id": [
+                    "",
+                    "QgTEe-gAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ebK0aRVKFPkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEye-focused%2BDetection%2Bof%2BBell%25E2%2580%2599s%2BPalsy%2Bin%2BVideos%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ebK0aRVKFPkJ&ei=DrliYurHErKO6rQPxdeOqA4&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=17948051870806487673&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ebK0aRVKFPkJ:scholar.google.com/&scioq=Eye-focused+Detection+of+Bell%E2%80%99s+Palsy+in+Videos&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2201.11479"
+            }
+        },
+        {
+            "title": "ASOC: Adaptive Self-aware Object Co-localization",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:HaiYZdWvYCYC",
+            "citation_id": "QgTEe-gAAAAJ:HaiYZdWvYCYC",
+            "authors": "KR Jerripothula, P Mukherjee",
+            "publication": "IEEE International Conference on Multimedia and Expo (ICME), 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13019633681846111829,16770483433906773232",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13019633681846111829%2C16770483433906773232&engine=google_scholar&hl=en",
+                "cites_id": "13019633681846111829,16770483433906773232"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Asoc: Adaptive self-aware object co-localization",
+                    "author": [
+                        "KR Jerripothula",
+                        "P Mukherjee"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE International \u2026",
+                    "abstract": "The primary goal of this paper is to localize objects in a group of semantically similar images jointly, also known as the object co-localization problem. Most related existing works are essentially weakly-supervised, relying prominently on the neighboring images' weak-supervision. Although weak supervision is beneficial, it is not entirely reliable, for the results are quite sensitive to the neighboring images considered. In this paper, we combine it with a self-awareness phenomenon to mitigate this issue. By self-awareness here, we refer to the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9428191/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "c0_Uf4sAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VQ4mSNoHr7QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DASOC:%2BAdaptive%2BSelf-aware%2BObject%2BCo-localization%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VQ4mSNoHr7QJ&ei=EbliYv7JB5yO6rQP-viEEA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=13019633681846111829&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VQ4mSNoHr7QJ:scholar.google.com/&scioq=ASOC:+Adaptive+Self-aware+Object+Co-localization&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2201.11547"
+            }
+        },
+        {
+            "title": "Image Segmentation using Advanced Fuzzy c-means Algorithm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:z_Yq-I-xR0AC",
+            "citation_id": "QgTEe-gAAAAJ:z_Yq-I-xR0AC",
+            "authors": "JK Rao, A Agarawal",
+            "publication": "B.Tech. Thesis (IIT Roorkee), 2012",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4386434952817041247",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4386434952817041247&engine=google_scholar&hl=en",
+                "cites_id": "4386434952817041247"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Novel modified fuzzy c-means algorithm with applications",
+                    "author": [
+                        "J Kang",
+                        "L Min",
+                        "Q Luan",
+                        "X Li",
+                        "J Liu"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "Digital signal processing",
+                    "abstract": "Fuzzy c-means (FCM) clustering algorithm has been widely  algorithm (called FCM\u2013AWA  later) for image segmentation is  weighted averaging image obtained via (10) in advance."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S1051200407001820",
+                "author_id": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:UW8IULVGIe8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImage%2BSegmentation%2Busing%2BAdvanced%2BFuzzy%2Bc-means%2BAlgorithm%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=UW8IULVGIe8J&ei=F7liYreXJJLeyQTms5KQBg&json=",
+                "num_citations": 143,
+                "citedby_url": "/scholar?cites=17231131393841983313&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:UW8IULVGIe8J:scholar.google.com/&scioq=Image+Segmentation+using+Advanced+Fuzzy+c-means+Algorithm&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ms.sapientia.ro/~lalo/concurs/Notite_de_curs_si_indrumar_de_laborator/kang2009.pdf"
+            }
+        },
+        {
+            "title": "Comprehensive Saliency Fusion for Object Co-segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:SzsLJvG5eXAC",
+            "citation_id": "QgTEe-gAAAAJ:SzsLJvG5eXAC",
+            "authors": "H Chhabra, KR Jerripothula",
+            "publication": "IEEE 23rd International Symposium on Multimedia (ISM), 107-110, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Comprehensive Saliency Fusion for Object Co-segmentation",
+                    "author": [
+                        "HS Chhabra",
+                        "KR Jerripothula"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE International \u2026",
+                    "abstract": "Object co-segmentation has drawn significant attention in recent years, thanks to its clarity on the expected foreground, the shared object in a group of images. Saliency fusion has been one of the promising ways to carry it out. However, prior works either fuse saliency maps of the same image or saliency maps of different images to extract the expected foregrounds. Also, they rely on hand-crafted saliency extraction and correspondence processes in most cases. This paper revisits the problem and proposes fusing saliency"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9666132/",
+                "author_id": [
+                    "nZsLfXQAAAAJ",
+                    "QgTEe-gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FggDqvlGccwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComprehensive%2BSaliency%2BFusion%2Bfor%2BObject%2BCo-segmentation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FggDqvlGccwJ&ei=GrliYoXDL5WMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:FggDqvlGccwJ:scholar.google.com/&scioq=Comprehensive+Saliency+Fusion+for+Object+Co-segmentation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Koteswar-Jerripothula/publication/357729354_Comprehensive_Saliency_Fusion_for_Object_Co-segmentation/links/61dd1e57034dda1b9eebe58f/Comprehensive-Saliency-Fusion-for-Object-Co-segmentation.pdf"
+            }
+        },
+        {
+            "title": "A Vision-based Solution for Track Misalignment Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:0765WKWsAZMC",
+            "citation_id": "QgTEe-gAAAAJ:0765WKWsAZMC",
+            "authors": "KR Jerripothula, SA Ansari, R Nijhawan",
+            "publication": "34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Vision-based Solution for Track Misalignment Detection",
+                    "author": [
+                        "KR Jerripothula",
+                        "SA Ansari"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 34th SIBGRAPI \u2026",
+                    "abstract": "Derailment is one of the most frequent ways railway accidents happen. Track defects such as buckling and hogging that cause misalignment of tracks can easily lead to derailments. While railway tracks get laterally misaligned due to buckling, vertical misalignments can result from hogging. Such misalignments are visibly recognizable, and we can even automate the recognition using data-driven models. This paper discusses how we build such data-driven models. There are no public datasets available to build such models;"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9643106/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:JS654i2ysooJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BVision-based%2BSolution%2Bfor%2BTrack%2BMisalignment%2BDetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JS654i2ysooJ&ei=JLliYqLgG8LZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:JS654i2ysooJ:scholar.google.com/&scioq=A+Vision-based+Solution+for+Track+Misalignment+Detection&hl=en&as_sdt=0,33",
+                "eprint_url": "http://sibgrapi.sid.inpe.br/col/sid.inpe.br/sibgrapi/2021/09.06.21.01/doc/SIBGRAPI_Railway%20(3).pdf"
+            }
+        },
+        {
+            "title": "Fruit Maturity Recognition from Agricultural, Market and Automation Perspectives",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QgTEe-gAAAAJ&pagesize=100&citation_for_view=QgTEe-gAAAAJ:uwjMLcW8QH4C",
+            "citation_id": "QgTEe-gAAAAJ:uwjMLcW8QH4C",
+            "authors": "KR Jerripothula, SK Shukla, S Jain, S Singh",
+            "publication": "IEEE 47th Annual Conference of Industrial Electronics Society (IECON), 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fruit Maturity Recognition from Agricultural, Market and Automation Perspectives",
+                    "author": [
+                        "KR Jerripothula",
+                        "SK Shukla",
+                        "S Jain"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IECON 2021\u201347th \u2026",
+                    "abstract": "Motivated by the potential reduction in the required manual efforts in the fruit industry, this paper attempts to automate fruit maturity recognition. We study the problem from the agricultural, market, and automation perspectives, often taken at different points in the supply chain. Since different maturity states have different visual characteristics, an image classification technology can certainly help here. To develop fruit image classifiers, we need a feature extraction method and a learning algorithm. We use different pre-trained neural"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9589215/",
+                "author_id": [
+                    "QgTEe-gAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:X22IF7-5RCMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFruit%2BMaturity%2BRecognition%2Bfrom%2BAgricultural,%2BMarket%2Band%2BAutomation%2BPerspectives%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=X22IF7-5RCMJ&ei=KLliYrKoF-HDywTjooCQBQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:X22IF7-5RCMJ:scholar.google.com/&scioq=Fruit+Maturity+Recognition+from+Agricultural,+Market+and+Automation+Perspectives&hl=en&as_sdt=0,33"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 368,
+                    "since_2017": 348
+                }
+            },
+            {
+                "h_index": {
+                    "all": 9,
+                    "since_2017": 9
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 9,
+                    "since_2017": 9
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 3
+            },
+            {
+                "year": 2016,
+                "citations": 11
+            },
+            {
+                "year": 2017,
+                "citations": 26
+            },
+            {
+                "year": 2018,
+                "citations": 53
+            },
+            {
+                "year": 2019,
+                "citations": 46
+            },
+            {
+                "year": 2020,
+                "citations": 103
+            },
+            {
+                "year": 2021,
+                "citations": 99
+            },
+            {
+                "year": 2022,
+                "citations": 20
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=QgTEe-gAAAAJ",
+        "available": 4,
+        "not_available": 2
+    },
+    "co_authors": [
+        {
+            "name": "Junsong Yuan",
+            "link": "https://scholar.google.com/citations?user=fJ7seq0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=fJ7seq0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "fJ7seq0AAAAJ",
+            "affiliations": "State University of New York at Buffalo",
+            "email": "Verified email at buffalo.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fJ7seq0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Jianfei Cai",
+            "link": "https://scholar.google.com/citations?user=N6czCoUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=N6czCoUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "N6czCoUAAAAJ",
+            "affiliations": "Professor of Data Science & AI, Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=N6czCoUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jiangbo Lu",
+            "link": "https://scholar.google.com/citations?user=atKv7qoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=atKv7qoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "atKv7qoAAAAJ",
+            "affiliations": "SmartMore, Cloudream Tech., ADSC of UIUC",
+            "email": "Verified email at adsc.com.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=atKv7qoAAAAJ&citpid=4"
+        },
+        {
+            "name": "Meng Fanman",
+            "link": "https://scholar.google.com/citations?user=96hJnFoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=96hJnFoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "96hJnFoAAAAJ",
+            "affiliations": "School of Electronic Engineering, University of Electronic Science and Technology of China",
+            "email": "Verified email at e.ntu.edu.sg",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Akansha Gautam",
+            "link": "https://scholar.google.com/citations?user=7F63SjIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7F63SjIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7F63SjIAAAAJ",
+            "affiliations": "Student at IIITD",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7F63SjIAAAAJ&citpid=5"
+        },
+        {
+            "name": "Dr. Prerana Mukherjee",
+            "link": "https://scholar.google.com/citations?user=c0_Uf4sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c0_Uf4sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c0_Uf4sAAAAJ",
+            "affiliations": "Jawaharlal Nehru University, New Delhi, India",
+            "email": "Verified email at jnu.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c0_Uf4sAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dr Rahul Nijhawan",
+            "link": "https://scholar.google.com/citations?user=2HwQks8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2HwQks8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2HwQks8AAAAJ",
+            "affiliations": "Assistant Professor, Department of Computer Science and Engineering, UPES",
+            "email": "Verified email at ddn.upes.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2HwQks8AAAAJ&citpid=5"
+        },
+        {
+            "name": "Harshit Singh Chhabra",
+            "link": "https://scholar.google.com/citations?user=nZsLfXQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nZsLfXQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nZsLfXQAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Dr. Ankush Mittal",
+            "link": "https://scholar.google.com/citations?user=2Z5HoCIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2Z5HoCIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2Z5HoCIAAAAJ",
+            "affiliations": "Raman Classes, Roorkee",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "ANKIT RAI",
+            "link": "https://scholar.google.com/citations?user=6y86oocAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6y86oocAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6y86oocAAAAJ",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6y86oocAAAAJ&citpid=1"
+        }
+    ]
+}
