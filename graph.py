@@ -167,8 +167,8 @@ for paper in data:
                 f = 1
                 break
         if f == 0:
-            newList.append(Author(i, 'unknown', 'non_iiitd', [i]))
-            temp.append(newList[len(newList) - 1])
+            aList.append(Author(i, 'unknown', 'non_iiitd', [i]))
+            temp.append(aList[len(aList) - 1])
     if c == 0:
         rlist+=data[paper]
         # print(paper, data[paper])
@@ -192,8 +192,8 @@ for combo in objList:
             elif(combo[j].authorCategory == 'iiitd'):                    
                 G.addEdge(combo[j],combo[i])
 
-with open ('graph3.txt','w') as f:
-    f.write(str(G.graph))
+# with open ('graph3.txt','w') as f:
+#     f.write(str(G.graph))
 
 # print(G.graph)
 
