@@ -3,8 +3,9 @@ import os
 import networkx as nx
 import matplotlib
 
+
 class Author:
-    
+
     def __init__(self, name, authorType, authorCategory, penNames, articles=None):
         self.name = name
         self.authorType = authorType
@@ -15,9 +16,9 @@ class Author:
     def printAuthor(self):
         print('Name =', self.name, 'Type =', self.authorType, 'Category =', self.authorCategory, 'NameList =',
               self.penNames)
-    
+
     def __str__(self):
-        return f'{self.name}'#    ,Type :{self.authorType}, Category: {self.authorCategory}, NameList: {self.penNames}'
+        return f'{self.name}'  # ,Type :{self.authorType}, Category: {self.authorCategory}, NameList: {self.penNames}'
 
     def __repr__(self):
         return str(self)
@@ -74,11 +75,11 @@ for file in facultyData:
     nlist = [name.lower()]
     name = name.lower()
     temp = name.split(' ')
-    if name=='raghava mutharaju':
+    if name == 'raghava mutharaju':
         nlist.append('vr mutharaju')
-    if name=='vivek bohara':
+    if name == 'vivek bohara':
         nlist.append('va bohara')
-    if name=='sanat biswas':
+    if name == 'sanat biswas':
         nlist.append('sk biswas')
     if name == 'bijendra jain':
         nlist.append('bn jain')
@@ -146,11 +147,11 @@ l = []
 
 with open('authorData.json', 'r') as f:
     data = json.load(f)
-    
+
 objList = []
 newList = []
 count = 0
-rlist=[]
+rlist = []
 for paper in data:
     data[paper] = [i.lower() for i in data[paper]]
     temp = []
@@ -170,7 +171,7 @@ for paper in data:
             aList.append(Author(i, 'unknown', 'non_iiitd', [i]))
             temp.append(aList[len(aList) - 1])
     if c == 0:
-        rlist+=data[paper]
+        rlist += data[paper]
         # print(paper, data[paper])
     objList.append(temp)
 # rlist = sorted(rlist, key = rlist.count,reverse = True)
@@ -185,18 +186,17 @@ for paper in data:
 # print(rdict)
 ctr = 0
 for combo in objList:
-    for i in range(len(combo)-1):
-        for j in range(i+1,len(combo)):
-            if(combo[i].authorCategory == 'iiitd'):                    
-                G.addEdge(combo[i],combo[j])
-            elif(combo[j].authorCategory == 'iiitd'):                    
-                G.addEdge(combo[j],combo[i])
+    for i in range(len(combo) - 1):
+        for j in range(i + 1, len(combo)):
+            if (combo[i].authorCategory == 'iiitd'):
+                G.addEdge(combo[i], combo[j])
+            elif (combo[j].authorCategory == 'iiitd'):
+                G.addEdge(combo[j], combo[i])
 
 # with open ('graph3.txt','w') as f:
 #     f.write(str(G.graph))
 
 # print(G.graph)
-
 
 
 # ddict={1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,9:0,10:0,11:0,12:0,13:0,14:0,15:0,16:0,17:0,18:0,19:0,20:0,}
@@ -207,21 +207,4 @@ for combo in objList:
 #         else:
 #             ddict[G.graph[a][b]]+=1
 # print(ddict)
-
-
-
-
-# Convert The Graph to NetorkX Graph
-G_=nx.Graph()
-for author in G.graph:
-    G_.add_node(author.name,articles=author.articles,authorCategory=author.authorCategory,
-                authorType=author.authorType,penNames=author.penNames)
-
-for i in G.graph:
-    for j in G.graph[i]:
-        G_.add_edge(i.name,j.name,weight=G.graph[i][j])
-
-import pickle 
-with open('data/graph.pkl','wb') as f:
-    pickle.dump(G_,f)
 
