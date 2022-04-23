@@ -35,7 +35,7 @@ for i in allAuthors:
     tmp=[]
     for j in i:
         k=j.strip()
-        if k!='' and k!='...':
+        if k!='' and '...' not in k:
             tmp.append(k)
     diffAuthors.append(tmp)
 print(len(publications),len(allAuthors),len(diffAuthors))
