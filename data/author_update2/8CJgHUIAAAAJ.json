@@ -1,0 +1,1946 @@
+{
+    "search_metadata": {
+        "id": "6256e0dfd3aba2426a7e8ab9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5dc678a97200fc37/6256e0dfd3aba2426a7e8ab9.json",
+        "created_at": "2022-04-13 14:40:31 UTC",
+        "processed_at": "2022-04-13 14:40:31 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=8CJgHUIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/5dc678a97200fc37/6256e0dfd3aba2426a7e8ab9.html",
+        "total_time_taken": 0.23,
+        "total_articles": 40,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "8CJgHUIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sambuddho Chakravarty",
+        "affiliations": "Indraprastha Institute of Information Technology, New Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Network Anonymity and Privacy",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_anonymity_and_privacy",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_anonymity_and_privacy"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "On the effectiveness of traffic analysis against anonymity networks using flow records",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "8CJgHUIAAAAJ:YsMSGLbcyi4C",
+            "authors": "S Chakravarty, MV Barbera, G Portokalidis, M Polychronakis, ...",
+            "publication": "International conference on passive and active network measurement, 247-257, 2014",
+            "cited_by": {
+                "value": 93,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15051306621239213098",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15051306621239213098&engine=google_scholar&hl=en",
+                "cites_id": "15051306621239213098"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the effectiveness of traffic analysis against anonymity networks using flow records",
+                    "author": [
+                        "S Chakravarty",
+                        "MV Barbera",
+                        "G Portokalidis"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "\u2026 conference on passive \u2026",
+                    "abstract": "We investigate the feasibility of mounting a de-anonymization attack against Tor and similar low-latency anonymous communication systems by using NetFlow records. Previous research has shown that adversaries with the ability to eavesdrop in real time at a few internet exchange points can effectively monitor a significant part of the network paths from Tor nodes to destination servers. However, the capacity of current networks makes packet-level monitoring at such a scale quite challenging. We hypothesize that adversaries could"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-04918-2_24",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "dL8_z3kAAAAJ",
+                    "pGz5U34AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KrxydKD74NAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bthe%2Beffectiveness%2Bof%2Btraffic%2Banalysis%2Bagainst%2Banonymity%2Bnetworks%2Busing%2Bflow%2Brecords%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KrxydKD74NAJ&ei=mvZiYvymGPmQ6rQPzKCxuAY&json=",
+                "num_citations": 94,
+                "citedby_url": "/scholar?cites=15051306621239213098&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KrxydKD74NAJ:scholar.google.com/&scioq=On+the+effectiveness+of+traffic+analysis+against+anonymity+networks+using+flow+records&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/65847654/Traffic_Analysis.pdf"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "mv barbera",
+                "g portokalidis",
+                "m polychronakis"
+            ]
+        },
+        {
+            "title": "Traffic analysis against low-latency anonymity networks using available bandwidth estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "8CJgHUIAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Chakravarty, A Stavrou, AD Keromytis",
+            "publication": "European symposium on research in computer security, 249-267, 2010",
+            "cited_by": {
+                "value": 63,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17844799473203647174",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17844799473203647174&engine=google_scholar&hl=en",
+                "cites_id": "17844799473203647174"
+            },
+            "year": "2010",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Traffic analysis against low-latency anonymity networks using available bandwidth estimation",
+                    "author": [
+                        "S Chakravarty",
+                        "A Stavrou",
+                        "AD Keromytis"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "European symposium on \u2026",
+                    "abstract": "We introduce a novel remotely-mounted attack that can expose the network identity of an anonymous client, hidden service, and anonymizing proxies. To achieve this, we employ single-end controlled available bandwidth estimation tools and a colluding network entity that can modulate the traffic destined for the victim. To expose the circuit including the source, we inject a number of short or one large burst of traffic. Although timing attacks have been successful against anonymity networks, they require either a Global Adversary or the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-15497-3_16",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "hnuQ6PMAAAAJ",
+                    "mncyWbcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xpJhOJN2pfcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTraffic%2Banalysis%2Bagainst%2Blow-latency%2Banonymity%2Bnetworks%2Busing%2Bavailable%2Bbandwidth%2Bestimation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xpJhOJN2pfcJ&ei=nvZiYs_2Io6pywSdh6agAg&json=",
+                "num_citations": 63,
+                "citedby_url": "/scholar?cites=17844799473203647174&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:xpJhOJN2pfcJ:scholar.google.com/&scioq=Traffic+analysis+against+low-latency+anonymity+networks+using+available+bandwidth+estimation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-15497-3_16.pdf"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "a stavrou",
+                "ad keromytis"
+            ]
+        },
+        {
+            "title": "Detecting traffic snooping in tor using decoys",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "8CJgHUIAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Chakravarty, G Portokalidis, M Polychronakis, AD Keromytis",
+            "publication": "International Workshop on Recent Advances in Intrusion Detection, 222-241, 2011",
+            "cited_by": {
+                "value": 46,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7004347892930716346",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7004347892930716346&engine=google_scholar&hl=en",
+                "cites_id": "7004347892930716346"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Detecting traffic snooping in tor using decoys",
+                    "author": [
+                        "S Chakravarty",
+                        "G Portokalidis",
+                        "M Polychronakis"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "\u2026 Workshop on Recent \u2026",
+                    "abstract": "Anonymous communication networks like Tor partially protect the confidentiality of their users' traffic by encrypting all intra-overlay communication. However, when the relayed traffic reaches the boundaries of the overlay network towards its actual destination, the original user traffic is inevitably exposed. At this point, unless end-to-end encryption is used, sensitive user data can be snooped by a malicious or compromised exit node, or by any other rogue network entity on the path towards the actual destination. We explore the use of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-23644-0_12",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "pGz5U34AAAAJ",
+                    "JBPcwIEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uiJkSUxxNGEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDetecting%2Btraffic%2Bsnooping%2Bin%2Btor%2Busing%2Bdecoys%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uiJkSUxxNGEJ&ei=o_ZiYsWqEJLeyQTms5KQBg&json=",
+                "num_citations": 46,
+                "citedby_url": "/scholar?cites=7004347892930716346&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:uiJkSUxxNGEJ:scholar.google.com/&scioq=Detecting+traffic+snooping+in+tor+using+decoys&hl=en&as_sdt=0,33",
+                "eprint_url": "https://academiccommons.columbia.edu/doi/10.7916/D80Z7CMZ/download"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "g portokalidis",
+                "m polychronakis",
+                "ad keromytis"
+            ]
+        },
+        {
+            "title": "Identifying proxy nodes in a Tor anonymization circuit",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "8CJgHUIAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Chakravarty, A Stavrou, AD Keromytis",
+            "publication": "2008 IEEE International Conference on Signal Image Technology and Internet \u2026, 2008",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8476437738680413849",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8476437738680413849&engine=google_scholar&hl=en",
+                "cites_id": "8476437738680413849"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Identifying proxy nodes in a Tor anonymization circuit",
+                    "author": [
+                        "S Chakravarty",
+                        "A Stavrou"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "2008 IEEE International \u2026",
+                    "abstract": "We present a novel, practical, and effective mechanism that exposes the identity of Tor relays participating in a given circuit. Such an attack can be used by malicious or compromised nodes to identify the rest of the circuit, or as the first step in a follow-on trace-back attack. Our intuition is that by modulating the bandwidth of an anonymous connection (eg when the destination server, its router, or an entry point is under our control), we create observable fluctuations that propagate through the Tor network and the Internet to the end"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/4725864/",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "hnuQ6PMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:me7CljZbonUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIdentifying%2Bproxy%2Bnodes%2Bin%2Ba%2BTor%2Banonymization%2Bcircuit%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=me7CljZbonUJ&ei=pvZiYunBEbKO6rQPxdeOqA4&json=",
+                "num_citations": 43,
+                "citedby_url": "/scholar?cites=8476437738680413849&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:me7CljZbonUJ:scholar.google.com/&scioq=Identifying+proxy+nodes+in+a+Tor+anonymization+circuit&hl=en&as_sdt=0,33",
+                "eprint_url": "https://academiccommons.columbia.edu/doi/10.7916/D8902D4B/download"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "a stavrou",
+                "ad keromytis"
+            ]
+        },
+        {
+            "title": "Where the light gets in: Analyzing web censorship mechanisms in india",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:eMMeJKvmdy0C",
+            "citation_id": "8CJgHUIAAAAJ:eMMeJKvmdy0C",
+            "authors": "TK Yadav, A Sinha, D Gosain, PK Sharma, S Chakravarty",
+            "publication": "Proceedings of the Internet Measurement Conference 2018, 252-264, 2018",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6840304525264703037",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6840304525264703037&engine=google_scholar&hl=en",
+                "cites_id": "6840304525264703037"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Where the light gets in: Analyzing web censorship mechanisms in india",
+                    "author": [
+                        "TK Yadav",
+                        "A Sinha",
+                        "D Gosain",
+                        "PK Sharma"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In this work we present a detailed study of the Internet censorship mechanism in India. We consolidated a list of potentially blocked websites from various public sources to assess censorship mechanisms used by nine major ISPs. To begin with, we demonstrate that existing censorship detection tools like OONI are grossly inaccurate. We thus developed various techniques and heuristics to correctly assess censorship and study the underlying mechanism used by these ISPs. At every step we corroborated our finding manually to test"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3278532.3278555",
+                "author_id": [
+                    "BU0X-OQAAAAJ",
+                    "",
+                    "VyhXD2EAAAAJ",
+                    "eO1M0vgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:PU7mZ7mk7V4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWhere%2Bthe%2Blight%2Bgets%2Bin:%2BAnalyzing%2Bweb%2Bcensorship%2Bmechanisms%2Bin%2Bindia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PU7mZ7mk7V4J&ei=sfZiYu6aLvmQ6rQPzKCxuAY&json=",
+                "num_citations": 30,
+                "citedby_url": "/scholar?cites=6840304525264703037&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PU7mZ7mk7V4J:scholar.google.com/&scioq=Where+the+light+gets+in:+Analyzing+web+censorship+mechanisms+in+india&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1808.01708"
+            },
+            "processed_authors": [
+                "tk yadav",
+                "a sinha",
+                "d gosain",
+                "pk sharma",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Systems and methods for computing data transmission characteristics of a network path based on single-ended measurements",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "8CJgHUIAAAAJ:UeHWp8X0CEIC",
+            "authors": "AD Keromytis, S Chakravarty, A Stavrou",
+            "publication": "US Patent 7,660,261, 2010",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12058866473375657716",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12058866473375657716&engine=google_scholar&hl=en",
+                "cites_id": "12058866473375657716"
+            },
+            "year": "2010",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Systems and methods for computing data transmission characteristics of a network path based on single-ended measurements",
+                    "author": [
+                        "AD Keromytis",
+                        "S Chakravarty",
+                        "A Stavrou"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "US Patent 7,660,261",
+                    "abstract": "Systems and methods for computing data transmission characteristics of a network path are disclosed. In some embodiments, the network path has a sending host, at least one intermediate host, and a receiving host, and the data transmission characteristics are computed based on single-ended measurements performed at the sending host."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US7660261B2/en",
+                "author_id": [
+                    "mncyWbcAAAAJ",
+                    "8CJgHUIAAAAJ",
+                    "hnuQ6PMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9G5suyqzWacJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSystems%2Band%2Bmethods%2Bfor%2Bcomputing%2Bdata%2Btransmission%2Bcharacteristics%2Bof%2Ba%2Bnetwork%2Bpath%2Bbased%2Bon%2Bsingle-ended%2Bmeasurements%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9G5suyqzWacJ&ei=uPZiYtTnFvmQ6rQPzKCxuAY&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=12058866473375657716&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9G5suyqzWacJ:scholar.google.com/&scioq=Systems+and+methods+for+computing+data+transmission+characteristics+of+a+network+path+based+on+single-ended+measurements&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/4b/b7/83/a262a8a4e45231/US7660261.pdf"
+            },
+            "processed_authors": [
+                "ad keromytis",
+                "sambuddho chakravarty",
+                "a stavrou"
+            ]
+        },
+        {
+            "title": "Systems and methods for computing data transmission characteristics of a network path based on single-ended measurements",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "8CJgHUIAAAAJ:Y0pCki6q_DkC",
+            "authors": "AD Keromytis, S Chakravarty, A Stavrou",
+            "publication": "US Patent 8,228,815, 2012",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9943525232169392615",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9943525232169392615&engine=google_scholar&hl=en",
+                "cites_id": "9943525232169392615"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Systems and methods for computing data transmission characteristics of a network path based on single-ended measurements",
+                    "author": [
+                        "AD Keromytis",
+                        "S Chakravarty",
+                        "A Stavrou"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "US Patent 7,660,261",
+                    "abstract": "Systems and methods for computing data transmission characteristics of a network path are disclosed. In some embodiments, the network path has a sending host, at least one intermediate host, and a receiving host, and the data transmission characteristics are computed based on single-ended measurements performed at the sending host."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US7660261B2/en",
+                "author_id": [
+                    "mncyWbcAAAAJ",
+                    "8CJgHUIAAAAJ",
+                    "hnuQ6PMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9G5suyqzWacJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSystems%2Band%2Bmethods%2Bfor%2Bcomputing%2Bdata%2Btransmission%2Bcharacteristics%2Bof%2Ba%2Bnetwork%2Bpath%2Bbased%2Bon%2Bsingle-ended%2Bmeasurements%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9G5suyqzWacJ&ei=vPZiYreGNM6E6rQPz8uiuAc&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=12058866473375657716&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9G5suyqzWacJ:scholar.google.com/&scioq=Systems+and+methods+for+computing+data+transmission+characteristics+of+a+network+path+based+on+single-ended+measurements&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/4b/b7/83/a262a8a4e45231/US7660261.pdf"
+            },
+            "processed_authors": [
+                "ad keromytis",
+                "sambuddho chakravarty",
+                "a stavrou"
+            ]
+        },
+        {
+            "title": "An experimental study of location assisted proactive handover",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "8CJgHUIAAAAJ:d1gkVwhDpl0C",
+            "authors": "A Dutta, S Chakravarty, K Taniuchi, V Fajardo, Y Ohba, D Famolari, ...",
+            "publication": "IEEE GLOBECOM 2007-IEEE Global Telecommunications Conference, 2037-2042, 2007",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2515895560546095240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2515895560546095240&engine=google_scholar&hl=en",
+                "cites_id": "2515895560546095240"
+            },
+            "year": "2007",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An experimental study of location assisted proactive handover",
+                    "author": [
+                        "A Dutta",
+                        "S Chakravarty",
+                        "K Taniuchi"
+                    ],
+                    "pub_year": "2007",
+                    "venue": "\u2026 2007-IEEE Global \u2026",
+                    "abstract": "Traditionally, signal-to-noise ratio of a mobile determines the handoff dynamics of the mobile. But in certain cases, precise location of the mobile augmented by information services, such as IEEE 802.21 MIS, can expedite the handoff with similar performance results. We illustrate an experimental system that takes advantage of the mobile's relative location with the neighboring access point to perform proactive handoff. It keeps track of the current location of the mobile and then uses the information from the neighboring networks"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/4411300/",
+                "author_id": [
+                    "KGfUD1AAAAAJ",
+                    "8CJgHUIAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:iBBVuq5B6iIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Bexperimental%2Bstudy%2Bof%2Blocation%2Bassisted%2Bproactive%2Bhandover%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=iBBVuq5B6iIJ&ei=xPZiYpfOGZyO6rQP-viEEA&json=",
+                "num_citations": 23,
+                "citedby_url": "/scholar?cites=2515895560546095240&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:iBBVuq5B6iIJ:scholar.google.com/&scioq=An+experimental+study+of+location+assisted+proactive+handover&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/65847661/An_Experimental_Study_of_Location_Assist20210301-942-rjbeln.pdf"
+            },
+            "processed_authors": [
+                "a dutta",
+                "sambuddho chakravarty",
+                "k taniuchi",
+                "v fajardo",
+                "y ohba",
+                "d famolari"
+            ]
+        },
+        {
+            "title": "Detection and analysis of eavesdropping in anonymous communication networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:vRqMK49ujn8C",
+            "citation_id": "8CJgHUIAAAAJ:vRqMK49ujn8C",
+            "authors": "S Chakravarty, G Portokalidis, M Polychronakis, AD Keromytis",
+            "publication": "International Journal of Information Security 14 (3), 205-220, 2015",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1476760023109079230",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1476760023109079230&engine=google_scholar&hl=en",
+                "cites_id": "1476760023109079230"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Detection and analysis of eavesdropping in anonymous communication networks",
+                    "author": [
+                        "S Chakravarty",
+                        "G Portokalidis",
+                        "M Polychronakis"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "International Journal of \u2026",
+                    "abstract": "Anonymous communication networks, like Tor, partially protect the confidentiality of user traffic by encrypting all communications within the overlay network. However, when the relayed traffic reaches the boundaries of the network, toward its destination, the original user traffic is inevitably exposed to the final node on the path. As a result, users transmitting sensitive data, like authentication credentials, over such networks, risk having their data intercepted and exposed, unless end-to-end encryption is used. Eavesdropping can be"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s10207-014-0256-7",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "pGz5U34AAAAJ",
+                    "JBPcwIEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vhDqs2qBfhQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDetection%2Band%2Banalysis%2Bof%2Beavesdropping%2Bin%2Banonymous%2Bcommunication%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vhDqs2qBfhQJ&ei=x_ZiYrbvNo2ymgHnvp6ICA&json=",
+                "num_citations": 22,
+                "citedby_url": "/scholar?cites=1476760023109079230&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vhDqs2qBfhQJ:scholar.google.com/&scioq=Detection+and+analysis+of+eavesdropping+in+anonymous+communication+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.cs.columbia.edu/~angelos/Papers/2015/ijis-anonymity.pdf"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "g portokalidis",
+                "m polychronakis",
+                "ad keromytis"
+            ]
+        },
+        {
+            "title": "LinkWidth: a method to measure link capacity and available bandwidth using single-end probes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "8CJgHUIAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Chakravarty, A Stavrou, AD Keromytis",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=994093275789136834",
+                "serpapi_link": "https://serpapi.com/search.json?cites=994093275789136834&engine=google_scholar&hl=en",
+                "cites_id": "994093275789136834"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "LinkWidth: a method to measure link capacity and available bandwidth using single-end probes",
+                    "author": [
+                        "S Chakravarty",
+                        "A Stavrou",
+                        "AD Keromytis"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "NA",
+                    "abstract": "The scale and complexity of the Internet makes the task of understanding and analyzing its properties extremely difficult. The diffuse style of administration and operation means that even such basic information as topology or link capacity is spread across multiple entities with little incentive to share it. This knowledge, however, is necessary for the design and development of better management tools, communication protocols, and mechanisms that are network-related. As a concrete example, there is little information available on the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://academiccommons.columbia.edu/doi/10.7916/D81G0V49",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "hnuQ6PMAAAAJ",
+                    "mncyWbcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:whMEQZG6yw0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLinkWidth:%2Ba%2Bmethod%2Bto%2Bmeasure%2Blink%2Bcapacity%2Band%2Bavailable%2Bbandwidth%2Busing%2Bsingle-end%2Bprobes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=whMEQZG6yw0J&ei=zfZiYrH0AY2ymgHnvp6ICA&json=",
+                "num_citations": 21,
+                "citedby_url": "/scholar?cites=994093275789136834&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:whMEQZG6yw0J:scholar.google.com/&scioq=LinkWidth:+a+method+to+measure+link+capacity+and+available+bandwidth+using+single-end+probes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://academiccommons.columbia.edu/doi/10.7916/D8VD768N/download"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "a stavrou",
+                "ad keromytis"
+            ]
+        },
+        {
+            "title": "Traffic analysis attacks and defenses in low latency anonymous communication",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "8CJgHUIAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Chakravarty",
+            "publication": "Columbia University, 2014",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3873191815619725024",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3873191815619725024&engine=google_scholar&hl=en",
+                "cites_id": "3873191815619725024"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Traffic analysis attacks and defenses in low latency anonymous communication",
+                    "author": [
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "NA",
+                    "abstract": "The recent public disclosure of mass surveillance of electronic communication, involving powerful government authorities, has drawn the public's attention to issues regarding Internet privacy. For almost a decade now, there have been several research efforts towards designing and deploying open source, trustworthy and reliable systems that ensure users' anonymity and privacy. These systems operate by hiding the true network identity of communicating parties against eavesdropping adversaries. Tor, acronym for The Onion"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://search.proquest.com/openview/2f7bc19a32eabede542fcf1e9318cbe2/1?pq-origsite=gscholar&cbl=18750",
+                "author_id": [
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4Mb2bG9XwDUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTraffic%2Banalysis%2Battacks%2Band%2Bdefenses%2Bin%2Blow%2Blatency%2Banonymous%2Bcommunication%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4Mb2bG9XwDUJ&ei=0fZiYrfcCpyO6rQP-viEEA&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=3873191815619725024&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:4Mb2bG9XwDUJ:scholar.google.com/&scioq=Traffic+analysis+attacks+and+defenses+in+low+latency+anonymous+communication&hl=en&as_sdt=0,33",
+                "eprint_url": "https://academiccommons.columbia.edu/doi/10.7916/D8RR25JF/download"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Few throats to choke: On the current structure of the internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:HE397vMXCloC",
+            "citation_id": "8CJgHUIAAAAJ:HE397vMXCloC",
+            "authors": "HB Acharya, S Chakravarty, D Gosain",
+            "publication": "2017 IEEE 42nd conference on local computer networks (LCN), 339-346, 2017",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1464894998975465201",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1464894998975465201&engine=google_scholar&hl=en",
+                "cites_id": "1464894998975465201"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Few throats to choke: On the current structure of the internet",
+                    "author": [
+                        "HB Acharya",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE 42nd \u2026",
+                    "abstract": "The original design of the Internet was a resilient, distributed system, that maybe able to route around (and therefore recover from) massive disruption-up to and including nuclear war. However, network routing effects and business decisions cause traffic to often be routed through a relatively small set of Autonomous Systems (ASes). This is not merely an academic issue; it has practical implications-some of these frequently appearing ASes are hosted in censorious nations. Other than censoring their own citizens' network access, such"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8109374/",
+                "author_id": [
+                    "5UOUSzAAAAAJ",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:8cYtfz1aVBQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFew%2Bthroats%2Bto%2Bchoke:%2BOn%2Bthe%2Bcurrent%2Bstructure%2Bof%2Bthe%2Binternet%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=8cYtfz1aVBQJ&ei=1vZiYsieDM6E6rQPz8uiuAc&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=1464894998975465201&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:8cYtfz1aVBQJ:scholar.google.com/&scioq=Few+throats+to+choke:+On+the+current+structure+of+the+internet&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1806.07038"
+            },
+            "processed_authors": [
+                "hb acharya",
+                "sambuddho chakravarty",
+                "d gosain"
+            ]
+        },
+        {
+            "title": "The devil's in the details: Placing decoy routers in the internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:bnK-pcrLprsC",
+            "citation_id": "8CJgHUIAAAAJ:bnK-pcrLprsC",
+            "authors": "D Gosain, A Agarwal, S Chakravarty, HB Acharya",
+            "publication": "Proceedings of the 33rd Annual Computer Security Applications Conference \u2026, 2017",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17078178469294339674",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17078178469294339674&engine=google_scholar&hl=en",
+                "cites_id": "17078178469294339674"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "The devil's in the details: Placing decoy routers in the internet",
+                    "author": [
+                        "D Gosain",
+                        "A Agarwal",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the 33rd \u2026",
+                    "abstract": "Decoy Routing, the use of routers (rather than end hosts) as proxies, is a new direction in anti-censorship research. Decoy Routers (DRs), placed in Autonomous Systems, proxy traffic from users; so the adversary, eg a censorious government, attempts to avoid them. It is quite difficult to place DRs so the adversary cannot route around them--for example, we need the cooperation of 850 ASes to contain China alone [1]."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3134600.3134608",
+                "author_id": [
+                    "VyhXD2EAAAAJ",
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WnYDcdXgAe0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Bdevil%2527s%2Bin%2Bthe%2Bdetails:%2BPlacing%2Bdecoy%2Brouters%2Bin%2Bthe%2Binternet%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WnYDcdXgAe0J&ei=2fZiYv_nG--Sy9YPmNWywAs&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=17078178469294339674&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WnYDcdXgAe0J:scholar.google.com/&scioq=The+devil%27s+in+the+details:+Placing+decoy+routers+in+the+internet&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1710.05527"
+            },
+            "processed_authors": [
+                "d gosain",
+                "a agarwal",
+                "sambuddho chakravarty",
+                "hb acharya"
+            ]
+        },
+        {
+            "title": "Mending wall: On the implementation of censorship in india",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:Mojj43d5GZwC",
+            "citation_id": "8CJgHUIAAAAJ:Mojj43d5GZwC",
+            "authors": "D Gosain, A Agarwal, S Shekhawat, HB Acharya, S Chakravarty",
+            "publication": "International Conference on Security and Privacy in Communication Systems \u2026, 2017",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11152089839691077237",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11152089839691077237&engine=google_scholar&hl=en",
+                "cites_id": "11152089839691077237"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mending wall: On the implementation of censorship in india",
+                    "author": [
+                        "D Gosain",
+                        "A Agarwal",
+                        "S Shekhawat"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "\u2026 Conference on Security \u2026",
+                    "abstract": "This paper presents a study of the Internet infrastructure in India from the point of view of censorship. First, we show that the current state of affairs\u2013where each ISP implements its own content filters (nominally as per a governmental blacklist)\u2013results in dramatic differences in the censorship experienced by customers. In practice, a well-informed Indian citizen can escape censorship through a judicious choice of service provider. We then consider the question of whether India might potentially follow the Chinese model and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-78813-5_21",
+                "author_id": [
+                    "VyhXD2EAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:dZYHdp8uxJoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMending%2Bwall:%2BOn%2Bthe%2Bimplementation%2Bof%2Bcensorship%2Bin%2Bindia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dZYHdp8uxJoJ&ei=3PZiYq3SOu-Sy9YPmNWywAs&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=11152089839691077237&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dZYHdp8uxJoJ:scholar.google.com/&scioq=Mending+wall:+On+the+implementation+of+censorship+in+india&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1806.06518"
+            },
+            "processed_authors": [
+                "d gosain",
+                "a agarwal",
+                "s shekhawat",
+                "hb acharya",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Approximating a Global Passive Adversary Against Tor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:qjMakFHDy7sC",
+            "citation_id": "8CJgHUIAAAAJ:qjMakFHDy7sC",
+            "authors": "S Chakravarty, A Stavrou, AD Keromytis",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4304370858752855669",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4304370858752855669&engine=google_scholar&hl=en",
+                "cites_id": "4304370858752855669"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Approximating a Global Passive Adversary Against Tor",
+                    "author": [
+                        "S Chakravarty",
+                        "A Stavrou",
+                        "AD Keromytis"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "NA",
+                    "abstract": "We present a novel, practical, and effective mechanism for exposing the IP address of Tor relays, clients and hidden services. We approximate an almost-global passive adversary (GPA) capable of eavesdropping anywhere in the network by using LinkWidth. LinkWidth allows network edge-attached entities to estimate the available bandwidth in an arbitrary Internet link without a cooperating peer host, router, or ISP. By modulating the bandwidth of an anonymous connection (eg, when the destination server or anonymous client is under"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://academiccommons.columbia.edu/doi/10.7916/D82J6QBM",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "hnuQ6PMAAAAJ",
+                    "mncyWbcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dc6BkX0yvDsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DApproximating%2Ba%2BGlobal%2BPassive%2BAdversary%2BAgainst%2BTor%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dc6BkX0yvDsJ&ei=4PZiYsKAPZLeyQTms5KQBg&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=4304370858752855669&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dc6BkX0yvDsJ:scholar.google.com/&scioq=Approximating+a+Global+Passive+Adversary+Against+Tor&hl=en&as_sdt=0,33",
+                "eprint_url": "https://academiccommons.columbia.edu/doi/10.7916/D8697G2B/download"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "a stavrou",
+                "ad keromytis"
+            ]
+        },
+        {
+            "title": "SiegeBreaker: An SDN Based Practical Decoy Routing System.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:eq2jaN3J8jMC",
+            "citation_id": "8CJgHUIAAAAJ:eq2jaN3J8jMC",
+            "authors": "PK Sharma, D Gosain, H Sagar, C Kumar, A Dogra, V Naik, HB Acharya, ...",
+            "publication": "Proc. Priv. Enhancing Technol. 2020 (3), 243-263, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13159103654558073903",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13159103654558073903&engine=google_scholar&hl=en",
+                "cites_id": "13159103654558073903"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SiegeBreaker: An SDN Based Practical Decoy Routing System.",
+                    "author": [
+                        "PK Sharma",
+                        "D Gosain",
+                        "H Sagar",
+                        "C Kumar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proc. Priv \u2026",
+                    "abstract": "Decoy Routing (DR), a promising approach to censorship circumvention, uses routers (rather than end hosts) as proxy servers. Users of censored networks, who wish to use DR, send specially crafted packets, nominally addressed to an uncensored website. Once safely out of the censored network, the packets encounter a special router (the Decoy Router) which identifies them using a secret handshake, and proxies them to their true destination (a censored site). However, DR has implementation problems: it is infeasible to reprogram"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://petsymposium.org/2020/files/papers/issue3/popets-2020-0051.pdf",
+                "author_id": [
+                    "eO1M0vgAAAAJ",
+                    "VyhXD2EAAAAJ",
+                    "mPPuamAAAAAJ",
+                    "QSLNpR8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:L4R6zA2HnrYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSiegeBreaker:%2BAn%2BSDN%2BBased%2BPractical%2BDecoy%2BRouting%2BSystem.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=L4R6zA2HnrYJ&ei=7fZiYpPvAoyuyASD3KfABw&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=13159103654558073903&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:L4R6zA2HnrYJ:scholar.google.com/&scioq=SiegeBreaker:+An+SDN+Based+Practical+Decoy+Routing+System.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://petsymposium.org/2020/files/papers/issue3/popets-2020-0051.pdf"
+            },
+            "processed_authors": [
+                "pk sharma",
+                "d gosain",
+                "h sagar",
+                "c kumar",
+                "a dogra",
+                "v naik",
+                "hb acharya"
+            ]
+        },
+        {
+            "title": "Towards practical infrastructure for decoy routing (positional paper)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:eJXPG6dFmWUC",
+            "citation_id": "8CJgHUIAAAAJ:eJXPG6dFmWUC",
+            "authors": "S Chakravarty, V Naik, HB Acharya, CS Tanwar",
+            "publication": "Proceedings of the Workshop on Security of Emerging Networking Technologies \u2026, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7368808365005244433",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7368808365005244433&engine=google_scholar&hl=en",
+                "cites_id": "7368808365005244433"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Towards practical infrastructure for decoy routing (positional paper)",
+                    "author": [
+                        "S Chakravarty",
+                        "V Naik",
+                        "HB Acharya"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Network censorship and surveillance generally involves ISPs working under the orders of repressive regimes, monitoring (and sometimes filtering) users' traffic, often using powerful networking devices, eg routers capable of performing Deep Packet Inspection (DPI). Such routers enables their operators to observe contents of network flows (traversing their routers) having specific byte sequences. Tor, a low-latency anonymity network has also been widely used to circumvent censorship and surveillance. However, recent efforts have shown that all"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.ndss-symposium.org/wp-content/uploads/2017/09/01_7.pdf",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "HF7IPeQAAAAJ",
+                    "5UOUSzAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:EYgQlipEQ2YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bpractical%2Binfrastructure%2Bfor%2Bdecoy%2Brouting%2B(positional%2Bpaper)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EYgQlipEQ2YJ&ei=8PZiYo-kIpWMy9YPt8OamA0&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7368808365005244433&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:EYgQlipEQ2YJ:scholar.google.com/&scioq=Towards+practical+infrastructure+for+decoy+routing+(positional+paper)&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ndss-symposium.org/wp-content/uploads/2017/09/01_7.pdf"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "v naik",
+                "hb acharya",
+                "cs tanwar"
+            ]
+        },
+        {
+            "title": "The road not taken: re-thinking the feasibility of voice calling over tor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:5awf1xo2G04C",
+            "citation_id": "8CJgHUIAAAAJ:5awf1xo2G04C",
+            "authors": "PK Sharma, S Chaudhary, N Hassija, M Maity, S Chakravarty",
+            "publication": "arXiv preprint arXiv:2007.04673, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=367386013200011999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=367386013200011999&engine=google_scholar&hl=en",
+                "cites_id": "367386013200011999"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "The road not taken: re-thinking the feasibility of voice calling over tor",
+                    "author": [
+                        "PK Sharma",
+                        "S Chaudhary",
+                        "N Hassija",
+                        "M Maity"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Anonymous VoIP calls over the Internet holds great significance for privacy-conscious users, whistle-blowers and political activists alike. Prior research deems popular anonymization systems like Tor unsuitable for providing requisite performance guarantees that real-time applications like VoIP need. Their claims are backed by studies that may no longer be valid due to constant advancements in Tor. Moreover, we believe that these studies lacked the requisite diversity and comprehensiveness. Thus, conclusions from these studies led them"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2007.04673",
+                "author_id": [
+                    "eO1M0vgAAAAJ",
+                    "6T3CaUcAAAAJ",
+                    "",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:39I77KE3GQUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2Broad%2Bnot%2Btaken:%2Bre-thinking%2Bthe%2Bfeasibility%2Bof%2Bvoice%2Bcalling%2Bover%2Btor%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=39I77KE3GQUJ&ei=9PZiYt-YNuHDywTjooCQBQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=367386013200011999&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:39I77KE3GQUJ:scholar.google.com/&scioq=The+road+not+taken:+re-thinking+the+feasibility+of+voice+calling+over+tor&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2007.04673"
+            },
+            "processed_authors": [
+                "pk sharma",
+                "s chaudhary",
+                "n hassija",
+                "mukulika maity",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Camoufler: Accessing The Censored Web By Utilizing Instant Messaging Channels",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:ye4kPcJQO24C",
+            "citation_id": "8CJgHUIAAAAJ:ye4kPcJQO24C",
+            "authors": "PK Sharma, D Gosain, S Chakravarty",
+            "publication": "Proceedings of the 2021 ACM Asia Conference on Computer and Communications \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4452978362038892699",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4452978362038892699&engine=google_scholar&hl=en",
+                "cites_id": "4452978362038892699"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Camoufler: Accessing The Censored Web By Utilizing Instant Messaging Channels",
+                    "author": [
+                        "PK Sharma",
+                        "D Gosain",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 2021 ACM \u2026",
+                    "abstract": "Free and open communication over the Internet is considered a fundamental human right, essential to prevent repressions from silencing voices of dissent. This has led to the development of various anti-censorship systems. Recent systems have relied on a common blocking resistance strategy ie, incurring collateral damage to the censoring regimes, if they attempt to restrict such systems. However, despite being promising, systems built on such strategies pose additional challenges, viz., deployment limitations, poor QoS etc. These"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3433210.3453080",
+                "author_id": [
+                    "eO1M0vgAAAAJ",
+                    "VyhXD2EAAAAJ",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mzjUNToozD0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCamoufler:%2BAccessing%2BThe%2BCensored%2BWeb%2BBy%2BUtilizing%2BInstant%2BMessaging%2BChannels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mzjUNToozD0J&ei=-fZiYvHjBvmQ6rQPzKCxuAY&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=4452978362038892699&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mzjUNToozD0J:scholar.google.com/&scioq=Camoufler:+Accessing+The+Censored+Web+By+Utilizing+Instant+Messaging+Channels&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Piyush-Sharma-6/publication/350721138_Camoufler_Accessing_The_Censored_Web_By_Utilizing_Instant_Messaging_Channels/links/60f8452b2bf3553b290282fb/Camoufler-Accessing-The-Censored-Web-By-Utilizing-Instant-Messaging-Channels.pdf"
+            },
+            "processed_authors": [
+                "pk sharma",
+                "d gosain",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Telemetron: Measuring Network Capacity Between Off-Path Remote Hosts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:N5tVd3kTz84C",
+            "citation_id": "8CJgHUIAAAAJ:N5tVd3kTz84C",
+            "authors": "D Gosain, A Jaiswal, HB Acharya, S Chakravarty",
+            "publication": "2021 IEEE 46th Conference on Local Computer Networks (LCN), 351-354, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Telemetron: Measuring Network Capacity Between Off-Path Remote Hosts",
+                    "author": [
+                        "D Gosain",
+                        "A Jaiswal",
+                        "HB Acharya"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE 46th \u2026",
+                    "abstract": "This paper presents Telemetron, the first active bandwidth measurement tool that can estimate the path capacity between two remote hosts, from an off-path Measuring Machine (MM). It is possible to induce traffic flow between off-path remote hosts\u2014sending request packets to one host, with a spoofed source IP, will cause the first host to send reply packets to the other. The challenge for MM is to measure the rate at which these packets arrive at the second machine. Our key observation is that if the second machine has a global IP-ID"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9524946/",
+                "author_id": [
+                    "VyhXD2EAAAAJ",
+                    "",
+                    "5UOUSzAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9WuANM_2hrIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTelemetron:%2BMeasuring%2BNetwork%2BCapacity%2BBetween%2BOff-Path%2BRemote%2BHosts%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9WuANM_2hrIJ&ei=_vZiYo7jGMLZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:9WuANM_2hrIJ:scholar.google.com/&scioq=Telemetron:+Measuring+Network+Capacity+Between+Off-Path+Remote+Hosts&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "d gosain",
+                "a jaiswal",
+                "hb acharya",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Too Close for Comfort: Morasses of (Anti-) Censorship in the Era of CDNs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:WqliGbK-hY8C",
+            "citation_id": "8CJgHUIAAAAJ:WqliGbK-hY8C",
+            "authors": "D Gosain, M Mohindra, S Chakravarty",
+            "publication": "Proceedings on Privacy Enhancing Technologies 2021 (2), 173-193, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Too Close for Comfort: Morasses of (Anti-) Censorship in the Era of CDNs",
+                    "author": [
+                        "D Gosain",
+                        "M Mohindra"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings on Privacy \u2026",
+                    "abstract": "Recent research claims that \u201cpowerful\u201d nation-states may be hegemonic over significant web traffic of \u201cunderserved\u201d nations (eg, Brazil and India). Such traffic may be surveilled when transiting (or ending in) these powerful nations. On the other hand, content distribution networks (CDNs) are designed to bring web content closer to end-users. Thus it is natural to ask whether CDNs have led to the localization of Internet traffic within the country's boundary, challenging the notion of nation-state hegemony. Further, such traffic localization"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://petsymposium.org/2021/files/papers/issue2/popets-2021-0023.pdf",
+                "author_id": [
+                    "VyhXD2EAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:KBpZFQeFW0MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DToo%2BClose%2Bfor%2BComfort:%2BMorasses%2Bof%2B(Anti-)%2BCensorship%2Bin%2Bthe%2BEra%2Bof%2BCDNs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KBpZFQeFW0MJ&ei=AvdiYrekJaKUy9YPyMyGkAI&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:KBpZFQeFW0MJ:scholar.google.com/&scioq=Too+Close+for+Comfort:+Morasses+of+(Anti-)+Censorship+in+the+Era+of+CDNs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://petsymposium.org/2021/files/papers/issue2/popets-2021-0023.pdf"
+            },
+            "processed_authors": [
+                "d gosain",
+                "m mohindra",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Building performant, privacy-enhancing, and blocking-resistant communication systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:PR6Y55bgFSsC",
+            "citation_id": "8CJgHUIAAAAJ:PR6Y55bgFSsC",
+            "authors": "P Kumar, S Chakravarty, M Maity",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Building performant, privacy-enhancing, and blocking-resistant communication systems",
+                    "author": [
+                        "P Kumar",
+                        "S Chakravarty",
+                        "M Maity"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "Free and open communication over the Internet is essential for the overall advancement of modern societies. However, there are numerous ways with which malevolent adversaries try to control the flow of information, by either selectively restricting access to content or in extreme scenarios completely shutting down the Internet. Hence, we aim to augment existing research as well as build novel systems to facilitate open communication over the Internet. Thus, in this thesis, we attempt to answer the question\u2014Can we facilitate open"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/939",
+                "author_id": [
+                    "Ub5cNW0AAAAJ",
+                    "8CJgHUIAAAAJ",
+                    "F5sooVMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kcD4mbFBZ3QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBuilding%2Bperformant,%2Bprivacy-enhancing,%2Band%2Bblocking-resistant%2Bcommunication%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kcD4mbFBZ3QJ&ei=CfdiYqCzCamTy9YPsu-CuAM&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "p kumar",
+                "sambuddho chakravarty",
+                "mukulika maity"
+            ]
+        },
+        {
+            "title": "A quest for cyber high ground: impact of internet structure on (anti-) censorship",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:ZuybSZzF8UAC",
+            "citation_id": "8CJgHUIAAAAJ:ZuybSZzF8UAC",
+            "authors": "D Gosain, S Chakravarty",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A quest for cyber high ground: impact of internet structure on (anti-) censorship",
+                    "author": [
+                        "D Gosain",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "NA",
+                    "abstract": "The original design of the Internet was a resilient, distributed architecture, that should be able to route around (and therefore recover from) massive disruption\u2014up to and including nuclear war. However, network routing policies and business decisions cause traffic to be often routed through a relatively small set of Autonomous Systems (ASes). It has practical implications\u2014some of these frequently appearing ASes (ie,\u201ckey\u201d ASes) are hosted in censorious nations. Other than censoring their own citizens' network access, such ASes may"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/936",
+                "author_id": [
+                    "VyhXD2EAAAAJ",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:efZXtSPho4EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bquest%2Bfor%2Bcyber%2Bhigh%2Bground:%2Bimpact%2Bof%2Binternet%2Bstructure%2Bon%2B(anti-)%2Bcensorship%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=efZXtSPho4EJ&ei=DfdiYqPpJY6pywSdh6agAg&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "d gosain",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Real time traffic over tor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:9vf0nzSNQJEC",
+            "citation_id": "8CJgHUIAAAAJ:9vf0nzSNQJEC",
+            "authors": "S Chaudhary, N Hassija, S Chakravarty",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enhancing Tor's performance using real-time traffic classification",
+                    "author": [
+                        "M AlSabah",
+                        "K Bauer",
+                        "I Goldberg"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "\u2026 of the 2012 ACM conference on \u2026",
+                    "abstract": "of Tor by defining different classes of service for its traffic. We recognize that although the  majority of Tor traffic  consumes an unfair amount of Tor\u2019s scarce bandwidth. Furthermore, these"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2382196.2382208",
+                "author_id": [
+                    "rGIv25EAAAAJ",
+                    "_sLbayIAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:O930WT0-FmAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReal%2Btime%2Btraffic%2Bover%2Btor%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=O930WT0-FmAJ&ei=F_diYv6ZL5GJmwGIxre4DA&json=",
+                "num_citations": 93,
+                "citedby_url": "/scholar?cites=6923789910351863099&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:O930WT0-FmAJ:scholar.google.com/&scioq=Real+time+traffic+over+tor&hl=en&as_sdt=0,33",
+                "eprint_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.7972&rep=rep1&type=pdf"
+            },
+            "processed_authors": [
+                "s chaudhary",
+                "n hassija",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Routing under the hood: analysing the impact of growing CDNs on network paths and anti-censiorship approaches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:dTyEYWd-f8wC",
+            "citation_id": "8CJgHUIAAAAJ:dTyEYWd-f8wC",
+            "authors": "M Mohindra, S Chakravarty",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Routing under the hood: analysing the impact of growing CDNs on network paths and anti-censiorship approaches",
+                    "author": [
+                        "M Mohindra",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "Due to the proliferation of CDNs with edge networks, the known hierarchical model of the Internet is gradually changing. Very recently, it has been demonstrated that CDNs have become part of the Internet core [5]. There are various attempts by researchers to map the ecosystem of big giants like Google, Akamai, and Net ix. However, very little attention has been given to how a regular Internet client perceives from the CDN hosted websites. This had a direct impact on anti-censorship approaches which rely on web content for their"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/768",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OEpYl3NyB4sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRouting%2Bunder%2Bthe%2Bhood:%2Banalysing%2Bthe%2Bimpact%2Bof%2Bgrowing%2BCDNs%2Bon%2Bnetwork%2Bpaths%2Band%2Banti-censiorship%2Bapproaches%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OEpYl3NyB4sJ&ei=H_diYp-4NpWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:OEpYl3NyB4sJ:scholar.google.com/&scioq=Routing+under+the+hood:+analysing+the+impact+of+growing+CDNs+on+network+paths+and+anti-censiorship+approaches&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/768/2015056_MAYANK%20MOHINDRA.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "m mohindra",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Telescope: measuring capacity between remote hosts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:Y5dfb0dijaUC",
+            "citation_id": "8CJgHUIAAAAJ:Y5dfb0dijaUC",
+            "authors": "A Jaiswal, S Chakravarty",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Telescope: measuring capacity between remote hosts",
+                    "author": [
+                        "A Jaiswal",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "The term bandwidth, capacity, and throughput characterize the amount of data that can be transferred per unit time. Accurate estimation of bandwidth can be leveraged by various applications which seek to provide best user experience such as peer to peer file transfer. Bandwidth estimation is an age-old problem and many people have sought to estimate it correctly. Many tools exist which employ various strategies in an attempt to measure the capacity of the path such as pathrate, sprobe, nettimer, etc. However, to the best of our"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/657",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:R8aKHHbMAQkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTelescope:%2Bmeasuring%2Bcapacity%2Bbetween%2Bremote%2Bhosts%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=R8aKHHbMAQkJ&ei=KPdiYs2yCLyCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:R8aKHHbMAQkJ:scholar.google.com/&scioq=Telescope:+measuring+capacity+between+remote+hosts&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/657/Aishwarya%20Jaiswal_2014007.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "a jaiswal",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Trends and patterns of internet censorship in india",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:tkaPQYYpVKoC",
+            "citation_id": "8CJgHUIAAAAJ:tkaPQYYpVKoC",
+            "authors": "TK Yadav, S Chakravarty",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Trends and patterns of internet censorship in india",
+                    "author": [
+                        "TK Yadav",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "This report presents a detailed study of the Internet censorship in India. We consolidated a list of potentially blocked websites from various public sources and checked their accessibility from 9 popular ISPs within the country. Our results indicate that the censorship mechanism varies across networks: some are blocked at the DNS level while others at the HTTP level. In this study, we first demonstrate that existing censorship detection tools like OONI results in high false positives and negatives. Thus, we developed our own approach"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/668",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Qy9YgcMi5YgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTrends%2Band%2Bpatterns%2Bof%2Binternet%2Bcensorship%2Bin%2Bindia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Qy9YgcMi5YgJ&ei=LPdiYtLTHc6E6rQPz8uiuAc&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Qy9YgcMi5YgJ:scholar.google.com/&scioq=Trends+and+patterns+of+internet+censorship+in+india&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/668/Tarun%20Kumar%20Yadav_2014110.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "tk yadav",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "A critical study of power consumption patterns in Indian Apartments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:hkOj_22Ku90C",
+            "citation_id": "8CJgHUIAAAAJ:hkOj_22Ku90C",
+            "authors": "NV Apurupa, P Singh, S Chakravarty, AB Buduru",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A critical study of power consumption patterns in Indian Apartments",
+                    "author": [
+                        "NV Apurupa",
+                        "P Singh",
+                        "S Chakravarty",
+                        "AB Buduru"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "Energy conservation plays an important role in the economic development of a country. The total share of building's energy consumption in the country's energy consumption is increasing every year in India. Thus, it is essential to study the various features that impact the energy consumption in the domestic house holds which can be used for effectivepolicy making for energy conservation and also advise individuals on how to monitor andcontrol their energy consumption. The purpose of our study is to explore the variousfactors that are"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/632",
+                "author_id": [
+                    "",
+                    "",
+                    "8CJgHUIAAAAJ",
+                    "TmGAyPYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ha8dHddtUg0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bcritical%2Bstudy%2Bof%2Bpower%2Bconsumption%2Bpatterns%2Bin%2BIndian%2BApartments%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ha8dHddtUg0J&ei=NvdiYqPBFc6E6rQPz8uiuAc&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ha8dHddtUg0J:scholar.google.com/&scioq=A+critical+study+of+power+consumption+patterns+in+Indian+Apartments&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/632/MT16036_Apurupa.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "nv apurupa",
+                "p singh",
+                "sambuddho chakravarty",
+                "arun balaji buduru"
+            ]
+        },
+        {
+            "title": "SiegeBreaker: multi-client support",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:JoZmwDi-zQgC",
+            "citation_id": "8CJgHUIAAAAJ:JoZmwDi-zQgC",
+            "authors": "H Sagar, S Chakravarty",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SiegeBreaker: multi-client support",
+                    "author": [
+                        "H Sagar",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "Moreover, this report is derived from already submitted version of SiegeBreaker. I also  is  to add multi client support to already existing system of SiegeBreaker, thereby increasing the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/725",
+                "author_id": [
+                    "mPPuamAAAAAJ",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Dv0dUhi3qOgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSiegeBreaker:%2Bmulti-client%2Bsupport%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Dv0dUhi3qOgJ&ei=O_diYu_PCI6pywSdh6agAg&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/725/2014046_HIMANSHU.pdf?sequence=1"
+            },
+            "processed_authors": [
+                "h sagar",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Manzar: issues with cyber censorship in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:olpn-zPbct0C",
+            "citation_id": "8CJgHUIAAAAJ:olpn-zPbct0C",
+            "authors": "S Shekhawat, S Chakravarty",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Manzar: issues with cyber censorship in India",
+                    "author": [
+                        "S Shekhawat",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "Last semester we found that the Indian government delegates censorship policies at ISP level which is inconsistent and disorganized. We filed multiple RTIs to Department of Telecommunication seeking censorship policies of Indian government but did not get a clear response. Then we tested various ISP and found evidences of same kind of censorship happening. This semester we tested how censorship is happening across various ISPs and found the mechanism to be same across ISPs, even the blocking message was same across"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/580",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Sdn__2KI9RgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DManzar:%2Bissues%2Bwith%2Bcyber%2Bcensorship%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Sdn__2KI9RgJ&ei=P_diYr6TB7yCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Sdn__2KI9RgJ:scholar.google.com/&scioq=Manzar:+issues+with+cyber+censorship+in+India&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/580/Sahil%20Shekhawat_2013083.pdf?sequence=1"
+            },
+            "processed_authors": [
+                "s shekhawat",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Citadels in cyberspace",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:WA5NYHcadZ8C",
+            "citation_id": "8CJgHUIAAAAJ:WA5NYHcadZ8C",
+            "authors": "M Rawat, S Chakravarty",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Citadels in cyberspace",
+                    "author": [
+                        "M Rawat",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "Cyberwarfare remains a sparsely explored domain of cybersecurity research, most often  involving targeted attacks by one nation against another, using botnets. These botnets use"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/614",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:b-qxh2y0_OIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCitadels%2Bin%2Bcyberspace%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=b-qxh2y0_OIJ&ei=WvdiYqWiOZGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:b-qxh2y0_OIJ:scholar.google.com/&scioq=Citadels+in+cyberspace&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/614/MT105030_Madhur%20Rawat.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "m rawat",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "AnonSocialMix: anonymous p2p file sharing over social networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:XiVPGOgt02cC",
+            "citation_id": "8CJgHUIAAAAJ:XiVPGOgt02cC",
+            "authors": "R Mukherjee, S Chakravarty",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "AnonSocialMix: anonymous p2p file sharing over social networks",
+                    "author": [
+                        "R Mukherjee",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "Peer-to-peer (P2P) file sharing accounts for one of the major sources of the Internet traffic. As privacy and anonymity issues continue to grow due to constant censorship and network surveillance, more and more Internet users are getting attracted towards the facilities for anonymous communication. Extensive research has been conducted over the years towards the design and development of several anonymous P2P file sharing protocols and systems. Size of the Anonymity Set plays a crucial role in determining the degree of anonymity being"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/535",
+                "author_id": [
+                    "Ac-0jgMAAAAJ",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Qsj-MaCcJYAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnonSocialMix:%2Banonymous%2Bp2p%2Bfile%2Bsharing%2Bover%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Qsj-MaCcJYAJ&ei=X_diYobdGaKUy9YPyMyGkAI&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Qsj-MaCcJYAJ:scholar.google.com/&scioq=AnonSocialMix:+anonymous+p2p+file+sharing+over+social+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/535/MT15051%20-%20Rajdeep%20Mukherjee.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "r mukherjee",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Qi points: placing decoy routers in the internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:wbdj-CoPYUoC",
+            "citation_id": "8CJgHUIAAAAJ:wbdj-CoPYUoC",
+            "authors": "D Gosain, A Agarwal, HB Acharya, S Chakravarty",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Qi points: placing decoy routers in the internet",
+                    "author": [
+                        "D Gosain",
+                        "A Agarwal",
+                        "HB Acharya",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "Decoy Routing, the use of routers (rather than end hosts) as proxies, is a new direction in anti-censorship research. However, existing proposals require control of hundreds of Autonomous Systems (AS) to provide Decoy Routing to Internet users in a single censorious country (eg China). This is considered necessary, as the adversary-in this case the Chinese Government-has connections to many Autonomous Systems (ASes), and we want to make sure it cannot simply route around those ASes which have decoy routers. In this paper, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/442",
+                "author_id": [
+                    "VyhXD2EAAAAJ",
+                    "",
+                    "5UOUSzAAAAAJ",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7KCqTgzFuOkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DQi%2Bpoints:%2Bplacing%2Bdecoy%2Brouters%2Bin%2Bthe%2Binternet%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7KCqTgzFuOkJ&ei=Y_diYvT7JZGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:7KCqTgzFuOkJ:scholar.google.com/&scioq=Qi+points:+placing+decoy+routers+in+the+internet&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/442/IIITD-TR-2016-003.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "d gosain",
+                "a agarwal",
+                "hb acharya",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Cairn: identifying network locations for large scale censorship by resource-constrained adversaries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:J-pR_7NvFogC",
+            "citation_id": "8CJgHUIAAAAJ:J-pR_7NvFogC",
+            "authors": "A Agarwal, S Chakravarty",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cairn: identifying network locations for large scale censorship by resource-constrained adversaries",
+                    "author": [
+                        "A Agarwal",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "Censorship of the Internet by government is a hotly contested topic. Some nations lean more towards free speech; others are much more conservative. How feasible is it for a government to censor the Internet? What mechanisms can it use? Where all shall it install the censorship infrastructure? What collateral damage can be seen in other countries? In this paper, we attempt to look at these questions in general, and present a case study of India-a country which currently performs limited censorship, but which will likely change its access policies"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/437",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:W4oNNaKB4OUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCairn:%2Bidentifying%2Bnetwork%2Blocations%2Bfor%2Blarge%2Bscale%2Bcensorship%2Bby%2Bresource-constrained%2Badversaries%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W4oNNaKB4OUJ&ei=bvdiYqLOH-HDywTjooCQBQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:W4oNNaKB4OUJ:scholar.google.com/&scioq=Cairn:+identifying+network+locations+for+large+scale+censorship+by+resource-constrained+adversaries&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/437/MT14048_ANSHIKA%20AGARWAL.pdf?sequence=1"
+            },
+            "processed_authors": [
+                "a agarwal",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Subverting Exit Censorship in Anonymous Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:1yQoGdGgb4wC",
+            "citation_id": "8CJgHUIAAAAJ:1yQoGdGgb4wC",
+            "authors": "S Chakravarty",
+            "publication": "Indraprastha Institute of Information Technology New Delhi, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Subverting Exit Censorship in Anonymous Networks",
+                    "author": [
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "Anonymity on the Internet, while a very convenient concept, is also quite powerful. It enables users to utilize the facilities enabled by global networks without leaking any sensitive information that could lead to exposure of their real life identity. A lot of web services therefore (understandably) prefer blocking such users to prevent abuse. However, it has been observed that some web services block anonymous users even in the absence of abuse, thus disallowing a genuine user (who wishes to maintain his/her anonymity). We aim"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.mridul.fyi/files/btech_thesis.pdf",
+                "author_id": [
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:10oW_kK2N0kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSubverting%2BExit%2BCensorship%2Bin%2BAnonymous%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=10oW_kK2N0kJ&ei=cfdiYpT7C--Sy9YPmNWywAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:10oW_kK2N0kJ:scholar.google.com/&scioq=Subverting+Exit+Censorship+in+Anonymous+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.mridul.fyi/files/btech_thesis.pdf"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Novel instruction set architecture based side channels in popular SSL/TLS implementations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:eflP2zaiRacC",
+            "citation_id": "8CJgHUIAAAAJ:eflP2zaiRacC",
+            "authors": "V Garg, S Chakravarty",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Novel instruction set architecture based side channels in popular SSL/TLS implementations",
+                    "author": [
+                        "V Garg",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "Various Open Source Cryptographic Libraries are being used these days to implement the general purpose cryptographic functions and to provide a secure communication channel over the internet. These libraries, that implement SSL/TLS, have been targeted by various side channel attacks in the past that result in leakage of sensitive information flowing over the network. Side channel attacks rely on inadvertent leakage of information from devices through observable attributes of online communication. Some of the common side channel"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/348",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:c65Ly_CSENAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNovel%2Binstruction%2Bset%2Barchitecture%2Bbased%2Bside%2Bchannels%2Bin%2Bpopular%2BSSL/TLS%2Bimplementations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=c65Ly_CSENAJ&ei=c_diYqnEJpWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:c65Ly_CSENAJ:scholar.google.com/&scioq=Novel+instruction+set+architecture+based+side+channels+in+popular+SSL/TLS+implementations&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/348/MT13018.docx?sequence=1"
+            },
+            "processed_authors": [
+                "v garg",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "TASVEER: tomography of India's internet infrastructure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:D_sINldO8mEC",
+            "citation_id": "8CJgHUIAAAAJ:D_sINldO8mEC",
+            "authors": "RK Singh, S Chakravarty",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "TASVEER: tomography of India's internet infrastructure",
+                    "author": [
+                        "RK Singh",
+                        "S Chakravarty"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "With approximately 250 million Internet users, India stands amongst the top 5 Internet using nations of the world. India's network space is made up of 789 Autonomous Systems (ASes), that route all the network traffic of India. On the other hand, US has approximately 300 million users, whose traffic is routed over 22K ASes. Thus, a relatively small network routes the traffic of large number of Indian users. Failures and attacks in such networks could impact large number of users. However, being a relatively small number, it becomes easy to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/359",
+                "author_id": [
+                    "",
+                    "8CJgHUIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:t9M9wnq9KSQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTASVEER:%2Btomography%2Bof%2BIndia%2527s%2Binternet%2Binfrastructure%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=t9M9wnq9KSQJ&ei=dfdiYvXUOoOEmgH1zZjACQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:t9M9wnq9KSQJ:scholar.google.com/&scioq=TASVEER:+tomography+of+India%27s+internet+infrastructure&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/359/MT13101.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "rk singh",
+                "sambuddho chakravarty"
+            ]
+        },
+        {
+            "title": "Towards practical infrastructure for decoy routing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:B3FOqHPlNUQC",
+            "citation_id": "8CJgHUIAAAAJ:B3FOqHPlNUQC",
+            "authors": "S Chakravarty, V Naik, HB Acharya, CS Tanwar",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Towards practical infrastructure for decoy routing",
+                    "author": [
+                        "S Chakravarty",
+                        "V Naik",
+                        "HB Acharya",
+                        "CS Tanwar"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "Network censorship and surveillance generally involves ISPs working under the orders of repressive regimes, monitoring (and sometimes filtering) users' traffic, often using powerful networking devices, eg routers capable of performing Deep Packet Inspection (DPI). Such routers enables their operators to observe contents of network flows (traversing their routers) having specific byte sequences. Tor, a low-latency anonymity network has also been widely used to circumvent censorship and surveillance. However, recent efforts have shown that all"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/213",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "HF7IPeQAAAAJ",
+                    "5UOUSzAAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:nA8h9xOPHakJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Bpractical%2Binfrastructure%2Bfor%2Bdecoy%2Brouting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nA8h9xOPHakJ&ei=evdiYvXvB6mTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:nA8h9xOPHakJ:scholar.google.com/&scioq=Towards+practical+infrastructure+for+decoy+routing&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/213/IIITD-TR-2015-001.pdf?sequence=1"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "v naik",
+                "hb acharya",
+                "cs tanwar"
+            ]
+        },
+        {
+            "title": "On Effectiveness of Traffic Analysis Against Anonymity Networks Using Netflow",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "8CJgHUIAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Chakravarty, M Polychronakis, G Portokalidis, MV Barbera, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On Effectiveness of Traffic Analysis Against Anonymity Networks Using Netflow",
+                    "author": [
+                        "S Chakravarty",
+                        "M Polychronakis",
+                        "G Portokalidis"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "NA",
+                    "abstract": "Low-latency anonymous communication networks, such as Tor, are geared towards web browsing, instant messaging, and other semi-interactive applications. To achieve acceptable quality of service, these systems attempt to preserve packet interarrival characteristics, such as inter-packet delay. Consequently, a powerful adversary can mount traffic analysis attacks by observing similar traffic patterns at various points of the network, linking together otherwise unrelated network connections. Previous research has shown that having access"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://academiccommons.columbia.edu/doi/10.7916/D8F1974H",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "JBPcwIEAAAAJ",
+                    "pGz5U34AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:s2LJG_WYdhAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2BEffectiveness%2Bof%2BTraffic%2BAnalysis%2BAgainst%2BAnonymity%2BNetworks%2BUsing%2BNetflow%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=s2LJG_WYdhAJ&ei=fPdiYuCSH8LZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:s2LJG_WYdhAJ:scholar.google.com/&scioq=On+Effectiveness+of+Traffic+Analysis+Against+Anonymity+Networks+Using+Netflow&hl=en&as_sdt=0,33",
+                "eprint_url": "https://academiccommons.columbia.edu/doi/10.7916/D8W95JN7/download"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "m polychronakis",
+                "g portokalidis",
+                "mv barbera"
+            ]
+        },
+        {
+            "title": "Detecting Traffic Snooping in Anonymity Networks Using Decoys",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8CJgHUIAAAAJ&pagesize=100&citation_for_view=8CJgHUIAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "8CJgHUIAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "S Chakravarty, G Portokalidis, M Polychronakis, AD Keromytis",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Detecting Traffic Snooping in Anonymity Networks Using Decoys",
+                    "author": [
+                        "S Chakravarty",
+                        "G Portokalidis",
+                        "M Polychronakis"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "NA",
+                    "abstract": "Anonymous communication networks like Tor partially protect the confidentiality of their users' traffic by encrypting all intraoverlay communication. However, when the relayed traffic reaches the boundaries of the overlay network towards its actual destination, the original user traffic is inevitably exposed. At this point, unless end-toend encryption is used, sensitive user data can be snooped by a malicious or compromised exit node, or by any other rogue network entity on the path towards the actual destination. We explore the use of decoy traffic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://academiccommons.columbia.edu/doi/10.7916/D8GX4KGH",
+                "author_id": [
+                    "8CJgHUIAAAAJ",
+                    "pGz5U34AAAAJ",
+                    "JBPcwIEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:va4hu6VgZW0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDetecting%2BTraffic%2BSnooping%2Bin%2BAnonymity%2BNetworks%2BUsing%2BDecoys%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=va4hu6VgZW0J&ei=gfdiYrKMAcLZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:va4hu6VgZW0J:scholar.google.com/&scioq=Detecting+Traffic+Snooping+in+Anonymity+Networks+Using+Decoys&hl=en&as_sdt=0,33",
+                "eprint_url": "https://academiccommons.columbia.edu/doi/10.7916/D8K93GDQ/download"
+            },
+            "processed_authors": [
+                "sambuddho chakravarty",
+                "g portokalidis",
+                "m polychronakis",
+                "ad keromytis"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 454,
+                    "since_2017": 267
+                }
+            },
+            {
+                "h_index": {
+                    "all": 11,
+                    "since_2017": 10
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 13,
+                    "since_2017": 10
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2008,
+                "citations": 2
+            },
+            {
+                "year": 2009,
+                "citations": 7
+            },
+            {
+                "year": 2010,
+                "citations": 14
+            },
+            {
+                "year": 2011,
+                "citations": 17
+            },
+            {
+                "year": 2012,
+                "citations": 18
+            },
+            {
+                "year": 2013,
+                "citations": 15
+            },
+            {
+                "year": 2014,
+                "citations": 33
+            },
+            {
+                "year": 2015,
+                "citations": 35
+            },
+            {
+                "year": 2016,
+                "citations": 39
+            },
+            {
+                "year": 2017,
+                "citations": 51
+            },
+            {
+                "year": 2018,
+                "citations": 58
+            },
+            {
+                "year": 2019,
+                "citations": 37
+            },
+            {
+                "year": 2020,
+                "citations": 61
+            },
+            {
+                "year": 2021,
+                "citations": 54
+            },
+            {
+                "year": 2022,
+                "citations": 6
+            }
+        ]
+    },
+    "co_authors": []
+}

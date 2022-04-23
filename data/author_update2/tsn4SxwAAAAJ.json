@@ -1,0 +1,635 @@
+{
+    "search_metadata": {
+        "id": "62574cee437af2a3ca495913",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d3e6b91513a18411/62574cee437af2a3ca495913.json",
+        "created_at": "2022-04-13 22:21:34 UTC",
+        "processed_at": "2022-04-13 22:21:34 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=tsn4SxwAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/d3e6b91513a18411/62574cee437af2a3ca495913.html",
+        "total_time_taken": 0.6,
+        "total_articles": 10,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "tsn4SxwAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Mitali Sinha",
+        "affiliations": "PHD Scholar at Indraprastha Institute of Information Technology",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Accelerator-rich SoC design",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:accelerator_rich_soc_design",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aaccelerator_rich_soc_design"
+            },
+            {
+                "title": "Hardware security",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:hardware_security",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahardware_security"
+            },
+            {
+                "title": "Resource and design-space optimization",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:resource_and_design_space_optimization",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aresource_and_design_space_optimization"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tsn4SxwAAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "A utilization aware robust channel access mechanism for wireless nocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "tsn4SxwAAAAJ:9yKSN-GCB0IC",
+            "authors": "SH Gade, SS Rout, M Sinha, HK Mondal, W Singh, S Deb",
+            "publication": "2018 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2018",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5389732244908841241",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5389732244908841241&engine=google_scholar&hl=en",
+                "cites_id": "5389732244908841241"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A utilization aware robust channel access mechanism for wireless nocs",
+                    "author": [
+                        "SH Gade",
+                        "SS Rout",
+                        "M Sinha",
+                        "HK Mondal"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on Circuits and \u2026",
+                    "abstract": "Wireless Network-on-Chip (WNoC) has been proposed to overcome long-distance communication bottlenecks of wired NoCs. Token passing mechanism has generally been adapted to allocate the wireless channel among Wireless Interfaces (WIs). In this work, we propose a comparator based controller to provide a flexible and efficient channel allocation scheme. It utilizes a comparator attached to the antenna, along with modifications to header flit to perform channel allocation along with power gating WIs to save energy. Evaluation of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8351698/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "2A34nJIAAAAJ",
+                    "tsn4SxwAAAAJ",
+                    "shhuV9AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GZlCtOsszEoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Butilization%2Baware%2Brobust%2Bchannel%2Baccess%2Bmechanism%2Bfor%2Bwireless%2Bnocs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GZlCtOsszEoJ&ei=GlZkYqWZC4uKmgGY1YjABQ&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=5389732244908841241&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GZlCtOsszEoJ:scholar.google.com/&scioq=A+utilization+aware+robust+channel+access+mechanism+for+wireless+nocs&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2018/06/08351698.pdf"
+            },
+            "processed_authors": [
+                "sri harsha gade",
+                "sidhartha sankar rout",
+                "mitali sinha",
+                "hk mondal",
+                "wazir singh",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Enabling Reliable High Throughput On-Chip Wireless Communication for Many Core Architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "tsn4SxwAAAAJ:Y0pCki6q_DkC",
+            "authors": "SH Gade, M Sinha, SS Rout, S Deb",
+            "publication": "IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2018, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1861217880708450666",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1861217880708450666&engine=google_scholar&hl=en",
+                "cites_id": "1861217880708450666"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enabling reliable high throughput on-chip wireless communication for many core architectures",
+                    "author": [
+                        "SH Gade",
+                        "M Sinha",
+                        "SS Rout"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE Computer \u2026",
+                    "abstract": "Wireless Networks-on-Chip (WNoCs) have been shown to overcome the scaling challenges of wired NoCs by augmenting them with low latency, low energy, long range wireless links. However, existing wireless implementations face challenges in terms of reliability while providing high communication performance. Single channel communication, the pre-dominant way of implementing WNoCs, are susceptible to channel effects like dispersion, fading, etc. and also provide limited bandwidth. Multi-channel communication, though"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8429434/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "tsn4SxwAAAAJ",
+                    "2A34nJIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:aok7Jc1f1BkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnabling%2BReliable%2BHigh%2BThroughput%2BOn-Chip%2BWireless%2BCommunication%2Bfor%2BMany%2BCore%2BArchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=aok7Jc1f1BkJ&ei=HlZkYvDqKcLZmQHnraWYCA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=1861217880708450666&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:aok7Jc1f1BkJ:scholar.google.com/&scioq=Enabling+Reliable+High+Throughput+On-Chip+Wireless+Communication+for+Many+Core+Architectures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/noc/wp-content/uploads/2018/08/08429434.pdf"
+            },
+            "processed_authors": [
+                "sri harsha gade",
+                "mitali sinha",
+                "sidhartha sankar rout",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Data-flow Aware CNN Accelerator with Hybrid Wireless Interconnection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "tsn4SxwAAAAJ:W7OEmFMy1HYC",
+            "authors": "M Sinha, SH Gade, W Singh, S Deb",
+            "publication": "IEEE International Conference on Application-specific Systems, Architectures \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6562492205955407067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6562492205955407067&engine=google_scholar&hl=en",
+                "cites_id": "6562492205955407067"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Data-flow aware CNN accelerator with hybrid wireless interconnection",
+                    "author": [
+                        "M Sinha",
+                        "SH Gade",
+                        "W Singh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE 29th \u2026",
+                    "abstract": "Deep convolution neural networks (CNNs) are computationally intensive machine learning algorithms with a large amount of data that impose various challenges for their hardware implementation. To meet the high computing demands of CNNs, many accelerator designs are proposed that revolve around achieving high parallelization, increasing on-chip data reuse and efficient memory hierarchy, etc. However, very few works have attempted to address the communication challenges in these massively parallel accelerators"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8445126/",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "h60AZKYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:29w9SeSnElsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData-flow%2BAware%2BCNN%2BAccelerator%2Bwith%2BHybrid%2BWireless%2BInterconnection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=29w9SeSnElsJ&ei=IVZkYqq7ObKO6rQPy-CRsA8&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=6562492205955407067&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:29w9SeSnElsJ:scholar.google.com/&scioq=Data-flow+Aware+CNN+Accelerator+with+Hybrid+Wireless+Interconnection&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mitali sinha",
+                "sri harsha gade",
+                "wazir singh",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "An interactive elementary tutoring system for oral health education using an augmented approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:qjMakFHDy7sC",
+            "citation_id": "tsn4SxwAAAAJ:qjMakFHDy7sC",
+            "authors": "M Sinha, S Deb",
+            "publication": "IFIP Conference on Human-Computer Interaction, 413-430, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9494812119883012709",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9494812119883012709&engine=google_scholar&hl=en",
+                "cites_id": "9494812119883012709"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An interactive elementary tutoring system for oral health education using an augmented approach",
+                    "author": [
+                        "M Sinha",
+                        "S Deb"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IFIP Conference on Human-Computer Interaction",
+                    "abstract": "The conventional elementary education system in India is mostly guided by formal content development, focusing on areas like math, language, science and social-science. Children tend to retain very little knowledge about other important areas of learning like heath care, which needs to be developed in their foundation years. The education on oral health is one such example which is not given the focus they ought to be. Considering its importance in early education, we propose a learning environment where children would gain knowledge"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-67684-5_26",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "zYH7wmAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ZVqzPlFZxIMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Binteractive%2Belementary%2Btutoring%2Bsystem%2Bfor%2Boral%2Bhealth%2Beducation%2Busing%2Ban%2Baugmented%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZVqzPlFZxIMJ&ei=LVZkYr9QjqnLBN3go8AP&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=9494812119883012709&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ZVqzPlFZxIMJ:scholar.google.com/&scioq=An+interactive+elementary+tutoring+system+for+oral+health+education+using+an+augmented+approach&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-319-67684-5_26"
+            },
+            "processed_authors": [
+                "mitali sinha",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Sniffer: A machine learning approach for DoS attack localization in NoC-based SoCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "tsn4SxwAAAAJ:LkGwnXOMwfcC",
+            "authors": "M Sinha, S Gupta, SS Rout, S Deb",
+            "publication": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems 11 (2 \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7446504023821303067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7446504023821303067&engine=google_scholar&hl=en",
+                "cites_id": "7446504023821303067"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sniffer: A machine learning approach for DoS attack localization in NoC-based SoCs",
+                    "author": [
+                        "M Sinha",
+                        "S Gupta",
+                        "SS Rout"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Journal on Emerging \u2026",
+                    "abstract": "Flooding-based Denial-of-service (DoS) attacks have been prevalent in Network-on-Chip (NoC) architectures, due to its shared nature and open access to all the on-chip modules. A Malicious Intellectual Property (MIP) within a System-on-Chip (SoC) creates such an attack by flooding the NoC with useless packets resulting in significant bandwidth reduction. Finding the location of an MIP is crucial to restore regular network operations and curtail system performance degradation. In this work, we propose Sniffer, an efficient MIP"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9439909/",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "hiacM48AAAAJ",
+                    "2A34nJIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:G71i1vRLV2cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSniffer:%2BA%2Bmachine%2Blearning%2Bapproach%2Bfor%2BDoS%2Battack%2Blocalization%2Bin%2BNoC-based%2BSoCs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=G71i1vRLV2cJ&ei=L1ZkYqHsOu-Sy9YPs_mY8AM&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=7446504023821303067&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:G71i1vRLV2cJ:scholar.google.com/&scioq=Sniffer:+A+machine+learning+approach+for+DoS+attack+localization+in+NoC-based+SoCs&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mitali sinha",
+                "s gupta",
+                "sidhartha sankar rout",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Design Space Optimization of Shared Memory Architecture in Accelerator-rich Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:ufrVoPGSRksC",
+            "citation_id": "tsn4SxwAAAAJ:ufrVoPGSRksC",
+            "authors": "M Sinha, H Gade, P Bhattacharyya, S Deb",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES), 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17815340117891867239",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17815340117891867239&engine=google_scholar&hl=en",
+                "cites_id": "17815340117891867239"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design space optimization of shared memory architecture in accelerator-rich systems",
+                    "author": [
+                        "M Sinha",
+                        "GS Harsha",
+                        "P Bhattacharyya"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "ACM Transactions on \u2026",
+                    "abstract": "Shared memory architectures, as opposed to private-only memories, provide a viable alternative to meet the ever-increasing memory requirements of multi-accelerator systems to achieve high performance under stringent area and energy constraints. However, an impulsive memory sharing degrades performance due to network contention and latency to access shared memory. We propose the Accelerator Shared Memory (ASM) framework to provide an optimal private/shared memory configuration and shared data allocation under a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3446001",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "",
+                    "nOWiHoUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Z-K1j3LNPPcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2BSpace%2BOptimization%2Bof%2BShared%2BMemory%2BArchitecture%2Bin%2BAccelerator-rich%2BSystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Z-K1j3LNPPcJ&ei=M1ZkYobCG8LZmQHnraWYCA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=17815340117891867239&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Z-K1j3LNPPcJ:scholar.google.com/&scioq=Design+Space+Optimization+of+Shared+Memory+Architecture+in+Accelerator-rich+Systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mitali sinha",
+                "h gade",
+                "p bhattacharyya",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Securing an Accelerator-rich System from Flooding-based Denial-of-Service Attacks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:WF5omc3nYNoC",
+            "citation_id": "tsn4SxwAAAAJ:WF5omc3nYNoC",
+            "authors": "M Sinha, P Bhattacharyya, SS Rout, N Prakriya, S Deb",
+            "publication": "IEEE Transactions on Emerging Topics in Computing (TETC), 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5490017880278986517",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5490017880278986517&engine=google_scholar&hl=en",
+                "cites_id": "5490017880278986517"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Securing an accelerator-rich system from flooding-based denial-of-service attacks",
+                    "author": [
+                        "M Sinha",
+                        "P Bhattacharyya",
+                        "SS Rout"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 on Emerging Topics \u2026",
+                    "abstract": "Increasing demand for high performance and energy efficiency along with time-to-market pressures have led to a growing number of third-party accelerators in modern System-on-Chips (SoCs). However, the third-party accelerators may introduce vulnerabilities due to malicious intent or elusive design bugs that escape through verification processes. These vulnerabilities can be exploited by various attackers which can corrupt the entire system. Flooding is one such attack that is triggered by a malicious third-party accelerator to obstruct"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9316885/",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "nOWiHoUAAAAJ",
+                    "2A34nJIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FW-SvCx2MEwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSecuring%2Ban%2BAccelerator-rich%2BSystem%2Bfrom%2BFlooding-based%2BDenial-of-Service%2BAttacks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FW-SvCx2MEwJ&ei=N1ZkYrKYDO-Sy9YPs_mY8AM&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5490017880278986517&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FW-SvCx2MEwJ:scholar.google.com/&scioq=Securing+an+Accelerator-rich+System+from+Flooding-based+Denial-of-Service+Attacks&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mitali sinha",
+                "p bhattacharyya",
+                "sidhartha sankar rout",
+                "n prakriya",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Security Threats in Channel Access Mechanism of Wireless NoC and Efficient Countermeasures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "tsn4SxwAAAAJ:eQOLeE2rZwMC",
+            "authors": "SS Rout, A Singh, SB Patil, M Sinha, S Deb",
+            "publication": "IEEE International Symposium on Circuits and Systems (ISCAS), 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9701935481094164576",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9701935481094164576&engine=google_scholar&hl=en",
+                "cites_id": "9701935481094164576"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Security Threats in Channel Access Mechanism of Wireless NoC and Efficient Countermeasures",
+                    "author": [
+                        "SS Rout",
+                        "A Singh",
+                        "SB Patil",
+                        "M Sinha"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE International \u2026",
+                    "abstract": "Wireless Network-on-Chip (WNoC) broadly adopts single channel for low overhead data transmission. Sharing of the channel among multiple wireless interfaces (WIs) is controlled by a channel access mechanism (CAM). Such CAM can be malfunctioned by a Hardware Trojan (HT) in a malicious WI or a rogue third party intellectual property (IP) core present on the same System-on-Chip (SoC). This may result in denial-of-service (DoS) or spoofing in WNoC leading to starvation of healthy WIs and under-utilization of wireless channel. Our"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9180581/",
+                "author_id": [
+                    "2A34nJIAAAAJ",
+                    "",
+                    "",
+                    "tsn4SxwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:YFBgwOoypIYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSecurity%2BThreats%2Bin%2BChannel%2BAccess%2BMechanism%2Bof%2BWireless%2BNoC%2Band%2BEfficient%2BCountermeasures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YFBgwOoypIYJ&ei=O1ZkYvXzE5GJmwGY-qmYDQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9701935481094164576&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:YFBgwOoypIYJ:scholar.google.com/&scioq=Security+Threats+in+Channel+Access+Mechanism+of+Wireless+NoC+and+Efficient+Countermeasures&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sidhartha sankar rout",
+                "amarjeet singh",
+                "sb patil",
+                "mitali sinha",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "NoC Post-Silicon Validation and Debug",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "tsn4SxwAAAAJ:_FxGoFyzp5QC",
+            "authors": "SS Rout, M Sinha, S Deb",
+            "publication": "Network-on-Chip Security and Privacy, 339-369, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "NoC Post-Silicon Validation and Debug",
+                    "author": [
+                        "SS Rout",
+                        "M Sinha",
+                        "S Deb"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Network-on-Chip Security and Privacy",
+                    "abstract": "Network-on-Chip (NoC) is popularly used for interconnecting multiple cores in modern System-on-Chips (SoCs). The design intricacy of NoC is growing with the increasing complexity of SoCs. This results in multiple bugs being present on the interconnect module even after the pre-silicon verification stage. Hence, efficient post-silicon debug mechanisms should be employed to detect the skipped bugs and provide an error-free NoC. This chapter highlights different steps involved in the NoC post-silicon validation and debug process such"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-69131-8_13",
+                "author_id": [
+                    "2A34nJIAAAAJ",
+                    "tsn4SxwAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:32lgcNpPcIQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNoC%2BPost-Silicon%2BValidation%2Band%2BDebug%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=32lgcNpPcIQJ&ei=PlZkYoSRNfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:32lgcNpPcIQJ:scholar.google.com/&scioq=NoC+Post-Silicon+Validation+and+Debug&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sidhartha sankar rout",
+                "mitali sinha",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Near Threshold Last Level Cache for Energy Efficient Embedded Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tsn4SxwAAAAJ&pagesize=100&citation_for_view=tsn4SxwAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "tsn4SxwAAAAJ:YsMSGLbcyi4C",
+            "authors": "M Sinha, SS Rout, SH Gade, S Deb",
+            "publication": "2018 Ninth International Green and Sustainable Computing Conference (IGSC), 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Near Threshold Last Level Cache for Energy Efficient Embedded Applications",
+                    "author": [
+                        "M Sinha",
+                        "SS Rout",
+                        "SH Gade"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 Ninth International \u2026",
+                    "abstract": "State-of-the-art embedded processors find their use in several domains like vision-based and big data applications. Such applications require a huge amount of information per task, and thereby need frequent main memory accesses to perform the entire computation. In such a scenario, a bigger size last level cache (LLC) would improve the performance and throughput of the system by reducing the global miss rate and miss penalty to a large extent. But this would lead to increased power consumption due to the extended cache memory"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8752134/",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "2A34nJIAAAAJ",
+                    "rsH6pfgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:l87MGkaNqx4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNear%2BThreshold%2BLast%2BLevel%2BCache%2Bfor%2BEnergy%2BEfficient%2BEmbedded%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=l87MGkaNqx4J&ei=QVZkYtrwKoOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:l87MGkaNqx4J:scholar.google.com/&scioq=Near+Threshold+Last+Level+Cache+for+Energy+Efficient+Embedded+Applications&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mitali sinha",
+                "sidhartha sankar rout",
+                "sri harsha gade",
+                "sujay deb"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 36,
+                    "since_2017": 36
+                }
+            },
+            {
+                "h_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 1
+            },
+            {
+                "year": 2019,
+                "citations": 7
+            },
+            {
+                "year": 2020,
+                "citations": 12
+            },
+            {
+                "year": 2021,
+                "citations": 14
+            },
+            {
+                "year": 2022,
+                "citations": 2
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Sujay Deb",
+            "link": "https://scholar.google.com/citations?user=e3z7tT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e3z7tT0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "e3z7tT0AAAAJ",
+            "affiliations": "Associate Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e3z7tT0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Sidhartha Sankar Rout",
+            "link": "https://scholar.google.com/citations?user=2A34nJIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2A34nJIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2A34nJIAAAAJ",
+            "affiliations": "PhD Scholar, Indraprastha Institute of Information Technology Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2A34nJIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sri Harsha Gade",
+            "link": "https://scholar.google.com/citations?user=rsH6pfgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rsH6pfgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rsH6pfgAAAAJ",
+            "affiliations": "ARM Embedded Technologies Ltd.",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rsH6pfgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Wazir Singh",
+            "link": "https://scholar.google.com/citations?user=h60AZKYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h60AZKYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h60AZKYAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h60AZKYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Pramit Bhattacharyya",
+            "link": "https://scholar.google.com/citations?user=nOWiHoUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nOWiHoUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nOWiHoUAAAAJ",
+            "affiliations": "Ph.D. Scholar,IIT Kanpur",
+            "email": "Verified email at cse.iitk.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nOWiHoUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dr. Suman Deb",
+            "link": "https://scholar.google.com/citations?user=zYH7wmAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zYH7wmAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "zYH7wmAAAAAJ",
+            "affiliations": "Computer Science and Engineering , National institute of Technology Agartala",
+            "email": "Verified email at nita.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zYH7wmAAAAAJ&citpid=6"
+        },
+        {
+            "name": "Setu Gupta",
+            "link": "https://scholar.google.com/citations?user=hiacM48AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=hiacM48AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "hiacM48AAAAJ",
+            "affiliations": "B.Tech, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

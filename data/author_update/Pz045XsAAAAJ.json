@@ -1,0 +1,1523 @@
+{
+    "search_metadata": {
+        "id": "62574c67e815af3da92f4df6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/99eb945c89559bd6/62574c67e815af3da92f4df6.json",
+        "created_at": "2022-04-13 22:19:19 UTC",
+        "processed_at": "2022-04-13 22:19:19 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=Pz045XsAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/99eb945c89559bd6/62574c67e815af3da92f4df6.html",
+        "total_time_taken": 1.66,
+        "total_articles": 32,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "Pz045XsAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Niharika Sachdeva",
+        "affiliations": "niharikas@iiitd.ac.in",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://precog.iiitd.edu.in/people/niharika",
+        "interests": [
+            {
+                "title": "Privacy",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:privacy",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprivacy"
+            },
+            {
+                "title": "Usable Security",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:usable_security",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ausable_security"
+            },
+            {
+                "title": "Social Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_computing"
+            },
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Home is safer than the cloud!: privacy concerns for consumer cloud storage",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "Pz045XsAAAAJ:u5HHmVD_uO8C",
+            "authors": "I Ion, N Sachdeva, P Kumaraguru, S \u010capkun",
+            "publication": "Proceedings of the Seventh Symposium on Usable Privacy and Security, 13, 2011",
+            "cited_by": {
+                "value": 217,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6927357421001537926",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6927357421001537926&engine=google_scholar&hl=en",
+                "cites_id": "6927357421001537926"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Home is safer than the cloud! Privacy concerns for consumer cloud storage",
+                    "author": [
+                        "I Ion",
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "Proceedings of the Seventh \u2026",
+                    "abstract": "Several studies ranked security and privacy to be major areas of concern and impediments of cloud adoption for companies, but none have looked into end-users' attitudes and practices. Not much is known about consumers' privacy beliefs and expectations for cloud storage, such as web-mail, document and photo sharing platforms, or about users' awareness of contractual terms and conditions. We conducted 36 in-depth interviews in Switzerland and India (two countries with different privacy perceptions and expectations);"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2078827.2078845",
+                "author_id": [
+                    "pHJDGd0AAAAJ",
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hnn2Jt_qImAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHome%2Bis%2Bsafer%2Bthan%2Bthe%2Bcloud!:%2Bprivacy%2Bconcerns%2Bfor%2Bconsumer%2Bcloud%2Bstorage%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hnn2Jt_qImAJ&ei=SFZkYob0EouKmgGY1YjABQ&json=",
+                "num_citations": 217,
+                "citedby_url": "/scholar?cites=6927357421001537926&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:hnn2Jt_qImAJ:scholar.google.com/&scioq=Home+is+safer+than+the+cloud!:+privacy+concerns+for+consumer+cloud+storage&hl=en&as_sdt=0,33",
+                "eprint_url": "https://precog.iiitd.edu.in/Publications_files/a13_Sachdeva.pdf"
+            }
+        },
+        {
+            "title": "Three-way dissection of a game-captcha: Automated attacks, relay attacks, and usability",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "Pz045XsAAAAJ:IjCSPb-OGe4C",
+            "authors": "M Mohamed, N Sachdeva, M Georgescu, S Gao, N Saxena, C Zhang, ...",
+            "publication": "arXiv preprint arXiv:1310.1540, 2013",
+            "cited_by": {
+                "value": 72,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9957099682862143334,8813341970648484652",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9957099682862143334%2C8813341970648484652&engine=google_scholar&hl=en",
+                "cites_id": "9957099682862143334,8813341970648484652"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Three-way dissection of a game-captcha: Automated attacks, relay attacks, and usability",
+                    "author": [
+                        "M Mohamed",
+                        "N Sachdeva",
+                        "M Georgescu",
+                        "S Gao"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Existing captcha solutions on the Internet are a major source of user frustration. Game captchas are an interesting and, to date, little-studied approach claiming to make captcha solving a fun activity for the users. One broad form of such captchas--called Dynamic Cognitive Game (DCG) captchas--challenge the user to perform a game-like cognitive task interacting with a series of dynamic images. We pursue a comprehensive analysis of a representative category of DCG captchas. We formalize, design and implement such"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1310.1540",
+                "author_id": [
+                    "",
+                    "Pz045XsAAAAJ",
+                    "",
+                    "fbc5Z-MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LEuLxNNHT3oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThree-way%2Bdissection%2Bof%2Ba%2Bgame-captcha:%2BAutomated%2Battacks,%2Brelay%2Battacks,%2Band%2Busability%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LEuLxNNHT3oJ&ei=SlZkYqWuLJLeyQTE46-QAg&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=8813341970648484652&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LEuLxNNHT3oJ:scholar.google.com/&scioq=Three-way+dissection+of+a+game-captcha:+Automated+attacks,+relay+attacks,+and+usability&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1310.1540"
+            }
+        },
+        {
+            "title": "Privacy in India: Attitudes and Awareness V 2.0",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "Pz045XsAAAAJ:u-x6o8ySG0sC",
+            "authors": "P Kumaraguru, N Sachdeva",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9286185453565608262",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9286185453565608262&engine=google_scholar&hl=en",
+                "cites_id": "9286185453565608262"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Privacy in India: Attitudes and awareness v 2.0",
+                    "author": [
+                        "P Kumaraguru",
+                        "N Sachdeva"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "Available at SSRN 2188749",
+                    "abstract": "India, world's largest democracy, has witnessed enormous development in information technology over past few years. It has become a necessity to share personal information for every service, from getting a mobile phone connection to registering for online banking. India being a collectivist society (one of the developing countries part of BRIC nations), has different expectations of privacy than other developed nations. The concept of privacy in India has not been investigated in detail, and we also lack empirical data with respect to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2188749",
+                "author_id": [
+                    "MfzQyP8AAAAJ",
+                    "Pz045XsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:RoEtPngo34AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPrivacy%2Bin%2BIndia:%2BAttitudes%2Band%2BAwareness%2BV%2B2.0%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=RoEtPngo34AJ&ei=T1ZkYpUbjJLIBJmToeAI&json=",
+                "num_citations": 23,
+                "citedby_url": "/scholar?cites=9286185453565608262&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:RoEtPngo34AJ:scholar.google.com/&scioq=Privacy+in+India:+Attitudes+and+Awareness+V+2.0&hl=en&as_sdt=0,33",
+                "eprint_url": "https://precog.iiitd.edu.in/research/privacyindia/PI_2012_Complete_Report.pdf"
+            }
+        },
+        {
+            "title": "Call for service: Characterizing and modeling police response to serviceable requests on Facebook",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:tOudhMTPpwUC",
+            "citation_id": "Pz045XsAAAAJ:tOudhMTPpwUC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "Proceedings of the 2017 ACM Conference on Computer Supported Cooperative \u2026, 2017",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10713693411786380229",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10713693411786380229&engine=google_scholar&hl=en",
+                "cites_id": "10713693411786380229"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Call for service: Characterizing and modeling police response to serviceable requests on Facebook",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the 2017 ACM Conference \u2026",
+                    "abstract": "Social media platforms have obtained substantial interest of police to connect with residents. This has encouraged residents to report day-to-day law and order concerns such as traffic congestion, missing people, and harassment by cops on these platforms. In this paper, we study day-to-day concerns shared by residents on social media and police response to such concerns. Based on the input of police experts, we define concerns that require police response and attention, as a serviceable request. We provide insights on six textual"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2998181.2998292",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xVP4-WSvrpQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCall%2Bfor%2Bservice:%2BCharacterizing%2Band%2Bmodeling%2Bpolice%2Bresponse%2Bto%2Bserviceable%2Brequests%2Bon%2BFacebook%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xVP4-WSvrpQJ&ei=WlZkYruuLZqSy9YP8pKNsAE&json=",
+                "num_citations": 17,
+                "citedby_url": "/scholar?cites=10713693411786380229&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:xVP4-WSvrpQJ:scholar.google.com/&scioq=Call+for+service:+Characterizing+and+modeling+police+response+to+serviceable+requests+on+Facebook&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Ponnurangam-Kumaraguru/publication/313736472_Call_for_Service_Characterizing_and_Modeling_Police_Response_to_Serviceable_Requests_on_Facebook/links/59f14d600f7e9beabfca4d45/Call-for-Service-Characterizing-and-Modeling-Police-Response-to-Serviceable-Requests-on-Facebook.pdf"
+            }
+        },
+        {
+            "title": "Social networks for police and residents in India: exploring online communication for crime prevention",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "Pz045XsAAAAJ:Tiz5es2fbqcC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "2015b, In dg.o '15., 2015",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3684991573654651685",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3684991573654651685&engine=google_scholar&hl=en",
+                "cites_id": "3684991573654651685"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Social networks for police and residents in India: exploring online communication for crime prevention",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 16th Annual \u2026",
+                    "abstract": "Safety is a concern for most urban communities; residents interact in multiple ways with the police to address their safety concerns. Positive interactions with police help residents to feel safe. In developing countries, residents have started to use Online Social Networks (OSN) such as Facebook to share concerns and seek solutions. In this study, we investigate whether residents' post on OSN contain actionable information that police can use to address safety concerns and how residents use OSN to communicate with police. For this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2757401.2757420",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JUP-80-4IzMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2Bnetworks%2Bfor%2Bpolice%2Band%2Bresidents%2Bin%2BIndia:%2Bexploring%2Bonline%2Bcommunication%2Bfor%2Bcrime%2Bprevention%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JUP-80-4IzMJ&ei=X1ZkYtSONZGJmwGY-qmYDQ&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=3684991573654651685&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JUP-80-4IzMJ:scholar.google.com/&scioq=Social+networks+for+police+and+residents+in+India:+exploring+online+communication+for+crime+prevention&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.cerc.iiitd.ac.in/publications_files/Sachdeva_social_dgo_2015.pdf"
+            }
+        },
+        {
+            "title": "Social networks for police and residents in India: exploring online communication for crime prevention",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:XiSMed-E-HIC",
+            "citation_id": "Pz045XsAAAAJ:XiSMed-E-HIC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "2015b, In dg.o '15., 2015",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3684991573654651685",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3684991573654651685&engine=google_scholar&hl=en",
+                "cites_id": "3684991573654651685"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Social networks for police and residents in India: exploring online communication for crime prevention",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 16th Annual \u2026",
+                    "abstract": "Safety is a concern for most urban communities; residents interact in multiple ways with the police to address their safety concerns. Positive interactions with police help residents to feel safe. In developing countries, residents have started to use Online Social Networks (OSN) such as Facebook to share concerns and seek solutions. In this study, we investigate whether residents' post on OSN contain actionable information that police can use to address safety concerns and how residents use OSN to communicate with police. For this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2757401.2757420",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JUP-80-4IzMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2Bnetworks%2Bfor%2Bpolice%2Band%2Bresidents%2Bin%2BIndia:%2Bexploring%2Bonline%2Bcommunication%2Bfor%2Bcrime%2Bprevention%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JUP-80-4IzMJ&ei=ZFZkYq_ULuiSy9YPp-OyiAE&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=3684991573654651685&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JUP-80-4IzMJ:scholar.google.com/&scioq=Social+networks+for+police+and+residents+in+India:+exploring+online+communication+for+crime+prevention&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.cerc.iiitd.ac.in/publications_files/Sachdeva_social_dgo_2015.pdf"
+            }
+        },
+        {
+            "title": "Online Social Media and Police in India: Behavior, Perceptions, Challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:xtRiw3GOFMkC",
+            "citation_id": "Pz045XsAAAAJ:xtRiw3GOFMkC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "arXiv preprint arXiv:1403.2042, 2014",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=685669991529784044,4836669481312712219",
+                "serpapi_link": "https://serpapi.com/search.json?cites=685669991529784044%2C4836669481312712219&engine=google_scholar&hl=en",
+                "cites_id": "685669991529784044,4836669481312712219"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Online Social Media and Police in India: Behavior, Perceptions, Challenges",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "arXiv preprint arXiv:1403.2042",
+                    "abstract": "Police agencies across the globe are increasingly using Online Social Media (OSM) to acquire intelligence and connect with citizens. Developed nations have well thought of strategies to use OSM for policing. However, developing nations like India are exploring and evolving OSM as a policing solution. India, in recent years, experienced many events where rumors and fake content on OSM instigated communal violence. In contrast to traditional media (eg television and print media) used by Indian police departments, OSM offers"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1403.2042",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:G_adeURNH0MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOnline%2BSocial%2BMedia%2Band%2BPolice%2Bin%2BIndia:%2BBehavior,%2BPerceptions,%2BChallenges%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=G_adeURNH0MJ&ei=aFZkYrHrOeiSy9YPp-OyiAE&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=4836669481312712219&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:G_adeURNH0MJ:scholar.google.com/&scioq=Online+Social+Media+and+Police+in+India:+Behavior,+Perceptions,+Challenges&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1403.2042"
+            }
+        },
+        {
+            "title": "From camera to deathbed: Understanding dangerous selfies on social media",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:vRqMK49ujn8C",
+            "citation_id": "Pz045XsAAAAJ:vRqMK49ujn8C",
+            "authors": "H Lamba, V Bharadhwaj, M Vachher, D Agarwal, M Arora, N Sachdeva, ...",
+            "publication": "Proceedings of the International AAAI Conference on Web and Social Media 11 \u2026, 2017",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3810054241268703138",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3810054241268703138&engine=google_scholar&hl=en",
+                "cites_id": "3810054241268703138"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "From camera to deathbed: Understanding dangerous selfies on social media",
+                    "author": [
+                        "H Lamba",
+                        "V Bharadhwaj",
+                        "M Vachher"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Selfie culture has emerged as a ubiquitous instrument for self portrayal in recent years. To portray themselves differently and attractive to others, individuals may risk their life by clicking selfies in dangerous situations. Consequently, selfies have claimed 137 lives around the world since March 2014 until December 2016. In this work, we perform a comprehensiv analysis of the reported selfie-casualties and note various reasons behind these deaths. We perform an in-depth analysis of such selfies posted on social media to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ojs.aaai.org/index.php/ICWSM/article/view/14956",
+                "author_id": [
+                    "nuW3M98AAAAJ",
+                    "vOzG08oAAAAJ",
+                    "wk8HdgkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:op_KWSUI4DQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFrom%2Bcamera%2Bto%2Bdeathbed:%2BUnderstanding%2Bdangerous%2Bselfies%2Bon%2Bsocial%2Bmedia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=op_KWSUI4DQJ&ei=bFZkYqCoOJqSy9YP8pKNsAE&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=3810054241268703138&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:op_KWSUI4DQJ:scholar.google.com/&scioq=From+camera+to+deathbed:+Understanding+dangerous+selfies+on+social+media&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ojs.aaai.org/index.php/ICWSM/article/download/14956/14806"
+            }
+        },
+        {
+            "title": "On the security and usability of dynamic cognitive game CAPTCHAs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:08ZZubdj9fEC",
+            "citation_id": "Pz045XsAAAAJ:08ZZubdj9fEC",
+            "authors": "M Mohamed, S Gao, N Sachdeva, N Saxena, C Zhang, P Kumaraguru, ...",
+            "publication": "Journal of Computer Security 25 (3), 205-230, 2017",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3149943485560049057",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3149943485560049057&engine=google_scholar&hl=en",
+                "cites_id": "3149943485560049057"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the security and usability of dynamic cognitive game CAPTCHAs",
+                    "author": [
+                        "M Mohamed",
+                        "S Gao",
+                        "N Sachdeva"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Journal of \u2026",
+                    "abstract": "Existing CAPTCHA solutions are a major source of user frustration on the Internet today, frequently forcing companies to lose customers and business. Game CAPTCHAs are a promising approach which may make CAPTCHA solving a fun activity for the user. One category of such CAPTCHAs\u2013called Dynamic Cognitive Game (DCG) CAPTCHA\u2013challenges the user to perform a game-like cognitive (or recognition) task interacting with a series of dynamic images. Specifically, it takes the form of many objects floating around"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://content.iospress.com/articles/journal-of-computer-security/jcs16847",
+                "author_id": [
+                    "",
+                    "fbc5Z-MAAAAJ",
+                    "Pz045XsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oc1cN-nYtisJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bthe%2Bsecurity%2Band%2Busability%2Bof%2Bdynamic%2Bcognitive%2Bgame%2BCAPTCHAs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oc1cN-nYtisJ&ei=dFZkYtW1MOiSy9YPp-OyiAE&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=3149943485560049057&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:oc1cN-nYtisJ:scholar.google.com/&scioq=On+the+security+and+usability+of+dynamic+cognitive+game+CAPTCHAs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Ponnurangam-Kumaraguru/publication/316572562_On_the_security_and_usability_of_dynamic_cognitive_game_CAPTCHAs/links/6090e798a6fdccaebd075d6a/On-the-security-and-usability-of-dynamic-cognitive-game-CAPTCHAs.pdf"
+            }
+        },
+        {
+            "title": "Stop the killfies! using deep learning models to identify dangerous selfies",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:B3FOqHPlNUQC",
+            "citation_id": "Pz045XsAAAAJ:B3FOqHPlNUQC",
+            "authors": "V Nanda, H Lamba, D Agarwal, M Arora, N Sachdeva, P Kumaraguru",
+            "publication": "Companion Proceedings of the The Web Conference 2018, 1341-1345, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17592133944975946442",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17592133944975946442&engine=google_scholar&hl=en",
+                "cites_id": "17592133944975946442"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Stop the killfies! using deep learning models to identify dangerous selfies",
+                    "author": [
+                        "V Nanda",
+                        "H Lamba",
+                        "D Agarwal",
+                        "M Arora"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Proceedings of the The \u2026",
+                    "abstract": "Selfies have become a prominent medium for self-portrayal on social media. Unfortunately, certain social media users go to extreme lengths to click selfies, which puts their lives at risk. Two hundred and sixteen individuals have died since March 2014 until January 2018 while trying to click selfies. It is imperative to be able to identify dangerous selfies posted on social media platforms to be able to build an intervention for users going to extreme lengths for clicking such selfies. In this work, we propose a convolutional neural network based"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3184558.3191575",
+                "author_id": [
+                    "9GfPrCsAAAAJ",
+                    "nuW3M98AAAAJ",
+                    "HSLyHrcAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:yvJhp53QI_QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStop%2Bthe%2Bkillfies!%2Busing%2Bdeep%2Blearning%2Bmodels%2Bto%2Bidentify%2Bdangerous%2Bselfies%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yvJhp53QI_QJ&ei=eVZkYs_gIpLeyQTE46-QAg&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=17592133944975946442&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yvJhp53QI_QJ:scholar.google.com/&scioq=Stop+the+killfies!+using+deep+learning+models+to+identify+dangerous+selfies&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3184558.3191575"
+            }
+        },
+        {
+            "title": "Social media and policing: computational approaches to enhancing collaborative action between residents and law enforcement",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:tS2w5q8j5-wC",
+            "citation_id": "Pz045XsAAAAJ:tS2w5q8j5-wC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1740409163290543950",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1740409163290543950&engine=google_scholar&hl=en",
+                "cites_id": "1740409163290543950"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Social media and policing: computational approaches to enhancing collaborative action between residents and law enforcement",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "Law and order concerns are one of the major disquiets of urban societies in day-to-day life. Various crime prevention theories show the importance of collaboration between residents and police for maintaining law and order and addressing concerns. Collaborative action across public organizations such as police shows different challenges like enabling collective action, problem-solving, accountability, and responsiveness of the organizational actors towards residents. To enable collective action and problem solving with the help of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/509",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TofEteksJxgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2Bmedia%2Band%2Bpolicing:%2Bcomputational%2Bapproaches%2Bto%2Benhancing%2Bcollaborative%2Baction%2Bbetween%2Bresidents%2Band%2Blaw%2Benforcement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TofEteksJxgJ&ei=fVZkYvrzA46pywTd4KPADw&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=1740409163290543950&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:TofEteksJxgJ:scholar.google.com/&scioq=Social+media+and+policing:+computational+approaches+to+enhancing+collaborative+action+between+residents+and+law+enforcement&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Social media for safety: Characterizing online interactions between citizens and police",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:OU6Ihb5iCvQC",
+            "citation_id": "Pz045XsAAAAJ:OU6Ihb5iCvQC",
+            "authors": "N Sachdeva, P Kumaraguru, M De Choudhury",
+            "publication": "Proceedings of the 30th International BCS Human Computer Interaction \u2026, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3821141243362797691",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3821141243362797691&engine=google_scholar&hl=en",
+                "cites_id": "3821141243362797691"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Social media for safety: Characterizing online interactions between citizens and police",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the 30th \u2026",
+                    "abstract": "Social media has emerged as a promising resource for police to connect with citizens for collective action. However the attributes of police citizen interactions on social media remain under-explored. In this paper, we utilise official and public Facebook pages of several police departments in India to study the patterns of engagement, emotions, and social processes between citizens and police in the context of day-to-day policing. We examine two prominent discussion threads: police initiated and citizen initiated. We find that topics exchanged in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.scienceopen.com/hosted-document?doi=10.14236/ewic/HCI2016.29",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:e-g7L7drBzUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2Bmedia%2Bfor%2Bsafety:%2BCharacterizing%2Bonline%2Binteractions%2Bbetween%2Bcitizens%2Band%2Bpolice%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=e-g7L7drBzUJ&ei=gVZkYr7BD4ySyASZk6HgCA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=3821141243362797691&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:e-g7L7drBzUJ:scholar.google.com/&scioq=Social+media+for+safety:+Characterizing+online+interactions+between+citizens+and+police&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.scienceopen.com/document_file/719caf08-1910-41eb-9b16-7f75af77b196/ScienceOpen/001_Sachdeva.pdf"
+            }
+        },
+        {
+            "title": "On the Viability of CAPTCHAs for Use in Telephony Systems: A Usability Field Study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "Pz045XsAAAAJ:zYLM7Y9cAGgC",
+            "authors": "N Sachdeva, N Saxena, P Kumaraguru",
+            "publication": "ISC, 2013",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17854869852915910601",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17854869852915910601&engine=google_scholar&hl=en",
+                "cites_id": "17854869852915910601"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the viability of captchas for use in telephony systems: a usability field study",
+                    "author": [
+                        "N Sachdeva",
+                        "N Saxena",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Information Security",
+                    "abstract": "Telephony systems are imperative for information exchange offering low cost services and reachability to millions of customers. They have not only benefited legitimate users but have also opened up a convenient communication medium for spammers. Voice spam is often encountered on telephony systems in various forms, such as by means of an automated telemarketing call asking to call a number to win a reward. A large percentage of voice spam is generated through automated system which introduces the classical challenge of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-27659-5_19",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "_x5BEjoAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:yUfiNYg9yfcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bthe%2BViability%2Bof%2BCAPTCHAs%2Bfor%2BUse%2Bin%2BTelephony%2BSystems:%2BA%2BUsability%2BField%2BStudy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yUfiNYg9yfcJ&ei=hVZkYpnKI4OEmgHx-5DADA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=17854869852915910601&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yUfiNYg9yfcJ:scholar.google.com/&scioq=On+the+Viability+of+CAPTCHAs+for+Use+in+Telephony+Systems:+A+Usability+Field+Study&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Niharika-Sachdeva-2/publication/295399206_On_the_viability_of_CAPTCHAs_for_use_in_telephony_systems/links/58b722f0a6fdcc2d14d70173/On-the-viability-of-CAPTCHAs-for-use-in-telephony-systems.pdf"
+            }
+        },
+        {
+            "title": "Con2kg-a large-scale domain-specific knowledge graph",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:8AbLer7MMksC",
+            "citation_id": "Pz045XsAAAAJ:8AbLer7MMksC",
+            "authors": "N Goyal, N Sachdeva, V Choudhary, R Kar, P Kumaraguru, N Rajput",
+            "publication": "Proceedings of the 30th ACM Conference on Hypertext and Social Media, 287-288, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1710355854538101049",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1710355854538101049&engine=google_scholar&hl=en",
+                "cites_id": "1710355854538101049"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Con2kg-a large-scale domain-specific knowledge graph",
+                    "author": [
+                        "N Goyal",
+                        "N Sachdeva",
+                        "V Choudhary",
+                        "R Kar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the 30th \u2026",
+                    "abstract": "This paper presents Con2KG, a large-scale recruitment domain Knowledge Graph that describes 4 million triples as facts from 250 thousands of unstructured data of job postings. We propose a novel framework for Knowledge Graph construction from unstructured text and an unsupervised, dynamically evolving ontology that helps Con2KG to capture hierarchical links between the entities missed by explicit relational facts in the triples. To enrich our graph, we include entity context and its polarity. Towards this end, we discuss"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3342220.3344931",
+                "author_id": [
+                    "w8_U-EgAAAAJ",
+                    "Pz045XsAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:OdFAfZZnvBcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCon2kg-a%2Blarge-scale%2Bdomain-specific%2Bknowledge%2Bgraph%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OdFAfZZnvBcJ&ei=iVZkYuW-FpLeyQTE46-QAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=1710355854538101049&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:OdFAfZZnvBcJ:scholar.google.com/&scioq=Con2kg-a+large-scale+domain-specific+knowledge+graph&hl=en&as_sdt=0,33",
+                "eprint_url": "https://precog.iiitd.edu.in/pubs/2019_Con2KG.pdf"
+            }
+        },
+        {
+            "title": "Empowering first responders through automated multimodal content moderation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:sSrBHYA8nusC",
+            "citation_id": "Pz045XsAAAAJ:sSrBHYA8nusC",
+            "authors": "D Gupta, I Sen, N Sachdeva, P Kumaraguru, AB Buduru",
+            "publication": "2018 IEEE International Conference on Cognitive Computing (ICCC), 1-8, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13823403671409331786",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13823403671409331786&engine=google_scholar&hl=en",
+                "cites_id": "13823403671409331786"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Empowering first responders through automated multimodal content moderation",
+                    "author": [
+                        "D Gupta",
+                        "I Sen",
+                        "N Sachdeva"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE \u2026",
+                    "abstract": "Social media enables users to spread information and opinions, including in times of crisis events such as riots, protests or uprisings. Sensitive event-related content can lead to repercussions in the real world. Therefore it is crucial for first responders, such as law enforcement agencies, to have ready access, and the ability to monitor the propagation of such content. Obstacles to easy access include a lack of automatic moderation tools targeted for first responders. Efforts are further complicated by the multimodal nature of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8457689/",
+                "author_id": [
+                    "YNg9Sg8AAAAJ",
+                    "qXzr-p8AAAAJ",
+                    "Pz045XsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Sg4vTWaY1r8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEmpowering%2Bfirst%2Bresponders%2Bthrough%2Bautomated%2Bmultimodal%2Bcontent%2Bmoderation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Sg4vTWaY1r8J&ei=jFZkYr2HIoOEmgHx-5DADA&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=13823403671409331786&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Sg4vTWaY1r8J:scholar.google.com/&scioq=Empowering+first+responders+through+automated+multimodal+content+moderation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://precog.iiitd.edu.in/pubs/empowering-first-responders.pdf"
+            }
+        },
+        {
+            "title": "Social Media-New Face of Collaborative Policing?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:WbkHhVStYXYC",
+            "citation_id": "Pz045XsAAAAJ:WbkHhVStYXYC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "International Conference on Social Computing and Social Media, 221-233, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12357957746116034676",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12357957746116034676&engine=google_scholar&hl=en",
+                "cites_id": "12357957746116034676"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Social Media-New Face of Collaborative Policing?",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 on Social Computing and Social Media",
+                    "abstract": "Online social media (OSM) has become a preferred choice of police to communicate and collaborate with citizens for improved safety. Various studies investigate perceptions and opinion of high ranked police officers on use of OSM in policing, however, understanding and perceptions of field level police personnel is largely unexplored. We collected survey responses of 445 police personnel and 204 citizens' survey in India to understand perceptions on OSN use for policing. Further, we analyzed posts from Facebook pages of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-39910-2_21",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dICIRhhJgKsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2BMedia-New%2BFace%2Bof%2BCollaborative%2BPolicing%253F%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dICIRhhJgKsJ&ei=kVZkYorHMY6pywTd4KPADw&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=12357957746116034676&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dICIRhhJgKsJ:scholar.google.com/&scioq=Social+Media-New+Face+of+Collaborative+Policing%3F&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-319-39910-2_21"
+            }
+        },
+        {
+            "title": "Characterising Behavior and Emotions on Social Media for Safety: Exploring Online Communication between Police and Citizens",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:uWQEDVKXjbEC",
+            "citation_id": "Pz045XsAAAAJ:uWQEDVKXjbEC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "arXiv preprint arXiv:1509.08205, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11073977656537155768",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11073977656537155768&engine=google_scholar&hl=en",
+                "cites_id": "11073977656537155768"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Characterising Behavior and Emotions on Social Media for Safety: Exploring Online Communication between Police and Citizens",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "arXiv preprint arXiv:1509.08205",
+                    "abstract": "Increased use of social media by police to connect with citizens has encouraged researchers to study different aspects of information exchange (eg type of information, credibility and propagation) during emergency and crisis situation. Research studies lack understanding of human behavior such as engagement, emotions and social interaction between citizen and police department on social media. Several social media studies explore and show technological implications of human behavioral aspects in various"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1509.08205",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uIiClAGsrpkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCharacterising%2BBehavior%2Band%2BEmotions%2Bon%2BSocial%2BMedia%2Bfor%2BSafety:%2BExploring%2BOnline%2BCommunication%2Bbetween%2BPolice%2Band%2BCitizens%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uIiClAGsrpkJ&ei=mVZkYoO8L-iSy9YPp-OyiAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=11073977656537155768&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:uIiClAGsrpkJ:scholar.google.com/&scioq=Characterising+Behavior+and+Emotions+on+Social+Media+for+Safety:+Exploring+Online+Communication+between+Police+and+Citizens&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1509.08205"
+            }
+        },
+        {
+            "title": "Canonicalizing knowledge bases for recruitment domain",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:LPZeul_q3PIC",
+            "citation_id": "Pz045XsAAAAJ:LPZeul_q3PIC",
+            "authors": "N Fatma, V Choudhary, N Sachdeva, N Rajput",
+            "publication": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 500-513, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16046809725293648715",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16046809725293648715&engine=google_scholar&hl=en",
+                "cites_id": "16046809725293648715"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Canonicalizing knowledge bases for recruitment domain",
+                    "author": [
+                        "N Fatma",
+                        "V Choudhary",
+                        "N Sachdeva"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Pacific-Asia Conference on \u2026",
+                    "abstract": "Online recruitment industry holds large amount of user-generated content in the form of job postings, resumes etc. This content finds its way in the knowledge bases (KB) causing duplicate and non-standard representations of entities (like company names, institute names, designations, skills etc.) These non-standard entity representations impact various applications such as search, recommendations and information retrieval. Therefore, KB canonicalization ie, mapping multiple references of same entities into unique clusters is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-47436-2_38",
+                "author_id": [
+                    "E0IMwmwAAAAJ",
+                    "",
+                    "Pz045XsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:S1tp7my4sd4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCanonicalizing%2Bknowledge%2Bbases%2Bfor%2Brecruitment%2Bdomain%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=S1tp7my4sd4J&ei=nlZkYsmsAoyuyAT-mrWwCA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=16046809725293648715&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:S1tp7my4sd4J:scholar.google.com/&scioq=Canonicalizing+knowledge+bases+for+recruitment+domain&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-030-47436-2_38"
+            }
+        },
+        {
+            "title": "PicHunt: Social Media Image Retrieval for Improved Law Enforcement",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:738O_yMBCRsC",
+            "citation_id": "Pz045XsAAAAJ:738O_yMBCRsC",
+            "authors": "S Goel, N Sachdeva, P Kumaraguru, AV Subramanyam, D Gupta",
+            "publication": "International Conference on Social Informatics, 206-223, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14368662046966754855",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14368662046966754855&engine=google_scholar&hl=en",
+                "cites_id": "14368662046966754855"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "PicHunt: Social Media Image Retrieval for Improved Law Enforcement",
+                    "author": [
+                        "S Goel",
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 Conference on Social \u2026",
+                    "abstract": "First responders are increasingly using social media to identify and reduce crime for well-being and safety of the society. Images shared on social media hurting religious, political, communal and other sentiments of people, often instigate violence and create law & order situations in society. This results in the need for first responders to inspect the spread of such images and users propagating them on social media. In this paper, we present a comparison between different hand-crafted features and a Convolutional Neural Network"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-47880-7_13",
+                "author_id": [
+                    "XzeXPZ8AAAAJ",
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Jy4X1wC-Z8cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPicHunt:%2BSocial%2BMedia%2BImage%2BRetrieval%2Bfor%2BImproved%2BLaw%2BEnforcement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Jy4X1wC-Z8cJ&ei=oVZkYuXGI5qSy9YP8pKNsAE&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=14368662046966754855&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Jy4X1wC-Z8cJ:scholar.google.com/&scioq=PicHunt:+Social+Media+Image+Retrieval+for+Improved+Law+Enforcement&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1608.00905;2"
+            }
+        },
+        {
+            "title": "Deriving requirements for social media based community policing: insights from police",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:u9iWguZQMMsC",
+            "citation_id": "Pz045XsAAAAJ:u9iWguZQMMsC",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "publication": "2015b, In dg.o '15, 2015",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3610514633876839928",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3610514633876839928&engine=google_scholar&hl=en",
+                "cites_id": "3610514633876839928"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Deriving requirements for social media based community policing: insights from police",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 16th Annual \u2026",
+                    "abstract": "Community policing helps curb high crime rate and overcome limited police resources. The success of community policing depends on active citizen participation. Previous research shows Online Social Networks (OSN) such as Facebook encourage active citizen participation during law and order situations. However, little is known about role of OSN in developing community relations between police and citizens. Developing countries such as India have limited police personnel which increases the need of community policing. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2757401.2757452",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-B2UIO4fGzIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDeriving%2Brequirements%2Bfor%2Bsocial%2Bmedia%2Bbased%2Bcommunity%2Bpolicing:%2Binsights%2Bfrom%2Bpolice%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-B2UIO4fGzIJ&ei=pVZkYtyVE86E6rQP5-KmKA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=3610514633876839928&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-B2UIO4fGzIJ:scholar.google.com/&scioq=Deriving+requirements+for+social+media+based+community+policing:+insights+from+police&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Canonicalizing organization names for recruitment domain",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:5Ul4iDaHHb8C",
+            "citation_id": "Pz045XsAAAAJ:5Ul4iDaHHb8C",
+            "authors": "N Fatma, N Sachdeva, N Rajput",
+            "publication": "Proceedings of the 7th ACM IKDD CoDS and 25th COMAD, 296-301, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17660751547569322085",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17660751547569322085&engine=google_scholar&hl=en",
+                "cites_id": "17660751547569322085"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Canonicalizing organization names for recruitment domain",
+                    "author": [
+                        "N Fatma",
+                        "N Sachdeva",
+                        "N Rajput"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the 7th ACM IKDD \u2026",
+                    "abstract": "Online recruitment industry relies on various Knowledge Bases (KB) for enabling search and recommendation systems. These KBs comprise of diverse, non-standard, and large volume of named-entities as they are created from vast unstructured user-generated content (mostly CVs). Such non-standard representation of each entity causes significant vocabulary gap in KB which results in redundancy incompleteness, and ambiguity in the retrieved information. The problem is even more challenging in domains where external sources of context do not"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3371158.3371203",
+                "author_id": [
+                    "E0IMwmwAAAAJ",
+                    "Pz045XsAAAAJ",
+                    "2f4HU1gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ZbhMO_aXF_UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCanonicalizing%2Borganization%2Bnames%2Bfor%2Brecruitment%2Bdomain%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZbhMO_aXF_UJ&ei=qFZkYoCjC5yO6rQP_qe3mAs&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=17660751547569322085&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ZbhMO_aXF_UJ:scholar.google.com/&scioq=Canonicalizing+organization+names+for+recruitment+domain&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Confidentiality protection in crowdsourcing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:geHnlv5EZngC",
+            "citation_id": "Pz045XsAAAAJ:geHnlv5EZngC",
+            "authors": "S Saxena, P Kumaraguru, A Dubey, AB Buduru, N Sachdeva",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9993344438931966514",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9993344438931966514&engine=google_scholar&hl=en",
+                "cites_id": "9993344438931966514"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Confidentiality protection in crowdsourcing",
+                    "author": [
+                        "S Saxena",
+                        "P Kumaraguru",
+                        "A Dubey",
+                        "AB Buduru"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "Crowdsourcing is the practice of getting information or input for a task or project from a number of people by floating out the task at hand to a pool of people who are usually not full-time employees. Use of Crowdsourcing to get work done is on the rise due to the benefits that it offers. Trends and surveys show that the conventional workforce is moving towards gig-economy, and by 2020, 43% of the US workforce is expected to be on-demand workforce [9]. In our work, we focus on higher level software development/engineering tasks and how they"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/628",
+                "author_id": [
+                    "",
+                    "MfzQyP8AAAAJ",
+                    "LaNPPAcAAAAJ",
+                    "TmGAyPYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Mkqq-NF9r4oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConfidentiality%2Bprotection%2Bin%2Bcrowdsourcing%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Mkqq-NF9r4oJ&ei=qlZkYp7KF-iSy9YPp-OyiAE&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9993344438931966514&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Mkqq-NF9r4oJ:scholar.google.com/&scioq=Confidentiality+protection+in+crowdsourcing&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/628/2013104_Simran.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Privacy4ICTD in India: Exploring Perceptions, Attitudes and Awareness about ICT Use.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:1sJd4Hv_s6UC",
+            "citation_id": "Pz045XsAAAAJ:1sJd4Hv_s6UC",
+            "authors": "P Kumaraguru, N Sachdeva",
+            "publication": "arXiv:1410.3942, 2014",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5336019789156913861",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5336019789156913861&engine=google_scholar&hl=en",
+                "cites_id": "5336019789156913861"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Privacy4ICTD in India: Exploring Perceptions, Attitudes and Awareness about ICT Use",
+                    "author": [
+                        "P Kumaraguru",
+                        "N Sachdeva"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "arXiv preprint arXiv:1410.3942",
+                    "abstract": "Several ICT studies give anecdotal evidences showing privacy to be an area of concern that can influence adoption of technology in the developing world. However, in-depth understanding of end users' privacy attitudes and awareness is largely unexplored in developing countries such as India. We conducted a survey with 10,427 Indian citizens to bring forth various insights on privacy expectations and perceptions of end users. Our study explores end-users' privacy expectations on three ICT platforms-mobile phones, OSN"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1410.3942",
+                "author_id": [
+                    "MfzQyP8AAAAJ",
+                    "Pz045XsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xRInD7pZDUoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPrivacy4ICTD%2Bin%2BIndia:%2BExploring%2BPerceptions,%2BAttitudes%2Band%2BAwareness%2Babout%2BICT%2BUse.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xRInD7pZDUoJ&ei=rVZkYtuaJ8LZmQHnraWYCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5336019789156913861&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:xRInD7pZDUoJ:scholar.google.com/&scioq=Privacy4ICTD+in+India:+Exploring+Perceptions,+Attitudes+and+Awareness+about+ICT+Use.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1410.3942"
+            }
+        },
+        {
+            "title": "ChaMAILeon: Exploring the Usability of a Privacy Preserving Email Sharing System",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "Pz045XsAAAAJ:UeHWp8X0CEIC",
+            "authors": "P Dewan, N Sachdeva, M Gupta, P Kumaraguru",
+            "publication": "arXiv preprint arXiv:1306.0195, 2013",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9760373938653836791",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9760373938653836791&engine=google_scholar&hl=en",
+                "cites_id": "9760373938653836791"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ChaMAILeon: Exploring the Usability of a Privacy Preserving Email Sharing System",
+                    "author": [
+                        "P Dewan",
+                        "N Sachdeva",
+                        "M Gupta"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "While passwords, by definition, are meant to be secret, recent trends have witnessed an increasing number of people sharing their email passwords with friends, colleagues, and significant others. However, leading websites like Google advise their users not to share their passwords with anyone, to avoid security and privacy breaches. To understand users' general password sharing behavior and practices, we conducted an online survey with 209 Indian participants and found that 64.35% of the participants felt a need to share their email"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1306.0195",
+                "author_id": [
+                    "Oob67YsAAAAJ",
+                    "Pz045XsAAAAJ",
+                    "r8ldB0QAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9zVxcGLQc4cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChaMAILeon:%2BExploring%2Bthe%2BUsability%2Bof%2Ba%2BPrivacy%2BPreserving%2BEmail%2BSharing%2BSystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9zVxcGLQc4cJ&ei=sVZkYvH8HJyO6rQP_qe3mAs&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9760373938653836791&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9zVxcGLQc4cJ:scholar.google.com/&scioq=ChaMAILeon:+Exploring+the+Usability+of+a+Privacy+Preserving+Email+Sharing+System&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1306.0195"
+            }
+        },
+        {
+            "title": "KCNet: Kernel-based Canonicalization Network for entities in Recruitment Domain",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:VOx2b1Wkg3QC",
+            "citation_id": "Pz045XsAAAAJ:VOx2b1Wkg3QC",
+            "authors": "N Goyal, N Sachdeva, A Goel, JS Kalra, P Kumaraguru",
+            "publication": "International Conference on Artificial Neural Networks, 157-169, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "KCNet: Kernel-based Canonicalization Network for entities in Recruitment Domain",
+                    "author": [
+                        "N Goyal",
+                        "N Sachdeva",
+                        "A Goel",
+                        "JS Kalra"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 Conference on Artificial \u2026",
+                    "abstract": "Online recruitment platforms have abundant user-generated content in the form of job postings, candidate, and company profiles. This content when ingested into Knowledge bases causes redundant, ambiguous, and noisy entities. These multiple (non-standardized) representation of the entities deteriorates the performance of downstream tasks such as job recommender systems, search systems, and question answering. Therefore, making it imperative to canonicalize the entities to improve the performance of such tasks. Recent"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-86340-1_13",
+                "author_id": [
+                    "w8_U-EgAAAAJ",
+                    "Pz045XsAAAAJ",
+                    "hCC11qIAAAAJ",
+                    "DapRgUkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:r8E8IBOUKogJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKCNet:%2BKernel-based%2BCanonicalization%2BNetwork%2Bfor%2Bentities%2Bin%2BRecruitment%2BDomain%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=r8E8IBOUKogJ&ei=tFZkYse7E4ySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:r8E8IBOUKogJ:scholar.google.com/&scioq=KCNet:+Kernel-based+Canonicalization+Network+for+entities+in+Recruitment+Domain&hl=en&as_sdt=0,33",
+                "eprint_url": "https://precog.iiitd.edu.in/pubs/2021_July_KCNet.pdf"
+            }
+        },
+        {
+            "title": "Spy the Lie: Fraudulent Jobs Detection in Recruitment Domain using Knowledge Graphs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:fQNAKQ3IYiAC",
+            "citation_id": "Pz045XsAAAAJ:fQNAKQ3IYiAC",
+            "authors": "N Goyal, N Sachdeva, P Kumaraguru",
+            "publication": "International Conference on Knowledge Science, Engineering and Management \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Spy the Lie: Fraudulent Jobs Detection in Recruitment Domain using Knowledge Graphs",
+                    "author": [
+                        "N Goyal",
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "International Conference on \u2026",
+                    "abstract": "Fraudulent jobs are an emerging threat over online recruitment platforms such as LinkedIn, Glassdoor. Fraudulent job postings affect the platform's trustworthiness and have a negative impact on user experience. Therefore, these platforms need to detect and remove these fraudulent jobs. Generally, fraudulent job postings contain untenable facts about domain-specific entities such as mismatch in skills, industries, offered compensation, etc. However, existing approaches focus on studying writing styles, linguistics, and context-based features"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-82147-0_50",
+                "author_id": [
+                    "w8_U-EgAAAAJ",
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zusJXg0EB90J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpy%2Bthe%2BLie:%2BFraudulent%2BJobs%2BDetection%2Bin%2BRecruitment%2BDomain%2Busing%2BKnowledge%2BGraphs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zusJXg0EB90J&ei=t1ZkYrzYKc6E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:zusJXg0EB90J:scholar.google.com/&scioq=Spy+the+Lie:+Fraudulent+Jobs+Detection+in+Recruitment+Domain+using+Knowledge+Graphs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://precog.iiitd.edu.in/pubs/2021_June_Spy_the_lie.pdf"
+            }
+        },
+        {
+            "title": "Social Media Policy for Policing in India (Working Draft)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:P5F9QuxV20EC",
+            "citation_id": "Pz045XsAAAAJ:P5F9QuxV20EC",
+            "authors": "P Kumaraguru, N Sachdeva",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Social Media Policy for Policing in India (Working Draft)",
+                    "author": [
+                        "P Kumaraguru",
+                        "N Sachdeva"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "NA",
+                    "abstract": "Police departments across the globe are increasingly connecting with citizens using Online Social Media (OSM) pages and profiles to use it for law and order related issues. For instance, the Boston Police Department started updating people about Boston bombing on Twitter more than 10 minutes before the national media started reporting about it [1]. OSM has also helped citizens to connect and provide timely information to police. Thousands of citizens in developed countries post content and follow police departments such as Boston"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://cerc.iiitd.ac.in/publications_files/final_OSN_policy_draft.pdf",
+                "author_id": [
+                    "MfzQyP8AAAAJ",
+                    "Pz045XsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qSAsC6D_se8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSocial%2BMedia%2BPolicy%2Bfor%2BPolicing%2Bin%2BIndia%2B(Working%2BDraft)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qSAsC6D_se8J&ei=wlZkYsSVHJyO6rQP_qe3mAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:qSAsC6D_se8J:scholar.google.com/&scioq=Social+Media+Policy+for+Policing+in+India+(Working+Draft)&hl=en&as_sdt=0,33",
+                "eprint_url": "http://cerc.iiitd.ac.in/publications_files/final_OSN_policy_draft.pdf"
+            }
+        },
+        {
+            "title": "Police on Facebook: Improving Online Public Communication for Police and Residents",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:KxtntwgDAa4C",
+            "citation_id": "Pz045XsAAAAJ:KxtntwgDAa4C",
+            "authors": "N Sachdeva, P Kumaraguru",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Police on Facebook: Improving Online Public Communication for Police and Residents",
+                    "author": [
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Safety is a concern for most urban communities in developing countries; residents interact in multiple ways with the police to address their concerns. Positive interaction with police help residents to feel safe. Residents extensively use OSN such as Facebook to share concerns and seek solutions. In this study, we investigate if police can use OSN to obtain actionable information for addressing resident concerns and how police uses OSN to communicate with residents. To understand this aim, we analyze resident's posts and comments on the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://cerc.iiitd.ac.in/spsymp15/papers/16.pdf",
+                "author_id": [
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Yjr_XMfuFMwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolice%2Bon%2BFacebook:%2BImproving%2BOnline%2BPublic%2BCommunication%2Bfor%2BPolice%2Band%2BResidents%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Yjr_XMfuFMwJ&ei=z1ZkYqnlEfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Yjr_XMfuFMwJ:scholar.google.com/&scioq=Police+on+Facebook:+Improving+Online+Public+Communication+for+Police+and+Residents&hl=en&as_sdt=0,33",
+                "eprint_url": "http://cerc.iiitd.ac.in/spsymp15/papers/16.pdf"
+            }
+        },
+        {
+            "title": "ChaMAILeon: Usable email sharing like never before!",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:qjMakFHDy7sC",
+            "citation_id": "Pz045XsAAAAJ:qjMakFHDy7sC",
+            "authors": "P Dewan, N Sachdeva, P Kumaraguru",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ChaMAILeon: Usable email sharing like never before!",
+                    "author": [
+                        "P Dewan",
+                        "N Sachdeva",
+                        "P Kumaraguru"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "While passwords, by definition, are meant to be secret, recent trends in the Internet usage have witnessed an increasing number of people sharing their email passwords for both personal and professional purposes. As sharing passwords increases the chances of your passwords being compromised, leading websites like Google strongly advise their users not to share their passwords with anyone. We conducted an online survey with 228 participants to study users' general password sharing trends, and found that 62.72% participants felt a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://precog.iiitd.edu.in/events/spsymposium13/SPSymposium_files/SPsymposium-papers/SPsymposium-paper10.pdf",
+                "author_id": [
+                    "Oob67YsAAAAJ",
+                    "Pz045XsAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-gZjjrcypo4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChaMAILeon:%2BUsable%2Bemail%2Bsharing%2Blike%2Bnever%2Bbefore!%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-gZjjrcypo4J&ei=0lZkYpSaKMLZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:-gZjjrcypo4J:scholar.google.com/&scioq=ChaMAILeon:+Usable+email+sharing+like+never+before!&hl=en&as_sdt=0,33",
+                "eprint_url": "https://precog.iiitd.edu.in/events/spsymposium13/SPSymposium_files/SPsymposium-papers/SPsymposium-paper10.pdf"
+            }
+        },
+        {
+            "title": "Project NICK",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "Pz045XsAAAAJ:2osOgNQ5qMEC",
+            "authors": "N Sachdeva, P Dewan",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Project Nick: meetings augmentation and analysis",
+                    "author": [
+                        "P Cook",
+                        "C Ellis",
+                        "M Graf",
+                        "G Rein",
+                        "T Smith"
+                    ],
+                    "pub_year": "1987",
+                    "venue": "ACM Transactions on \u2026",
+                    "abstract": "In this research effort, called Project Nick, we are theorizing  ideas and implementations within  Project Nick. Section 2  that captures the essence of our Nick project and system. Section 4"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/27636.27638",
+                "author_id": [
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:KrhKUB53H_gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProject%2BNICK%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KrhKUB53H_gJ&ei=11ZkYqq7N86E6rQP5-KmKA&json=",
+                "num_citations": 146,
+                "citedby_url": "/scholar?cites=17879140017763956778&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KrhKUB53H_gJ:scholar.google.com/&scioq=Project+NICK&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Project Documentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "Pz045XsAAAAJ:9yKSN-GCB0IC",
+            "authors": "N Sachdeva, P Dewan, G Saluja",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Co-evolution of project documentation and popularity within github",
+                    "author": [
+                        "K Aggarwal",
+                        "A Hindle",
+                        "E Stroulia"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "\u2026 of the 11th working conference on \u2026",
+                    "abstract": "In this paper, we study the effect of these social interactions on project documentation. We  examined the  RQ1: How does the popularity of a project correlate with its documentation?"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2597073.2597120",
+                "author_id": [
+                    "vc4CIMQAAAAJ",
+                    "vuT1ZlUAAAAJ",
+                    "TyM1dLwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cE6lEXyTTU8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProject%2BDocumentation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cE6lEXyTTU8J&ei=3FZkYvCBOeiSy9YPp-OyiAE&json=",
+                "num_citations": 65,
+                "citedby_url": "/scholar?cites=5714385663284301424&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cE6lEXyTTU8J:scholar.google.com/&scioq=Project+Documentation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://softwareprocess.es/pubs/aggarwal2014MSR-documentation.pdf"
+            }
+        },
+        {
+            "title": "Project Plan",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Pz045XsAAAAJ&pagesize=100&citation_for_view=Pz045XsAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "Pz045XsAAAAJ:d1gkVwhDpl0C",
+            "authors": "N Sachdeva, P Dewan, G Saluja",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "CMB-S4 science case, reference design, and project plan",
+                    "author": [
+                        "K Abazajian",
+                        "G Addison",
+                        "P Adshead",
+                        "Z Ahmed"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "This document presents the science case, Reference Design, and project plan for the  Stage-4 ground-based cosmic microwave background experiment CMB-S4. CMB-S4 was"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1907.04473",
+                "author_id": [
+                    "gx1V-rkAAAAJ",
+                    "QI40T1kAAAAJ",
+                    "",
+                    "hXDuulsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Vfl_CSpl7cQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProject%2BPlan%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Vfl_CSpl7cQJ&ei=4VZkYtm7BLKO6rQPy-CRsA8&json=",
+                "num_citations": 160,
+                "citedby_url": "/scholar?cites=14190109232136714581&as_sdt=5,33&sciodt=0,33&hl=en",
+                "eprint_url": "https://arxiv.org/pdf/1907.04473"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 424,
+                    "since_2017": 237
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2012,
+                "citations": 13
+            },
+            {
+                "year": 2013,
+                "citations": 32
+            },
+            {
+                "year": 2014,
+                "citations": 47
+            },
+            {
+                "year": 2015,
+                "citations": 37
+            },
+            {
+                "year": 2016,
+                "citations": 50
+            },
+            {
+                "year": 2017,
+                "citations": 57
+            },
+            {
+                "year": 2018,
+                "citations": 46
+            },
+            {
+                "year": 2019,
+                "citations": 44
+            },
+            {
+                "year": 2020,
+                "citations": 48
+            },
+            {
+                "year": 2021,
+                "citations": 37
+            },
+            {
+                "year": 2022,
+                "citations": 5
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Pz045XsAAAAJ",
+        "available": 4,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Ponnurangam Kumaraguru \"PK\"",
+            "link": "https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MfzQyP8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "MfzQyP8AAAAJ",
+            "affiliations": "#ProfGiri Computer Science @ IIIT Hyderabad, Alumni @ Carnegie Mellon & @ BITS Pilani",
+            "email": "Verified email at iiit.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MfzQyP8AAAAJ&citpid=4"
+        },
+        {
+            "name": "Nitesh Saxena",
+            "link": "https://scholar.google.com/citations?user=_x5BEjoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_x5BEjoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_x5BEjoAAAAJ",
+            "affiliations": "Full Professor at the Texas A&M University",
+            "email": "Verified email at tamu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_x5BEjoAAAAJ&citpid=3"
+        },
+        {
+            "name": "chengcui zhang",
+            "link": "https://scholar.google.com/citations?user=TGeMLQcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TGeMLQcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "TGeMLQcAAAAJ",
+            "affiliations": "university of alabama, florida international university",
+            "email": "Verified email at uab.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TGeMLQcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Paul C. van Oorschot",
+            "link": "https://scholar.google.com/citations?user=CMRzTi8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=CMRzTi8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "CMRzTi8AAAAJ",
+            "affiliations": "Professor of Computer Science, Carleton University, Canada",
+            "email": "Verified email at scs.carleton.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=CMRzTi8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Iulia Ion",
+            "link": "https://scholar.google.com/citations?user=pHJDGd0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pHJDGd0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "pHJDGd0AAAAJ",
+            "affiliations": "Google",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pHJDGd0AAAAJ&citpid=2"
+        },
+        {
+            "name": "Srdjan Capkun (Sr\u0111an \u010capkun)",
+            "link": "https://scholar.google.com/citations?user=VtkPBNsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VtkPBNsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VtkPBNsAAAAJ",
+            "affiliations": "Professor of Computer Science, ETH Zurich",
+            "email": "Verified email at inf.ethz.ch",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VtkPBNsAAAAJ&citpid=4"
+        },
+        {
+            "name": "Munmun De Choudhury",
+            "link": "https://scholar.google.com/citations?user=Z9Pfp6UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Z9Pfp6UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Z9Pfp6UAAAAJ",
+            "affiliations": "Georgia Institute of Technology",
+            "email": "Verified email at gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Z9Pfp6UAAAAJ&citpid=3"
+        }
+    ]
+}

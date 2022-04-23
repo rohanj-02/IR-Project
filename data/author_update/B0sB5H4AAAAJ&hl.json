@@ -1,0 +1,442 @@
+{
+    "search_metadata": {
+        "id": "62574cfed04d6da0dc7e69b4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/222fa358070f35cc/62574cfed04d6da0dc7e69b4.json",
+        "created_at": "2022-04-13 22:21:50 UTC",
+        "processed_at": "2022-04-13 22:21:50 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=B0sB5H4AAAAJ&hl&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/222fa358070f35cc/62574cfed04d6da0dc7e69b4.html",
+        "total_time_taken": 0.22,
+        "total_articles": 7,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "B0sB5H4AAAAJ&hl",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Deepika Yadav",
+        "affiliations": "Stockholm University, Sweden",
+        "email": "Verified email at dsv.su.se",
+        "website": "https://deepikay.wixsite.com/deepika",
+        "interests": [
+            {
+                "title": "HCI",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:hci",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahci"
+            },
+            {
+                "title": "ICT4D",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ict4d",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aict4d"
+            },
+            {
+                "title": "Public Health",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:public_health",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apublic_health"
+            },
+            {
+                "title": "Women's Health",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:women%27s_health",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awomen%2527s_health"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=B0sB5H4AAAAJ&citpid=11"
+    },
+    "articles": [
+        {
+            "title": "A real-time ivr platform for community radio",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0sB5H4AAAAJ&pagesize=100&citation_for_view=B0sB5H4AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "B0sB5H4AAAAJ:u5HHmVD_uO8C",
+            "authors": "K Kazakos, S Asthana, M Balaam, M Duggal, A Holden, L Jamir, ...",
+            "publication": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems \u2026, 2016",
+            "cited_by": {
+                "value": 56,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6001848587306826238",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6001848587306826238&engine=google_scholar&hl=en",
+                "cites_id": "6001848587306826238"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A real-time ivr platform for community radio",
+                    "author": [
+                        "K Kazakos",
+                        "S Asthana",
+                        "M Balaam",
+                        "M Duggal"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Interactive Voice Response (IVR) platforms have been widely deployed in resource-limited settings. These systems tend to afford asynchronous push interactions, and within the context of health, provide medication reminders, descriptions of symptoms and tips on self-management. Here, we present the development of an IVR system for resource-limited settings that enables real-time, synchronous interaction. Inspired by community radio, and calls for health systems that are truly local, we developed\" Sehat ki Vaani\". Sehat ki"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2858036.2858585",
+                "author_id": [
+                    "P3fwxPQAAAAJ",
+                    "AEhI7SMAAAAJ",
+                    "kzZWAf0AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:_nkasn3ZSlMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Breal-time%2Bivr%2Bplatform%2Bfor%2Bcommunity%2Bradio%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_nkasn3ZSlMJ&ei=_1dkYoTlA_mQ6rQP5OqKqAo&json=",
+                "num_citations": 57,
+                "citedby_url": "/scholar?cites=6001848587306826238&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_nkasn3ZSlMJ:scholar.google.com/&scioq=A+real-time+ivr+platform+for+community+radio&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/2858036.2858585"
+            }
+        },
+        {
+            "title": "Sangoshthi Empowering Community Health Workers through Peer Learning in Rural India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0sB5H4AAAAJ&pagesize=100&citation_for_view=B0sB5H4AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "B0sB5H4AAAAJ:2osOgNQ5qMEC",
+            "authors": "D Yadav, P Singh, K Montague, V Kumar, D Sood, M Balaam, D Sharma, ...",
+            "publication": "Proceedings of the 26th International Conference on World Wide Web, 499-508, 2017",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9047784012994334862",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9047784012994334862&engine=google_scholar&hl=en",
+                "cites_id": "9047784012994334862"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sangoshthi Empowering Community Health Workers through Peer Learning in Rural India",
+                    "author": [
+                        "D Yadav",
+                        "P Singh",
+                        "K Montague",
+                        "V Kumar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the 26th \u2026",
+                    "abstract": "The Healthcare system of India provides outreach services to the rural population with a key focus on the maternal and child health through its flagship program of Community Health Workers (CHWs). The program since its launch has reached a scale of over 900000 health workers across the country and observed significant benefits on the health indicators. However, traditional face to face training mechanisms face persistent challenge in providing adequate training and capacity building opportunities to CHWs which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3038912.3052624",
+                "author_id": [
+                    "B0sB5H4AAAAJ",
+                    "FniYr_MAAAAJ",
+                    "TJE7Ee4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:jlD8Yp8vkH0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSangoshthi%2BEmpowering%2BCommunity%2BHealth%2BWorkers%2Bthrough%2BPeer%2BLearning%2Bin%2BRural%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jlD8Yp8vkH0J&ei=ClhkYqnOCYuKmgGY1YjABQ&json=",
+                "num_citations": 40,
+                "citedby_url": "/scholar?cites=9047784012994334862&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jlD8Yp8vkH0J:scholar.google.com/&scioq=Sangoshthi+Empowering+Community+Health+Workers+through+Peer+Learning+in+Rural+India&hl=en&as_sdt=0,33",
+                "eprint_url": "https://research.monash.edu/files/261156367/257927358_oa.pdf"
+            }
+        },
+        {
+            "title": "Feedpal: Understanding opportunities for chatbots in breastfeeding education of women in india",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0sB5H4AAAAJ&pagesize=100&citation_for_view=B0sB5H4AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "B0sB5H4AAAAJ:M3ejUd6NZC8C",
+            "authors": "D Yadav, P Malik, K Dabas, P Singh",
+            "publication": "Proceedings of the ACM on Human-Computer Interaction 3 (CSCW), 1-30, 2019",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17597881947909385396",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17597881947909385396&engine=google_scholar&hl=en",
+                "cites_id": "17597881947909385396"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Feedpal: Understanding opportunities for chatbots in breastfeeding education of women in india",
+                    "author": [
+                        "D Yadav",
+                        "P Malik",
+                        "K Dabas",
+                        "P Singh"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026 of the ACM on Human-Computer \u2026",
+                    "abstract": "Use of chatbots in different spheres of life is continuously increasing since a couple of years. We attempt to understand the potential of chatbots for breastfeeding education by conducting an Wizard-of-Oz experiment with 22 participants. Our participants included breastfeeding mothers and community health workers from the slum areas of Delhi, India. We prototyped our chatbot as an interactive question-answering application and analyzed users' interaction patterns, perceptions, and contexts of use. The chatbot use cases emerged"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3359272",
+                "author_id": [
+                    "B0sB5H4AAAAJ",
+                    "",
+                    "",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tOxl4GQ8OPQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFeedpal:%2BUnderstanding%2Bopportunities%2Bfor%2Bchatbots%2Bin%2Bbreastfeeding%2Beducation%2Bof%2Bwomen%2Bin%2Bindia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tOxl4GQ8OPQJ&ei=DVhkYrvOAYyuyAT-mrWwCA&json=",
+                "num_citations": 36,
+                "citedby_url": "/scholar?cites=17597881947909385396&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tOxl4GQ8OPQJ:scholar.google.com/&scioq=Feedpal:+Understanding+opportunities+for+chatbots+in+breastfeeding+education+of+women+in+india&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3359272"
+            }
+        },
+        {
+            "title": "Automatic annotation of voice forum content for rural users and evaluation of relevance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0sB5H4AAAAJ&pagesize=100&citation_for_view=B0sB5H4AAAAJ:4TOpqqG69KYC",
+            "citation_id": "B0sB5H4AAAAJ:4TOpqqG69KYC",
+            "authors": "D Yadav, M Gupta, M Chetlur, P Singh",
+            "publication": "Proceedings of the 1st ACM SIGCAS Conference on Computing and Sustainable \u2026, 2018",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15391255207747546279",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15391255207747546279&engine=google_scholar&hl=en",
+                "cites_id": "15391255207747546279"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automatic annotation of voice forum content for rural users and evaluation of relevance",
+                    "author": [
+                        "D Yadav",
+                        "M Gupta",
+                        "M Chetlur",
+                        "P Singh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the 1st ACM \u2026",
+                    "abstract": "Voice forums are an effective intervention medium for marginalized communities to access information in a structured and localized manner. Users actively contribute by posting questions and responses in the form of audio messages, and thereby help in enriching the voice forum content. In order to build an audio library using the voice forums to disseminate information, significant manual effort is needed in analyzing and curating the data. This is one of the key impediments to the successful implementation of voice forums for knowledge"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3209811.3209875",
+                "author_id": [
+                    "B0sB5H4AAAAJ",
+                    "r8ldB0QAAAAJ",
+                    "CtbBVS4AAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:p2wsqRC5mNUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomatic%2Bannotation%2Bof%2Bvoice%2Bforum%2Bcontent%2Bfor%2Brural%2Busers%2Band%2Bevaluation%2Bof%2Brelevance%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=p2wsqRC5mNUJ&ei=GFhkYu6bAuiSy9YPp-OyiAE&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=15391255207747546279&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:p2wsqRC5mNUJ:scholar.google.com/&scioq=Automatic+annotation+of+voice+forum+content+for+rural+users+and+evaluation+of+relevance&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~deepikay/publications/AAVF.pdf"
+            }
+        },
+        {
+            "title": "LEAP: Scaffolding collaborative learning of community health workers in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0sB5H4AAAAJ&pagesize=100&citation_for_view=B0sB5H4AAAAJ:_kc_bZDykSQC",
+            "citation_id": "B0sB5H4AAAAJ:_kc_bZDykSQC",
+            "authors": "D Yadav, A Bhandari, P Singh",
+            "publication": "Proceedings of the ACM on Human-Computer Interaction 3 (CSCW), 1-27, 2019",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1856710648679889258",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1856710648679889258&engine=google_scholar&hl=en",
+                "cites_id": "1856710648679889258"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "LEAP: Scaffolding collaborative learning of community health workers in India",
+                    "author": [
+                        "D Yadav",
+                        "A Bhandari",
+                        "P Singh"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the ACM on Human \u2026",
+                    "abstract": "Despite a crucial role in providing public health services, Community Health Workers (CHWs) remain disadvantaged in receiving effective skill-building opportunities. Due to the lack of health experts and appropriate infrastructure, it becomes challenging to provide training on a regular basis. Our aim is to investigate opportunities for designing technology-supported collaborative learning to compensate for the limited availability of instructors. We designed a mobile learning-based peer-led educational intervention, and conducted an"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3359271",
+                "author_id": [
+                    "B0sB5H4AAAAJ",
+                    "",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:avk_aX9cxBkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLEAP:%2BScaffolding%2Bcollaborative%2Blearning%2Bof%2Bcommunity%2Bhealth%2Bworkers%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=avk_aX9cxBkJ&ei=I1hkYqqcFIuKmgGY1YjABQ&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=1856710648679889258&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:avk_aX9cxBkJ:scholar.google.com/&scioq=LEAP:+Scaffolding+collaborative+learning+of+community+health+workers+in+India&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3359271"
+            }
+        },
+        {
+            "title": "Low-Cost Mobile Learning Solutions for Community Health Workers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0sB5H4AAAAJ&pagesize=100&citation_for_view=B0sB5H4AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "B0sB5H4AAAAJ:d1gkVwhDpl0C",
+            "authors": "D Yadav",
+            "publication": "Proceedings of the 26th International Conference on World Wide Web Companion \u2026, 2017",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3868482346929852646",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3868482346929852646&engine=google_scholar&hl=en",
+                "cites_id": "3868482346929852646"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Low-Cost Mobile Learning Solutions for Community Health Workers",
+                    "author": [
+                        "D Yadav"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the 26th International Conference on \u2026",
+                    "abstract": "Accredited Social Health Activists in India play a critical role in improving the access to healthcare services of rural populations. Despite their key contribution in Millennium Development Goals, they receive inadequate training and supervision. Traditional face to face training face challenges of infrastructure, management and cost. Existing research studies have highlighted the potential of alternative approaches eg mHealth for capacity building, however so far they mainly focus on providing job aids only."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3041021.3053377",
+                "author_id": [
+                    "B0sB5H4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5pCfzDKcrzUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLow-Cost%2BMobile%2BLearning%2BSolutions%2Bfor%2BCommunity%2BHealth%2BWorkers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5pCfzDKcrzUJ&ei=J1hkYtuyI5qSy9YP8pKNsAE&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=3868482346929852646&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5pCfzDKcrzUJ:scholar.google.com/&scioq=Low-Cost+Mobile+Learning+Solutions+for+Community+Health+Workers&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~deepikay/publications/WWWPhDSymposium_final.pdf"
+            }
+        },
+        {
+            "title": "Illustrating the Gaps and Needs in the Training Support of Community Health Workers in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0sB5H4AAAAJ&pagesize=100&citation_for_view=B0sB5H4AAAAJ:4DMP91E08xMC",
+            "citation_id": "B0sB5H4AAAAJ:4DMP91E08xMC",
+            "authors": "D Yadav, P Malik, K Dabas, P Singh",
+            "publication": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Illustrating the Gaps and Needs in the Training Support of Community Health Workers in India",
+                    "author": [
+                        "D Yadav",
+                        "P Malik",
+                        "K Dabas",
+                        "P Singh"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 of the 2021 CHI Conference on \u2026",
+                    "abstract": "In India and other developing countries, Community Health Workers (CHWs) provide the first line of care in delivering necessary maternal and child health services. In this work, we assess the training and skill-building needs of CHWs, through a mobile-based training intervention deployed for six months to 500 CHWs for conducting 144 training sessions in rural India. We qualitatively probed 1178 questions, asked by CHWs, during training sessions, and conducted a content analysis of the learning material provided to CHWs"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445111",
+                "author_id": [
+                    "B0sB5H4AAAAJ",
+                    "",
+                    "",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vcQLyGXS6rUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIllustrating%2Bthe%2BGaps%2Band%2BNeeds%2Bin%2Bthe%2BTraining%2BSupport%2Bof%2BCommunity%2BHealth%2BWorkers%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vcQLyGXS6rUJ&ei=KlhkYpniKeiSy9YPp-OyiAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:vcQLyGXS6rUJ:scholar.google.com/&scioq=Illustrating+the+Gaps+and+Needs+in+the+Training+Support+of+Community+Health+Workers+in+India&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/fullHtml/10.1145/3411764.3445111"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 158,
+                    "since_2017": 157
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 9
+            },
+            {
+                "year": 2018,
+                "citations": 13
+            },
+            {
+                "year": 2019,
+                "citations": 58
+            },
+            {
+                "year": 2020,
+                "citations": 24
+            },
+            {
+                "year": 2021,
+                "citations": 48
+            },
+            {
+                "year": 2022,
+                "citations": 5
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=B0sB5H4AAAAJ",
+        "available": 4,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Pushpendra Singh",
+            "link": "https://scholar.google.com/citations?user=FniYr_MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FniYr_MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FniYr_MAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FniYr_MAAAAJ&citpid=3"
+        },
+        {
+            "name": "Patrick Olivier",
+            "link": "https://scholar.google.com/citations?user=YULFeN0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YULFeN0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YULFeN0AAAAJ",
+            "affiliations": "Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YULFeN0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Madeline Balaam",
+            "link": "https://scholar.google.com/citations?user=kzZWAf0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kzZWAf0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "kzZWAf0AAAAJ",
+            "affiliations": "Associate Professor in Interaction Design, KTH",
+            "email": "Verified email at kth.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kzZWAf0AAAAJ&citpid=1"
+        }
+    ]
+}

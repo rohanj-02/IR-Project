@@ -1,0 +1,502 @@
+{
+    "search_metadata": {
+        "id": "62574c7ef716ee8f1f81724c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d65e0d94adaa2f47/62574c7ef716ee8f1f81724c.json",
+        "created_at": "2022-04-13 22:19:42 UTC",
+        "processed_at": "2022-04-13 22:19:42 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=DDPIAM4AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/d65e0d94adaa2f47/62574c7ef716ee8f1f81724c.html",
+        "total_time_taken": 0.54,
+        "total_articles": 9,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "DDPIAM4AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sneihil Gopal",
+        "affiliations": "Postdoctoral Researcher, Georgetown University| International Associate, NIST, Gaithersburg, MD",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://sites.google.com/iiitd.ac.in/sneihilgopal/home?authuser=1",
+        "interests": [
+            {
+                "title": "Game Theory",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:game_theory",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agame_theory"
+            },
+            {
+                "title": "Age of Information",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:age_of_information",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aage_of_information"
+            },
+            {
+                "title": "Wireless Network Optimization",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_network_optimization",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_network_optimization"
+            },
+            {
+                "title": "Dynamic Spectrum Sharing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:dynamic_spectrum_sharing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adynamic_spectrum_sharing"
+            },
+            {
+                "title": "Network Economics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_economics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_economics"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=DDPIAM4AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "A game theoretic approach to DSRC and WiFi coexistence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "DDPIAM4AAAAJ:u-x6o8ySG0sC",
+            "authors": "S Gopal, SK Kaul",
+            "publication": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications Workshops \u2026, 2018",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3455465547388174275",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3455465547388174275&engine=google_scholar&hl=en",
+                "cites_id": "3455465547388174275"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A game theoretic approach to DSRC and WiFi coexistence",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE INFOCOM 2018-IEEE Conference on \u2026",
+                    "abstract": "We model the coexistence of DSRC and WiFi networks as a strategic form game with the networks as the players. Nodes in a DSRC network must support messaging of status updates that are time sensitive. Such nodes would like to achieve a small age of information of status updates. In contrast, nodes in a WiFi network would like to achieve large throughputs. Each network chooses a medium access probability to be used by all its nodes. We investigate Nash and Stackelberg equilibrium strategies."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8406967/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wz-shZtH9C8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bgame%2Btheoretic%2Bapproach%2Bto%2BDSRC%2Band%2BWiFi%2Bcoexistence%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wz-shZtH9C8J&ei=lVlkYsj3L_mQ6rQP5OqKqAo&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=3455465547388174275&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wz-shZtH9C8J:scholar.google.com/&scioq=A+game+theoretic+approach+to+DSRC+and+WiFi+coexistence&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1803.00552"
+            }
+        },
+        {
+            "title": "Coexistence of age and throughput optimizing networks: A game theoretic approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "DDPIAM4AAAAJ:IjCSPb-OGe4C",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi",
+            "publication": "2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile \u2026, 2019",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11237571783950625148",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11237571783950625148&engine=google_scholar&hl=en",
+                "cites_id": "11237571783950625148"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence of age and throughput optimizing networks: A game theoretic approach",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE 30th Annual \u2026",
+                    "abstract": "Real-time monitoring applications have Internet-of-Things (IoT) devices sense and communicate information (status updates) to a monitoring facility. Such applications desire the status updates available at the monitor to be fresh and would like to minimize the age of delivered updates. Networks of such devices may share wireless spectrum with WiFi networks. Often, they use a CSMA/CA based medium access similar to WiFi. However, unlike them, a WiFi network would like to provide high throughputs for its users. We model"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8904150/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fGlUkP_f85sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bof%2Bage%2Band%2Bthroughput%2Boptimizing%2Bnetworks:%2BA%2Bgame%2Btheoretic%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fGlUkP_f85sJ&ei=mVlkYq68OfmQ6rQP5OqKqAo&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=11237571783950625148&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fGlUkP_f85sJ:scholar.google.com/&scioq=Coexistence+of+age+and+throughput+optimizing+networks:+A+game+theoretic+approach&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1901.07226"
+            }
+        },
+        {
+            "title": "A non-cooperative multiple access game for timely updates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "DDPIAM4AAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi, S Roy",
+            "publication": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops \u2026, 2020",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14908236644012638234",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14908236644012638234&engine=google_scholar&hl=en",
+                "cites_id": "14908236644012638234"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A non-cooperative multiple access game for timely updates",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE INFOCOM 2020 \u2026",
+                    "abstract": "We consider a network of selfish nodes that would like to minimize the age of their updates at the other nodes. The nodes send their updates over a shared spectrum using a CSMA/CA based access mechanism. We model the resulting competition as a non-cooperative one-shot multiple access game and investigate equilibrium strategies for two distinct medium access settings (a) collisions are shorter than successful transmissions and (b) collisions are longer. We investigate competition in a CSMA/CA slot, where a node may choose to transmit"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9162886/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GsDVkT2y5M4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bnon-cooperative%2Bmultiple%2Baccess%2Bgame%2Bfor%2Btimely%2Bupdates%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GsDVkT2y5M4J&ei=nllkYu0i75LL1g-z-ZjwAw&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=14908236644012638234&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GsDVkT2y5M4J:scholar.google.com/&scioq=A+non-cooperative+multiple+access+game+for+timely+updates&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2001.08850"
+            }
+        },
+        {
+            "title": "Coexistence of Age and Throughput Optimizing Networks: A Spectrum Sharing Game",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "DDPIAM4AAAAJ:W7OEmFMy1HYC",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi, S Roy",
+            "publication": "https://arxiv.org/pdf/1909.02863v3.pdf, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14831096950788939289",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14831096950788939289&engine=google_scholar&hl=en",
+                "cites_id": "14831096950788939289"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence of age and throughput optimizing networks: A spectrum sharing game",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE/ACM Transactions \u2026",
+                    "abstract": "We investigate the coexistence of an age optimizing network (AON) and a throughput optimizing network (TON) that share a common spectrum band. We consider two modes of long run coexistence:(a) networks compete with each other for spectrum access, causing them to interfere and (b) networks cooperate to achieve non-interfering access. To model competition, we define a non-cooperative stage game parameterized by the average age of the AON at the beginning of the stage, derive its mixed strategy Nash equilibrium (MSNE)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9393507/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GV4nJRmk0s0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bof%2BAge%2Band%2BThroughput%2BOptimizing%2BNetworks:%2BA%2BSpectrum%2BSharing%2BGame%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GV4nJRmk0s0J&ei=oVlkYu6JLOiSy9YPp-OyiAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=14831096950788939289&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GV4nJRmk0s0J:scholar.google.com/&scioq=Coexistence+of+Age+and+Throughput+Optimizing+Networks:+A+Spectrum+Sharing+Game&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1909.02863"
+            }
+        },
+        {
+            "title": "Optimizing city-wide White-Fi networks in TV white spaces",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "DDPIAM4AAAAJ:2osOgNQ5qMEC",
+            "authors": "S Gopal, SK Kaul, S Roy",
+            "publication": "IEEE Transactions on Cognitive Communications and Networking 4 (4), 749-763, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16985356848484825968",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16985356848484825968&engine=google_scholar&hl=en",
+                "cites_id": "16985356848484825968"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Optimizing city-wide White-Fi networks in TV white spaces",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "S Roy"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Transactions on Cognitive \u2026",
+                    "abstract": "White-Fi refers to WiFi deployed in the TV white spaces. Unlike its ISM band counterparts, White-Fi must obey requirements that protect TV reception. As a result, optimization of citywide White-Fi networks faces the challenges of heterogeneous channel availability and link quality, over location. The former is because, at any location, channels in use by TV networks are not available for use by White-Fi. The latter is because the link quality achievable at a White-Fi receiver is determined by not only its link gain to its transmitter but"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8471209/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "acdy608AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cLsvuQ8cuOsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOptimizing%2Bcity-wide%2BWhite-Fi%2Bnetworks%2Bin%2BTV%2Bwhite%2Bspaces%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cLsvuQ8cuOsJ&ei=rVlkYvuzDZLeyQTE46-QAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=16985356848484825968&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cLsvuQ8cuOsJ:scholar.google.com/&scioq=Optimizing+city-wide+White-Fi+networks+in+TV+white+spaces&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1803.05670.pdf?sa=X&ved=2ahUKEwjXt8-7t6TnAhWIAhAIHaKoAwsQFjAIegQIBBAB"
+            }
+        },
+        {
+            "title": "Optimizing outdoor White-Fi networks in TV white spaces",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "DDPIAM4AAAAJ:9yKSN-GCB0IC",
+            "authors": "S Gopal, SK Kaul, S Roy",
+            "publication": "2016 IEEE International Conference on Communications (ICC), 1-6, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15205720358336599923",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15205720358336599923&engine=google_scholar&hl=en",
+                "cites_id": "15205720358336599923"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Optimizing outdoor White-Fi networks in TV white spaces",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "S Roy"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 IEEE International Conference \u2026",
+                    "abstract": "White-Fi networks are CSMA/CA networks that are deployed in TV white spaces. In outdoor deployments, nodes in such networks can have a communication range of several kilometers. As a result, nodes in range have heterogeneous channel gains from the TV transmitters. Also, they have heterogeneous channel gains to TV receivers. While the nodes in the network may be configured as an ad hoc network of peers or in infrastructure (access point based) mode, they use the 802.11 distributed control function (DCF) to gain access to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7511105/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "acdy608AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cxeUQBqSBdMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOptimizing%2Boutdoor%2BWhite-Fi%2Bnetworks%2Bin%2BTV%2Bwhite%2Bspaces%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cxeUQBqSBdMJ&ei=sFlkYrmmNJqSy9YP8pKNsAE&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=15205720358336599923&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cxeUQBqSBdMJ:scholar.google.com/&scioq=Optimizing+outdoor+White-Fi+networks+in+TV+white+spaces&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Coexistence between heterogeneous wireless networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "DDPIAM4AAAAJ:YsMSGLbcyi4C",
+            "authors": "S Gopal, SK Kaul",
+            "publication": "IIIT-Delhi, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence between heterogeneous wireless networks",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "NA",
+                    "abstract": "The proliferation of data-intensive applications has led to an exponential growth in wireless data traffic over the last decade. Solutions to accommodate this increase in traffic demand include (a) improvements in technology, for example, using high order modulation and coding schemes and multiple-input multiple-output (MIMO) systems,(b) network densification via deployment of small cell networks, and (c) efficient use of spectrum including spectrum refarming and spectrum sharing amongst different networks. While each solution has its own"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/844",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6-LVE-FMeqcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bbetween%2Bheterogeneous%2Bwireless%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6-LVE-FMeqcJ&ei=tFlkYqaoGM6E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:6-LVE-FMeqcJ:scholar.google.com/&scioq=Coexistence+between+heterogeneous+wireless+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/844/Sneihil%20Gopal%20PhD%20Thesis.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Coexistence of Age and Throughput Optimizing Networks: Competition vs Cooperation.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "DDPIAM4AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi, S Roy",
+            "publication": "CoRR, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence of Age and Throughput Optimizing Networks: Competition vs Cooperation.",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi",
+                        "S Roy"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ",
+                    "acdy608AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IulAuAqB6ooJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bof%2BAge%2Band%2BThroughput%2BOptimizing%2BNetworks:%2BCompetition%2Bvs%2BCooperation.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IulAuAqB6ooJ&ei=uFlkYr2hHu-Sy9YPs_mY8AM&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Welfare Analysis of Network Neutrality Regulation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DDPIAM4AAAAJ&pagesize=100&citation_for_view=DDPIAM4AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "DDPIAM4AAAAJ:d1gkVwhDpl0C",
+            "authors": "R Chaturvedi, S Gopal, SK Kaul",
+            "publication": "arXiv preprint arXiv:1811.10094, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Welfare Analysis of Network Neutrality Regulation",
+                    "author": [
+                        "R Chaturvedi",
+                        "S Gopal",
+                        "SK Kaul"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv:1811.10094",
+                    "abstract": "Consumers of Internet content typically pay an Internet Service Provider (ISP) to connect to the Internet. A content provider (CP) may charge consumers for its content or may earn via advertising revenue. In such settings, a matter of continuing debate, under the umbrella of net neutrality regulations, is whether an ISP serving a consumer may in addition charge the CPs not directly connected to the ISP for delivering their content to consumers connected to the ISP. We attempt an answer by looking at the problem through the lens of a regulator"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1811.10094",
+                "author_id": [
+                    "",
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9PUpY1ta0n8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWelfare%2BAnalysis%2Bof%2BNetwork%2BNeutrality%2BRegulation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9PUpY1ta0n8J&ei=wFlkYriFNZqSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:9PUpY1ta0n8J:scholar.google.com/&scioq=Welfare+Analysis+of+Network+Neutrality+Regulation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1811.10094"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 58,
+                    "since_2017": 58
+                }
+            },
+            {
+                "h_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 2
+            },
+            {
+                "year": 2019,
+                "citations": 7
+            },
+            {
+                "year": 2020,
+                "citations": 22
+            },
+            {
+                "year": 2021,
+                "citations": 26
+            },
+            {
+                "year": 2022,
+                "citations": 1
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Sanjit Krishnan Kaul",
+            "link": "https://scholar.google.com/citations?user=XGNQPRsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XGNQPRsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XGNQPRsAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology (IIIT-Delhi),",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XGNQPRsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rakesh Chaturvedi",
+            "link": "https://scholar.google.com/citations?user=ihcI5vIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ihcI5vIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ihcI5vIAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ihcI5vIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Sumit Roy",
+            "link": "https://scholar.google.com/citations?user=acdy608AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=acdy608AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "acdy608AAAAJ",
+            "affiliations": "U Washington",
+            "email": "Verified email at ee.washington.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

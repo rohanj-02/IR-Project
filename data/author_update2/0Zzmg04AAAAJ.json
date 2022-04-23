@@ -1,0 +1,554 @@
+{
+    "search_metadata": {
+        "id": "62574cc39c84ac99e311cc0d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/8615b91186e7c317/62574cc39c84ac99e311cc0d.json",
+        "created_at": "2022-04-13 22:20:51 UTC",
+        "processed_at": "2022-04-13 22:20:51 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=0Zzmg04AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/8615b91186e7c317/62574cc39c84ac99e311cc0d.html",
+        "total_time_taken": 1.05,
+        "total_articles": 10,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "0Zzmg04AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Megha Gaur",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "applied machine learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:applied_machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aapplied_machine_learning"
+            },
+            {
+                "title": "time series analytics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:time_series_analytics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atime_series_analytics"
+            },
+            {
+                "title": "energy analytics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:energy_analytics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenergy_analytics"
+            },
+            {
+                "title": "energy forecasting",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:energy_forecasting",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenergy_forecasting"
+            },
+            {
+                "title": "anomaly detection",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:anomaly_detection",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanomaly_detection"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=0Zzmg04AAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Disaggregating transform learning for non-intrusive load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "0Zzmg04AAAAJ:u-x6o8ySG0sC",
+            "authors": "M Gaur, A Majumdar",
+            "publication": "IEEE Access 6, 46256-46265, 2018",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12250243444003410686",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12250243444003410686&engine=google_scholar&hl=en",
+                "cites_id": "12250243444003410686"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Disaggregating transform learning for non-intrusive load monitoring",
+                    "author": [
+                        "M Gaur",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Access",
+                    "abstract": "This paper addresses the problem of energy disaggregation/non-intrusive load monitoring. It introduces a new method based on the transform learning formulation. Several recent techniques, such as discriminative sparse coding, powerlet disaggregation, and deep sparse coding, are based on the synthesis dictionary learning/sparse coding approach; ours is based on its analysis equivalent. The theoretical advantage of analysis dictionary compared to its synthesis counterpart is that the former can learn from fewer training s--this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8444965/",
+                "author_id": [
+                    "0Zzmg04AAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_pLh-4GbAaoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDisaggregating%2Btransform%2Blearning%2Bfor%2Bnon-intrusive%2Bload%2Bmonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_pLh-4GbAaoJ&ei=2GFkYs-2EuiSy9YPp-OyiAE&json=",
+                "num_citations": 35,
+                "citedby_url": "/scholar?cites=12250243444003410686&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_pLh-4GbAaoJ:scholar.google.com/&scioq=Disaggregating+transform+learning+for+non-intrusive+load+monitoring&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/6514899/08444965.pdf"
+            },
+            "processed_authors": [
+                "megha gaur",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Performance Evaluation of Techniques for Identifying Abnormal Energy Consumption in Buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "0Zzmg04AAAAJ:IjCSPb-OGe4C",
+            "authors": "M Gaur, S Makonin, I Bajic, A Majumdar",
+            "publication": "IEEE Access 7 (2169-3536), 62721-62733, 2019",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17123835631181915046",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17123835631181915046&engine=google_scholar&hl=en",
+                "cites_id": "17123835631181915046"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance evaluation of techniques for identifying abnormal energy consumption in buildings",
+                    "author": [
+                        "M Gaur",
+                        "S Makonin",
+                        "IV Baji\u0107",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Access",
+                    "abstract": "Energy consumption in buildings has steadily increased. Buildings consume more energy than necessary due to suboptimal design and operation. Apart from retro-fitting, not much can be done with the design of the existing building, but the operation of the building can be improved. Ignoring or failing to fix the faults can lead to problems like the higher cost in excess energy usage or premature component failure. At the same time understanding, identifying, and addressing abnormal energy consumption in buildings can lead to energy"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8709671/",
+                "author_id": [
+                    "0Zzmg04AAAAJ",
+                    "cneuo_UAAAAJ",
+                    "LGOUj04AAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pmPG1McVpO0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2BEvaluation%2Bof%2BTechniques%2Bfor%2BIdentifying%2BAbnormal%2BEnergy%2BConsumption%2Bin%2BBuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pmPG1McVpO0J&ei=22FkYuykK6KUy9YP_JONiAY&json=",
+                "num_citations": 26,
+                "citedby_url": "/scholar?cites=17123835631181915046&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pmPG1McVpO0J:scholar.google.com/&scioq=Performance+Evaluation+of+Techniques+for+Identifying+Abnormal+Energy+Consumption+in+Buildings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/6514899/08709671.pdf"
+            },
+            "processed_authors": [
+                "megha gaur",
+                "s makonin",
+                "i bajic",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Recurrent transform learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "0Zzmg04AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "A Majumdar, M Gupta",
+            "publication": "Neural Networks 118, 271-279, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9283672888278627658",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9283672888278627658&engine=google_scholar&hl=en",
+                "cites_id": "9283672888278627658"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Recurrent transform learning",
+                    "author": [
+                        "A Majumdar",
+                        "M Gupta"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Neural Networks",
+                    "abstract": "Variants like long-short term memory (LSTM) network and gated recurrent units (GRU) have   RNN based on the transform learning model \u2014 named recurrent transform learning (RTL). It"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0893608019301911",
+                "author_id": [
+                    "nwNIkAUAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:SrXFDE471oAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRecurrent%2Btransform%2Blearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SrXFDE471oAJ&ei=32FkYtejNc6E6rQP5-KmKA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=9283672888278627658&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:SrXFDE471oAJ:scholar.google.com/&scioq=Recurrent+transform+learning&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "angshul majumdar",
+                "m gupta"
+            ]
+        },
+        {
+            "title": "Robust supervised sparse coding for non-intrusive load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "0Zzmg04AAAAJ:9yKSN-GCB0IC",
+            "authors": "M Gupta, A Majumdar",
+            "publication": "2018 International Joint Conference on Neural Networks (IJCNN), 1-6, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6043527382764871868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6043527382764871868&engine=google_scholar&hl=en",
+                "cites_id": "6043527382764871868"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robust supervised sparse coding for non-intrusive load monitoring",
+                    "author": [
+                        "M Gupta",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 International Joint Conference on \u2026",
+                    "abstract": "Energy disaggregation is a single channel blind source separation problem where the task is to estimate the consumption of each electrical appliance given the total meter reading. A recent approach to solve this problem is to model the appliances by individual dictionaries. However prior studies based on off-the-shelf dictionary learning techniques do not account for non-linear perturbations in electrical systems. This work models such perturbations as sparse error and applies robust versions of dictionary learning for disaggregation. On top of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8489131/",
+                "author_id": [
+                    "",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vOALeCLs3lMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobust%2Bsupervised%2Bsparse%2Bcoding%2Bfor%2Bnon-intrusive%2Bload%2Bmonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vOALeCLs3lMJ&ei=6WFkYs6tIOiSy9YPp-OyiAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=6043527382764871868&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vOALeCLs3lMJ:scholar.google.com/&scioq=Robust+supervised+sparse+coding+for+non-intrusive+load+monitoring&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Megha-Gaur/publication/328400891_Robust_Supervised_Sparse_Coding_for_Non-Intrusive_Load_Monitoring/links/5d11d386299bf1547c7c7d44/Robust-Supervised-Sparse-Coding-for-Non-Intrusive-Load-Monitoring.pdf"
+            },
+            "processed_authors": [
+                "m gupta",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "One-Day-Ahead Load Forecasting using nonlinear Kalman filtering algorithms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "0Zzmg04AAAAJ:u5HHmVD_uO8C",
+            "authors": "M Gaur, A Majumdar",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2757718488226027493",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2757718488226027493&engine=google_scholar&hl=en",
+                "cites_id": "2757718488226027493"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "One-Day-Ahead Load Forecasting using nonlinear Kalman filtering algorithms",
+                    "author": [
+                        "M Gaur",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "In this paper, we consider the problem of 24-hour ahead short-term load forecasting; the formulation is based on the nonlinear Kalman filtering. Our formulation takes into account weather conditions as well as previous trends. Effects of weather as well as prior consumptions are nonlinear functions; hence our choice. We compare our proposed method with the standard Kalman filtering approach and with the state-of-the-art echo state network. Experiments are carried out on the well known REDD dataset. We show that our proposed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Megha-Gaur/publication/333994801_One-Day-Ahead_Load_Forecasting_using_nonlinear_Kalman_filtering_algorithms/links/5d11cb90299bf1547c7c7b97/One-Day-Ahead-Load-Forecasting-using-nonlinear-Kalman-filtering-algorithms.pdf",
+                "author_id": [
+                    "0Zzmg04AAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5Vc9oVpiRSYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOne-Day-Ahead%2BLoad%2BForecasting%2Busing%2Bnonlinear%2BKalman%2Bfiltering%2Balgorithms%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5Vc9oVpiRSYJ&ei=7WFkYo7kD5qSy9YP8pKNsAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=2757718488226027493&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5Vc9oVpiRSYJ:scholar.google.com/&scioq=One-Day-Ahead+Load+Forecasting+using+nonlinear+Kalman+filtering+algorithms&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Megha-Gaur/publication/333994801_One-Day-Ahead_Load_Forecasting_using_nonlinear_Kalman_filtering_algorithms/links/5d11cb90299bf1547c7c7b97/One-Day-Ahead-Load-Forecasting-using-nonlinear-Kalman-filtering-algorithms.pdf"
+            },
+            "processed_authors": [
+                "megha gaur",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Nuclear norm regularized robust dictionary learning for energy disaggregation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "0Zzmg04AAAAJ:d1gkVwhDpl0C",
+            "authors": "M Gupta, A Majumdar",
+            "publication": "2016 24th European Signal Processing Conference (EUSIPCO), 677-681, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7334400052960176914",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7334400052960176914&engine=google_scholar&hl=en",
+                "cites_id": "7334400052960176914"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Nuclear norm regularized robust dictionary learning for energy disaggregation",
+                    "author": [
+                        "M Gupta",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 24th European Signal Processing \u2026",
+                    "abstract": "The goal of this work is energy disaggregation. A recent work showed that instead of employing the usual Euclidean norm cost function for dictionary learning, better results can be achieved by learning the dictionaries in a robust fashion by employing an l 1-norm cost function; this is because energy data is corrupted by large but sparse outliers. In this work we propose to improve the robust dictionary learning approach by imposing low-rank penalty on the learned coefficients. The ensuing formulation is solved using a combination"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7760334/",
+                "author_id": [
+                    "",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:EitMJf0FyWUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNuclear%2Bnorm%2Bregularized%2Brobust%2Bdictionary%2Blearning%2Bfor%2Benergy%2Bdisaggregation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EitMJf0FyWUJ&ei=-GFkYvC9JI2ymgHg1rfQDQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7334400052960176914&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:EitMJf0FyWUJ:scholar.google.com/&scioq=Nuclear+norm+regularized+robust+dictionary+learning+for+energy+disaggregation&hl=en&as_sdt=0,33",
+                "eprint_url": "http://salsa.iiitd.edu.in/contents/angshul/2016/meghaDL.pdf"
+            },
+            "processed_authors": [
+                "m gupta",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Demand-side analytics for sustainable energy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "0Zzmg04AAAAJ:zYLM7Y9cAGgC",
+            "authors": "M Gaur, A Majumdar",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Demand-side analytics for sustainable energy",
+                    "author": [
+                        "M Gaur",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "The rapidly growing demand for energy poses one of the biggest challenges in our society. This challenge is critical not just for the power utilities but also for the environment as it leads to increased carbon footprint and climate change. There have been concerted efforts towards sustainable energy. One of the main contributions towards effective energy management is the deployment of smart grid technology, in particular including demand-side management (DSM) techniques. DSM involves tasks like non-intrusive load monitoring"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/794",
+                "author_id": [
+                    "0Zzmg04AAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5qhScezus2cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDemand-side%2Banalytics%2Bfor%2Bsustainable%2Benergy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5qhScezus2cJ&ei=BGJkYpW2A4OEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:5qhScezus2cJ:scholar.google.com/&scioq=Demand-side+analytics+for+sustainable+energy&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/794/Thesis_Megha_Gaur%20%282019%29.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "megha gaur",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Handling Missing Data and Outliers in Energy Disaggregation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "0Zzmg04AAAAJ:2osOgNQ5qMEC",
+            "authors": "M Gupta, A Majumdar",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Handling Missing Data and Outliers in Energy Disaggregation",
+                    "author": [
+                        "M Gupta",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "In this work we address two issues in energy disaggregation that are often overlooked\u2013the problem of missing data, and, the problem of outliers. The first problem arises when the smart-meter cannot transmit the readings to the server owing to malfunctioning of the WiFi. The second problem arises from transients, surges and other non-linear effects. We modify the dictionary learning based disaggregation framework to address these problems. Results on the REDD dataset shows that results indeed improve when these issues are addressed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://salsa.iiitd.edu.in/contents/megha/NILM%20paper%201%20ENERGY%20PROCEDIA.pdf",
+                "author_id": [
+                    "",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jilqLstlo1cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHandling%2BMissing%2BData%2Band%2BOutliers%2Bin%2BEnergy%2BDisaggregation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jilqLstlo1cJ&ei=B2JkYoqdGe-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:jilqLstlo1cJ:scholar.google.com/&scioq=Handling+Missing+Data+and+Outliers+in+Energy+Disaggregation&hl=en&as_sdt=0,33",
+                "eprint_url": "http://salsa.iiitd.edu.in/contents/megha/NILM%20paper%201%20ENERGY%20PROCEDIA.pdf"
+            },
+            "processed_authors": [
+                "m gupta",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Classification of crowdsourced text correction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:qjMakFHDy7sC",
+            "citation_id": "0Zzmg04AAAAJ:qjMakFHDy7sC",
+            "authors": "M Gupta, H Dutta, B Geiger",
+            "publication": "Proceedings of the Second ACM IKDD Conference on Data Sciences, 142-143, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Classification of crowdsourced text correction",
+                    "author": [
+                        "M Gupta",
+                        "H Dutta",
+                        "B Geiger"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the Second ACM IKDD \u2026",
+                    "abstract": "Optical Character Recognition (OCR) is a commonly used technique for digitizing printed material enabling them to be displayed online, searched and used in text mining applications. The text generated from OCR devices is often garbled due to variations in quality of the input paper, size and style of the font and column layout. This adversely affects retrieval effectiveness and hence techniques for cleaning the garbled text need to be improvised. This prototype system is expected to be deployed on historical newspaper"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2732587.2732619",
+                "author_id": [
+                    "",
+                    "x1TtQ9YAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:EOua31GipncJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClassification%2Bof%2Bcrowdsourced%2Btext%2Bcorrection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EOua31GipncJ&ei=C2JkYonuCZGJmwGY-qmYDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:EOua31GipncJ:scholar.google.com/&scioq=Classification+of+crowdsourced+text+correction&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Megha-Gaur/publication/299828898_Classification_of_crowdsourced_text_correction/links/5d11e1d5299bf1547c7c8120/Classification-of-crowdsourced-text-correction.pdf"
+            },
+            "processed_authors": [
+                "m gupta",
+                "h dutta",
+                "b geiger"
+            ]
+        },
+        {
+            "title": "Leveraging\" The Wisdom of the Crowds\" for Efficient Tagging and Retrieval of documents from the Historic Newspaper Archive",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0Zzmg04AAAAJ&pagesize=100&citation_for_view=0Zzmg04AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "0Zzmg04AAAAJ:UeHWp8X0CEIC",
+            "authors": "W Chan, H Dutta, M Gupta, M Pooleery",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Leveraging\" The Wisdom of the Crowds\" for Efficient Tagging and Retrieval of documents from the Historic Newspaper Archive",
+                    "author": [
+                        "W Chan",
+                        "H Dutta",
+                        "M Gupta",
+                        "M Pooleery"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "NA",
+                    "abstract": "Computers may have defeated humans in chess and arithmetic, but there are many areas where the human mind still excels such as visual cognition and language processing (Comm. of ACM, Vol 52, No 3, March 2009). If one mind is good, it has been argued that several minds are likely to be superior in certain tasks than individuals and even experts. This project aims to leverage the wisdom of the crowds (von Ahn, 2008) to collaboratively tag historical newspaper articles in the holdings of the New York Public Library (NYPL)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://caa.hcommons.org/deposits/item/hc:12067/",
+                "author_id": [
+                    "",
+                    "x1TtQ9YAAAAJ",
+                    "",
+                    "BWNkpqkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ylboEWH1XWsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLeveraging%2522%2BThe%2BWisdom%2Bof%2Bthe%2BCrowds%2522%2Bfor%2BEfficient%2BTagging%2Band%2BRetrieval%2Bof%2Bdocuments%2Bfrom%2Bthe%2BHistoric%2BNewspaper%2BArchive%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ylboEWH1XWsJ&ei=DmJkYtTTBu-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ylboEWH1XWsJ:scholar.google.com/&scioq=Leveraging%22+The+Wisdom+of+the+Crowds%22+for+Efficient+Tagging+and+Retrieval+of+documents+from+the+Historic+Newspaper+Archive&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "w chan",
+                "h dutta",
+                "m gupta",
+                "m pooleery"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 72,
+                    "since_2017": 72
+                }
+            },
+            {
+                "h_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2017,
+                "citations": 3
+            },
+            {
+                "year": 2018,
+                "citations": 9
+            },
+            {
+                "year": 2019,
+                "citations": 20
+            },
+            {
+                "year": 2020,
+                "citations": 29
+            },
+            {
+                "year": 2021,
+                "citations": 11
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=0Zzmg04AAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": []
+}

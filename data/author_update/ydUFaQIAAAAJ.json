@@ -1,0 +1,930 @@
+{
+    "search_metadata": {
+        "id": "62574c93af5af1ba5bb68219",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4b40c69a19884786/62574c93af5af1ba5bb68219.json",
+        "created_at": "2022-04-13 22:20:03 UTC",
+        "processed_at": "2022-04-13 22:20:03 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=ydUFaQIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/4b40c69a19884786/62574c93af5af1ba5bb68219.html",
+        "total_time_taken": 0.21,
+        "total_articles": 20,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "ydUFaQIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Mansi Peer",
+        "affiliations": "PhD Scholar at IIIT, Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://sites.google.com/iiitd.ac.in/mansi-peer",
+        "interests": [
+            {
+                "title": "UAV Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:uav_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Auav_networks"
+            },
+            {
+                "title": "Device-to-Device Communication",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:device_to_device_communication",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adevice_to_device_communication"
+            },
+            {
+                "title": "Cooperative relaying",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cooperative_relaying",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acooperative_relaying"
+            },
+            {
+                "title": "Energy Harvesting",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:energy_harvesting",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenergy_harvesting"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ydUFaQIAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Cooperative spectrum sharing-based relaying protocols with wireless energy harvesting cognitive user",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "ydUFaQIAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "T Kalluri, M Peer, VA Bohara, DB da Costa, US Dias",
+            "publication": "IET Communications 12 (7), 838-847, 2018",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11919122561673735184",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11919122561673735184&engine=google_scholar&hl=en",
+                "cites_id": "11919122561673735184"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cooperative spectrum sharing-based relaying protocols with wireless energy harvesting cognitive user",
+                    "author": [
+                        "T Kalluri",
+                        "M Peer",
+                        "VA Bohara",
+                        "DB da Costa"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IET \u2026",
+                    "abstract": "In this study, the authors consider an energy-constrained secondary user which harvests energy from the primary signal and forwards this latter with the guarantee of spectrum access. Two key protocols are proposed, namely time-splitting cooperative spectrum sharing (TS-CSS) and power-sharing cooperative spectrum sharing (PS-CSS), based on time splitting and power sharing at the relay, respectively. Assuming a Nakagami-m fading model, exact closed-form expressions for the outage probabilities of the primary and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/iel7/4105970/8352689/08352713.pdf",
+                "author_id": [
+                    "AeraUlMAAAAJ",
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "CVx-PHMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ECzo0tE6aaUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCooperative%2Bspectrum%2Bsharing-based%2Brelaying%2Bprotocols%2Bwith%2Bwireless%2Benergy%2Bharvesting%2Bcognitive%2Buser%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ECzo0tE6aaUJ&ei=GmBkYp_tGeiSy9YPp-OyiAE&json=",
+                "num_citations": 28,
+                "citedby_url": "/scholar?cites=11919122561673735184&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ECzo0tE6aaUJ:scholar.google.com/&scioq=Cooperative+spectrum+sharing-based+relaying+protocols+with+wireless+energy+harvesting+cognitive+user&hl=en&as_sdt=0,33",
+                "eprint_url": "/scholar?output=instlink&q=info:ECzo0tE6aaUJ:scholar.google.com/&hl=en&as_sdt=0,33&scillfp=5818729811174185292&oi=lle"
+            }
+        },
+        {
+            "title": "A hybrid spectrum sharing protocol for energy harvesting wireless sensor nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "ydUFaQIAAAAJ:u5HHmVD_uO8C",
+            "authors": "M Peer, N Jain, VA Bohara",
+            "publication": "2016 IEEE 17th International Workshop on Signal Processing Advances in \u2026, 2016",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16402266788366396086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16402266788366396086&engine=google_scholar&hl=en",
+                "cites_id": "16402266788366396086"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A hybrid spectrum sharing protocol for energy harvesting wireless sensor nodes",
+                    "author": [
+                        "M Peer",
+                        "N Jain",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 IEEE 17th International \u2026",
+                    "abstract": "In this paper, we propose a hybrid time switching and power splitting spectrum sharing protocol for energy harvesting wireless sensor nodes. Specifically, we use an approach of simultaneous energy harvesting and spectrum access to alleviate the major concerns of wireless sensor nodes such as limited power and spectrum. In the developed framework, an energy constrained sensor node adopts a time switching and power splitting based relaying protocol to harvest energy and spectrum from primary user. In exchange, it helps the primary"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7536840/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "2HpGxWoAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tirEt72OoOMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhybrid%2Bspectrum%2Bsharing%2Bprotocol%2Bfor%2Benergy%2Bharvesting%2Bwireless%2Bsensor%2Bnodes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tirEt72OoOMJ&ei=ImBkYqvxAouKmgGY1YjABQ&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=16402266788366396086&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tirEt72OoOMJ:scholar.google.com/&scioq=A+hybrid+spectrum+sharing+protocol+for+energy+harvesting+wireless+sensor+nodes&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Design and development of dual-band multi-stage RF energy harvesting circuit for low power applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "ydUFaQIAAAAJ:zYLM7Y9cAGgC",
+            "authors": "A Jolly, M Peer, VA Bohara, S Verma",
+            "publication": "2017 IEEE International Conference on Advanced Networks and \u2026, 2017",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11361482752230057836",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11361482752230057836&engine=google_scholar&hl=en",
+                "cites_id": "11361482752230057836"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design and development of dual-band multi-stage RF energy harvesting circuit for low power applications",
+                    "author": [
+                        "A Jolly",
+                        "M Peer",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE International \u2026",
+                    "abstract": "This paper presents the design and development of a dual-band multi-stage rectifier aimed at converting far field RF energy into DC voltage at low received power. The designed RF energy harvester consists of a dual-band matching network followed by a 3-stage rectifier which has been designed to work in GSM 900 MHz and Wi-Fi/Wireless LAN (WLAN) bands. It provides a peak conversion efficiency of 80% at 8 dBm received RF power at 915 MHz. The experimental results also show that the proposed dual-band rectifier can harness twice"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8384109/",
+                "author_id": [
+                    "tWF9WOQAAAAJ",
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bGdmEF4YrJ0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Band%2Bdevelopment%2Bof%2Bdual-band%2Bmulti-stage%2BRF%2Benergy%2Bharvesting%2Bcircuit%2Bfor%2Blow%2Bpower%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bGdmEF4YrJ0J&ei=KGBkYreIK-HDywSSipaYAg&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=11361482752230057836&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bGdmEF4YrJ0J:scholar.google.com/&scioq=Design+and+development+of+dual-band+multi-stage+RF+energy+harvesting+circuit+for+low+power+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/resources/Ankush.pdf"
+            }
+        },
+        {
+            "title": "Multi-UAV placement strategy for disaster-resilient communication network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "ydUFaQIAAAAJ:LkGwnXOMwfcC",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "2020 IEEE 92nd Vehicular Technology Conference (VTC2020-Fall), 1-7, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=160265172077537109",
+                "serpapi_link": "https://serpapi.com/search.json?cites=160265172077537109&engine=google_scholar&hl=en",
+                "cites_id": "160265172077537109"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-UAV placement strategy for disaster-resilient communication network",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 92nd Vehicular \u2026",
+                    "abstract": "Unmanned aerial vehicles (UAVs) have the potential of being used as flying base stations to facilitate a disaster-resilient communication network. However, the optimal placement of UAVs over a disaster-affected area must be aware of the mobility of the ground users. Hence, in this paper, we propose a ground user mobility aware multi-UAV placement strategy for disaster-resilient communication network. We formulate an optimization problem to maximize the number of ground users covered by the UAVs, while also taking into"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9348687/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:VWeMK1NgOQIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-UAV%2Bplacement%2Bstrategy%2Bfor%2Bdisaster-resilient%2Bcommunication%2Bnetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VWeMK1NgOQIJ&ei=LWBkYre4NrKO6rQPy-CRsA8&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=160265172077537109&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VWeMK1NgOQIJ:scholar.google.com/&scioq=Multi-UAV+placement+strategy+for+disaster-resilient+communication+network&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/resources/Mansi_VTC_Fall_2020.pdf"
+            }
+        },
+        {
+            "title": "Opportunistic and cooperative hybrid spectrum access protocol for cognitive radio network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "ydUFaQIAAAAJ:YsMSGLbcyi4C",
+            "authors": "S Sharma, VA Bohara, M Peer",
+            "publication": "2016 IEEE International Conference on Advanced Networks and \u2026, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12286311966119016881",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12286311966119016881&engine=google_scholar&hl=en",
+                "cites_id": "12286311966119016881"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Opportunistic and cooperative hybrid spectrum access protocol for cognitive radio network",
+                    "author": [
+                        "S Sharma",
+                        "VA Bohara",
+                        "M Peer"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 IEEE International \u2026",
+                    "abstract": "This paper presents a hybrid opportunistic spectrum access (OSA) and cooperative spectrum sharing (CSS) protocol for cognitive radio networks. In the proposed protocol, secondary (ie cognitive) network (SN) switches its mode between OSA and CSS based on the state of primary network (PN). The activity status of PN is modeled as a two state discrete time Markov chain model in which steady state probabilities of PN are used to derive the outage probability of the hybrid system. Due to hybrid nature of the protocol, SN is always"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7947852/",
+                "author_id": [
+                    "qUCavcMAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "ydUFaQIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:sbknNKO_gaoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOpportunistic%2Band%2Bcooperative%2Bhybrid%2Bspectrum%2Baccess%2Bprotocol%2Bfor%2Bcognitive%2Bradio%2Bnetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sbknNKO_gaoJ&ei=MWBkYuX7Eo2ymgHg1rfQDQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=12286311966119016881&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:sbknNKO_gaoJ:scholar.google.com/&scioq=Opportunistic+and+cooperative+hybrid+spectrum+access+protocol+for+cognitive+radio+network&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "On the performance of network-assisted indoor device-to-device communication using location awareness and realistic path loss models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "ydUFaQIAAAAJ:Y0pCki6q_DkC",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "2017 IEEE 28th Annual International Symposium on Personal, Indoor, and \u2026, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2757276437565291765",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2757276437565291765&engine=google_scholar&hl=en",
+                "cites_id": "2757276437565291765"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the performance of network-assisted indoor device-to-device communication using location awareness and realistic path loss models",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE 28th Annual \u2026",
+                    "abstract": "This paper proposes a framework to analyze the viability of network-assisted Device-to-Device (D2D) communication in an indoor propagation environment using location awareness. Based on the past location information of the users a probability model is developed. The model helps to evaluate the probability of a user's location on a specific indoor site at a given time of the day. Further, leveraging this location information, a heterogeneous framework is considered where user devices are capable of supporting"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8292583/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:9TyisE_QQyYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bthe%2Bperformance%2Bof%2Bnetwork-assisted%2Bindoor%2Bdevice-to-device%2Bcommunication%2Busing%2Blocation%2Bawareness%2Band%2Brealistic%2Bpath%2Bloss%2Bmodels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9TyisE_QQyYJ&ei=NmBkYsbhG8LZmQHnraWYCA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=2757276437565291765&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9TyisE_QQyYJ:scholar.google.com/&scioq=On+the+performance+of+network-assisted+indoor+device-to-device+communication+using+location+awareness+and+realistic+path+loss+models&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~vivek.b/PIMRC2017.pdf"
+            }
+        },
+        {
+            "title": "D2D user selection for simultaneous spectrum sharing and energy harvesting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "ydUFaQIAAAAJ:9yKSN-GCB0IC",
+            "authors": "M Peer, VA Bohara, N Jain",
+            "publication": "arXiv preprint arXiv:1705.02138, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16755097658294655372",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16755097658294655372&engine=google_scholar&hl=en",
+                "cites_id": "16755097658294655372"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "D2D user selection for simultaneous spectrum sharing and energy harvesting",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "N Jain"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "arXiv preprint arXiv:1705.02138",
+                    "abstract": "This paper presents a device-to-device (D2D) user selection protocol wherein multiple D2D pairs coexist with a cellular network. In the developed framework, certain D2D users harvest energy and share the spectrum of the cellular users by adopting a hybrid time switching and power splitting protocol. The D2D user which harvests the maximum energy and achieves the desired target rate for the cellular communication is selected to serve as a decode-and-forward (DF) relay for the cellular user. The proposed work analyzes the impact of increase"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1705.02138",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "2HpGxWoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jNmhQ4wQhugJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DD2D%2Buser%2Bselection%2Bfor%2Bsimultaneous%2Bspectrum%2Bsharing%2Band%2Benergy%2Bharvesting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jNmhQ4wQhugJ&ei=PGBkYuqAGYOEmgHx-5DADA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=16755097658294655372&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jNmhQ4wQhugJ:scholar.google.com/&scioq=D2D+user+selection+for+simultaneous+spectrum+sharing+and+energy+harvesting&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1705.02138"
+            }
+        },
+        {
+            "title": "A time-splitting cooperative spectrum sharing amplify-and-forward relaying protocol with energy harvesting cognitive user",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:qjMakFHDy7sC",
+            "citation_id": "ydUFaQIAAAAJ:qjMakFHDy7sC",
+            "authors": "M Peer, T Kalluri, VA Bohara, DB da Costa, US Dias",
+            "publication": "2017 IEEE 18th Wireless and Microwave Technology Conference (WAMICON), 1-6, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7437795055454756824",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7437795055454756824&engine=google_scholar&hl=en",
+                "cites_id": "7437795055454756824"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A time-splitting cooperative spectrum sharing amplify-and-forward relaying protocol with energy harvesting cognitive user",
+                    "author": [
+                        "M Peer",
+                        "T Kalluri",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE 18th \u2026",
+                    "abstract": "Simultaneous wireless information and power transfer (SWIPT) in energy-constrained wireless sensor networks has attracted considerable attention from the research community due to its promising features in increasing the lifetime devices in addition to mitigate the environment hazards caused by using conventional cell batteries. On the other hand, the advancements in the areas of cooperative spectrum sharing protocols have enabled efficient use of spectrum band between primary and secondary users. Owing to this fact, in this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7930236/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "AeraUlMAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2J-JIDJbOGcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Btime-splitting%2Bcooperative%2Bspectrum%2Bsharing%2Bamplify-and-forward%2Brelaying%2Bprotocol%2Bwith%2Benergy%2Bharvesting%2Bcognitive%2Buser%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2J-JIDJbOGcJ&ei=P2BkYq_JJoyuyAT-mrWwCA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=7437795055454756824&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2J-JIDJbOGcJ:scholar.google.com/&scioq=A+time-splitting+cooperative+spectrum+sharing+amplify-and-forward+relaying+protocol+with+energy+harvesting+cognitive+user&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "User Mobility-Aware Time Stamp for UAV-BS Placement",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:roLk4NBRz8UC",
+            "citation_id": "ydUFaQIAAAAJ:roLk4NBRz8UC",
+            "authors": "M Peer, VA Bohara, A Srivastava, G Ghatak",
+            "publication": "2021 IEEE Wireless Communications and Networking Conference Workshops (WCNCW \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12112010126612586531",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12112010126612586531&engine=google_scholar&hl=en",
+                "cites_id": "12112010126612586531"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "User Mobility-Aware Time Stamp for UAV-BS Placement",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE Wireless \u2026",
+                    "abstract": "Unmanned aerial vehicle (UAV) assisted communication networks have garnered considerable attention of the research community due to their key features of high mobility, fast deployment and easy access to remote areas. UAV base stations (UAV-BSs) are the indispensable component of such networks. Specifically, three-dimensional (3-D) placement of UAV-BS is pivotal in serving the ground users with the desired quality-of-service (QoS). Moreover, in a scenario where users are mobile, UAV-BS placements need to be updated"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9420032/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:I2CtuAmBFqgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUser%2BMobility-Aware%2BTime%2BStamp%2Bfor%2BUAV-BS%2BPlacement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=I2CtuAmBFqgJ&ei=RGBkYrK8KeHDywSSipaYAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=12112010126612586531&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:I2CtuAmBFqgJ:scholar.google.com/&scioq=User+Mobility-Aware+Time+Stamp+for+UAV-BS+Placement&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/resources/Mansi_WCNC_2021.pdf"
+            }
+        },
+        {
+            "title": "Enabling disaster-resilient communication using multi-hop device-to-device framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "ydUFaQIAAAAJ:_FxGoFyzp5QC",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "Wireless Networks 27 (1), 649-661, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7319632438428878831",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7319632438428878831&engine=google_scholar&hl=en",
+                "cites_id": "7319632438428878831"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enabling disaster-resilient communication using multi-hop device-to-device framework",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Wireless Networks",
+                    "abstract": "With the occurrence of a disaster, the conventional cellular network becomes non-functional. To provide connectivity to the affected users in such a scenario, we propose a novel multi-hop device-to-device (D2D) communication framework to connect to an active base station (BS). The goal of the proposed work is to maximize the number of covered users in the disaster-affected area within a given time frame. Joint routing and scheduling is imperative in a multi-hop network; however, the existing works on joint routing and scheduling"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s11276-020-02481-2",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:78f68uuOlGUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnabling%2Bdisaster-resilient%2Bcommunication%2Busing%2Bmulti-hop%2Bdevice-to-device%2Bframework%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=78f68uuOlGUJ&ei=SGBkYqmyFJyO6rQP_qe3mAs&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7319632438428878831&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:78f68uuOlGUJ:scholar.google.com/&scioq=Enabling+disaster-resilient+communication+using+multi-hop+device-to-device+framework&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/resources/WINE_Manuscript_Mansi.pdf"
+            }
+        },
+        {
+            "title": "Cache selection in dynamic D2D multicast networks using inhomogeneous markov model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:WF5omc3nYNoC",
+            "citation_id": "ydUFaQIAAAAJ:WF5omc3nYNoC",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "IEEE Transactions on Network Science and Engineering 7 (4), 3235-3245, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7487902011882854999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7487902011882854999&engine=google_scholar&hl=en",
+                "cites_id": "7487902011882854999"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cache selection in dynamic D2D multicast networks using inhomogeneous markov model",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "This article presents a user spatio-temporal behavior aware cache selection framework to facilitate device-to-device multicast (D2MD) communication that minimizes the number of caches required while achieving a desired user load on the cellular network. Consequently, it alleviates the caching load on the cellular network. The optimization problem formulated to minimize the number of caches is combinatorial in nature with an exponential search space. Hence, a greedy algorithm for cache selection is proposed to reduce the search space. It"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9177351/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:V9o1CzVf6mcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCache%2Bselection%2Bin%2Bdynamic%2BD2D%2Bmulticast%2Bnetworks%2Busing%2Binhomogeneous%2Bmarkov%2Bmodel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=V9o1CzVf6mcJ&ei=TGBkYp7eEZLeyQTE46-QAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7487902011882854999&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:V9o1CzVf6mcJ:scholar.google.com/&scioq=Cache+selection+in+dynamic+D2D+multicast+networks+using+inhomogeneous+markov+model&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Powering future mobile phones through RF energy harvesting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "ydUFaQIAAAAJ:u-x6o8ySG0sC",
+            "authors": "A Jolly, M Peer, VA Bohara",
+            "publication": "arXiv preprint arXiv:1702.03799, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7476811955097304002",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7476811955097304002&engine=google_scholar&hl=en",
+                "cites_id": "7476811955097304002"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Powering future mobile phones through RF energy harvesting",
+                    "author": [
+                        "A Jolly",
+                        "M Peer",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "arXiv preprint arXiv:1702.03799",
+                    "abstract": "In this paper we present the preliminary measurement results of harvesting radio frequency (RF) energy from the mobile phones. The aim is to revolutionize the way mobile phones are being charged and paving a way of charging the future mobile phones through RF energy harvesting. In order to measure the amount of energy that can be harvested, mobile phones from two different manufactures namely Asus and Samsung have been used. It was shown that depending on the manufacturer it is possible to harvest 1.53 joules amount of energy"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1702.03799",
+                "author_id": [
+                    "tWF9WOQAAAAJ",
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wvv3-9v4wmcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPowering%2Bfuture%2Bmobile%2Bphones%2Bthrough%2BRF%2Benergy%2Bharvesting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wvv3-9v4wmcJ&ei=V2BkYpPNFo2ymgHg1rfQDQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7476811955097304002&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wvv3-9v4wmcJ:scholar.google.com/&scioq=Powering+future+mobile+phones+through+RF+energy+harvesting&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1702.03799"
+            }
+        },
+        {
+            "title": "Cooperative spectrum sharing relaying protocols with energy harvesting cognitive user",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "ydUFaQIAAAAJ:W7OEmFMy1HYC",
+            "authors": "T Kalluri, M Peer, VA Bohara, DB da Costa, US Dias",
+            "publication": "arXiv preprint arXiv:1508.06589, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2248716053983127490",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2248716053983127490&engine=google_scholar&hl=en",
+                "cites_id": "2248716053983127490"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cooperative spectrum sharing relaying protocols with energy harvesting cognitive user",
+                    "author": [
+                        "T Kalluri",
+                        "M Peer",
+                        "VA Bohara",
+                        "DB da Costa"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "The theory of wireless information and power transfer in energy constrained wireless networks has caught the interest of researchers due to its potential in increasing the lifetime of sensor nodes and mitigate the environment hazards caused by conventional cell batteries. Similarly, the advancements in areas of cooperative spectrum sharing protocols has enabled efficient use of frequency spectrum between a licensed primary user and a secondary user. In this paper, we consider an energy constrained secondary user which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1508.06589",
+                "author_id": [
+                    "",
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "CVx-PHMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wudhPlYLNR8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCooperative%2Bspectrum%2Bsharing%2Brelaying%2Bprotocols%2Bwith%2Benergy%2Bharvesting%2Bcognitive%2Buser%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wudhPlYLNR8J&ei=W2BkYuLrAouKmgGY1YjABQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=2248716053983127490&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:wudhPlYLNR8J:scholar.google.com/&scioq=Cooperative+spectrum+sharing+relaying+protocols+with+energy+harvesting+cognitive+user&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1508.06589"
+            }
+        },
+        {
+            "title": "Performance Analysis of RF/VLC Enabled UAV Base Station in Heterogeneous Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:Se3iqnhoufwC",
+            "citation_id": "ydUFaQIAAAAJ:Se3iqnhoufwC",
+            "authors": "Y Gupta, M Peer, VA Bohara",
+            "publication": "2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance Analysis of RF/VLC Enabled UAV Base Station in Heterogeneous Network",
+                    "author": [
+                        "Y Gupta",
+                        "M Peer",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE 32nd Annual \u2026",
+                    "abstract": "In this paper, we study the trade-offs between two network configurations employed in a heterogeneous network setup wherein unmanned aerial vehicle (UAV) base stations (UBS) coexist with a macro base station (MBS). Specifically, two network configurations are investigated:(i) Heterogeneous network with MBS and UAV-Cellular base station (UAV-CBS) and (ii) Heterogeneous network with MBS and visible light communication (VLC) enabled UAV-Optical base station (UAV-OBS). A framework has been developed to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9569408/",
+                "author_id": [
+                    "aVX93FcAAAAJ",
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:8MZAthEDCgYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2BAnalysis%2Bof%2BRF/VLC%2BEnabled%2BUAV%2BBase%2BStation%2Bin%2BHeterogeneous%2BNetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=8MZAthEDCgYJ&ei=YGBkYoCGEM6E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:8MZAthEDCgYJ:scholar.google.com/&scioq=Performance+Analysis+of+RF/VLC+Enabled+UAV+Base+Station+in+Heterogeneous+Network&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/resources/Yash_PIMRC_2021.pdf"
+            }
+        },
+        {
+            "title": "Multi-Hop D2D Framework for Disaster-Resilient Communication Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:ufrVoPGSRksC",
+            "citation_id": "ydUFaQIAAAAJ:ufrVoPGSRksC",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "2020 IEEE 3rd 5G World Forum (5GWF), 584-589, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-Hop D2D Framework for Disaster-Resilient Communication Network",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 3rd 5G World \u2026",
+                    "abstract": "This paper presents a disaster-resilient communication network that utilizes multi-hop device-to-device (D2D) communication to connect to active base stations (BSs) outside a disaster-affected area for potential application in fifth-generation (5G) cellular networks. We propose a novel multi-hop D2D framework where user-BS (source-destination) pairing are optimized jointly with routing and scheduling to maximize the number of covered users in the disaster-affected area within a given time frame. The optimization problem is formulated as an integer"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9221256/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:EuCOs_-yTBIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-Hop%2BD2D%2BFramework%2Bfor%2BDisaster-Resilient%2BCommunication%2BNetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EuCOs_-yTBIJ&ei=ZGBkYr6EGouKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:EuCOs_-yTBIJ:scholar.google.com/&scioq=Multi-Hop+D2D+Framework+for+Disaster-Resilient+Communication+Network&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Mansi-Peer/publication/347575281_Multi-Hop_D2D_Framework_for_Disaster-Resilient_Communication_Network/links/6125fb211e95fe241af5f9fb/Multi-Hop-D2D-Framework-for-Disaster-Resilient-Communication-Network.pdf"
+            }
+        },
+        {
+            "title": "Real-World Spatio\u2013Temporal Behavior Aware D2D Multicast Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "ydUFaQIAAAAJ:eQOLeE2rZwMC",
+            "authors": "M Peer, VA Bohara, A Srivastava",
+            "publication": "IEEE Transactions on Network Science and Engineering 7 (3), 1675-1686, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Real-World Spatio\u2013Temporal Behavior Aware D2D Multicast Networks",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Studies show that real-world user mobility has certain spatio-temporal correlations. However, most of the existing works on device-to-device multicast (D2MD) networks use randomly generated user locations, thus fail to capture the real-world spatio-temporal behavior of the users. In this work, we propose a realistic performance evaluation of the D2MD network that takes into account the joint spatio-temporal correlations of the users in the network. The proposed performance evaluation will be beneficial in assessing the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8871208/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:wxZ5z2kjNCAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReal-World%2BSpatio%25E2%2580%2593Temporal%2BBehavior%2BAware%2BD2D%2BMulticast%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wxZ5z2kjNCAJ&ei=ZmBkYqXULKKUy9YP_JONiAY&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:wxZ5z2kjNCAJ:scholar.google.com/&scioq=Real-World+Spatio%E2%80%93Temporal+Behavior+Aware+D2D+Multicast+Networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Spectrum and Energy Harvesting Protocols for Wireless Sensor Nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "ydUFaQIAAAAJ:IjCSPb-OGe4C",
+            "authors": "M Peer, VA Bohara",
+            "publication": "Wireless Information and Power Transfer: A New Paradigm for Green \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Spectrum and Energy Harvesting Protocols for Wireless Sensor Nodes",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Wireless Information and Power Transfer: A New \u2026",
+                    "abstract": "The vision of creating a sustainable and smart planet has encouraged researchers to move towards more energy efficient and user-friendly technologies giving rise to the notion of 5G standard. 5G standard promises to be a fusion of emerging wireless technologies like heterogeneous networks, software defined networks, device-to-device communication, just to name a few. It is envisioned to bring with itself the ability to alleviate the problems of spectrum under-utilization and energy inefficiency. Earlier the areas of spectrum and energy"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-56669-6_9",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qRGThFYRHlQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpectrum%2Band%2BEnergy%2BHarvesting%2BProtocols%2Bfor%2BWireless%2BSensor%2BNodes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qRGThFYRHlQJ&ei=amBkYu7gKPmQ6rQP5OqKqAo&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:qRGThFYRHlQJ:scholar.google.com/&scioq=Spectrum+and+Energy+Harvesting+Protocols+for+Wireless+Sensor+Nodes&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Cognitive spectrum sharing protocols for energy harvesting wireless sensor nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "ydUFaQIAAAAJ:d1gkVwhDpl0C",
+            "authors": "M Peer, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cognitive spectrum sharing protocols for energy harvesting wireless sensor nodes",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "Energy consumption is one of the primary concerns in the deployment of futuristic wireless sensor networks. On one hand due to advent of technologies such as Internet of Things (IoT), there has been tremendous growth in development of wireless sensor nodes, however, on the other hand these nodes are energy constrained, hence have limited lifetime. Energy harvesting from radio frequency (RF) signals has been proposed as a viable solution to alleviate this problem. Most of the recent work in the field of RF energy harvesting"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/494",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VJKaUtfqtiAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCognitive%2Bspectrum%2Bsharing%2Bprotocols%2Bfor%2Benergy%2Bharvesting%2Bwireless%2Bsensor%2Bnodes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VJKaUtfqtiAJ&ei=bWBkYo_VF-HDywSSipaYAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:VJKaUtfqtiAJ:scholar.google.com/&scioq=Cognitive+spectrum+sharing+protocols+for+energy+harvesting+wireless+sensor+nodes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/494/Mansi_Thesis_Report.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Fair Multiple Subchannel Assignment and 3-D UAV-BS Placement in UAV-Enabled Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:UebtZRa9Y70C",
+            "citation_id": "ydUFaQIAAAAJ:UebtZRa9Y70C",
+            "authors": "S Dohadwalla, M Peer, VA Bohara",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fair Multiple Subchannel Assignment and 3-D UAV-BS Placement in UAV-Enabled Networks",
+                    "author": [
+                        "S Dohadwalla",
+                        "M Peer",
+                        "VA Bohara"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "This paper focuses on multiple subchannel assignment for ground users in an unmanned aerial vehicle (UAV) enabled network. The main objective is to ensure fair service to the users by maximizing the rate of the worst-off user. To this end, we jointly optimize the three-dimensional (3-D) placements of the UAV-BSs, the multiple subchannel assignment to each user, and the transmit power of each subchannel. The presented problem is non-convex in nature. In order to solve this problem, we propose to divide it into three tractable"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.iiitd.edu.in/~wirocomm/resources/Mansi_VTC_2022.pdf",
+                "author_id": [
+                    "",
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:d8uEJIYz5TsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFair%2BMultiple%2BSubchannel%2BAssignment%2Band%2B3-D%2BUAV-BS%2BPlacement%2Bin%2BUAV-Enabled%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=d8uEJIYz5TsJ&ei=cWBkYpbXGYOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/resources/Mansi_VTC_2022.pdf"
+            }
+        },
+        {
+            "title": "Filename (. pdf) Title/Authors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ydUFaQIAAAAJ&pagesize=100&citation_for_view=ydUFaQIAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "ydUFaQIAAAAJ:2osOgNQ5qMEC",
+            "authors": "M Peer",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Filename (. pdf) Title/Authors",
+                    "author": [
+                        "Z Shakir",
+                        "M Hagag",
+                        "M Abdelfattah",
+                        "D Peroulis"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "The following topics are dealt with: 5G mobile communication; millimetre wave communication;  telecommunication network reliability; Internet of Things; wide band gap semiconductors;"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8363500/",
+                "author_id": [
+                    "",
+                    "Tet9eLQAAAAJ",
+                    "",
+                    "agc3kMMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WxqbpF1fp3oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFilename%2B(.%2Bpdf)%2BTitle/Authors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WxqbpF1fp3oJ&ei=dGBkYoGNJ6KUy9YP_JONiAY&json=",
+                "num_citations": 0
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 63,
+                    "since_2017": 62
+                }
+            },
+            {
+                "h_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2017,
+                "citations": 6
+            },
+            {
+                "year": 2018,
+                "citations": 7
+            },
+            {
+                "year": 2019,
+                "citations": 15
+            },
+            {
+                "year": 2020,
+                "citations": 14
+            },
+            {
+                "year": 2021,
+                "citations": 13
+            },
+            {
+                "year": 2022,
+                "citations": 7
+            }
+        ]
+    },
+    "co_authors": []
+}

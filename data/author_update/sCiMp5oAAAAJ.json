@@ -1,0 +1,459 @@
+{
+    "search_metadata": {
+        "id": "62574c5cf716ee8f1f81724a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c9dfab059441ef64/62574c5cf716ee8f1f81724a.json",
+        "created_at": "2022-04-13 22:19:08 UTC",
+        "processed_at": "2022-04-13 22:19:08 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=sCiMp5oAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/c9dfab059441ef64/62574c5cf716ee8f1f81724a.html",
+        "total_time_taken": 2.19,
+        "total_articles": 8,
+        "total_co_authors": 4
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "sCiMp5oAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Venkatesh Vinayakarao",
+        "affiliations": "Lecturer, Chennai Mathematical Institute (CMI)",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://vvtesh.co.in/",
+        "interests": [
+            {
+                "title": "Information Retrieval",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:information_retrieval",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainformation_retrieval"
+            },
+            {
+                "title": "Big Code",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:big_code",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Abig_code"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sCiMp5oAAAAJ&citpid=10"
+    },
+    "articles": [
+        {
+            "title": "Anne: Improving source code search using entity retrieval approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "sCiMp5oAAAAJ:9yKSN-GCB0IC",
+            "authors": "V Vinayakarao, A Sarma, R Purandare, S Jain, S Jain",
+            "publication": "Proceedings of the Tenth ACM International Conference on Web Search and Data \u2026, 2017",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9385318403762314105",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9385318403762314105&engine=google_scholar&hl=en",
+                "cites_id": "9385318403762314105"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Anne: Improving source code search using entity retrieval approach",
+                    "author": [
+                        "V Vinayakarao",
+                        "A Sarma",
+                        "R Purandare",
+                        "S Jain"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Code search with natural language terms performs poorly because programming concepts do not always lexically match their syntactic forms. For example, in Java, the programming concept\" array\" does not match with its syntactic representation of\"[]\". Code search engines can assist developers more effectively over natural language queries if such mappings existed for a variety of programming languages. In this work, we present a programming language agnostic technique to discover such mappings between syntactic forms and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3018661.3018691",
+                "author_id": [
+                    "sCiMp5oAAAAJ",
+                    "shMjCasAAAAJ",
+                    "_OLz-J0AAAAJ",
+                    "j6CgtVQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:eVsw2FxZP4IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnne:%2BImproving%2Bsource%2Bcode%2Bsearch%2Busing%2Bentity%2Bretrieval%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=eVsw2FxZP4IJ&ei=T1VkYur5F_mQ6rQP5OqKqAo&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=9385318403762314105&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:eVsw2FxZP4IJ:scholar.google.com/&scioq=Anne:+Improving+source+code+search+using+entity+retrieval+approach&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3018661.3018691"
+            }
+        },
+        {
+            "title": "Structurally Heterogeneous Source Code Examples from Unstructured Knowledge Sources",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "sCiMp5oAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Vinayakarao, R Purandare, AV Nori",
+            "publication": "PEPM '15 Proceedings of the 2015 Workshop on Partial Evaluation and Program \u2026, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17441494255294749155",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17441494255294749155&engine=google_scholar&hl=en",
+                "cites_id": "17441494255294749155"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Structurally heterogeneous source code examples from unstructured knowledge sources",
+                    "author": [
+                        "V Vinayakarao",
+                        "R Purandare",
+                        "AV Nori"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "\u2026 of the 2015 Workshop on Partial \u2026",
+                    "abstract": "Software developers rarely write code from scratch. With the existence of Wikipedia, discussion forums, books and blogs, it is hard to imagine a software developer not looking up these sites for sample code while building any non-trivial software system. While researchers have proposed approaches to retrieve relevant posts and code snippets, the need for finding variant implementations of functionally similar code snippets has been ignored. In this work, we propose an approach to automatically create a repository of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2678015.2682537",
+                "author_id": [
+                    "sCiMp5oAAAAJ",
+                    "_OLz-J0AAAAJ",
+                    "qXTt3dUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4xncvp2iDPIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStructurally%2BHeterogeneous%2BSource%2BCode%2BExamples%2Bfrom%2BUnstructured%2BKnowledge%2BSources%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4xncvp2iDPIJ&ei=U1VkYo2UF5qSy9YP8pKNsAE&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=17441494255294749155&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:4xncvp2iDPIJ:scholar.google.com/&scioq=Structurally+Heterogeneous+Source+Code+Examples+from+Unstructured+Knowledge+Sources&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Rahul-Purandare-2/publication/301398814_Structurally_Heterogeneous_Source_Code_Examples_from_Unstructured_Knowledge_Sources/links/5dba780c299bf1a47b0272b3/Structurally-Heterogeneous-Source-Code-Examples-from-Unstructured-Knowledge-Sources.pdf"
+            }
+        },
+        {
+            "title": "Spotting Familiar Code Snippet Structures for Program Comprehension",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "sCiMp5oAAAAJ:d1gkVwhDpl0C",
+            "authors": "V Vinayakarao",
+            "publication": "ESEC-FSE, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12371603820737836148",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12371603820737836148&engine=google_scholar&hl=en",
+                "cites_id": "12371603820737836148"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Spotting familiar code snippet structures for program comprehension",
+                    "author": [
+                        "V Vinayakarao"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 2015 10th Joint Meeting on \u2026",
+                    "abstract": "Developers deal with the persistent problem of understanding non-trivial code snippets. To understand the given implementation, its issues, and available choices, developers will benefit from reading relevant discussions and descriptions over the web. However, there is no easy way to know the relevant natural language terms so as to reach to such descriptions from a code snippet, especially if the documentation is inadequate and if the vocabulary used in the code is not helpful for web search. We propose an approach to solve this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2786805.2807560",
+                "author_id": [
+                    "sCiMp5oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dLTxnCDEsKsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpotting%2BFamiliar%2BCode%2BSnippet%2BStructures%2Bfor%2BProgram%2BComprehension%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dLTxnCDEsKsJ&ei=V1VkYqjJGeiSy9YPp-OyiAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=12371603820737836148&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dLTxnCDEsKsJ:scholar.google.com/&scioq=Spotting+Familiar+Code+Snippet+Structures+for+Program+Comprehension&hl=en&as_sdt=0,33",
+                "eprint_url": "http://pag.iiitd.edu.in/sites/default/files/VinayakaraoPoster15_0.pdf"
+            }
+        },
+        {
+            "title": "A Search System for Mathematical Expressions on Software Binaries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:qjMakFHDy7sC",
+            "citation_id": "sCiMp5oAAAAJ:qjMakFHDy7sC",
+            "authors": "R Jain, S Prathik, V Vinayakarao, R Purandare",
+            "publication": "Mining Software Repositories (MSR 2018), 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5374762223785535996",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5374762223785535996&engine=google_scholar&hl=en",
+                "cites_id": "5374762223785535996"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A search system for mathematical expressions on software binaries",
+                    "author": [
+                        "R Jain",
+                        "S Prathik",
+                        "V Vinayakarao"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE/ACM 15th \u2026",
+                    "abstract": "Developers often ask for libraries that implement specific mathematical expressions. A fundamental bottleneck in building information retrieval (IR) systems to answer such mathematical queries is the inability to detect a given expression in software binaries. While we have a few math IR solutions such as EgoMath2 and Tangent-3 that work over text documents, none exist to search over software binaries. Our vision is to build a search system for binaries to answer queries containing mathematical expressions. A wide variety"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8595232/",
+                "author_id": [
+                    "yR7s53UAAAAJ",
+                    "",
+                    "sCiMp5oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_OnsDMT9lkoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BSearch%2BSystem%2Bfor%2BMathematical%2BExpressions%2Bon%2BSoftware%2BBinaries%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_OnsDMT9lkoJ&ei=c1VkYpaMMoySyASZk6HgCA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=5374762223785535996&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_OnsDMT9lkoJ:scholar.google.com/&scioq=A+Search+System+for+Mathematical+Expressions+on+Software+Binaries&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Rahul-Purandare-2/publication/326566040_A_search_system_for_mathematical_expressions_on_software_binaries/links/5dba7788299bf1a47b0272a8/A-search-system-for-mathematical-expressions-on-software-binaries.pdf"
+            }
+        },
+        {
+            "title": "Replacements and Replaceables: Making the Case for Code Variants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "sCiMp5oAAAAJ:IjCSPb-OGe4C",
+            "authors": "V Vinayakarao, D Sondhi, S Keswani, R Purandare, A Sarma",
+            "publication": "arXiv preprint arXiv:2006.03844, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Replacements and Replaceables: Making the Case for Code Variants",
+                    "author": [
+                        "V Vinayakarao",
+                        "D Sondhi",
+                        "S Keswani"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "There are often multiple ways to implement the same requirement in source code. Different implementation choices can result in code snippets that are similar, and have been defined in multiple ways: code clones, examples, simions and variants. Currently, there is a lack of a consistent and unambiguous definition of such types of code snippets. Here we present a characterization study of code variants-a specific type of code snippets that differ from each other by at least one desired property, within a given code context. We distinguish code"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2006.03844",
+                "author_id": [
+                    "sCiMp5oAAAAJ",
+                    "cwu4RY4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:AxISpgdu5NsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReplacements%2Band%2BReplaceables:%2BMaking%2Bthe%2BCase%2Bfor%2BCode%2BVariants%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AxISpgdu5NsJ&ei=d1VkYvCRGIuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:AxISpgdu5NsJ:scholar.google.com/&scioq=Replacements+and+Replaceables:+Making+the+Case+for+Code+Variants&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.03844"
+            }
+        },
+        {
+            "title": "Code variants and their retrieval using knowledge discovery based approaches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "sCiMp5oAAAAJ:UeHWp8X0CEIC",
+            "authors": "V Vinayakarao, R Purandare",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Code variants and their retrieval using knowledge discovery based approaches",
+                    "author": [
+                        "V Vinayakarao",
+                        "R Purandare"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "Code variants represent alternative implementations of a code snippet, where each alternative provides the same functionality, but has different properties that make some of them better suited to the overall project requirements. Developers routinely need to analyze existing code, find better reuse alternatives, and look to develop high-quality code that meets some desired properties. However, searching for such code variants over the web has several challenges. In this dissertation, we address this problem. This dissertation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/625",
+                "author_id": [
+                    "sCiMp5oAAAAJ",
+                    "_OLz-J0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zQ1yFkp3mGIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCode%2Bvariants%2Band%2Btheir%2Bretrieval%2Busing%2Bknowledge%2Bdiscovery%2Bbased%2Bapproaches%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zQ1yFkp3mGIJ&ei=elVkYs2PIoySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:zQ1yFkp3mGIJ:scholar.google.com/&scioq=Code+variants+and+their+retrieval+using+knowledge+discovery+based+approaches&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/625/PHD1306.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Modeling Source Code to Support Retrieval-Based Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "sCiMp5oAAAAJ:2osOgNQ5qMEC",
+            "authors": "V Vinayakarao",
+            "publication": "Proceedings of the Tenth ACM International Conference on Web Search and Data \u2026, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Modeling Source Code to Support Retrieval-Based Applications",
+                    "author": [
+                        "V Vinayakarao"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Proceedings of the Tenth ACM International \u2026",
+                    "abstract": "Advances in text retrieval do not apply directly to source code retrieval because of the difference in characteristics of source code when compared to text. Recently, researchers have proposed specialized indexing and querying techniques that are based on structural representations and semantics of source code. Current tools and techniques heavily depend on user defined terms in source code to leverage text retrieval techniques. Further, they have limitations in handling partial programs, platform independence and index-time"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3018661.3022749",
+                "author_id": [
+                    "sCiMp5oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:AqDzMyq84nIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DModeling%2BSource%2BCode%2Bto%2BSupport%2BRetrieval-Based%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AqDzMyq84nIJ&ei=hVVkYpqDMI2ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:AqDzMyq84nIJ:scholar.google.com/&scioq=Modeling+Source+Code+to+Support+Retrieval-Based+Applications&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Strengthening the requirements phase using the TAID (Tool Assisted Inconsistency Detection) approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sCiMp5oAAAAJ&pagesize=100&citation_for_view=sCiMp5oAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "sCiMp5oAAAAJ:u5HHmVD_uO8C",
+            "authors": "T Mahendran, RN Seshadri, S RaviArunan, N Jain, V Vinayakarao",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ACCUMULATIVE SOFTWARE DEVELOPMENT",
+                    "author": [
+                        "SK Sharma"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "NA",
+                    "abstract": "of work on detection of requirements inconsistency treating it  software requirements before  proceeding to the next stage in  for reducing negative risks and enhancing the positive ones. \u2018"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.academia.edu/download/36754188/Dissertation_SatishKSharmaAccumulative_Software_Development.pdf",
+                "author_id": [
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:v7fNZeaBILEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStrengthening%2Bthe%2Brequirements%2Bphase%2Busing%2Bthe%2BTAID%2B(Tool%2BAssisted%2BInconsistency%2BDetection)%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=v7fNZeaBILEJ&ei=kVVkYva3D--Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:v7fNZeaBILEJ:scholar.google.com/&scioq=Strengthening+the+requirements+phase+using+the+TAID+(Tool+Assisted+Inconsistency+Detection)+approach&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/36754188/Dissertation_SatishKSharmaAccumulative_Software_Development.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 37,
+                    "since_2017": 34
+                }
+            },
+            {
+                "h_index": {
+                    "all": 3,
+                    "since_2017": 2
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 2
+            },
+            {
+                "year": 2017,
+                "citations": 4
+            },
+            {
+                "year": 2018,
+                "citations": 8
+            },
+            {
+                "year": 2019,
+                "citations": 3
+            },
+            {
+                "year": 2020,
+                "citations": 9
+            },
+            {
+                "year": 2021,
+                "citations": 8
+            },
+            {
+                "year": 2022,
+                "citations": 2
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=sCiMp5oAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Rahul Purandare",
+            "link": "https://scholar.google.com/citations?user=_OLz-J0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_OLz-J0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_OLz-J0AAAAJ",
+            "affiliations": "Associate Professor of Computer Science and Engineering, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_OLz-J0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Anita Sarma",
+            "link": "https://scholar.google.com/citations?user=shMjCasAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=shMjCasAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "shMjCasAAAAJ",
+            "affiliations": "Oregon State University",
+            "email": "Verified email at oregonstate.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=shMjCasAAAAJ&citpid=1"
+        },
+        {
+            "name": "Aditya Nori",
+            "link": "https://scholar.google.com/citations?user=qXTt3dUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qXTt3dUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qXTt3dUAAAAJ",
+            "affiliations": "Microsoft Research",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qXTt3dUAAAAJ&citpid=8"
+        },
+        {
+            "name": "Ridhi Jain",
+            "link": "https://scholar.google.com/citations?user=yR7s53UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yR7s53UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yR7s53UAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yR7s53UAAAAJ&citpid=2"
+        }
+    ]
+}

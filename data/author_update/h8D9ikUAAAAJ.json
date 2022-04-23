@@ -1,0 +1,1422 @@
+{
+    "search_metadata": {
+        "id": "62574ce39790542a8c2c60ac",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f360d80d954efbd5/62574ce39790542a8c2c60ac.json",
+        "created_at": "2022-04-13 22:21:23 UTC",
+        "processed_at": "2022-04-13 22:21:23 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=h8D9ikUAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/f360d80d954efbd5/62574ce39790542a8c2c60ac.html",
+        "total_time_taken": 1.47,
+        "total_articles": 27,
+        "total_co_authors": 14
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "h8D9ikUAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Anjali Dhall",
+        "affiliations": "Senior Research Fellow, IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Computational Biology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_biology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_biology"
+            },
+            {
+                "title": "Immunoinformatics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:immunoinformatics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aimmunoinformatics"
+            },
+            {
+                "title": "Cancer Genomics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cancer_genomics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acancer_genomics"
+            },
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Survival analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:survival_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asurvival_analysis"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=h8D9ikUAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "AlgPred 2.0: an improved method for predicting allergenic proteins and mapping of IgE epitopes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "h8D9ikUAAAAJ:W7OEmFMy1HYC",
+            "authors": "N Sharma, S Patiyal, A Dhall, A Pande, C Arora, GPS Raghava",
+            "publication": "Briefings in Bioinformatics 22 (4), bbaa294, 2021",
+            "cited_by": {
+                "value": 50,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3055912916528611680",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3055912916528611680&engine=google_scholar&hl=en",
+                "cites_id": "3055912916528611680"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "AlgPred 2.0: an improved method for predicting allergenic proteins and mapping of IgE epitopes",
+                    "author": [
+                        "N Sharma",
+                        "S Patiyal",
+                        "A Dhall",
+                        "A Pande"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Briefings in \u2026",
+                    "abstract": "AlgPred 2.0 is a web server developed for predicting allergenic proteins and allergenic regions in a protein. It is an updated version of AlgPred developed in 2006. The dataset used for training, testing and validation consists of 10 075 allergens and 10 075 non-allergens. In addition, 10 451 experimentally validated immunoglobulin E (IgE) epitopes were used to identify antigenic regions in a protein. All models were trained on 80% of data called training dataset, and the performance of models was evaluated using 5-fold cross"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://academic.oup.com/bib/article-abstract/22/4/bbaa294/5985292",
+                "author_id": [
+                    "j7LcxrUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "h8D9ikUAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:YEE3TpvIaCoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAlgPred%2B2.0:%2Ban%2Bimproved%2Bmethod%2Bfor%2Bpredicting%2Ballergenic%2Bproteins%2Band%2Bmapping%2Bof%2BIgE%2Bepitopes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YEE3TpvIaCoJ&ei=YlNkYpC2M4uKmgGY1YjABQ&json=",
+                "num_citations": 51,
+                "citedby_url": "/scholar?cites=3055912916528611680&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:YEE3TpvIaCoJ:scholar.google.com/&scioq=AlgPred+2.0:+an+improved+method+for+predicting+allergenic+proteins+and+mapping+of+IgE+epitopes&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Anjali-Dhall/publication/346080672_AlgPred_20_an_improved_method_for_predicting_allergenic_proteins_and_mapping_of_IgE_epitopes/links/60475c5aa6fdcc9c78220133/AlgPred-20-an-improved-method-for-predicting-allergenic-proteins-and-mapping-of-IgE-epitopes.pdf"
+            }
+        },
+        {
+            "title": "Prediction and analysis of skin cancer progression using genomics profiles of patients",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "h8D9ikUAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Bhalla, H Kaur, A Dhall, GPS Raghava",
+            "publication": "Scientific reports 9 (1), 1-16, 2019",
+            "cited_by": {
+                "value": 40,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1706591049641411115",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1706591049641411115&engine=google_scholar&hl=en",
+                "cites_id": "1706591049641411115"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Prediction and analysis of skin cancer progression using genomics profiles of patients",
+                    "author": [
+                        "S Bhalla",
+                        "H Kaur",
+                        "A Dhall",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Scientific reports",
+                    "abstract": "The metastatic Skin Cutaneous Melanoma (SKCM) has been associated with diminished survival rates and high mortality rates worldwide. Thus, segregating metastatic melanoma from the primary tumors is crucial to employ an optimal therapeutic strategy for the prolonged survival of patients. The SKCM mRNA, miRNA and methylation data of TCGA is comprehensively analysed to recognize key genomic features that can segregate metastatic and primary tumors. Further, machine learning models have been developed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.nature.com/articles/s41598-019-52134-4",
+                "author_id": [
+                    "Xxs4FX8AAAAJ",
+                    "4tk3wcMAAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:K8K8ioQHrxcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPrediction%2Band%2Banalysis%2Bof%2Bskin%2Bcancer%2Bprogression%2Busing%2Bgenomics%2Bprofiles%2Bof%2Bpatients%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=K8K8ioQHrxcJ&ei=ZlNkYuytMpGJmwGY-qmYDQ&json=",
+                "num_citations": 42,
+                "citedby_url": "/scholar?cites=1706591049641411115&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:K8K8ioQHrxcJ:scholar.google.com/&scioq=Prediction+and+analysis+of+skin+cancer+progression+using+genomics+profiles+of+patients&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.nature.com/articles/s41598-019-52134-4"
+            }
+        },
+        {
+            "title": "Computer-aided prediction and design of IL-6 inducing peptides: IL-6 plays a crucial role in COVID-19",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "h8D9ikUAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "A Dhall, S Patiyal, N Sharma, SS Usmani, GPS Raghava",
+            "publication": "Briefings in Bioinformatics 22 (2), 936-945, 2021",
+            "cited_by": {
+                "value": 39,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12565888542826298535",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12565888542826298535&engine=google_scholar&hl=en",
+                "cites_id": "12565888542826298535"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Computer-aided prediction and design of IL-6 inducing peptides: IL-6 plays a crucial role in COVID-19",
+                    "author": [
+                        "A Dhall",
+                        "S Patiyal",
+                        "N Sharma",
+                        "SS Usmani"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Briefings in \u2026",
+                    "abstract": "Interleukin 6 (IL-6) is a pro-inflammatory cytokine that stimulates acute phase responses, hematopoiesis and specific immune reactions. Recently, it was found that the IL-6 plays a vital role in the progression of COVID-19, which is responsible for the high mortality rate. In order to facilitate the scientific community to fight against COVID-19, we have developed a method for predicting IL-6 inducing peptides/epitopes. The models were trained and tested on experimentally validated 365 IL-6 inducing and 2991 non-inducing"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://academic.oup.com/bib/article-abstract/22/2/936/5919792",
+                "author_id": [
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "j7LcxrUAAAAJ",
+                    "Sxr1MJwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:p_xPgg0BY64J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputer-aided%2Bprediction%2Band%2Bdesign%2Bof%2BIL-6%2Binducing%2Bpeptides:%2BIL-6%2Bplays%2Ba%2Bcrucial%2Brole%2Bin%2BCOVID-19%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=p_xPgg0BY64J&ei=a1NkYs-vE8LZmQHnraWYCA&json=",
+                "num_citations": 39,
+                "citedby_url": "/scholar?cites=12565888542826298535&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:p_xPgg0BY64J:scholar.google.com/&scioq=Computer-aided+prediction+and+design+of+IL-6+inducing+peptides:+IL-6+plays+a+crucial+role+in+COVID-19&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7665369/"
+            }
+        },
+        {
+            "title": "Identification of platform-independent diagnostic biomarker panel for hepatocellular carcinoma using large-scale transcriptomics data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "h8D9ikUAAAAJ:d1gkVwhDpl0C",
+            "authors": "H Kaur, A Dhall, R Kumar, GPS Raghava",
+            "publication": "Frontiers in genetics 10, 1306, 2020",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=646670678131696271",
+                "serpapi_link": "https://serpapi.com/search.json?cites=646670678131696271&engine=google_scholar&hl=en",
+                "cites_id": "646670678131696271"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Identification of platform-independent diagnostic biomarker panel for hepatocellular carcinoma using large-scale transcriptomics data",
+                    "author": [
+                        "H Kaur",
+                        "A Dhall",
+                        "R Kumar",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Frontiers in genetics",
+                    "abstract": "The high mortality rate of hepatocellular carcinoma (HCC) is primarily due to its late diagnosis. In the past numerous attempts have been made to design genetic biomarkers for the identification of HCC; unfortunately, most of the studies are based on small datasets obtained from a specific platform or lack reasonable validation performance on the external datasets. In order to identify a universal expression-based diagnostic biomarker panel for HCC that can be applicable across multiple platforms, we have employed large scale"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.frontiersin.org/articles/10.3389/fgene.2019.01306/full",
+                "author_id": [
+                    "4tk3wcMAAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "4GpIrmEAAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:j2KzOI5v-QgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIdentification%2Bof%2Bplatform-independent%2Bdiagnostic%2Bbiomarker%2Bpanel%2Bfor%2Bhepatocellular%2Bcarcinoma%2Busing%2Blarge-scale%2Btranscriptomics%2Bdata%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=j2KzOI5v-QgJ&ei=blNkYoqpDpGJmwGY-qmYDQ&json=",
+                "num_citations": 23,
+                "citedby_url": "/scholar?cites=646670678131696271&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:j2KzOI5v-QgJ:scholar.google.com/&scioq=Identification+of+platform-independent+diagnostic+biomarker+panel+for+hepatocellular+carcinoma+using+large-scale+transcriptomics+data&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.frontiersin.org/articles/10.3389/fgene.2019.01306/full"
+            }
+        },
+        {
+            "title": "Computing wide range of protein/peptide features from their sequence and structure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "h8D9ikUAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Pande, S Patiyal, A Lathwal, C Arora, D Kaur, A Dhall, G Mishra, H Kaur, ...",
+            "publication": "BioRxiv, 599126, 2019",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1346851513176431176",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1346851513176431176&engine=google_scholar&hl=en",
+                "cites_id": "1346851513176431176"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Computing wide range of protein/peptide features from their sequence and structure",
+                    "author": [
+                        "A Pande",
+                        "S Patiyal",
+                        "A Lathwal",
+                        "C Arora",
+                        "D Kaur",
+                        "A Dhall"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "BioRxiv",
+                    "abstract": "Motivation In last three decades, a wide range of protein descriptors/features have been discovered to annotate a protein with high precision. A wide range of features have been integrated in numerous software packages (eg, PROFEAT, PyBioMed, iFeature, protr, Rcpi, propy) to predict function of a protein. These features are not suitable to predict function of a protein at residue level such as prediction of ligand binding residues, DNA interacting residues, post translational modification etc. Results In order to facilitate scientific"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/599126.abstract",
+                "author_id": [
+                    "",
+                    "w0X4O94AAAAJ",
+                    "nAnu7U8AAAAJ",
+                    "IUeqxQsAAAAJ",
+                    "y4YPsBEAAAAJ",
+                    "h8D9ikUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:SBoUuFD6sBIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputing%2Bwide%2Brange%2Bof%2Bprotein/peptide%2Bfeatures%2Bfrom%2Btheir%2Bsequence%2Band%2Bstructure%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SBoUuFD6sBIJ&ei=cVNkYvmsKe-Sy9YPs_mY8AM&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=1346851513176431176&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:SBoUuFD6sBIJ:scholar.google.com/&scioq=Computing+wide+range+of+protein/peptide+features+from+their+sequence+and+structure&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2019/04/04/599126.full.pdf"
+            }
+        },
+        {
+            "title": "Computing skin cutaneous melanoma outcome from the HLA-alleles and clinical characteristics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:qjMakFHDy7sC",
+            "citation_id": "h8D9ikUAAAAJ:qjMakFHDy7sC",
+            "authors": "A Dhall, S Patiyal, H Kaur, S Bhalla, C Arora, GPS Raghava",
+            "publication": "Frontiers in genetics 11, 221, 2020",
+            "cited_by": {
+                "value": 17,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14809368463558690379",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14809368463558690379&engine=google_scholar&hl=en",
+                "cites_id": "14809368463558690379"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Computing skin cutaneous melanoma outcome from the HLA-alleles and clinical characteristics",
+                    "author": [
+                        "A Dhall",
+                        "S Patiyal",
+                        "H Kaur",
+                        "S Bhalla",
+                        "C Arora"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Frontiers in \u2026",
+                    "abstract": "Human Leukocyte Antigen (HLA) are essential components of the immune system that stimulate immune cells to provide protection and defense against cancer. More than thousands of HLA alleles have been reported in the literature, but only a specific set of HLA alleles are present in an individual. The capability to recognize the cancer-associated mutations by the immune system depends on the presence of a particular set of alleles, that elicit an immune response to fight against cancer. Therefore, the occurrence of specific HLA"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.frontiersin.org/articles/10.3389/fgene.2020.00221/full",
+                "author_id": [
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "4tk3wcMAAAAJ",
+                    "Xxs4FX8AAAAJ",
+                    "IUeqxQsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:S8ZJeidyhc0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputing%2Bskin%2Bcutaneous%2Bmelanoma%2Boutcome%2Bfrom%2Bthe%2BHLA-alleles%2Band%2Bclinical%2Bcharacteristics%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=S8ZJeidyhc0J&ei=dFNkYrG8OIySyASZk6HgCA&json=",
+                "num_citations": 17,
+                "citedby_url": "/scholar?cites=14809368463558690379&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:S8ZJeidyhc0J:scholar.google.com/&scioq=Computing+skin+cutaneous+melanoma+outcome+from+the+HLA-alleles+and+clinical+characteristics&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.frontiersin.org/articles/10.3389/fgene.2020.00221/full"
+            }
+        },
+        {
+            "title": "A web-based platform on coronavirus disease-19 to maintain predicted diagnostic, drug, and vaccine candidates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "h8D9ikUAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Patiyal, D Kaur, H Kaur, N Sharma, A Dhall, S Sahai, P Agrawal, ...",
+            "publication": "Monoclonal antibodies in immunodiagnosis and immunotherapy 39 (6), 204-216, 2020",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11848067928221231590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11848067928221231590&engine=google_scholar&hl=en",
+                "cites_id": "11848067928221231590"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A web-based platform on coronavirus disease-19 to maintain predicted diagnostic, drug, and vaccine candidates",
+                    "author": [
+                        "S Patiyal",
+                        "D Kaur",
+                        "H Kaur",
+                        "N Sharma"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Monoclonal \u2026",
+                    "abstract": "A web-based resource CoronaVIR (https://webs. iiitd. edu. in/raghava/coronavir/) has been developed to maintain the predicted and existing information on coronavirus severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). We have integrated multiple modules, including \u201cGenomics,\u201d\u201cDiagnosis,\u201d\u201cImmunotherapy,\u201d and \u201cDrug Designing\u201d to understand the holistic view of this pandemic medical disaster. The genomics module provides genomic information of different strains of this virus to understand genomic level alterations. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.liebertpub.com/doi/abs/10.1089/mab.2020.0035",
+                "author_id": [
+                    "w0X4O94AAAAJ",
+                    "y4YPsBEAAAAJ",
+                    "4tk3wcMAAAAJ",
+                    "j7LcxrUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5ilTyAHLbKQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bweb-based%2Bplatform%2Bon%2Bcoronavirus%2Bdisease-19%2Bto%2Bmaintain%2Bpredicted%2Bdiagnostic,%2Bdrug,%2Band%2Bvaccine%2Bcandidates%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5ilTyAHLbKQJ&ei=f1NkYoPQMoySyASZk6HgCA&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=11848067928221231590&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5ilTyAHLbKQJ:scholar.google.com/&scioq=A+web-based+platform+on+coronavirus+disease-19+to+maintain+predicted+diagnostic,+drug,+and+vaccine+candidates&hl=en&as_sdt=0,33",
+                "eprint_url": "https://osf.io/xegzu/download"
+            }
+        },
+        {
+            "title": "NAGbinder: An approach for identifying N\u2010acetylglucosamine interacting residues of a protein from its primary sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "h8D9ikUAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Patiyal, P Agrawal, V Kumar, A Dhall, R Kumar, G Mishra, ...",
+            "publication": "Protein Science 29 (1), 201-210, 2020",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10133163541096858520",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10133163541096858520&engine=google_scholar&hl=en",
+                "cites_id": "10133163541096858520"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "NAGbinder: An approach for identifying N\u2010acetylglucosamine interacting residues of a protein from its primary sequence",
+                    "author": [
+                        "S Patiyal",
+                        "P Agrawal",
+                        "V Kumar",
+                        "A Dhall"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Protein \u2026",
+                    "abstract": "N\u2010acetylglucosamine (NAG) belongs to the eight essential saccharides that are required to maintain the optimal health and precise functioning of systems ranging from bacteria to human. In the present study, we have developed a method, NAGbinder, which predicts the NAG\u2010interacting residues in a protein from its primary sequence information. We extracted 231 NAG\u2010interacting nonredundant protein chains from Protein Data Bank, where no two sequences share more than 40% sequence identity. All prediction models were trained"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.3761",
+                "author_id": [
+                    "w0X4O94AAAAJ",
+                    "Jr6kNsUAAAAJ",
+                    "Hg1nFFQAAAAJ",
+                    "h8D9ikUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mIMEho06oIwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNAGbinder:%2BAn%2Bapproach%2Bfor%2Bidentifying%2BN%25E2%2580%2590acetylglucosamine%2Binteracting%2Bresidues%2Bof%2Ba%2Bprotein%2Bfrom%2Bits%2Bprimary%2Bsequence%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mIMEho06oIwJ&ei=hFNkYt7uOJyO6rQP_qe3mAs&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=10133163541096858520&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mIMEho06oIwJ:scholar.google.com/&scioq=NAGbinder:+An+approach+for+identifying+N%E2%80%90acetylglucosamine+interacting+residues+of+a+protein+from+its+primary+sequence&hl=en&as_sdt=0,33",
+                "eprint_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.3761"
+            }
+        },
+        {
+            "title": "Crowdsourcing assessment of maternal blood multi-omics for predicting gestational age and preterm birth",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "h8D9ikUAAAAJ:zYLM7Y9cAGgC",
+            "authors": "AL Tarca, B\u00c1 Pataki, R Romero, M Sirota, Y Guan, R Kutum, ...",
+            "publication": "Cell Reports Medicine 2 (6), 100323, 2021",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11142692871475627888",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11142692871475627888&engine=google_scholar&hl=en",
+                "cites_id": "11142692871475627888"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Crowdsourcing assessment of maternal blood multi-omics for predicting gestational age and preterm birth",
+                    "author": [
+                        "AL Tarca",
+                        "B\u00c1 Pataki",
+                        "R Romero",
+                        "M Sirota",
+                        "Y Guan"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Cell Reports \u2026",
+                    "abstract": "Identification of pregnancies at risk of preterm birth (PTB), the leading cause of newborn deaths, remains challenging given the syndromic nature of the disease. We report a longitudinal multi-omics study coupled with a DREAM challenge to develop predictive models of PTB. The findings indicate that whole-blood gene expression predicts ultrasound-based gestational ages in normal and complicated pregnancies (r= 0.83) and, using data collected before 37 weeks of gestation, also predicts the delivery date in both normal"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S266637912100166X",
+                "author_id": [
+                    "7LASVa0AAAAJ",
+                    "eZN42LAAAAAJ",
+                    "vVp3_OoAAAAJ",
+                    "n0Tc-dkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:cAeVTSHMopoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCrowdsourcing%2Bassessment%2Bof%2Bmaternal%2Bblood%2Bmulti-omics%2Bfor%2Bpredicting%2Bgestational%2Bage%2Band%2Bpreterm%2Bbirth%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cAeVTSHMopoJ&ei=iFNkYp3XJqKUy9YP_JONiAY&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=11142692871475627888&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cAeVTSHMopoJ:scholar.google.com/&scioq=Crowdsourcing+assessment+of+maternal+blood+multi-omics+for+predicting+gestational+age+and+preterm+birth&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.sciencedirect.com/science/article/pii/S266637912100166X"
+            }
+        },
+        {
+            "title": "ChAlPred: A web server for prediction of allergenicity of chemical compounds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "h8D9ikUAAAAJ:eQOLeE2rZwMC",
+            "authors": "N Sharma, S Patiyal, A Dhall, NL Devi, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 136, 104746, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1852602830364918945",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1852602830364918945&engine=google_scholar&hl=en",
+                "cites_id": "1852602830364918945"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ChAlPred: A web server for prediction of allergenicity of chemical compounds",
+                    "author": [
+                        "N Sharma",
+                        "S Patiyal",
+                        "A Dhall",
+                        "NL Devi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Computers in Biology \u2026",
+                    "abstract": "Background Allergy is the abrupt reaction of the immune system that may occur after the exposure to allergens such as proteins, peptides, or chemicals. In the past, various methods have been generated for predicting allergenicity of proteins and peptides. In contrast, there is no method that can predict allergenic potential of chemicals. In this paper, we described a method ChAlPred developed for predicting chemical allergens as well as for designing chemical analogs with desired allergenicity. Method In this study, we have used 403"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0010482521005400",
+                "author_id": [
+                    "j7LcxrUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "J8q2A9UAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ocTIbXXEtRkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChAlPred:%2BA%2Bweb%2Bserver%2Bfor%2Bprediction%2Bof%2Ballergenicity%2Bof%2Bchemical%2Bcompounds%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ocTIbXXEtRkJ&ei=kVNkYvn2FZyO6rQP_qe3mAs&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=1852602830364918945&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ocTIbXXEtRkJ:scholar.google.com/&scioq=ChAlPred:+A+web+server+for+prediction+of+allergenicity+of+chemical+compounds&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/05/23/2021.05.21.445101.full.pdf"
+            }
+        },
+        {
+            "title": "SAPdb: A database of short peptides and the corresponding nanostructures formed by self-assembly",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "h8D9ikUAAAAJ:YsMSGLbcyi4C",
+            "authors": "D Mathur, H Kaur, A Dhall, N Sharma, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 133, 104391, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16508005385734137534,10872838730138101602",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16508005385734137534%2C10872838730138101602&engine=google_scholar&hl=en",
+                "cites_id": "16508005385734137534,10872838730138101602"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SAPdb: A database of short peptides and the corresponding nanostructures formed by self-assembly",
+                    "author": [
+                        "D Mathur",
+                        "H Kaur",
+                        "A Dhall",
+                        "N Sharma"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Computers in Biology \u2026",
+                    "abstract": "Nanostructures generated by self-assembly of peptides yield nanomaterials that have many therapeutic applications, including drug delivery and biomedical engineering, due to their low cytotoxicity and higher uptake by targeted cells owing to their high affinity and specificity towards cell surface receptors. Despite the promising implications of this rapidly expanding field, there is no dedicated resource to study peptide nanostructures. This study endeavours to create a repository of short peptides, which may prove to be the best models to study"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0010482521001852",
+                "author_id": [
+                    "BWVuA1IAAAAJ",
+                    "4tk3wcMAAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "j7LcxrUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vibrZm83GOUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSAPdb:%2BA%2Bdatabase%2Bof%2Bshort%2Bpeptides%2Band%2Bthe%2Bcorresponding%2Bnanostructures%2Bformed%2Bby%2Bself-assembly%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vibrZm83GOUJ&ei=lFNkYp3VLKKUy9YP_JONiAY&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=16508005385734137534&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vibrZm83GOUJ:scholar.google.com/&scioq=SAPdb:+A+database+of+short+peptides+and+the+corresponding+nanostructures+formed+by+self-assembly&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "B3Pred: A Random-Forest-Based Method for Predicting and Designing Blood\u2013Brain Barrier Penetrating Peptides. Pharmaceutics 2021, 13, 1237",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "h8D9ikUAAAAJ:mVmsd5A6BfQC",
+            "authors": "V Kumar, S Patiyal, A Dhall, N Sharma, GPS Raghava",
+            "publication": "s Note: MDPI stays neutral with regard to jurisdictional claims in published \u2026, 2021",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9310222016401229597,5867191162391028782",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9310222016401229597%2C5867191162391028782&engine=google_scholar&hl=en",
+                "cites_id": "9310222016401229597,5867191162391028782"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "B3Pred: A Random-Forest-Based Method for Predicting and Designing Blood\u2013Brain Barrier Penetrating Peptides. Pharmaceutics 2021, 13, 1237",
+                    "author": [
+                        "V Kumar",
+                        "S Patiyal",
+                        "A Dhall",
+                        "N Sharma",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "The blood\u2013brain barrier is a major obstacle in treating brain-related disorders, as it does not allow the delivery of drugs into the brain. We developed a method for predicting blood\u2013brain barrier penetrating peptides to facilitate drug delivery into the brain. These blood\u2013brain barrier penetrating peptides (B3PPs) can act as therapeutics, as well as drug delivery agents. We trained, tested, and evaluated our models on blood\u2013brain barrier peptides obtained from the B3Pdb database. First, we computed a wide range of peptide features"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Vinod-Kumar-97/publication/353840291_B3Pred_A_Random-Forest-Based_Method_for_Predicting_and_Designing_Blood-Brain_Barrier_Penetrating_Peptides/links/6114c44b1e95fe241ac60f5c/B3Pred-A-Random-Forest-Based-Method-for-Predicting-and-Designing-Blood-Brain-Barrier-Penetrating-Peptides.pdf",
+                "author_id": [
+                    "0LXlN8MAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:LuSgx0ZzbFEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DB3Pred:%2BA%2BRandom-Forest-Based%2BMethod%2Bfor%2BPredicting%2Band%2BDesigning%2BBlood%25E2%2580%2593Brain%2BBarrier%2BPenetrating%2BPeptides.%2BPharmaceutics%2B2021,%2B13,%2B1237%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LuSgx0ZzbFEJ&ei=l1NkYryiLuiSy9YPp-OyiAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:LuSgx0ZzbFEJ:scholar.google.com/&scioq=B3Pred:+A+Random-Forest-Based+Method+for+Predicting+and+Designing+Blood%E2%80%93Brain+Barrier+Penetrating+Peptides.+Pharmaceutics+2021,+13,+1237&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vinod-Kumar-97/publication/353840291_B3Pred_A_Random-Forest-Based_Method_for_Predicting_and_Designing_Blood-Brain_Barrier_Penetrating_Peptides/links/6114c44b1e95fe241ac60f5c/B3Pred-A-Random-Forest-Based-Method-for-Predicting-and-Designing-Blood-Brain-Barrier-Penetrating-Peptides.pdf"
+            }
+        },
+        {
+            "title": "Computer-aided prediction of inhibitors against STAT3 for managing COVID-19 associate cytokine storm",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:aqlVkmm33-oC",
+            "citation_id": "h8D9ikUAAAAJ:aqlVkmm33-oC",
+            "authors": "A Dhall, S Patiyal, N Sharma, NL Devi, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 137 (October 2021), 104780, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11384899869154551617",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11384899869154551617&engine=google_scholar&hl=en",
+                "cites_id": "11384899869154551617"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Computer-aided prediction of inhibitors against STAT3 for managing COVID-19 associated cytokine storm",
+                    "author": [
+                        "A Dhall",
+                        "S Patiyal",
+                        "N Sharma",
+                        "NL Devi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Computers in biology and \u2026",
+                    "abstract": "Background Proinflammatory cytokines are correlated with the severity of disease in patients with COVID-19. IL6-mediated activation of STAT3 proliferates proinflammatory responses that lead to cytokine storm promotion. Thus, STAT3 inhibitors may play a crucial role in managing the COVID-19 pathogenesis. The present study discusses a method for predicting inhibitors against the STAT3 signaling pathway. Method The main dataset comprises 1565 STAT3 inhibitors and 1671 non-inhibitors used for training, testing, and evaluation of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0010482521005746",
+                "author_id": [
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "j7LcxrUAAAAJ",
+                    "J8q2A9UAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QSdZeBxK_50J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputer-aided%2Bprediction%2Bof%2Binhibitors%2Bagainst%2BSTAT3%2Bfor%2Bmanaging%2BCOVID-19%2Bassociate%2Bcytokine%2Bstorm%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QSdZeBxK_50J&ei=m1NkYuOnOYySyASZk6HgCA&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=11384899869154551617&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QSdZeBxK_50J:scholar.google.com/&scioq=Computer-aided+prediction+of+inhibitors+against+STAT3+for+managing+COVID-19+associate+cytokine+storm&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8378993/"
+            }
+        },
+        {
+            "title": "GPSRdocker: a Docker-based resource for genomics, proteomics and systems biology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "h8D9ikUAAAAJ:2osOgNQ5qMEC",
+            "authors": "P Agrawal, R Kumar, SS Usmani, A Dhall, S Patiyal, N Sharma, H Kaur, ...",
+            "publication": "BioRxiv, 827766, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1301798342533146722",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1301798342533146722&engine=google_scholar&hl=en",
+                "cites_id": "1301798342533146722"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "GPSRdocker: a Docker-based resource for genomics, proteomics and systems biology",
+                    "author": [
+                        "P Agrawal",
+                        "R Kumar",
+                        "SS Usmani",
+                        "A Dhall",
+                        "S Patiyal"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "BioRxiv",
+                    "abstract": "Background In past number of web-based resources has been developed in the field of Bioinformatics. These resources are heavily used by scientific community to provide solution for challenges faced by experimental researchers particularly in the field of biomedical sciences. There are number of challenges in utilizing full potential of these services that includes internet speed, limits on computing power, and security of data. In order to enhance utilities of these web-based assets, we developed a docker-based container that integrates"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/827766.abstract",
+                "author_id": [
+                    "Jr6kNsUAAAAJ",
+                    "4GpIrmEAAAAJ",
+                    "Sxr1MJwAAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Ymjh_7HqEBIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGPSRdocker:%2Ba%2BDocker-based%2Bresource%2Bfor%2Bgenomics,%2Bproteomics%2Band%2Bsystems%2Bbiology%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ymjh_7HqEBIJ&ei=n1NkYp7hHeiSy9YPp-OyiAE&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=1301798342533146722&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Ymjh_7HqEBIJ:scholar.google.com/&scioq=GPSRdocker:+a+Docker-based+resource+for+genomics,+proteomics+and+systems+biology&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2019/11/04/827766.full.pdf"
+            }
+        },
+        {
+            "title": "Cell-to-cell and type-to-type heterogeneity of signaling networks: Insights from the crowd",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:4DMP91E08xMC",
+            "citation_id": "h8D9ikUAAAAJ:4DMP91E08xMC",
+            "authors": "A Gabor, M Tognetti, A Driessen, J Tanevski, B Guo, W Cao, H Shen, T Yu, ...",
+            "publication": "molecular system biology, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13716051336552218965",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13716051336552218965&engine=google_scholar&hl=en",
+                "cites_id": "13716051336552218965"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cell\u2010to\u2010cell and type\u2010to\u2010type heterogeneity of signaling networks: insights from the crowd",
+                    "author": [
+                        "A Gabor",
+                        "M Tognetti",
+                        "A Driessen",
+                        "J Tanevski"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Molecular systems \u2026",
+                    "abstract": "Recent technological developments allow us to measure the status of dozens of proteins in individual cells. This opens the way to understand the heterogeneity of complex multi\u2010signaling networks across cells and cell types, with important implications to understand and treat diseases such as cancer. These technologies are, however, limited to proteins for which antibodies are available and are fairly costly, making predictions of new markers and of existing markers under new conditions a valuable alternative. To assess our capacity to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.embopress.org/doi/abs/10.15252/msb.202110402",
+                "author_id": [
+                    "tdvvRoMAAAAJ",
+                    "",
+                    "",
+                    "F47ynYgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VYE3FAU0Wb4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCell-to-cell%2Band%2Btype-to-type%2Bheterogeneity%2Bof%2Bsignaling%2Bnetworks:%2BInsights%2Bfrom%2Bthe%2Bcrowd%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VYE3FAU0Wb4J&ei=q1NkYq7AGO-Sy9YPs_mY8AM&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=13716051336552218965&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VYE3FAU0Wb4J:scholar.google.com/&scioq=Cell-to-cell+and+type-to-type+heterogeneity+of+signaling+networks:+Insights+from+the+crowd&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.embopress.org/doi/pdf/10.15252/msb.202110402"
+            }
+        },
+        {
+            "title": "ProCanBio: A Database of Manually Curated Biomarkers for Prostate Cancer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "h8D9ikUAAAAJ:ZeXyd9-uunAC",
+            "authors": "GPSR Dikscha Sapra, Harpreet Kaur, Anjali Dhall",
+            "publication": "Journal of Computational Biology 28, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6964931901061290257",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6964931901061290257&engine=google_scholar&hl=en",
+                "cites_id": "6964931901061290257"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ProCanBio: a database of manually curated biomarkers for Prostate Cancer",
+                    "author": [
+                        "D Sapra",
+                        "H Kaur",
+                        "A Dhall"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Journal of Computational \u2026",
+                    "abstract": "Prostate cancer (PCa) is the second lethal malignancy in men worldwide. In the past, numerous research groups investigated the omics profiles of patients and scrutinized biomarkers for the diagnosis and prognosis of PCa. However, information related to the biomarkers is widely scattered across numerous resources in complex textual format, which poses hindrance to understand the tumorigenesis of this malignancy and scrutinization of robust signature. To create a comprehensive resource, we collected all the relevant"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.liebertpub.com/doi/abs/10.1089/cmb.2021.0348",
+                "author_id": [
+                    "SV9JucUAAAAJ",
+                    "4tk3wcMAAAAJ",
+                    "h8D9ikUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:EVmLh6loqGAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProCanBio:%2BA%2BDatabase%2Bof%2BManually%2BCurated%2BBiomarkers%2Bfor%2BProstate%2BCancer%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EVmLh6loqGAJ&ei=rlNkYp6vI5GJmwGY-qmYDQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=6964931901061290257&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:EVmLh6loqGAJ:scholar.google.com/&scioq=ProCanBio:+A+Database+of+Manually+Curated+Biomarkers+for+Prostate+Cancer&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/10.1101/2021.06.06.447247.full.pdf"
+            }
+        },
+        {
+            "title": "Nfeature: A platform for computing features of nucleotide sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:IWHjjKOFINEC",
+            "citation_id": "h8D9ikUAAAAJ:IWHjjKOFINEC",
+            "authors": "M Mathur, S Patiyal, A Dhall, S Jain, R Tomer, A Arora, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8481337325552156314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8481337325552156314&engine=google_scholar&hl=en",
+                "cites_id": "8481337325552156314"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Nfeature: A platform for computing features of nucleotide sequences",
+                    "author": [
+                        "M Mathur",
+                        "S Patiyal",
+                        "A Dhall",
+                        "S Jain",
+                        "R Tomer",
+                        "A Arora"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "bioRxiv",
+                    "abstract": "In the past few decades, public repositories on nucleotides have increased with exponential rates. This pose a major challenge to researchers to predict the structure and function of nucleotide sequences. In order to annotate function of nucleotide sequences it is important to compute features/attributes for predicting function of these sequences using machine learning techniques. In last two decades, several software/platforms have been developed to elicit a wide range of features for nucleotide sequences. In order to complement the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2021.12.14.472723.abstract",
+                "author_id": [
+                    "",
+                    "w0X4O94AAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "frHzEOcAAAAJ",
+                    "48-VPeMAAAAJ",
+                    "MDSwRTkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mj7MjVzDs3UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNfeature:%2BA%2Bplatform%2Bfor%2Bcomputing%2Bfeatures%2Bof%2Bnucleotide%2Bsequences%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mj7MjVzDs3UJ&ei=sVNkYvioIY6pywTd4KPADw&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=8481337325552156314&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mj7MjVzDs3UJ:scholar.google.com/&scioq=Nfeature:+A+platform+for+computing+features+of+nucleotide+sequences&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/12/21/2021.12.14.472723.full.pdf"
+            }
+        },
+        {
+            "title": "IL13Pred: A method for predicting immunoregulatory cytokine IL-13 inducing peptides",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "h8D9ikUAAAAJ:hFOr9nPyWt4C",
+            "authors": "S Jain, A Dhall, S Patiyal, GPS Raghava",
+            "publication": "Computers in Biology and Medicine 143, 105297, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "IL13Pred: A method for predicting immunoregulatory cytokine IL-13 inducing peptides",
+                    "author": [
+                        "S Jain",
+                        "A Dhall",
+                        "S Patiyal",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "Computers in Biology and \u2026",
+                    "abstract": "Background Interleukin 13 (IL-13) is an immunoregulatory cytokine, primarily released by activated T-helper 2 cells. IL-13 induces the pathogenesis of many allergic diseases, such as airway hyperresponsiveness, glycoprotein hypersecretion, and goblet cell hyperplasia. In addition, IL-13 inhibits tumor immunosurveillance, leading to carcinogenesis. Since elevated IL-13 serum levels are severe in COVID-19 patients, predicting IL-13 inducing peptides or regions in a protein is vital to designing safe protein therapeutics"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0010482522000890",
+                "author_id": [
+                    "frHzEOcAAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:UJSHsbUr650J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIL13Pred:%2BA%2Bmethod%2Bfor%2Bpredicting%2Bimmunoregulatory%2Bcytokine%2BIL-13%2Binducing%2Bpeptides%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=UJSHsbUr650J&ei=tFNkYp-aGZGJmwGY-qmYDQ&json=",
+                "num_citations": 0,
+                "eprint_url": "https://www.researchgate.net/profile/Anjali-Dhall/publication/358428428_IL13Pred_A_method_for_predicting_immunoregulatory_cytokine_IL-13_inducing_peptides/links/62062e06cf7c2349ca0975d0/IL13Pred-A-method-for-predicting-immunoregulatory-cytokine-IL-13-inducing-peptides.pdf"
+            }
+        },
+        {
+            "title": "In-silico method for predicting infectious strains of Influenza A virus from its genome and protein sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:HDshCWvjkbEC",
+            "citation_id": "h8D9ikUAAAAJ:HDshCWvjkbEC",
+            "authors": "T Roy, K Sharma, A Dhall, S Patiyal, GPS Raghava",
+            "publication": "bioRxiv, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "In-silico method for predicting infectious strains of Influenza A virus from its genome and protein sequences",
+                    "author": [
+                        "T Roy",
+                        "K Sharma",
+                        "A Dhall",
+                        "S Patiyal",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "bioRxiv",
+                    "abstract": "Influenza A is a contagious viral disease responsible for four pandemics in the past and a major public health concern. Being zoonotic in nature, the virus can cross the species barrier and transmit from wild aquatic bird reservoirs to humans via intermediate hosts. Virus gradually undergoes host adaptive mutations in their genome and proteins, resulting in different strains/variants which might spread virus from avians/mammals to humans. In this study, we have developed an in-silico models to identify infectious strains of Influenza A"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2022.03.20.485066.abstract",
+                "author_id": [
+                    "",
+                    "",
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hlDassxdJaoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIn-silico%2Bmethod%2Bfor%2Bpredicting%2Binfectious%2Bstrains%2Bof%2BInfluenza%2BA%2Bvirus%2Bfrom%2Bits%2Bgenome%2Band%2Bprotein%2Bsequences%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hlDassxdJaoJ&ei=uFNkYriZJZLeyQTE46-QAg&json=",
+                "num_citations": 0,
+                "eprint_url": "https://www.biorxiv.org/content/10.1101/2022.03.20.485066.full.pdf"
+            }
+        },
+        {
+            "title": "In silico tools and databases for designing cancer immunotherapy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:hC7cP41nSMkC",
+            "citation_id": "h8D9ikUAAAAJ:hC7cP41nSMkC",
+            "authors": "A Dhall, S Jain, N Sharma, LD Naorem, D Kaur, S Patiyal, GPS Raghava",
+            "publication": "Academic Press, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "In silico tools and databases for designing cancer immunotherapy",
+                    "author": [
+                        "A Dhall",
+                        "S Jain",
+                        "N Sharma",
+                        "LD Naorem",
+                        "D Kaur"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "A plethora of in silico resources and tools have been established to design cancer  therapy. The amalgamation of experimental and computational strategies improved the  treatment of cancer. These computational  This chapter enlists several public repositories  and in silico tools designed to analyze and predict the wide range of genomic data to  design cancer immunotherapies."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Anjali-Dhall/publication/357555773_In_silico_tools_and_databases_for_designing_cancer_immunotherapy/links/61d411dbb8305f7c4b1ef90e/In-silico-tools-and-databases-for-designing-cancer-immunotherapy.pdf",
+                "author_id": [
+                    "h8D9ikUAAAAJ",
+                    "frHzEOcAAAAJ",
+                    "j7LcxrUAAAAJ",
+                    "J8q2A9UAAAAJ",
+                    "y4YPsBEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oqXtuKh8ixwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIn%2Bsilico%2Btools%2Band%2Bdatabases%2Bfor%2Bdesigning%2Bcancer%2Bimmunotherapy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oqXtuKh8ixwJ&ei=xVNkYqmbGY6pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:oqXtuKh8ixwJ:scholar.google.com/&scioq=In+silico+tools+and+databases+for+designing+cancer+immunotherapy&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Anjali-Dhall/publication/357555773_In_silico_tools_and_databases_for_designing_cancer_immunotherapy/links/61d411dbb8305f7c4b1ef90e/In-silico-tools-and-databases-for-designing-cancer-immunotherapy.pdf"
+            }
+        },
+        {
+            "title": "P-567 INTEGRATIVE MULTI-OMICS APPROACH FOR STRATIFICATION OF TUMOR RECURRENCE RISK GROUPS OF HEPATOCELLULAR CARCINOMA PATIENTS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:dhFuZR0502QC",
+            "citation_id": "h8D9ikUAAAAJ:dhFuZR0502QC",
+            "authors": "K Harpreet, L Anjali, D Anjali, GPS Raghava",
+            "publication": "74, 346A - 347A, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Integrative multi-omics approach for stratification of tumor recurrence risk groups of Hepatocellular Carcinoma patients",
+                    "author": [
+                        "H Kaur",
+                        "A Lathwal",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "bioRxiv",
+                    "abstract": "Postoperative tumor recurrence is one of the major concerns associated with the poor prognosis of HCC patients. There is yet to elucidate a standard surveillance system for HCC recurrence risk owing to complexity of this malignancy. Generation of multi-omics data from patients facilitate the identification of robust signatures for various diseases. Thus, the current study is an attempt to develop the prognostic models employing multi-omics data to significantly (p-value< 0.05) stratify the recurrence high-risk (median Recurrence Free"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2021.03.03.433841.abstract",
+                "author_id": [
+                    "4tk3wcMAAAAJ",
+                    "nAnu7U8AAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VKn2dPDGz6UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DP-567%2BINTEGRATIVE%2BMULTI-OMICS%2BAPPROACH%2BFOR%2BSTRATIFICATION%2BOF%2BTUMOR%2BRECURRENCE%2BRISK%2BGROUPS%2BOF%2BHEPATOCELLULAR%2BCARCINOMA%2BPATIENTS%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VKn2dPDGz6UJ&ei=ylNkYsaqFo2ymgHg1rfQDQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=11947987072493988180&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VKn2dPDGz6UJ:scholar.google.com/&scioq=P-567+INTEGRATIVE+MULTI-OMICS+APPROACH+FOR+STRATIFICATION+OF+TUMOR+RECURRENCE+RISK+GROUPS+OF+HEPATOCELLULAR+CARCINOMA+PATIENTS&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/03/05/2021.03.03.433841.full.pdf"
+            }
+        },
+        {
+            "title": "Prediction of antibiotic resistant strains of bacteria from their beta-lactamases protein",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "h8D9ikUAAAAJ:hqOjcs7Dif8C",
+            "authors": "GPSR Lubna Maryam, Anjali Dhall, Sumeet Patiyal, Salman Sadullah Usmani ...",
+            "publication": "biorxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Prediction of antibiotic resistant strains of bacteria from their beta-lactamases protein",
+                    "author": [
+                        "L Maryam",
+                        "A Dhall",
+                        "S Patiyal",
+                        "SS Usmani",
+                        "N Sharma"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "bioRxiv",
+                    "abstract": "Number of beta-lactamase variants have ability to deactivate ceftazidime antibiotic, which is the most commonly used antibiotic for treating infection by Gram-negative bacteria. In this study an attempt has been made to develop a method that can predict ceftazidime resistant strains of bacteria from amino acid sequence of beta-lactamases. We obtained beta-lactamases proteins from the \u03b2-lactamase database, corresponding to 87 ceftazidime-sensitive and 112 ceftazidime-resistant bacterial strains. All models developed in this study"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2021.06.26.450028.abstract",
+                "author_id": [
+                    "f27r_WYAAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "Sxr1MJwAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Z3U4_BoJ1hcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPrediction%2Bof%2Bantibiotic%2Bresistant%2Bstrains%2Bof%2Bbacteria%2Bfrom%2Btheir%2Bbeta-lactamases%2Bprotein%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Z3U4_BoJ1hcJ&ei=zlNkYovOH5GJmwGY-qmYDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Z3U4_BoJ1hcJ:scholar.google.com/&scioq=Prediction+of+antibiotic+resistant+strains+of+bacteria+from+their+beta-lactamases+protein&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/06/27/2021.06.26.450028.full.pdf"
+            }
+        },
+        {
+            "title": "Prediction of high-risk liver cancer patients from their mutation profile: Benchmarking of mutation calling techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:qUcmZB5y_30C",
+            "citation_id": "h8D9ikUAAAAJ:qUcmZB5y_30C",
+            "authors": "S Patiyal, A Dhall, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Prediction of high-risk liver cancer patients from their mutation profile: Benchmarking of mutation calling techniques",
+                    "author": [
+                        "S Patiyal",
+                        "A Dhall",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "bioRxiv",
+                    "abstract": "Identification of somatic mutations with high precision is one of the major challenges in prediction of high-risk liver-cancer patients. In the past number of mutation calling techniques have been developed that include MuTect2, MuSE, Varscan2, and SomaticSniper. In this study an attempt has been made to benchmark potential of these techniques in predicting prognostic biomarkers for liver cancer. In this study, we extracted somatic mutations in liver-cancer patients using VCF and MAF files from the cancer genome"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2021.12.17.473127.abstract",
+                "author_id": [
+                    "w0X4O94AAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JowI0-o1LusJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPrediction%2Bof%2Bhigh-risk%2Bliver%2Bcancer%2Bpatients%2Bfrom%2Btheir%2Bmutation%2Bprofile:%2BBenchmarking%2Bof%2Bmutation%2Bcalling%2Btechniques%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JowI0-o1LusJ&ei=0VNkYo_ZFZqSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:JowI0-o1LusJ:scholar.google.com/&scioq=Prediction+of+high-risk+liver+cancer+patients+from+their+mutation+profile:+Benchmarking+of+mutation+calling+techniques&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/12/22/2021.12.17.473127.full.pdf"
+            }
+        },
+        {
+            "title": "Transcriptomics based prediction of metastasis in TNBC patients: Challenges in cross-platforms validation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "h8D9ikUAAAAJ:KlAtU1dfN6UC",
+            "authors": "NL Devi, A Dhall, S Patiyal, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Transcriptomics based prediction of metastasis in TNBC patients: Challenges in cross-platforms validation",
+                    "author": [
+                        "NL Devi",
+                        "A Dhall",
+                        "S Patiyal",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "bioRxiv",
+                    "abstract": "Triple-negative breast cancer (TNBC) is more prone to metastasis and recurrence than other breast cancer subtypes. This study aimed to identify genes that can act as diagnostic biomarkers for predicting lymph node metastasis in TNBC patients. The transcriptomic data of TNBC with or without lymph node metastasis was acquired from TCGA, and the differentially expressed genes were identified. Further, logistic-regression method has been used to identify the top 15 genes (or 15 gene signatures) based on their ability to predict"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2021.09.17.460812.abstract",
+                "author_id": [
+                    "J8q2A9UAAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "w0X4O94AAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xorPlmj2QBQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTranscriptomics%2Bbased%2Bprediction%2Bof%2Bmetastasis%2Bin%2BTNBC%2Bpatients:%2BChallenges%2Bin%2Bcross-platforms%2Bvalidation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xorPlmj2QBQJ&ei=1FNkYtuILo2ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:xorPlmj2QBQJ:scholar.google.com/&scioq=Transcriptomics+based+prediction+of+metastasis+in+TNBC+patients:+Challenges+in+cross-platforms+validation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/09/20/2021.09.17.460812.full.pdf"
+            }
+        },
+        {
+            "title": "DBpred: A deep learning method for the prediction of DNA interacting residues in protein sequences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:0EnyYjriUFMC",
+            "citation_id": "h8D9ikUAAAAJ:0EnyYjriUFMC",
+            "authors": "S Patiyal, A Dhall, GPS Raghava",
+            "publication": "bioRxiv, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "DBpred: A deep learning method for the prediction of DNA interacting residues in protein sequences",
+                    "author": [
+                        "S Patiyal",
+                        "A Dhall",
+                        "GPS Raghava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "bioRxiv",
+                    "abstract": "DNA-protein interaction is one of the most crucial interactions in the biological system, which decide the fate of many processes such as transcription, regulation of gene expression, splicing, and many more. Though many computational approaches exist that can predict the DNA interacting residues from the protein sequences, there is still a significant opportunity for improvement in terms of performance and accessibility. In this study, we have downloaded the benchmark dataset from method hybridNAP and recently published method"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2021.08.05.455224.abstract",
+                "author_id": [
+                    "w0X4O94AAAAJ",
+                    "h8D9ikUAAAAJ",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:idy5NfY2iCoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDBpred:%2BA%2Bdeep%2Blearning%2Bmethod%2Bfor%2Bthe%2Bprediction%2Bof%2BDNA%2Binteracting%2Bresidues%2Bin%2Bprotein%2Bsequences%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=idy5NfY2iCoJ&ei=2FNkYsqwA4OEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:idy5NfY2iCoJ:scholar.google.com/&scioq=DBpred:+A+deep+learning+method+for+the+prediction+of+DNA+interacting+residues+in+protein+sequences&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/06/2021.08.05.455224.full.pdf"
+            }
+        },
+        {
+            "title": "A repository of web-based bioinformatics resources developed in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:UebtZRa9Y70C",
+            "citation_id": "h8D9ikUAAAAJ:UebtZRa9Y70C",
+            "authors": "A Agarwal, P Agrawal, A Sharma, V Kumar, C Mugdal, A Dhall, ...",
+            "publication": "bioRxiv, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A repository of web-based bioinformatics resources developed in India",
+                    "author": [
+                        "A Agarwal",
+                        "P Agrawal",
+                        "A Sharma",
+                        "V Kumar",
+                        "C Mugdal"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "bioRxiv",
+                    "abstract": "IndiaBioDb (https://webs. iiitd. edu. in/raghava/indiabiodb/) is a manually curated comprehensive repository of bioinformatics resources developed and maintained by Indian researchers. This repository maintains information about 543 freely accessible functional resources that include around 258 biological databases. Each entry provides a complete detail about a resource that includes the name of resources, web link, detail of publication, information about the corresponding author, name of institute, type of resource. A user"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.biorxiv.org/content/10.1101/2020.01.21.855627.abstract",
+                "author_id": [
+                    "zbewM44AAAAJ",
+                    "Jr6kNsUAAAAJ",
+                    "MCiKf4kAAAAJ",
+                    "Hg1nFFQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:5e3jPi-iIqYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Brepository%2Bof%2Bweb-based%2Bbioinformatics%2Bresources%2Bdeveloped%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5e3jPi-iIqYJ&ei=21NkYvmtDKKUy9YP_JONiAY&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:5e3jPi-iIqYJ:scholar.google.com/&scioq=A+repository+of+web-based+bioinformatics+resources+developed+in+India&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.biorxiv.org/content/biorxiv/early/2020/01/23/2020.01.21.855627.full.pdf"
+            }
+        },
+        {
+            "title": "HLAncPred: A method for predicting promiscuous non-classical HLA binding sites (preprint)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h8D9ikUAAAAJ&pagesize=100&citation_for_view=h8D9ikUAAAAJ:-f6ydRqryjwC",
+            "citation_id": "h8D9ikUAAAAJ:-f6ydRqryjwC",
+            "authors": "A Dhall, S Patiyal, GPS Raghava",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "HLAncPred: A method for predicting promiscuous non-classical HLA binding sites (preprint)",
+                    "author": [
+                        "A Dhall",
+                        "S Patiyal",
+                        "GPS Raghava"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "In the last two decades, ample of methods have been developed to predict the classical HLA binders in an antigen. In contrast, limited attempts have been made to develop methods for predicting binders for non-classical HLA; due to the scarcity of sufficient experimental data and lack of community interest. Of Note, non-classical HLA plays a crucial immunomodulatory role and regulates various immune responses. Recent studies revealed that non-classical HLA (HLA-E & HLA-G) based immunotherapies have many advantages"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/ppcovidwho-296622",
+                "author_id": [
+                    "h8D9ikUAAAAJ",
+                    "",
+                    "XK5GUiYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nL6NQqGggycJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHLAncPred:%2BA%2Bmethod%2Bfor%2Bpredicting%2Bpromiscuous%2Bnon-classical%2BHLA%2Bbinding%2Bsites%2B(preprint)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nL6NQqGggycJ&ei=31NkYuWSK5yO6rQP_qe3mAs&json=",
+                "num_citations": 0
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 255,
+                    "since_2017": 255
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 8,
+                    "since_2017": 8
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2019,
+                "citations": 1
+            },
+            {
+                "year": 2020,
+                "citations": 32
+            },
+            {
+                "year": 2021,
+                "citations": 169
+            },
+            {
+                "year": 2022,
+                "citations": 53
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=h8D9ikUAAAAJ",
+        "available": 21,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Gajendra PS Raghava",
+            "link": "https://scholar.google.com/citations?user=XK5GUiYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XK5GUiYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XK5GUiYAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, IIIT-Delhi , India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XK5GUiYAAAAJ&citpid=6"
+        },
+        {
+            "name": "Sumeet Patiyal",
+            "link": "https://scholar.google.com/citations?user=w0X4O94AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=w0X4O94AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "w0X4O94AAAAJ",
+            "affiliations": "Research Scholar",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=w0X4O94AAAAJ&citpid=1"
+        },
+        {
+            "name": "Neelam Sharma",
+            "link": "https://scholar.google.com/citations?user=j7LcxrUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j7LcxrUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "j7LcxrUAAAAJ",
+            "affiliations": "Research Scholar",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j7LcxrUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Harpreet kaur",
+            "link": "https://scholar.google.com/citations?user=4tk3wcMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4tk3wcMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4tk3wcMAAAAJ",
+            "affiliations": "NIH - National Cancer Institute, MD, USA",
+            "email": "Verified email at pine.bio",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4tk3wcMAAAAJ&citpid=17"
+        },
+        {
+            "name": "Chakit Arora",
+            "link": "https://scholar.google.com/citations?user=IUeqxQsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IUeqxQsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IUeqxQsAAAAJ",
+            "affiliations": "Scuola Normale Superiore, Pisa, Italy",
+            "email": "Verified email at sns.it",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IUeqxQsAAAAJ&citpid=3"
+        },
+        {
+            "name": "Piyush Agrawal",
+            "link": "https://scholar.google.com/citations?user=Jr6kNsUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Jr6kNsUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Jr6kNsUAAAAJ",
+            "affiliations": "Visiting Postdoctoral Fellow, National Cancer Institute, NIH, USA",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Jr6kNsUAAAAJ&citpid=19"
+        },
+        {
+            "name": "Vinod Kumar",
+            "link": "https://scholar.google.com/citations?user=Hg1nFFQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Hg1nFFQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Hg1nFFQAAAAJ",
+            "affiliations": "National Institutes of Health / IRP/ NIA",
+            "email": "Verified email at nih.gov",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Hg1nFFQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Salman Sadullah Usmani, Ph.D.",
+            "link": "https://scholar.google.com/citations?user=Sxr1MJwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Sxr1MJwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Sxr1MJwAAAAJ",
+            "affiliations": "Research Fellow, Albert Einstein College of Medicine, New York",
+            "email": "Verified email at einsteinmed.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Sxr1MJwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sherry Bhalla",
+            "link": "https://scholar.google.com/citations?user=Xxs4FX8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xxs4FX8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xxs4FX8AAAAJ",
+            "affiliations": "Mount Sinai",
+            "email": "Verified email at mssm.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xxs4FX8AAAAJ&citpid=2"
+        },
+        {
+            "name": "Dilraj Kaur",
+            "link": "https://scholar.google.com/citations?user=y4YPsBEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y4YPsBEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "y4YPsBEAAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, IIITD",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=y4YPsBEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Shipra Jain",
+            "link": "https://scholar.google.com/citations?user=frHzEOcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=frHzEOcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "frHzEOcAAAAJ",
+            "affiliations": "Department of Computational Biology, Indraprastha Institute of Information Technology, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Naorem Leimarembi Devi",
+            "link": "https://scholar.google.com/citations?user=J8q2A9UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=J8q2A9UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "J8q2A9UAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "LUBNA MARYAM",
+            "link": "https://scholar.google.com/citations?user=f27r_WYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=f27r_WYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "f27r_WYAAAAJ",
+            "affiliations": "Post-Doctoral Fellow (NPDF-SERB), Department of Computational Biology, IIIT-Delhi, New Delhi, India.",
+            "email": "Verified email at imtech.res.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=f27r_WYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Deepika Mathur",
+            "link": "https://scholar.google.com/citations?user=BWVuA1IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BWVuA1IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BWVuA1IAAAAJ",
+            "affiliations": "Icahn School of Medicine at Mount Sinai - New York City, USA",
+            "email": "Verified email at mssm.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BWVuA1IAAAAJ&citpid=2"
+        }
+    ]
+}

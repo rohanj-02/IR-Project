@@ -1,0 +1,184 @@
+{
+    "search_metadata": {
+        "id": "62574ce0d036a7d902b88644",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/058db62c6f6f40c9/62574ce0d036a7d902b88644.json",
+        "created_at": "2022-04-13 22:21:20 UTC",
+        "processed_at": "2022-04-13 22:21:20 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=yR7s53UAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/058db62c6f6f40c9/62574ce0d036a7d902b88644.html",
+        "total_time_taken": 2.14,
+        "total_articles": 2,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "yR7s53UAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Ridhi Jain",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://www.ridhijain.com/",
+        "interests": [
+            {
+                "title": "Program Analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:program_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprogram_analysis"
+            },
+            {
+                "title": "Comprehension of software binaries",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:comprehension_of_software_binaries",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomprehension_of_software_binaries"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=yR7s53UAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "A search system for mathematical expressions on software binaries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yR7s53UAAAAJ&pagesize=100&citation_for_view=yR7s53UAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "yR7s53UAAAAJ:u-x6o8ySG0sC",
+            "authors": "R Jain, S Prathik, V Vinayakarao, R Purandare",
+            "publication": "2018 IEEE/ACM 15th International Conference on Mining Software Repositories \u2026, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5374762223785535996",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5374762223785535996&engine=google_scholar&hl=en",
+                "cites_id": "5374762223785535996"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A search system for mathematical expressions on software binaries",
+                    "author": [
+                        "R Jain",
+                        "S Prathik",
+                        "V Vinayakarao"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE/ACM 15th \u2026",
+                    "abstract": "Developers often ask for libraries that implement specific mathematical expressions. A fundamental bottleneck in building information retrieval (IR) systems to answer such mathematical queries is the inability to detect a given expression in software binaries. While we have a few math IR solutions such as EgoMath2 and Tangent-3 that work over text documents, none exist to search over software binaries. Our vision is to build a search system for binaries to answer queries containing mathematical expressions. A wide variety"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8595232/",
+                "author_id": [
+                    "yR7s53UAAAAJ",
+                    "",
+                    "sCiMp5oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_OnsDMT9lkoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bsearch%2Bsystem%2Bfor%2Bmathematical%2Bexpressions%2Bon%2Bsoftware%2Bbinaries%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_OnsDMT9lkoJ&ei=mFVkYpvJCeiSy9YPp-OyiAE&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=5374762223785535996&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_OnsDMT9lkoJ:scholar.google.com/&scioq=A+search+system+for+mathematical+expressions+on+software+binaries&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Rahul-Purandare-2/publication/326566040_A_search_system_for_mathematical_expressions_on_software_binaries/links/5dba7788299bf1a47b0272a8/A-search-system-for-mathematical-expressions-on-software-binaries.pdf"
+            }
+        },
+        {
+            "title": "BiRD: Race Detection in Software Binaries under Relaxed Memory Models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=yR7s53UAAAAJ&pagesize=100&citation_for_view=yR7s53UAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "yR7s53UAAAAJ:d1gkVwhDpl0C",
+            "authors": "R Jain, R Purandare, S Sharma",
+            "publication": "ACM Transactions on Software Engineering and Methodology, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "BiRD: Race Detection in Software Binaries under Relaxed Memory Models",
+                    "author": [
+                        "R Jain",
+                        "R Purandare",
+                        "S Sharma"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "ACM Transactions on Software \u2026",
+                    "abstract": "Instruction reordering and interleavings in program execution under relaxed memory semantics result in non-intuitive behaviors, making it difficult to provide assurances about program correctness. Studies have shown that up to 90% of the concurrency bugs reported by state-of-the-art static analyzers are false alarms. As a result, filtering false alarms and detecting real concurrency bugs is a challenging problem. Unsurprisingly, this problem has attracted the interest of the research community over the past few decades. Nonetheless"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3498538",
+                "author_id": [
+                    "yR7s53UAAAAJ",
+                    "_OLz-J0AAAAJ",
+                    "Xas65uoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LVfHNXA0U3UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBiRD:%2BRace%2BDetection%2Bin%2BSoftware%2BBinaries%2Bunder%2BRelaxed%2BMemory%2BModels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LVfHNXA0U3UJ&ei=nFVkYtD5O7KO6rQPy-CRsA8&json=",
+                "num_citations": 0
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 1
+            },
+            {
+                "year": 2019,
+                "citations": 1
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Rahul Purandare",
+            "link": "https://scholar.google.com/citations?user=_OLz-J0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_OLz-J0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_OLz-J0AAAAJ",
+            "affiliations": "Associate Professor of Computer Science and Engineering, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_OLz-J0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Venkatesh Vinayakarao",
+            "link": "https://scholar.google.com/citations?user=sCiMp5oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sCiMp5oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "sCiMp5oAAAAJ",
+            "affiliations": "Lecturer, Chennai Mathematical Institute (CMI)",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sCiMp5oAAAAJ&citpid=10"
+        },
+        {
+            "name": "Subodh Sharma",
+            "link": "https://scholar.google.com/citations?user=Xas65uoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xas65uoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xas65uoAAAAJ",
+            "affiliations": "IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xas65uoAAAAJ&citpid=1"
+        }
+    ]
+}

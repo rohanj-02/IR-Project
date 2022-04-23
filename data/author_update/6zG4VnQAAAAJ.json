@@ -1,0 +1,1280 @@
+{
+    "search_metadata": {
+        "id": "62574cda9f55b37019364b1a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/96a17787650119ac/62574cda9f55b37019364b1a.json",
+        "created_at": "2022-04-13 22:21:14 UTC",
+        "processed_at": "2022-04-13 22:21:14 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=6zG4VnQAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/96a17787650119ac/62574cda9f55b37019364b1a.html",
+        "total_time_taken": 3.19,
+        "total_articles": 24,
+        "total_co_authors": 13
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "6zG4VnQAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Pandarasamy Arjunan",
+        "affiliations": "Postdoctoral Scholar, Berkeley Education Alliance for Research in Singapore (BEARS) Limited",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.samy101.com/",
+        "interests": [
+            {
+                "title": "Energy informatics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:energy_informatics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenergy_informatics"
+            },
+            {
+                "title": "Fault Detection and Diagnosis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:fault_detection_and_diagnosis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afault_detection_and_diagnosis"
+            },
+            {
+                "title": "Anomaly detection",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:anomaly_detection",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanomaly_detection"
+            },
+            {
+                "title": "Internet of Things",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:internet_of_things",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainternet_of_things"
+            },
+            {
+                "title": "and Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:and_machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aand_machine_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Sensoract: a privacy and security aware federated middleware for building management",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "6zG4VnQAAAAJ:u-x6o8ySG0sC",
+            "authors": "P Arjunan, N Batra, H Choi, A Singh, P Singh, MB Srivastava",
+            "publication": "Proceedings of the Fourth ACM Workshop on Embedded Sensing Systems for \u2026, 2012",
+            "cited_by": {
+                "value": 66,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4245183837953080211",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4245183837953080211&engine=google_scholar&hl=en",
+                "cites_id": "4245183837953080211"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sensoract: a privacy and security aware federated middleware for building management",
+                    "author": [
+                        "P Arjunan",
+                        "N Batra",
+                        "H Choi",
+                        "A Singh",
+                        "P Singh"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "The archaic centralized software systems, currently used to manage buildings, make it hard to incorporate advances in sensing technology and user-level applications, and present hurdles for experimental validation of open research in building information technology. Motivated by this, we---a transnational collaboration of researchers engaged in development and deployment of technologies for sustainable buildings---have developed SensorAct, an open-source federated middleware incorporating features targeting three specific"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2422531.2422547",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "rFGzHlIAAAAJ",
+                    "x996EckAAAAJ",
+                    "Yipk0X4AAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kztsazXs6ToJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSensoract:%2Ba%2Bprivacy%2Band%2Bsecurity%2Baware%2Bfederated%2Bmiddleware%2Bfor%2Bbuilding%2Bmanagement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kztsazXs6ToJ&ei=Mk1kYu-JM86E6rQP5-KmKA&json=",
+                "num_citations": 66,
+                "citedby_url": "/scholar?cites=4245183837953080211&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kztsazXs6ToJ:scholar.google.com/&scioq=Sensoract:+a+privacy+and+security+aware+federated+middleware+for+building+management&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~samy/papers/buildsys12_sensoract.pdf"
+            }
+        },
+        {
+            "title": "Apples or oranges? Identification of fundamental load shape profiles for benchmarking buildings using a large and diverse dataset",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "6zG4VnQAAAAJ:iH-uZ7U-co4C",
+            "authors": "JY Park, X Yang, C Miller, P Arjunan, Z Nagy",
+            "publication": "Applied energy 236, 1280-1295, 2019",
+            "cited_by": {
+                "value": 47,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17085702506868186088",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17085702506868186088&engine=google_scholar&hl=en",
+                "cites_id": "17085702506868186088"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Apples or oranges? Identification of fundamental load shape profiles for benchmarking buildings using a large and diverse dataset",
+                    "author": [
+                        "JY Park",
+                        "X Yang",
+                        "C Miller",
+                        "P Arjunan",
+                        "Z Nagy"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Applied energy",
+                    "abstract": "Buildings are responsible for 30\u201340% of the anthropogenic greenhouse gas emissions and energy consumption worldwide. Thus, reducing the overall energy use and associated emissions in buildings is crucial for meeting sustainability goals for the future. In recent years, smart energy meters have been deployed to enable monitoring of energy use data with hourly or sub-hourly temporal resolution. The concurrent rise of information technologies and data analytics enabled the development of novel applications such as"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0306261918318439",
+                "author_id": [
+                    "yDDVR20AAAAJ",
+                    "",
+                    "akL857IAAAAJ",
+                    "6zG4VnQAAAAJ",
+                    "NqYLHEgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6Bvh8-ebHO0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DApples%2Bor%2Boranges%253F%2BIdentification%2Bof%2Bfundamental%2Bload%2Bshape%2Bprofiles%2Bfor%2Bbenchmarking%2Bbuildings%2Busing%2Ba%2Blarge%2Band%2Bdiverse%2Bdataset%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6Bvh8-ebHO0J&ei=Nk1kYsbdAZqSy9YP8pKNsAE&json=",
+                "num_citations": 48,
+                "citedby_url": "/scholar?cites=17085702506868186088&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:6Bvh8-ebHO0J:scholar.google.com/&scioq=Apples+or+oranges%3F+Identification+of+fundamental+load+shape+profiles+for+benchmarking+buildings+using+a+large+and+diverse+dataset&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.samy101.com/assets/pdf/2019-apples-or-oranges.pdf"
+            }
+        },
+        {
+            "title": "Multi-user energy consumption monitoring and anomaly detection with partial context information",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "6zG4VnQAAAAJ:R3hNpaxXUhUC",
+            "authors": "P Arjunan, HD Khadilkar, T Ganu, ZM Charbiwala, A Singh, P Singh",
+            "publication": "Proceedings of the 2nd ACM international conference on embedded systems for \u2026, 2015",
+            "cited_by": {
+                "value": 43,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9466860364849847956",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9466860364849847956&engine=google_scholar&hl=en",
+                "cites_id": "9466860364849847956"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-user energy consumption monitoring and anomaly detection with partial context information",
+                    "author": [
+                        "P Arjunan",
+                        "HD Khadilkar",
+                        "T Ganu"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 2nd \u2026",
+                    "abstract": "Anomaly detection is an important problem in building energy management in order to identify energy theft and inefficiencies. However, it is hard to differentiate actual anomalies from the genuine changes in energy consumption due to seasonal variations and changes in personal settings such as holidays. One of the important drawbacks of existing anomaly detection algorithms is that various unknown context variables, such as seasonal variations, can affect the energy consumption of users in ways that appear anomalous to existing time"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2821650.2821662",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "y9efmmsAAAAJ",
+                    "uU9COWkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:lJ4ZIVgLYYMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-user%2Benergy%2Bconsumption%2Bmonitoring%2Band%2Banomaly%2Bdetection%2Bwith%2Bpartial%2Bcontext%2Binformation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lJ4ZIVgLYYMJ&ei=Ok1kYq-KCZLeyQTE46-QAg&json=",
+                "num_citations": 43,
+                "citedby_url": "/scholar?cites=9466860364849847956&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:lJ4ZIVgLYYMJ:scholar.google.com/&scioq=Multi-user+energy+consumption+monitoring+and+anomaly+detection+with+partial+context+information&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.samy101.com/assets/pdf/2015-anomaly-detection.pdf"
+            }
+        },
+        {
+            "title": "EnergyStar++: Towards more accurate and explanatory building energy benchmarking",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "6zG4VnQAAAAJ:bEWYMUwI8FkC",
+            "authors": "P Arjunan, K Poolla, C Miller",
+            "publication": "Applied Energy 276, 115413, 2020",
+            "cited_by": {
+                "value": 37,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12224954834909560871",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12224954834909560871&engine=google_scholar&hl=en",
+                "cites_id": "12224954834909560871"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "EnergyStar++: Towards more accurate and explanatory building energy benchmarking",
+                    "author": [
+                        "P Arjunan",
+                        "K Poolla",
+                        "C Miller"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Applied Energy",
+                    "abstract": "Building energy performance benchmarking has been adopted widely in the USA and Canada through the Energy Star Portfolio Manager platform. Building operations and energy management professionals have long used this simple 1\u2013100 score to understand how their building compares to its peers. This single number is easy to use but is created by potentially inaccurate multiple linear regression (MLR) models and lacks much further information about why a building achieves that score. This paper proposes a methodology"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0306261920309259",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "",
+                    "akL857IAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:J4D62abDp6kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergyStar%252B%252B:%2BTowards%2Bmore%2Baccurate%2Band%2Bexplanatory%2Bbuilding%2Benergy%2Bbenchmarking%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=J4D62abDp6kJ&ei=PE1kYviPOJGJmwGY-qmYDQ&json=",
+                "num_citations": 38,
+                "citedby_url": "/scholar?cites=12224954834909560871&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:J4D62abDp6kJ:scholar.google.com/&scioq=EnergyStar%2B%2B:+Towards+more+accurate+and+explanatory+building+energy+benchmarking&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1910.14563.pdf?ref=https://githubhelp.com"
+            }
+        },
+        {
+            "title": "The ASHRAE great energy predictor III competition: Overview and results",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "6zG4VnQAAAAJ:M3NEmzRMIkIC",
+            "authors": "C Miller, P Arjunan, A Kathirgamanathan, C Fu, J Roth, JY Park, ...",
+            "publication": "Science and Technology for the Built Environment 26 (10), 1427-1447, 2020",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13891029963748554326",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13891029963748554326&engine=google_scholar&hl=en",
+                "cites_id": "13891029963748554326"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "The ASHRAE great energy predictor III competition: Overview and results",
+                    "author": [
+                        "C Miller",
+                        "P Arjunan",
+                        "A Kathirgamanathan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 and Technology for \u2026",
+                    "abstract": "In late 2019, ASHRAE hosted the Great Energy Predictor III (GEPIII) machine learning competition on the Kaggle platform. This launch marked the third energy prediction competition from ASHRAE and the first since the mid-1990s. In this updated version, the competitors were provided with over 20 million points of training data from 2,380 energy meters collected for 1,448 buildings from 16 sources. This competition's overall objective was to find the most accurate modeling solutions for the prediction of over 41 million private"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/23744731.2020.1795514",
+                "author_id": [
+                    "akL857IAAAAJ",
+                    "6zG4VnQAAAAJ",
+                    "sKTTV4oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VjaKeSfaxsAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2BASHRAE%2Bgreat%2Benergy%2Bpredictor%2BIII%2Bcompetition:%2BOverview%2Band%2Bresults%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VjaKeSfaxsAJ&ei=QE1kYr6ZCe-Sy9YPs_mY8AM&json=",
+                "num_citations": 34,
+                "citedby_url": "/scholar?cites=13891029963748554326&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VjaKeSfaxsAJ:scholar.google.com/&scioq=The+ASHRAE+great+energy+predictor+III+competition:+Overview+and+results&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2007.06933"
+            }
+        },
+        {
+            "title": "Experiences with occupancy based building management systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "6zG4VnQAAAAJ:2osOgNQ5qMEC",
+            "authors": "N Batra, P Arjunan, A Singh, P Singh",
+            "publication": "2013 IEEE Eighth International Conference on Intelligent Sensors, Sensor \u2026, 2013",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12079218225047911042",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12079218225047911042&engine=google_scholar&hl=en",
+                "cites_id": "12079218225047911042"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Experiences with occupancy based building management systems",
+                    "author": [
+                        "N Batra",
+                        "P Arjunan",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "2013 IEEE Eighth \u2026",
+                    "abstract": "Buildings are one of the largest consumers of electricity. Dominant electricity consumption within the buildings, contributed by plug loads, lighting and air conditioning, can be significantly improved using Occupancy-based Building Management Systems (Ob-BMS). In this paper, we address three critical aspects of Ob-BMS ie 1) Modular sensor node design to support diverse deployment scenarios; 2) Building architecture to support and scale fine resolution monitoring; and 3) Detailed analysis of the collected data for smarter actuation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6529781/",
+                "author_id": [
+                    "rFGzHlIAAAAJ",
+                    "6zG4VnQAAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:grpnLPoAoqcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExperiences%2Bwith%2Boccupancy%2Bbased%2Bbuilding%2Bmanagement%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=grpnLPoAoqcJ&ei=Q01kYpevBMLZmQHnraWYCA&json=",
+                "num_citations": 34,
+                "citedby_url": "/scholar?cites=12079218225047911042&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:grpnLPoAoqcJ:scholar.google.com/&scioq=Experiences+with+occupancy+based+building+management+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/46497919/Experiences_with_Occupancy_based_Buildin20160614-7306-1pzw0r7.pdf"
+            }
+        },
+        {
+            "title": "the Building Data Genome Project 2, energy meter data from the ASHRAE Great Energy Predictor III competition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:ZHo1McVdvXMC",
+            "citation_id": "6zG4VnQAAAAJ:ZHo1McVdvXMC",
+            "authors": "C Miller, A Kathirgamanathan, B Picchetti, P Arjunan, JY Park, Z Nagy, ...",
+            "publication": "Scientific data 7 (1), 1-13, 2020",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11927158213675386667",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11927158213675386667&engine=google_scholar&hl=en",
+                "cites_id": "11927158213675386667"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "the Building Data Genome Project 2, energy meter data from the ASHRAE Great Energy Predictor III competition",
+                    "author": [
+                        "C Miller",
+                        "A Kathirgamanathan",
+                        "B Picchetti",
+                        "P Arjunan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Scientific data",
+                    "abstract": "This paper describes an open data set of 3,053 energy meters from 1,636 non-residential buildings with a range of two full years (2016 and 2017) at an hourly frequency (17,544 measurements per meter resulting in approximately 53.6 million measurements). These meters were collected from 19 sites across North America and Europe, with one or more meters per building measuring whole building electrical, heating and cooling water, steam, and solar energy as well as water and irrigation meters. Part of these data was used in the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.nature.com/articles/s41597-020-00712-x",
+                "author_id": [
+                    "akL857IAAAAJ",
+                    "sKTTV4oAAAAJ",
+                    "",
+                    "6zG4VnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KwcB2jPHhaUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dthe%2BBuilding%2BData%2BGenome%2BProject%2B2,%2Benergy%2Bmeter%2Bdata%2Bfrom%2Bthe%2BASHRAE%2BGreat%2BEnergy%2BPredictor%2BIII%2Bcompetition%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KwcB2jPHhaUJ&ei=SU1kYp6eB5LeyQTE46-QAg&json=",
+                "num_citations": 25,
+                "citedby_url": "/scholar?cites=11927158213675386667&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KwcB2jPHhaUJ:scholar.google.com/&scioq=the+Building+Data+Genome+Project+2,+energy+meter+data+from+the+ASHRAE+Great+Energy+Predictor+III+competition&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.nature.com/articles/s41597-020-00712-x"
+            }
+        },
+        {
+            "title": "MELOS: a low-cost and low-energy generic sensing attachment for mobile phones",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "6zG4VnQAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Bhardwaj, P Arjunan, A Singh, V Naik, P Singh",
+            "publication": "Proceedings of the 5th ACM workshop on Networked systems for developing \u2026, 2011",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13663043039649918642",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13663043039649918642&engine=google_scholar&hl=en",
+                "cites_id": "13663043039649918642"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MELOS: a low-cost and low-energy generic sensing attachment for mobile phones",
+                    "author": [
+                        "A Bhardwaj",
+                        "P Arjunan",
+                        "A Singh",
+                        "V Naik"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "Proceedings of the 5th \u2026",
+                    "abstract": "Ubiquitous availability of cellular network and cheap mobile phones have made them promising sensing platforms for various application domains including healthcare, environment, and astronomy among others. However, existing mobile phone platforms, including even smartphones, provide limited in-built sensing capabilities and lack standard interfaces to connect external sensors. In this paper, we propose MELOS (Mobile Extension for LOw-energy Sensing) a low-cost mobile phone extension that works virtually with all the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/1999927.1999936",
+                "author_id": [
+                    "_fDKxB4AAAAJ",
+                    "6zG4VnQAAAAJ",
+                    "Yipk0X4AAAAJ",
+                    "HF7IPeQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:su40MUHhnL0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMELOS:%2Ba%2Blow-cost%2Band%2Blow-energy%2Bgeneric%2Bsensing%2Battachment%2Bfor%2Bmobile%2Bphones%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=su40MUHhnL0J&ei=Tk1kYoe_MOHDywSSipaYAg&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=13663043039649918642&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:su40MUHhnL0J:scholar.google.com/&scioq=MELOS:+a+low-cost+and+low-energy+generic+sensing+attachment+for+mobile+phones&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/25/IIITD-TR-2011-004.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:TFP_iSt0sucC",
+            "citation_id": "6zG4VnQAAAAJ:TFP_iSt0sucC",
+            "authors": "M Quintana, P Arjunan, C Miller",
+            "publication": "Building Simulation 14 (1), 119-130, 2021",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9457549115032536897",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9457549115032536897&engine=google_scholar&hl=en",
+                "cites_id": "9457549115032536897"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Islands of misfit buildings: Detecting uncharacteristic electricity use behavior using load shape clustering",
+                    "author": [
+                        "M Quintana",
+                        "P Arjunan",
+                        "C Miller"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Building Simulation",
+                    "abstract": "Many energy performance analysis methodologies assign buildings a descriptive label that represents their main activity, often known as the primary space usage (PSU). This attribute comes from the intent of the design team based on assumptions of how the majority of the spaces in the building will be used. In reality, the way a building's occupants use the spaces can be different than what was intended. With the recent growth of hourly electricity meter data from the built environment, there is the opportunity to create unsupervised methods to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s12273-020-0626-1",
+                "author_id": [
+                    "Ott9sHkAAAAJ",
+                    "6zG4VnQAAAAJ",
+                    "akL857IAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QQdT18_2P4MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIslands%2Bof%2Bmisfit%2Bbuildings:%2BDetecting%2Buncharacteristic%2Belectricity%2Buse%2Bbehavior%2Busing%2Bload%2Bshape%2Bclustering%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QQdT18_2P4MJ&ei=U01kYuDLBZqSy9YP8pKNsAE&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=9457549115032536897&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QQdT18_2P4MJ:scholar.google.com/&scioq=Islands+of+misfit+buildings:+Detecting+uncharacteristic+electricity+use+behavior+using+load+shape+clustering&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.samy101.com/assets/pdf/2020-islands-of-misfit.pdf"
+            }
+        },
+        {
+            "title": "Collect, compare, and score: a generic data-driven anomaly detection method for buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "6zG4VnQAAAAJ:RHpTSmoSYBkC",
+            "authors": "H Rashid, P Arjunan, P Singh, A Singh",
+            "publication": "Proceedings of the Seventh International Conference on Future Energy Systems \u2026, 2016",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16756591118526980551",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16756591118526980551&engine=google_scholar&hl=en",
+                "cites_id": "16756591118526980551"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Collect, compare, and score: a generic data-driven anomaly detection method for buildings",
+                    "author": [
+                        "H Rashid",
+                        "P Arjunan",
+                        "P Singh",
+                        "A Singh"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the Seventh \u2026",
+                    "abstract": "Buildings are one of the largest energy consumers around the world. Several studies show that degraded and mis\u0107onfigured devices waste upto 30% of energy in commercial buildings. In this paper, we propose Collect, Compare, and Score (CCS), a generic anomaly detection method that can be used across buildings following different energy usage patterns. CCS is a density based approach. We evaluate CCS using a real-world dataset, consisting of 16 weeks of data from commercial and residential buildings. We find average"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2939912.2942354",
+                "author_id": [
+                    "OjujmUAAAAAJ",
+                    "6zG4VnQAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xyFEktdei-gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCollect,%2Bcompare,%2Band%2Bscore:%2Ba%2Bgeneric%2Bdata-driven%2Banomaly%2Bdetection%2Bmethod%2Bfor%2Bbuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xyFEktdei-gJ&ei=V01kYtCALZqSy9YP8pKNsAE&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=16756591118526980551&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:xyFEktdei-gJ:scholar.google.com/&scioq=Collect,+compare,+and+score:+a+generic+data-driven+anomaly+detection+method+for+buildings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.samy101.com/assets/pdf/2016-collect-compare-score.pdf"
+            }
+        },
+        {
+            "title": "Openban: An open building analytics middleware for smart buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "6zG4VnQAAAAJ:_Qo2XoVZTnwC",
+            "authors": "P Arjunan, M Srivastava, A Singh, P Singh",
+            "publication": "proceedings of the 12th EAI International Conference on Mobile and \u2026, 2015",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2392487771067122210",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2392487771067122210&engine=google_scholar&hl=en",
+                "cites_id": "2392487771067122210"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Openban: An open building analytics middleware for smart buildings",
+                    "author": [
+                        "P Arjunan",
+                        "M Srivastava",
+                        "A Singh",
+                        "P Singh"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "proceedings of the 12th EAI \u2026",
+                    "abstract": "Towards the realization of smart building applications, buildings are increasingly instrumented with diverse sensors and actuators. These sensors generate large volumes of data which can be analyzed for optimizing building operations. Many building energy management tasks such as energy forecasting, disaggregation, among others require complex analytics leveraging collected sensor data. While several standalone and cloud-based systems for archiving, sharing and visualizing sensor data have emerged, their"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.4108/eai.22-7-2015.2260256",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "X2Qs7XYAAAAJ",
+                    "Yipk0X4AAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IgLsq_PSMyEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOpenban:%2BAn%2Bopen%2Bbuilding%2Banalytics%2Bmiddleware%2Bfor%2Bsmart%2Bbuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IgLsq_PSMyEJ&ei=W01kYuebB_mQ6rQP5OqKqAo&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=2392487771067122210&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IgLsq_PSMyEJ:scholar.google.com/&scioq=Openban:+An+open+building+analytics+middleware+for+smart+buildings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.4108/eai.22-7-2015.2260256"
+            }
+        },
+        {
+            "title": "SensorAct: a decentralized and scriptable middleware for smart energy buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:TQgYirikUcIC",
+            "citation_id": "6zG4VnQAAAAJ:TQgYirikUcIC",
+            "authors": "P Arjunan, M Saha, H Choi, M Gulati, A Singh, P Singh, MB Srivastava",
+            "publication": "2015 IEEE 12th Intl Conf on Ubiquitous Intelligence and Computing and 2015 \u2026, 2015",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11737566542581354868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11737566542581354868&engine=google_scholar&hl=en",
+                "cites_id": "11737566542581354868"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SensorAct: a decentralized and scriptable middleware for smart energy buildings",
+                    "author": [
+                        "P Arjunan",
+                        "M Saha",
+                        "H Choi",
+                        "M Gulati"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE 12th Intl \u2026",
+                    "abstract": "Buildings, with their different subsystems interacting with diverse occupants, constitute a complex Cyber-Physical-Human infrastructure. Monitoring and controlling this complex ecosystem is essential both for efficient and optimized operations of building subsystems and for influencing the occupant behavior. A critical enabling technology in this case is a middleware system for buildings that can provide support for deriving rich inferences by fusing and analyzing intentionally acquired or opportunistically available data from diverse"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7518204/",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "KWOTB3UAAAAJ",
+                    "x996EckAAAAJ",
+                    "2L-TGfcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dFESCpU25KIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSensorAct:%2Ba%2Bdecentralized%2Band%2Bscriptable%2Bmiddleware%2Bfor%2Bsmart%2Benergy%2Bbuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dFESCpU25KIJ&ei=XU1kYu64N5qSy9YP8pKNsAE&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=11737566542581354868&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dFESCpU25KIJ:scholar.google.com/&scioq=SensorAct:+a+decentralized+and+scriptable+middleware+for+smart+energy+buildings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.samy101.com/assets/pdf/2015-sensoract-uic.pdf"
+            }
+        },
+        {
+            "title": "Sensoract: a decentralized and scriptable middleware for smart energy buildings. In 2015 IEEE 12th Intl Conf on Ubiquitous Intelligence and Computing and 2015 IEEE 12th Intl \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:k_IJM867U9cC",
+            "citation_id": "6zG4VnQAAAAJ:k_IJM867U9cC",
+            "authors": "P Arjunan, M Saha, H Choi, M Gulati, A Singh, P Singh, MB Srivastava",
+            "publication": "IEEE, 2015",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1087166381769860470",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1087166381769860470&engine=google_scholar&hl=en",
+                "cites_id": "1087166381769860470"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SensorAct: a decentralized and scriptable middleware for smart energy buildings",
+                    "author": [
+                        "P Arjunan",
+                        "M Saha",
+                        "H Choi",
+                        "M Gulati"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE 12th Intl \u2026",
+                    "abstract": "Buildings, with their different subsystems interacting with diverse occupants, constitute a complex Cyber-Physical-Human infrastructure. Monitoring and controlling this complex ecosystem is essential both for efficient and optimized operations of building subsystems and for influencing the occupant behavior. A critical enabling technology in this case is a middleware system for buildings that can provide support for deriving rich inferences by fusing and analyzing intentionally acquired or opportunistically available data from diverse"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7518204/",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "KWOTB3UAAAAJ",
+                    "x996EckAAAAJ",
+                    "2L-TGfcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dFESCpU25KIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSensoract:%2Ba%2Bdecentralized%2Band%2Bscriptable%2Bmiddleware%2Bfor%2Bsmart%2Benergy%2Bbuildings.%2BIn%2B2015%2BIEEE%2B12th%2BIntl%2BConf%2Bon%2BUbiquitous%2BIntelligence%2Band%2BComputing%2Band%2B2015%2BIEEE%2B12th%2BIntl%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dFESCpU25KIJ&ei=YU1kYuD-IZyO6rQP_qe3mAs&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=11737566542581354868&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dFESCpU25KIJ:scholar.google.com/&scioq=Sensoract:+a+decentralized+and+scriptable+middleware+for+smart+energy+buildings.+In+2015+IEEE+12th+Intl+Conf+on+Ubiquitous+Intelligence+and+Computing+and+2015+IEEE+12th+Intl+%E2%80%A6&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.samy101.com/assets/pdf/2015-sensoract-uic.pdf"
+            }
+        },
+        {
+            "title": "Sensoract: Design and implementation of fine-grained sensing and control sharing in buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "6zG4VnQAAAAJ:hFOr9nPyWt4C",
+            "authors": "P Arjunan, M Saha, M Gulati, N Batra, A Singh, P Singh",
+            "publication": "the poster track of 10th USENIX Symposium on Networked Systems Design and \u2026, 2013",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5301700443708145584",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5301700443708145584&engine=google_scholar&hl=en",
+                "cites_id": "5301700443708145584"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sensoract: Design and implementation of fine-grained sensing and control sharing in buildings",
+                    "author": [
+                        "P Arjunan",
+                        "M Saha",
+                        "M Gulati",
+                        "N Batra",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "the poster track of 10th \u2026",
+                    "abstract": "We present the design, implementation and deployment experiences of SensorAct [1], an open source1 federated middleware for building management. We demonstrate two main features of our system that allows 1) Device owners to grant fine-grained privileges for sharing control and sensing infrastructure with other users and 2) Users to create and schedule simple building monitoring and control applications such as actuation and notification on occurrence of building events through an intuitive user interface."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.usenix.org/system/files/nsdip13-paper46.pdf",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "KWOTB3UAAAAJ",
+                    "2L-TGfcAAAAJ",
+                    "rFGzHlIAAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:sD_BxHZsk0kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSensoract:%2BDesign%2Band%2Bimplementation%2Bof%2Bfine-grained%2Bsensing%2Band%2Bcontrol%2Bsharing%2Bin%2Bbuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sD_BxHZsk0kJ&ei=ZU1kYq2jE4uKmgGY1YjABQ&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=5301700443708145584&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:sD_BxHZsk0kJ:scholar.google.com/&scioq=Sensoract:+Design+and+implementation+of+fine-grained+sensing+and+control+sharing+in+buildings&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Hybrid Ventilation System and Soft-Sensors for Maintaining Indoor Air Quality and Thermal Comfort in Buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:isC4tDSrTZIC",
+            "citation_id": "6zG4VnQAAAAJ:isC4tDSrTZIC",
+            "authors": "N Vadamalraj, K Zingre, S Seshadhri, P Arjunan, S Srinivasan",
+            "publication": "Atmosphere 11 (1), 110, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1490380218140398919",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1490380218140398919&engine=google_scholar&hl=en",
+                "cites_id": "1490380218140398919"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Hybrid Ventilation System and Soft-Sensors for Maintaining Indoor Air Quality and Thermal Comfort in Buildings",
+                    "author": [
+                        "N Vadamalraj",
+                        "K Zingre",
+                        "S Seshadhri",
+                        "P Arjunan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Atmosphere",
+                    "abstract": "Maintaining both indoor air quality (IAQ) and thermal comfort in buildings along with optimized energy consumption is a challenging problem. This investigation presents a novel design for hybrid ventilation system enabled by predictive control and soft-sensors to achieve both IAQ and thermal comfort by combining predictive control with demand controlled ventilation (DCV). First, we show that the problem of maintaining IAQ, thermal comfort and optimal energy is a multi-objective optimization problem with competing"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.mdpi.com/619128",
+                "author_id": [
+                    "",
+                    "FYu6TYcAAAAJ",
+                    "",
+                    "6zG4VnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:RxWHeunkrhQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHybrid%2BVentilation%2BSystem%2Band%2BSoft-Sensors%2Bfor%2BMaintaining%2BIndoor%2BAir%2BQuality%2Band%2BThermal%2BComfort%2Bin%2BBuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=RxWHeunkrhQJ&ei=aU1kYr3YM5qSy9YP8pKNsAE&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=1490380218140398919&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:RxWHeunkrhQJ:scholar.google.com/&scioq=Hybrid+Ventilation+System+and+Soft-Sensors+for+Maintaining+Indoor+Air+Quality+and+Thermal+Comfort+in+Buildings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.mdpi.com/2073-4433/11/1/110/pdf"
+            }
+        },
+        {
+            "title": "Explainable AI for chiller fault-detection systems: gaining human trust",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:SeFeTyx0c_EC",
+            "citation_id": "6zG4VnQAAAAJ:SeFeTyx0c_EC",
+            "authors": "S Srinivasan, P Arjunan, B Jin, AL Sangiovanni-Vincentelli, Z Sultan, ...",
+            "publication": "Computer 54 (10), 60-68, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3724677696138818981",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3724677696138818981&engine=google_scholar&hl=en",
+                "cites_id": "3724677696138818981"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Explainable AI for chiller fault-detection systems: gaining human trust",
+                    "author": [
+                        "S Srinivasan",
+                        "P Arjunan",
+                        "B Jin"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Computer",
+                    "abstract": "We investigate the role of explainable Artificial Intelligence (XAI) for building trust in data-driven  fault detection and diagnosis (FDD). We examine use cases for XAI-FDD on a building in  Singapore that has six chillers.  We believe that XAI can play a fundamental role in chiller  FDD by overcoming model opaqueness and gaining field personnel\u2019s trust. In general, XAI  is an artificial in telligence ("
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9548023/",
+                "author_id": [
+                    "",
+                    "6zG4VnQAAAAJ",
+                    "nD3--zcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pbUsZaG2sDMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExplainable%2BAI%2Bfor%2Bchiller%2Bfault-detection%2Bsystems:%2Bgaining%2Bhuman%2Btrust%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pbUsZaG2sDMJ&ei=bU1kYsCOIOiSy9YPp-OyiAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=3724677696138818981&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pbUsZaG2sDMJ:scholar.google.com/&scioq=Explainable+AI+for+chiller+fault-detection+systems:+gaining+human+trust&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pandarasamy-Arjunan/publication/355001932_Explainable_AI_for_Chiller_Fault-Detection_Systems_Gaining_Human_Trust/links/6209fb1d634ff774f4cb9c1c/Explainable-AI-for-Chiller-Fault-Detection-Systems-Gaining-Human-Trust.pdf"
+            }
+        },
+        {
+            "title": "E-adivino: A novel framework for electricity consumption prediction based on historical trends",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:HDshCWvjkbEC",
+            "citation_id": "6zG4VnQAAAAJ:HDshCWvjkbEC",
+            "authors": "S Saini, P Arjunan, A Singh, U Nambiar",
+            "publication": "Proceedings of the 2015 ACM Sixth International Conference on Future Energy \u2026, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7207265398398505703",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7207265398398505703&engine=google_scholar&hl=en",
+                "cites_id": "7207265398398505703"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "E-adivino: A novel framework for electricity consumption prediction based on historical trends",
+                    "author": [
+                        "S Saini",
+                        "P Arjunan",
+                        "A Singh",
+                        "U Nambiar"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 2015 ACM \u2026",
+                    "abstract": "Electricity demand prediction is important for several real world applications such as Demand Response (DR) program for peak demand management. For utilities with many customers, learning a best fit baseline for every consumer may be time consuming. We propose E-Adivino: an electricity forecasting framework that first clusters customers based on their consumption pattern followed by forecasting for each cluster using a generalized baseline projection approach. E-Adivino allows for selection of appropriate models for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2768510.2770946",
+                "author_id": [
+                    "0aiJh4QAAAAJ",
+                    "6zG4VnQAAAAJ",
+                    "Yipk0X4AAAAJ",
+                    "UbJsDGcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:59KBsbFZBWQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DE-adivino:%2BA%2Bnovel%2Bframework%2Bfor%2Belectricity%2Bconsumption%2Bprediction%2Bbased%2Bon%2Bhistorical%2Btrends%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=59KBsbFZBWQJ&ei=dk1kYvi1F42ymgHg1rfQDQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7207265398398505703&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:59KBsbFZBWQJ:scholar.google.com/&scioq=E-adivino:+A+novel+framework+for+electricity+consumption+prediction+based+on+historical+trends&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pandarasamy-Arjunan/publication/300197393_E-Adivino/links/5c73bf2f92851c69503e6a91/E-Adivino.pdf"
+            }
+        },
+        {
+            "title": "Middleware systems and analytics for energy management in buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "6zG4VnQAAAAJ:j3f4tGmQtD8C",
+            "authors": "P Arjunan, A Singh, P Singh",
+            "publication": "IIIT-Delhi, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7124957417284962940",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7124957417284962940&engine=google_scholar&hl=en",
+                "cites_id": "7124957417284962940"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Middleware systems and analytics for energy management in buildings",
+                    "author": [
+                        "P Arjunan",
+                        "A Singh",
+                        "P Singh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "As one of the largest consumers of overall energy, buildings have emerged as attractive targets for using information and communications technologies to advance large-scale sustainability goals. With increasing availability and affordability of sophisticated sensing, control and computational methods, a variety of novel applications have been envisioned in the recent past aiming towards energy savings. However, the centralized building management system with its inflexible and isolated subsystems, currently used to manage"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/613",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "Yipk0X4AAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fAoOeQXv4GIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMiddleware%2Bsystems%2Band%2Banalytics%2Bfor%2Benergy%2Bmanagement%2Bin%2Bbuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fAoOeQXv4GIJ&ei=fE1kYunxC5LeyQTE46-QAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7124957417284962940&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fAoOeQXv4GIJ:scholar.google.com/&scioq=Middleware+systems+and+analytics+for+energy+management+in+buildings&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "BEEM: Data-driven building energy benchmarking for Singapore",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:u_35RYKgDlwC",
+            "citation_id": "6zG4VnQAAAAJ:u_35RYKgDlwC",
+            "authors": "P Arjunan, K Poolla, C Miller",
+            "publication": "Energy and Buildings 260, 111869, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "BEEM: Data-driven building energy benchmarking for Singapore",
+                    "author": [
+                        "P Arjunan",
+                        "K Poolla",
+                        "C Miller"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "Energy and Buildings",
+                    "abstract": "Building energy use benchmarking is the process of measuring the energy performance of buildings relative to their peer group for creating awareness and identifying energy-saving opportunities. In this paper, we present the design and implementation of BEEM, a data-driven energy use benchmarking system for buildings in Singapore. The peer groups for comparison are established using a public energy disclosure data set. We use an ensemble tree algorithm for accurately modeling building energy use and for identifying the most"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0378778822000408",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "",
+                    "akL857IAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4jHQ9fzFOv4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBEEM:%2BData-driven%2Bbuilding%2Benergy%2Bbenchmarking%2Bfor%2BSingapore%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4jHQ9fzFOv4J&ei=f01kYtq1L5LeyQTE46-QAg&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "LEAD1. 0: A Large-scale Annotated Dataset for Energy Anomaly Detection in Commercial Buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:fPk4N6BV_jEC",
+            "citation_id": "6zG4VnQAAAAJ:fPk4N6BV_jEC",
+            "authors": "M Gulati, P Arjunan",
+            "publication": "arXiv preprint arXiv:2203.17256, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "LEAD1. 0: A Large-scale Annotated Dataset for Energy Anomaly Detection in Commercial Buildings",
+                    "author": [
+                        "M Gulati",
+                        "P Arjunan"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2203.17256",
+                    "abstract": "Modern buildings are densely equipped with smart energy meters, which periodically generate a massive amount of time-series data yielding few million data points every day. This data can be leveraged to discover the underlying loads, infer their energy consumption patterns, inter-dependencies on environmental factors, and the building's operational properties. Furthermore, it allows us to simultaneously identify anomalies present in the electricity consumption profiles, which is a big step towards saving energy and achieving"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2203.17256",
+                "author_id": [
+                    "2L-TGfcAAAAJ",
+                    "6zG4VnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:aX_qmypbE3wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLEAD1.%2B0:%2BA%2BLarge-scale%2BAnnotated%2BDataset%2Bfor%2BEnergy%2BAnomaly%2BDetection%2Bin%2BCommercial%2BBuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=aX_qmypbE3wJ&ei=g01kYrgFopTL1g_8k42IBg&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2203.17256"
+            }
+        },
+        {
+            "title": "FATEsys 2021: the first ACM SIGEnergy workshop on fair, accountable, transparent, and ethical (FATE) AI for smart environments and energy systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:zA6iFVUQeVQC",
+            "citation_id": "6zG4VnQAAAAJ:zA6iFVUQeVQC",
+            "authors": "M Jain, P Arjunan",
+            "publication": "Proceedings of the 8th ACM International Conference on Systems for Energy \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "FATEsys 2021: the first ACM SIGEnergy workshop on fair, accountable, transparent, and ethical (FATE) AI for smart environments and energy systems",
+                    "author": [
+                        "M Jain",
+                        "P Arjunan"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 8th ACM International Conference \u2026",
+                    "abstract": "The advent of IoT, ubiquitous and smart sensing, and high performance computing has resulted in a big shift in the adoption of data-driven black-box modeling (also referred to as machine/deep learning) to make our environments smarter and energy systems efficient. Several studies have shown that these AI-enabled solutions for smart buildings, smart cities, smart grids, electric transportation, among others are much more accurate and efficient. However, these data-driven black-box solutions are rarely held accountable for the impact of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3486611.3492408",
+                "author_id": [
+                    "",
+                    "6zG4VnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pWRXnIUDq-MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFATEsys%2B2021:%2Bthe%2Bfirst%2BACM%2BSIGEnergy%2Bworkshop%2Bon%2Bfair,%2Baccountable,%2Btransparent,%2Band%2Bethical%2B(FATE)%2BAI%2Bfor%2Bsmart%2Benvironments%2Band%2Benergy%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pWRXnIUDq-MJ&ei=hk1kYu79LJyO6rQP_qe3mAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:pWRXnIUDq-MJ:scholar.google.com/&scioq=FATEsys+2021:+the+first+ACM+SIGEnergy+workshop+on+fair,+accountable,+transparent,+and+ethical+(FATE)+AI+for+smart+environments+and+energy+systems&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Operational characteristics of residential air conditioners with temporally granular remote thermographic imaging",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:rO6llkc54NcC",
+            "citation_id": "6zG4VnQAAAAJ:rO6llkc54NcC",
+            "authors": "P Arjunan, G Dobler, K Lee, C Miller, F Biljecki, K Poolla",
+            "publication": "Proceedings of the 8th ACM International Conference on Systems for Energy \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Operational characteristics of residential air conditioners with temporally granular remote thermographic imaging",
+                    "author": [
+                        "P Arjunan",
+                        "G Dobler",
+                        "K Lee",
+                        "C Miller",
+                        "F Biljecki"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 8th \u2026",
+                    "abstract": "Collecting accurate information about the operational characteristics of buildings is essential for many performance analyses including energy auditing and benchmarking. While most of the existing solutions involve manual inspection of building premises, surveys, or in-situ sensor deployment, these techniques are intrusive and/or time-intensive, limiting their applicability at larger, city-level spatial scales. Complementing these solutions, we present a wide-area infrared thermography (IRT) based system for measuring a building's operational"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3486611.3486659",
+                "author_id": [
+                    "6zG4VnQAAAAJ",
+                    "WRTzLdgAAAAJ",
+                    "06i8-GQAAAAJ",
+                    "akL857IAAAAJ",
+                    "jGqm4kEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Y5UvyPGN9awJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOperational%2Bcharacteristics%2Bof%2Bresidential%2Bair%2Bconditioners%2Bwith%2Btemporally%2Bgranular%2Bremote%2Bthermographic%2Bimaging%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Y5UvyPGN9awJ&ei=ik1kYrSbFYuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Y5UvyPGN9awJ:scholar.google.com/&scioq=Operational+characteristics+of+residential+air+conditioners+with+temporally+granular+remote+thermographic+imaging&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3486611.3486659"
+            }
+        },
+        {
+            "title": "Fine-grained resource (electricity) management in buildings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "6zG4VnQAAAAJ:d1gkVwhDpl0C",
+            "authors": "P Arjunan",
+            "publication": "2012 Fourth International Conference on Communication Systems and Networks \u2026, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fine-grained resource (electricity) management in buildings",
+                    "author": [
+                        "P Arjunan"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "2012 Fourth International Conference on \u2026",
+                    "abstract": "In this work, we propose a scalable, end-to-end, fine-grained and low-cost resource (electricity) management system for buildings. Our proposed work is in the direction of using low cost sensing approaches (including existing sensory information) and designing middleware for end-to-end management."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6151365/",
+                "author_id": [
+                    "6zG4VnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xfeyzLt8G8EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFine-grained%2Bresource%2B(electricity)%2Bmanagement%2Bin%2Bbuildings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xfeyzLt8G8EJ&ei=lk1kYujdLIuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:xfeyzLt8G8EJ:scholar.google.com/&scioq=Fine-grained+resource+(electricity)+management+in+buildings&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/~samy/papers/comsnet2012_abstract.pdf"
+            }
+        },
+        {
+            "title": "Occupant-Centric Federated Cyber-Physical System for Building Management",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6zG4VnQAAAAJ&pagesize=100&citation_for_view=6zG4VnQAAAAJ:mB3voiENLucC",
+            "citation_id": "6zG4VnQAAAAJ:mB3voiENLucC",
+            "authors": "P Arjunan",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Occupant-Centric Federated Cyber-Physical System for Building Management",
+                    "author": [
+                        "P Arjunan"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Multiple operations inside the building, eg HVAC, elevators, fire system and access control, are managed by diverse systems, each providing centralized management and inflexible ways for external interaction. Limited interactions across these systems also limit the occupant experience towards personalized control, ability to selectively share data and control access and build custom applications that can integrate these systems to provide a holistic experience. This research focuses on developing an open-source, federated cyber"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.iiitd.edu.in/~samy/papers/sensys12dc_abstract.pdf",
+                "author_id": [
+                    "6zG4VnQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6GS384YXZCQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOccupant-Centric%2BFederated%2BCyber-Physical%2BSystem%2Bfor%2BBuilding%2BManagement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6GS384YXZCQJ&ei=pE1kYqWxAYuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:6GS384YXZCQJ:scholar.google.com/&scioq=Occupant-Centric+Federated+Cyber-Physical+System+for+Building+Management&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~samy/papers/sensys12dc_abstract.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 389,
+                    "since_2017": 326
+                }
+            },
+            {
+                "h_index": {
+                    "all": 12,
+                    "since_2017": 12
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 12,
+                    "since_2017": 12
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2011,
+                "citations": 1
+            },
+            {
+                "year": 2012,
+                "citations": 5
+            },
+            {
+                "year": 2013,
+                "citations": 10
+            },
+            {
+                "year": 2014,
+                "citations": 12
+            },
+            {
+                "year": 2015,
+                "citations": 16
+            },
+            {
+                "year": 2016,
+                "citations": 17
+            },
+            {
+                "year": 2017,
+                "citations": 24
+            },
+            {
+                "year": 2018,
+                "citations": 19
+            },
+            {
+                "year": 2019,
+                "citations": 97
+            },
+            {
+                "year": 2020,
+                "citations": 40
+            },
+            {
+                "year": 2021,
+                "citations": 99
+            },
+            {
+                "year": 2022,
+                "citations": 47
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=6zG4VnQAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Amarjeet Singh",
+            "link": "https://scholar.google.com/citations?user=Yipk0X4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Yipk0X4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Yipk0X4AAAAJ",
+            "affiliations": "UCLA IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Pushpendra Singh",
+            "link": "https://scholar.google.com/citations?user=FniYr_MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FniYr_MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FniYr_MAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FniYr_MAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mani Srivastava",
+            "link": "https://scholar.google.com/citations?user=X2Qs7XYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=X2Qs7XYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "X2Qs7XYAAAAJ",
+            "affiliations": "Professor of Electrical & Computer Engineering, and Professor of Computer Science, UCLA",
+            "email": "Verified email at ucla.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=X2Qs7XYAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nipun Batra",
+            "link": "https://scholar.google.com/citations?user=rFGzHlIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rFGzHlIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rFGzHlIAAAAJ",
+            "affiliations": "IIT Gandhinagar",
+            "email": "Verified email at iitgn.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rFGzHlIAAAAJ&citpid=5"
+        },
+        {
+            "name": "Haksoo Choi",
+            "link": "https://scholar.google.com/citations?user=x996EckAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=x996EckAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "x996EckAAAAJ",
+            "affiliations": "University of California, Los Angeles",
+            "email": "Verified email at ucla.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Manoj Gulati",
+            "link": "https://scholar.google.com/citations?user=2L-TGfcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2L-TGfcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2L-TGfcAAAAJ",
+            "affiliations": "Singapore Management University, Singapore [earlier IIIT-Delhi and UW Seattle]",
+            "email": "Verified email at smu.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2L-TGfcAAAAJ&citpid=4"
+        },
+        {
+            "name": "Zainul Charbiwala",
+            "link": "https://scholar.google.com/citations?user=10RVXDQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=10RVXDQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "10RVXDQAAAAJ",
+            "affiliations": "Founder, Tricog Health",
+            "email": "Verified email at tricog.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=10RVXDQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Tanuja Ganu",
+            "link": "https://scholar.google.com/citations?user=uU9COWkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uU9COWkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "uU9COWkAAAAJ",
+            "affiliations": "Microsoft Research",
+            "email": "Verified email at microsoft.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uU9COWkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Harshad Khadilkar",
+            "link": "https://scholar.google.com/citations?user=y9efmmsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y9efmmsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "y9efmmsAAAAJ",
+            "affiliations": "Scientist, TCS Research, Mumbai",
+            "email": "Verified email at tcs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=y9efmmsAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vinayak Naik",
+            "link": "https://scholar.google.com/citations?user=HF7IPeQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HF7IPeQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HF7IPeQAAAAJ",
+            "affiliations": "Head of CS Dept, Head of Computing Center, Professor of CS, and Professor in APPCAIR at BITS Pilani",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HF7IPeQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Haroon Rashid",
+            "link": "https://scholar.google.com/citations?user=OjujmUAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OjujmUAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "OjujmUAAAAAJ",
+            "affiliations": "Indian Institute of Science Education and Research Bhopal",
+            "email": "Verified email at iiserb.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OjujmUAAAAAJ&citpid=5"
+        },
+        {
+            "name": "Ullas Nambiar",
+            "link": "https://scholar.google.com/citations?user=UbJsDGcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=UbJsDGcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "UbJsDGcAAAAJ",
+            "affiliations": "Managing Director AI, Accenture",
+            "email": "Verified email at accenture.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Shubham Saini",
+            "link": "https://scholar.google.com/citations?user=0aiJh4QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0aiJh4QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "0aiJh4QAAAAJ",
+            "affiliations": "University of California, San Diego",
+            "email": "Verified email at ucsd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0aiJh4QAAAAJ&citpid=6"
+        }
+    ]
+}

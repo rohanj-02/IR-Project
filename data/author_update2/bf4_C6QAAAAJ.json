@@ -1,0 +1,168 @@
+{
+    "search_metadata": {
+        "id": "62574c865c1059af07d0de97",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/059d5041de0f9c0a/62574c865c1059af07d0de97.json",
+        "created_at": "2022-04-13 22:19:50 UTC",
+        "processed_at": "2022-04-13 22:19:50 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=bf4_C6QAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/059d5041de0f9c0a/62574c865c1059af07d0de97.html",
+        "total_time_taken": 4.82,
+        "total_articles": 1,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "bf4_C6QAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Vidit Jain",
+        "affiliations": "Student at IIIT-D",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Multimodal Analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multimodal_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultimodal_analysis"
+            },
+            {
+                "title": "Deep Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning"
+            },
+            {
+                "title": "Computer Vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "Human Centred Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:human_centred_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahuman_centred_computing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=bf4_C6QAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Exploring Semi-Supervised Learning for Predicting Listener Backchannels",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bf4_C6QAAAAJ&pagesize=100&citation_for_view=bf4_C6QAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "bf4_C6QAAAAJ:u5HHmVD_uO8C",
+            "authors": "V Jain, M Leekha, RR Shah, J Shukla",
+            "publication": "CHI 2021, 2021",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=776901534962133024",
+                "serpapi_link": "https://serpapi.com/search.json?cites=776901534962133024&engine=google_scholar&hl=en",
+                "cites_id": "776901534962133024"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploring semi-supervised learning for predicting listener backchannels",
+                    "author": [
+                        "V Jain",
+                        "M Leekha",
+                        "RR Shah",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 of the 2021 CHI Conference on \u2026",
+                    "abstract": "Developing human-like conversational agents is a prime area in HCI research and subsumes many tasks. Predicting listener backchannels is one such actively-researched task. While many studies have used different approaches for backchannel prediction, they all have depended on manual annotations for a large dataset. This is a bottleneck impacting the scalability of development. To this end, we propose using semi-supervised techniques to automate the process of identifying backchannels, thereby easing the annotation process"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445449",
+                "author_id": [
+                    "bf4_C6QAAAAJ",
+                    "JwYqJmgAAAAJ",
+                    "WAChZv4AAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IKjfcNQbyAoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploring%2BSemi-Supervised%2BLearning%2Bfor%2BPredicting%2BListener%2BBackchannels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IKjfcNQbyAoJ&ei=hlFkYuWHHe-Sy9YPs_mY8AM&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=776901534962133024&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IKjfcNQbyAoJ:scholar.google.com/&scioq=Exploring+Semi-Supervised+Learning+for+Predicting+Listener+Backchannels&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2101.01899"
+            },
+            "processed_authors": [
+                "vidit jain",
+                "m leekha",
+                "rajiv ratn shah",
+                "jainendra shukla"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 7,
+                    "since_2017": 7
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2020,
+                "citations": 1
+            },
+            {
+                "year": 2021,
+                "citations": 6
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=bf4_C6QAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Maitree Leekha",
+            "link": "https://scholar.google.com/citations?user=JwYqJmgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JwYqJmgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JwYqJmgAAAAJ",
+            "affiliations": "Delhi Technological University",
+            "email": "Verified email at dtu.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JwYqJmgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Jainendra Shukla",
+            "link": "https://scholar.google.com/citations?user=QCZleNQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QCZleNQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QCZleNQAAAAJ",
+            "affiliations": "Assistant Professor, \u200bIndraprastha Institute of Information Technology, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QCZleNQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        }
+    ]
+}

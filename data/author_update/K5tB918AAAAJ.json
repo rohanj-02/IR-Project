@@ -1,0 +1,155 @@
+{
+    "search_metadata": {
+        "id": "62574c9dcace9659333ab61e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a302caca3ed1e1e1/62574c9dcace9659333ab61e.json",
+        "created_at": "2022-04-13 22:20:13 UTC",
+        "processed_at": "2022-04-13 22:20:13 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=K5tB918AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a302caca3ed1e1e1/62574c9dcace9659333ab61e.html",
+        "total_time_taken": 2.88,
+        "total_articles": 2,
+        "total_co_authors": 1
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "K5tB918AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Bushra Ansari",
+        "affiliations": "Research Scholar at IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "GNSS-Reflectometry",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:gnss_reflectometry",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agnss_reflectometry"
+            },
+            {
+                "title": "NavIC",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:navic",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anavic"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=K5tB918AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Raw GNSS Data Compression using Compressive Sensing for Reflectometry Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5tB918AAAAJ&pagesize=100&citation_for_view=K5tB918AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "K5tB918AAAAJ:u5HHmVD_uO8C",
+            "authors": "B Ansari, V Kaushik, SK Biswas",
+            "publication": "2020 XXXIIIrd General Assembly and Scientific Symposium of the International \u2026, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7362735069590507423",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7362735069590507423&engine=google_scholar&hl=en",
+                "cites_id": "7362735069590507423"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Raw GNSS Data Compression using Compressive Sensing for Reflectometry Applications",
+                    "author": [
+                        "B Ansari",
+                        "V Kaushik",
+                        "SK Biswas"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 XXXIIIrd General \u2026",
+                    "abstract": "Global Navigation Satellite System (GNSS) is a passive and in-expensive technique for remote sensing applications. GNSS reflectometry (GNSS-R) aims at analyzing the multipath signal reflected from the surface surrounding the receiving antenna. One of the challenge is the size of the raw GNSS-R I/Q data. The data size is very large even for a short duration of time. To address this issue an algorithm is proposed using the Compressive Sensing (CS) theory, to compress and reduce the size of data that is to be transmitted for further"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232248/",
+                "author_id": [
+                    "K5tB918AAAAJ",
+                    "",
+                    "H3Td2TUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:n89ATomwLWYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRaw%2BGNSS%2BData%2BCompression%2Busing%2BCompressive%2BSensing%2Bfor%2BReflectometry%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=n89ATomwLWYJ&ei=91dkYsrLDOHDywSSipaYAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7362735069590507423&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:n89ATomwLWYJ:scholar.google.com/&scioq=Raw+GNSS+Data+Compression+using+Compressive+Sensing+for+Reflectometry+Applications&hl=en&as_sdt=0,33",
+                "eprint_url": "http://157.193.135.32/proceedings/procGA20/papers/Bushraursi2020.pdf"
+            }
+        },
+        {
+            "title": "A Hardware-In-Loop simulation Test-bed for NavIC Reflectometry Experiments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=K5tB918AAAAJ&pagesize=100&citation_for_view=K5tB918AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "K5tB918AAAAJ:u-x6o8ySG0sC",
+            "authors": "B Ansari, SK Biswas",
+            "publication": "2021 XXXIVth General Assembly and Scientific Symposium of the International \u2026, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Hardware-In-Loop simulation Test-bed for NavIC Reflectometry Experiments",
+                    "author": [
+                        "B Ansari",
+                        "SK Biswas"
+                    ],
+                    "pub_year": "NA",
+                    "venue": "2021 XXXIVth General Assembly and Scientific \u2026",
+                    "abstract": "Global Navigation Satellite System-Reflectometry (GNSS-R) is a cost-effective remote sensing technique used to study the Earth's geophysical parameters. The Delay Doppler Map (DDM) generated by correlating locally generated GNSS signal with the GNSS signal reflected from the Earth's surface is utilised in a GNSS-R study. In this article, a Hardware-In-Loop (HIL) test-bed for reflectometry simulation involving Navigation using Indian Constellation (NavIC) is presented and verified using theoretical analysis. The radio"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9560384/",
+                "author_id": [
+                    "K5tB918AAAAJ",
+                    "H3Td2TUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Kat6k5BXwH4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BHardware-In-Loop%2Bsimulation%2BTest-bed%2Bfor%2BNavIC%2BReflectometry%2BExperiments%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Kat6k5BXwH4J&ei=-ldkYq3mLoySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Kat6k5BXwH4J:scholar.google.com/&scioq=A+Hardware-In-Loop+simulation+Test-bed+for+NavIC+Reflectometry+Experiments&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ursi.org/proceedings/procGA21/papers/URSIGASS2021-We-C12-AM2-1.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Sanat Biswas",
+            "link": "https://scholar.google.com/citations?user=H3Td2TUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=H3Td2TUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "H3Td2TUAAAAJ",
+            "affiliations": "Assistant Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=H3Td2TUAAAAJ&citpid=6"
+        }
+    ]
+}

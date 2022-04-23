@@ -1,0 +1,879 @@
+{
+    "search_metadata": {
+        "id": "62574c6f2bc7d874cf2aa0de",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/378d123c108db939/62574c6f2bc7d874cf2aa0de.json",
+        "created_at": "2022-04-13 22:19:27 UTC",
+        "processed_at": "2022-04-13 22:19:27 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=IeM8zEkAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/378d123c108db939/62574c6f2bc7d874cf2aa0de.html",
+        "total_time_taken": 2.44,
+        "total_articles": 17,
+        "total_co_authors": 6
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "IeM8zEkAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Siddharth Dawar",
+        "affiliations": "Ph.D. (CSE), IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.linkedin.com/in/siddharth-dawar-ph-d-a0078530/",
+        "interests": [
+            {
+                "title": "Data Mining",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_mining",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining"
+            },
+            {
+                "title": "Algorithms",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:algorithms",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aalgorithms"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=IeM8zEkAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "UP-Hist tree: An efficient data structure for mining high utility patterns from transaction databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "IeM8zEkAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Dawar, V Goyal",
+            "publication": "Proceedings of the 19th international database engineering & applications \u2026, 2015",
+            "cited_by": {
+                "value": 33,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17689929464535547511",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17689929464535547511&engine=google_scholar&hl=en",
+                "cites_id": "17689929464535547511"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "UP-Hist tree: An efficient data structure for mining high utility patterns from transaction databases",
+                    "author": [
+                        "S Dawar",
+                        "V Goyal"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 19th international database \u2026",
+                    "abstract": "High-utility itemset mining is an emerging research area in the field of Data Mining. Several algorithms were proposed to find high-utility itemsets from transaction databases and use a data structure called UP-tree for their working. However, algorithms based on UP-tree generate a lot of candidates due to limited information availability in UP-tree for computing utility value estimates of itemsets. In this paper, we present a data structure named UP-Hist tree which maintains a histogram of item quantities with each node of the tree. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2790755.2790771",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:d35bax9Bf_UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUP-Hist%2Btree:%2BAn%2Befficient%2Bdata%2Bstructure%2Bfor%2Bmining%2Bhigh%2Butility%2Bpatterns%2Bfrom%2Btransaction%2Bdatabases%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=d35bax9Bf_UJ&ei=EWJkYt2dBouKmgGY1YjABQ&json=",
+                "num_citations": 34,
+                "citedby_url": "/scholar?cites=17689929464535547511&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:d35bax9Bf_UJ:scholar.google.com/&scioq=UP-Hist+tree:+An+efficient+data+structure+for+mining+high+utility+patterns+from+transaction+databases&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.philippe-fournier-viger.com/spmf/UPHist.pdf"
+            }
+        },
+        {
+            "title": "Mining top-k high-utility itemsets from a data stream under sliding window model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "IeM8zEkAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "S Dawar, V Sharma, V Goyal",
+            "publication": "Applied Intelligence 47 (4), 1240-1255, 2017",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14771330392296355111",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14771330392296355111&engine=google_scholar&hl=en",
+                "cites_id": "14771330392296355111"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mining top-k high-utility itemsets from a data stream under sliding window model",
+                    "author": [
+                        "S Dawar",
+                        "V Sharma",
+                        "V Goyal"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Applied Intelligence",
+                    "abstract": "High-utility itemset mining has gained significant attention in the past few years. It aims to find sets of items ie itemsets from a database with utility no less than a user defined threshold. The notion of utility provides more flexibility to an analyst to mine relevant itemsets. Nowadays, a continuous and unbounded stream of data is generated from web-clicks, transaction flow from retail stores, sensor networks, etc. Mining high-utility itemsets from a data stream is a challenging task as the incoming stream of data has to be processed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s10489-017-0939-7",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "",
+                    "YJaVmSwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:J3XB3LpO_swJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMining%2Btop-k%2Bhigh-utility%2Bitemsets%2Bfrom%2Ba%2Bdata%2Bstream%2Bunder%2Bsliding%2Bwindow%2Bmodel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=J3XB3LpO_swJ&ei=HGJkYtXsH4uKmgGY1YjABQ&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=14771330392296355111&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:J3XB3LpO_swJ:scholar.google.com/&scioq=Mining+top-k+high-utility+itemsets+from+a+data+stream+under+sliding+window+model&hl=en&as_sdt=0,33",
+                "eprint_url": "https://philippe-fournier-viger.com/spmf/FHMDS.pdf"
+            }
+        },
+        {
+            "title": "A hybrid framework for mining high-utility itemsets in a sparse transaction database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "IeM8zEkAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "Applied Intelligence 47 (3), 809-827, 2017",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8663339620124161318",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8663339620124161318&engine=google_scholar&hl=en",
+                "cites_id": "8663339620124161318"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A hybrid framework for mining high-utility itemsets in a sparse transaction database",
+                    "author": [
+                        "S Dawar",
+                        "V Goyal",
+                        "D Bera"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Applied Intelligence",
+                    "abstract": "High-utility itemset mining aims to find the set of items with utility no less than a user-defined threshold in a transaction database. High-utility itemset mining is an emerging research area in the field of data mining and has important applications in inventory management, query recommendation, systems operation research, bio-medical analysis, etc. Currently, known algorithms for this problem can be classified as either 1-phase or 2-phase algorithms. The 2-phase algorithms typically consist of tree-based algorithms which generate candidate high"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s10489-017-0932-1",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ",
+                    "kv2a54oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JnUR8ntdOngJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhybrid%2Bframework%2Bfor%2Bmining%2Bhigh-utility%2Bitemsets%2Bin%2Ba%2Bsparse%2Btransaction%2Bdatabase%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JnUR8ntdOngJ&ei=H2JkYtigOoOEmgHx-5DADA&json=",
+                "num_citations": 20,
+                "citedby_url": "/scholar?cites=8663339620124161318&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JnUR8ntdOngJ:scholar.google.com/&scioq=A+hybrid+framework+for+mining+high-utility+itemsets+in+a+sparse+transaction+database&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.philippe-fournier-viger.com/spmf/UFH_paper.pdf"
+            }
+        },
+        {
+            "title": "High utility rare itemset mining over transaction databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "IeM8zEkAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Goyal, S Dawar, A Sureka",
+            "publication": "International Workshop on Databases in Networked Information Systems, 27-40, 2015",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=703439146842147391",
+                "serpapi_link": "https://serpapi.com/search.json?cites=703439146842147391&engine=google_scholar&hl=en",
+                "cites_id": "703439146842147391"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "High utility rare itemset mining over transaction databases",
+                    "author": [
+                        "V Goyal",
+                        "S Dawar",
+                        "A Sureka"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "International Workshop on Databases in \u2026",
+                    "abstract": "High-Utility Rare Itemset (HURI) mining finds itemsets from a database which have their utility no less than a given minimum utility threshold and have their support less than a given frequency threshold. Identifying high-utility rare itemsets from a database can help in better business decision making by highlighting the rare itemsets which give high profits so that they can be marketed more to earn good profit. Some two-phase algorithms have been proposed to mine high-utility rare itemsets. The rare itemsets are generated in the first phase"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-16313-0_3",
+                "author_id": [
+                    "YJaVmSwAAAAJ",
+                    "IeM8zEkAAAAJ",
+                    "-XjsfqYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:P0qhVC0ewwkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHigh%2Butility%2Brare%2Bitemset%2Bmining%2Bover%2Btransaction%2Bdatabases%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=P0qhVC0ewwkJ&ei=JGJkYsrLJIyuyAT-mrWwCA&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=703439146842147391&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:P0qhVC0ewwkJ:scholar.google.com/&scioq=High+utility+rare+itemset+mining+over+transaction+databases&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pdfs.semanticscholar.org/7771/d13bc8d11c0f5dbc5bf18305f199d383b92c.pdf"
+            }
+        },
+        {
+            "title": "An efficient algorithm for mining high-utility itemsets with discount notion",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "IeM8zEkAAAAJ:d1gkVwhDpl0C",
+            "authors": "R Bansal, S Dawar, V Goyal",
+            "publication": "International Conference on Big Data Analytics, 84-98, 2015",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17251243607268292314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17251243607268292314&engine=google_scholar&hl=en",
+                "cites_id": "17251243607268292314"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An efficient algorithm for mining high-utility itemsets with discount notion",
+                    "author": [
+                        "R Bansal",
+                        "S Dawar",
+                        "V Goyal"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "International Conference on Big Data \u2026",
+                    "abstract": "High-utility itemset mining has attracted significant attention from the research community. Identifying high-utility itemsets from a transaction database can help business owners to earn a better profit by promoting the sales of high-utility itemsets. The technique also finds applications in web-click stream analysis, biomedical data analysis, mobile E-commerce etc. Several algorithms have been proposed to mine high-utility itemsets from a transaction database. However, these algorithms assume that items have a constant profit associated"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-27057-9_6",
+                "author_id": [
+                    "",
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2nb06Ki6aO8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Befficient%2Balgorithm%2Bfor%2Bmining%2Bhigh-utility%2Bitemsets%2Bwith%2Bdiscount%2Bnotion%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2nb06Ki6aO8J&ei=MGJkYsTIOYOEmgHx-5DADA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=17251243607268292314&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2nb06Ki6aO8J:scholar.google.com/&scioq=An+efficient+algorithm+for+mining+high-utility+itemsets+with+discount+notion&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Top-k high utility episode mining from a complex event sequence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "IeM8zEkAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Rathore, S Dawar, V Goyal, D Patel",
+            "publication": "Proceedings of the 21st international conference on management of data \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9673081841596249250",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9673081841596249250&engine=google_scholar&hl=en",
+                "cites_id": "9673081841596249250"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Top-k high utility episode mining from a complex event sequence",
+                    "author": [
+                        "S Rathore",
+                        "S Dawar",
+                        "V Goyal",
+                        "D Patel"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 of data, computer society of India",
+                    "abstract": "Utility episode mining has emerged as an interesting and challenging research topic in data mining. It finds applications in anomaly detection, biomedical data analysis, predicting stock trends etc. The number of high-utility episodes that can be extracted from a sequence depends upon the value of minimum utility threshold. It is often difficult for a user to find a suitable threshold value which fits their purpose. The sequence can generate many high-utility episodes at low threshold value and very few episodes at higher threshold values. In"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://comad.in/comad2016/proceedings/COMAD2016Proceedings.pdf#page=62",
+                "author_id": [
+                    "",
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ",
+                    "c06_VJAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ojSgS6-wPYYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTop-k%2Bhigh%2Butility%2Bepisode%2Bmining%2Bfrom%2Ba%2Bcomplex%2Bevent%2Bsequence%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ojSgS6-wPYYJ&ei=NGJkYoWsF86E6rQP5-KmKA&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=9673081841596249250&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ojSgS6-wPYYJ:scholar.google.com/&scioq=Top-k+high+utility+episode+mining+from+a+complex+event+sequence&hl=en&as_sdt=0,33",
+                "eprint_url": "http://comad.in/comad2016/proceedings/COMAD2016Proceedings.pdf#page=62"
+            }
+        },
+        {
+            "title": "A more efficient algorithm to mine skyline frequent-utility patterns",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "IeM8zEkAAAAJ:2osOgNQ5qMEC",
+            "authors": "JCW Lin, L Yang, P Fournier-Viger, S Dawar, V Goyal, A Sureka, B Vo",
+            "publication": "International conference on genetic and evolutionary computing, 127-135, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9094790588000724314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9094790588000724314&engine=google_scholar&hl=en",
+                "cites_id": "9094790588000724314"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A more efficient algorithm to mine skyline frequent-utility patterns",
+                    "author": [
+                        "JCW Lin",
+                        "L Yang",
+                        "P Fournier-Viger",
+                        "S Dawar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 conference on genetic \u2026",
+                    "abstract": "In the past, a SKYMINE approach was proposed to both consider the aspects of utility and frequency of the itemsets to mine the skyline frequency-utility skyline patterns (SFUPs). The SKYMINE algorithm requires, however, the amounts of computation to mine the SFUPs based on the utility-pattern (UP)-tree structure performing in a level-wise manner. In this paper, we propose more effective algorithms to mine the SFUPs based on the utility-list structure. Substantial experiments are carried to show that the proposed algorithms"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-48490-7_16",
+                "author_id": [
+                    "Gd0ImD8AAAAJ",
+                    "",
+                    "QG_7KjoAAAAJ",
+                    "IeM8zEkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WmVZgNovN34J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bmore%2Befficient%2Balgorithm%2Bto%2Bmine%2Bskyline%2Bfrequent-utility%2Bpatterns%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WmVZgNovN34J&ei=QWJkYp-sAZLeyQTE46-QAg&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=9094790588000724314&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WmVZgNovN34J:scholar.google.com/&scioq=A+more+efficient+algorithm+to+mine+skyline+frequent-utility+patterns&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pdfs.semanticscholar.org/1894/560c9dd75b2922a8d8e33b37b55e03ea5c1f.pdf"
+            }
+        },
+        {
+            "title": "High-utility itemset mining for subadditive monotone utility functions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "IeM8zEkAAAAJ:YsMSGLbcyi4C",
+            "authors": "S Dawar, D Bera, V Goyal",
+            "publication": "arXiv preprint arXiv:1812.07208, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3065669005624603766",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3065669005624603766&engine=google_scholar&hl=en",
+                "cites_id": "3065669005624603766"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "High-utility itemset mining for subadditive monotone utility functions",
+                    "author": [
+                        "S Dawar",
+                        "D Bera",
+                        "V Goyal"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv:1812.07208",
+                    "abstract": "High-utility Itemset Mining (HUIM) finds itemsets from a transaction database with utility no less than a user-defined threshold where the utility of an itemset is defined as the sum of the item-wise utilities. In this paper, we generalize this notion to utility functions that need not be a simple sum of individual utilities. In particular, we study generalized utility functions that are subadditive and monotone (SM). We also describe a novel function that allows us to include external information in the form of a relationship graph for computing utility. Next, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1812.07208",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "kv2a54oAAAAJ",
+                    "YJaVmSwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dvQtz7dxiyoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHigh-utility%2Bitemset%2Bmining%2Bfor%2Bsubadditive%2Bmonotone%2Butility%2Bfunctions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dvQtz7dxiyoJ&ei=RGJkYpm9Gu-Sy9YPs_mY8AM&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=3065669005624603766&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dvQtz7dxiyoJ:scholar.google.com/&scioq=High-utility+itemset+mining+for+subadditive+monotone+utility+functions&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1812.07208"
+            }
+        },
+        {
+            "title": "A one-phase tree-based algorithm for mining high-utility itemsets from a transaction database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "IeM8zEkAAAAJ:eQOLeE2rZwMC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "arXiv preprint arXiv:1911.07151, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7118066689247222381",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7118066689247222381&engine=google_scholar&hl=en",
+                "cites_id": "7118066689247222381"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A one-phase tree-based algorithm for mining high-utility itemsets from a transaction database",
+                    "author": [
+                        "S Dawar",
+                        "V Goyal",
+                        "D Bera"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv:1911.07151",
+                    "abstract": "High-utility itemset mining finds itemsets from a transaction database with utility no less than a fixed user-defined threshold. The utility of an itemset is defined as the sum of the utilities of its item. Several algorithms were proposed to mine high-utility itemsets. However, no state-of-the-art algorithm performs consistently good across dense and sparse datasets. In this paper, we propose a novel data structure called Utility-Tree, and a tree-based algorithm called UT-Miner that mines high-utility itemsets in one-phase only without generating any"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1911.07151",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ",
+                    "kv2a54oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bRof1PBzyGIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bone-phase%2Btree-based%2Balgorithm%2Bfor%2Bmining%2Bhigh-utility%2Bitemsets%2Bfrom%2Ba%2Btransaction%2Bdatabase%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bRof1PBzyGIJ&ei=SGJkYt7FJpLeyQTE46-QAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7118066689247222381&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bRof1PBzyGIJ:scholar.google.com/&scioq=A+one-phase+tree-based+algorithm+for+mining+high-utility+itemsets+from+a+transaction+database&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1911.07151"
+            }
+        },
+        {
+            "title": "Efficient reverse k nearest neighbor evaluation for hierarchical index",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "IeM8zEkAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "arXiv preprint arXiv:1506.04867, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10097553270208544275",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10097553270208544275&engine=google_scholar&hl=en",
+                "cites_id": "10097553270208544275"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Efficient reverse k nearest neighbor evaluation for hierarchical index",
+                    "author": [
+                        "S Dawar",
+                        "V Goyal",
+                        "D Bera"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "arXiv preprint arXiv:1506.04867",
+                    "abstract": "\" Reverse Nearest Neighbor\" query finds applications in decision support systems, profile-based marketing, emergency services etc. In this paper, we point out a few flaws in the branch and bound algorithms proposed earlier for computing monochromatic RkNN queries over data points stored in hierarchical index. We give suitable counter examples to validate our claims and propose a correct algorithm for the corresponding problem. We show that our algorithm is correct by identifying necessary conditions behind correctness of algorithms for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1506.04867",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ",
+                    "kv2a54oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Ez5dOzO3IYwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEfficient%2Breverse%2Bk%2Bnearest%2Bneighbor%2Bevaluation%2Bfor%2Bhierarchical%2Bindex%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ez5dOzO3IYwJ&ei=S2JkYuuFMbKO6rQPy-CRsA8&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=10097553270208544275&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Ez5dOzO3IYwJ:scholar.google.com/&scioq=Efficient+reverse+k+nearest+neighbor+evaluation+for+hierarchical+index&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1506.04867"
+            }
+        },
+        {
+            "title": "UP-Hist Tree: efficient data structure for high utility pattern mining from transaction databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:qjMakFHDy7sC",
+            "citation_id": "IeM8zEkAAAAJ:qjMakFHDy7sC",
+            "authors": "V Goyal, S Dawar",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11115170736579401384",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11115170736579401384&engine=google_scholar&hl=en",
+                "cites_id": "11115170736579401384"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "UP-Hist Tree: efficient data structure for high utility pattern mining from transaction databases",
+                    "author": [
+                        "V Goyal",
+                        "S Dawar"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "High-utility itemset mining is an emerging research area in the field of Data Mining. Several algorithms were proposed to find high-utility itemsets from transaction databases and use a data structure called UP-tree for their working. However, algorithms based on UP-tree generate a lot of candidates due to limited information availability in UP-tree for computing utility value estimates of itemsets. In this pa-per, we present a data structure named UP-Hist tree which maintains a histogram of item quantities with each node of the tree. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/217",
+                "author_id": [
+                    "YJaVmSwAAAAJ",
+                    "IeM8zEkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qNah6-QEQZoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUP-Hist%2BTree:%2Befficient%2Bdata%2Bstructure%2Bfor%2Bhigh%2Butility%2Bpattern%2Bmining%2Bfrom%2Btransaction%2Bdatabases%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qNah6-QEQZoJ&ei=TmJkYvL8FcLZmQHnraWYCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=11115170736579401384&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qNah6-QEQZoJ:scholar.google.com/&scioq=UP-Hist+Tree:+efficient+data+structure+for+high+utility+pattern+mining+from+transaction+databases&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/217/IIITD-TR-2015-005.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "SMIM framework to generalize high-utility itemset mining",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:roLk4NBRz8UC",
+            "citation_id": "IeM8zEkAAAAJ:roLk4NBRz8UC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "Advanced Data Mining and Applications, 2021, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SMIM framework to generalize high-utility itemset mining",
+                    "author": [
+                        "S Dawar",
+                        "V Goyal",
+                        "D Bera"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "In high-utility itemset mining (HUIM), the utility of a set of items is calculated as the sum of the utilities of the individual items. In this paper, we describe scenarios where utility may be less than this sum for multi-item itemsets. To overcome the limitation of the current itemset mining algorithms for such scenarios, we introduce the SMIM framework for itemset mining in which utilities are constrained to be non-negative subadditive and monotone functions over itemsets. SMIM generalizes HUIM, can be used to analyse transaction databases with multi"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://www.iiitd.edu.in/~dbera/docs/2021-smim.pdf",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ",
+                    "kv2a54oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tDw9h_ybLhgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSMIM%2Bframework%2Bto%2Bgeneralize%2Bhigh-utility%2Bitemset%2Bmining%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tDw9h_ybLhgJ&ei=UGJkYqH3MO-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:tDw9h_ybLhgJ:scholar.google.com/&scioq=SMIM+framework+to+generalize+high-utility+itemset+mining&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/~dbera/docs/2021-smim.pdf"
+            }
+        },
+        {
+            "title": "High-utility and diverse itemset mining",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:ufrVoPGSRksC",
+            "citation_id": "IeM8zEkAAAAJ:ufrVoPGSRksC",
+            "authors": "A Verma, S Dawar, R Kumar, S Navathe, V Goyal",
+            "publication": "Applied Intelligence, 1-15, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "High-utility and diverse itemset mining",
+                    "author": [
+                        "A Verma",
+                        "S Dawar",
+                        "R Kumar",
+                        "S Navathe",
+                        "V Goyal"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Applied Intelligence",
+                    "abstract": "High-utility Itemset Mining (HUIM) finds patterns from a transaction database with their utility no less than a user-defined threshold. The utility of an itemset is defined as the sum of the utilities of its items. The utility notion enables a data analyst to associate a profit score with each item and thereof to a pattern. We extend the notion of high-utility with diversity to define a new pattern type called High-utility and Diverse pattern (HUD). The notion of diversity of a pattern captures the extent of the different categories covered by the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s10489-020-02063-x",
+                "author_id": [
+                    "",
+                    "IeM8zEkAAAAJ",
+                    "wnfeKTkAAAAJ",
+                    "_Z12v2IAAAAJ",
+                    "YJaVmSwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zJ_Is1Ioc-wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHigh-utility%2Band%2Bdiverse%2Bitemset%2Bmining%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zJ_Is1Ioc-wJ&ei=VWJkYuySGeHDywSSipaYAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:zJ_Is1Ioc-wJ:scholar.google.com/&scioq=High-utility+and+diverse+itemset+mining&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Mining high-utility itemsets from a transaction database",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "IeM8zEkAAAAJ:LkGwnXOMwfcC",
+            "authors": "S Dawar, V Goyal, D Bera",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mining high-utility itemsets from a transaction database",
+                    "author": [
+                        "S Dawar",
+                        "V Goyal",
+                        "D Bera"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "Technological advances have enabled organizations to store large amounts of data cost-effectively. Patterns hidden in such massive databases can be valuable to industries to gain actionable knowledge and promote their business. For example, a retail store can utilize information about the products frequently purchased together by its customers for shelf-space management and inventory management. Frequent itemset mining has been studied extensively by the research community to mine such patterns from a transaction database. A"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/887",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ",
+                    "kv2a54oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Rril5CqODRsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMining%2Bhigh-utility%2Bitemsets%2Bfrom%2Ba%2Btransaction%2Bdatabase%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Rril5CqODRsJ&ei=WWJkYpiQFo6pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Rril5CqODRsJ:scholar.google.com/&scioq=Mining+high-utility+itemsets+from+a+transaction+database&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/887/PHD14007.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Mining Top-k Trajectory-Patterns from Anonymized Data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:WF5omc3nYNoC",
+            "citation_id": "IeM8zEkAAAAJ:WF5omc3nYNoC",
+            "authors": "AS Saxena, S Dawar, V Goyal, D Bera",
+            "publication": "arXiv preprint arXiv:1912.01861, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mining Top-k Trajectory-Patterns from Anonymized Data",
+                    "author": [
+                        "AS Saxena",
+                        "S Dawar",
+                        "V Goyal",
+                        "D Bera"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv:1912.01861",
+                    "abstract": "The ubiquity of GPS enabled devices result into the generation of an enormous amount of user movement data consisting of a sequence of locations together with activities performed at those locations. Such data, commonly known as {\\it activity-trajectory data}, can be analysed to find common user movements and preferred activities, which will have tremendous business value. However, various countries have now introduced data privacy regulations that make it mandatory to anonymize any data before releasing it. This makes it"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1912.01861",
+                "author_id": [
+                    "",
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ",
+                    "kv2a54oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5Wt0wnVa63IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMining%2BTop-k%2BTrajectory-Patterns%2Bfrom%2BAnonymized%2BData%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5Wt0wnVa63IJ&ei=X2JkYu2aB7KO6rQPy-CRsA8&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:5Wt0wnVa63IJ:scholar.google.com/&scioq=Mining+Top-k+Trajectory-Patterns+from+Anonymized+Data&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1912.01861"
+            }
+        },
+        {
+            "title": "A More Efficient Algorithm to Mine Skyline Frequent-Utility Patterns",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "IeM8zEkAAAAJ:UeHWp8X0CEIC",
+            "authors": "S Dawar, V Goyal, A Sureka, B Vo",
+            "publication": "Genetic and Evolutionary Computing: Proceedings of the Tenth International \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A more efficient algorithm to mine skyline frequent-utility patterns",
+                    "author": [
+                        "JCW Lin",
+                        "L Yang",
+                        "P Fournier-Viger",
+                        "S Dawar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 conference on genetic \u2026",
+                    "abstract": "In the past, a SKYMINE approach was proposed to both consider the aspects of utility and frequency of the itemsets to mine the skyline frequency-utility skyline patterns (SFUPs). The SKYMINE algorithm requires, however, the amounts of computation to mine the SFUPs based on the utility-pattern (UP)-tree structure performing in a level-wise manner. In this paper, we propose more effective algorithms to mine the SFUPs based on the utility-list structure. Substantial experiments are carried to show that the proposed algorithms"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-48490-7_16",
+                "author_id": [
+                    "Gd0ImD8AAAAJ",
+                    "",
+                    "QG_7KjoAAAAJ",
+                    "IeM8zEkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WmVZgNovN34J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BMore%2BEfficient%2BAlgorithm%2Bto%2BMine%2BSkyline%2BFrequent-Utility%2BPatterns%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WmVZgNovN34J&ei=YmJkYuqjH4uKmgGY1YjABQ&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=9094790588000724314&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WmVZgNovN34J:scholar.google.com/&scioq=A+More+Efficient+Algorithm+to+Mine+Skyline+Frequent-Utility+Patterns&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pdfs.semanticscholar.org/1894/560c9dd75b2922a8d8e33b37b55e03ea5c1f.pdf"
+            }
+        },
+        {
+            "title": "Privacy preserving reverse spatial and textual nearest neighbour query",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=IeM8zEkAAAAJ&pagesize=100&citation_for_view=IeM8zEkAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "IeM8zEkAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Dawar, V Goyal",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Privacy preserving reverse spatial and textual nearest neighbour query",
+                    "author": [
+                        "S Dawar",
+                        "V Goyal"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "NA",
+                    "abstract": "The rapid increase in popularity of location-based services have resulted in huge amount of spatial textual data being generated by applications like Foursquare, Facebook Places, Flickr etc. The location-based services o er convenience but threaten the location and query privacy of the user. The data collected by such servers can be to used study user behaviour or for stalking personal locations. A novel query which became popular in the past few years is Reverse k Nearest Neighbour Query (RkNN). Given a set of database objects O and a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/155",
+                "author_id": [
+                    "IeM8zEkAAAAJ",
+                    "YJaVmSwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dTlg1i8544oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPrivacy%2Bpreserving%2Breverse%2Bspatial%2Band%2Btextual%2Bnearest%2Bneighbour%2Bquery%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dTlg1i8544oJ&ei=ZmJkYorKHrKO6rQPy-CRsA8&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:dTlg1i8544oJ:scholar.google.com/&scioq=Privacy+preserving+reverse+spatial+and+textual+nearest+neighbour+query&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/155/MT12020.pdf?sequence=1"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 122,
+                    "since_2017": 109
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2013,
+                "citations": 1
+            },
+            {
+                "year": 2014,
+                "citations": 2
+            },
+            {
+                "year": 2015,
+                "citations": 9
+            },
+            {
+                "year": 2016,
+                "citations": 16
+            },
+            {
+                "year": 2017,
+                "citations": 12
+            },
+            {
+                "year": 2018,
+                "citations": 27
+            },
+            {
+                "year": 2019,
+                "citations": 20
+            },
+            {
+                "year": 2020,
+                "citations": 24
+            },
+            {
+                "year": 2021,
+                "citations": 10
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=IeM8zEkAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vikram Goyal",
+            "link": "https://scholar.google.com/citations?user=YJaVmSwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YJaVmSwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YJaVmSwAAAAJ",
+            "affiliations": "Professor",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Debajyoti Bera",
+            "link": "https://scholar.google.com/citations?user=kv2a54oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kv2a54oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "kv2a54oAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ashish Sureka",
+            "link": "https://scholar.google.com/citations?user=-XjsfqYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-XjsfqYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-XjsfqYAAAAJ",
+            "affiliations": "Founder and Director @ Robo Paathshaala, Associate Professor @ Ashoka University",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-XjsfqYAAAAJ&citpid=5"
+        },
+        {
+            "name": "Dhaval Patel",
+            "link": "https://scholar.google.com/citations?user=c06_VJAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c06_VJAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c06_VJAAAAAJ",
+            "affiliations": "IBM TJ Watson Research",
+            "email": "Verified email at iitr.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c06_VJAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jerry Chun-Wei Lin",
+            "link": "https://scholar.google.com/citations?user=Gd0ImD8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Gd0ImD8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Gd0ImD8AAAAJ",
+            "affiliations": "IET Fellow, Professor, Western Norway University of Applied Sciences, Bergen, Norway",
+            "email": "Verified email at ieee.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Gd0ImD8AAAAJ&citpid=3"
+        },
+        {
+            "name": "Philippe Fournier-Viger",
+            "link": "https://scholar.google.com/citations?user=QG_7KjoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QG_7KjoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QG_7KjoAAAAJ",
+            "affiliations": "Distinguished professor, Shenzhen University, China",
+            "email": "Verified email at szu.edu.cn",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QG_7KjoAAAAJ&citpid=5"
+        }
+    ]
+}

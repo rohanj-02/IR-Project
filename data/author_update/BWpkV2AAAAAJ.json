@@ -1,0 +1,348 @@
+{
+    "search_metadata": {
+        "id": "62574c6e10d744366442b8f9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/375defb968aea01e/62574c6e10d744366442b8f9.json",
+        "created_at": "2022-04-13 22:19:26 UTC",
+        "processed_at": "2022-04-13 22:19:26 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=BWpkV2AAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/375defb968aea01e/62574c6e10d744366442b8f9.html",
+        "total_time_taken": 0.62,
+        "total_articles": 6,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "BWpkV2AAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Viresh Gupta",
+        "affiliations": "Student, IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://virresh.github.io/",
+        "interests": [
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Data Science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science"
+            },
+            {
+                "title": "Complex Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:complex_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomplex_networks"
+            },
+            {
+                "title": "Multimodal Analysis",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:multimodal_analysis",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amultimodal_analysis"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "Universal EEG Encoder for Learning Diverse Intelligent Tasks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BWpkV2AAAAAJ&pagesize=100&citation_for_view=BWpkV2AAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "BWpkV2AAAAAJ:9yKSN-GCB0IC",
+            "authors": "BLK Jolly, P Aggrawal, SS Nath, V Gupta, MS Grover, RR Shah",
+            "publication": "2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM), 213-218, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13556686051087635842",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13556686051087635842&engine=google_scholar&hl=en",
+                "cites_id": "13556686051087635842"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Universal EEG encoder for learning diverse intelligent tasks",
+                    "author": [
+                        "BLK Jolly",
+                        "P Aggrawal",
+                        "SS Nath",
+                        "V Gupta"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Fifth \u2026",
+                    "abstract": "Brain Computer Interfaces (BCI) have become very popular with Electroencephalography (EEG) being one of the most commonly used signal acquisition techniques. A major challenge in BCI studies is the individualistic analysis required for each task. Thus, task-specific feature extraction and classification are performed, which fails to generalize to other tasks with similar time-series EEG input data. To this end, we design a GRU-based universal deep encoding architecture to extract meaningful features from publicly available datasets"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8919317/",
+                "author_id": [
+                    "PBNFp3QAAAAJ",
+                    "LS3RLtIAAAAJ",
+                    "NFwaRUcAAAAJ",
+                    "BWpkV2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:glWSFiMGI7wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUniversal%2BEEG%2BEncoder%2Bfor%2BLearning%2BDiverse%2BIntelligent%2BTasks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=glWSFiMGI7wJ&ei=BFJkYv-oGYOEmgHx-5DADA&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=13556686051087635842&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:glWSFiMGI7wJ:scholar.google.com/&scioq=Universal+EEG+Encoder+for+Learning+Diverse+Intelligent+Tasks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1911.12152"
+            }
+        },
+        {
+            "title": "Bag-of-lies: A multimodal dataset for deception detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BWpkV2AAAAAJ&pagesize=100&citation_for_view=BWpkV2AAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "BWpkV2AAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Gupta, M Agarwal, M Arora, T Chakraborty, R Singh, M Vatsa",
+            "publication": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2019",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8317282487901911696",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8317282487901911696&engine=google_scholar&hl=en",
+                "cites_id": "8317282487901911696"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Bag-of-lies: A multimodal dataset for deception detection",
+                    "author": [
+                        "V Gupta",
+                        "M Agarwal",
+                        "M Arora"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Deception detection is a pervasive issue in security. It has been widely studied using traditional modalities, such as video, audio and transcripts; however, there has been a lack of investigation in using modalities such as EEG and Gaze data due to the scarcity of a publicly available dataset. In this paper, a new multimodal dataset is presented, which provides data for deception detection by the aid of various modalities, such as video, audio, EEG and gaze data. The dataset explores the cognitive aspect of deception and combines it"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html",
+                "author_id": [
+                    "BWpkV2AAAAAJ",
+                    "GmjFXNEAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:kHr4G1vsbHMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBag-of-lies:%2BA%2Bmultimodal%2Bdataset%2Bfor%2Bdeception%2Bdetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kHr4G1vsbHMJ&ei=B1JkYqviEc6E6rQP5-KmKA&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=8317282487901911696&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kHr4G1vsbHMJ:scholar.google.com/&scioq=Bag-of-lies:+A+multimodal+dataset+for+deception+detection&hl=en&as_sdt=0,33",
+                "eprint_url": "http://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf"
+            }
+        },
+        {
+            "title": "Detecting and Characterizing Extremist Reviewer Groups in Online Product Reviews",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BWpkV2AAAAAJ&pagesize=100&citation_for_view=BWpkV2AAAAAJ:qjMakFHDy7sC",
+            "citation_id": "BWpkV2AAAAAJ:qjMakFHDy7sC",
+            "authors": "V Gupta, A Aggarwal, T Chakraborty",
+            "publication": "IEEE Transactions on Computational Social Systems 7 (3), 741-750, 2020",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12069780587312505909",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12069780587312505909&engine=google_scholar&hl=en",
+                "cites_id": "12069780587312505909"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Detecting and characterizing extremist reviewer groups in online product reviews",
+                    "author": [
+                        "V Gupta",
+                        "A Aggarwal"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Online marketplaces often witness opinion spam in the form of reviews. People are often hired to target specific brands for promoting or impeding them by writing highly positive or negative reviews. This often is done collectively in groups. Although some previous studies attempted to identify and analyze such opinion spam groups, little has been explored to spot those groups who target a brand as a whole, instead of just products. In this article, we collected the reviews from the Amazon product review site and manually labeled a set of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9085941/",
+                "author_id": [
+                    "BWpkV2AAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:NeSq5355gKcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDetecting%2Band%2BCharacterizing%2BExtremist%2BReviewer%2BGroups%2Bin%2BOnline%2BProduct%2BReviews%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NeSq5355gKcJ&ei=EVJkYouLPI2ymgHg1rfQDQ&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=12069780587312505909&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:NeSq5355gKcJ:scholar.google.com/&scioq=Detecting+and+Characterizing+Extremist+Reviewer+Groups+in+Online+Product+Reviews&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2004.05865"
+            }
+        },
+        {
+            "title": "Adversarial Attack on Network Embeddings via Supervised Network Poisoning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BWpkV2AAAAAJ&pagesize=100&citation_for_view=BWpkV2AAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "BWpkV2AAAAAJ:2osOgNQ5qMEC",
+            "authors": "V Gupta, T Chakraborty",
+            "publication": "arXiv preprint arXiv:2102.07164, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5274093806097238617",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5274093806097238617&engine=google_scholar&hl=en",
+                "cites_id": "5274093806097238617"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adversarial Attack on Network Embeddings via Supervised Network Poisoning",
+                    "author": [
+                        "V Gupta",
+                        "T Chakraborty"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv:2102.07164",
+                    "abstract": "Learning low-level node embeddings using techniques from network representation learning is useful for solving downstream tasks such as node classification and link prediction. An important consideration in such applications is the robustness of the embedding algorithms against adversarial attacks, which can be examined by performing perturbation on the original network. An efficient perturbation technique can degrade the performance of network embeddings on downstream tasks. In this paper, we study network"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2102.07164",
+                "author_id": [
+                    "BWpkV2AAAAAJ",
+                    "C5S9JnIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WYqDkF9YMUkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdversarial%2BAttack%2Bon%2BNetwork%2BEmbeddings%2Bvia%2BSupervised%2BNetwork%2BPoisoning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WYqDkF9YMUkJ&ei=HVJkYryaLrKO6rQPy-CRsA8&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=5274093806097238617&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WYqDkF9YMUkJ:scholar.google.com/&scioq=Adversarial+Attack+on+Network+Embeddings+via+Supervised+Network+Poisoning&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2102.07164"
+            }
+        },
+        {
+            "title": "VIKING: Adversarial Attack on Network Embeddings via Supervised Network Poisoning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BWpkV2AAAAAJ&pagesize=100&citation_for_view=BWpkV2AAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "BWpkV2AAAAAJ:UeHWp8X0CEIC",
+            "authors": "V Gupta, T Chakraborty",
+            "publication": "Pacific-Asia Conference on Knowledge Discovery and Data Mining, 103-115, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13421032727933527357",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13421032727933527357&engine=google_scholar&hl=en",
+                "cites_id": "13421032727933527357"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "VIKING: Adversarial Attack on Network Embeddings via Supervised Network Poisoning",
+                    "author": [
+                        "V Gupta",
+                        "T Chakraborty"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 -Asia Conference on Knowledge Discovery and \u2026",
+                    "abstract": "Learning low-level node embeddings using techniques from network representation learning is useful for solving downstream tasks such as node classification and link prediction. An important consideration in such applications is the robustness of the embedding algorithms against adversarial attacks, which can be examined by performing perturbation on the original network. An efficient perturbation technique can degrade the performance of network embeddings on downstream tasks. In this paper, we study network"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-75768-7_9",
+                "author_id": [
+                    "BWpkV2AAAAAJ",
+                    "C5S9JnIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:PaVeiygWQboJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVIKING:%2BAdversarial%2BAttack%2Bon%2BNetwork%2BEmbeddings%2Bvia%2BSupervised%2BNetwork%2BPoisoning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PaVeiygWQboJ&ei=IVJkYueLHMLZmQHnraWYCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=13421032727933527357&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PaVeiygWQboJ:scholar.google.com/&scioq=VIKING:+Adversarial+Attack+on+Network+Embeddings+via+Supervised+Network+Poisoning&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Clark Kent at SemEval-2019 Task 4: Stylometric Insights into Hyperpartisan News Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=BWpkV2AAAAAJ&pagesize=100&citation_for_view=BWpkV2AAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "BWpkV2AAAAAJ:d1gkVwhDpl0C",
+            "authors": "V Gupta, BLK Jolly, R Kaur, T Chakraborty",
+            "publication": "Proceedings of the 13th International Workshop on Semantic Evaluation, 934-938, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Clark Kent at SemEval-2019 Task 4: Stylometric Insights into Hyperpartisan News Detection",
+                    "author": [
+                        "V Gupta",
+                        "BLK Jolly",
+                        "R Kaur"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the 13th \u2026",
+                    "abstract": "In this paper, we present a news bias prediction system, which we developed as part of a SemEval 2019 task. We developed an XGBoost based system which uses character and word level n-gram features represented using TF-IDF, count vector based correlation matrix, and predicts if an input news article is a hyperpartisan news article. Our model was able to achieve a precision of 68.3% on the test set provided by the contest organizers. We also run our model on the BuzzFeed corpus and find XGBoost with simple character level N-Gram"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aclanthology.org/S19-2159/",
+                "author_id": [
+                    "BWpkV2AAAAAJ",
+                    "PBNFp3QAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:sD434koILr0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClark%2BKent%2Bat%2BSemEval-2019%2BTask%2B4:%2BStylometric%2BInsights%2Binto%2BHyperpartisan%2BNews%2BDetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sD434koILr0J&ei=JVJkYunLJIyuyAT-mrWwCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:sD434koILr0J:scholar.google.com/&scioq=Clark+Kent+at+SemEval-2019+Task+4:+Stylometric+Insights+into+Hyperpartisan+News+Detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aclanthology.org/S19-2159/"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 39,
+                    "since_2017": 39
+                }
+            },
+            {
+                "h_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2019,
+                "citations": 1
+            },
+            {
+                "year": 2020,
+                "citations": 8
+            },
+            {
+                "year": 2021,
+                "citations": 23
+            },
+            {
+                "year": 2022,
+                "citations": 7
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=BWpkV2AAAAAJ",
+        "available": 3,
+        "not_available": 1
+    },
+    "co_authors": []
+}

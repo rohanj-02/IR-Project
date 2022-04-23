@@ -1,0 +1,597 @@
+{
+    "search_metadata": {
+        "id": "62574cfc1d64eabdbf75f1a1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d7521ea7a4fab89b/62574cfc1d64eabdbf75f1a1.json",
+        "created_at": "2022-04-13 22:21:48 UTC",
+        "processed_at": "2022-04-13 22:21:48 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=tmr9XeYAAAAJ&hl&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/d7521ea7a4fab89b/62574cfc1d64eabdbf75f1a1.html",
+        "total_time_taken": 0.67,
+        "total_articles": 9,
+        "total_co_authors": 6
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "tmr9XeYAAAAJ&hl",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Hitkul",
+        "affiliations": "PhD Scholar, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Computational Social Science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_social_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputational_social_science"
+            },
+            {
+                "title": "Social Media Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:social_media_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asocial_media_computing"
+            },
+            {
+                "title": "Data Science for Social good",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_science_for_social_good",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science_for_social_good"
+            },
+            {
+                "title": "NLP",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:nlp",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anlp"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=tmr9XeYAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Bagged support vector machines for emotion recognition from speech",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:5nxA0vEk-isC",
+            "citation_id": "tmr9XeYAAAAJ:5nxA0vEk-isC",
+            "authors": "A Bhavan, P Chauhan, Hitkul, RR Shah",
+            "publication": "Knowledge-Based Systems 184, 104886, 2019",
+            "cited_by": {
+                "value": 80,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6232279860852804318",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6232279860852804318&engine=google_scholar&hl=en",
+                "cites_id": "6232279860852804318"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Bagged support vector machines for emotion recognition from speech",
+                    "author": [
+                        "A Bhavan",
+                        "P Chauhan",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Knowledge-Based Systems",
+                    "abstract": "Speech emotion recognition, a highly promising and exciting problem in the field of Human Computer Interaction, has been studied and analyzed over several decades. It concerns the task of recognizing a speaker's emotions from their speech recordings. Recognizing emotions from speech can go a long way in determining a person's physical and psychological state of well-being. In this work we performed emotion classification on three corpora\u2014the Berlin EmoDB, the Indian Institute of Technology Kharagpur Simulated"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0950705119303533",
+                "author_id": [
+                    "GUP8CwgAAAAJ",
+                    "l3MmbPYAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:3srzboOBfVYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBagged%2Bsupport%2Bvector%2Bmachines%2Bfor%2Bemotion%2Brecognition%2Bfrom%2Bspeech%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3srzboOBfVYJ&ei=7WBkYp7SOcLZmQHnraWYCA&json=",
+                "num_citations": 80,
+                "citedby_url": "/scholar?cites=6232279860852804318&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:3srzboOBfVYJ:scholar.google.com/&scioq=Bagged+support+vector+machines+for+emotion+recognition+from+speech&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a bhavan",
+                "p chauhan",
+                "rajiv ratn shah"
+            ]
+        },
+        {
+            "title": "Aspect-based financial sentiment analysis using deep learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "tmr9XeYAAAAJ:u5HHmVD_uO8C",
+            "authors": "H Jangid, S Singhal, RR Shah, R Zimmermann",
+            "publication": "Companion Proceedings of the The Web Conference 2018, 1961-1966, 2018",
+            "cited_by": {
+                "value": 51,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5585898555160692505",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5585898555160692505&engine=google_scholar&hl=en",
+                "cites_id": "5585898555160692505"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Aspect-based financial sentiment analysis using deep learning",
+                    "author": [
+                        "H Jangid",
+                        "S Singhal",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Proceedings of the The \u2026",
+                    "abstract": "Aspect based sentiment analysis aims to detect an aspect (ie features) in a given text and then perform sentiment analysis of the text with respect to that aspect. This paper aims to give a solution for the FiQA 2018 challenge subtask 1. We perform aspect-based sentiment analysis on the microblogs and headlines of financial domain. We use a multi-channel convolutional neural network for sentiment analysis and a recurrent neural network with bidirectional long short-term memory units to extract aspect from a given headline or"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3184558.3191827",
+                "author_id": [
+                    "",
+                    "SglGfQcAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GYe4-yMZhU0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAspect-based%2Bfinancial%2Bsentiment%2Banalysis%2Busing%2Bdeep%2Blearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GYe4-yMZhU0J&ei=8WBkYuP6MI2ymgHg1rfQDQ&json=",
+                "num_citations": 51,
+                "citedby_url": "/scholar?cites=5585898555160692505&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GYe4-yMZhU0J:scholar.google.com/&scioq=Aspect-based+financial+sentiment+analysis+using+deep+learning&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3184558.3191827"
+            },
+            "processed_authors": [
+                "h jangid",
+                "s singhal",
+                "rajiv ratn shah",
+                "r zimmermann"
+            ]
+        },
+        {
+            "title": "Capitol (Pat) riots: A comparative study of Twitter and Parler",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "tmr9XeYAAAAJ:3fE2CSJIrl8C",
+            "authors": "Hitkul, A Prabhu, D Guhathakurta, M Subramanian, M Reddy, S Sehgal, ...",
+            "publication": "arXiv preprint arXiv:2101.06914, 2021",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11413854389010280300,3552532849294546034",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11413854389010280300%2C3552532849294546034&engine=google_scholar&hl=en",
+                "cites_id": "11413854389010280300,3552532849294546034"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Capitol (Pat) riots: A comparative study of Twitter and Parler",
+                    "author": [
+                        "A Prabhu",
+                        "D Guhathakurta",
+                        "M Subramanian"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "On 6 January 2021, a mob of right-wing conservatives stormed the USA Capitol Hill interrupting the session of congress certifying 2020 Presidential election results. Immediately after the start of the event, posts related to the riots started to trend on social media. A social media platform which stood out was a free speech endorsing social media platform Parler; it is being claimed as the platform on which the riots were planned and talked about. Our report presents a contrast between the trending content on Parler and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2101.06914",
+                "author_id": [
+                    "vzGvKx0AAAAJ",
+                    "efKsh2wAAAAJ",
+                    "xr5RlokAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bK_99hcoZp4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCapitol%2B(Pat)%2Briots:%2BA%2Bcomparative%2Bstudy%2Bof%2BTwitter%2Band%2BParler%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bK_99hcoZp4J&ei=9mBkYrPKAY2ymgHg1rfQDQ&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=11413854389010280300&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bK_99hcoZp4J:scholar.google.com/&scioq=Capitol+(Pat)+riots:+A+comparative+study+of+Twitter+and+Parler&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2101.06914"
+            },
+            "processed_authors": [
+                "a prabhu",
+                "d guhathakurta",
+                "m subramanian",
+                "m reddy",
+                "s sehgal"
+            ]
+        },
+        {
+            "title": "A Comparative Study of Machine Learning Algorithms for Prior Prediction of UFC Fights",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "tmr9XeYAAAAJ:d1gkVwhDpl0C",
+            "authors": "Hitkul, K Aggarwal, N Yadav, M Dwivedy",
+            "publication": "HARMONY SEARCH AND NATURE INSPIRED OPTIMIZATION ALGORITHMS: Theory and \u2026, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=700112082392477567",
+                "serpapi_link": "https://serpapi.com/search.json?cites=700112082392477567&engine=google_scholar&hl=en",
+                "cites_id": "700112082392477567"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Comparative Study of Machine Learning Algorithms for Prior Prediction of UFC Fights",
+                    "author": [
+                        "KA Hitkul",
+                        "N Yadav",
+                        "M Dwivedy"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Harmony Search and Nature \u2026",
+                    "abstract": "Mixed Martial Arts is a rapidly growing combat sport that has a highly multi-dimensional nature. Due to a large number of possible strategies available to each fighter, and multitude of skills and techniques involved, the potential for upset in any fight is very high. That is the chance of a highly skilled, veteran athlete being defeated by an athlete with significantly less experience is possible. This problem is further exacerbated by the lack of a well-defined, time series database of fighter profiles prior to every fight. In this paper, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://books.google.com/books?hl=en&lr=&id=_a1qDwAAQBAJ&oi=fnd&pg=PA67&dq=A+Comparative+Study+of+Machine+Learning+Algorithms+for+Prior+Prediction+of+UFC+Fights&ots=gtSjeWj_sZ&sig=yMKKmNUoJwNurVmN5nVIeG5a2fI",
+                "author_id": [
+                    "tmr9XeYAAAAJ",
+                    "H46redUAAAAJ",
+                    "7VI61GkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:f2_2xTpMtwkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BComparative%2BStudy%2Bof%2BMachine%2BLearning%2BAlgorithms%2Bfor%2BPrior%2BPrediction%2Bof%2BUFC%2BFights%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=f2_2xTpMtwkJ&ei=-WBkYvOsAaKUy9YP_JONiAY&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=700112082392477567&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:f2_2xTpMtwkJ:scholar.google.com/&scioq=A+Comparative+Study+of+Machine+Learning+Algorithms+for+Prior+Prediction+of+UFC+Fights&hl=en&as_sdt=0,33",
+                "eprint_url": "https://hamyarprozhe.ir/wp-content/uploads/edd/2019/10/A_Comparative_Study_of_Machine_Learning1.pdf"
+            },
+            "processed_authors": [
+                "hitkul",
+                "k aggarwal",
+                "n yadav",
+                "m dwivedy"
+            ]
+        },
+        {
+            "title": "Trawling for Trolling: A Dataset",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:8k81kl-MbHgC",
+            "citation_id": "tmr9XeYAAAAJ:8k81kl-MbHgC",
+            "authors": "Hitkul, K Aggarwal, P Bamdev, D Mahata, RR Shah, P Kumaraguru",
+            "publication": "arXiv preprint arXiv:2008.00525, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13236530468458465746,62656111688997368",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13236530468458465746%2C62656111688997368&engine=google_scholar&hl=en",
+                "cites_id": "13236530468458465746,62656111688997368"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Trawling for Trolling: A Dataset",
+                    "author": [
+                        "K Aggarwal",
+                        "P Bamdev",
+                        "D Mahata",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "is underrepresented in datasets for offensive content detection. In this work, we present a  dataset that models trolling as a subcategory of offensive content. The dataset was created by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2008.00525",
+                "author_id": [
+                    "A0d2Ji8AAAAJ",
+                    "7UIln54AAAAJ",
+                    "8F1SwO0AAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:0gkat1SasbcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTrawling%2Bfor%2BTrolling:%2BA%2BDataset%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0gkat1SasbcJ&ei=_WBkYoyLIYuKmgGY1YjABQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=13236530468458465746&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:0gkat1SasbcJ:scholar.google.com/&scioq=Trawling+for+Trolling:+A+Dataset&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2008.00525"
+            },
+            "processed_authors": [
+                "k aggarwal",
+                "p bamdev",
+                "d mahata",
+                "rajiv ratn shah",
+                "ponnurangam kumaraguru"
+            ]
+        },
+        {
+            "title": "Transfer Learning for Detecting Hateful Sentiments in Code Switched Language",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "tmr9XeYAAAAJ:kNdYIx-mwKoC",
+            "authors": "K Rajput, R Kapoor, P Mathur, Hitkul, P Kumaraguru, RR Shah",
+            "publication": "Deep Learning-Based Approaches for Sentiment Analysis, 159-192, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9480586216071183607",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9480586216071183607&engine=google_scholar&hl=en",
+                "cites_id": "9480586216071183607"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Transfer Learning for Detecting Hateful Sentiments in Code Switched Language",
+                    "author": [
+                        "K Rajput",
+                        "R Kapoor",
+                        "P Mathur",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Deep Learning-Based \u2026",
+                    "abstract": "With the phenomenal increase in the penetration of social media in linguistically diverse demographic regions, conversations have become more casual and multilingual. The rise of informal code-switched multilingual languages makes it tough for automated systems to monitor instances of hate speech, which are further intelligently disguised through the use of spelling variations, code-mixing, homophones, homonyms, and the absence of sophisticated grammar rules. Machine transliteration can be employed for converting the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-981-15-1216-2_7",
+                "author_id": [
+                    "",
+                    "8eJoJ0MAAAAJ",
+                    "Zb4-A0AAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9zxj5-7OkYMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTransfer%2BLearning%2Bfor%2BDetecting%2BHateful%2BSentiments%2Bin%2BCode%2BSwitched%2BLanguage%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9zxj5-7OkYMJ&ei=CWFkYuPmEvmQ6rQP5OqKqAo&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=9480586216071183607&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9zxj5-7OkYMJ:scholar.google.com/&scioq=Transfer+Learning+for+Detecting+Hateful+Sentiments+in+Code+Switched+Language&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "k rajput",
+                "r kapoor",
+                "p mathur",
+                "ponnurangam kumaraguru",
+                "rajiv ratn shah"
+            ]
+        },
+        {
+            "title": "#phramacovigilance - Exploring Deep Learning Techniques for Identifying Mentions of Medication Intake from Twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "tmr9XeYAAAAJ:u-x6o8ySG0sC",
+            "authors": "D Mahata, J Friedrichs, RR Shah, Hitkul",
+            "publication": "https://arxiv.org/pdf/1805.06375.pdf, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3719422459747734760",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3719422459747734760&engine=google_scholar&hl=en",
+                "cites_id": "3719422459747734760"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "# phramacovigilance-Exploring Deep Learning Techniques for Identifying Mentions of Medication Intake from Twitter",
+                    "author": [
+                        "D Mahata",
+                        "J Friedrichs",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv:1805.06375",
+                    "abstract": "Mining social media messages for health and drug related information has received significant interest in pharmacovigilance research. Social media sites (eg, Twitter), have been used for monitoring drug abuse, adverse reactions of drug usage and analyzing expression of sentiments related to drugs. Most of these studies are based on aggregated results from a large population rather than specific sets of individuals. In order to conduct studies at an individual level or specific cohorts, identifying posts mentioning intake of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1805.06375",
+                "author_id": [
+                    "8F1SwO0AAAAJ",
+                    "",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6JTfUgULnjMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D%2523phramacovigilance%2B-%2BExploring%2BDeep%2BLearning%2BTechniques%2Bfor%2BIdentifying%2BMentions%2Bof%2BMedication%2BIntake%2Bfrom%2BTwitter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6JTfUgULnjMJ&ei=DGFkYsmIL42ymgHg1rfQDQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=3719422459747734760&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:6JTfUgULnjMJ:scholar.google.com/&scioq=%23phramacovigilance+-+Exploring+Deep+Learning+Techniques+for+Identifying+Mentions+of+Medication+Intake+from+Twitter&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1805.06375"
+            },
+            "processed_authors": [
+                "d mahata",
+                "j friedrichs",
+                "rajiv ratn shah",
+                "hitkul"
+            ]
+        },
+        {
+            "title": "Maybe Look Closer? Detecting Trolling Prone Images on Instagram.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:0EnyYjriUFMC",
+            "citation_id": "tmr9XeYAAAAJ:0EnyYjriUFMC",
+            "authors": "Hitkul, RR Shah, P Kumaraguru, Shin'ichi Satoh",
+            "publication": "BigMM, 448-456, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Maybe look closer? detecting trolling prone images on instagram",
+                    "author": [
+                        "H Hitkul",
+                        "RR Shah",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Fifth \u2026",
+                    "abstract": "Improvement in network infrastructure and smartphones have made images based social media platforms like Instagram and Flickr popular. The visual medium of communication has also led to an alarming increase in trolling incidents on social media. Though it is crucial to automatically detect trolling incidents on social media, in this paper, we look at the problem from the eye of prevention rather than detection. A system that can recognize trolling prone images can issue a warning to users before the content is posted online and prevent"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8919416/",
+                "author_id": [
+                    "",
+                    "WAChZv4AAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_q9SORbbmtMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMaybe%2BLook%2BCloser%253F%2BDetecting%2BTrolling%2BProne%2BImages%2Bon%2BInstagram.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_q9SORbbmtMJ&ei=EGFkYv9akYmbAZj6qZgN&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=15247740376913719294&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_q9SORbbmtMJ:scholar.google.com/&scioq=Maybe+Look+Closer%3F+Detecting+Trolling+Prone+Images+on+Instagram.&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "hitkul",
+                "rajiv ratn shah",
+                "ponnurangam kumaraguru",
+                "shin'ichi satoh"
+            ]
+        },
+        {
+            "title": "Are Bots Humans? Analysis of Bot Accounts in 2019 Indian Lok Sabha Elections (Workshop Paper)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tmr9XeYAAAAJ&pagesize=100&citation_for_view=tmr9XeYAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "tmr9XeYAAAAJ:MXK_kJrjxJIC",
+            "authors": "Hitkul, O Gurjar, A Sadaria, K Gupta, S Srikanth, RR Shah, P Kumaraguru",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Are Bots Humans? Analysis of Bot Accounts in 2019 Indian Lok Sabha Elections (Workshop Paper)",
+                    "author": [
+                        "H Hitkul",
+                        "O Gurjar",
+                        "A Sadaria",
+                        "K Gupta"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE Sixth \u2026",
+                    "abstract": "Social media platforms have taken political and cultural conversations to an online platform making them more accessible. Ability to anonymously post has allowed more people to participate fearlessly. However, this has also led to an opportunity to spread miss information and manipulative content. Political groups around the globe have used Bot accounts to help spread their preferred narrative online during elections. In the midst of 2019 Indian Lok Sabha Elections speculations were made about the presence of cyber-troops/IT"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232645/",
+                "author_id": [
+                    "tmr9XeYAAAAJ",
+                    "NHEOyz8AAAAJ",
+                    "ldOaHTYAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:OjUnWwI_WzEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAre%2BBots%2BHumans%253F%2BAnalysis%2Bof%2BBot%2BAccounts%2Bin%2B2019%2BIndian%2BLok%2BSabha%2BElections%2B(Workshop%2BPaper)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OjUnWwI_WzEJ&ei=E2FkYqvxBpLeyQTE46-QAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:OjUnWwI_WzEJ:scholar.google.com/&scioq=Are+Bots+Humans%3F+Analysis+of+Bot+Accounts+in+2019+Indian+Lok+Sabha+Elections+(Workshop+Paper)&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "h hitkul",
+                "o gurjar",
+                "a sadaria",
+                "k gupta",
+                "s srikanth",
+                "rajiv ratn shah"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 154,
+                    "since_2017": 154
+                }
+            },
+            {
+                "h_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 3
+            },
+            {
+                "year": 2019,
+                "citations": 16
+            },
+            {
+                "year": 2020,
+                "citations": 33
+            },
+            {
+                "year": 2021,
+                "citations": 81
+            },
+            {
+                "year": 2022,
+                "citations": 19
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=tmr9XeYAAAAJ",
+        "available": 0,
+        "not_available": 1
+    },
+    "co_authors": [
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Ponnurangam Kumaraguru \"PK\"",
+            "link": "https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MfzQyP8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "MfzQyP8AAAAJ",
+            "affiliations": "#ProfGiri Computer Science @ IIIT Hyderabad, Alumni @ Carnegie Mellon & @ BITS Pilani",
+            "email": "Verified email at iiit.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MfzQyP8AAAAJ&citpid=4"
+        },
+        {
+            "name": "Shivangi Singhal",
+            "link": "https://scholar.google.com/citations?user=SglGfQcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SglGfQcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SglGfQcAAAAJ",
+            "affiliations": "PhD Scholar at IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SglGfQcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Roger Zimmermann",
+            "link": "https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IDREwXEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IDREwXEAAAAJ",
+            "affiliations": "Professor of Computer Science, National University of Singapore",
+            "email": "Verified email at comp.nus.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IDREwXEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Debanjan Mahata",
+            "link": "https://scholar.google.com/citations?user=8F1SwO0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8F1SwO0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "8F1SwO0AAAAJ",
+            "affiliations": "Director of AI @ Moody's Analytics, Adjunct Faculty @ IIIT-Delhi",
+            "email": "Verified email at moodys.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8F1SwO0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Shin'ichi Satoh",
+            "link": "https://scholar.google.com/citations?user=7aEF5cQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7aEF5cQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7aEF5cQAAAAJ",
+            "affiliations": "National Institute of Informatics",
+            "email": "Verified email at nii.ac.jp",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7aEF5cQAAAAJ&citpid=2"
+        }
+    ]
+}

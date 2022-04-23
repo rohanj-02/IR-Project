@@ -1,0 +1,838 @@
+{
+    "search_metadata": {
+        "id": "62574c8ec7ad41075ceb5ea4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/56bf05fc8f49b4c6/62574c8ec7ad41075ceb5ea4.json",
+        "created_at": "2022-04-13 22:19:58 UTC",
+        "processed_at": "2022-04-13 22:19:58 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=h60AZKYAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/56bf05fc8f49b4c6/62574c8ec7ad41075ceb5ea4.html",
+        "total_time_taken": 1.08,
+        "total_articles": 16,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "h60AZKYAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Wazir Singh",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://iiitd.academia.edu/WazirSingh",
+        "interests": [
+            {
+                "title": "Preventive Healthcare",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:preventive_healthcare",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Apreventive_healthcare"
+            },
+            {
+                "title": "Network-on-Chip",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_on_chip",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_on_chip"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=h60AZKYAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Energy efficient acquisition and reconstruction of EEG signals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "h60AZKYAAAAJ:u5HHmVD_uO8C",
+            "authors": "W Singh, A Shukla, S Deb, A Majumdar",
+            "publication": "2014 36th Annual International Conference of the IEEE Engineering in \u2026, 2014",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9559301841197571943",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9559301841197571943&engine=google_scholar&hl=en",
+                "cites_id": "9559301841197571943"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficient acquisition and reconstruction of EEG signals",
+                    "author": [
+                        "W Singh",
+                        "A Shukla",
+                        "S Deb"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 36th Annual \u2026",
+                    "abstract": "In Wireless Body Area Networks (WBAN) the energy consumption is dominated by sensing and communication. Previous Compressed Sensing (CS) based solutions to EEG tele-monitoring over WBAN's could only reduce the communication cost. In this work, we propose a matrix completion based formulation that can also reduce the energy consumption for sensing. We test our method with state-of-the-art CS based techniques and find that the reconstruction accuracy from our method is significantly better and that too at considerably"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6943830/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "c-S0ouYAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Z59RkWB2qYQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2Bacquisition%2Band%2Breconstruction%2Bof%2BEEG%2Bsignals%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Z59RkWB2qYQJ&ei=qE1kYu3-BaKUy9YP_JONiAY&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=9559301841197571943&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Z59RkWB2qYQJ:scholar.google.com/&scioq=Energy+efficient+acquisition+and+reconstruction+of+EEG+signals&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/06943830.pdf"
+            }
+        },
+        {
+            "title": "A utilization aware robust channel access mechanism for wireless nocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:-f6ydRqryjwC",
+            "citation_id": "h60AZKYAAAAJ:-f6ydRqryjwC",
+            "authors": "SH Gade, SS Rout, M Sinha, HK Mondal, W Singh, S Deb",
+            "publication": "2018 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2018",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5389732244908841241",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5389732244908841241&engine=google_scholar&hl=en",
+                "cites_id": "5389732244908841241"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A utilization aware robust channel access mechanism for wireless nocs",
+                    "author": [
+                        "SH Gade",
+                        "SS Rout",
+                        "M Sinha",
+                        "HK Mondal"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on Circuits and \u2026",
+                    "abstract": "Wireless Network-on-Chip (WNoC) has been proposed to overcome long-distance communication bottlenecks of wired NoCs. Token passing mechanism has generally been adapted to allocate the wireless channel among Wireless Interfaces (WIs). In this work, we propose a comparator based controller to provide a flexible and efficient channel allocation scheme. It utilizes a comparator attached to the antenna, along with modifications to header flit to perform channel allocation along with power gating WIs to save energy. Evaluation of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8351698/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "2A34nJIAAAAJ",
+                    "tsn4SxwAAAAJ",
+                    "shhuV9AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GZlCtOsszEoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Butilization%2Baware%2Brobust%2Bchannel%2Baccess%2Bmechanism%2Bfor%2Bwireless%2Bnocs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GZlCtOsszEoJ&ei=q01kYqirOYyuyAT-mrWwCA&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=5389732244908841241&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GZlCtOsszEoJ:scholar.google.com/&scioq=A+utilization+aware+robust+channel+access+mechanism+for+wireless+nocs&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2018/06/08351698.pdf"
+            }
+        },
+        {
+            "title": "Energy efficient EEG acquisition and reconstruction for a wireless body area network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "h60AZKYAAAAJ:zYLM7Y9cAGgC",
+            "authors": "W Singh, A Shukla, S Deb, A Majumdar",
+            "publication": "Integration 58, 295-302, 2017",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12643011852934528628",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12643011852934528628&engine=google_scholar&hl=en",
+                "cites_id": "12643011852934528628"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficient EEG acquisition and reconstruction for a wireless body area network",
+                    "author": [
+                        "W Singh",
+                        "A Shukla",
+                        "S Deb",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Integration",
+                    "abstract": "In Wireless Body Area Networks (WBAN) the energy consumption is dominated by sensing and communication. Previous Compressed Sensing (CS) based solutions to EEG telemonitoring over WBAN's could only reduce the communication cost. In this work, we propose a matrix completion based formulation that can also reduce the energy consumption for sensing. At the heart of the system is an Analog to Information Converter (AIC) implemented in 65 nm CMOS technology. The pseudorandom clock generator"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167926016300438",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "c-S0ouYAAAAJ",
+                    "e3z7tT0AAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dD43cUsAda8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2BEEG%2Bacquisition%2Band%2Breconstruction%2Bfor%2Ba%2Bwireless%2Bbody%2Barea%2Bnetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dD43cUsAda8J&ei=t01kYpPNLY2ymgHg1rfQDQ&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=12643011852934528628&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dD43cUsAda8J:scholar.google.com/&scioq=Energy+efficient+EEG+acquisition+and+reconstruction+for+a+wireless+body+area+network&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/1-s2.0-S0167926016300438-main.pdf"
+            }
+        },
+        {
+            "title": "Energy efficient and congestion-aware router design for future NoCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:qjMakFHDy7sC",
+            "citation_id": "h60AZKYAAAAJ:qjMakFHDy7sC",
+            "authors": "W Singh, S Deb",
+            "publication": "2016 29th International Conference on VLSI Design and 2016 15th \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4852300107389914813",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4852300107389914813&engine=google_scholar&hl=en",
+                "cites_id": "4852300107389914813"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficient and congestion-aware router design for future NoCs",
+                    "author": [
+                        "W Singh",
+                        "S Deb"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 29th International Conference on VLSI \u2026",
+                    "abstract": "Network-on-Chip (NoC) has been well accepted for energy efficient on-chip communications for many-core systems. But, a NoC router consumes significantly high power and the number of routers increases linearly with number of cores. For large scale applications, the cumulative power dissipation in routers is comparatively high. Of all router components, input buffers consume significant amount of power. Additionally, removing buffers from NoC router leads to performance degradation and network congestion overhead. To make NoC"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7434931/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vc6QND3VVkMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2Band%2Bcongestion-aware%2Brouter%2Bdesign%2Bfor%2Bfuture%2BNoCs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vc6QND3VVkMJ&ei=u01kYoipFo2ymgHg1rfQDQ&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=4852300107389914813&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vc6QND3VVkMJ:scholar.google.com/&scioq=Energy+efficient+and+congestion-aware+router+design+for+future+NoCs&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07434931.pdf"
+            }
+        },
+        {
+            "title": "Design of 6T, 5T and 4T SRAM Cell on Various Performance Metrics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "h60AZKYAAAAJ:u-x6o8ySG0sC",
+            "authors": "W Singh, GA Kumar",
+            "publication": "2015 2nd International Conference on Computing for Sustainable Global \u2026, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13579701142368003299",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13579701142368003299&engine=google_scholar&hl=en",
+                "cites_id": "13579701142368003299"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design of 6T, 5T and 4T SRAM cell on various performance metrics",
+                    "author": [
+                        "W Singh",
+                        "GA Kumar"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 2nd International Conference on \u2026",
+                    "abstract": "As the technology is shrinking, a significant amount of attention is being paid on the design of high stability Static Random Access (SRAM) cells in terms of static Noise Margin (SNM) for different levels of cache memories. This paper presents a qualitative design of 6T, 5T and 4T Static Random Memory Access cell in terms of Read cell current, Write time, Static Noise Margin (Read and Hold), Write Noise Margin in 65nm CMOS technology. Simulation results shows that the 6T SRAM cell exhibits 173% higher SNM than 4T SRAM cell which indicates"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7100378/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "6KkNgOAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:46TPmj3KdLwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Bof%2B6T,%2B5T%2Band%2B4T%2BSRAM%2BCell%2Bon%2BVarious%2BPerformance%2BMetrics%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=46TPmj3KdLwJ&ei=wU1kYsGkCI2ymgHg1rfQDQ&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=13579701142368003299&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:46TPmj3KdLwJ:scholar.google.com/&scioq=Design+of+6T,+5T+and+4T+SRAM+Cell+on+Various+Performance+Metrics&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/39426864/2015.pdf"
+            }
+        },
+        {
+            "title": "Data-flow aware CNN accelerator with hybrid wireless interconnection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "h60AZKYAAAAJ:hFOr9nPyWt4C",
+            "authors": "M Sinha, SH Gade, W Singh, S Deb",
+            "publication": "2018 IEEE 29th International Conference on Application-specific Systems \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6562492205955407067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6562492205955407067&engine=google_scholar&hl=en",
+                "cites_id": "6562492205955407067"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Data-flow aware CNN accelerator with hybrid wireless interconnection",
+                    "author": [
+                        "M Sinha",
+                        "SH Gade",
+                        "W Singh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE 29th \u2026",
+                    "abstract": "Deep convolution neural networks (CNNs) are computationally intensive machine learning algorithms with a large amount of data that impose various challenges for their hardware implementation. To meet the high computing demands of CNNs, many accelerator designs are proposed that revolve around achieving high parallelization, increasing on-chip data reuse and efficient memory hierarchy, etc. However, very few works have attempted to address the communication challenges in these massively parallel accelerators"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8445126/",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "h60AZKYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:29w9SeSnElsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData-flow%2Baware%2BCNN%2Baccelerator%2Bwith%2Bhybrid%2Bwireless%2Binterconnection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=29w9SeSnElsJ&ei=y01kYqn1EZyO6rQP_qe3mAs&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=6562492205955407067&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:29w9SeSnElsJ:scholar.google.com/&scioq=Data-flow+aware+CNN+accelerator+with+hybrid+wireless+interconnection&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Study and Design of Comparators for High-Speed ADCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "h60AZKYAAAAJ:9yKSN-GCB0IC",
+            "authors": "W Singh, AG Agarwal",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17527050010981573235",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17527050010981573235&engine=google_scholar&hl=en",
+                "cites_id": "17527050010981573235"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Study and Design of Comparators for High-Speed ADCs",
+                    "author": [
+                        "W Singh",
+                        "AG Agarwal"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "NA",
+                    "abstract": "CMOS comparators using preamplifier, suitable for high-speed analog-to-digital converters with High-Speed and Low Offset are presented in this thesis. The topologies using preamplifier completely removes the offset that is present in the input of the latched comparator. Nearly 18 mV offset voltage achieved with the structures making them suitable for flash-type and pipeline data conversion applications. Comparators are designed and simulated in Cadence\u00ae Virtuoso Analog Design Environment using UMC 180nm technology"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Wazir-Singh/publication/283206237_Study_and_Design_of_Comparators_for_High-speed_ADCs/links/562df21b08aef25a2443223b/Study-and-Design-of-Comparators-for-High-speed-ADCs.pdf",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "tpNjfPUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cyIQaR-XPPMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStudy%2Band%2BDesign%2Bof%2BComparators%2Bfor%2BHigh-Speed%2BADCs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cyIQaR-XPPMJ&ei=zk1kYrCLE-iSy9YPp-OyiAE&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=17527050010981573235&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cyIQaR-XPPMJ:scholar.google.com/&scioq=Study+and+Design+of+Comparators+for+High-Speed+ADCs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Wazir-Singh/publication/283206237_Study_and_Design_of_Comparators_for_High-speed_ADCs/links/562df21b08aef25a2443223b/Study-and-Design-of-Comparators-for-High-speed-ADCs.pdf"
+            }
+        },
+        {
+            "title": "High resolution, high speed and low power comparator for high speed adcs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "h60AZKYAAAAJ:IjCSPb-OGe4C",
+            "authors": "W Singh, R Sharma",
+            "publication": "2015 International Conference on Soft Computing Techniques and \u2026, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16143876493011710943",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16143876493011710943&engine=google_scholar&hl=en",
+                "cites_id": "16143876493011710943"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "High resolution, high speed and low power comparator for high speed adcs",
+                    "author": [
+                        "W Singh",
+                        "R Sharma"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 International Conference on Soft \u2026",
+                    "abstract": "A high-speed CMOS comparator with preamplifier and compare-latch circuit designed in UMC 0.18 \u03bcm CMOS process with 1.8 V power supply has been presented in this paper. It is a suitable choice for high speed flash-type ADCs. The comparator gives a resolution of 0.1 mV at 500MHz with a power dissipation of 175 \u03bcW."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7489550/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:3_O97yKSCuAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHigh%2Bresolution,%2Bhigh%2Bspeed%2Band%2Blow%2Bpower%2Bcomparator%2Bfor%2Bhigh%2Bspeed%2Badcs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3_O97yKSCuAJ&ei=2k1kYtHvL86E6rQP5-KmKA&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=16143876493011710943&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:3_O97yKSCuAJ:scholar.google.com/&scioq=High+resolution,+high+speed+and+low+power+comparator+for+high+speed+adcs&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "A Proposed Low-offset Sense Amplifier for SRAM Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "h60AZKYAAAAJ:d1gkVwhDpl0C",
+            "authors": "AK Gundu, W Singh, SM Divi",
+            "publication": "2015 2nd International Conference on Signal Processing and Integrated \u2026, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18356025610700281590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18356025610700281590&engine=google_scholar&hl=en",
+                "cites_id": "18356025610700281590"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A proposed low-offset sense amplifier for SRAM applications",
+                    "author": [
+                        "AK Gundu",
+                        "W Singh",
+                        "SM Divi"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 2nd International \u2026",
+                    "abstract": "Random variations play a critical role in determining SRAM yield, by affecting both the bitcell and the read Sense Amplifiers (SA). A low-offset sense amplifier capable of static random access memory (SRAM) applications has been presented in this work. Simulated results show that the proposed sense amplifier has very low offset of 31.284 mV compared to the conventional sense amplifiers."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7095420/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "h60AZKYAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:9lbD3Qm0vf4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BProposed%2BLow-offset%2BSense%2BAmplifier%2Bfor%2BSRAM%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9lbD3Qm0vf4J&ei=4E1kYq7eDo2ymgHg1rfQDQ&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=18356025610700281590&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9lbD3Qm0vf4J:scholar.google.com/&scioq=A+Proposed+Low-offset+Sense+Amplifier+for+SRAM+Applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Wazir-Singh/publication/283118676_A_Proposed_Low-offset_Sense_Amplifier_for_SRAM_Applications/links/562df32708ae518e3482559a/A-Proposed-Low-offset-Sense-Amplifier-for-SRAM-Applications.pdf"
+            }
+        },
+        {
+            "title": "Low-noise energy efficient readout front-end for wearable continuous blood pressure monitoring systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "h60AZKYAAAAJ:R3hNpaxXUhUC",
+            "authors": "W Singh, S Deb, P Bahubalindruni",
+            "publication": "IEEE Transactions on Consumer Electronics 66 (4), 318-326, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17893180720358383988",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17893180720358383988&engine=google_scholar&hl=en",
+                "cites_id": "17893180720358383988"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Low-noise energy efficient readout front-end for wearable continuous blood pressure monitoring systems",
+                    "author": [
+                        "W Singh",
+                        "S Deb"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Commercially available wearable systems are increasingly helping people to continuously monitor their health status. To enable continuous monitoring for the battery operated lightweight wearable systems, power consumption is the most critical factor. The battery life of such systems has to be decent to make any acceptable product. In these systems, the power consumption is dominated by the transmitter and readout frontend. This paper presents a low-noise, energy efficient readout front-end, which is dedicated to sensing and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9170548/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:dGHUIhBZUfgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLow-noise%2Benergy%2Befficient%2Breadout%2Bfront-end%2Bfor%2Bwearable%2Bcontinuous%2Bblood%2Bpressure%2Bmonitoring%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dGHUIhBZUfgJ&ei=5E1kYoKuF--Sy9YPs_mY8AM&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=17893180720358383988&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:dGHUIhBZUfgJ:scholar.google.com/&scioq=Low-noise+energy+efficient+readout+front-end+for+wearable+continuous+blood+pressure+monitoring+systems&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Energy efficient analog-to-information converter for biopotential acquisition systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "h60AZKYAAAAJ:2osOgNQ5qMEC",
+            "authors": "W Singh, S Deb",
+            "publication": "2015 IEEE International Symposium on Nanoelectronic and Information Systems \u2026, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12920139825733670626",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12920139825733670626&engine=google_scholar&hl=en",
+                "cites_id": "12920139825733670626"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficient analog-to-information converter for biopotential acquisition systems",
+                    "author": [
+                        "W Singh",
+                        "S Deb"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE International Symposium on \u2026",
+                    "abstract": "Analog to Information Converter (AIC) is the heart of an energy efficient bio potential acquisition system using compressed sensing (CS) technique. This paper presents the design and implementation of AIC. Charge redistribution Digital to Analog Convertors (DAC) is used for power and area efficiency. A successive approximation register (SAR) control logic and dynamic latch type comparator are used for low power operation. We have used 65nm CMOS technology for this design. The pseudorandom clock generator enables"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7434414/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4pY7ubeOTbMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2Banalog-to-information%2Bconverter%2Bfor%2Bbiopotential%2Bacquisition%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4pY7ubeOTbMJ&ei=501kYszhCvmQ6rQP5OqKqAo&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=12920139825733670626&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:4pY7ubeOTbMJ:scholar.google.com/&scioq=Energy+efficient+analog-to-information+converter+for+biopotential+acquisition+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07434414.pdf"
+            }
+        },
+        {
+            "title": "Energy efficient biopotential acquisition unit for wearable health monitoring applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:qUcmZB5y_30C",
+            "citation_id": "h60AZKYAAAAJ:qUcmZB5y_30C",
+            "authors": "W Singh, Y Gupta, P Jivani, S Deb",
+            "publication": "2017 18th International Symposium on Quality Electronic Design (ISQED), 337-341, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11020778710893261184",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11020778710893261184&engine=google_scholar&hl=en",
+                "cites_id": "11020778710893261184"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficient biopotential acquisition unit for wearable health monitoring applications",
+                    "author": [
+                        "W Singh",
+                        "Y Gupta",
+                        "P Jivani"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 18th International \u2026",
+                    "abstract": "This paper presents a biopotential acquisition unit with an instrumentation amplifier and analog-to-information converter for wearable health monitoring applications. The instrumentation amplifier defines the quality of the acquired biopotential signals. At the heart of the system is an Analog to Information Converter (AIC) to enables the random under-sampling operation. AIC is used to digitize the output of the biopotential instrumentation amplifier. Both instrumentation amplifier and AIC are implemented in 65nm CMOS"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7918338/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:gPH60tir8ZgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2Bbiopotential%2Bacquisition%2Bunit%2Bfor%2Bwearable%2Bhealth%2Bmonitoring%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=gPH60tir8ZgJ&ei=7U1kYtPLJY6pywTd4KPADw&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=11020778710893261184&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:gPH60tir8ZgJ:scholar.google.com/&scioq=Energy+efficient+biopotential+acquisition+unit+for+wearable+health+monitoring+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07918338.pdf"
+            }
+        },
+        {
+            "title": "SAR Analog to Digital Converter for bio-potential signals: A review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "h60AZKYAAAAJ:UeHWp8X0CEIC",
+            "authors": "W Singh, R Kumar, M Kumar",
+            "publication": "2015 International Conference on Soft Computing Techniques and \u2026, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15344435214554164834",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15344435214554164834&engine=google_scholar&hl=en",
+                "cites_id": "15344435214554164834"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SAR Analog to Digital Converter for bio-potential signals: A review",
+                    "author": [
+                        "W Singh",
+                        "R Kumar",
+                        "M Kumar"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 International Conference \u2026",
+                    "abstract": "Monitoring of biopotential signals is very crucial in health care systems. With the development of recent CMOS technologies, it is possible to design biomedical ICs for these systems. The fully utilization of energy without sacrificing the performance is desirable for long life of such systems. A large number of systems are built on the basis efficient power consumption in biomedical applications recent days. The SAR ADC is a major part of these systems. This paper reviews different techniques used for design of low power SAR ADC by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7489544/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "_xiahlMAAAAJ",
+                    "3lqK5nkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Yu5-godi8tQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSAR%2BAnalog%2Bto%2BDigital%2BConverter%2Bfor%2Bbio-potential%2Bsignals:%2BA%2Breview%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Yu5-godi8tQJ&ei=8U1kYrOJDpqSy9YP8pKNsAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=15344435214554164834&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Yu5-godi8tQJ:scholar.google.com/&scioq=SAR+Analog+to+Digital+Converter+for+bio-potential+signals:+A+review&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "A low-cost smart vein viewer system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:mB3voiENLucC",
+            "citation_id": "h60AZKYAAAAJ:mB3voiENLucC",
+            "authors": "S Jindal, W Singh, S Deb",
+            "publication": "2018 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2018",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8659026829358014985",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8659026829358014985&engine=google_scholar&hl=en",
+                "cites_id": "8659026829358014985"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A low-cost smart vein viewer system",
+                    "author": [
+                        "S Jindal",
+                        "W Singh",
+                        "S Deb"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on Smart Electronic Systems (iSES) \u2026",
+                    "abstract": "Fabricated using low-cost 3D printing technology, the vein viewer system is found to   noticed that the proposed method is found to be a better solution for the vein viewer system."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8719367/",
+                "author_id": [
+                    "E9N4mkIAAAAJ",
+                    "h60AZKYAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CSJ2GAYLK3gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Blow-cost%2Bsmart%2Bvein%2Bviewer%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CSJ2GAYLK3gJ&ei=9U1kYoHGB5qSy9YP8pKNsAE&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=8659026829358014985&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:CSJ2GAYLK3gJ:scholar.google.com/&scioq=A+low-cost+smart+vein+viewer+system&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Biopotential acquisition unit for energy-efficient wearable health monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:hC7cP41nSMkC",
+            "citation_id": "h60AZKYAAAAJ:hC7cP41nSMkC",
+            "authors": "W Singh, S Deb",
+            "publication": "IET Cyber-Physical Systems: Theory & Applications 3 (2), 73-80, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1547462897948589968",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1547462897948589968&engine=google_scholar&hl=en",
+                "cites_id": "1547462897948589968"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Biopotential acquisition unit for energy-efficient wearable health monitoring",
+                    "author": [
+                        "W Singh",
+                        "S Deb"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IET Cyber-Physical Systems: Theory & \u2026",
+                    "abstract": "In wearable health monitoring system, the energy consumption is dominated by the transmitter. These systems generally use proprietary acquisition platforms that are incompatible with each other which makes this even more challenging. This study presents a compressive sensing-based biopotential acquisition unit to reduce the overheads of wirelessly transmitting and storing the data. The instrumentation amplifier (INA) in the system defines the quality of the acquired biopotential signals. At the heart of the system is an"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/iel7/7805360/8401977/08401979.pdf",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kH9Sj06xeRUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBiopotential%2Bacquisition%2Bunit%2Bfor%2Benergy-efficient%2Bwearable%2Bhealth%2Bmonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kH9Sj06xeRUJ&ei=_01kYsqJFoySyASZk6HgCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=1547462897948589968&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kH9Sj06xeRUJ:scholar.google.com/&scioq=Biopotential+acquisition+unit+for+energy-efficient+wearable+health+monitoring&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/7805360/8401977/08401979.pdf"
+            }
+        },
+        {
+            "title": "Energy-and Performance-Aware Router Design for Chip Multiprocessors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h60AZKYAAAAJ&pagesize=100&citation_for_view=h60AZKYAAAAJ:TQgYirikUcIC",
+            "citation_id": "h60AZKYAAAAJ:TQgYirikUcIC",
+            "authors": "W Singh, S Deb",
+            "publication": "2019 IEEE International Symposium on Smart Electronic Systems (iSES \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy-and Performance-Aware Router Design for Chip Multiprocessors",
+                    "author": [
+                        "W Singh",
+                        "S Deb"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE International Symposium on Smart \u2026",
+                    "abstract": "On-chip interconnection networks simplify the challenges of integrating a large number of processing cores. Routers are the backbone of networks. Buffers in router consume significant area and power of the network. Reducing buffers could lead to degradation of network performance. Dual crossbar router architecture combines buffered and bufferless feature to reduce buffer read/write energy. Marching memory buffers achieve highspeed operation with a low power consumption. Switch folding technique is used to reduce wire"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9002491/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Pzsyht7fKG8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy-and%2BPerformance-Aware%2BRouter%2BDesign%2Bfor%2BChip%2BMultiprocessors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Pzsyht7fKG8J&ei=A05kYpTmEZLeyQTE46-QAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Pzsyht7fKG8J:scholar.google.com/&scioq=Energy-and+Performance-Aware+Router+Design+for+Chip+Multiprocessors&hl=en&as_sdt=0,33"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 88,
+                    "since_2017": 74
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 1
+            },
+            {
+                "year": 2015,
+                "citations": 6
+            },
+            {
+                "year": 2016,
+                "citations": 6
+            },
+            {
+                "year": 2017,
+                "citations": 10
+            },
+            {
+                "year": 2018,
+                "citations": 10
+            },
+            {
+                "year": 2019,
+                "citations": 12
+            },
+            {
+                "year": 2020,
+                "citations": 17
+            },
+            {
+                "year": 2021,
+                "citations": 24
+            },
+            {
+                "year": 2022,
+                "citations": 1
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=h60AZKYAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Sujay Deb",
+            "link": "https://scholar.google.com/citations?user=e3z7tT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e3z7tT0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "e3z7tT0AAAAJ",
+            "affiliations": "Associate Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e3z7tT0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ankita Shukla",
+            "link": "https://scholar.google.com/citations?user=c-S0ouYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c-S0ouYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c-S0ouYAAAAJ",
+            "affiliations": "Arizona State University",
+            "email": "Verified email at asu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c-S0ouYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Mitali Sinha",
+            "link": "https://scholar.google.com/citations?user=tsn4SxwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tsn4SxwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tsn4SxwAAAAJ",
+            "affiliations": "PHD Scholar at Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tsn4SxwAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sri Harsha Gade",
+            "link": "https://scholar.google.com/citations?user=rsH6pfgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=rsH6pfgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "rsH6pfgAAAAJ",
+            "affiliations": "ARM Embedded Technologies Ltd.",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rsH6pfgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Anil Kumar Gundu",
+            "link": "https://scholar.google.com/citations?user=6KkNgOAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6KkNgOAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6KkNgOAAAAAJ",
+            "affiliations": "HKUST",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6KkNgOAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sidhartha Sankar Rout",
+            "link": "https://scholar.google.com/citations?user=2A34nJIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2A34nJIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2A34nJIAAAAJ",
+            "affiliations": "PhD Scholar, Indraprastha Institute of Information Technology Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2A34nJIAAAAJ&citpid=2"
+        }
+    ]
+}

@@ -1,0 +1,395 @@
+{
+    "search_metadata": {
+        "id": "62574cc1f636ff127d6d50c8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0feeb5d7139c6833/62574cc1f636ff127d6d50c8.json",
+        "created_at": "2022-04-13 22:20:49 UTC",
+        "processed_at": "2022-04-13 22:20:49 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=gIZKyb8AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/0feeb5d7139c6833/62574cc1f636ff127d6d50c8.html",
+        "total_time_taken": 1.55,
+        "total_articles": 6,
+        "total_co_authors": 8
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "gIZKyb8AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Dhriti Khanna",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gIZKyb8AAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Dynamic Symbolic Verification of MPI Programs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIZKyb8AAAAJ&pagesize=100&citation_for_view=gIZKyb8AAAAJ:qjMakFHDy7sC",
+            "citation_id": "gIZKyb8AAAAJ:qjMakFHDy7sC",
+            "authors": "D Khanna, S Sharma, C Rodr\u00edguez, R Purandare",
+            "publication": "International Symposium on Formal Methods, 466-484, 2018",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6165877173056498707",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6165877173056498707&engine=google_scholar&hl=en",
+                "cites_id": "6165877173056498707"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dynamic symbolic verification of MPI programs",
+                    "author": [
+                        "D Khanna",
+                        "S Sharma",
+                        "C Rodr\u00edguez"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Symposium on Formal \u2026",
+                    "abstract": "The success of dynamic verification techniques for Message Passing Interface (MPI) programs rests on their ability to address communication nondeterminism. As the number of processes in the program grows, the dynamic verification techniques suffer from the problem of exponential growth in the size of the reachable state space. In this work, we provide a hybrid verification technique for message passing programs that combines explicit-state dynamic verification with symbolic analysis. The dynamic verification component"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-95582-7_28",
+                "author_id": [
+                    "gIZKyb8AAAAJ",
+                    "Xas65uoAAAAJ",
+                    "yAKKfj0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:E-y45J6YkVUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2BSymbolic%2BVerification%2Bof%2BMPI%2BPrograms%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=E-y45J6YkVUJ&ei=EmdkYrPNIZyO6rQP_qe3mAs&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=6165877173056498707&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:E-y45J6YkVUJ:scholar.google.com/&scioq=Dynamic+Symbolic+Verification+of+MPI+Programs&hl=en&as_sdt=0,33",
+                "eprint_url": "http://pag.iiitd.edu.in/sites/default/files/Khanna18.pdf"
+            }
+        },
+        {
+            "title": "POLLUX: safely upgrading dependent application libraries",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIZKyb8AAAAJ&pagesize=100&citation_for_view=gIZKyb8AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "gIZKyb8AAAAJ:d1gkVwhDpl0C",
+            "authors": "S Kalra, A Goel, D Khanna, M Dhawan, S Sharma, R Purandare",
+            "publication": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on \u2026, 2016",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997556040535087181",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6997556040535087181&engine=google_scholar&hl=en",
+                "cites_id": "6997556040535087181"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "POLLUX: safely upgrading dependent application libraries",
+                    "author": [
+                        "S Kalra",
+                        "A Goel",
+                        "D Khanna",
+                        "M Dhawan"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Software evolution in third-party libraries across version upgrades can result in addition of new functionalities or change in existing APIs. As a result, there is a real danger of impairment of backward compatibility. Application developers, therefore, must keep constant vigil over library enhancements to ensure application consistency, ie, application retains its semantic behavior across library upgrades. In this paper, we present the design and implementation of POLLUX, a framework to detect application-affecting changes across two"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2950290.2950345",
+                "author_id": [
+                    "QXTHX0kAAAAJ",
+                    "As8faHIAAAAJ",
+                    "gIZKyb8AAAAJ",
+                    "KR2np-gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TZj76yRQHGEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPOLLUX:%2Bsafely%2Bupgrading%2Bdependent%2Bapplication%2Blibraries%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TZj76yRQHGEJ&ei=FmdkYsjgGJyO6rQP_qe3mAs&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=6997556040535087181&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:TZj76yRQHGEJ:scholar.google.com/&scioq=POLLUX:+safely+upgrading+dependent+application+libraries&hl=en&as_sdt=0,33",
+                "eprint_url": "https://subodhvsharma.github.io/publication/fse16/fse16.pdf"
+            }
+        },
+        {
+            "title": "Scalable clustering using pact programming model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIZKyb8AAAAJ&pagesize=100&citation_for_view=gIZKyb8AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "gIZKyb8AAAAJ:u5HHmVD_uO8C",
+            "authors": "S Kaur, D Khanna, T Gupta, V Bhatnagar",
+            "publication": "Data Mining Workshops (ICDMW), 2012 IEEE 12th International Conference on \u2026, 2012",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=35104738114182659",
+                "serpapi_link": "https://serpapi.com/search.json?cites=35104738114182659&engine=google_scholar&hl=en",
+                "cites_id": "35104738114182659"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Scalable clustering using pact programming model",
+                    "author": [
+                        "S Kaur",
+                        "D Khanna",
+                        "T Gupta"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "2012 IEEE 12th \u2026",
+                    "abstract": "Recent spurt in research related to scalability of data mining algorithms can be attributed to advances in cloud computing technology, which enables data-intensive applications in distributed environment. Map-Reduce has been the most popular programming paradigm for developing applications in large scale distributed environments. In this paper we present design of a scalable clustering algorithm'Exclusive and Complete Clustering using PACT Programming model'(ExCC-P) for recently developed Stratosphere system for cloud"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6406471/",
+                "author_id": [
+                    "sDEcSS8AAAAJ",
+                    "gIZKyb8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:A546xZK3fAAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DScalable%2Bclustering%2Busing%2Bpact%2Bprogramming%2Bmodel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=A546xZK3fAAJ&ei=HmdkYrcojbKaAeDWt9AN&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=35104738114182659&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:A546xZK3fAAJ:scholar.google.com/&scioq=Scalable+clustering+using+pact+programming+model&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Synthesizing Multi-threaded Tests from Sequential Traces to Detect Communication Deadlocks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIZKyb8AAAAJ&pagesize=100&citation_for_view=gIZKyb8AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "gIZKyb8AAAAJ:zYLM7Y9cAGgC",
+            "authors": "D Khanna, R Purandare, S Sharma",
+            "publication": "2021 14th IEEE Conference on Software Testing, Verification and Validation \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Synthesizing Multi-threaded Tests from Sequential Traces to Detect Communication Deadlocks",
+                    "author": [
+                        "D Khanna",
+                        "R Purandare"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 14th IEEE \u2026",
+                    "abstract": "Multi-threaded libraries, including the ones advertised as thread-safe, may contain concurrency bugs, and worse, may not include relevant test cases that can drive the program execution towards bug-prone interleavings. Also, the effectiveness of dynamic verification, a prominent concurrency bug detection technique, depends critically on the availability of relevant test cases. Generating such test cases automatically to assist dynamic verification is, therefore, a significant problem. Among hard-to-detect concurrency bugs in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9438596/",
+                "author_id": [
+                    "gIZKyb8AAAAJ",
+                    "_OLz-J0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FPSf__7i580J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSynthesizing%2BMulti-threaded%2BTests%2Bfrom%2BSequential%2BTraces%2Bto%2BDetect%2BCommunication%2BDeadlocks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FPSf__7i580J&ei=KmdkYvCUI4uKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:FPSf__7i580J:scholar.google.com/&scioq=Synthesizing+Multi-threaded+Tests+from+Sequential+Traces+to+Detect+Communication+Deadlocks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Verifying and Testing Concurrent Programs using Constraint Solver based Approaches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIZKyb8AAAAJ&pagesize=100&citation_for_view=gIZKyb8AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "gIZKyb8AAAAJ:IjCSPb-OGe4C",
+            "authors": "D Khanna, R Purandare, S Sharma",
+            "publication": "2020 IEEE International Conference on Software Maintenance and Evolution \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Verifying and Testing Concurrent Programs using Constraint Solver based Approaches",
+                    "author": [
+                        "D Khanna",
+                        "R Purandare"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE International \u2026",
+                    "abstract": "The success of dynamic verification techniques for confirming the absence of bugs in concurrent programs rests on their ability to systematically address the interleaving space arising because of the nondeterminism. However, existing dynamic verification engines suffer from the problem of scalability due to the size of the reachable state space that grows exponentially as the number of parallel entities increases. The second front on which the dynamic verification technique struggles is the dependence on the test cases to drive the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9240609/",
+                "author_id": [
+                    "gIZKyb8AAAAJ",
+                    "_OLz-J0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OWqt22U624IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVerifying%2Band%2BTesting%2BConcurrent%2BPrograms%2Busing%2BConstraint%2BSolver%2Bbased%2BApproaches%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OWqt22U624IJ&ei=M2dkYvHlIqKUy9YP_JONiAY&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:OWqt22U624IJ:scholar.google.com/&scioq=Verifying+and+Testing+Concurrent+Programs+using+Constraint+Solver+based+Approaches&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Analysis and Verification of Message Passing based Parallel Programs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gIZKyb8AAAAJ&pagesize=100&citation_for_view=gIZKyb8AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "gIZKyb8AAAAJ:UeHWp8X0CEIC",
+            "authors": "D Khanna",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Structural testing criteria for message\u2010passing parallel programs",
+                    "author": [
+                        "SRS Souza",
+                        "SR Vergilio",
+                        "PSL Souza"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "Concurrency and \u2026",
+                    "abstract": "ValiPar has four main modules: ValiInst performs all static analysis of parallel program;  ValiElem generates the list of required elements; ValiEval performs test case evaluation ("
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.1297",
+                "author_id": [
+                    "EhrqxfYAAAAJ",
+                    "2bkThnAAAAAJ",
+                    "vyS6TH4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-VcblninmAAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Band%2BVerification%2Bof%2BMessage%2BPassing%2Bbased%2BParallel%2BPrograms%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-VcblninmAAJ&ei=NmdkYtqPOPmQ6rQP5OqKqAo&json=",
+                "num_citations": 61,
+                "citedby_url": "/scholar?cites=42968332816308217&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-VcblninmAAJ:scholar.google.com/&scioq=Analysis+and+Verification+of+Message+Passing+based+Parallel+Programs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/39453422/Structural_testing_criteria_for_message-20151027-30912-w57bvd.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 31,
+                    "since_2017": 29
+                }
+            },
+            {
+                "h_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2013,
+                "citations": 1
+            },
+            {
+                "year": 2014,
+                "citations": 1
+            },
+            {
+                "year": 2015,
+                "citations": 5
+            },
+            {
+                "year": 2016,
+                "citations": 7
+            },
+            {
+                "year": 2017,
+                "citations": 8
+            },
+            {
+                "year": 2018,
+                "citations": 9
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Rahul Purandare",
+            "link": "https://scholar.google.com/citations?user=_OLz-J0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_OLz-J0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_OLz-J0AAAAJ",
+            "affiliations": "Associate Professor of Computer Science and Engineering, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_OLz-J0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Subodh Sharma",
+            "link": "https://scholar.google.com/citations?user=Xas65uoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xas65uoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xas65uoAAAAJ",
+            "affiliations": "IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xas65uoAAAAJ&citpid=1"
+        },
+        {
+            "name": "C\u00e9sar Rodr\u00edguez",
+            "link": "https://scholar.google.com/citations?user=yAKKfj0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yAKKfj0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yAKKfj0AAAAJ",
+            "affiliations": "Diffblue, Oxford, UK & Associate Professor, University of Paris 13, France",
+            "email": "Verified email at lipn.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yAKKfj0AAAAJ&citpid=6"
+        },
+        {
+            "name": "Sukrit Kalra",
+            "link": "https://scholar.google.com/citations?user=QXTHX0kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QXTHX0kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QXTHX0kAAAAJ",
+            "affiliations": "Ph.D. Student, UC Berkeley",
+            "email": "Verified email at eecs.berkeley.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QXTHX0kAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ayush Goel",
+            "link": "https://scholar.google.com/citations?user=As8faHIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=As8faHIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "As8faHIAAAAJ",
+            "affiliations": "University of Michigan",
+            "email": "Verified email at umich.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=As8faHIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Sharanjit Kaur",
+            "link": "https://scholar.google.com/citations?user=sDEcSS8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=sDEcSS8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "sDEcSS8AAAAJ",
+            "affiliations": "Acharya Narendra Dev College (University of Delhi)",
+            "email": "Verified email at andc.du.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=sDEcSS8AAAAJ&citpid=2"
+        },
+        {
+            "name": "vasudha bhatnagar",
+            "link": "https://scholar.google.com/citations?user=IlgiE24AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IlgiE24AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IlgiE24AAAAJ",
+            "affiliations": "Professor, Deptt of Computer Science, University of Delhi, Delhi, India",
+            "email": "Verified email at cs.du.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IlgiE24AAAAJ&citpid=2"
+        },
+        {
+            "name": "Rakhi Saxena",
+            "link": "https://scholar.google.com/citations?user=_RvfyjEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=_RvfyjEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "_RvfyjEAAAAJ",
+            "affiliations": "University of Delhi",
+            "email": "Verified email at db.du.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=_RvfyjEAAAAJ&citpid=1"
+        }
+    ]
+}

@@ -1,0 +1,578 @@
+{
+    "search_metadata": {
+        "id": "6256e5fcce87f8c713e31305",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/06a9539804983779/6256e5fcce87f8c713e31305.json",
+        "created_at": "2022-04-13 15:02:20 UTC",
+        "processed_at": "2022-04-13 15:02:20 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=la5rDuEAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/06a9539804983779/6256e5fcce87f8c713e31305.html",
+        "total_time_taken": 0.26,
+        "total_articles": 9,
+        "total_co_authors": 8
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "la5rDuEAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Satish K. Pandey",
+        "affiliations": "Postdoctoral Fellow, Technion-Israel Institute of Technology",
+        "email": "Verified email at uwaterloo.ca",
+        "website": "http://noncommutative.space/",
+        "interests": [
+            {
+                "title": "Operator Algebras",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:operator_algebras",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoperator_algebras"
+            },
+            {
+                "title": "Operator Theory",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:operator_theory",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoperator_theory"
+            },
+            {
+                "title": "Quantum Information Theory.",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:quantum_information_theory",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquantum_information_theory"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=la5rDuEAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "A Spectral Characterization of Operators",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "la5rDuEAAAAJ:u-x6o8ySG0sC",
+            "authors": "SK Pandey, VI Paulsen",
+            "publication": "Journal of the Australian Mathematical Society 102 (3), 369-391, 2017",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=202796218929589495",
+                "serpapi_link": "https://serpapi.com/search.json?cites=202796218929589495&engine=google_scholar&hl=en",
+                "cites_id": "202796218929589495"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A spectral characterization of operators",
+                    "author": [
+                        "SK Pandey",
+                        "VI Paulsen"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Journal of the Australian Mathematical \u2026",
+                    "abstract": "We establish a spectral characterization theorem for the operators on complex Hilbert spaces of arbitrary dimensions that attain their norm on every closed subspace. The class of these operators is not closed under addition. Nevertheless, we prove that the intersection of these operators with the positive operators forms a proper cone in the real Banach space of hermitian operators."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.cambridge.org/core/journals/journal-of-the-australian-mathematical-society/article/spectral-characterization-of-mathcalamathcaln-operators/41E78BA4736F08F32641E210535220F5",
+                "author_id": [
+                    "la5rDuEAAAAJ",
+                    "f4xzwz4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9ywXLxZ60AIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BSpectral%2BCharacterization%2Bof%2BOperators%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9ywXLxZ60AIJ&ei=rPViYoaaCoySyATlkbrQCA&json=",
+                "num_citations": 24,
+                "citedby_url": "/scholar?cites=202796218929589495&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9ywXLxZ60AIJ:scholar.google.com/&scioq=A+Spectral+Characterization+of+Operators&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1501.05869"
+            },
+            "processed_authors": [
+                "satish k. pandey",
+                "vi paulsen"
+            ]
+        },
+        {
+            "title": "Entanglement breaking rank and the existence of SIC POVMs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "la5rDuEAAAAJ:IjCSPb-OGe4C",
+            "authors": "SK Pandey, VI Paulsen, J Prakash, M Rahaman",
+            "publication": "Journal of Mathematical Physics 61 (4), 042203, 2020",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10801620564666299733,7848895670586227121",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10801620564666299733%2C7848895670586227121&engine=google_scholar&hl=en",
+                "cites_id": "10801620564666299733,7848895670586227121"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Entanglement breaking rank and the existence of SIC POVMs",
+                    "author": [
+                        "SK Pandey",
+                        "VI Paulsen",
+                        "J Prakash"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Journal of Mathematical \u2026",
+                    "abstract": "We introduce and study the entanglement breaking rank of an entanglement breaking channel. We show that the entanglement breaking rank of the channel Z: Md\u2192 Md defined by Z (X)= 1d+ 1 (X+ Tr (X) Id) is d2 if and only if there exists a symmetric informationally complete positive operator-valued measure in dimension d."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aip.scitation.org/doi/abs/10.1063/1.5045184",
+                "author_id": [
+                    "la5rDuEAAAAJ",
+                    "f4xzwz4AAAAJ",
+                    "JcMKk1QAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VTV9k6wQ55UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEntanglement%2Bbreaking%2Brank%2Band%2Bthe%2Bexistence%2Bof%2BSIC%2BPOVMs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VTV9k6wQ55UJ&ei=sPViYoWJJamTy9YPsu-CuAM&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=10801620564666299733&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VTV9k6wQ55UJ:scholar.google.com/&scioq=Entanglement+breaking+rank+and+the+existence+of+SIC+POVMs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1805.04583"
+            },
+            "processed_authors": [
+                "satish k. pandey",
+                "vi paulsen",
+                "j prakash",
+                "m rahaman"
+            ]
+        },
+        {
+            "title": "A spectral characterization of absolutely norming operators on s.n.ideals",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "la5rDuEAAAAJ:9yKSN-GCB0IC",
+            "authors": "SK Pandey",
+            "publication": "Operators and Matrices 11 (3), 845-873, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17988123954706047254",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17988123954706047254&engine=google_scholar&hl=en",
+                "cites_id": "17988123954706047254"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A spectral characterization of absolutely norming operators on sn ideals",
+                    "author": [
+                        "SK Pandey"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "arXiv preprint arXiv:1610.02095",
+                    "abstract": "The class of absolutely norming operators on complex Hilbert spaces of arbitrary dimensions was introduced in [6] and a spectral characterization theorem for these operators was established in [11]. In this paper we extend the concept of absolutely norming operators to various symmetric norms. We establish a few spectral characterization theorems for operators on complex Hilbert spaces that are absolutely norming with respect to various symmetric norms. It is also shown that for many symmetric norms the absolutely"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1610.02095",
+                "author_id": [
+                    "la5rDuEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FuHyf26novkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bspectral%2Bcharacterization%2Bof%2Babsolutely%2Bnorming%2Boperators%2Bon%2Bs.n.ideals%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FuHyf26novkJ&ei=s_ViYp-mOeHDywTjooCQBQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=17988123954706047254&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FuHyf26novkJ:scholar.google.com/&scioq=A+spectral+characterization+of+absolutely+norming+operators+on+s.n.ideals&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1610.02095"
+            },
+            "processed_authors": [
+                "satish k. pandey"
+            ]
+        },
+        {
+            "title": "Dilations of unitary tuples",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "la5rDuEAAAAJ:YsMSGLbcyi4C",
+            "authors": "M Gerhold, SK Pandey, O Shalit, B Solel",
+            "publication": "arXiv preprint arXiv:2006.01869, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2746585342865380063",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2746585342865380063&engine=google_scholar&hl=en",
+                "cites_id": "2746585342865380063"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dilations of unitary tuples",
+                    "author": [
+                        "M Gerhold",
+                        "SK Pandey",
+                        "OM Shalit"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Journal of the London \u2026",
+                    "abstract": "is a dilation c B where B is a tuple of  a dilation of the form c U , where U is a tuple of  commuting unitaries. The goal of this paper is to study dilation theory in the context of unitary tuples"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://londmathsoc.onlinelibrary.wiley.com/doi/abs/10.1112/jlms.12491",
+                "author_id": [
+                    "slF6gzEAAAAJ",
+                    "la5rDuEAAAAJ",
+                    "C-m6Z0AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:3xLJOtHUHSYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDilations%2Bof%2Bunitary%2Btuples%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3xLJOtHUHSYJ&ei=t_ViYv3zHY6pywSdh6agAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=2746585342865380063&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:3xLJOtHUHSYJ:scholar.google.com/&scioq=Dilations+of+unitary+tuples&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.01869"
+            },
+            "processed_authors": [
+                "m gerhold",
+                "satish k. pandey",
+                "o shalit",
+                "b solel"
+            ]
+        },
+        {
+            "title": "Quantum majorization on semi-finite von Neumann algebras",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "la5rDuEAAAAJ:W7OEmFMy1HYC",
+            "authors": "P Ganesan, L Gao, SK Pandey, S Plosker",
+            "publication": "Journal of Functional Analysis, 108650, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1564028443528403086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1564028443528403086&engine=google_scholar&hl=en",
+                "cites_id": "1564028443528403086"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Quantum majorization on semi-finite von Neumann algebras",
+                    "author": [
+                        "P Ganesan",
+                        "L Gao",
+                        "SK Pandey",
+                        "S Plosker"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Journal of Functional Analysis",
+                    "abstract": "We extend Gour et al.'s characterization of quantum majorization via conditional min-entropy to the context of semi-finite von Neumann algebras. Our method relies on a connection between conditional min-entropy and the operator space projective tensor norm for injective von Neumann algebras. We then use this approach to generalize the tracial Hahn-Banach theorem of Helton, Klep and McCullough to vector-valued noncommutative L 1-spaces."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022123620301932",
+                "author_id": [
+                    "OKF3PJIAAAAJ",
+                    "kGbbk1sAAAAJ",
+                    "la5rDuEAAAAJ",
+                    "3orSwaIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jhgeM5WLtBUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DQuantum%2Bmajorization%2Bon%2Bsemi-finite%2Bvon%2BNeumann%2Balgebras%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jhgeM5WLtBUJ&ei=u_ViYpSLLamTy9YPsu-CuAM&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=1564028443528403086&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jhgeM5WLtBUJ:scholar.google.com/&scioq=Quantum+majorization+on+semi-finite+von+Neumann+algebras&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.sciencedirect.com/science/article/am/pii/S0022123620301932"
+            },
+            "processed_authors": [
+                "p ganesan",
+                "l gao",
+                "satish k. pandey",
+                "s plosker"
+            ]
+        },
+        {
+            "title": "Distance between reproducing kernel Hilbert spaces and geometry of finite sets in the unit ball",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "la5rDuEAAAAJ:eQOLeE2rZwMC",
+            "authors": "D Ofek, SK Pandey, OM Shalit",
+            "publication": "Journal of Mathematical Analysis and Applications, 125140, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distance between reproducing kernel Hilbert spaces and geometry of finite sets in the unit ball",
+                    "author": [
+                        "D Ofek",
+                        "SK Pandey",
+                        "OM Shalit"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Journal of Mathematical Analysis and \u2026",
+                    "abstract": "In this paper we study the relationships between a reproducing kernel Hilbert space, its multiplier algebra, and the geometry of the point set on which they live. We introduce a variant of the Banach-Mazur distance suited for measuring the distance between reproducing kernel Hilbert spaces, that quantifies how far two spaces are from being isometrically isomorphic as reproducing kernel Hilbert spaces. We introduce an analogous distance for multiplier algebras, that quantifies how far two algebras are from being"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022247X21002195",
+                "author_id": [
+                    "",
+                    "la5rDuEAAAAJ",
+                    "C-m6Z0AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:wt_vZDzNBxsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistance%2Bbetween%2Breproducing%2Bkernel%2BHilbert%2Bspaces%2Band%2Bgeometry%2Bof%2Bfinite%2Bsets%2Bin%2Bthe%2Bunit%2Bball%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=wt_vZDzNBxsJ&ei=x_ViYryeKZWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:wt_vZDzNBxsJ:scholar.google.com/&scioq=Distance+between+reproducing+kernel+Hilbert+spaces+and+geometry+of+finite+sets+in+the+unit+ball&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2011.06578"
+            },
+            "processed_authors": [
+                "d ofek",
+                "satish k. pandey",
+                "om shalit"
+            ]
+        },
+        {
+            "title": "Symmetrically-normed ideals and characterizations of absolutely norming operators",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:qjMakFHDy7sC",
+            "citation_id": "la5rDuEAAAAJ:qjMakFHDy7sC",
+            "authors": "SK Pandey",
+            "publication": "University of Waterloo, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Symmetrically-Normed Ideals and Characterizations of Absolutely Norming Operators",
+                    "author": [
+                        "SK Pandey"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "The primary objective of this thesis is two fold: first, it is devoted to the study of absolutely norming operators (with respect to various arbitrary symmetric norms on $\\mathcal {B}(\\mathcal {H}) $) with an eye towards the objective of characterizing these classes of operators, and second, it summarizes the first three chapters of the monograph\\emph {Introduction to the theory of linear nonselfadjoint operators} by Gohberg and Krein, offering an exposition of the theory of symmetrically-normed ideals (``norm ideals\" in older literature)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://uwspace.uwaterloo.ca/handle/10012/13656",
+                "author_id": [
+                    "la5rDuEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LcsjVSkDzU8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSymmetrically-normed%2Bideals%2Band%2Bcharacterizations%2Bof%2Babsolutely%2Bnorming%2Boperators%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LcsjVSkDzU8J&ei=y_ViYoy0Hc6E6rQPz8uiuAc&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:LcsjVSkDzU8J:scholar.google.com/&scioq=Symmetrically-normed+ideals+and+characterizations+of+absolutely+norming+operators&hl=en&as_sdt=0,33",
+                "eprint_url": "https://uwspace.uwaterloo.ca/bitstream/handle/10012/13656/Pandey_Satish.pdf?sequence=3&isAllowed=y"
+            },
+            "processed_authors": [
+                "satish k. pandey"
+            ]
+        },
+        {
+            "title": "Universally symmetric norming operators are compact",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "la5rDuEAAAAJ:u5HHmVD_uO8C",
+            "authors": "SK Pandey",
+            "publication": "arXiv preprint arXiv:1705.08297, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Universally symmetric norming operators are compact",
+                    "author": [
+                        "SK Pandey"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "arXiv preprint arXiv:1705.08297",
+                    "abstract": "We study a specific family of symmetric norms on the algebra $\\mathcal B (\\mathcal H) $ of operators on a separable infinite-dimensional Hilbert space. With respect to each symmetric norm in this family the identity operator fails to attain its norm. Using this, we generalize one of the main results from\\cite {SP}; the hypothesis is relaxed, and consequently, the family of symmetric norms for which the result holds is extended. We introduce and study the concepts of\" universally symmetric norming operators\" and\" universally absolutely symmetric"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1705.08297",
+                "author_id": [
+                    "la5rDuEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7XsCp9g2FgYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUniversally%2Bsymmetric%2Bnorming%2Boperators%2Bare%2Bcompact%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7XsCp9g2FgYJ&ei=zvViYufTGJGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:7XsCp9g2FgYJ:scholar.google.com/&scioq=Universally+symmetric+norming+operators+are+compact&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1705.08297"
+            },
+            "processed_authors": [
+                "satish k. pandey"
+            ]
+        },
+        {
+            "title": "Entanglement and Non-Locality PMATH 990/QIC 890",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=la5rDuEAAAAJ&pagesize=100&citation_for_view=la5rDuEAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "la5rDuEAAAAJ:d1gkVwhDpl0C",
+            "authors": "SJ Harris, SK Pandey",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ENTANGLEMENT AND NON-LOCALITY PMATH 990/QIC 890",
+                    "author": [
+                        "SJ HARRIS",
+                        "SK PANDEY"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "\u2013 The classical binary case \u2013 Graph theory \u2013 Zero error capacity for quantum channels \u2013  Entanglement assisted zero-error capacity \u2013 Introduction to operator systems \u2013  Distinguishability of outputs  ENTANGLEMENT AND NON-LOCALITY   ENTANGLEMENT AND NON-LOCALITY"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://www.math.uwaterloo.ca/~vpaulsen/EntanglementAndNonlocality_LectureNotes_7.pdf",
+                "author_id": [
+                    "",
+                    "la5rDuEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FVkDZeK_4i4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEntanglement%2Band%2BNon-Locality%2BPMATH%2B990/QIC%2B890%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FVkDZeK_4i4J&ei=2vViYqwmjK7IBIPcp8AH&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:FVkDZeK_4i4J:scholar.google.com/&scioq=Entanglement+and+Non-Locality+PMATH+990/QIC+890&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.math.uwaterloo.ca/~vpaulsen/EntanglementAndNonlocality_LectureNotes_7.pdf"
+            },
+            "processed_authors": [
+                "sj harris",
+                "satish k. pandey"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 41,
+                    "since_2017": 40
+                }
+            },
+            {
+                "h_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 2
+            },
+            {
+                "year": 2018,
+                "citations": 8
+            },
+            {
+                "year": 2019,
+                "citations": 5
+            },
+            {
+                "year": 2020,
+                "citations": 6
+            },
+            {
+                "year": 2021,
+                "citations": 14
+            },
+            {
+                "year": 2022,
+                "citations": 5
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=la5rDuEAAAAJ",
+        "available": 3,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vern Paulsen",
+            "link": "https://scholar.google.com/citations?user=f4xzwz4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=f4xzwz4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "f4xzwz4AAAAJ",
+            "affiliations": "Department of Pure Mathematics, Institute for Quantum Computing, University of Waterloo",
+            "email": "Verified email at uwaterloo.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=f4xzwz4AAAAJ&citpid=1"
+        },
+        {
+            "name": "Jitendra Prakash",
+            "link": "https://scholar.google.com/citations?user=JcMKk1QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JcMKk1QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JcMKk1QAAAAJ",
+            "affiliations": "PostDoc",
+            "email": "Verified email at dralias.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JcMKk1QAAAAJ&citpid=1"
+        },
+        {
+            "name": "Mizanur Rahaman",
+            "link": "https://scholar.google.com/citations?user=P9TJXK0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=P9TJXK0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "P9TJXK0AAAAJ",
+            "affiliations": "Researcher at LIP, ENS de Lyon",
+            "email": "Verified email at ens-lyon.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P9TJXK0AAAAJ&citpid=5"
+        },
+        {
+            "name": "Orr Shalit",
+            "link": "https://scholar.google.com/citations?user=C-m6Z0AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=C-m6Z0AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "C-m6Z0AAAAAJ",
+            "affiliations": "Department of Mathematics, Technion",
+            "email": "Verified email at technion.ac.il",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C-m6Z0AAAAAJ&citpid=9"
+        },
+        {
+            "name": "Sarah Plosker",
+            "link": "https://scholar.google.com/citations?user=3orSwaIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3orSwaIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "3orSwaIAAAAJ",
+            "affiliations": "Department of Mathematics & Computer Science, Brandon University",
+            "email": "Verified email at brandonu.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3orSwaIAAAAJ&citpid=1"
+        },
+        {
+            "name": "Priyanga Ganesan",
+            "link": "https://scholar.google.com/citations?user=OKF3PJIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OKF3PJIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "OKF3PJIAAAAJ",
+            "affiliations": "Graduate Student, Texas A&M University",
+            "email": "Verified email at tamu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OKF3PJIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Malte Gerhold",
+            "link": "https://scholar.google.com/citations?user=slF6gzEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=slF6gzEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "slF6gzEAAAAJ",
+            "affiliations": "NTNU - Norwegian University of Science and Technology, Trondheim",
+            "email": "Verified email at ntnu.no",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=slF6gzEAAAAJ&citpid=3"
+        },
+        {
+            "name": "Baruch Solel",
+            "link": "https://scholar.google.com/citations?user=ByhB1N8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ByhB1N8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ByhB1N8AAAAJ",
+            "affiliations": "Professor of Mathematics, Technion, Haifa, Israel",
+            "email": "Verified email at technion.ac.il",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

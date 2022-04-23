@@ -1,0 +1,1669 @@
+{
+    "search_metadata": {
+        "id": "6256e29a033e941f22229235",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bcfc1f61be1daca8/6256e29a033e941f22229235.json",
+        "created_at": "2022-04-13 14:47:54 UTC",
+        "processed_at": "2022-04-13 14:47:54 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=PI30hN8AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/bcfc1f61be1daca8/6256e29a033e941f22229235.html",
+        "total_time_taken": 1.12,
+        "total_articles": 29,
+        "total_co_authors": 15
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "PI30hN8AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Aman Parnami",
+        "affiliations": "Indraprastha Institute of Information Technology",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://amanparnami.com/",
+        "interests": [
+            {
+                "title": "Interactive Storytelling",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:interactive_storytelling",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ainteractive_storytelling"
+            },
+            {
+                "title": "Education Technology",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:education_technology",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aeducation_technology"
+            },
+            {
+                "title": "Novel Interactions",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:novel_interactions",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anovel_interactions"
+            },
+            {
+                "title": "Health Sensing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:health_sensing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahealth_sensing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=PI30hN8AAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Leveraging context to support automated food recognition in restaurants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "PI30hN8AAAAJ:9yKSN-GCB0IC",
+            "authors": "V Bettadapura, E Thomaz, A Parnami, GD Abowd, I Essa",
+            "publication": "2015 IEEE Winter Conference on Applications of Computer Vision, 580-587, 2015",
+            "cited_by": {
+                "value": 115,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12249480308236392987",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12249480308236392987&engine=google_scholar&hl=en",
+                "cites_id": "12249480308236392987"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Leveraging context to support automated food recognition in restaurants",
+                    "author": [
+                        "V Bettadapura",
+                        "E Thomaz",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE Winter \u2026",
+                    "abstract": "The pervasiveness of mobile cameras has resulted in a dramatic increase in food photos, which are pictures reflecting what people eat. In this paper, we study how taking pictures of what we eat in restaurants can be used for the purpose of automating food journaling. We propose to leverage the context of where the picture was taken, with additional information about the restaurant, available online, coupled with state-of-the-art computer vision techniques to recognize the food being consumed. To this end, we demonstrate image"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7045937/",
+                "author_id": [
+                    "y-khfzIAAAAJ",
+                    "B0K-DwEAAAAJ",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:G5qSl3Dl_qkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLeveraging%2Bcontext%2Bto%2Bsupport%2Bautomated%2Bfood%2Brecognition%2Bin%2Brestaurants%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=G5qSl3Dl_qkJ&ei=79ZiYt6BApGJmwGIxre4DA&json=",
+                "num_citations": 115,
+                "citedby_url": "/scholar?cites=12249480308236392987&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:G5qSl3Dl_qkJ:scholar.google.com/&scioq=Leveraging+context+to+support+automated+food+recognition+in+restaurants&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1510.02078"
+            },
+            "processed_authors": [
+                "v bettadapura",
+                "e thomaz",
+                "aman parnami",
+                "gd abowd",
+                "i essa"
+            ]
+        },
+        {
+            "title": "Feasibility of identifying eating moments from first-person images leveraging human computation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "PI30hN8AAAAJ:u-x6o8ySG0sC",
+            "authors": "E Thomaz, A Parnami, I Essa, GD Abowd",
+            "publication": "Proceedings of the 4th International SenseCam & Pervasive Imaging Conference \u2026, 2013",
+            "cited_by": {
+                "value": 71,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5228095056189113502",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5228095056189113502&engine=google_scholar&hl=en",
+                "cites_id": "5228095056189113502"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Feasibility of identifying eating moments from first-person images leveraging human computation",
+                    "author": [
+                        "E Thomaz",
+                        "A Parnami",
+                        "I Essa",
+                        "GD Abowd"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the 4th \u2026",
+                    "abstract": "There is widespread agreement in the medical research community that more effective mechanisms for dietary assessment and food journaling are needed to fight back against obesity and other nutrition-related diseases. However, it is presently not possible to automatically capture and objectively assess an individual's eating behavior. Currently used dietary assessment and journaling approaches have several limitations; they pose a significant burden on individuals and are often not detailed or accurate enough. In this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2526667.2526672",
+                "author_id": [
+                    "B0K-DwEAAAAJ",
+                    "PI30hN8AAAAJ",
+                    "XM97iScAAAAJ",
+                    "gb8sbdcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nsQgBMHsjUgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFeasibility%2Bof%2Bidentifying%2Beating%2Bmoments%2Bfrom%2Bfirst-person%2Bimages%2Bleveraging%2Bhuman%2Bcomputation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nsQgBMHsjUgJ&ei=89ZiYuqcA5LeyQTms5KQBg&json=",
+                "num_citations": 72,
+                "citedby_url": "/scholar?cites=5228095056189113502&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:nsQgBMHsjUgJ:scholar.google.com/&scioq=Feasibility+of+identifying+eating+moments+from+first-person+images+leveraging+human+computation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://smartech.gatech.edu/bitstream/handle/1853/51304/2013-Thomaz-FIEMFFILHC.pdf?sequence=1"
+            },
+            "processed_authors": [
+                "e thomaz",
+                "aman parnami",
+                "i essa",
+                "gd abowd"
+            ]
+        },
+        {
+            "title": "Technological approaches for addressing privacy concerns when recognizing eating behaviors with wearable cameras",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "PI30hN8AAAAJ:u5HHmVD_uO8C",
+            "authors": "E Thomaz, A Parnami, J Bidwell, I Essa, GD Abowd",
+            "publication": "Proceedings of the 2013 ACM international joint conference on Pervasive and \u2026, 2013",
+            "cited_by": {
+                "value": 54,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17019559351675282601",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17019559351675282601&engine=google_scholar&hl=en",
+                "cites_id": "17019559351675282601"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Technological approaches for addressing privacy concerns when recognizing eating behaviors with wearable cameras",
+                    "author": [
+                        "E Thomaz",
+                        "A Parnami",
+                        "J Bidwell",
+                        "I Essa"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the 2013 \u2026",
+                    "abstract": "First-person point-of-view (FPPOV) images taken by wearable cameras can be used to better understand people's eating habits. Human computation is a way to provide effective analysis of FPPOV images in cases where algorithmic approaches currently fail. However, privacy is a serious concern. We provide a framework, the privacy-saliency matrix, for understanding the balance between the eating information in an image and its potential privacy concerns. Using data gathered by 5 participants wearing a lanyard-mounted"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2493432.2493509",
+                "author_id": [
+                    "B0K-DwEAAAAJ",
+                    "PI30hN8AAAAJ",
+                    "Vz-lz3cAAAAJ",
+                    "XM97iScAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qWRIjg6fMewJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTechnological%2Bapproaches%2Bfor%2Baddressing%2Bprivacy%2Bconcerns%2Bwhen%2Brecognizing%2Beating%2Bbehaviors%2Bwith%2Bwearable%2Bcameras%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qWRIjg6fMewJ&ei=99ZiYp-ZEo2ymgHnvp6ICA&json=",
+                "num_citations": 54,
+                "citedby_url": "/scholar?cites=17019559351675282601&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qWRIjg6fMewJ:scholar.google.com/&scioq=Technological+approaches+for+addressing+privacy+concerns+when+recognizing+eating+behaviors+with+wearable+cameras&hl=en&as_sdt=0,33",
+                "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.646.1229&rep=rep1&type=pdf"
+            },
+            "processed_authors": [
+                "e thomaz",
+                "aman parnami",
+                "j bidwell",
+                "i essa",
+                "gd abowd"
+            ]
+        },
+        {
+            "title": "Whoosh: non-voice acoustics for low-cost, hands-free, and rapid input on smartwatches",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "PI30hN8AAAAJ:YsMSGLbcyi4C",
+            "authors": "G Reyes, D Zhang, S Ghosh, P Shah, J Wu, A Parnami, B Bercik, ...",
+            "publication": "Proceedings of the 2016 ACM International Symposium on Wearable Computers \u2026, 2016",
+            "cited_by": {
+                "value": 30,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14061467178400904892",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14061467178400904892&engine=google_scholar&hl=en",
+                "cites_id": "14061467178400904892"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Whoosh: non-voice acoustics for low-cost, hands-free, and rapid input on smartwatches",
+                    "author": [
+                        "G Reyes",
+                        "D Zhang",
+                        "S Ghosh",
+                        "P Shah",
+                        "J Wu"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "We present an alternate approach to smartwatch interactions using non-voice acoustic input captured by the device's microphone to complement touch and speech. Whoosh is an interaction technique that recognizes the type and length of acoustic events performed by the user to enable low-cost, hands-free, and rapid input on smartwatches. We build a recognition system capable of detecting non-voice events directed at and around the watch, including blows, sip-and-puff, and directional air swipes, without hardware modifications to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2971763.2971765",
+                "author_id": [
+                    "0TCP72IAAAAJ",
+                    "M1ZdvIAAAAAJ",
+                    "_ZYwKUIAAAAJ",
+                    "WyAUyBQAAAAJ",
+                    "aKqh7zIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vHZm3eVdJMMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWhoosh:%2Bnon-voice%2Bacoustics%2Bfor%2Blow-cost,%2Bhands-free,%2Band%2Brapid%2Binput%2Bon%2Bsmartwatches%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vHZm3eVdJMMJ&ei=AtdiYtiLHcLZmQHc1ovQAg&json=",
+                "num_citations": 30,
+                "citedby_url": "/scholar?cites=14061467178400904892&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vHZm3eVdJMMJ:scholar.google.com/&scioq=Whoosh:+non-voice+acoustics+for+low-cost,+hands-free,+and+rapid+input+on+smartwatches&hl=en&as_sdt=0,33",
+                "eprint_url": "https://md2k.org/images/papers/software/p120-reyes_whoosh.pdf"
+            },
+            "processed_authors": [
+                "g reyes",
+                "d zhang",
+                "s ghosh",
+                "p shah",
+                "j wu",
+                "aman parnami",
+                "b bercik"
+            ]
+        },
+        {
+            "title": "Virtualbricks: Exploring a scalable, modular toolkit for enabling physical manipulation in vr",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:UebtZRa9Y70C",
+            "citation_id": "PI30hN8AAAAJ:UebtZRa9Y70C",
+            "authors": "J Arora, A Saini, N Mehra, V Jain, S Shrey, A Parnami",
+            "publication": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems \u2026, 2019",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13293892137914935321",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13293892137914935321&engine=google_scholar&hl=en",
+                "cites_id": "13293892137914935321"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Virtualbricks: Exploring a scalable, modular toolkit for enabling physical manipulation in vr",
+                    "author": [
+                        "J Arora",
+                        "A Saini",
+                        "N Mehra",
+                        "V Jain",
+                        "S Shrey"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the 2019 \u2026",
+                    "abstract": "Often Virtual Reality (VR) experiences are limited by the design of standard controllers. This work aims to liberate a VR developer from these limitations in the physical realm to provide an expressive match to the limitless possibilities in the virtual realm. VirtualBricks is a LEGO based toolkit that enables construction of a variety of physical-manipulation enabled controllers for VR, by offering a set of feature bricks that emulate as well as extend the capabilities of default controllers. Based on the LEGO platform, the toolkit"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3290605.3300286",
+                "author_id": [
+                    "IApwwW8AAAAJ",
+                    "GHYzsRoAAAAJ",
+                    "jyqm2uScRoYC",
+                    "7xw-hfEAAAAJ",
+                    "76X6_rAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GSjHIndkfbgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVirtualbricks:%2BExploring%2Ba%2Bscalable,%2Bmodular%2Btoolkit%2Bfor%2Benabling%2Bphysical%2Bmanipulation%2Bin%2Bvr%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GSjHIndkfbgJ&ei=BtdiYoHDNKmTy9YPsu-CuAM&json=",
+                "num_citations": 21,
+                "citedby_url": "/scholar?cites=13293892137914935321&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GSjHIndkfbgJ:scholar.google.com/&scioq=Virtualbricks:+Exploring+a+scalable,+modular+toolkit+for+enabling+physical+manipulation+in+vr&hl=en&as_sdt=0,33",
+                "eprint_url": "http://library.usc.edu.ph/ACM/CHI2019/1proc/paper056.pdf"
+            },
+            "processed_authors": [
+                "j arora",
+                "a saini",
+                "n mehra",
+                "vidit jain",
+                "s shrey",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Adapting interface based on usage context",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:WF5omc3nYNoC",
+            "citation_id": "PI30hN8AAAAJ:WF5omc3nYNoC",
+            "authors": "UK Sengupta, A Parnami, P Kalluraya",
+            "publication": "US Patent App. 14/139,581, 2015",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2633914617324172693",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2633914617324172693&engine=google_scholar&hl=en",
+                "cites_id": "2633914617324172693"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Model-based adaptive user interface based on context and user experience evaluation",
+                    "author": [
+                        "J Hussain",
+                        "A Ul Hassan",
+                        "HS Muhammad Bilal"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 User Interfaces",
+                    "abstract": "is dependent on the evaluation of user context and user experience (UX).  adaptive UI/UX  authoring (A-UI/UX-A) tool; a system capable of adapting user interface based on the utilization"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s12193-018-0258-2",
+                "author_id": [
+                    "m1bJ4HAAAAAJ",
+                    "642cVQYAAAAJ",
+                    "4MyVrZ0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:S60LvbXn8HgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdapting%2Binterface%2Bbased%2Bon%2Busage%2Bcontext%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=S60LvbXn8HgJ&ei=EddiYq2rKMLZmQHc1ovQAg&json=",
+                "num_citations": 67,
+                "citedby_url": "/scholar?cites=8714720046708665675&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:S60LvbXn8HgJ:scholar.google.com/&scioq=Adapting+interface+based+on+usage+context&hl=en&as_sdt=0,33",
+                "eprint_url": "http://uclab.khu.ac.kr/resources/publication/J_248.pdf"
+            },
+            "processed_authors": [
+                "uk sengupta",
+                "aman parnami",
+                "p kalluraya"
+            ]
+        },
+        {
+            "title": "BackTap: robust four-point tapping on the back of an off-the-shelf smartphone",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "PI30hN8AAAAJ:d1gkVwhDpl0C",
+            "authors": "C Zhang, A Parnami, C Southern, E Thomaz, G Reyes, R Arriaga, ...",
+            "publication": "Proceedings of the adjunct publication of the 26th annual ACM symposium on \u2026, 2013",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9996508984864110491",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9996508984864110491&engine=google_scholar&hl=en",
+                "cites_id": "9996508984864110491"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "BackTap: robust four-point tapping on the back of an off-the-shelf smartphone",
+                    "author": [
+                        "C Zhang",
+                        "A Parnami",
+                        "C Southern",
+                        "E Thomaz"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "We present BackTap, an interaction technique that extends the input modality of a smartphone to add four distinct tap locations on the back case of a smartphone. The BackTap interaction can be used eyes-free with the phone in a user's pocket, purse, or armband while walking, or while holding the phone with two hands so as not to occlude the screen with the fingers. We employ three common built-in sensors on the smartphone (microphone, gyroscope, and accelerometer) and feature a lightweight heuristic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2508468.2514735",
+                "author_id": [
+                    "Lf5ShKkAAAAJ",
+                    "PI30hN8AAAAJ",
+                    "",
+                    "B0K-DwEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:m3fTPPW7uooJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBackTap:%2Brobust%2Bfour-point%2Btapping%2Bon%2Bthe%2Bback%2Bof%2Ban%2Boff-the-shelf%2Bsmartphone%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=m3fTPPW7uooJ&ei=FtdiYqyOJZyO6rQP-viEEA&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=9996508984864110491&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:m3fTPPW7uooJ:scholar.google.com/&scioq=BackTap:+robust+four-point+tapping+on+the+back+of+an+off-the-shelf+smartphone&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.czhang.org/wp-content/uploads/2015/12/p111-zhang.pdf"
+            },
+            "processed_authors": [
+                "c zhang",
+                "aman parnami",
+                "c southern",
+                "e thomaz",
+                "g reyes",
+                "r arriaga"
+            ]
+        },
+        {
+            "title": "Gehna: Exploring the Design Space of Jewelry as an Input Modality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:Se3iqnhoufwC",
+            "citation_id": "PI30hN8AAAAJ:Se3iqnhoufwC",
+            "authors": "J Arora, K Mathur, A Saini, A Parnami",
+            "publication": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems \u2026, 2019",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4032031595852086368",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4032031595852086368&engine=google_scholar&hl=en",
+                "cites_id": "4032031595852086368"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Gehna: Exploring the Design Space of Jewelry as an Input Modality",
+                    "author": [
+                        "J Arora",
+                        "K Mathur",
+                        "A Saini",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026 of the 2019 CHI Conference on \u2026",
+                    "abstract": "Jewelry weaves into our everyday lives as no other wearable does. It comes in many wearable forms, is fashionable, and can adorn any part of the body. In this paper, through an exploratory, Research through Design (RtD) process, we tap into this vast potential space of input interaction that jewelry can enable. We do so by first identifying a small set of fundamental structural elements---called Jewelements---that any jewelry is composed of, and then defining their properties that enable the interaction. We leverage this synthesis"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3290605.3300751",
+                "author_id": [
+                    "IApwwW8AAAAJ",
+                    "82oTuz0AAAAJ",
+                    "GHYzsRoAAAAJ",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:YDzqsV-n9DcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGehna:%2BExploring%2Bthe%2BDesign%2BSpace%2Bof%2BJewelry%2Bas%2Ban%2BInput%2BModality%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YDzqsV-n9DcJ&ei=GddiYv2LFPmQ6rQPzKCxuAY&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=4032031595852086368&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:YDzqsV-n9DcJ:scholar.google.com/&scioq=Gehna:+Exploring+the+Design+Space+of+Jewelry+as+an+Input+Modality&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "j arora",
+                "k mathur",
+                "a saini",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Mogeste: a mobile tool for in-situ motion gesture design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "PI30hN8AAAAJ:_FxGoFyzp5QC",
+            "authors": "A Parnami, A Gupta, G Reyes, R Sadana, Y Li, GD Abowd",
+            "publication": "Proceedings of the 8th Indian Conference on Human Computer Interaction, 35-43, 2016",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17294883420361157974",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17294883420361157974&engine=google_scholar&hl=en",
+                "cites_id": "17294883420361157974"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mogeste: a mobile tool for in-situ motion gesture design",
+                    "author": [
+                        "A Parnami",
+                        "A Gupta",
+                        "G Reyes",
+                        "R Sadana",
+                        "Y Li"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the 8th \u2026",
+                    "abstract": "Motion gestures can be expressive, fast to access and perform, and facilitated by ubiquitous inertial sensors. However, implementing a gesture recognizer requires substantial programming and pattern recognition expertise. Although several graphical desktop-based tools lower the threshold of development, they do not support ad hoc development in naturalistic settings. We present Mogeste, a mobile tool for in-situ motion gesture design. Mogeste allows interaction designers to within minutes envision, train, and test motion"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3014362.3014365",
+                "author_id": [
+                    "PI30hN8AAAAJ",
+                    "",
+                    "0TCP72IAAAAJ",
+                    "Z7wsXIcAAAAJ",
+                    "ZZdB48QAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Vm1rrtbEA_AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMogeste:%2Ba%2Bmobile%2Btool%2Bfor%2Bin-situ%2Bmotion%2Bgesture%2Bdesign%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Vm1rrtbEA_AJ&ei=HddiYpXeK4ySyATlkbrQCA&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=17294883420361157974&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Vm1rrtbEA_AJ:scholar.google.com/&scioq=Mogeste:+a+mobile+tool+for+in-situ+motion+gesture+design&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "aman parnami",
+                "anubha gupta",
+                "g reyes",
+                "r sadana",
+                "y li",
+                "gd abowd"
+            ]
+        },
+        {
+            "title": "Mogeste: A Mobile Tool for In-Situ Motion Gesture Design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:ufrVoPGSRksC",
+            "citation_id": "PI30hN8AAAAJ:ufrVoPGSRksC",
+            "authors": "A Parnami, A Gupta, G Reyes, R Sadana, Y Li, GD Abowd",
+            "publication": "IHCI '16: Proceedings of the 8th Indian Conference on Human Computer \u2026, 2016",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17294883420361157974",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17294883420361157974&engine=google_scholar&hl=en",
+                "cites_id": "17294883420361157974"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mogeste: a mobile tool for in-situ motion gesture design",
+                    "author": [
+                        "A Parnami",
+                        "A Gupta",
+                        "G Reyes",
+                        "R Sadana",
+                        "Y Li"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the 8th \u2026",
+                    "abstract": "Motion gestures can be expressive, fast to access and perform, and facilitated by ubiquitous inertial sensors. However, implementing a gesture recognizer requires substantial programming and pattern recognition expertise. Although several graphical desktop-based tools lower the threshold of development, they do not support ad hoc development in naturalistic settings. We present Mogeste, a mobile tool for in-situ motion gesture design. Mogeste allows interaction designers to within minutes envision, train, and test motion"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3014362.3014365",
+                "author_id": [
+                    "PI30hN8AAAAJ",
+                    "",
+                    "0TCP72IAAAAJ",
+                    "Z7wsXIcAAAAJ",
+                    "ZZdB48QAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Vm1rrtbEA_AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMogeste:%2BA%2BMobile%2BTool%2Bfor%2BIn-Situ%2BMotion%2BGesture%2BDesign%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Vm1rrtbEA_AJ&ei=IddiYuOUJY2ymgHnvp6ICA&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=17294883420361157974&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Vm1rrtbEA_AJ:scholar.google.com/&scioq=Mogeste:+A+Mobile+Tool+for+In-Situ+Motion+Gesture+Design&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "aman parnami",
+                "anubha gupta",
+                "g reyes",
+                "r sadana",
+                "y li",
+                "gd abowd"
+            ]
+        },
+        {
+            "title": "MenstruLoss: sensor for menstrual blood loss monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "PI30hN8AAAAJ:hqOjcs7Dif8C",
+            "authors": "M Mukherjee, SA Naqvi, A Verma, D Sengupta, A Parnami",
+            "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous \u2026, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9220033266985210495",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9220033266985210495&engine=google_scholar&hl=en",
+                "cites_id": "9220033266985210495"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MenstruLoss: sensor for menstrual blood loss monitoring",
+                    "author": [
+                        "M Mukherjee",
+                        "SA Naqvi",
+                        "A Verma",
+                        "D Sengupta"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Self-monitoring of menstrual blood loss volume could lead to early detection of multiple gynecological diseases. In this paper, we describe the development of a textile-based blood volume sensor which can be integrated into the sanitary napkin to quantify the menstrual blood loss during menstruation. It is based on sensing the resistance change detected as the output voltage change, with the added volume of fluid. Benchtop characterization tests with 5 mL of fluid determined the effect of spacing, orientation and weight, and location of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3328929",
+                "author_id": [
+                    "",
+                    "QGjJ15UAAAAJ",
+                    "",
+                    "b-57qe4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fxLwD2gj9H8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMenstruLoss:%2Bsensor%2Bfor%2Bmenstrual%2Bblood%2Bloss%2Bmonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fxLwD2gj9H8J&ei=JNdiYtGAKpGJmwGIxre4DA&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=9220033266985210495&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fxLwD2gj9H8J:scholar.google.com/&scioq=MenstruLoss:+sensor+for+menstrual+blood+loss+monitoring&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "m mukherjee",
+                "sa naqvi",
+                "a verma",
+                "debarka sengupta",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Design and evaluation of dio construction toolkit for co-making shared constructions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:3fE2CSJIrl8C",
+            "citation_id": "PI30hN8AAAAJ:3fE2CSJIrl8C",
+            "authors": "J Arora, K Mathur, M Goel, P Kumar, A Mishra, A Parnami",
+            "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous \u2026, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18423219861481137598",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18423219861481137598&engine=google_scholar&hl=en",
+                "cites_id": "18423219861481137598"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design and evaluation of dio construction toolkit for co-making shared constructions",
+                    "author": [
+                        "J Arora",
+                        "K Mathur",
+                        "M Goel",
+                        "P Kumar",
+                        "A Mishra"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "We present the design and implementation of DIO, a novel digital-physical construction toolkit to enable constructionist learning for children from age group 8-12 years. The toolkit comprises of dome-shaped (D) tangible modules with various attachments that allow suspension on the body of multiple children and/or in the environment to support a variety of sensing/input (I), actuation/output (O) functionalities. The modules are enabled for wireless communication and can be linked together using an Augmented Reality based"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3369833",
+                "author_id": [
+                    "IApwwW8AAAAJ",
+                    "82oTuz0AAAAJ",
+                    "gVo9jKcAAAAJ",
+                    "",
+                    "RYrp000AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:viWBhtpsrP8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Band%2Bevaluation%2Bof%2Bdio%2Bconstruction%2Btoolkit%2Bfor%2Bco-making%2Bshared%2Bconstructions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=viWBhtpsrP8J&ei=KddiYuuXF5WMy9YPt8OamA0&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=18423219861481137598&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:viWBhtpsrP8J:scholar.google.com/&scioq=Design+and+evaluation+of+dio+construction+toolkit+for+co-making+shared+constructions&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "j arora",
+                "k mathur",
+                "m goel",
+                "p kumar",
+                "a mishra",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Storied numbers: Supporting media-rich data storytelling for television",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "PI30hN8AAAAJ:2osOgNQ5qMEC",
+            "authors": "SJ Robinson, G Williams, A Parnami, J Kim, E McGregor, D Chandler, ...",
+            "publication": "Proceedings of the ACM International Conference on Interactive Experiences \u2026, 2014",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12508364724028250000",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12508364724028250000&engine=google_scholar&hl=en",
+                "cites_id": "12508364724028250000"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Storied numbers: Supporting media-rich data storytelling for television",
+                    "author": [
+                        "SJ Robinson",
+                        "G Williams",
+                        "A Parnami",
+                        "J Kim"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "The digital convergence of broadcast television, usergenerated content from online and mobile sources, and interactive surfaces brings an opportunity for the development of platforms to support media-rich data storytelling for television audiences. In this paper, we report on a production model and system featuring a multi-touch interactive table with tangibles in the broadcast studio, on which performers use information visualizations to access and present media-rich content from viewers. The system uses content generated"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2602299.2602308",
+                "author_id": [
+                    "BssWrBgAAAAJ",
+                    "",
+                    "PI30hN8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:kBe7wHGjlq0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStoried%2Bnumbers:%2BSupporting%2Bmedia-rich%2Bdata%2Bstorytelling%2Bfor%2Btelevision%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kBe7wHGjlq0J&ei=LtdiYrqOHJyO6rQP-viEEA&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=12508364724028250000&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kBe7wHGjlq0J:scholar.google.com/&scioq=Storied+numbers:+Supporting+media-rich+data+storytelling+for+television&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Susan_Robinson3/publication/265208671_Storied_Numbers_Supporting_Media-Rich_Data_Storytelling_for_Television/links/54051a4d0cf2c48563b1308a/Storied-Numbers-Supporting-Media-Rich-Data-Storytelling-for-Television.pdf"
+            },
+            "processed_authors": [
+                "sj robinson",
+                "g williams",
+                "aman parnami",
+                "j kim",
+                "e mcgregor",
+                "d chandler"
+            ]
+        },
+        {
+            "title": "Reducing false positives in video shot detection using learning techniques",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:qjMakFHDy7sC",
+            "citation_id": "PI30hN8AAAAJ:qjMakFHDy7sC",
+            "authors": "N Manickam, A Parnami, S Chandran",
+            "publication": "Computer Vision, Graphics and Image Processing, 421-432, 2006",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=503539114607095130",
+                "serpapi_link": "https://serpapi.com/search.json?cites=503539114607095130&engine=google_scholar&hl=en",
+                "cites_id": "503539114607095130"
+            },
+            "year": "2006",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Reducing false positives in video shot detection using learning techniques",
+                    "author": [
+                        "N Manickam",
+                        "A Parnami",
+                        "S Chandran"
+                    ],
+                    "pub_year": "2006",
+                    "venue": "Computer Vision, Graphics and \u2026",
+                    "abstract": "Video has become an interactive medium of daily use today. However, the sheer volume of the data makes it extremely difficult to browse and find required information. Organizing the video and locating required information effectively and efficiently presents a great challenge to the video retrieval community. This demands a tool which would break down the video into smaller and manageable units called shots. Traditional shot detection methods use pixel difference, histograms, or temporal slice analysis to detect hard-cuts and gradual"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/11949619_38",
+                "author_id": [
+                    "",
+                    "PI30hN8AAAAJ",
+                    "pRDtIYcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Wq2rKCju_AYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReducing%2Bfalse%2Bpositives%2Bin%2Bvideo%2Bshot%2Bdetection%2Busing%2Blearning%2Btechniques%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Wq2rKCju_AYJ&ei=MtdiYpaCLKKUy9YPyMyGkAI&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=503539114607095130&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Wq2rKCju_AYJ:scholar.google.com/&scioq=Reducing+false+positives+in+video+shot+detection+using+learning+techniques&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.cse.iitb.ac.in/~sharat/icvgip.org/icvgip2006/papers/fulltext_37.pdf"
+            },
+            "processed_authors": [
+                "n manickam",
+                "aman parnami",
+                "s chandran"
+            ]
+        },
+        {
+            "title": "Augmented Reality for Vocational Education Training in K12 Classrooms",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:Zph67rFs4hoC",
+            "citation_id": "PI30hN8AAAAJ:Zph67rFs4hoC",
+            "authors": "M Belani, A Parnami",
+            "publication": "2020 IEEE International Symposium on Mixed and Augmented Reality Adjunct \u2026, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13907212487577634223",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13907212487577634223&engine=google_scholar&hl=en",
+                "cites_id": "13907212487577634223"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Augmented Reality for Vocational Education Training in K12 Classrooms",
+                    "author": [
+                        "M Belani",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 on Mixed and Augmented Reality Adjunct \u2026",
+                    "abstract": "Vocational Education Training (VET) is becoming a more integral part of the curriculum to account for the requirement of skilled workforce in the global scenario. Augmented Reality (AR) can serve as a valuable medium to integrate this aspect into mainstream educational systems. In this work, we explore the feasibility of AR for vocational skill training of students at the K12 level based on the state of the art literature analysis. Furthermore, we propose opportunities concerned with the aspects of effective integration and usability of these"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9288407/",
+                "author_id": [
+                    "MYPKuzEAAAAJ",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:rwXx6RJYAMEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAugmented%2BReality%2Bfor%2BVocational%2BEducation%2BTraining%2Bin%2BK12%2BClassrooms%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rwXx6RJYAMEJ&ei=NddiYvWxKPmQ6rQPzKCxuAY&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=13907212487577634223&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:rwXx6RJYAMEJ:scholar.google.com/&scioq=Augmented+Reality+for+Vocational+Education+Training+in+K12+Classrooms&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Manshul-Belani/publication/347666682_Augmented_Reality_for_Vocational_Education_Training_in_K12_Classrooms/links/614c22b4a595d06017e4dbf4/Augmented-Reality-for-Vocational-Education-Training-in-K12-Classrooms.pdf"
+            },
+            "processed_authors": [
+                "m belani",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Aesop: Authoring Engaging Digital Storytelling Experiences",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:8k81kl-MbHgC",
+            "citation_id": "PI30hN8AAAAJ:8k81kl-MbHgC",
+            "authors": "A Saini, K Mathur, A Thukral, N Singhal, A Parnami",
+            "publication": "The Adjunct Publication of the 32nd Annual ACM Symposium on User Interface \u2026, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7240617640798721624",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7240617640798721624&engine=google_scholar&hl=en",
+                "cites_id": "7240617640798721624"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Aesop: Authoring Engaging Digital Storytelling Experiences",
+                    "author": [
+                        "A Saini",
+                        "K Mathur",
+                        "A Thukral",
+                        "N Singhal"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "The Adjunct Publication \u2026",
+                    "abstract": "The traditional storytelling experiences are often one dimensional, wherein they only contain a single channel of communication with the audience through narration. With the advancements in technology, storytelling experiences have been augmented with the help of digital media to be more engaging and immersive. Authoring these scenarios, however, is complicated as it requires technical knowledge to interface the means of engagement. In this work, we talk about Aesop, a system which assists the narrator to author engaging"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3332167.3357114",
+                "author_id": [
+                    "GHYzsRoAAAAJ",
+                    "82oTuz0AAAAJ",
+                    "",
+                    "NK5BFowAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WBY8wmHXe2QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAesop:%2BAuthoring%2BEngaging%2BDigital%2BStorytelling%2BExperiences%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WBY8wmHXe2QJ&ei=OtdiYo2SNO-Sy9YPmNWywAs&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7240617640798721624&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WBY8wmHXe2QJ:scholar.google.com/&scioq=Aesop:+Authoring+Engaging+Digital+Storytelling+Experiences&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Aryan-Saini/publication/336661150_Aesop_Authoring_Engaging_Digital_Storytelling_Experiences/links/5f0c1baba6fdcc4ca4662dfd/Aesop-Authoring-Engaging-Digital-Storytelling-Experiences.pdf"
+            },
+            "processed_authors": [
+                "a saini",
+                "k mathur",
+                "a thukral",
+                "n singhal",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Soma-noti: Delivering Notifications Through Under-clothing Wearables",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:ULOm3_A8WrAC",
+            "citation_id": "PI30hN8AAAAJ:ULOm3_A8WrAC",
+            "authors": "A Bhatia, D Kundu, S Agarwal, V Kairon, A Parnami",
+            "publication": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7513789032388550281",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7513789032388550281&engine=google_scholar&hl=en",
+                "cites_id": "7513789032388550281"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Soma-noti: Delivering Notifications Through Under-clothing Wearables",
+                    "author": [
+                        "A Bhatia",
+                        "D Kundu",
+                        "S Agarwal",
+                        "V Kairon"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 2021 \u2026",
+                    "abstract": "Different form factors of wearable technology provide unique opportunities for output based on how they are connected to the human body. In this work, we investigate the idea of delivering notifications through devices worn on the underside of a user's clothing. A wearable worn in such a manner is in direct contact with the user's skin. We leverage this proximity to test the performance of 10 on-skin sensations (Press, Poke, Pinch, Heat, Cool, Blow, Suck, Vibrate, Moisture and Brush) as methods of notification delivery. We developed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3411764.3445123",
+                "author_id": [
+                    "TzSb1OsAAAAJ",
+                    "-dqeg2sAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:id6-sFBXRmgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSoma-noti:%2BDelivering%2BNotifications%2BThrough%2BUnder-clothing%2BWearables%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=id6-sFBXRmgJ&ei=P9diYpyyA5GJmwGIxre4DA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7513789032388550281&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:id6-sFBXRmgJ:scholar.google.com/&scioq=Soma-noti:+Delivering+Notifications+Through+Under-clothing+Wearables&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a bhatia",
+                "d kundu",
+                "s agarwal",
+                "v kairon",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Exploring the Design Space of Badge Based Input",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:KlAtU1dfN6UC",
+            "citation_id": "PI30hN8AAAAJ:KlAtU1dfN6UC",
+            "authors": "A Bhatia, Y Ahuja, S Agarwal, A Parnami",
+            "publication": "Proceedings of the ACM on Human-Computer Interaction 4 (ISS), 1-20, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1978544641327102567",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1978544641327102567&engine=google_scholar&hl=en",
+                "cites_id": "1978544641327102567"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploring the Design Space of Badge Based Input",
+                    "author": [
+                        "A Bhatia",
+                        "Y Ahuja",
+                        "S Agarwal",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the ACM on \u2026",
+                    "abstract": "In this paper, we explore input with wearables that can be attached and detached at will from any of our regular clothes. These wearables do not cause any permanent effect on our clothing and are suitable to be worn anywhere, thus making them very similar to badges we wear. To explore this idea of non-permanent badge input, we studied various methods to fasten objects to our clothing and organise them in the form of a design space. We leverage this synthesis, along with literature and existing products to present possible interaction"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3427313",
+                "author_id": [
+                    "TzSb1OsAAAAJ",
+                    "",
+                    "",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Z_qNVt4zdRsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploring%2Bthe%2BDesign%2BSpace%2Bof%2BBadge%2BBased%2BInput%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Z_qNVt4zdRsJ&ei=QtdiYtL8LI6pywSdh6agAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=1978544641327102567&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Z_qNVt4zdRsJ:scholar.google.com/&scioq=Exploring+the+Design+Space+of+Badge+Based+Input&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a bhatia",
+                "y ahuja",
+                "s agarwal",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "GLIM: Glass live interaction monitor, live internal state interaction monitor using google glass+ EDA",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "PI30hN8AAAAJ:LkGwnXOMwfcC",
+            "authors": "I Riobo, A Parnami, J Hernandez, GD Abowd",
+            "publication": "Extended Abstracts of the International Meeting for Autism Research (IMFAR), 2014",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13725201614337507229",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13725201614337507229&engine=google_scholar&hl=en",
+                "cites_id": "13725201614337507229"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "GLIM: Glass live interaction monitor, live internal state interaction monitor using google glass+ EDA",
+                    "author": [
+                        "I Riobo",
+                        "A Parnami",
+                        "J Hernandez"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Extended Abstracts of \u2026",
+                    "abstract": "Background: One core competency in establishing any successful social interaction is being able to adequately self-regulate and co-regulate our internal emotional arousal as we interact with other people in any given context. As two neurotypical (NT) individuals engage in any interaction, both can externalize, regulate their own emotional arousal levels as well as identify the internal state of their communication partner as the interaction goes on. This co-regulation process happens naturally and both partners modulate their internal state as"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://affect.media.mit.edu/pdfs/14.Riobo_et_al-IMFAR-abstract.pdf",
+                "author_id": [
+                    "",
+                    "PI30hN8AAAAJ",
+                    "rhSbsL0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nX80JSa2eb4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGLIM:%2BGlass%2Blive%2Binteraction%2Bmonitor,%2Blive%2Binternal%2Bstate%2Binteraction%2Bmonitor%2Busing%2Bgoogle%2Bglass%252B%2BEDA%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nX80JSa2eb4J&ei=SNdiYsr-LaKUy9YPyMyGkAI&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=13725201614337507229&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:nX80JSa2eb4J:scholar.google.com/&scioq=GLIM:+Glass+live+interaction+monitor,+live+internal+state+interaction+monitor+using+google+glass%2B+EDA&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "i riobo",
+                "aman parnami",
+                "j hernandez",
+                "gd abowd"
+            ]
+        },
+        {
+            "title": "Verbose: Designing a Context-based Educational System for Improving Communicative Expressions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:_kc_bZDykSQC",
+            "citation_id": "PI30hN8AAAAJ:_kc_bZDykSQC",
+            "authors": "A Chaudhary, M Belani, N Maheshwari, A Parnami",
+            "publication": "Proceedings of the 23rd International Conference on Mobile Human-Computer \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Verbose: Designing a Context-based Educational System for Improving Communicative Expressions",
+                    "author": [
+                        "A Chaudhary",
+                        "M Belani",
+                        "N Maheshwari"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 23rd \u2026",
+                    "abstract": "ESL (English as a second language) speakers tend to follow the tone structure of their first language, making their speech difficult to understand for native speakers, thereby limiting their opportunities for education and employment. To address this problem, we build an interactive smartphone-based educational mobile application using the user-centered design process. This application teaches English intonations based on globally consistent pitch patterns through conversations with a trained chat assistant, which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3447526.3472057",
+                "author_id": [
+                    "",
+                    "MYPKuzEAAAAJ",
+                    "Bpi4fesAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9cfCu4Ct-2sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVerbose:%2BDesigning%2Ba%2BContext-based%2BEducational%2BSystem%2Bfor%2BImproving%2BCommunicative%2BExpressions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9cfCu4Ct-2sJ&ei=U9diYo-WKoySyATlkbrQCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:9cfCu4Ct-2sJ:scholar.google.com/&scioq=Verbose:+Designing+a+Context-based+Educational+System+for+Improving+Communicative+Expressions&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a chaudhary",
+                "m belani",
+                "n maheshwari",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "ExpressEar: Sensing Fine-Grained Facial Expressions with Earables",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:YOwf2qJgpHMC",
+            "citation_id": "PI30hN8AAAAJ:YOwf2qJgpHMC",
+            "authors": "D Verma, S Bhalla, D Sahnan, J Shukla, A Parnami",
+            "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "ExpressEar: Sensing Fine-Grained Facial Expressions with Earables",
+                    "author": [
+                        "D Verma",
+                        "S Bhalla",
+                        "D Sahnan",
+                        "J Shukla"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the ACM \u2026",
+                    "abstract": "Continuous and unobtrusive monitoring of facial expressions holds tremendous potential to enable compelling applications in a multitude of domains ranging from healthcare and education to interactive systems. Traditional, vision-based facial expression recognition (FER) methods, however, are vulnerable to external factors like occlusion and lighting, while also raising privacy concerns coupled with the impractical requirement of positioning the camera in front of the user at all times. To bridge this gap, we propose ExpressEar, a novel"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3478085",
+                "author_id": [
+                    "KJgi6GMAAAAJ",
+                    "SwDlgvoAAAAJ",
+                    "AwLsb_gAAAAJ",
+                    "QCZleNQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:04kzeFSz3MwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExpressEar:%2BSensing%2BFine-Grained%2BFacial%2BExpressions%2Bwith%2BEarables%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=04kzeFSz3MwJ&ei=V9diYtWqCpGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:04kzeFSz3MwJ:scholar.google.com/&scioq=ExpressEar:+Sensing+Fine-Grained+Facial+Expressions+with+Earables&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "d verma",
+                "s bhalla",
+                "d sahnan",
+                "jainendra shukla",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Interactive playback in XR",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:4TOpqqG69KYC",
+            "citation_id": "PI30hN8AAAAJ:4TOpqqG69KYC",
+            "authors": "A Parnami",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Interactive playback in XR",
+                    "author": [
+                        "A Parnami"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "With a thorough literature study, challenges pertinent to this asynchronous collaboration  were identified. Out of them, this work focuses on change awareness. Change awareness is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/986",
+                "author_id": [
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zh2CGnfdrWoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInteractive%2Bplayback%2Bin%2BXR%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zh2CGnfdrWoJ&ei=XddiYurpBqmTy9YPsu-CuAM&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/986/Kritika_%202017295.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Vuja De: Interactive Playback of Recorded Virtual Environments",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:kNdYIx-mwKoC",
+            "citation_id": "PI30hN8AAAAJ:kNdYIx-mwKoC",
+            "authors": "M Arora, A Kushwaha, A Parnami",
+            "publication": "ACM SIGGRAPH 2020 Posters, 1-2, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Vuja De: Interactive Playback of Recorded Virtual Environments",
+                    "author": [
+                        "M Arora",
+                        "A Kushwaha",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "ACM SIGGRAPH 2020 Posters",
+                    "abstract": "Unlike playback of a video where a user can only interact by altering the video's playback, a recorded Virtual Reality (VR) experience when played back in VR allows unprecedented avenues for interaction, including alteration of the content. Thus, we present Vuja De, the propensity of finding novelty in familiar experiences. It enables re-experiencing VR recordings anew each time because of the multiple interaction outcomes made possible. Subsequently, we discuss comprehensive interaction scenarios demonstrating the utility of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3388770.3407412",
+                "author_id": [
+                    "A4MH6fkAAAAJ",
+                    "EJDJ0cQAAAAJ",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qmUB_43UpAEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVuja%2BDe:%2BInteractive%2BPlayback%2Bof%2BRecorded%2BVirtual%2BEnvironments%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qmUB_43UpAEJ&ei=YNdiYpaDI5LeyQTms5KQBg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:qmUB_43UpAEJ:scholar.google.com/&scioq=Vuja+De:+Interactive+Playback+of+Recorded+Virtual+Environments&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "m arora",
+                "a kushwaha",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Choose a lift and walk into it: Manifesting Choice Blindness in Real-life Scenarios using Immersive Virtual Reality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "PI30hN8AAAAJ:MXK_kJrjxJIC",
+            "authors": "J Arora, M Gupta, A Parnami",
+            "publication": "The Adjunct Publication of the 32nd Annual ACM Symposium on User Interface \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Choose a lift and walk into it: Manifesting Choice Blindness in Real-life Scenarios using Immersive Virtual Reality",
+                    "author": [
+                        "J Arora",
+                        "M Gupta",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "The Adjunct Publication of the 32nd \u2026",
+                    "abstract": "In this paper, we propose the novel concept of manifesting the Choice Blindness paradigm in real-life scenarios through immersive Virtual Reality (VR). We designed a VR application wherein the participants encountered two-alternative choices regarding implicit racial bias. Our observations show that 92% of subjects failed to notice a mismatch in their choices, while 75% exhibited choice blindness, hence indicating a healthy scope for exploring choice blindness through virtual reality."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3332167.3357123",
+                "author_id": [
+                    "IApwwW8AAAAJ",
+                    "N5jjXpYAAAAJ",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uhxRIm9Q3cEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChoose%2Ba%2Blift%2Band%2Bwalk%2Binto%2Bit:%2BManifesting%2BChoice%2BBlindness%2Bin%2BReal-life%2BScenarios%2Busing%2BImmersive%2BVirtual%2BReality%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uhxRIm9Q3cEJ&ei=Y9diYtKxIsLZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:uhxRIm9Q3cEJ:scholar.google.com/&scioq=Choose+a+lift+and+walk+into+it:+Manifesting+Choice+Blindness+in+Real-life+Scenarios+using+Immersive+Virtual+Reality&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "j arora",
+                "m gupta",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Rapid Prototyping of Pneumatically Actuated Inflatable Structures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:5nxA0vEk-isC",
+            "citation_id": "PI30hN8AAAAJ:5nxA0vEk-isC",
+            "authors": "R Ghosal, B Rana, I Kapur, A Parnami",
+            "publication": "The Adjunct Publication of the 32nd Annual ACM Symposium on User Interface \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Rapid Prototyping of Pneumatically Actuated Inflatable Structures",
+                    "author": [
+                        "R Ghosal",
+                        "B Rana",
+                        "I Kapur",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "The Adjunct Publication of the \u2026",
+                    "abstract": "Fabricating and actuating inflatables for shape-changing interfaces and soft robotics is challenging and time-consuming, requiring knowledge in diverse domains such as pneumatics, manufacturing processes for elastomers, and embedded systems. We propose in this poster a scheme for rapid prototyping and pneumatically actuating piecewise multi-chambered inflatables, using balloons as our building blocks. We provide a construction kit containing pneumatic control boards, pneumatic components, and balloons for constructing"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3332167.3357121",
+                "author_id": [
+                    "XLPt690AAAAJ",
+                    "5rcYaXoAAAAJ",
+                    "",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VGN1X8Rm01MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRapid%2BPrototyping%2Bof%2BPneumatically%2BActuated%2BInflatable%2BStructures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VGN1X8Rm01MJ&ei=Z9diYqyEGryCy9YPv5-K-Ac&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:VGN1X8Rm01MJ:scholar.google.com/&scioq=Rapid+Prototyping+of+Pneumatically+Actuated+Inflatable+Structures&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r ghosal",
+                "b rana",
+                "i kapur",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Creating user-based interactive experiences facilitated with mediated reality",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:0EnyYjriUFMC",
+            "citation_id": "PI30hN8AAAAJ:0EnyYjriUFMC",
+            "authors": "M Goel, N Mehra, A Parnami",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Creating user-based interactive experiences facilitated with mediated reality",
+                    "author": [
+                        "M Goel",
+                        "N Mehra",
+                        "A Parnami"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "Mediated Reality refers to the ability to add and subtract information from the environment or manipulate one's perception of reality using smart-wearable devices, hand-held devices or computers. Mediated Reality can be divided into Virtual and Augmented. This work focuses on interactive user-experiences of Virtual Reality. Virtual Reality aims to create a believable, interactive, computer-based and explorable alternative reality for the user. These immersions can be used to create real-life scenarios that are otherwise tedious to recreate. It"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/737",
+                "author_id": [
+                    "gVo9jKcAAAAJ",
+                    "jyqm2uScRoYC",
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ClQcTn1y0kcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCreating%2Buser-based%2Binteractive%2Bexperiences%2Bfacilitated%2Bwith%2Bmediated%2Breality%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ClQcTn1y0kcJ&ei=bddiYp_CGM6E6rQPz8uiuAc&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ClQcTn1y0kcJ:scholar.google.com/&scioq=Creating+user-based+interactive+experiences+facilitated+with+mediated+reality&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/737/2016174_NIRMITA.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "m goel",
+                "n mehra",
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Mosquito combatant",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "PI30hN8AAAAJ:M3ejUd6NZC8C",
+            "authors": "A Parnami, V Naik",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mosquito combatant",
+                    "author": [
+                        "A Parnami",
+                        "V Naik"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "According to WHO, mosquito is the most dangerous specie on Earth. It causes deadly  diseases like Malaria,Dengue, Chikungunya etc. Mosquitoes are infecting hundreds of millions"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/681",
+                "author_id": [
+                    "PI30hN8AAAAJ",
+                    "HF7IPeQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IGl8pVwPJ4gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMosquito%2Bcombatant%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IGl8pVwPJ4gJ&ei=ctdiYoS_Ks6E6rQPz8uiuAc&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "aman parnami",
+                "v naik"
+            ]
+        },
+        {
+            "title": "Enabling In situ & context-based motion gesture design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:roLk4NBRz8UC",
+            "citation_id": "PI30hN8AAAAJ:roLk4NBRz8UC",
+            "authors": "A Parnami",
+            "publication": "Georgia Institute of Technology, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enabling In situ & context-based motion gesture design",
+                    "author": [
+                        "A Parnami"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "Motion gestures, detected through body-worn inertial sensors, are an expressive, fast to access input technique, which is ubiquitously supported by mobile and wearable devices. Recent work on gesture authoring tools has shown that interaction designers can create and evaluate gesture recognizers in stationary and controlled environments. However, we still lack a generalized understanding of their design process and how to enable in situ and context-based motion gesture design. This dissertation advances our understanding of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://smartech.gatech.edu/handle/1853/58290",
+                "author_id": [
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hVPv1E7p52cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnabling%2BIn%2Bsitu%2B%2526%2Bcontext-based%2Bmotion%2Bgesture%2Bdesign%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hVPv1E7p52cJ&ei=eNdiYvzqHYySyATlkbrQCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:hVPv1E7p52cJ:scholar.google.com/&scioq=Enabling+In+situ+%26+context-based+motion+gesture+design&hl=en&as_sdt=0,33",
+                "eprint_url": "https://smartech.gatech.edu/bitstream/handle/1853/58290/PARNAMI-DISSERTATION-2017.pdf?sequence=1"
+            },
+            "processed_authors": [
+                "aman parnami"
+            ]
+        },
+        {
+            "title": "Building Vision-based applications of ProCams 3D Shooting Range Simulation & Photometric Compensation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PI30hN8AAAAJ&pagesize=100&citation_for_view=PI30hN8AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "PI30hN8AAAAJ:W7OEmFMy1HYC",
+            "authors": "A Parnami",
+            "publication": "Indian Institute of Technology, Bombay Mumbai, 2008",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Building Vision-based applications of ProCams 3D Shooting Range Simulation & Photometric Compensation",
+                    "author": [
+                        "A Parnami"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "NA",
+                    "abstract": "Human beings have always longed for what they don't have and their imagination seems no bound. Virtual reality was introduced as a concept to give form to imaginations. In virtual reality you can create a virtual world of your own and manipulate it whichever way you want. This has been possible due to introduction of Graphics rendering in personal computers. Still, seeing a whole new world on a computer screen is similar to watching a lion in a cage, detached from reality (jungle, in case of lion). This led to a desire to extend VR systems in a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.academia.edu/download/29316679/report.pdf",
+                "author_id": [
+                    "PI30hN8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uWke4GYVjPkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBuilding%2BVision-based%2Bapplications%2Bof%2BProCams%2B3D%2BShooting%2BRange%2BSimulation%2B%2526%2BPhotometric%2BCompensation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uWke4GYVjPkJ&ei=fddiYrCaGYyuyASD3KfABw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:uWke4GYVjPkJ:scholar.google.com/&scioq=Building+Vision-based+applications+of+ProCams+3D+Shooting+Range+Simulation+%26+Photometric+Compensation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/29316679/report.pdf"
+            },
+            "processed_authors": [
+                "aman parnami"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 381,
+                    "since_2017": 286
+                }
+            },
+            {
+                "h_index": {
+                    "all": 9,
+                    "since_2017": 8
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 9,
+                    "since_2017": 8
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2010,
+                "citations": 1
+            },
+            {
+                "year": 2011,
+                "citations": 1
+            },
+            {
+                "year": 2012,
+                "citations": 1
+            },
+            {
+                "year": 2013,
+                "citations": 1
+            },
+            {
+                "year": 2014,
+                "citations": 9
+            },
+            {
+                "year": 2015,
+                "citations": 29
+            },
+            {
+                "year": 2016,
+                "citations": 48
+            },
+            {
+                "year": 2017,
+                "citations": 51
+            },
+            {
+                "year": 2018,
+                "citations": 48
+            },
+            {
+                "year": 2019,
+                "citations": 52
+            },
+            {
+                "year": 2020,
+                "citations": 70
+            },
+            {
+                "year": 2021,
+                "citations": 56
+            },
+            {
+                "year": 2022,
+                "citations": 9
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Gregory D. Abowd",
+            "link": "https://scholar.google.com/citations?user=gb8sbdcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gb8sbdcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "gb8sbdcAAAAJ",
+            "affiliations": "Dean, College of Engineering, Northeastern University",
+            "email": "Verified email at northeastern.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gb8sbdcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Edison Thomaz",
+            "link": "https://scholar.google.com/citations?user=B0K-DwEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=B0K-DwEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "B0K-DwEAAAAJ",
+            "affiliations": "Assistant Professor, The University of Texas at Austin",
+            "email": "Verified email at utexas.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=B0K-DwEAAAAJ&citpid=3"
+        },
+        {
+            "name": "Irfan Essa",
+            "link": "https://scholar.google.com/citations?user=XM97iScAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XM97iScAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XM97iScAAAAJ",
+            "affiliations": "Distinguished Professor of Computing, Georgia Tech / Research Scientist, Google",
+            "email": "Verified email at gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XM97iScAAAAJ&citpid=2"
+        },
+        {
+            "name": "Gabriel Reyes",
+            "link": "https://scholar.google.com/citations?user=0TCP72IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0TCP72IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "0TCP72IAAAAJ",
+            "affiliations": "Apple Inc. | Georgia Tech PhD",
+            "email": "Verified email at gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0TCP72IAAAAJ&citpid=4"
+        },
+        {
+            "name": "Aryan Saini",
+            "link": "https://scholar.google.com/citations?user=GHYzsRoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=GHYzsRoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "GHYzsRoAAAAJ",
+            "affiliations": "Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GHYzsRoAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vinay Bettadapura",
+            "link": "https://scholar.google.com/citations?user=y-khfzIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=y-khfzIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "y-khfzIAAAAJ",
+            "affiliations": "Staff Software Engineer, Google AI",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=y-khfzIAAAAJ&citpid=6"
+        },
+        {
+            "name": "Thad Starner",
+            "link": "https://scholar.google.com/citations?user=qr8Vo9IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qr8Vo9IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qr8Vo9IAAAAJ",
+            "affiliations": "Professor of Computing, Georgia Institute of Technology",
+            "email": "Verified email at cc.gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qr8Vo9IAAAAJ&citpid=5"
+        },
+        {
+            "name": "W. Keith Edwards",
+            "link": "https://scholar.google.com/citations?user=QYqwwwcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QYqwwwcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QYqwwwcAAAAJ",
+            "affiliations": "Professor, Georgia Tech",
+            "email": "Verified email at cc.gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QYqwwwcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dingtian Zhang",
+            "link": "https://scholar.google.com/citations?user=M1ZdvIAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=M1ZdvIAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "M1ZdvIAAAAAJ",
+            "affiliations": "Senior Scientist at Hyperfine, Inc.",
+            "email": "Verified email at hyperfine.io",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=M1ZdvIAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Cheng Zhang",
+            "link": "https://scholar.google.com/citations?user=Lf5ShKkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Lf5ShKkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Lf5ShKkAAAAJ",
+            "affiliations": "Assistant Professor, Cornell University",
+            "email": "Verified email at cornell.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Lf5ShKkAAAAJ&citpid=5"
+        },
+        {
+            "name": "Rosa I. Arriaga",
+            "link": "https://scholar.google.com/citations?user=TaR3dq4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TaR3dq4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "TaR3dq4AAAAJ",
+            "affiliations": "Associate Professor, Interactive Computing, Georgia Tech",
+            "email": "Verified email at cc.gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TaR3dq4AAAAJ&citpid=7"
+        },
+        {
+            "name": "Ramik Sadana",
+            "link": "https://scholar.google.com/citations?user=Z7wsXIcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Z7wsXIcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Z7wsXIcAAAAJ",
+            "affiliations": "Georgia Institute of Technology",
+            "email": "Verified email at gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Z7wsXIcAAAAJ&citpid=3"
+        },
+        {
+            "name": "Yang Li",
+            "link": "https://scholar.google.com/citations?user=ZZdB48QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZZdB48QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ZZdB48QAAAAJ",
+            "affiliations": "Senior Staff Research Scientist, Google",
+            "email": "Verified email at acm.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ZZdB48QAAAAJ&citpid=4"
+        },
+        {
+            "name": "Susan J Robinson",
+            "link": "https://scholar.google.com/citations?user=BssWrBgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=BssWrBgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "BssWrBgAAAAJ",
+            "affiliations": "CDC (retired); Georgia Tech (grad)",
+            "email": "Verified email at gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=BssWrBgAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sharat Chandran",
+            "link": "https://scholar.google.com/citations?user=pRDtIYcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=pRDtIYcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "pRDtIYcAAAAJ",
+            "affiliations": "Professor of Computer Science and Engineering, IIT Bombay",
+            "email": "Verified email at cse.iitb.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

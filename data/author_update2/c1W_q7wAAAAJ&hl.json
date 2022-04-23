@@ -1,0 +1,581 @@
+{
+    "search_metadata": {
+        "id": "62574cf1d737d78490ca88f5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/bfec4faa87423707/62574cf1d737d78490ca88f5.json",
+        "created_at": "2022-04-13 22:21:37 UTC",
+        "processed_at": "2022-04-13 22:21:37 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=c1W_q7wAAAAJ&hl&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/bfec4faa87423707/62574cf1d737d78490ca88f5.html",
+        "total_time_taken": 0.15,
+        "total_articles": 8,
+        "total_co_authors": 12
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "c1W_q7wAAAAJ&hl",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "hemant yadav",
+        "affiliations": "PhD scholar at IIIT Delhi.",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://raotnameh.github.io/",
+        "interests": [
+            {
+                "title": "speech",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:speech",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspeech"
+            },
+            {
+                "title": "ai",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ai",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aai"
+            },
+            {
+                "title": "ml and dl",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ml_and_dl",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aml_and_dl"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=c1W_q7wAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "End-to-end named entity recognition from English speech",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "c1W_q7wAAAAJ:9yKSN-GCB0IC",
+            "authors": "H Yadav, S Ghosh, Y Yu, RR Shah",
+            "publication": "arXiv preprint arXiv:2005.11184, 2020",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426992428837445174",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5426992428837445174&engine=google_scholar&hl=en",
+                "cites_id": "5426992428837445174"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "End-to-end named entity recognition from English speech",
+                    "author": [
+                        "H Yadav",
+                        "S Ghosh",
+                        "Y Yu",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv:2005.11184",
+                    "abstract": "Named entity recognition (NER) from text has been a widely studied problem and usually extracts semantic information from text. Until now, NER from speech is mostly studied in a two-step pipeline process that includes first applying an automatic speech recognition (ASR) system on an audio sample and then passing the predicted transcript to a NER tagger. In such cases, the error does not propagate from one step to another as both the tasks are not optimized in an end-to-end (E2E) fashion. Recent studies confirm that integrated"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2005.11184",
+                "author_id": [
+                    "c1W_q7wAAAAJ",
+                    "5HKZJHAAAAAJ",
+                    "oqxXhPsAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Nh6XT9yMUEsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnd-to-end%2Bnamed%2Bentity%2Brecognition%2Bfrom%2BEnglish%2Bspeech%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Nh6XT9yMUEsJ&ei=emBkYuWvI4OEmgHx-5DADA&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=5426992428837445174&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Nh6XT9yMUEsJ:scholar.google.com/&scioq=End-to-end+named+entity+recognition+from+English+speech&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2005.11184?ref=https://githubhelp.com"
+            },
+            "processed_authors": [
+                "hemant yadav",
+                "s ghosh",
+                "y yu",
+                "rajiv ratn shah"
+            ]
+        },
+        {
+            "title": "Midas at semeval-2020 task 10: Emphasis selection using label distribution learning and contextual embeddings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "c1W_q7wAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Anand, P Gupta, H Yadav, D Mahata, R Gosangi, H Zhang, RR Shah",
+            "publication": "arXiv preprint arXiv:2009.02619, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=314817387985356396",
+                "serpapi_link": "https://serpapi.com/search.json?cites=314817387985356396&engine=google_scholar&hl=en",
+                "cites_id": "314817387985356396"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Midas at semeval-2020 task 10: Emphasis selection using label distribution learning and contextual embeddings",
+                    "author": [
+                        "S Anand",
+                        "P Gupta",
+                        "H Yadav",
+                        "D Mahata"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "This paper presents our submission to the SemEval 2020-Task 10 on emphasis selection in written text. We approach this emphasis selection problem as a sequence labeling task where we represent the underlying text with various contextual embedding models. We also employ label distribution learning to account for annotator disagreements. We experiment with the choice of model architectures, trainability of layers, and different contextual embeddings. Our best performing architecture is an ensemble of different models, which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2009.02619",
+                "author_id": [
+                    "o7aZlRYAAAAJ",
+                    "F-brZCIAAAAJ",
+                    "c1W_q7wAAAAJ",
+                    "8F1SwO0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bMb7E790XgQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMidas%2Bat%2Bsemeval-2020%2Btask%2B10:%2BEmphasis%2Bselection%2Busing%2Blabel%2Bdistribution%2Blearning%2Band%2Bcontextual%2Bembeddings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bMb7E790XgQJ&ei=fmBkYr7eKO-Sy9YPs_mY8AM&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=314817387985356396&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bMb7E790XgQJ:scholar.google.com/&scioq=Midas+at+semeval-2020+task+10:+Emphasis+selection+using+label+distribution+learning+and+contextual+embeddings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2009.02619"
+            },
+            "processed_authors": [
+                "saket anand",
+                "p gupta",
+                "hemant yadav",
+                "d mahata",
+                "r gosangi",
+                "h zhang",
+                "rajiv ratn shah"
+            ]
+        },
+        {
+            "title": "Development of A Mechanical Rotary Part Feeding System with Performance Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "c1W_q7wAAAAJ:d1gkVwhDpl0C",
+            "authors": "H Yadav, M Chawla, P Khanna",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6403386661974670387",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6403386661974670387&engine=google_scholar&hl=en",
+                "cites_id": "6403386661974670387"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Development of A Mechanical Rotary Part Feeding System with Performance Analysis",
+                    "author": [
+                        "H Yadav",
+                        "M Chawla",
+                        "P Khanna"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "c1W_q7wAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:M3x5Ej5m3VgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDevelopment%2Bof%2BA%2BMechanical%2BRotary%2BPart%2BFeeding%2BSystem%2Bwith%2BPerformance%2BAnalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=M3x5Ej5m3VgJ&ei=gmBkYp_KFY2ymgHg1rfQDQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=6403386661974670387&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:M3x5Ej5m3VgJ:scholar.google.com/&scioq=Development+of+A+Mechanical+Rotary+Part+Feeding+System+with+Performance+Analysis&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "hemant yadav",
+                "m chawla",
+                "p khanna"
+            ]
+        },
+        {
+            "title": "A Survey of Multilingual Models for Automatic Speech Recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "c1W_q7wAAAAJ:LkGwnXOMwfcC",
+            "authors": "H Yadav, S Sitaram",
+            "publication": "arXiv preprint arXiv:2202.12576, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Survey of Multilingual Models for Automatic Speech Recognition",
+                    "author": [
+                        "H Yadav",
+                        "S Sitaram"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2202.12576",
+                    "abstract": "Although Automatic Speech Recognition (ASR) systems have achieved human-like performance for a few languages, the majority of the world's languages do not have usable systems due to the lack of large speech datasets to train these models. Cross-lingual transfer is an attractive solution to this problem, because low-resource languages can potentially benefit from higher-resource languages either through transfer learning, or being jointly trained in the same multilingual model. The problem of cross-lingual transfer has"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2202.12576",
+                "author_id": [
+                    "c1W_q7wAAAAJ",
+                    "PUxwYrkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hXnlM-CsC84J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BSurvey%2Bof%2BMultilingual%2BModels%2Bfor%2BAutomatic%2BSpeech%2BRecognition%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hXnlM-CsC84J&ei=hmBkYr3nDOiSy9YPp-OyiAE&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2202.12576"
+            },
+            "processed_authors": [
+                "hemant yadav",
+                "s sitaram"
+            ]
+        },
+        {
+            "title": "Intent Classification Using Pre-Trained Embeddings For Low Resource Languages",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "c1W_q7wAAAAJ:eQOLeE2rZwMC",
+            "authors": "H Yadav, A Gupta, SK Rallabandi, AW Black, RR Shah",
+            "publication": "arXiv preprint arXiv:2110.09264, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Intent Classification Using Pre-Trained Embeddings For Low Resource Languages",
+                    "author": [
+                        "H Yadav",
+                        "A Gupta",
+                        "SK Rallabandi",
+                        "AW Black"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Building Spoken Language Understanding (SLU) systems that do not rely on language specific Automatic Speech Recognition (ASR) is an important yet less explored problem in language processing. In this paper, we present a comparative study aimed at employing a pre-trained acoustic model to perform SLU in low resource scenarios. Specifically, we use three different embeddings extracted using Allosaurus, a pre-trained universal phone decoder:(1) Phone (2) Panphone, and (3) Allo embeddings. These embeddings are then"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2110.09264",
+                "author_id": [
+                    "c1W_q7wAAAAJ",
+                    "v80j6o0AAAAJ",
+                    "7jXvu7MAAAAJ",
+                    "Es-YRKMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OHiWclhzmrgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntent%2BClassification%2BUsing%2BPre-Trained%2BEmbeddings%2BFor%2BLow%2BResource%2BLanguages%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OHiWclhzmrgJ&ei=iGBkYt7UL--Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:OHiWclhzmrgJ:scholar.google.com/&scioq=Intent+Classification+Using+Pre-Trained+Embeddings+For+Low+Resource+Languages&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2110.09264"
+            },
+            "processed_authors": [
+                "hemant yadav",
+                "anubha gupta",
+                "sk rallabandi",
+                "aw black",
+                "rajiv ratn shah"
+            ]
+        },
+        {
+            "title": "Depth Estimation Using Convolutional Neural Network with Transfer Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:qjMakFHDy7sC",
+            "citation_id": "c1W_q7wAAAAJ:qjMakFHDy7sC",
+            "authors": "U Soni, H Yadav",
+            "publication": "Metaheuristic and Evolutionary Computation: Algorithms and Applications, 649-664, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Depth Estimation Using Convolutional Neural Network with Transfer Learning",
+                    "author": [
+                        "U Soni",
+                        "H Yadav"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Metaheuristic and Evolutionary Computation \u2026",
+                    "abstract": "Predicting depth is crucial to understand the 3D geometry of a scene. While,\u201cfor stereo images, local correspondence suffices for estimation, finding depth from a single image is less straightforward, requiring integration of both global and local information\u201d. In this chapter, we deal with depth estimation using Convolutional Neural Network (CNN) using transfer learning as a baseline. We propose a not so deep CNN, which uses transfer learning to extract low-level features. We employ a fully convolutional architecture, which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-981-15-7571-6_30",
+                "author_id": [
+                    "glxZ4TQAAAAJ",
+                    "c1W_q7wAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hylhZanvVlgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDepth%2BEstimation%2BUsing%2BConvolutional%2BNeural%2BNetwork%2Bwith%2BTransfer%2BLearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hylhZanvVlgJ&ei=i2BkYvbtHoySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:hylhZanvVlgJ:scholar.google.com/&scioq=Depth+Estimation+Using+Convolutional+Neural+Network+with+Transfer+Learning&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "u soni",
+                "hemant yadav"
+            ]
+        },
+        {
+            "title": "De-STT: De-entaglement of unwanted Nuisances and Biases in Speech to Text System using Adversarial Forgetting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "c1W_q7wAAAAJ:_FxGoFyzp5QC",
+            "authors": "H Yadav, J Singh, A Anshuman Singh, R Mittal, R Ratn Shah",
+            "publication": "arXiv e-prints, arXiv: 2011.12979, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "De-STT: De-entaglement of unwanted Nuisances and Biases in Speech to Text System using Adversarial Forgetting",
+                    "author": [
+                        "H Yadav",
+                        "J Singh",
+                        "A Anshuman Singh",
+                        "R Mittal"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv e \u2026",
+                    "abstract": "Training robust Speech to Text (STT) system require\" tens of thousand\" of hours of data. Variability present in the dataset, in the form of unwanted nuisances (noise) and biases (accent, gender or age) is the reason for the need of large datasets to learn general representations, which is unfeasible for low resource languages. A recently proposed deep learning approach to remove these unwanted features, called adversarial forgetting, was able to produce better results on computer vision tasks. Motivated by this, in this paper, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201112979Y/abstract",
+                "author_id": [
+                    "",
+                    "D5B5cysAAAAJ",
+                    "iq-ImkkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:_XvbiOzYhsgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDe-STT:%2BDe-entaglement%2Bof%2Bunwanted%2BNuisances%2Band%2BBiases%2Bin%2BSpeech%2Bto%2BText%2BSystem%2Busing%2BAdversarial%2BForgetting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_XvbiOzYhsgJ&ei=jmBkYpiGOI6pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:_XvbiOzYhsgJ:scholar.google.com/&scioq=De-STT:+De-entaglement+of+unwanted+Nuisances+and+Biases+in+Speech+to+Text+System+using+Adversarial+Forgetting&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "hemant yadav",
+                "j singh",
+                "a anshuman singh",
+                "r mittal",
+                "rajiv ratn shah"
+            ]
+        },
+        {
+            "title": "Automatic Speech Recognition for Real Time Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=c1W_q7wAAAAJ&pagesize=100&citation_for_view=c1W_q7wAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "c1W_q7wAAAAJ:u-x6o8ySG0sC",
+            "authors": "R Singh, H Yadav, M Sharma, S Gosain, RR Shah",
+            "publication": "2019 IEEE Fifth International Conference on Multimedia Big Data (BigMM), 189-198, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automatic Speech Recognition for Real Time Systems",
+                    "author": [
+                        "R Singh",
+                        "H Yadav",
+                        "M Sharma"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Fifth \u2026",
+                    "abstract": "Automatic Speech Recognition (ASR) systems have proven to be a useful tool to perform various day to day operations when used along with systems like Personal AI Assistants. Various industries require ASR to be trained in their domains. Music on Demand (MoD), over IVR, is one such industry where the user interacts with the dialogue system to play music using voice commands only. Domain adaptation of the model is expected to perform well on this domain as systems trained on public datasets are very generic in nature and not"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8919271/",
+                "author_id": [
+                    "",
+                    "c1W_q7wAAAAJ",
+                    "m74gCtYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Aae19YuU5KMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomatic%2BSpeech%2BRecognition%2Bfor%2BReal%2BTime%2BSystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Aae19YuU5KMJ&ei=kWBkYsfCHZqSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Aae19YuU5KMJ:scholar.google.com/&scioq=Automatic+Speech+Recognition+for+Real+Time+Systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r singh",
+                "hemant yadav",
+                "m sharma",
+                "s gosain",
+                "rajiv ratn shah"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 18,
+                    "since_2017": 18
+                }
+            },
+            {
+                "h_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 2
+            },
+            {
+                "year": 2019,
+                "citations": 1
+            },
+            {
+                "year": 2020,
+                "citations": 2
+            },
+            {
+                "year": 2021,
+                "citations": 10
+            },
+            {
+                "year": 2022,
+                "citations": 3
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=c1W_q7wAAAAJ",
+        "available": 0,
+        "not_available": 1
+    },
+    "co_authors": [
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Yi Yu",
+            "link": "https://scholar.google.com/citations?user=oqxXhPsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oqxXhPsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oqxXhPsAAAAJ",
+            "affiliations": "Digital Content and Media Sciences Research Division, National Institute of Informatics",
+            "email": "Verified email at nii.ac.jp",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oqxXhPsAAAAJ&citpid=17"
+        },
+        {
+            "name": "Sreyan Ghosh",
+            "link": "https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5HKZJHAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "5HKZJHAAAAAJ",
+            "affiliations": "Software Engineer at Cisco Systems, Bangalore, Research Collaborator at MIDAS@IIITD, IITM",
+            "email": "Verified email at cisco.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5HKZJHAAAAAJ&citpid=1"
+        },
+        {
+            "name": "SARTHAK ANAND",
+            "link": "https://scholar.google.com/citations?user=o7aZlRYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=o7aZlRYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "o7aZlRYAAAAJ",
+            "affiliations": "Netaji Subhas Institute of Technology",
+            "email": "Verified email at nsit.net.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=o7aZlRYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Debanjan Mahata",
+            "link": "https://scholar.google.com/citations?user=8F1SwO0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8F1SwO0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "8F1SwO0AAAAJ",
+            "affiliations": "Director of AI @ Moody's Analytics, Adjunct Faculty @ IIIT-Delhi",
+            "email": "Verified email at moodys.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8F1SwO0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Rakesh Gosangi",
+            "link": "https://scholar.google.com/citations?user=9KfWv6sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9KfWv6sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "9KfWv6sAAAAJ",
+            "affiliations": "Senior Research Scientist @ Bloomberg",
+            "email": "Verified email at bloomberg.net",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9KfWv6sAAAAJ&citpid=1"
+        },
+        {
+            "name": "Mohit Sharma",
+            "link": "https://scholar.google.com/citations?user=m74gCtYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=m74gCtYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "m74gCtYAAAAJ",
+            "affiliations": "PhD Scholar, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=m74gCtYAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dr. Umang Soni",
+            "link": "https://scholar.google.com/citations?user=glxZ4TQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=glxZ4TQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "glxZ4TQAAAAJ",
+            "affiliations": "Assistant Professor, NSUT",
+            "email": "Verified email at nsut.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=glxZ4TQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Atul Anshuman Singh",
+            "link": "https://scholar.google.com/citations?user=iq-ImkkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=iq-ImkkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "iq-ImkkAAAAJ",
+            "affiliations": "Airtel X Labs",
+            "email": "Verified email at nsit.net.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Akshat Gupta",
+            "link": "https://scholar.google.com/citations?user=v80j6o0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=v80j6o0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "v80j6o0AAAAJ",
+            "affiliations": "Carnegie Mellon University",
+            "email": "Verified email at andrew.cmu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Alan W Black",
+            "link": "https://scholar.google.com/citations?user=Es-YRKMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Es-YRKMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Es-YRKMAAAAJ",
+            "affiliations": "Professor, Language Technologies Institute, Carnegie Mellon University",
+            "email": "Verified email at cs.cmu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Es-YRKMAAAAJ&citpid=3"
+        },
+        {
+            "name": "SaiKrishna Rallabandi",
+            "link": "https://scholar.google.com/citations?user=7jXvu7MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7jXvu7MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7jXvu7MAAAAJ",
+            "affiliations": "Research Student, Carnegie Mellon University",
+            "email": "Verified email at andrew.cmu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7jXvu7MAAAAJ&citpid=1"
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "search_metadata": {
+        "id": "62574caa2ff421d946597d87",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/35546c81331ea87c/62574caa2ff421d946597d87.json",
+        "created_at": "2022-04-13 22:20:26 UTC",
+        "processed_at": "2022-04-13 22:20:26 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=XC7Hm80AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/35546c81331ea87c/62574caa2ff421d946597d87.html",
+        "total_time_taken": 0.71,
+        "total_articles": 5,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "XC7Hm80AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Aditya Chetan",
+        "affiliations": "Indraprastha Institute of Information Technology, Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://justachetan.github.io/",
+        "interests": [
+            {
+                "title": "machine learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "natural language processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:natural_language_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing"
+            },
+            {
+                "title": "computer vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "online social networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:online_social_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aonline_social_networks"
+            },
+            {
+                "title": "scientific computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:scientific_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ascientific_computing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=XC7Hm80AAAAJ&citpid=13"
+    },
+    "articles": [
+        {
+            "title": "Retweet us, we will retweet you: Spotting collusive retweeters involved in blackmarket services",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XC7Hm80AAAAJ&pagesize=100&citation_for_view=XC7Hm80AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "XC7Hm80AAAAJ:u-x6o8ySG0sC",
+            "authors": "HS Dutta, A Chetan, B Joshi, T Chakraborty",
+            "publication": "2018 IEEE/ACM International Conference on Advances in Social Networks \u2026, 2018",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8064191605020318255",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8064191605020318255&engine=google_scholar&hl=en",
+                "cites_id": "8064191605020318255"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Retweet us, we will retweet you: Spotting collusive retweeters involved in blackmarket services",
+                    "author": [
+                        "HS Dutta",
+                        "A Chetan",
+                        "B Joshi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE/ACM \u2026",
+                    "abstract": "Twitter has increasingly become a popular platform to share news and user opinion. A tweet is considered to be important if it receives high number of affirmative reactions from other Twitter users via Retweets. Retweet count is thus considered as a surrogate measure for positive crowd-sourced reactions-high number of retweets of a tweet not only help the tweet being broadcasted, but also aid in making its topic trending. This in turn bolsters the social reputation of the author of the tweet. Since social reputation/impact of users/t weets"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8508801/",
+                "author_id": [
+                    "4UrQjwUAAAAJ",
+                    "XC7Hm80AAAAJ",
+                    "j0vHYhcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:L1rs8YnD6W8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRetweet%2Bus,%2Bwe%2Bwill%2Bretweet%2Byou:%2BSpotting%2Bcollusive%2Bretweeters%2Binvolved%2Bin%2Bblackmarket%2Bservices%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=L1rs8YnD6W8J&ei=41NkYqjRGZGJmwGY-qmYDQ&json=",
+                "num_citations": 30,
+                "citedby_url": "/scholar?cites=8064191605020318255&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:L1rs8YnD6W8J:scholar.google.com/&scioq=Retweet+us,+we+will+retweet+you:+Spotting+collusive+retweeters+involved+in+blackmarket+services&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1806.08979"
+            }
+        },
+        {
+            "title": "Corerank: Ranking to detect users involved in blackmarket-based collusive retweeting activities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XC7Hm80AAAAJ&pagesize=100&citation_for_view=XC7Hm80AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "XC7Hm80AAAAJ:d1gkVwhDpl0C",
+            "authors": "A Chetan, B Joshi, HS Dutta, T Chakraborty",
+            "publication": "Proceedings of the Twelfth ACM International Conference on Web Search and \u2026, 2019",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11513636187416649853",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11513636187416649853&engine=google_scholar&hl=en",
+                "cites_id": "11513636187416649853"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Corerank: Ranking to detect users involved in blackmarket-based collusive retweeting activities",
+                    "author": [
+                        "A Chetan",
+                        "B Joshi",
+                        "HS Dutta"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the Twelfth \u2026",
+                    "abstract": "Twitter's popularity has fostered the emergence of various illegal user activities-one such activity is to artificially bolster visibility of tweets by gaining large number of retweets within a short time span. The natural way to gain visibility is time-consuming. Therefore, users who want their tweets to get quick visibility try to explore shortcuts-one such shortcut is to approach the blackmarket services, and gain retweets for their own tweets by retweeting other customers' tweets. Thus the users intrinsically become a part of a collusive ecosystem"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3289600.3291010",
+                "author_id": [
+                    "XC7Hm80AAAAJ",
+                    "j0vHYhcAAAAJ",
+                    "4UrQjwUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fWANUBynyJ8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCorerank:%2BRanking%2Bto%2Bdetect%2Busers%2Binvolved%2Bin%2Bblackmarket-based%2Bcollusive%2Bretweeting%2Bactivities%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fWANUBynyJ8J&ei=5lNkYuHVJ_mQ6rQP5OqKqAo&json=",
+                "num_citations": 21,
+                "citedby_url": "/scholar?cites=11513636187416649853&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fWANUBynyJ8J:scholar.google.com/&scioq=Corerank:+Ranking+to+detect+users+involved+in+blackmarket-based+collusive+retweeting+activities&hl=en&as_sdt=0,33",
+                "eprint_url": "https://justachetan.github.io/research/corerank-2019.pdf"
+            }
+        },
+        {
+            "title": "Analyzing and Detecting Collusive Users Involved in Blackmarket Retweeting Activities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XC7Hm80AAAAJ&pagesize=100&citation_for_view=XC7Hm80AAAAJ:qjMakFHDy7sC",
+            "citation_id": "XC7Hm80AAAAJ:qjMakFHDy7sC",
+            "authors": "U Arora, HS Dutta, B Joshi, A Chetan, T Chakraborty",
+            "publication": "ACM Transactions on Intelligent Systems and Technology (TIST) 11 (3), 1-24, 2020",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14975111970141807511",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14975111970141807511&engine=google_scholar&hl=en",
+                "cites_id": "14975111970141807511"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Analyzing and detecting collusive users involved in blackmarket retweeting activities",
+                    "author": [
+                        "U Arora",
+                        "HS Dutta",
+                        "B Joshi",
+                        "A Chetan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "ACM Transactions on \u2026",
+                    "abstract": "With the rise in popularity of social media platforms like Twitter, having higher influence on these platforms has a greater value attached to it, since it has the power to influence many decisions in the form of brand promotions and shaping opinions. However, blackmarket services that allow users to inorganically gain influence are a threat to the credibility of these social networking platforms. Twitter users can gain inorganic appraisals in the form of likes, retweets, and follows through these blackmarket services either by paying for them or by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3380537",
+                "author_id": [
+                    "tTYGhmMAAAAJ",
+                    "4UrQjwUAAAAJ",
+                    "j0vHYhcAAAAJ",
+                    "XC7Hm80AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:l6MAzP5I0s8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalyzing%2Band%2BDetecting%2BCollusive%2BUsers%2BInvolved%2Bin%2BBlackmarket%2BRetweeting%2BActivities%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=l6MAzP5I0s8J&ei=6VNkYr20NO-Sy9YPs_mY8AM&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=14975111970141807511&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:l6MAzP5I0s8J:scholar.google.com/&scioq=Analyzing+and+Detecting+Collusive+Users+Involved+in+Blackmarket+Retweeting+Activities&hl=en&as_sdt=0,33",
+                "eprint_url": "https://uditarora.com/documents/tist-2020.pdf"
+            }
+        },
+        {
+            "title": "Generating clues for gender based occupation de-biasing in text",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XC7Hm80AAAAJ&pagesize=100&citation_for_view=XC7Hm80AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "XC7Hm80AAAAJ:u5HHmVD_uO8C",
+            "authors": "N Madaan, G Singh, S Mehta, A Chetan, B Joshi",
+            "publication": "arXiv preprint arXiv:1804.03839, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8588282779090763652",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8588282779090763652&engine=google_scholar&hl=en",
+                "cites_id": "8588282779090763652"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Generating clues for gender based occupation de-biasing in text",
+                    "author": [
+                        "N Madaan",
+                        "G Singh",
+                        "S Mehta",
+                        "A Chetan"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Vast availability of text data has enabled widespread training and use of AI systems that not only learn and predict attributes from the text but also generate text automatically. However, these AI models also learn gender, racial and ethnic biases present in the training data. In this paper, we present the first system that discovers the possibility that a given text portrays a gender stereotype associated with an occupation. If the possibility exists, the system offers counter-evidences of opposite gender also being associated with the same occupation in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1804.03839",
+                "author_id": [
+                    "yd3R2X4AAAAJ",
+                    "",
+                    "NXA956gAAAAJ",
+                    "XC7Hm80AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hD9PVq-1L3cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGenerating%2Bclues%2Bfor%2Bgender%2Bbased%2Boccupation%2Bde-biasing%2Bin%2Btext%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hD9PVq-1L3cJ&ei=7lNkYoHwKuiSy9YPp-OyiAE&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=8588282779090763652&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:hD9PVq-1L3cJ:scholar.google.com/&scioq=Generating+clues+for+gender+based+occupation+de-biasing+in+text&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1804.03839"
+            }
+        },
+        {
+            "title": "Did You \u201cRead\u201d the Next Episode? Using Textual Cues for Predicting Podcast Popularity",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=XC7Hm80AAAAJ&pagesize=100&citation_for_view=XC7Hm80AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "XC7Hm80AAAAJ:zYLM7Y9cAGgC",
+            "authors": "B Joshi, S Mittal, A Chetan",
+            "publication": "Proceedings of the 1st Workshop on NLP for Music and Audio (NLP4MusA), 13-17, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Did You \u201cRead\u201d the Next Episode? Using Textual Cues for Predicting Podcast Popularity",
+                    "author": [
+                        "B Joshi",
+                        "S Mittal",
+                        "A Chetan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the 1st Workshop on \u2026",
+                    "abstract": "Podcasts are an easily accessible medium of entertainment and information, often covering content from a variety of domains. However, only a few of them garner enough attention to be deemed 'popular'. In this work, we investigate the textual cues that assist in differing popular podcasts from unpopular ones. Despite having very similar polarity and subjectivity, the lexical cues contained in the podcasts are significantly different. Thus, we employ a triplet-based training method, to learn a text-based representation of a podcast, which is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aclanthology.org/2020.nlp4musa-1.3.pdf",
+                "author_id": [
+                    "j0vHYhcAAAAJ",
+                    "wpjLOG4AAAAJ",
+                    "XC7Hm80AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9r_ssIsX3twJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDid%2BYou%2B%25E2%2580%259CRead%25E2%2580%259D%2Bthe%2BNext%2BEpisode%253F%2BUsing%2BTextual%2BCues%2Bfor%2BPredicting%2BPodcast%2BPopularity%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9r_ssIsX3twJ&ei=8VNkYuudNOHDywSSipaYAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:9r_ssIsX3twJ:scholar.google.com/&scioq=Did+You+%E2%80%9CRead%E2%80%9D+the+Next+Episode%3F+Using+Textual+Cues+for+Predicting+Podcast+Popularity&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aclanthology.org/2020.nlp4musa-1.3.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 62,
+                    "since_2017": 62
+                }
+            },
+            {
+                "h_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 2
+            },
+            {
+                "year": 2019,
+                "citations": 14
+            },
+            {
+                "year": 2020,
+                "citations": 14
+            },
+            {
+                "year": 2021,
+                "citations": 29
+            },
+            {
+                "year": 2022,
+                "citations": 3
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=XC7Hm80AAAAJ",
+        "available": 3,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Brihi Joshi",
+            "link": "https://scholar.google.com/citations?user=j0vHYhcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=j0vHYhcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "j0vHYhcAAAAJ",
+            "affiliations": "University of Southern California",
+            "email": "Verified email at usc.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=j0vHYhcAAAAJ&citpid=2"
+        },
+        {
+            "name": "Tanmoy Chakraborty",
+            "link": "https://scholar.google.com/citations?user=C5S9JnIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=C5S9JnIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "C5S9JnIAAAAJ",
+            "affiliations": "IIIT-Delhi, India",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=C5S9JnIAAAAJ&citpid=6"
+        },
+        {
+            "name": "Hridoy Sankar Dutta",
+            "link": "https://scholar.google.com/citations?user=4UrQjwUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4UrQjwUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4UrQjwUAAAAJ",
+            "affiliations": "University of Cambridge",
+            "email": "Verified email at cam.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4UrQjwUAAAAJ&citpid=12"
+        },
+        {
+            "name": "Udit Arora",
+            "link": "https://scholar.google.com/citations?user=tTYGhmMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tTYGhmMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tTYGhmMAAAAJ",
+            "affiliations": "Graduate student at Courant Institute of Mathematical Sciences, New York University",
+            "email": "Verified email at nyu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tTYGhmMAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nishtha Madaan",
+            "link": "https://scholar.google.com/citations?user=yd3R2X4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yd3R2X4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yd3R2X4AAAAJ",
+            "affiliations": "Research Staff Member at IBM Research AI - INDIA",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yd3R2X4AAAAJ&citpid=6"
+        },
+        {
+            "name": "Sameep Mehta",
+            "link": "https://scholar.google.com/citations?user=NXA956gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NXA956gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "NXA956gAAAAJ",
+            "affiliations": "IBM Research India",
+            "email": "Verified email at in.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NXA956gAAAAJ&citpid=1"
+        },
+        {
+            "name": "Shravika Mittal",
+            "link": "https://scholar.google.com/citations?user=wpjLOG4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wpjLOG4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "wpjLOG4AAAAJ",
+            "affiliations": "Indraprastha Institute of Information Technology, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

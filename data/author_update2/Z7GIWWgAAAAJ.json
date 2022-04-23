@@ -1,0 +1,997 @@
+{
+    "search_metadata": {
+        "id": "62574c6bd036a7d902b8863b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/75e060f4066e43ee/62574c6bd036a7d902b8863b.json",
+        "created_at": "2022-04-13 22:19:23 UTC",
+        "processed_at": "2022-04-13 22:19:23 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=Z7GIWWgAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/75e060f4066e43ee/62574c6bd036a7d902b8863b.html",
+        "total_time_taken": 0.22,
+        "total_articles": 19,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "Z7GIWWgAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Shelly Garg",
+        "affiliations": "Research Scholar, IIIT-D",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "VLSI",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:vlsi",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Avlsi"
+            },
+            {
+                "title": "Nanoelectronic Devices",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:nanoelectronic_devices",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ananoelectronic_devices"
+            },
+            {
+                "title": "Tunnel FETs",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:tunnel_fets",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atunnel_fets"
+            },
+            {
+                "title": "Analog Circuit Design",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:analog_circuit_design",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aanalog_circuit_design"
+            },
+            {
+                "title": "Verilog",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:verilog",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Averilog"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Z7GIWWgAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Suppression of ambipolar current in tunnel FETs using drain-pocket: Proposal and analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "Z7GIWWgAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Garg, S Saurabh",
+            "publication": "Superlattices and Microstructures, 2017",
+            "cited_by": {
+                "value": 56,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1124316437673591139",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1124316437673591139&engine=google_scholar&hl=en",
+                "cites_id": "1124316437673591139"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Suppression of ambipolar current in tunnel FETs using drain-pocket: Proposal and analysis",
+                    "author": [
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Superlattices and Microstructures",
+                    "abstract": "In this paper, we investigate the impact of a drain-pocket (DP) adjacent to the drain region in Tunnel Field-Effect Transistors (TFETs) to effectively suppress the ambipolar current. Using calibrated two-dimensional device simulation, we examine the impact of DP in Double Gate TFET (DGTFET). We demonstrate the superiority of the DP technique over the existing techniques in controlling the ambipolar current. In particular, the addition of DP to a TFET is able to fully suppress the ambipolar current even when TFET is biased at high negative gate"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0749603617320906",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Y8Gq2tdfmg8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSuppression%2Bof%2Bambipolar%2Bcurrent%2Bin%2Btunnel%2BFETs%2Busing%2Bdrain-pocket:%2BProposal%2Band%2Banalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Y8Gq2tdfmg8J&ei=9VNkYradC4OEmgHx-5DADA&json=",
+                "num_citations": 56,
+                "citedby_url": "/scholar?cites=1124316437673591139&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Y8Gq2tdfmg8J:scholar.google.com/&scioq=Suppression+of+ambipolar+current+in+tunnel+FETs+using+drain-pocket:+Proposal+and+analysis&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Improving the scalability of SOI-based Tunnel FETs using Ground Plane in Buried Oxide",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "Z7GIWWgAAAAJ:3fE2CSJIrl8C",
+            "authors": "S Garg, S Saurabh",
+            "publication": "Journal of Electron Devices Society, 1-9, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14121597187732833726",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14121597187732833726&engine=google_scholar&hl=en",
+                "cites_id": "14121597187732833726"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Improving the scalability of SOI-based tunnel FETs using ground plane in buried oxide",
+                    "author": [
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Journal of the Electron Devices \u2026",
+                    "abstract": "Tunnel field-effect transistors (TFETs) are known to exhibit degraded electrical characteristics at smaller channel lengths, primarily due to direct source-to-drain band-to-band tunneling (BTBT). In this paper, we propose a technique to suppress direct source-to-drain BTBT by increasing the effective distance between the source and the drain. We propose to add a ground plane (GP) in the buried oxide of a silicon-on-insulator (SOI) TFET which depletes the drain and increases the effective source-to-drain distance. Using 2-D"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8681162/",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:voX4o9L9-cMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImproving%2Bthe%2Bscalability%2Bof%2BSOI-based%2BTunnel%2BFETs%2Busing%2BGround%2BPlane%2Bin%2BBuried%2BOxide%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=voX4o9L9-cMJ&ei=-FNkYsC4N--Sy9YPs_mY8AM&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=14121597187732833726&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:voX4o9L9-cMJ:scholar.google.com/&scioq=Improving+the+scalability+of+SOI-based+Tunnel+FETs+using+Ground+Plane+in+Buried+Oxide&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6245494/8656606/08681162.pdf"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Realizing logic functions using single double-gate tunnel FETs: A simulation study",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:MXK_kJrjxJIC",
+            "citation_id": "Z7GIWWgAAAAJ:MXK_kJrjxJIC",
+            "authors": "S Banerjee, S Garg, S Saurabh",
+            "publication": "IEEE Electron Device Letters 39 (5), 773-776, 2018",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9439550217324398868",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9439550217324398868&engine=google_scholar&hl=en",
+                "cites_id": "9439550217324398868"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Realizing logic functions using single double-gate tunnel FETs: A simulation study",
+                    "author": [
+                        "S Banerjee",
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Electron Device Letters",
+                    "abstract": "In this letter, a single double-gate tunnel field-effect transistor (DGTFET) is proposed to realize different logic functions and investigated using two-dimensional device simulations. It is shown that a single DGTFET can realize logic functions, such as AND, OR, NAND, and NOR by biasing the two gates independently. The key elements in obtaining different logic functions using a DGTFET are employing a gate-source overlap and choosing an appropriate silicon body thickness. Furthermore, it is demonstrated that two-input CMOS"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8325265/",
+                "author_id": [
+                    "",
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FAkV5-gEAIMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRealizing%2Blogic%2Bfunctions%2Busing%2Bsingle%2Bdouble-gate%2Btunnel%2BFETs:%2BA%2Bsimulation%2Bstudy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FAkV5-gEAIMJ&ei=AFRkYqSbPM6E6rQP5-KmKA&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=9439550217324398868&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FAkV5-gEAIMJ:scholar.google.com/&scioq=Realizing+logic+functions+using+single+double-gate+tunnel+FETs:+A+simulation+study&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "s banerjee",
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Implementing logic functions using independently-controlled gate in double-gate tunnel FETs: Investigation and analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:Zph67rFs4hoC",
+            "citation_id": "Z7GIWWgAAAAJ:Zph67rFs4hoC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Access 7, 117591-117599, 2019",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4808412027649020024",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4808412027649020024&engine=google_scholar&hl=en",
+                "cites_id": "4808412027649020024"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Implementing logic functions using independently-controlled gate in double-gate tunnel FETs: Investigation and analysis",
+                    "author": [
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Access",
+                    "abstract": "Recently, a compact realization of logic gates using double-gate tunnel field effect transistors (DGTFETs) with independently-controlled gate has been proposed. The key elements in the proposed implementation are the suppression of the tunneling at the surface using gate-source overlap and enable tunneling inside the TFET body by choosing appropriate silicon body thickness. Though these implementations are compact, our study reveals that there are a few critical problems: high average subthreshold swing (SS avg)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8808848/",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:eFC8WUPpukIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImplementing%2Blogic%2Bfunctions%2Busing%2Bindependently-controlled%2Bgate%2Bin%2Bdouble-gate%2Btunnel%2BFETs:%2BInvestigation%2Band%2Banalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=eFC8WUPpukIJ&ei=BlRkYrOgG86E6rQP5-KmKA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=4808412027649020024&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:eFC8WUPpukIJ:scholar.google.com/&scioq=Implementing+logic+functions+using+independently-controlled+gate+in+double-gate+tunnel+FETs:+Investigation+and+analysis&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/8600701/08808848.pdf"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Exploiting within-channel tunneling in a nanoscale tunnel field-effect transistor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "Z7GIWWgAAAAJ:qxL8FJ1GzNcC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Open Journal of Nanotechnology 1, 100-108, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12645677757714729263",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12645677757714729263&engine=google_scholar&hl=en",
+                "cites_id": "12645677757714729263"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploiting within-channel tunneling in a nanoscale tunnel field-effect transistor",
+                    "author": [
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Open Journal of Nanotechnology",
+                    "abstract": "In this paper, using device simulations, we investigate electrical characteristics of a tunnel field-effect transistor (TFET) in which band-to-band tunneling (BTBT) occurs dominantly within the channel, rather than at source-channel junction. The within-channel BTBT is enabled by sharp band-bending induced by the dual material gate (DMG). The work-functions of two metal gates are chosen, such that the surface potential profile exhibits a distinct step at the DMG interface. Consequently, even under equilibrium condition, a high"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9226440/",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LwmlxOt4fq8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploiting%2Bwithin-channel%2Btunneling%2Bin%2Ba%2Bnanoscale%2Btunnel%2Bfield-effect%2Btransistor%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LwmlxOt4fq8J&ei=ElRkYsjFDouKmgGY1YjABQ&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=12645677757714729263&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LwmlxOt4fq8J:scholar.google.com/&scioq=Exploiting+within-channel+tunneling+in+a+nanoscale+tunnel+field-effect+transistor&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/8782713/8820179/09226440.pdf"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Realizing XOR and XNOR functions using tunnel field-effect transistors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "Z7GIWWgAAAAJ:M3ejUd6NZC8C",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Journal of the Electron Devices Society 8, 1001-1009, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5471311469594442865",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5471311469594442865&engine=google_scholar&hl=en",
+                "cites_id": "5471311469594442865"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Realizing XOR and XNOR functions using tunnel field-effect transistors",
+                    "author": [
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Journal of the Electron Devices \u2026",
+                    "abstract": "Recently, a few compact logic function realizations such as AND, OR, NAND and NOR have been proposed using double-gate tunnel field-effect transistor (DGTFET) with independent gate-control. In this article, using two-dimensional device simulations, we propose to realize the exclusive-OR (XOR) and exclusive-NOR (XNOR) logic functions. To implement an XOR function, a dual-material DGTFET (DM-DGTFET) is used. The structure is designed such that the band-to-band tunneling (BTBT) occurs at the boundary of these dual-material gates"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9199890/",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:cXyyGMsA7ksJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRealizing%2BXOR%2Band%2BXNOR%2Bfunctions%2Busing%2Btunnel%2Bfield-effect%2Btransistors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cXyyGMsA7ksJ&ei=FlRkYpyIBZyO6rQP_qe3mAs&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=5471311469594442865&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:cXyyGMsA7ksJ:scholar.google.com/&scioq=Realizing+XOR+and+XNOR+functions+using+tunnel+field-effect+transistors&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6245494/8949832/09199890.pdf"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Improving injection efficiency of gate modulation ROIC interface for HgCdTe IR photodiodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "Z7GIWWgAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Garg, RS Saxena, V Niranjan",
+            "publication": "Microsystem Technologies 23 (9), 4073-4080, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17825839862673272345",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17825839862673272345&engine=google_scholar&hl=en",
+                "cites_id": "17825839862673272345"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Improving injection efficiency of gate modulation ROIC interface for HgCdTe IR photodiodes",
+                    "author": [
+                        "S Garg",
+                        "RS Saxena",
+                        "V Niranjan"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Microsystem Technologies",
+                    "abstract": "A new interface circuit for readout of HgCdTe Infrared photodiodes is proposed that can be used for efficient transfer of photocurrent from the photodiodes to the integration capacitor of the readout integrated circuit (ROIC). This ultimately results in high sensitivity and improved IR images. A high gain amplifier in the feedback path between gate and drain of the input transistor of standard gate modulation interface circuit has been introduced and the circuit has been simulated using SPICE circuit simulator with SCL 0.18 \u00b5m standard CMOS"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00542-016-2919-y",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "yccOXYQAAAAJ",
+                    "Kc97I64AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GW6j5egaYvcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImproving%2Binjection%2Befficiency%2Bof%2Bgate%2Bmodulation%2BROIC%2Binterface%2Bfor%2BHgCdTe%2BIR%2Bphotodiodes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GW6j5egaYvcJ&ei=GVRkYq79MouKmgGY1YjABQ&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=17825839862673272345&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GW6j5egaYvcJ:scholar.google.com/&scioq=Improving+injection+efficiency+of+gate+modulation+ROIC+interface+for+HgCdTe+IR+photodiodes&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "rs saxena",
+                "v niranjan"
+            ]
+        },
+        {
+            "title": "Dtmos transistor with self-cascode subcircuit for achieving high bandwidth in analog applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "Z7GIWWgAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Garg, V Niranjan",
+            "publication": "International Journal of Computer Applications 975, 8887, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6577730893143048621",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6577730893143048621&engine=google_scholar&hl=en",
+                "cites_id": "6577730893143048621"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dtmos transistor with self-cascode subcircuit for achieving high bandwidth in analog applications",
+                    "author": [
+                        "S Garg",
+                        "V Niranjan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "International Journal of Computer Applications",
+                    "abstract": "In this work, an improved dynamic threshold MOS (DTMOS) transistor with self-cascode subcircuit has been proposed in this work. By adopting the self-cascode subcircuit, the proposed DTMOS transistor could be operated at supply voltage over 0.7 V. Apart from this, simulation results for the proposed DTMOS, also demonstrate improvement in the transconductance and bandwidth by a factor of 2.31 and 1.59 respectively. Furthermore, the current driving capability of proposed DTMOS transistor has increased by a factor of 1.87. To"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.736.1181&rep=rep1&type=pdf",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "Kc97I64AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:rYHnoWXLSFsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDtmos%2Btransistor%2Bwith%2Bself-cascode%2Bsubcircuit%2Bfor%2Bachieving%2Bhigh%2Bbandwidth%2Bin%2Banalog%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rYHnoWXLSFsJ&ei=H1RkYp6nIYuKmgGY1YjABQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=6577730893143048621&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:rYHnoWXLSFsJ:scholar.google.com/&scioq=Dtmos+transistor+with+self-cascode+subcircuit+for+achieving+high+bandwidth+in+analog+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.736.1181&rep=rep1&type=pdf"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "v niranjan"
+            ]
+        },
+        {
+            "title": "PFAL based power efficient mux based decoder",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:qjMakFHDy7sC",
+            "citation_id": "Z7GIWWgAAAAJ:qjMakFHDy7sC",
+            "authors": "S Aron, S Garg, V Niranjan",
+            "publication": "International Conference on Computing, Communication & Automation, 1010-1013, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13401027113240526240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13401027113240526240&engine=google_scholar&hl=en",
+                "cites_id": "13401027113240526240"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "PFAL based power efficient mux based decoder",
+                    "author": [
+                        "S Aron",
+                        "S Garg",
+                        "V Niranjan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "International Conference on \u2026",
+                    "abstract": "Low power circuit techniques have become indispensable need of the hour for VLSI design. One such low power technique which has gained popularity over the past decade is adiabatic technique. It is based on the concept of reusability of power. In this paper, a positive feedback adiabatic logic (PFAL) based mux decoder is proposed. The decoder has been designed in 180nm CMOS technology and simulated using SPICE. The PFAL based decoder outperforms the conventional CMOS based decoder in terms of power dissipation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7148523/",
+                "author_id": [
+                    "",
+                    "Z7GIWWgAAAAJ",
+                    "Kc97I64AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oH0UZigD-rkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPFAL%2Bbased%2Bpower%2Befficient%2Bmux%2Bbased%2Bdecoder%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oH0UZigD-rkJ&ei=I1RkYrbqBZGJmwGY-qmYDQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=13401027113240526240&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:oH0UZigD-rkJ:scholar.google.com/&scioq=PFAL+based+power+efficient+mux+based+decoder&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "s aron",
+                "shelly garg",
+                "v niranjan"
+            ]
+        },
+        {
+            "title": "Bandwidth extension of voltage follower using DTMOS transistor",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "Z7GIWWgAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Garg, G Chaudhary, V Niranjan, A Kumar",
+            "publication": "2014 Innovative Applications of Computational Intelligence on Power, Energy \u2026, 2014",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3731092216478933407",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3731092216478933407&engine=google_scholar&hl=en",
+                "cites_id": "3731092216478933407"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Bandwidth extension of voltage follower using DTMOS transistor",
+                    "author": [
+                        "S Garg",
+                        "G Chaudhary",
+                        "V Niranjan"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "\u2026 Intelligence on Power \u2026",
+                    "abstract": "In this paper, we have proposed a new approach to improve the bandwidth of unity gain voltage follower. This approach is based on using a dynamic threshold MOS transistor (DTMOS). The bandwidth of the proposed voltage follower has been enhanced by a factor of nearly 2.5. Use of DTMOS transistor also improves the input signal range of the proposed voltage follower. The proposed and conventional circuits have been mapped on to the 180 nm CMOS technology. Simulations at low supply voltage of 1 Volt validate the proposed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7018211/",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "",
+                    "Kc97I64AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:n6FzS5qAxzMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBandwidth%2Bextension%2Bof%2Bvoltage%2Bfollower%2Busing%2BDTMOS%2Btransistor%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=n6FzS5qAxzMJ&ei=J1RkYtGOCZyO6rQP_qe3mAs&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=3731092216478933407&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:n6FzS5qAxzMJ:scholar.google.com/&scioq=Bandwidth+extension+of+voltage+follower+using+DTMOS+transistor&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "g chaudhary",
+                "v niranjan",
+                "a kumar"
+            ]
+        },
+        {
+            "title": "Implementation of Boolean Functions Using Tunnel Field-Effect Transistors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:-f6ydRqryjwC",
+            "citation_id": "Z7GIWWgAAAAJ:-f6ydRqryjwC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits 6 \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13634607639967897703",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13634607639967897703&engine=google_scholar&hl=en",
+                "cites_id": "13634607639967897703"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Implementation of Boolean Functions Using Tunnel Field-Effect Transistors",
+                    "author": [
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Journal on Exploratory Solid-State \u2026",
+                    "abstract": "Tunnel field-effect transistors (TFETs) are being examined as a possible replacement of MOSFETs for digital applications. However, TFETs have small ON-state current and, typically, exhibit reduced speed compared with conventional MOSFETs. Nevertheless, TFETs have some distinct characteristics that can be exploited for digital applications. In this article, using simulations, we show that a single device, in which two terminals are biased independently, can realize all primary two-input Boolean functions, such as AND, OR"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9259029/",
+                "author_id": [
+                    "uL-CHc8AAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ZxgdyGjbN70J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImplementation%2Bof%2BBoolean%2BFunctions%2BUsing%2BTunnel%2BField-Effect%2BTransistors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZxgdyGjbN70J&ei=KlRkYt6kKoOEmgHx-5DADA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=13634607639967897703&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ZxgdyGjbN70J:scholar.google.com/&scioq=Implementation+of+Boolean+Functions+Using+Tunnel+Field-Effect+Transistors&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6570653/9343807/09259029.pdf"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Suppression of ambipolar current in tunnel field-effect transistor using field-plate",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:4TOpqqG69KYC",
+            "citation_id": "Z7GIWWgAAAAJ:4TOpqqG69KYC",
+            "authors": "S Poria, S Garg, S Saurabh",
+            "publication": "2020 24th International Symposium on VLSI Design and Test (VDAT), 1-6, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11914436863450369185",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11914436863450369185&engine=google_scholar&hl=en",
+                "cites_id": "11914436863450369185"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Suppression of ambipolar current in tunnel field-effect transistor using field-plate",
+                    "author": [
+                        "S Poria",
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 on VLSI Design and Test (VDAT)",
+                    "abstract": "This paper proposes a tunnel field-effect transistor (TFET) with an additional field-plate over the drain region in the device. Using 2-D device simulations, it is shown that, by introducing a field-plate with an appropriate work function, placed on the top of the drain region, the ambipolar current of the device can be effectively suppressed. Furthermore, it is demonstrated that when a field-plate is placed at an appropriate height on the drain region, the gate-to-drain capacitance of the device does not increase significantly. Using"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9190409/",
+                "author_id": [
+                    "",
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oUzHsDOVWKUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSuppression%2Bof%2Bambipolar%2Bcurrent%2Bin%2Btunnel%2Bfield-effect%2Btransistor%2Busing%2Bfield-plate%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oUzHsDOVWKUJ&ei=L1RkYsD0F5LeyQTE46-QAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=11914436863450369185&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:oUzHsDOVWKUJ:scholar.google.com/&scioq=Suppression+of+ambipolar+current+in+tunnel+field-effect+transistor+using+field-plate&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "s poria",
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Nanoscale tunnel field-effect transistors for digital circuit applications: design and analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:hC7cP41nSMkC",
+            "citation_id": "Z7GIWWgAAAAJ:hC7cP41nSMkC",
+            "authors": "S Garg, S Saurabh",
+            "publication": "IIIT-Delhi, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Nanoscale tunnel field-effect transistors for digital circuit applications: design and analysis",
+                    "author": [
+                        "S Garg",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "NA",
+                    "abstract": "Metal\u2013oxide\u2013semiconductor field-effect transistor (MOSFET) has been used for decades in the semiconductor industry. However, with the continuous downscaling of the device dimensions to the nanometer regime, conventional MOSFETs have reached a fundamental physical limit that restricts the subthreshold swing of the device to\u2265 60 mV/dec, at room temperature. It prohibits scaling threshold voltage below a specific limit; otherwise, the OFF-state current in the device becomes too high. Therefore, at nanoscale dimensions"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/954",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:D0gkDjTP9-kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNanoscale%2Btunnel%2Bfield-effect%2Btransistors%2Bfor%2Bdigital%2Bcircuit%2Bapplications:%2Bdesign%2Band%2Banalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=D0gkDjTP9-kJ&ei=M1RkYuGwFvmQ6rQP5OqKqAo&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "shelly garg",
+                "sneh saurabh"
+            ]
+        },
+        {
+            "title": "Emerging devices beyond CMOS: fundamentals, promises and challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "Z7GIWWgAAAAJ:ULOm3_A8WrAC",
+            "authors": "S Saurabh, SK Semwal, S Garg, A Gupta",
+            "publication": "VLSI and Post-CMOS Electronics: Design, modelling and simulation 1, 161, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Emerging devices beyond CMOS: fundamentals, promises and challenges",
+                    "author": [
+                        "S Saurabh",
+                        "SK Semwal",
+                        "S Garg"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "VLSI and Post \u2026",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "V7XGG2AAAAAJ",
+                    "",
+                    "Z7GIWWgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KGAjHZ3MEwMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEmerging%2Bdevices%2Bbeyond%2BCMOS:%2Bfundamentals,%2Bpromises%2Band%2Bchallenges%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KGAjHZ3MEwMJ&ei=N1RkYs6oE42ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:KGAjHZ3MEwMJ:scholar.google.com/&scioq=Emerging+devices+beyond+CMOS:+fundamentals,+promises+and+challenges&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sneh saurabh",
+                "sk semwal",
+                "shelly garg",
+                "anubha gupta"
+            ]
+        },
+        {
+            "title": "A new CASCADABLE ADIABATIC LOGIC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "Z7GIWWgAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Garg, V Niranjan",
+            "publication": "Electrical and Electronics Engineering: An International Journal (ELELIJ) 5 \u2026, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Positive feedback in adiabatic logic",
+                    "author": [
+                        "A Vetuli",
+                        "SD Pascoli",
+                        "LM Reyneri"
+                    ],
+                    "pub_year": "1996",
+                    "venue": "Electronics Letters",
+                    "abstract": "Indexing terms: Logic gates, Feedback amplfiers An adiabatic logic family is presented,   The gate is based on dual rail logic and a cascade of such gates only needs three powericlock"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/iel1/2220/11684/00535162.pdf",
+                "author_id": [
+                    "",
+                    "IHLb0RgAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:yMOIDTXox2wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bnew%2BCASCADABLE%2BADIABATIC%2BLOGIC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yMOIDTXox2wJ&ei=O1RkYv4cmpLL1g_yko2wAQ&json=",
+                "num_citations": 199,
+                "citedby_url": "/scholar?cites=7838488991019615176&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yMOIDTXox2wJ:scholar.google.com/&scioq=A+new+CASCADABLE+ADIABATIC+LOGIC&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/42069276/Positive_feedback_in_adiabatic_logic20160204-26085-12cxdpp.pdf"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "v niranjan"
+            ]
+        },
+        {
+            "title": "SPICE Model of HgCdTe Infrared Photodiode for Non-Uniformity Analysis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "Z7GIWWgAAAAJ:W7OEmFMy1HYC",
+            "authors": "R Saxena, S Garg",
+            "publication": "Crystal 21 (2), 17-21, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A new circuit model of HgCdTe photodiode for SPICE simulation of integrated IRFPA",
+                    "author": [
+                        "RS Saxena",
+                        "NK Saini",
+                        "RK Bhan",
+                        "RK Sharma"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Infrared Physics & \u2026",
+                    "abstract": "the non-uniformity for given processes of HgCdTe device fabrication and Si ROIC fabrication.   and analysis of this effect require a suitable circuit model of HgCdTe photodiode, like the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S1350449514001157",
+                "author_id": [
+                    "yccOXYQAAAAJ",
+                    "",
+                    "qFRbnHYAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:7YhJYTnqlg4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSPICE%2BModel%2Bof%2BHgCdTe%2BInfrared%2BPhotodiode%2Bfor%2BNon-Uniformity%2BAnalysis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7YhJYTnqlg4J&ei=PlRkYuq1ErKO6rQPy-CRsA8&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=1051285095203834093&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7YhJYTnqlg4J:scholar.google.com/&scioq=SPICE+Model+of+HgCdTe+Infrared+Photodiode+for+Non-Uniformity+Analysis&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r saxena",
+                "shelly garg"
+            ]
+        },
+        {
+            "title": "Adiabatic technique for fat tree decoder to be used in flash ADCs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "Z7GIWWgAAAAJ:UeHWp8X0CEIC",
+            "authors": "G Chaudhary, S Garg, V Niranjan",
+            "publication": "2015 39th National Systems Conference (NSC), 1-5, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adiabatic technique for fat tree decoder to be used in flash ADCs",
+                    "author": [
+                        "G Chaudhary",
+                        "S Garg",
+                        "V Niranjan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 39th National Systems \u2026",
+                    "abstract": "Today power dissipation is the most critical problem in Low Power circuits in VLSI design. Adiabatic technique is a technique to reduce power dissipation in digital circuits in which energy stored in a capacitor can be recycled rather than dissipated as heat. In this paper the Fat tree decoder incorporating PFAL ie Positive Feedback Adiabatic Logic technique has been simulated using SPICE simulation tool and its power dissipation has been calculated. In this technique, the energy is recovered during recovery phase of the clock supply. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7489090/",
+                "author_id": [
+                    "",
+                    "Z7GIWWgAAAAJ",
+                    "Kc97I64AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9Ef9wGeuM9oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdiabatic%2Btechnique%2Bfor%2Bfat%2Btree%2Bdecoder%2Bto%2Bbe%2Bused%2Bin%2Bflash%2BADCs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9Ef9wGeuM9oJ&ei=QVRkYvzQOJLeyQTE46-QAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:9Ef9wGeuM9oJ:scholar.google.com/&scioq=Adiabatic+technique+for+fat+tree+decoder+to+be+used+in+flash+ADCs&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "g chaudhary",
+                "shelly garg",
+                "v niranjan"
+            ]
+        },
+        {
+            "title": "A New Interface Circuit for Improving Charge Injection of Photodiodes in Readout Integrated Circuit",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "Z7GIWWgAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Garg, RS Saxena, V Niranjan",
+            "publication": "International Conference on Microelectronic Circuit and System (Micro-2015) 2, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Improving injection efficiency of gate modulation ROIC interface for HgCdTe IR photodiodes",
+                    "author": [
+                        "S Garg",
+                        "RS Saxena",
+                        "V Niranjan"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "Microsystem Technologies",
+                    "abstract": "A new interface circuit for readout of HgCdTe Infrared photodiodes is proposed that can be   This not only improves the bias stability but also enhances the charge injection efficiency"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s00542-016-2919-y",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "yccOXYQAAAAJ",
+                    "Kc97I64AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GW6j5egaYvcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BNew%2BInterface%2BCircuit%2Bfor%2BImproving%2BCharge%2BInjection%2Bof%2BPhotodiodes%2Bin%2BReadout%2BIntegrated%2BCircuit%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GW6j5egaYvcJ&ei=RFRkYs_wM-iSy9YPp-OyiAE&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=17825839862673272345&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GW6j5egaYvcJ:scholar.google.com/&scioq=A+New+Interface+Circuit+for+Improving+Charge+Injection+of+Photodiodes+in+Readout+Integrated+Circuit&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "rs saxena",
+                "v niranjan"
+            ]
+        },
+        {
+            "title": "A new low voltage highly linear FVFSC current mirror",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Z7GIWWgAAAAJ&pagesize=100&citation_for_view=Z7GIWWgAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "Z7GIWWgAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Garg, V Niranjan",
+            "publication": "International Conference on Computing, Communication & Automation, 1363-1367, 2015",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A new low voltage highly linear FVFSC current mirror",
+                    "author": [
+                        "S Garg",
+                        "V Niranjan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "International Conference on Computing \u2026",
+                    "abstract": "In this paper, we have proposed a new low voltage, highly accurate Flipped Voltage Follower Self Cascode (FVFSC) current mirror which has a high input linear range and also possess high current copy accuracy. Input linear range of the proposed FVFSC current mirror has been increased to 980 \u03bcA ie, enhanced by a factor of 2. The proposed and conventional circuits have been designed at 180nm technology node and simulated results validate the proposed approach. The current mirrors have been simulated at 1V supply"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7148591/",
+                "author_id": [
+                    "Z7GIWWgAAAAJ",
+                    "Kc97I64AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:UfkE4zTrNG4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bnew%2Blow%2Bvoltage%2Bhighly%2Blinear%2BFVFSC%2Bcurrent%2Bmirror%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=UfkE4zTrNG4J&ei=SFRkYuTFHpqSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:UfkE4zTrNG4J:scholar.google.com/&scioq=A+new+low+voltage+highly+linear+FVFSC+current+mirror&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "shelly garg",
+                "v niranjan"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 118,
+                    "since_2017": 116
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 11
+            },
+            {
+                "year": 2018,
+                "citations": 12
+            },
+            {
+                "year": 2019,
+                "citations": 34
+            },
+            {
+                "year": 2020,
+                "citations": 40
+            },
+            {
+                "year": 2021,
+                "citations": 19
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Z7GIWWgAAAAJ",
+        "available": 5,
+        "not_available": 3
+    },
+    "co_authors": [
+        {
+            "name": "Sneh Saurabh",
+            "link": "https://scholar.google.com/citations?user=V7XGG2AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=V7XGG2AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "V7XGG2AAAAAJ",
+            "affiliations": "IIIT, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V7XGG2AAAAAJ&citpid=1"
+        },
+        {
+            "name": "Prof. Vandana Niranjan",
+            "link": "https://scholar.google.com/citations?user=Kc97I64AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Kc97I64AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Kc97I64AAAAJ",
+            "affiliations": "Professor, Electronics & Communication Engineering, IGDTUW, Delhi",
+            "email": "Verified email at igdtuw.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Kc97I64AAAAJ&citpid=30"
+        },
+        {
+            "name": "Raghvendra Sahai Saxena",
+            "link": "https://scholar.google.com/citations?user=yccOXYQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=yccOXYQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "yccOXYQAAAAJ",
+            "affiliations": "Solid State Physics Laboratory",
+            "email": "Verified email at sspl.drdo.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=yccOXYQAAAAJ&citpid=2"
+        }
+    ]
+}

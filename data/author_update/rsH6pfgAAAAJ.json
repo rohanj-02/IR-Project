@@ -1,0 +1,1585 @@
+{
+    "search_metadata": {
+        "id": "62574cba34ff9576eacd6183",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a37429d172c5da24/62574cba34ff9576eacd6183.json",
+        "created_at": "2022-04-13 22:20:42 UTC",
+        "processed_at": "2022-04-13 22:20:42 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=rsH6pfgAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a37429d172c5da24/62574cba34ff9576eacd6183.html",
+        "total_time_taken": 1.75,
+        "total_articles": 35,
+        "total_co_authors": 1
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "rsH6pfgAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sri Harsha Gade",
+        "affiliations": "ARM Embedded Technologies Ltd.",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Heterogeneous system architectures",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:heterogeneous_system_architectures",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aheterogeneous_system_architectures"
+            },
+            {
+                "title": "Network-on-Chip",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_on_chip",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_on_chip"
+            },
+            {
+                "title": "Many-core architectures",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:many_core_architectures",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amany_core_architectures"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rsH6pfgAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Interference-aware wireless network-on-chip architecture using directional antennas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "rsH6pfgAAAAJ:UeHWp8X0CEIC",
+            "authors": "HK Mondal, SH Gade, MS Shamim, S Deb, A Ganguly",
+            "publication": "IEEE Transactions on Multi-Scale Computing Systems 3 (3), 193-205, 2016",
+            "cited_by": {
+                "value": 45,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10138297909606335720",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10138297909606335720&engine=google_scholar&hl=en",
+                "cites_id": "10138297909606335720"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Interference-aware wireless network-on-chip architecture using directional antennas",
+                    "author": [
+                        "HK Mondal",
+                        "SH Gade",
+                        "MS Shamim"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 on Multi-Scale \u2026",
+                    "abstract": "Wireless Network-on-Chip (WiNoC) has been recently introduced for addressing the scalability limitations of conventional multi-hop NoC architectures. Existing WiNoC architectures generally use millimeter-wave antennas without significant directional gains, along with token passing protocol to access the shared wireless medium. This limits the achievable performance benefits since only one wireless pair can communicate at a time. It is also not practical in the immediate future to arbitrarily scale up the number of non"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7524738/",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "7KnZ7ocAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6MQr2Tt4sowJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInterference-aware%2Bwireless%2Bnetwork-on-chip%2Barchitecture%2Busing%2Bdirectional%2Bantennas%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6MQr2Tt4sowJ&ei=m1RkYrqMGIyuyAT-mrWwCA&json=",
+                "num_citations": 45,
+                "citedby_url": "/scholar?cites=10138297909606335720&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:6MQr2Tt4sowJ:scholar.google.com/&scioq=Interference-aware+wireless+network-on-chip+architecture+using+directional+antennas&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Md-Shahriar-Shamim/publication/305720044_Interference-Aware_Wireless_Network-on-Chip_Architecture_Using_Directional_Antennas/links/5a31b0fc458515afb683a805/Interference-Aware-Wireless-Network-on-Chip-Architecture-Using-Directional-Antennas.pdf"
+            }
+        },
+        {
+            "title": "HyWin: Hybrid wireless NoC with sandboxed sub-networks for CPU/GPU architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "rsH6pfgAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "SH Gade, S Deb",
+            "publication": "IEEE Transactions on computers 66 (7), 1145-1158, 2016",
+            "cited_by": {
+                "value": 36,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13662204415409784221",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13662204415409784221&engine=google_scholar&hl=en",
+                "cites_id": "13662204415409784221"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "HyWin: Hybrid wireless NoC with sandboxed sub-networks for CPU/GPU architectures",
+                    "author": [
+                        "SH Gade",
+                        "S Deb"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "IEEE Transactions on computers",
+                    "abstract": "Heterogeneous System Architectures (HSA) that integrate cores of different architectures (CPU, GPU, etc.) on single chip are gaining significance for many class of applications to achieve high performance. Networks-on-Chip (NoCs) in HSA are monopolized by high volume GPU traffic, penalizing CPU application performance. In addition, building efficient interfaces between systems of different specifications while achieving optimal performance is a demanding task. Homogeneous NoCs, widely used for many core systems, fall short in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7795230/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nQVGxYfmmb0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHyWin:%2BHybrid%2Bwireless%2BNoC%2Bwith%2Bsandboxed%2Bsub-networks%2Bfor%2BCPU/GPU%2Barchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nQVGxYfmmb0J&ei=n1RkYov5DfmQ6rQP5OqKqAo&json=",
+                "num_citations": 36,
+                "citedby_url": "/scholar?cites=13662204415409784221&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:nQVGxYfmmb0J:scholar.google.com/&scioq=HyWin:+Hybrid+wireless+NoC+with+sandboxed+sub-networks+for+CPU/GPU+architectures&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Adaptive multi-voltage scaling in wireless NoC for high performance low power applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "rsH6pfgAAAAJ:u-x6o8ySG0sC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "2016 Design, Automation & Test in Europe Conference & Exhibition (DATE \u2026, 2016",
+            "cited_by": {
+                "value": 34,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745840138465478835",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2745840138465478835&engine=google_scholar&hl=en",
+                "cites_id": "2745840138465478835"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive multi-voltage scaling in wireless NoC for high performance low power applications",
+                    "author": [
+                        "HK Mondal",
+                        "SH Gade",
+                        "R Kishore"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 Design, Automation \u2026",
+                    "abstract": "Networks-on-Chip (NoCs) have garnered significant interest as communication backbone for multicore processors used across a wide range of fields that demand higher computation capability. Wireless NoCs (WNoCs) by augmenting single hop, long range wireless links with wired interconnects; offer the most promising solution to reduce multi-hop long distance communication bottlenecks and opens up innumerable possibilities of topological innovations that are not possible otherwise. However, energy consumption in routers along"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7459513/",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "VqKdTy4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:s4g-zw4vGyYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%2Bmulti-voltage%2Bscaling%2Bin%2Bwireless%2BNoC%2Bfor%2Bhigh%2Bperformance%2Blow%2Bpower%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=s4g-zw4vGyYJ&ei=pVRkYsqQCJqSy9YP8pKNsAE&json=",
+                "num_citations": 34,
+                "citedby_url": "/scholar?cites=2745840138465478835&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:s4g-zw4vGyYJ:scholar.google.com/&scioq=Adaptive+multi-voltage+scaling+in+wireless+NoC+for+high+performance+low+power+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07459513.pdf"
+            }
+        },
+        {
+            "title": "Power efficient router architecture for wireless Network-on-Chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "rsH6pfgAAAAJ:2osOgNQ5qMEC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Kaushik, S Deb",
+            "publication": "2016 17th International Symposium on Quality Electronic Design (ISQED), 227-233, 2016",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10596869314230637281",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10596869314230637281&engine=google_scholar&hl=en",
+                "cites_id": "10596869314230637281"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Power efficient router architecture for wireless Network-on-Chip",
+                    "author": [
+                        "HK Mondal",
+                        "SH Gade",
+                        "R Kishore"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 on Quality Electronic \u2026",
+                    "abstract": "Wireless Networks-on-Chip (WNoCs) offer the most promising solution to overcome limitations of conventional Networks-on-Chip (NoCs) for long distance communications in future many-core processors. Detailed investigations of NoC with wireless interfaces (WIs) highlight their many benefits. But, static power consumption associated with WI components and routers, in general, is considerably high. By selectively turning off unused/rarely used routers, static power consumption can be reduced. Additionally, in WNoCs with broadcast"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7479205/",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "VqKdTy4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:4VL0JX-kD5MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPower%2Befficient%2Brouter%2Barchitecture%2Bfor%2Bwireless%2BNetwork-on-Chip%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4VL0JX-kD5MJ&ei=qFRkYqfPMZLeyQTE46-QAg&json=",
+                "num_citations": 28,
+                "citedby_url": "/scholar?cites=10596869314230637281&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:4VL0JX-kD5MJ:scholar.google.com/&scioq=Power+efficient+router+architecture+for+wireless+Network-on-Chip&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07479205.pdf"
+            }
+        },
+        {
+            "title": "Adaptive multi-voltage scaling with utilization prediction for energy-efficient wireless NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:nb7KW1ujOQ8C",
+            "citation_id": "rsH6pfgAAAAJ:nb7KW1ujOQ8C",
+            "authors": "HK Mondal, SH Gade, S Kaushik, S Deb",
+            "publication": "IEEE Transactions on Sustainable Computing 2 (4), 382-395, 2017",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=209088502047822891",
+                "serpapi_link": "https://serpapi.com/search.json?cites=209088502047822891&engine=google_scholar&hl=en",
+                "cites_id": "209088502047822891"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive multi-voltage scaling with utilization prediction for energy-efficient wireless NoC",
+                    "author": [
+                        "HK Mondal",
+                        "SH Gade",
+                        "S Kaushik"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "Networks-on-Chip (NoCs) are fast becoming the de-facto communication infrastructures in chip multi-processors for large-scale applications. Wireless NoCs (WNoCs) offer a promising solution to reduce the long-distance communication bottlenecks of conventional NoCs by augmenting them with single hop, long-range wireless links. However, power consumption in routers and network elements still remains considerably high at ultra-deep submicron technologies. Analysis of network resources for several benchmarks shows that, utilization is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8013723/",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "T9Ggus0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:K9Qtg-LU5gIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%2Bmulti-voltage%2Bscaling%2Bwith%2Butilization%2Bprediction%2Bfor%2Benergy-efficient%2Bwireless%2BNoC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=K9Qtg-LU5gIJ&ei=q1RkYtGuHsLZmQHnraWYCA&json=",
+                "num_citations": 23,
+                "citedby_url": "/scholar?cites=209088502047822891&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:K9Qtg-LU5gIJ:scholar.google.com/&scioq=Adaptive+multi-voltage+scaling+with+utilization+prediction+for+energy-efficient+wireless+NoC&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Energy-efficient transceiver for wireless NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:xtRiw3GOFMkC",
+            "citation_id": "rsH6pfgAAAAJ:xtRiw3GOFMkC",
+            "authors": "HK Mondal, S Kaushik, SH Gade, S Deb",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7384330169810913578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7384330169810913578&engine=google_scholar&hl=en",
+                "cites_id": "7384330169810913578"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy-efficient transceiver for wireless NoC",
+                    "author": [
+                        "HK Mondal",
+                        "S Kaushik",
+                        "SH Gade"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 30th International \u2026",
+                    "abstract": "Network-on-Chip (NoC) with wireless interconnects is one of the potential solutions to overcome limitations of conventional NoC architectures over far-apart communications in multicore systems. Detailed investigations of Wireless NoC (WNoC) highlight their many benefits. But, idle-state power consumption associated with WI interfaces and routers is significantly high. To reduce the idle-state power consumption, a power gating technique can be incorporated with WNoC architectures. However, power gating can lead to adverse"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7884762/",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "T9Ggus0AAAAJ",
+                    "rsH6pfgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KonHYyppemYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy-efficient%2Btransceiver%2Bfor%2Bwireless%2BNoC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KonHYyppemYJ&ei=rlRkYsKmB4uKmgGY1YjABQ&json=",
+                "num_citations": 22,
+                "citedby_url": "/scholar?cites=7384330169810913578&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KonHYyppemYJ:scholar.google.com/&scioq=Energy-efficient+transceiver+for+wireless+NoC&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07884762.pdf"
+            }
+        },
+        {
+            "title": "An efficient hardware implementation of dvfs in multi-core system with wireless network-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "rsH6pfgAAAAJ:IjCSPb-OGe4C",
+            "authors": "HK Mondal, GNS Harsha, S Deb",
+            "publication": "2014 IEEE Computer Society Annual Symposium on VLSI, 184-189, 2014",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4142081414836223845",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4142081414836223845&engine=google_scholar&hl=en",
+                "cites_id": "4142081414836223845"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An efficient hardware implementation of dvfs in multi-core system with wireless network-on-chip",
+                    "author": [
+                        "HK Mondal",
+                        "GNS Harsha",
+                        "S Deb"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "2014 IEEE Computer Society \u2026",
+                    "abstract": "Networks-on-Chip (NoC) have emerged as communication backbones for enabling high degree of integration in future many-core chips. Despite their advantages, the communication is multi-hop and causes high latency and power dissipation, especially in larger systems. Wireless Network-on-Chip (WNoC) significantly improves the latency over traditional wired NoCs for multi-core systems. But on-chip wireless interfaces (WIs) have their own power and area overhead. In this paper we design and implement a Dynamic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6903357/",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ZX8P4hmhezkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Befficient%2Bhardware%2Bimplementation%2Bof%2Bdvfs%2Bin%2Bmulti-core%2Bsystem%2Bwith%2Bwireless%2Bnetwork-on-chip%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZX8P4hmhezkJ&ei=sVRkYoXEOY2ymgHg1rfQDQ&json=",
+                "num_citations": 21,
+                "citedby_url": "/scholar?cites=4142081414836223845&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ZX8P4hmhezkJ:scholar.google.com/&scioq=An+efficient+hardware+implementation+of+dvfs+in+multi-core+system+with+wireless+network-on-chip&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Sri-Harsha-Gade/publication/286561222_An_Efficient_Hardware_Implementation_of_DVFS_in_Multi-core_System_with_Wireless_Network-on-Chip/links/5a353a6fa6fdcc769fd48aa0/An-Efficient-Hardware-Implementation-of-DVFS-in-Multi-core-System-with-Wireless-Network-on-Chip.pdf"
+            }
+        },
+        {
+            "title": "OFDM based high data rate, fading resilient transceiver for wireless networks-on-chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:P5F9QuxV20EC",
+            "citation_id": "rsH6pfgAAAAJ:P5F9QuxV20EC",
+            "authors": "SH Gade, S Garg, S Deb",
+            "publication": "2017 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 483-488, 2017",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6764038686113178533",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6764038686113178533&engine=google_scholar&hl=en",
+                "cites_id": "6764038686113178533"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "OFDM based high data rate, fading resilient transceiver for wireless networks-on-chip",
+                    "author": [
+                        "SH Gade",
+                        "S Garg",
+                        "S Deb"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE Computer Society Annual \u2026",
+                    "abstract": "On-chip wireless links operating at millimeter wave frequencies offer the most promising solution to overcome the multi-hop latency and high power consumption of metal interconnects in Network-on-Chip (NoC) platforms. Design of efficient transceivers, that are resilient to channel effects is essential to achieve high performance on-chip wireless communication. In this work, we present a spectrally efficient Orthogonal Frequency Division Multiplexing (OFDM) based transceiver, operating at mm-wave frequencies for on-chip"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7987566/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "5w642_kAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:paPG_Fix3l0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOFDM%2Bbased%2Bhigh%2Bdata%2Brate,%2Bfading%2Bresilient%2Btransceiver%2Bfor%2Bwireless%2Bnetworks-on-chip%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=paPG_Fix3l0J&ei=uVRkYrmuA5yO6rQP_qe3mAs&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=6764038686113178533&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:paPG_Fix3l0J:scholar.google.com/&scioq=OFDM+based+high+data+rate,+fading+resilient+transceiver+for+wireless+networks-on-chip&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07987566.pdf"
+            }
+        },
+        {
+            "title": "Millimeter wave wireless interconnects in deep submicron chips: Challenges and opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:l7t_Zn2s7bgC",
+            "citation_id": "rsH6pfgAAAAJ:l7t_Zn2s7bgC",
+            "authors": "SH Gade, SS Ram, S Deb",
+            "publication": "Integration 64, 127-136, 2019",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11637718126190734772,15441486616394199867",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11637718126190734772%2C15441486616394199867&engine=google_scholar&hl=en",
+                "cites_id": "11637718126190734772,15441486616394199867"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Millimeter wave wireless interconnects in deep submicron chips: Challenges and opportunities",
+                    "author": [
+                        "SH Gade",
+                        "SS Ram",
+                        "S Deb"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Integration",
+                    "abstract": "On-chip wireless links offer the most promising solution to improve performance over traditional Networks-on-Chip (NoCs). Though, significant advancements are being made to support intra-chip wireless communication, a complete understanding of on-chip wireless channel, that facilitates design optimization of transceivers and antennas is still lacking. In this work, we derive on-chip wireless channel characteristics, taking into account antenna implementation, near field and multipath propagation effects. These observations are then"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167926018300701",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "dwRa-dIAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tC25-_l6gaEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMillimeter%2Bwave%2Bwireless%2Binterconnects%2Bin%2Bdeep%2Bsubmicron%2Bchips:%2BChallenges%2Band%2Bopportunities%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tC25-_l6gaEJ&ei=vlRkYtTVMO-Sy9YPs_mY8AM&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=11637718126190734772&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tC25-_l6gaEJ:scholar.google.com/&scioq=Millimeter+wave+wireless+interconnects+in+deep+submicron+chips:+Challenges+and+opportunities&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "P2noc: Power-and performance-aware noc architectures for sustainable computing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:KxtntwgDAa4C",
+            "citation_id": "rsH6pfgAAAAJ:KxtntwgDAa4C",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "Sustainable Computing: Informatics and Systems 16, 25-37, 2017",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1274032909442954454",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1274032909442954454&engine=google_scholar&hl=en",
+                "cites_id": "1274032909442954454"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "P2noc: Power-and performance-aware noc architectures for sustainable computing",
+                    "author": [
+                        "HK Mondal",
+                        "SH Gade",
+                        "R Kishore",
+                        "S Deb"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "\u2026 Computing: Informatics and \u2026",
+                    "abstract": "Communication performance over distant nodes and high power consumption are major challenges for efficient Network-on-Chip (NoC) architectures. Wireless NoCs, by augmenting wired topologies with low latency wireless links, overcome performance limitations of conventional NoCs. However, NoC routers and Wireless Interfaces (WIs) consume significant amount of leakage power. The usage of routers in NoC is application dependent and for most applications, performance requirement can be achieved without"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S221053791630230X",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "VqKdTy4AAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:1jSBVy5GrhEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DP2noc:%2BPower-and%2Bperformance-aware%2Bnoc%2Barchitectures%2Bfor%2Bsustainable%2Bcomputing%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1jSBVy5GrhEJ&ei=w1RkYrbNC--Sy9YPs_mY8AM&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=1274032909442954454&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:1jSBVy5GrhEJ:scholar.google.com/&scioq=P2noc:+Power-and+performance-aware+noc+architectures+for+sustainable+computing&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Achievable performance enhancements with mm-wave wireless interconnects in noc",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "rsH6pfgAAAAJ:d1gkVwhDpl0C",
+            "authors": "SH Gade, S Deb",
+            "publication": "Proceedings of the 9th International Symposium on Networks-on-Chip, 1-2, 2015",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5442425268649247013",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5442425268649247013&engine=google_scholar&hl=en",
+                "cites_id": "5442425268649247013"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Achievable performance enhancements with mm-wave wireless interconnects in noc",
+                    "author": [
+                        "SH Gade",
+                        "S Deb"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 9th International Symposium on \u2026",
+                    "abstract": "On-chip wireless links have been shown to overcome the performance limitations of wired interconnects in Networks-on-chip (NoCs). However actual performance gains obtained are largely dependent on efficient data transmission between on-chip antennas. An analysis of on-chip wireless channel shows that propagation is highly affected by different components of the chip. In this work, we include the effects of chip environment on wireless propagation to obtain a more realistic performance evaluation of Wireless NoC (WiNoC). Using these, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2786572.2786584",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JcFyVvJgh0sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAchievable%2Bperformance%2Benhancements%2Bwith%2Bmm-wave%2Bwireless%2Binterconnects%2Bin%2Bnoc%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JcFyVvJgh0sJ&ei=xlRkYsTTNouKmgGY1YjABQ&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=5442425268649247013&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JcFyVvJgh0sJ:scholar.google.com/&scioq=Achievable+performance+enhancements+with+mm-wave+wireless+interconnects+in+noc&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/a29-Gade.pdf"
+            }
+        },
+        {
+            "title": "A hardware and thermal analysis of dvfs in a multi-core system with hybrid wnoc architecture",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:qjMakFHDy7sC",
+            "citation_id": "rsH6pfgAAAAJ:qjMakFHDy7sC",
+            "authors": "SH Gade, HK Mondal, S Deb",
+            "publication": "2015 28th International Conference on VLSI Design, 117-122, 2015",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6525920157848706553",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6525920157848706553&engine=google_scholar&hl=en",
+                "cites_id": "6525920157848706553"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A hardware and thermal analysis of dvfs in a multi-core system with hybrid wnoc architecture",
+                    "author": [
+                        "SH Gade",
+                        "HK Mondal",
+                        "S Deb"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 28th International \u2026",
+                    "abstract": "Evolution of CMOS manufacturing technologies has led to billions of transistors per chip, many core and System-on-Chip (SoC) realizations in current day systems. But maintaining this trend is a significant challenge due to the power and thermal issues. As the devices are scaled and number of transistors on the chip increases, the power density across the chip increases rapidly with each generation. This further results in increased system temperature that can cause damage to the system. Dynamic Voltage/Frequency Scaling (DVFS) schemes"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7031718/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "shhuV9AAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-R0iyc65kFoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhardware%2Band%2Bthermal%2Banalysis%2Bof%2Bdvfs%2Bin%2Ba%2Bmulti-core%2Bsystem%2Bwith%2Bhybrid%2Bwnoc%2Barchitecture%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-R0iyc65kFoJ&ei=zFRkYrWoK5yO6rQP_qe3mAs&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=6525920157848706553&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-R0iyc65kFoJ:scholar.google.com/&scioq=A+hardware+and+thermal+analysis+of+dvfs+in+a+multi-core+system+with+hybrid+wnoc+architecture&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07031718.pdf"
+            }
+        },
+        {
+            "title": "A utilization aware robust channel access mechanism for wireless nocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:u9iWguZQMMsC",
+            "citation_id": "rsH6pfgAAAAJ:u9iWguZQMMsC",
+            "authors": "SH Gade, SS Rout, M Sinha, HK Mondal, W Singh, S Deb",
+            "publication": "2018 IEEE International Symposium on Circuits and Systems (ISCAS), 1-5, 2018",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5389732244908841241",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5389732244908841241&engine=google_scholar&hl=en",
+                "cites_id": "5389732244908841241"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A utilization aware robust channel access mechanism for wireless nocs",
+                    "author": [
+                        "SH Gade",
+                        "SS Rout",
+                        "M Sinha",
+                        "HK Mondal"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on Circuits and \u2026",
+                    "abstract": "Wireless Network-on-Chip (WNoC) has been proposed to overcome long-distance communication bottlenecks of wired NoCs. Token passing mechanism has generally been adapted to allocate the wireless channel among Wireless Interfaces (WIs). In this work, we propose a comparator based controller to provide a flexible and efficient channel allocation scheme. It utilizes a comparator attached to the antenna, along with modifications to header flit to perform channel allocation along with power gating WIs to save energy. Evaluation of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8351698/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "2A34nJIAAAAJ",
+                    "tsn4SxwAAAAJ",
+                    "shhuV9AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GZlCtOsszEoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Butilization%2Baware%2Brobust%2Bchannel%2Baccess%2Bmechanism%2Bfor%2Bwireless%2Bnocs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GZlCtOsszEoJ&ei=z1RkYvyaL--Sy9YPs_mY8AM&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=5389732244908841241&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GZlCtOsszEoJ:scholar.google.com/&scioq=A+utilization+aware+robust+channel+access+mechanism+for+wireless+nocs&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2018/06/08351698.pdf"
+            }
+        },
+        {
+            "title": "Path loss-aware adaptive transmission power control scheme for energy-efficient wireless noc",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:08ZZubdj9fEC",
+            "citation_id": "rsH6pfgAAAAJ:08ZZubdj9fEC",
+            "authors": "S Kaushik, M Agrawal, HK Mondal, SH Gade, S Deb",
+            "publication": "2017 IEEE 60th International Midwest Symposium on Circuits and Systems \u2026, 2017",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17603545411982687022",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17603545411982687022&engine=google_scholar&hl=en",
+                "cites_id": "17603545411982687022"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Path loss-aware adaptive transmission power control scheme for energy-efficient wireless noc",
+                    "author": [
+                        "S Kaushik",
+                        "M Agrawal",
+                        "HK Mondal"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE 60th \u2026",
+                    "abstract": "Wireless Networks-on-Chip (WiNoCs) offer unprecedented advantages to replace the long-distance multi-hop communication bottlenecks of conventional NoCs by augmenting them with a single hop, long-range wireless links in many-core systems. In wireless interfaces (WIs), RF transceiver components are consuming a significant amount of total power budgets to replace the multi-hop communications. Specifically, transmitter accounts a notable portion of overall transmission energy. To improve energy efficiency, we propose the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8052878/",
+                "author_id": [
+                    "T9Ggus0AAAAJ",
+                    "",
+                    "shhuV9AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Lnuv3EhbTPQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPath%2Bloss-aware%2Badaptive%2Btransmission%2Bpower%2Bcontrol%2Bscheme%2Bfor%2Benergy-efficient%2Bwireless%2Bnoc%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Lnuv3EhbTPQJ&ei=01RkYpPNAo6pywTd4KPADw&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=17603545411982687022&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Lnuv3EhbTPQJ:scholar.google.com/&scioq=Path+loss-aware+adaptive+transmission+power+control+scheme+for+energy-efficient+wireless+noc&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/noc/wp-content/uploads/2018/08/08052878.pdf"
+            }
+        },
+        {
+            "title": "Enabling reliable high throughput on-chip wireless communication for many core architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:Tiz5es2fbqcC",
+            "citation_id": "rsH6pfgAAAAJ:Tiz5es2fbqcC",
+            "authors": "SH Gade, M Sinha, SS Rout, S Deb",
+            "publication": "2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 591-596, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1861217880708450666",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1861217880708450666&engine=google_scholar&hl=en",
+                "cites_id": "1861217880708450666"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Enabling reliable high throughput on-chip wireless communication for many core architectures",
+                    "author": [
+                        "SH Gade",
+                        "M Sinha",
+                        "SS Rout"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE Computer \u2026",
+                    "abstract": "Wireless Networks-on-Chip (WNoCs) have been shown to overcome the scaling challenges of wired NoCs by augmenting them with low latency, low energy, long range wireless links. However, existing wireless implementations face challenges in terms of reliability while providing high communication performance. Single channel communication, the pre-dominant way of implementing WNoCs, are susceptible to channel effects like dispersion, fading, etc. and also provide limited bandwidth. Multi-channel communication, though"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8429434/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "tsn4SxwAAAAJ",
+                    "2A34nJIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:aok7Jc1f1BkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnabling%2Breliable%2Bhigh%2Bthroughput%2Bon-chip%2Bwireless%2Bcommunication%2Bfor%2Bmany%2Bcore%2Barchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=aok7Jc1f1BkJ&ei=1lRkYs39LuHDywSSipaYAg&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=1861217880708450666&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:aok7Jc1f1BkJ:scholar.google.com/&scioq=Enabling+reliable+high+throughput+on-chip+wireless+communication+for+many+core+architectures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/noc/wp-content/uploads/2018/08/08429434.pdf"
+            }
+        },
+        {
+            "title": "Data-flow aware CNN accelerator with hybrid wireless interconnection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:K3LRdlH-MEoC",
+            "citation_id": "rsH6pfgAAAAJ:K3LRdlH-MEoC",
+            "authors": "M Sinha, SH Gade, W Singh, S Deb",
+            "publication": "2018 IEEE 29th International Conference on Application-specific Systems \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6562492205955407067",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6562492205955407067&engine=google_scholar&hl=en",
+                "cites_id": "6562492205955407067"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Data-flow aware CNN accelerator with hybrid wireless interconnection",
+                    "author": [
+                        "M Sinha",
+                        "SH Gade",
+                        "W Singh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE 29th \u2026",
+                    "abstract": "Deep convolution neural networks (CNNs) are computationally intensive machine learning algorithms with a large amount of data that impose various challenges for their hardware implementation. To meet the high computing demands of CNNs, many accelerator designs are proposed that revolve around achieving high parallelization, increasing on-chip data reuse and efficient memory hierarchy, etc. However, very few works have attempted to address the communication challenges in these massively parallel accelerators"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8445126/",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "h60AZKYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:29w9SeSnElsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData-flow%2Baware%2BCNN%2Baccelerator%2Bwith%2Bhybrid%2Bwireless%2Binterconnection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=29w9SeSnElsJ&ei=2lRkYr-CAYySyASZk6HgCA&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=6562492205955407067&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:29w9SeSnElsJ:scholar.google.com/&scioq=Data-flow+aware+CNN+accelerator+with+hybrid+wireless+interconnection&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Dynamic noc platform for varied application needs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:XiSMed-E-HIC",
+            "citation_id": "rsH6pfgAAAAJ:XiSMed-E-HIC",
+            "authors": "SS Rout, HK Mondai, R Juneja, SH Gade, S Deb",
+            "publication": "2018 19th International Symposium on Quality Electronic Design (ISQED), 232-237, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10141755728251336103",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10141755728251336103&engine=google_scholar&hl=en",
+                "cites_id": "10141755728251336103"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dynamic noc platform for varied application needs",
+                    "author": [
+                        "SS Rout",
+                        "HK Mondai",
+                        "R Juneja"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Symposium on Quality \u2026",
+                    "abstract": "Many-core processing platforms are gaining significant interest for a wide range of applications, viz., Internet of Things (IoT), consumer electronics, single-chip cloud computers, supercomputers, defense applications etc. Networks-on-Chip (NoCs) are accepted as the communication backbone for these many-core platforms. However, energy consumption in NoC components still remains considerably high. Specifically for large systems with many nodes in the network, a significant amount of energy is consumed by the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8357293/",
+                "author_id": [
+                    "2A34nJIAAAAJ",
+                    "shhuV9AAAAAJ",
+                    "n4IgZDYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pzU0_RnBvowJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDynamic%2Bnoc%2Bplatform%2Bfor%2Bvaried%2Bapplication%2Bneeds%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pzU0_RnBvowJ&ei=3FRkYsbaJ5qSy9YP8pKNsAE&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=10141755728251336103&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pzU0_RnBvowJ:scholar.google.com/&scioq=Dynamic+noc+platform+for+varied+application+needs&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2018/05/08357293.pdf"
+            }
+        },
+        {
+            "title": "Power-and performance-aware fine-grained reconfigurable router architecture for NoC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "rsH6pfgAAAAJ:9yKSN-GCB0IC",
+            "authors": "HK Mondal, SH Gade, R Kishore, S Deb",
+            "publication": "2015 Sixth International Green and Sustainable Computing Conference (IGSC), 1-6, 2015",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5825298310196784495",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5825298310196784495&engine=google_scholar&hl=en",
+                "cites_id": "5825298310196784495"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Power-and performance-aware fine-grained reconfigurable router architecture for NoC",
+                    "author": [
+                        "HK Mondal",
+                        "SH Gade",
+                        "R Kishore"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 Sixth International \u2026",
+                    "abstract": "Networks-on-Chip (NoCs) have been well accepted for energy efficient on-chip communications for multicore systems. But, a NoC router consumes considerable leakage power even when not in use. For large scale systems, number of unused routers at any time is reasonably high. A significant amount of this leakage power can be saved by applying fine-grained power-gating to unused routers in a NoC. In this paper, we propose fine-grained reconfigurable router architecture (FGRRA) for energy efficient on-chip communications. We"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7393682/",
+                "author_id": [
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "VqKdTy4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:b232CfOd11AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPower-and%2Bperformance-aware%2Bfine-grained%2Breconfigurable%2Brouter%2Barchitecture%2Bfor%2BNoC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=b232CfOd11AJ&ei=4FRkYsjPD86E6rQP5-KmKA&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=5825298310196784495&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:b232CfOd11AJ:scholar.google.com/&scioq=Power-and+performance-aware+fine-grained+reconfigurable+router+architecture+for+NoC&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/07393682.pdf"
+            }
+        },
+        {
+            "title": "A low-cost non-intrusive appliance load monitoring system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "rsH6pfgAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Das, A Shukla, GNS Harsha, S Deb",
+            "publication": "2013 3rd IEEE International Advance Computing Conference (IACC), 1641-1644, 2013",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7125041122037283990",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7125041122037283990&engine=google_scholar&hl=en",
+                "cites_id": "7125041122037283990"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A low-cost non-intrusive appliance load monitoring system",
+                    "author": [
+                        "S Das",
+                        "A Shukla",
+                        "GNS Harsha"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "2013 3rd IEEE \u2026",
+                    "abstract": "The major problem in current day's scenario is the increasing power consumption and vastly decreasing energy resources, especially in developing countries like India. This calls for a dire need to properly monitor power usage and take necessary steps to optimize the usage. To achieve this goal, a proper system needs to be developed that can provide the energy requirements and usage at all levels and build automating systems that reduce the unnecessary usage and losses. Towards this goal, we try to design a architecture which"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6514474/",
+                "author_id": [
+                    "",
+                    "c-S0ouYAAAAJ",
+                    "rsH6pfgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ljwVgSY74WIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Blow-cost%2Bnon-intrusive%2Bappliance%2Bload%2Bmonitoring%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ljwVgSY74WIJ&ei=7FRkYq79CMLZmQHnraWYCA&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=7125041122037283990&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ljwVgSY74WIJ:scholar.google.com/&scioq=A+low-cost+non-intrusive+appliance+load+monitoring+system&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "On-chip wireless channel propagation: Impact of antenna directionality and placement on channel performance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:tOudhMTPpwUC",
+            "citation_id": "rsH6pfgAAAAJ:tOudhMTPpwUC",
+            "authors": "SH Gade, SS Rout, S Deb",
+            "publication": "2018 Twelfth IEEE/ACM International Symposium on Networks-on-Chip (NOCS), 1-8, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=791616036416384830",
+                "serpapi_link": "https://serpapi.com/search.json?cites=791616036416384830&engine=google_scholar&hl=en",
+                "cites_id": "791616036416384830"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On-chip wireless channel propagation: Impact of antenna directionality and placement on channel performance",
+                    "author": [
+                        "SH Gade",
+                        "SS Rout",
+                        "S Deb"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 Twelfth IEEE/ACM \u2026",
+                    "abstract": "Long range, low latency wireless links in Networks-on-Chip (NoCs) have been shown to be the most promising solution to provide high performance intra/inter-chip communication in many core era. Significant advancements have been made in design of both Wireless NoC (WNoC) topologies and transceiver circuits to support wireless communication at chip level. However, a comprehensive understanding of wireless physical layer and its impact on performance is still lacking. There is still a lot of scope for thorough analysis of the affects of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8512173/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "2A34nJIAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Pu8ZSZdi_AoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn-chip%2Bwireless%2Bchannel%2Bpropagation:%2BImpact%2Bof%2Bantenna%2Bdirectionality%2Band%2Bplacement%2Bon%2Bchannel%2Bperformance%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Pu8ZSZdi_AoJ&ei=71RkYvHzOpyO6rQP_qe3mAs&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=791616036416384830&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Pu8ZSZdi_AoJ:scholar.google.com/&scioq=On-chip+wireless+channel+propagation:+Impact+of+antenna+directionality+and+placement+on+channel+performance&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2018/12/08512173.pdf"
+            }
+        },
+        {
+            "title": "Energy efficient chip-to-chip wireless interconnection for heterogeneous architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:B3FOqHPlNUQC",
+            "citation_id": "rsH6pfgAAAAJ:B3FOqHPlNUQC",
+            "authors": "SH Gade, MM Ahmed, S Deb, A Ganguly",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 24 (5 \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5112399373785790556",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5112399373785790556&engine=google_scholar&hl=en",
+                "cites_id": "5112399373785790556"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficient chip-to-chip wireless interconnection for heterogeneous architectures",
+                    "author": [
+                        "SH Gade",
+                        "MM Ahmed",
+                        "S Deb",
+                        "A Ganguly"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "ACM Transactions on Design \u2026",
+                    "abstract": "Heterogeneous multichip architectures have gained significant interest in high-performance computing clusters to cater to a wide range of applications. In particular, heterogeneous systems with multiple multicore CPUs, GPUs, and memory have become common to meet application requirements. The shared resources like interconnection network in such systems pose significant challenges due to the diverse traffic requirements of CPUs and GPUs. Especially, the performance and energy consumption of inter-chip communication"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3340109",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "ewSaCpkAAAAJ",
+                    "e3z7tT0AAAAJ",
+                    "tuWDm5kAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XHhu0CTk8kYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2Bchip-to-chip%2Bwireless%2Binterconnection%2Bfor%2Bheterogeneous%2Barchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XHhu0CTk8kYJ&ei=81RkYvzWG8LZmQHnraWYCA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=5112399373785790556&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XHhu0CTk8kYJ:scholar.google.com/&scioq=Energy+efficient+chip-to-chip+wireless+interconnection+for+heterogeneous+architectures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/3340109"
+            }
+        },
+        {
+            "title": "Reliability analysis of on-chip wireless links for many core wnocs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:vRqMK49ujn8C",
+            "citation_id": "rsH6pfgAAAAJ:vRqMK49ujn8C",
+            "authors": "SH Gade, SS Rout, R Kashyap, S Deb",
+            "publication": "2018 Conference on Design of Circuits and Integrated Systems (DCIS), 1-6, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6641956860646871124",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6641956860646871124&engine=google_scholar&hl=en",
+                "cites_id": "6641956860646871124"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Reliability analysis of on-chip wireless links for many core wnocs",
+                    "author": [
+                        "SH Gade",
+                        "SS Rout",
+                        "R Kashyap"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 Conference on \u2026",
+                    "abstract": "On-chip wireless interconnects in Wireless Network-on-Chip (WNoC) show considerable promise for significantly improving communication performance and energy in many core processors. Wireless links offer high bandwidth, low latency and low per bit energy consumption, along with broadcast capability. While, they offer several advantages, wireless links are inherently unreliable, unlike wired links. Wireless transmission in on-chip network faces challenges from complex channel characteristics, channel sharing and allocation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8681475/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "2A34nJIAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:VFBT_JL4LFwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReliability%2Banalysis%2Bof%2Bon-chip%2Bwireless%2Blinks%2Bfor%2Bmany%2Bcore%2Bwnocs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VFBT_JL4LFwJ&ei=_1RkYtqzAZqSy9YP8pKNsAE&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=6641956860646871124&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VFBT_JL4LFwJ:scholar.google.com/&scioq=Reliability+analysis+of+on-chip+wireless+links+for+many+core+wnocs&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Energy efficient noc router for high throughput applications in many-core gpus",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:OU6Ihb5iCvQC",
+            "citation_id": "rsH6pfgAAAAJ:OU6Ihb5iCvQC",
+            "authors": "S Bansal, HK Mondal, SH Gade, S Deb",
+            "publication": "2017 IEEE International Symposium on Nanoelectronic and Information Systems \u2026, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8787756307556344178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8787756307556344178&engine=google_scholar&hl=en",
+                "cites_id": "8787756307556344178"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficient noc router for high throughput applications in many-core gpus",
+                    "author": [
+                        "S Bansal",
+                        "HK Mondal",
+                        "SH Gade"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE International \u2026",
+                    "abstract": "With the development of many-core GPU clusters, researchers are forced to deal with an increased power consumption and a shortage of chip area. Numerous efforts have gone into creating a scalable and a power and area efficient Network-on-Chip solution. However most of these solutions either compromise on performance or are not scalable. In this work, we propose a scalable, minimally buffered router to minimize chip area and use the concept of Marching Memory to save power without having to compromise on the network performance"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8293903/",
+                "author_id": [
+                    "usfjfusAAAAJ",
+                    "shhuV9AAAAAJ",
+                    "rsH6pfgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ciGYXM1h9HkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Befficient%2Bnoc%2Brouter%2Bfor%2Bhigh%2Bthroughput%2Bapplications%2Bin%2Bmany-core%2Bgpus%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ciGYXM1h9HkJ&ei=AlVkYpuePI6pywTd4KPADw&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=8787756307556344178&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ciGYXM1h9HkJ:scholar.google.com/&scioq=Energy+efficient+noc+router+for+high+throughput+applications+in+many-core+gpus&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2018/08/08293903.pdf"
+            }
+        },
+        {
+            "title": "Design of signal-matched critically sampled fir rational filterbank",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "rsH6pfgAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Gogna, SH Gade, A Gupta",
+            "publication": "2015 IEEE International Conference on Acoustics, Speech and Signal \u2026, 2015",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10034166381770990478",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10034166381770990478&engine=google_scholar&hl=en",
+                "cites_id": "10034166381770990478"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design of signal-matched critically sampled fir rational filterbank",
+                    "author": [
+                        "A Gogna",
+                        "SH Gade",
+                        "A Gupta"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 IEEE International \u2026",
+                    "abstract": "Wavelet transform is used for efficient signal analysis in various applications. The traditional wavelet system is implemented using integer decimation factors, although frequency tiling offered by rational decimation may better adapt to signal characteristics. In this paper, we propose a design methodology for signal-matched filterbank (FB) with rational decimation factors that achieves perfect reconstruction with FIR filters. We have applied the proposed design on some real world signals. With the proposed design, we obtain a more"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7178693/",
+                "author_id": [
+                    "VvE0trgAAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "VWCf3JEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jmOgMimFQIsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Bof%2Bsignal-matched%2Bcritically%2Bsampled%2Bfir%2Brational%2Bfilterbank%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jmOgMimFQIsJ&ei=B1VkYtC6MYOEmgHx-5DADA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=10034166381770990478&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jmOgMimFQIsJ:scholar.google.com/&scioq=Design+of+signal-matched+critically+sampled+fir+rational+filterbank&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Disparity map computation for stereo images using compressive sampling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:1sJd4Hv_s6UC",
+            "citation_id": "rsH6pfgAAAAJ:1sJd4Hv_s6UC",
+            "authors": "GN Harsha, A Majumdar, R Ward",
+            "publication": "Signal and Image Processing, 804-809, 2013",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5405874909801120919",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5405874909801120919&engine=google_scholar&hl=en",
+                "cites_id": "5405874909801120919"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Disparity map computation for stereo images using compressive sampling",
+                    "author": [
+                        "GN Harsha",
+                        "A Majumdar",
+                        "R Ward"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Signal and Image Processing",
+                    "abstract": "In this paper we propose a new technique for computing disparity maps. This paper is based on the popular correlation based disparity map computation approach. The task is to estimate a dense disparity map given two stereo images. Instead of computing the full disparity map, we only compute the disparity values for randomly selected epipolar lines. The output of this exercise is a sampled disparity map; from the sampled disparity map, the full map is reconstructed by exploiting the sparsity of the map in Fourier domain using"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.actapress.com/Abstract.aspx?paperId=455696",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "nwNIkAUAAAAJ",
+                    "dqsw1u8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:l4TkwpaGBUsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDisparity%2Bmap%2Bcomputation%2Bfor%2Bstereo%2Bimages%2Busing%2Bcompressive%2Bsampling%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=l4TkwpaGBUsJ&ei=C1VkYonDC_mQ6rQP5OqKqAo&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=5405874909801120919&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:l4TkwpaGBUsJ:scholar.google.com/&scioq=Disparity+map+computation+for+stereo+images+using+compressive+sampling&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "An Automated Traffic Generation Framework for Performance Evaluation of Networks-on-Chip for Real World Use Cases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:HbR8gkJAVGIC",
+            "citation_id": "rsH6pfgAAAAJ:HbR8gkJAVGIC",
+            "authors": "SH Gade, A Gangwar, A Prasad, NK Agarwal, R Sreedharan",
+            "publication": "2021 IEEE International Symposium on Performance Analysis of Systems and \u2026, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4417473374521141402",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4417473374521141402&engine=google_scholar&hl=en",
+                "cites_id": "4417473374521141402"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An Automated Traffic Generation Framework for Performance Evaluation of Networks-on-Chip for Real World Use Cases",
+                    "author": [
+                        "SH Gade",
+                        "A Gangwar",
+                        "A Prasad"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 Analysis of Systems \u2026",
+                    "abstract": "Networks-on-Chip (NoCs) are fast becoming the defacto interconnection fabric for System-on-Chip (SoC) architectures. Early stage performance modeling is a critical step in NoC design for design space exploration and achieving efficient topologies within Time-To-Market (TTM) demands. In this paper, we propose an automatic traffic generation framework for early and comprehensive analysis of NoCs. Using behavioral input and five independent control parameters, it generates a wide range of spatio-temporal traffic stimuli, including"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9408180/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "4nfeXs8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:migUHaEETj0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2BAutomated%2BTraffic%2BGeneration%2BFramework%2Bfor%2BPerformance%2BEvaluation%2Bof%2BNetworks-on-Chip%2Bfor%2BReal%2BWorld%2BUse%2BCases%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=migUHaEETj0J&ei=DlVkYpKdDc6E6rQP5-KmKA&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=4417473374521141402&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:migUHaEETj0J:scholar.google.com/&scioq=An+Automated+Traffic+Generation+Framework+for+Performance+Evaluation+of+Networks-on-Chip+for+Real+World+Use+Cases&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "High bandwidth off-chip memory access through hybrid switching and inter-chip wireless links",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:738O_yMBCRsC",
+            "citation_id": "rsH6pfgAAAAJ:738O_yMBCRsC",
+            "authors": "SH Gade, HK Mondal, S Deb",
+            "publication": "2018 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 100-105, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17621383304153385005",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17621383304153385005&engine=google_scholar&hl=en",
+                "cites_id": "17621383304153385005"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "High bandwidth off-chip memory access through hybrid switching and inter-chip wireless links",
+                    "author": [
+                        "SH Gade",
+                        "HK Mondal",
+                        "S Deb"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE Computer Society \u2026",
+                    "abstract": "Off-chip memory performance in many core processors has remained unscaled due to limited pin bandwidth, number of memory controllers and interconnect limitations. It is one of the major bottlenecks for achieving high performance in many core processors, especially with increasing bandwidth requirements as more cores are integrated on a single chip. To achieve high bandwidth memory access, we propose an interconnection architecture with (i) off-chip wireless links for main memory access and (ii) hybrid switching with packet and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8429349/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "shhuV9AAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LcgPx8C6i_QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHigh%2Bbandwidth%2Boff-chip%2Bmemory%2Baccess%2Bthrough%2Bhybrid%2Bswitching%2Band%2Binter-chip%2Bwireless%2Blinks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LcgPx8C6i_QJ&ei=E1VkYvTkF7KO6rQPy-CRsA8&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=17621383304153385005&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LcgPx8C6i_QJ:scholar.google.com/&scioq=High+bandwidth+off-chip+memory+access+through+hybrid+switching+and+inter-chip+wireless+links&hl=en&as_sdt=0,33",
+                "eprint_url": "http://www.iiitd.edu.in/noc/wp-content/uploads/2018/08/08429349.pdf"
+            }
+        },
+        {
+            "title": "A Pre-RTL floorplanner tool for automated CMP design space exploration with thermal awareness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:dshw04ExmUIC",
+            "citation_id": "rsH6pfgAAAAJ:dshw04ExmUIC",
+            "authors": "SH Gade, P Kumar, S Deb",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-6, 2016",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4248083003662552240",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4248083003662552240&engine=google_scholar&hl=en",
+                "cites_id": "4248083003662552240"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Pre-RTL floorplanner tool for automated CMP design space exploration with thermal awareness",
+                    "author": [
+                        "SH Gade",
+                        "P Kumar",
+                        "S Deb"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 on VLSI Design and Test (VDAT)",
+                    "abstract": "Chip Multiprocessor (CMP) and System-on-Chip (SoC) designs have a large number of modules with billions of transistors embedded on a single die. While they offer very high performance, they also increase the design complexity and pose many challenges with one of them being floor-planning and placement. Floor-planning process is affected by and in turn effects physical characteristics, wire length, propagation delay between modules, power and thermal density of the chip. Floor-planning at backend generally takes considerable"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8064876/",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "Y7IDyooAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:sEyuCfw49DoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BPre-RTL%2Bfloorplanner%2Btool%2Bfor%2Bautomated%2BCMP%2Bdesign%2Bspace%2Bexploration%2Bwith%2Bthermal%2Bawareness%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sEyuCfw49DoJ&ei=F1VkYsr1EI2ymgHg1rfQDQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=4248083003662552240&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:sEyuCfw49DoJ:scholar.google.com/&scioq=A+Pre-RTL+floorplanner+tool+for+automated+CMP+design+space+exploration+with+thermal+awareness&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/noc/wp-content/uploads/2017/11/08064876.pdf"
+            }
+        },
+        {
+            "title": "Automated synthesis of custom networks-on-chip for real world applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:xtoqd-5pKcoC",
+            "citation_id": "rsH6pfgAAAAJ:xtoqd-5pKcoC",
+            "authors": "A Gangwar, NK Agarwal, R Sreedharan, A Prasad, SH Gade, Z Xu",
+            "publication": "2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD), 1-9, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12511587603676269335",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12511587603676269335&engine=google_scholar&hl=en",
+                "cites_id": "12511587603676269335"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automated synthesis of custom networks-on-chip for real world applications",
+                    "author": [
+                        "A Gangwar",
+                        "NK Agarwal",
+                        "R Sreedharan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE/ACM \u2026",
+                    "abstract": "Network-on-Chip (NoC), using a packetized communication model presents a scalable interconnect infrastructure for System-on-Chip (SoC) architectures that meets its Performance, Power and Area (PPA) objectives. A typical NoC consists of building blocks such as routers, resizers and Power and Clock Domain Converters (PCDC). Hand crafting a NoC that meets PPA requirements within Time-to-Market (TTM) constraints is difficult if not intractable for real world systems. In this paper, we present an automated NoC synthesis tool"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9256691/",
+                "author_id": [
+                    "4nfeXs8AAAAJ",
+                    "TQg39NgAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:FwtO5aIWoq0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomated%2Bsynthesis%2Bof%2Bcustom%2Bnetworks-on-chip%2Bfor%2Breal%2Bworld%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FwtO5aIWoq0J&ei=GlVkYre5NJqSy9YP8pKNsAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=12511587603676269335&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FwtO5aIWoq0J:scholar.google.com/&scioq=Automated+synthesis+of+custom+networks-on-chip+for+real+world+applications&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Topology Agnostic Virtual Channel Assignment and Protocol Level Deadlock Avoidance in a Network-on-Chip",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:ruyezt5ZtCIC",
+            "citation_id": "rsH6pfgAAAAJ:ruyezt5ZtCIC",
+            "authors": "A Gangwar, R Sreedharan, A Prasad, NK Agarwal, SH Gade",
+            "publication": "2021 58th ACM/IEEE Design Automation Conference (DAC), 61-66, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Topology Agnostic Virtual Channel Assignment and Protocol Level Deadlock Avoidance in a Network-on-Chip",
+                    "author": [
+                        "A Gangwar",
+                        "R Sreedharan",
+                        "A Prasad"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 58th ACM/IEEE \u2026",
+                    "abstract": "A Virtual Channel (VC) is a Time Division Multiplexed (TDM) slice of a physical channel/link. A crucial step of interconnect synthesis is to assign VCs to traffic that avoids deadlocks while meeting Power, Performance and Area (PPA) objectives. For a Network on Chip (NoC), VC assignment is tightly coupled with topology generation and routing. Inefficient VC assignment can lead to NoCs which may be an order of magnitude inferior in terms of PPA. However, both VC assignment and topology generation are combinatorially hard problems"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9586196/",
+                "author_id": [
+                    "4nfeXs8AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:rvvhq7FcCbEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTopology%2BAgnostic%2BVirtual%2BChannel%2BAssignment%2Band%2BProtocol%2BLevel%2BDeadlock%2BAvoidance%2Bin%2Ba%2BNetwork-on-Chip%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rvvhq7FcCbEJ&ei=IVVkYsWLL4ySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:rvvhq7FcCbEJ:scholar.google.com/&scioq=Topology+Agnostic+Virtual+Channel+Assignment+and+Protocol+Level+Deadlock+Avoidance+in+a+Network-on-Chip&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "A Novel Hybrid Cache Coherence with Global Snooping for Many-core Architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:q3CdL3IzO_QC",
+            "citation_id": "rsH6pfgAAAAJ:q3CdL3IzO_QC",
+            "authors": "SH Gade, S Deb",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 27 (1 \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Novel Hybrid Cache Coherence with Global Snooping for Many-core Architectures",
+                    "author": [
+                        "SH Gade",
+                        "S Deb"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "ACM Transactions on Design Automation of Electronic \u2026",
+                    "abstract": "Cache coherence ensures correctness of cached data in multi-core processors. Traditional implementations of existing protocols make them unscalable for many core architectures. While snoopy coherence requires unscalable ordered networks, directory coherence is weighed down by high area and energy overheads. In this work, we propose Wireless-enabled Share-aware Hybrid (WiSH) to provide scalable coherence in many core processors. WiSH implements a novel Snoopy over Directory protocol using on-chip"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3462775",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:1f6j1VlWJxYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BNovel%2BHybrid%2BCache%2BCoherence%2Bwith%2BGlobal%2BSnooping%2Bfor%2BMany-core%2BArchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1f6j1VlWJxYJ&ei=LFVkYpC8Co2ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:1f6j1VlWJxYJ:scholar.google.com/&scioq=A+Novel+Hybrid+Cache+Coherence+with+Global+Snooping+for+Many-core+Architectures&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Near Threshold Last Level Cache for Energy Efficient Embedded Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:tS2w5q8j5-wC",
+            "citation_id": "rsH6pfgAAAAJ:tS2w5q8j5-wC",
+            "authors": "M Sinha, SS Rout, SH Gade, S Deb",
+            "publication": "2018 Ninth International Green and Sustainable Computing Conference (IGSC), 1-6, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Near Threshold Last Level Cache for Energy Efficient Embedded Applications",
+                    "author": [
+                        "M Sinha",
+                        "SS Rout",
+                        "SH Gade"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 Ninth International \u2026",
+                    "abstract": "State-of-the-art embedded processors find their use in several domains like vision-based and big data applications. Such applications require a huge amount of information per task, and thereby need frequent main memory accesses to perform the entire computation. In such a scenario, a bigger size last level cache (LLC) would improve the performance and throughput of the system by reducing the global miss rate and miss penalty to a large extent. But this would lead to increased power consumption due to the extended cache memory"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8752134/",
+                "author_id": [
+                    "tsn4SxwAAAAJ",
+                    "2A34nJIAAAAJ",
+                    "rsH6pfgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:l87MGkaNqx4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNear%2BThreshold%2BLast%2BLevel%2BCache%2Bfor%2BEnergy%2BEfficient%2BEmbedded%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=l87MGkaNqx4J&ei=MVVkYrGDI4uKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:l87MGkaNqx4J:scholar.google.com/&scioq=Near+Threshold+Last+Level+Cache+for+Energy+Efficient+Embedded+Applications&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Tutorial T8: Communication Infrastructure for Future Exascale Processors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:CHSYGLWDkRkC",
+            "citation_id": "rsH6pfgAAAAJ:CHSYGLWDkRkC",
+            "authors": "S Deb, SH Gade, HK Mondal",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Tutorial T8: Communication Infrastructure for Future Exascale Processors",
+                    "author": [
+                        "S Deb",
+                        "SH Gade",
+                        "HK Mondal"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "\u2026 on VLSI Design and 2017 16th \u2026",
+                    "abstract": "Summary form only given, as follows. The complete presentation was not made available for publication as part of the conference proceedings. Current commercial System-on-Chip (SoC) designs integrate an increasingly large number of predesigned cores, and their number is predicted to increase significantly in the near future. These stateof-the-art commercial SoC designs with a large number of intellectual property (IP) blocks, commonly known as cores, on a single die are made feasible by the continuing progress and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7884742/",
+                "author_id": [
+                    "e3z7tT0AAAAJ",
+                    "rsH6pfgAAAAJ",
+                    "shhuV9AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Na8k5QmvUhYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTutorial%2BT8:%2BCommunication%2BInfrastructure%2Bfor%2BFuture%2BExascale%2BProcessors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Na8k5QmvUhYJ&ei=NFVkYvGOGoySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Na8k5QmvUhYJ:scholar.google.com/&scioq=Tutorial+T8:+Communication+Infrastructure+for+Future+Exascale+Processors&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Design of energy e cient future CMPs with on-chip wireless interconnects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:SP6oXDckpogC",
+            "citation_id": "rsH6pfgAAAAJ:SP6oXDckpogC",
+            "authors": "GN Sri Harsha, A Srinivasan",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design of energy e cient future CMPs with on-chip wireless interconnects",
+                    "author": [
+                        "GN Sri Harsha",
+                        "A Srinivasan"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "NA",
+                    "abstract": "Power density and interconnect delay have emerged as the biggest challenges for Ultra Large Scale Integration (ULSI) and System-on-Chip (SoC) designs particularly beyond 65nm generation. Leakage power has been traditionally non-critical in CMOS circuits, but with extensive scaling, even it is increasing significantly. Dynamic Voltage/Frequency Scaling (DVFS) has been demonstrated to be one of the e ective ways to reduce the power consumption and power density across the chip. Network-on-Chip (NoC) architectures"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/163",
+                "author_id": [
+                    "rsH6pfgAAAAJ",
+                    "zpNTeogAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:n-Iqyz1h4ogJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Bof%2Benergy%2Be%2Bcient%2Bfuture%2BCMPs%2Bwith%2Bon-chip%2Bwireless%2Binterconnects%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=n-Iqyz1h4ogJ&ei=N1VkYuj6I5qSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:n-Iqyz1h4ogJ:scholar.google.com/&scioq=Design+of+energy+e+cient+future+CMPs+with+on-chip+wireless+interconnects&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/163/MT12094.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "2021 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)| 978-1-7281-8643-6/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109/ISPASS51385. 2021.00054",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=rsH6pfgAAAAJ&pagesize=100&citation_for_view=rsH6pfgAAAAJ:foquWX3nUaYC",
+            "citation_id": "rsH6pfgAAAAJ:foquWX3nUaYC",
+            "authors": "JL Abell\u00e1n, NK Agarwal, JH Ahn, V Akella, A Akram, A Alawneh, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "2013 IEEE International Symposium on Performance Analysis of Systems and Software ISPASS 2013",
+                    "author": [
+                        "I Keynote"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "............ 154 ,Xiaodong Zhu (University of Science and Technology of China), Junmin Wu (University  of Science and ,Technology of China), Tao Li (University of Florida), Xianfen Cui (University  of Science and Technology ,of China), Xiufeng Sui (Institute of Computing Technology  Chinese Academy Of Sciences) , ,Performance Analysis of Broa,dcasting Algorithms on the  In,tel Single Chip Cloud ........................... 163 ,John Matienzo, Natalie Enright Jerger ,(University  of Toronto) , ,Selecting Benchmark Combinations for the Ev,aluation of Multicor,e"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.computer.org/csdl/proceedings-article/ispass/2013/06557138/12OmNz2C1z8",
+                "author_id": [
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:0uHoShbEYFoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D2021%2BIEEE%2BInternational%2BSymposium%2Bon%2BPerformance%2BAnalysis%2Bof%2BSystems%2Band%2BSoftware%2B(ISPASS)%257C%2B978-1-7281-8643-6/21/%252431.00%25C2%25A9%2B2021%2BIEEE%257C%2BDOI:%2B10.1109/ISPASS51385.%2B2021.00054%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0uHoShbEYFoJ&ei=SVVkYtWjO4uKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6523368/6557136/06557138.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 362,
+                    "since_2017": 326
+                }
+            },
+            {
+                "h_index": {
+                    "all": 11,
+                    "since_2017": 10
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 14,
+                    "since_2017": 11
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 2
+            },
+            {
+                "year": 2015,
+                "citations": 7
+            },
+            {
+                "year": 2016,
+                "citations": 11
+            },
+            {
+                "year": 2017,
+                "citations": 55
+            },
+            {
+                "year": 2018,
+                "citations": 76
+            },
+            {
+                "year": 2019,
+                "citations": 83
+            },
+            {
+                "year": 2020,
+                "citations": 47
+            },
+            {
+                "year": 2021,
+                "citations": 48
+            },
+            {
+                "year": 2022,
+                "citations": 16
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=rsH6pfgAAAAJ",
+        "available": 5,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Sujay Deb",
+            "link": "https://scholar.google.com/citations?user=e3z7tT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e3z7tT0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "e3z7tT0AAAAJ",
+            "affiliations": "Associate Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e3z7tT0AAAAJ&citpid=3"
+        }
+    ]
+}

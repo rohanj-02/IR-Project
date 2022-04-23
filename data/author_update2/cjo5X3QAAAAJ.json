@@ -1,0 +1,737 @@
+{
+    "search_metadata": {
+        "id": "62574cc79790542a8c2c60a9",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ca08af71c7a53ad1/62574cc79790542a8c2c60a9.json",
+        "created_at": "2022-04-13 22:20:55 UTC",
+        "processed_at": "2022-04-13 22:20:56 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=cjo5X3QAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/ca08af71c7a53ad1/62574cc79790542a8c2c60a9.html",
+        "total_time_taken": 0.66,
+        "total_articles": 10,
+        "total_co_authors": 14
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "cjo5X3QAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Shagun Uppal",
+        "affiliations": "Visiting Scholar @ CLVR Lab, USC | CSE Undergrad IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://shagunuppal.github.io/",
+        "interests": [
+            {
+                "title": "Computer Vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "Representation Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:representation_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arepresentation_learning"
+            },
+            {
+                "title": "Self-supervised Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:self_supervised_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aself_supervised_learning"
+            },
+            {
+                "title": "Reinforcement Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=cjo5X3QAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "cjo5X3QAAAAJ:u-x6o8ySG0sC",
+            "authors": "A Shukla, S Bhagat, S Uppal, S Anand, P Turaga",
+            "publication": "British Machine Vision Conference (BMVC) 2019, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11603577879388626671",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11603577879388626671&engine=google_scholar&hl=en",
+                "cites_id": "11603577879388626671"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Product of orthogonal spheres parameterization for disentangled representation learning",
+                    "author": [
+                        "A Shukla",
+                        "S Bhagat",
+                        "S Uppal",
+                        "S Anand"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Learning representations that can disentangle explanatory attributes underlying the data improves interpretabilty as well as provides control on data generation. Various learning frameworks such as VAEs, GANs and auto-encoders have been used in the literature to learn such representations. Most often, the latent space is constrained to a partitioned representation or structured by a prior to impose disentangling. In this work, we advance the use of a latent representation based on a product space of Orthogonal Spheres PrOSe. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1907.09554",
+                "author_id": [
+                    "c-S0ouYAAAAJ",
+                    "SLRQlXEAAAAJ",
+                    "cjo5X3QAAAAJ",
+                    "YmYvVEQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7x6KWJowCKEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DProduct%2Bof%2BOrthogonal%2BSpheres%2BParameterization%2Bfor%2BDisentangled%2BRepresentation%2BLearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7x6KWJowCKEJ&ei=WVJkYpOcCo6pywTd4KPADw&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=11603577879388626671&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7x6KWJowCKEJ:scholar.google.com/&scioq=Product+of+Orthogonal+Spheres+Parameterization+for+Disentangled+Representation+Learning&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1907.09554"
+            },
+            "processed_authors": [
+                "a shukla",
+                "sarthak bhagat",
+                "shagun uppal",
+                "saket anand",
+                "p turaga"
+            ]
+        },
+        {
+            "title": "Disentangling Multiple Features in Video Sequences using Gaussian Processes in Variational Autoencoders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "cjo5X3QAAAAJ:UeHWp8X0CEIC",
+            "authors": "S Bhagat, S Uppal, Z Yin, N Lim",
+            "publication": "European Conference on Computer Vision, 2020",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16184091877881145332,6920333988879995039",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16184091877881145332%2C6920333988879995039&engine=google_scholar&hl=en",
+                "cites_id": "16184091877881145332,6920333988879995039"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Disentangling multiple features in video sequences using gaussian processes in variational autoencoders",
+                    "author": [
+                        "S Bhagat",
+                        "S Uppal",
+                        "Z Yin",
+                        "N Lim"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "European Conference on Computer \u2026",
+                    "abstract": "We introduce MGP-VAE (Multi-disentangled-features Gaussian Processes Variational AutoEncoder), a variational autoencoder which uses Gaussian processes (GP) to model the latent space for the unsupervised learning of disentangled representations in video sequences. We improve upon previous work by establishing a framework by which multiple features, static or dynamic, can be disentangled. Specifically we use fractional Brownian motions (fBM) and Brownian bridges (BB) to enforce an inter-frame correlation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_7",
+                "author_id": [
+                    "SLRQlXEAAAAJ",
+                    "cjo5X3QAAAAJ",
+                    "",
+                    "g-MNL-oAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9Odj4dBxmeAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDisentangling%2BMultiple%2BFeatures%2Bin%2BVideo%2BSequences%2Busing%2BGaussian%2BProcesses%2Bin%2BVariational%2BAutoencoders%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9Odj4dBxmeAJ&ei=XlJkYue2FPmQ6rQP5OqKqAo&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=16184091877881145332&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9Odj4dBxmeAJ:scholar.google.com/&scioq=Disentangling+Multiple+Features+in+Video+Sequences+using+Gaussian+Processes+in+Variational+Autoencoders&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2001.02408"
+            },
+            "processed_authors": [
+                "sarthak bhagat",
+                "shagun uppal",
+                "z yin",
+                "n lim"
+            ]
+        },
+        {
+            "title": "Geometry of Deep Generative Models for Disentangled Representations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "cjo5X3QAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Shukla, S Uppal, S Bhagat, S Anand, P Turaga",
+            "publication": "Proceedings of the 11th Indian Conference on Computer Vision, Graphics and \u2026, 2019",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10705640999146093064",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10705640999146093064&engine=google_scholar&hl=en",
+                "cites_id": "10705640999146093064"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Geometry of deep generative models for disentangled representations",
+                    "author": [
+                        "A Shukla",
+                        "S Uppal",
+                        "S Bhagat",
+                        "S Anand"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the 11th \u2026",
+                    "abstract": "Deep generative models like variational autoencoders approximate the intrinsic geometry of high dimensional data manifolds by learning a set of low-dimensional latent-space variables and an embedding function. The geometrical properties of these latent spaces has been studied under the lens of Riemannian geometry; via analysis of the non-linearity of the generator function. In new developments, deep generative models have been used for learning semantically meaningful'disentangled'representations; that capture task relevant"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3293353.3293422",
+                "author_id": [
+                    "c-S0ouYAAAAJ",
+                    "cjo5X3QAAAAJ",
+                    "SLRQlXEAAAAJ",
+                    "YmYvVEQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CPr1jsQTkpQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGeometry%2Bof%2BDeep%2BGenerative%2BModels%2Bfor%2BDisentangled%2BRepresentations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CPr1jsQTkpQJ&ei=YlJkYtGTHu-Sy9YPs_mY8AM&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=10705640999146093064&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:CPr1jsQTkpQJ:scholar.google.com/&scioq=Geometry+of+Deep+Generative+Models+for+Disentangled+Representations&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1902.06964"
+            },
+            "processed_authors": [
+                "a shukla",
+                "shagun uppal",
+                "sarthak bhagat",
+                "saket anand",
+                "p turaga"
+            ]
+        },
+        {
+            "title": "Multimodal research in vision and language: A review of current and emerging trends",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:WF5omc3nYNoC",
+            "citation_id": "cjo5X3QAAAAJ:WF5omc3nYNoC",
+            "authors": "S Uppal, S Bhagat, D Hazarika, N Majumder, S Poria, R Zimmermann, ...",
+            "publication": "Information Fusion 77, 149-171, 2022",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16442946616890649574,15035978596004139955",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16442946616890649574%2C15035978596004139955&engine=google_scholar&hl=en",
+                "cites_id": "16442946616890649574,15035978596004139955"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multimodal research in vision and language: A review of current and emerging trends",
+                    "author": [
+                        "S Uppal",
+                        "S Bhagat",
+                        "D Hazarika",
+                        "N Majumder",
+                        "S Poria"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "Information \u2026",
+                    "abstract": "Deep Learning and its applications have cascaded impactful research and development with a diverse range of modalities present in the real-world data. More recently, this has enhanced research interests in the intersection of the Vision and Language arena with its numerous applications and fast-paced growth. In this paper, we present a detailed overview of the latest trends in research pertaining to visual and language modalities. We look at its applications in their task formulations and how to solve various problems related to semantic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S1566253521001512",
+                "author_id": [
+                    "cjo5X3QAAAAJ",
+                    "SLRQlXEAAAAJ",
+                    "nUCWRZAAAAAJ",
+                    "jPfEvuQAAAAJ",
+                    "oS6gRc4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:sxM0ed6GqtAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMultimodal%2Bresearch%2Bin%2Bvision%2Band%2Blanguage:%2BA%2Breview%2Bof%2Bcurrent%2Band%2Bemerging%2Btrends%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sxM0ed6GqtAJ&ei=aVJkYoikG5GJmwGY-qmYDQ&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=15035978596004139955&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:sxM0ed6GqtAJ:scholar.google.com/&scioq=Multimodal+research+in+vision+and+language:+A+review+of+current+and+emerging+trends&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2010.09522"
+            },
+            "processed_authors": [
+                "shagun uppal",
+                "sarthak bhagat",
+                "d hazarika",
+                "n majumder",
+                "s poria",
+                "r zimmermann"
+            ]
+        },
+        {
+            "title": "C3VQG: category consistent cyclic visual question generation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "cjo5X3QAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Uppal, A Madan, S Bhagat, Y Yu, RR Shah",
+            "publication": "Proceedings of the 2nd ACM International Conference on Multimedia in Asia, 1-7, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10216008434460081466",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10216008434460081466&engine=google_scholar&hl=en",
+                "cites_id": "10216008434460081466"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "C3VQG: category consistent cyclic visual question generation",
+                    "author": [
+                        "S Uppal",
+                        "A Madan",
+                        "S Bhagat",
+                        "Y Yu"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 2nd \u2026",
+                    "abstract": "Visual Question Generation (VQG) is the task of generating natural questions based on an image. Popular methods in the past have explored image-to-sequence architectures trained with maximum likelihood which have demonstrated meaningful generated questions given an image and its associated ground-truth answer. VQG becomes more challenging if the image contains rich contextual information describing its different semantic categories. In this paper, we try to exploit the different visual cues and concepts in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3444685.3446302",
+                "author_id": [
+                    "cjo5X3QAAAAJ",
+                    "eZ4WZmIAAAAJ",
+                    "SLRQlXEAAAAJ",
+                    "oqxXhPsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Oj1jXouNxo0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DC3VQG:%2Bcategory%2Bconsistent%2Bcyclic%2Bvisual%2Bquestion%2Bgeneration%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Oj1jXouNxo0J&ei=bVJkYr2lB5qSy9YP8pKNsAE&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=10216008434460081466&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Oj1jXouNxo0J:scholar.google.com/&scioq=C3VQG:+category+consistent+cyclic+visual+question+generation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2005.07771"
+            },
+            "processed_authors": [
+                "shagun uppal",
+                "anish madan",
+                "sarthak bhagat",
+                "y yu",
+                "rajiv ratn shah"
+            ]
+        },
+        {
+            "title": "Two-Step Classification using Recasted Data for Low Resource Settings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "cjo5X3QAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Uppal, V Gupta, A Swaminathan, H Zhang, D Mahata, R Gosangi, ...",
+            "publication": "Proceedings of the 1st Conference of the Asia-Pacific Chapter of the \u2026, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4018329752762179486",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4018329752762179486&engine=google_scholar&hl=en",
+                "cites_id": "4018329752762179486"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Two-step classification using recasted data for low resource settings",
+                    "author": [
+                        "S Uppal",
+                        "V Gupta",
+                        "A Swaminathan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "An NLP model's ability to reason should be independent of language. Previous works utilize Natural Language Inference (NLI) to understand the reasoning ability of models, mostly focusing on high resource languages like English. To address scarcity of data in low-resource languages such as Hindi, we use data recasting to create NLI datasets for four existing text classification datasets. Through experiments, we show that our recasted dataset is devoid of statistical irregularities and spurious patterns. We further study the consistency"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aclanthology.org/2020.aacl-main.71/",
+                "author_id": [
+                    "cjo5X3QAAAAJ",
+                    "Bs5H0S4AAAAJ",
+                    "v_EN4AIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nt_Fv575wzcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTwo-Step%2BClassification%2Busing%2BRecasted%2BData%2Bfor%2BLow%2BResource%2BSettings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nt_Fv575wzcJ&ei=cFJkYu3TKpqSy9YP8pKNsAE&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=4018329752762179486&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:nt_Fv575wzcJ:scholar.google.com/&scioq=Two-Step+Classification+using+Recasted+Data+for+Low+Resource+Settings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aclanthology.org/2020.aacl-main.71/"
+            },
+            "processed_authors": [
+                "shagun uppal",
+                "viresh gupta",
+                "a swaminathan",
+                "h zhang",
+                "d mahata",
+                "r gosangi"
+            ]
+        },
+        {
+            "title": "DisCont: Self-Supervised Visual Attribute Disentanglement using Context Vectors",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "cjo5X3QAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "S Bhagat, V Udandarao, S Uppal, S Anand",
+            "publication": "European Conference on Computer Vision, 549-553, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9076396352595302675",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9076396352595302675&engine=google_scholar&hl=en",
+                "cites_id": "9076396352595302675"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Discont: Self-supervised visual attribute disentanglement using context vectors",
+                    "author": [
+                        "S Bhagat",
+                        "V Udandarao",
+                        "S Uppal",
+                        "S Anand"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "European Conference on \u2026",
+                    "abstract": "Disentangling underlying feature attributes within an image with no prior supervision is a challenging task. Models that can disentangle attributes well, provide greater interpretability and control. In this paper, we propose a self-supervised framework: DisCont to disentangle multiple attributes by exploiting structural inductive biases within images. Motivated by a recent surge in contrastive learning frameworks, our model bridges the gap between self-supervised contrastive learning algorithms and unsupervised disentanglement. We evaluate"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-65414-6_38",
+                "author_id": [
+                    "SLRQlXEAAAAJ",
+                    "jUOcawkAAAAJ",
+                    "cjo5X3QAAAAJ",
+                    "YmYvVEQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ExkY1WTW9X0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDisCont:%2BSelf-Supervised%2BVisual%2BAttribute%2BDisentanglement%2Busing%2BContext%2BVectors%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ExkY1WTW9X0J&ei=dFJkYr_cF5LeyQTE46-QAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=9076396352595302675&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ExkY1WTW9X0J:scholar.google.com/&scioq=DisCont:+Self-Supervised+Visual+Attribute+Disentanglement+using+Context+Vectors&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.05895"
+            },
+            "processed_authors": [
+                "sarthak bhagat",
+                "v udandarao",
+                "shagun uppal",
+                "saket anand"
+            ]
+        },
+        {
+            "title": "Learning based Methods for Code Runtime Complexity Prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "cjo5X3QAAAAJ:d1gkVwhDpl0C",
+            "authors": "J Sikka, K Satya, Y Kumar, S Uppal, RR Shah, R Zimmermann",
+            "publication": "European Conference on Information Retrieval, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4675775987391946089",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4675775987391946089&engine=google_scholar&hl=en",
+                "cites_id": "4675775987391946089"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Learning based methods for code runtime complexity prediction",
+                    "author": [
+                        "J Sikka",
+                        "K Satya",
+                        "Y Kumar",
+                        "S Uppal",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 on Information Retrieval",
+                    "abstract": "Predicting the runtime complexity of a programming code is an arduous task. In fact, even for humans, it requires a subtle analysis and comprehensive knowledge of algorithms to predict time complexity with high fidelity, given any code. As per Turing's Halting problem proof, estimating code complexity is mathematically impossible. Nevertheless, an approximate solution to such a task can help developers to get real-time feedback for the efficiency of their code. In this work, we model this problem as a machine learning task and check its"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-45439-5_21",
+                "author_id": [
+                    "",
+                    "Hkn2sAYAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "cjo5X3QAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:aV3MuXyx40AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Bbased%2BMethods%2Bfor%2BCode%2BRuntime%2BComplexity%2BPrediction%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=aV3MuXyx40AJ&ei=eFJkYuquFfmQ6rQP5OqKqAo&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=4675775987391946089&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:aV3MuXyx40AJ:scholar.google.com/&scioq=Learning+based+Methods+for+Code+Runtime+Complexity+Prediction&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-030-45439-5_21"
+            },
+            "processed_authors": [
+                "j sikka",
+                "k satya",
+                "y kumar",
+                "shagun uppal",
+                "rajiv ratn shah",
+                "r zimmermann"
+            ]
+        },
+        {
+            "title": "Distilling Motion Planner Augmented Policies into Visual Control Policies for Robot Manipulation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "cjo5X3QAAAAJ:W7OEmFMy1HYC",
+            "authors": "I Liu, C Arthur, S Uppal, GS Sukhatme, JJ Lim, P Englert, Y Lee",
+            "publication": "Conference on Robot Learning, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distilling Motion Planner Augmented Policies into Visual Control Policies for Robot Manipulation",
+                    "author": [
+                        "ICA Liu",
+                        "S Uppal",
+                        "GS Sukhatme"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "\u2026 on Robot Learning",
+                    "abstract": "Learning complex manipulation tasks in realistic, obstructed environments is a challenging problem due to hard exploration in the presence of obstacles and high-dimensional visual observations. Prior work tackles the exploration problem by integrating motion planning and reinforcement learning. However, the motion planner augmented policy requires access to state information, which is often not available in the real-world settings. To this end, we propose to distill a state-based motion planner augmented policy to a visual control policy"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://proceedings.mlr.press/v164/liu22b.html",
+                "author_id": [
+                    "ToWC_fgAAAAJ",
+                    "cjo5X3QAAAAJ",
+                    "lRUi-A8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:0Yf8w0RLXYAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistilling%2BMotion%2BPlanner%2BAugmented%2BPolicies%2Binto%2BVisual%2BControl%2BPolicies%2Bfor%2BRobot%2BManipulation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0Yf8w0RLXYAJ&ei=fFJkYo7oJe-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:0Yf8w0RLXYAJ:scholar.google.com/&scioq=Distilling+Motion+Planner+Augmented+Policies+into+Visual+Control+Policies+for+Robot+Manipulation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://proceedings.mlr.press/v164/liu22b/liu22b.pdf"
+            },
+            "processed_authors": [
+                "i liu",
+                "c arthur",
+                "shagun uppal",
+                "gs sukhatme",
+                "jj lim",
+                "p englert",
+                "y lee"
+            ]
+        },
+        {
+            "title": "Geometry of Neural Network based Disentangled Latent Space Models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=cjo5X3QAAAAJ&pagesize=100&citation_for_view=cjo5X3QAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "cjo5X3QAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Uppal, S Bhagat",
+            "publication": "Indraprastha Institute of Information Technology New Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Geometry of Neural Network based Disentangled Latent Space Models",
+                    "author": [
+                        "SUS Bhagat"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "Deep generative models like VAEs and GANs have been successfully employed in learning factorized feature representation for a given task that separates out the irrelevant factors from relevant ones by approximating the intrinsic geometry of high dimensional data manifolds to a set of low-dimensional latent-space variables and an embedding function. In this work, we begin with analysing the geometrical properties of these latent spaces under the lens of Riemannian geometry; via analysis of the non-linearity of the generator function"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf",
+                "author_id": [
+                    "SLRQlXEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:H_-w8Y4ZSU8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGeometry%2Bof%2BNeural%2BNetwork%2Bbased%2BDisentangled%2BLatent%2BSpace%2BModels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=H_-w8Y4ZSU8J&ei=gFJkYqjHHI6pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:H_-w8Y4ZSU8J:scholar.google.com/&scioq=Geometry+of+Neural+Network+based+Disentangled+Latent+Space+Models&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Sarthak-Bhagat/publication/346983991_Geometry_of_Neural_Network_based_Disentangled_Latent_Space_Models/links/5fd74b4445851553a0b59699/Geometry-of-Neural-Network-based-Disentangled-Latent-Space-Models.pdf"
+            },
+            "processed_authors": [
+                "shagun uppal",
+                "sarthak bhagat"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 61,
+                    "since_2017": 61
+                }
+            },
+            {
+                "h_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 1
+            },
+            {
+                "year": 2019,
+                "citations": 4
+            },
+            {
+                "year": 2020,
+                "citations": 9
+            },
+            {
+                "year": 2021,
+                "citations": 36
+            },
+            {
+                "year": 2022,
+                "citations": 11
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=cjo5X3QAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Sarthak Bhagat",
+            "link": "https://scholar.google.com/citations?user=SLRQlXEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SLRQlXEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SLRQlXEAAAAJ",
+            "affiliations": "Deep Learning Engineer @ Preimage",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SLRQlXEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Saket Anand",
+            "link": "https://scholar.google.com/citations?user=YmYvVEQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YmYvVEQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YmYvVEQAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YmYvVEQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Pavan Turaga",
+            "link": "https://scholar.google.com/citations?user=zJH58wkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=zJH58wkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "zJH58wkAAAAJ",
+            "affiliations": "Geometric Media Lab, Arizona State University",
+            "email": "Verified email at asu.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Roger Zimmermann",
+            "link": "https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IDREwXEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IDREwXEAAAAJ",
+            "affiliations": "Professor of Computer Science, National University of Singapore",
+            "email": "Verified email at comp.nus.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IDREwXEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Nengli Lim",
+            "link": "https://scholar.google.com/citations?user=g-MNL-oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=g-MNL-oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "g-MNL-oAAAAJ",
+            "affiliations": "Assistant Professor, Singapore University of Technology and Design",
+            "email": "Verified email at sutd.edu.sg",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Amir Zadeh",
+            "link": "https://scholar.google.com/citations?user=FfQXY34AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FfQXY34AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FfQXY34AAAAJ",
+            "affiliations": "Postdoc, Carnegie Mellon University",
+            "email": "Verified email at cs.cmu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FfQXY34AAAAJ&citpid=27"
+        },
+        {
+            "name": "Devamanyu Hazarika",
+            "link": "https://scholar.google.com/citations?user=nUCWRZAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nUCWRZAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nUCWRZAAAAAJ",
+            "affiliations": "National University of Singapore",
+            "email": "Verified email at comp.nus.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nUCWRZAAAAAJ&citpid=2"
+        },
+        {
+            "name": "Soujanya Poria",
+            "link": "https://scholar.google.com/citations?user=oS6gRc4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oS6gRc4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oS6gRc4AAAAJ",
+            "affiliations": "Assistant Professor, Singapore University of Technology and Design",
+            "email": "Verified email at sutd.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oS6gRc4AAAAJ&citpid=15"
+        },
+        {
+            "name": "Yi Yu",
+            "link": "https://scholar.google.com/citations?user=oqxXhPsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oqxXhPsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oqxXhPsAAAAJ",
+            "affiliations": "Digital Content and Media Sciences Research Division, National Institute of Informatics",
+            "email": "Verified email at nii.ac.jp",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oqxXhPsAAAAJ&citpid=17"
+        },
+        {
+            "name": "Vivek Gupta",
+            "link": "https://scholar.google.com/citations?user=Bs5H0S4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Bs5H0S4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Bs5H0S4AAAAJ",
+            "affiliations": "Graduate Student, School of Computing, University of Utah",
+            "email": "Verified email at cs.utah.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Bs5H0S4AAAAJ&citpid=5"
+        },
+        {
+            "name": "Rakesh Gosangi",
+            "link": "https://scholar.google.com/citations?user=9KfWv6sAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=9KfWv6sAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "9KfWv6sAAAAJ",
+            "affiliations": "Senior Research Scientist @ Bloomberg",
+            "email": "Verified email at bloomberg.net",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9KfWv6sAAAAJ&citpid=1"
+        },
+        {
+            "name": "Amanda Stent",
+            "link": "https://scholar.google.com/citations?user=cXa9QOYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cXa9QOYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cXa9QOYAAAAJ",
+            "affiliations": "Researcher",
+            "email": "Verified email at colby.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Debanjan Mahata",
+            "link": "https://scholar.google.com/citations?user=8F1SwO0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8F1SwO0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "8F1SwO0AAAAJ",
+            "affiliations": "Director of AI @ Moody's Analytics, Adjunct Faculty @ IIIT-Delhi",
+            "email": "Verified email at moodys.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8F1SwO0AAAAJ&citpid=3"
+        }
+    ]
+}

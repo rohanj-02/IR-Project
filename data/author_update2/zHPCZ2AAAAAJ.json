@@ -1,0 +1,630 @@
+{
+    "search_metadata": {
+        "id": "62574ca09c449dbd93e50698",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/43d77ffd8b17be93/62574ca09c449dbd93e50698.json",
+        "created_at": "2022-04-13 22:20:16 UTC",
+        "processed_at": "2022-04-13 22:20:16 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=zHPCZ2AAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/43d77ffd8b17be93/62574ca09c449dbd93e50698.html",
+        "total_time_taken": 1.6,
+        "total_articles": 10,
+        "total_co_authors": 5
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "zHPCZ2AAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Ankita Likhyani",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.edu.in/~ankital/",
+        "interests": [
+            {
+                "title": "Data Mining and Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_mining_and_machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_mining_and_machine_learning"
+            },
+            {
+                "title": "Optimising Graph Traversals",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:optimising_graph_traversals",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aoptimising_graph_traversals"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zHPCZ2AAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Logical neural networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "zHPCZ2AAAAAJ:hqOjcs7Dif8C",
+            "authors": "R Riegel, A Gray, F Luus, N Khan, N Makondo, IY Akhalwaya, H Qian, ...",
+            "publication": "arXiv preprint arXiv:2006.13155, 2020",
+            "cited_by": {
+                "value": 48,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8528841725427555404",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8528841725427555404&engine=google_scholar&hl=en",
+                "cites_id": "8528841725427555404"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Logical neural networks",
+                    "author": [
+                        "R Riegel",
+                        "A Gray",
+                        "F Luus",
+                        "N Khan",
+                        "N Makondo"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "providing key properties of both neural nets (learning) and  , and corresponds to logical  reasoning, including classical first- a novel loss function capturing logical contradiction, yielding"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2006.13155",
+                "author_id": [
+                    "CqqheH0AAAAJ",
+                    "",
+                    "IT64q7kAAAAJ",
+                    "CXaTRZUAAAAJ",
+                    "A-zYKGYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TJyjjVyIXHYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLogical%2Bneural%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TJyjjVyIXHYJ&ei=oVVkYpf-HIOEmgHx-5DADA&json=",
+                "num_citations": 48,
+                "citedby_url": "/scholar?cites=8528841725427555404&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:TJyjjVyIXHYJ:scholar.google.com/&scioq=Logical+neural+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.13155"
+            },
+            "processed_authors": [
+                "r riegel",
+                "a gray",
+                "f luus",
+                "n khan",
+                "n makondo",
+                "iy akhalwaya",
+                "h qian"
+            ]
+        },
+        {
+            "title": "Inferring and exploiting categories for next location prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "zHPCZ2AAAAAJ:d1gkVwhDpl0C",
+            "authors": "A Likhyani, D Padmanabhan, S Bedathur, S Mehta",
+            "publication": "Proceedings of the 24th International Conference on World Wide Web, 65-66, 2015",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1679449335874426980",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1679449335874426980&engine=google_scholar&hl=en",
+                "cites_id": "1679449335874426980"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Inferring and exploiting categories for next location prediction",
+                    "author": [
+                        "A Likhyani",
+                        "D Padmanabhan",
+                        "S Bedathur"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 24th \u2026",
+                    "abstract": "Predicting the next location of a user based on their previous visiting pattern is one of the primary tasks over data from location based social networks (LBSNs) such as Foursquare. Many different aspects of these so-called\" check-in\" profiles of a user have been made use of in this task, including spatial and temporal information of check-ins as well as the social network information of the user. Building more sophisticated prediction models by enriching these check-in data by combining them with information from other sources is challenging"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2740908.2742770",
+                "author_id": [
+                    "zHPCZ2AAAAAJ",
+                    "",
+                    "ngfF2oAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ZJgP20WaThcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInferring%2Band%2Bexploiting%2Bcategories%2Bfor%2Bnext%2Blocation%2Bprediction%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZJgP20WaThcJ&ei=plVkYuHVH42ymgHg1rfQDQ&json=",
+                "num_citations": 23,
+                "citedby_url": "/scholar?cites=1679449335874426980&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ZJgP20WaThcJ:scholar.google.com/&scioq=Inferring+and+exploiting+categories+for+next+location+prediction&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/40694574/sig-alternate.pdf"
+            },
+            "processed_authors": [
+                "ankita likhyani",
+                "d padmanabhan",
+                "s bedathur",
+                "s mehta"
+            ]
+        },
+        {
+            "title": "LoCaTe: Influence Quantification for Location Promotion in Location-based Social Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:ufrVoPGSRksC",
+            "citation_id": "zHPCZ2AAAAAJ:ufrVoPGSRksC",
+            "authors": "A Likhyani, S Bedathur, P Deepak",
+            "publication": "Proceedings of the Twenty-Sixth International Joint Conference on Artificial \u2026, 2017",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12019956425647318859",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12019956425647318859&engine=google_scholar&hl=en",
+                "cites_id": "12019956425647318859"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "LoCaTe: Influence Quantification for Location Promotion in Location-based Social Networks.",
+                    "author": [
+                        "A Likhyani",
+                        "S Bedathur",
+                        "P Deepak"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IJCAI",
+                    "abstract": "Location-based social networks (LBSNs) such as Foursquare offer a platform for users to share and be aware of each other's physical movements. As a result of such a sharing of check-in information with each other, users can be influenced to visit at the locations visited by their friends. Quantifying such influences in these LBSNs is useful in various settings such as location promotion, personalized recommendations, mobility pattern prediction etc. In this paper, we focus on the problem of location promotion and develop a model to quantify"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.ijcai.org/proceedings/2017/0314.pdf",
+                "author_id": [
+                    "zHPCZ2AAAAAJ",
+                    "ngfF2oAAAAAJ",
+                    "YC60F-YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:S-dhRq92z6YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLoCaTe:%2BInfluence%2BQuantification%2Bfor%2BLocation%2BPromotion%2Bin%2BLocation-based%2BSocial%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=S-dhRq92z6YJ&ei=qlVkYuWhC_mQ6rQP5OqKqAo&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=12019956425647318859&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:S-dhRq92z6YJ:scholar.google.com/&scioq=LoCaTe:+Influence+Quantification+for+Location+Promotion+in+Location-based+Social+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.ijcai.org/proceedings/2017/0314.pdf"
+            },
+            "processed_authors": [
+                "ankita likhyani",
+                "s bedathur",
+                "p deepak"
+            ]
+        },
+        {
+            "title": "Modeling implicit communities from geo-tagged event traces using spatio-temporal point processes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:Se3iqnhoufwC",
+            "citation_id": "zHPCZ2AAAAAJ:Se3iqnhoufwC",
+            "authors": "A Likhyani, V Gupta, PK Srijith, S Bedathur",
+            "publication": "International Conference on Web Information Systems Engineering, 153-169, 2020",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782918981938350951",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2782918981938350951&engine=google_scholar&hl=en",
+                "cites_id": "2782918981938350951"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Modeling implicit communities from geo-tagged event traces using spatio-temporal point processes",
+                    "author": [
+                        "A Likhyani",
+                        "V Gupta",
+                        "PK Srijith",
+                        "S Bedathur"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 Conference on Web \u2026",
+                    "abstract": "The location check-ins of users through various location-based services such as Foursquare, Twitter and Facebook Places, generate large traces of geo-tagged events. These event-traces often manifest in hidden (possibly overlapping) communities of users with similar interests. Inferring these implicit communities is crucial for forming user profiles for improvements in recommendation and prediction tasks. Given only time-stamped geo-tagged traces of users, can we find out these implicit communities, and characteristics of the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-62005-9_12",
+                "author_id": [
+                    "zHPCZ2AAAAAJ",
+                    "tQuRm1AAAAAJ",
+                    "C1YpEWsAAAAJ",
+                    "ngfF2oAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Z4sgzRHqniYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DModeling%2Bimplicit%2Bcommunities%2Bfrom%2Bgeo-tagged%2Bevent%2Btraces%2Busing%2Bspatio-temporal%2Bpoint%2Bprocesses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Z4sgzRHqniYJ&ei=tlVkYtOFLo2ymgHg1rfQDQ&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=2782918981938350951&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Z4sgzRHqniYJ:scholar.google.com/&scioq=Modeling+implicit+communities+from+geo-tagged+event+traces+using+spatio-temporal+point+processes&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "ankita likhyani",
+                "viresh gupta",
+                "pk srijith",
+                "s bedathur"
+            ]
+        },
+        {
+            "title": "Location-Specific Influence Quantification in Location-Based Social Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "zHPCZ2AAAAAJ:LkGwnXOMwfcC",
+            "authors": "A Likhyani, S Bedathur, P Deepak",
+            "publication": "ACM Transactions on Intelligent Systems and Technology (TIST) 10 (3), 23, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17926383239890528435",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17926383239890528435&engine=google_scholar&hl=en",
+                "cites_id": "17926383239890528435"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Location-specific influence quantification in location-based social networks",
+                    "author": [
+                        "A Likhyani",
+                        "S Bedathur"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "ACM Transactions on Intelligent Systems and \u2026",
+                    "abstract": "Location-based social networks (LBSNs) such as Foursquare offer a platform for users to share and be aware of each other's physical movements. As a result of such a sharing of check-in information with each other, users can be influenced to visit (or check-in) at the locations visited by their friends. Quantifying such influences in these LBSNs is useful in various settings such as location promotion, personalized recommendations, mobility pattern prediction, and so forth. In this article, we develop a model to quantify the influence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3300199",
+                "author_id": [
+                    "zHPCZ2AAAAAJ",
+                    "ngfF2oAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:s-gwIZROx_gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLocation-Specific%2BInfluence%2BQuantification%2Bin%2BLocation-Based%2BSocial%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=s-gwIZROx_gJ&ei=wVVkYpyrMeHDywSSipaYAg&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=17926383239890528435&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:s-gwIZROx_gJ:scholar.google.com/&scioq=Location-Specific+Influence+Quantification+in+Location-Based+Social+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.cse.iitd.ac.in/~srikanta/publication/tist-19/tist-19.pdf"
+            },
+            "processed_authors": [
+                "ankita likhyani",
+                "s bedathur",
+                "p deepak"
+            ]
+        },
+        {
+            "title": "Label constrained shortest path estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "zHPCZ2AAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Likhyani, S Bedathur",
+            "publication": "Proceedings of the 22nd ACM international conference on Information \u2026, 2013",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8766686768354385865,5583714195560807510",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8766686768354385865%2C5583714195560807510&engine=google_scholar&hl=en",
+                "cites_id": "8766686768354385865,5583714195560807510"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Label constrained shortest path estimation",
+                    "author": [
+                        "A Likhyani",
+                        "S Bedathur"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the 22nd ACM international \u2026",
+                    "abstract": "Shortest path querying is a fundamental graph problem which is computationally quite challenging when operating over massive scale graphs. Recent results have addressed the problem of computing either exact or good approximate shortest path distances efficiently. Some of these techniques also return the path corresponding to the estimated shortest path distance fast."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2505515.2507818",
+                "author_id": [
+                    "zHPCZ2AAAAAJ",
+                    "ngfF2oAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:yV_h_CqHqXkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLabel%2Bconstrained%2Bshortest%2Bpath%2Bestimation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yV_h_CqHqXkJ&ei=xlVkYsHRDMLZmQHnraWYCA&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=8766686768354385865&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yV_h_CqHqXkJ:scholar.google.com/&scioq=Label+constrained+shortest+path+estimation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~ankital/cikm2013.pdf"
+            },
+            "processed_authors": [
+                "ankita likhyani",
+                "s bedathur"
+            ]
+        },
+        {
+            "title": "Efficient trajectory cover search for moving object trajectories",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "zHPCZ2AAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Goyal, A Likhyani, N Bansal, L Liu",
+            "publication": "Proceedings of the 2013 IEEE Second International Conference on Mobile \u2026, 2013",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6606880242568078044",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6606880242568078044&engine=google_scholar&hl=en",
+                "cites_id": "6606880242568078044"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Efficient trajectory cover search for moving object trajectories",
+                    "author": [
+                        "V Goyal",
+                        "A Likhyani",
+                        "N Bansal",
+                        "L Liu"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the 2013 IEEE \u2026",
+                    "abstract": "Technical advances in location-acquisition devices have resulted into generation of huge volume of trajectory data. In such datasets, a trajectory is a sequence of places, each place having an associated text description. Popular examples are community based resources such as bikely. com1, locationbased social networks like Geolife2, social networks like Flickr3 and Foursquare4, where people upload their travel routes, download and search for other user's travel routes. People also write blogs to share life experiences and build"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.377.7898&rep=rep1&type=pdf",
+                "author_id": [
+                    "YJaVmSwAAAAJ",
+                    "zHPCZ2AAAAAJ",
+                    "",
+                    "gYUE-D_Kq10C"
+                ],
+                "url_scholarbib": "/scholar?q=info:3CLRa5NasFsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEfficient%2Btrajectory%2Bcover%2Bsearch%2Bfor%2Bmoving%2Bobject%2Btrajectories%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3CLRa5NasFsJ&ei=ylVkYvqQAcLZmQHnraWYCA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=6606880242568078044&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:3CLRa5NasFsJ:scholar.google.com/&scioq=Efficient+trajectory+cover+search+for+moving+object+trajectories&hl=en&as_sdt=0,33",
+                "eprint_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.377.7898&rep=rep1&type=pdf"
+            },
+            "processed_authors": [
+                "vikram goyal",
+                "ankita likhyani",
+                "n bansal",
+                "l liu"
+            ]
+        },
+        {
+            "title": "User interest and influence mining in location-based social networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:0EnyYjriUFMC",
+            "citation_id": "zHPCZ2AAAAAJ:0EnyYjriUFMC",
+            "authors": "A Likhyani, S Bedathur",
+            "publication": "IIIT-Delhi, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "User interest and influence mining in location-based social networks",
+                    "author": [
+                        "A Likhyani",
+                        "S Bedathur"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "NA",
+                    "abstract": "Over the past decade with the explosion of smartphones and pervasive usage of data connectivity, location-based services have increasingly become popular. As a result, Location-based Social Network (LBSN) such as Foursquare, Facebook Places, Brightkite and Gowalla have emerged. These platforms provide users not only to connect, share, and interact but also allow users to share their check-in information with their friends. These networks typically do not expose the check-in information of users due to privacy concerns"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/951",
+                "author_id": [
+                    "zHPCZ2AAAAAJ",
+                    "ngfF2oAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:L0NrU6dTCWIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUser%2Binterest%2Band%2Binfluence%2Bmining%2Bin%2Blocation-based%2Bsocial%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=L0NrU6dTCWIJ&ei=1VVkYvzgD5qSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/951/ankita_likhyani_ankita_thesis_37649598517a%20%286%29.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "ankita likhyani",
+                "s bedathur"
+            ]
+        },
+        {
+            "title": "Modeling Implicit Communities using Spatio-Temporal Point Processes from Geo-tagged Event Traces",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:roLk4NBRz8UC",
+            "citation_id": "zHPCZ2AAAAAJ:roLk4NBRz8UC",
+            "authors": "A Likhyani, V Gupta, S Bedathur",
+            "publication": "arXiv preprint arXiv:2006.07580, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Modeling Implicit Communities using Spatio-Temporal Point Processes from Geo-tagged Event Traces",
+                    "author": [
+                        "A Likhyani",
+                        "V Gupta",
+                        "S Bedathur"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv:2006.07580",
+                    "abstract": "The location check-ins of users through various location-based services such as Foursquare, Twitter, and Facebook Places, etc., generate large traces of geo-tagged events. These event-traces often manifest in hidden (possibly overlapping) communities of users with similar interests. Inferring these implicit communities is crucial for forming user profiles for improvements in recommendation and prediction tasks. Given only time-stamped geo-tagged traces of users, can we find out these implicit communities, and characteristics of the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2006.07580",
+                "author_id": [
+                    "zHPCZ2AAAAAJ",
+                    "",
+                    "ngfF2oAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:10pgAmJ_x1MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DModeling%2BImplicit%2BCommunities%2Busing%2BSpatio-Temporal%2BPoint%2BProcesses%2Bfrom%2BGeo-tagged%2BEvent%2BTraces%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=10pgAmJ_x1MJ&ei=3VVkYpW4OMLZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:10pgAmJ_x1MJ:scholar.google.com/&scioq=Modeling+Implicit+Communities+using+Spatio-Temporal+Point+Processes+from+Geo-tagged+Event+Traces&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.07580"
+            },
+            "processed_authors": [
+                "ankita likhyani",
+                "viresh gupta",
+                "s bedathur"
+            ]
+        },
+        {
+            "title": "Expressive Reasoning Graph Store: A Unified Framework for Managing RDF and Property Graph Databases",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=zHPCZ2AAAAAJ&pagesize=100&citation_for_view=zHPCZ2AAAAAJ:UebtZRa9Y70C",
+            "citation_id": "zHPCZ2AAAAAJ:UebtZRa9Y70C",
+            "authors": "S Neelam, U Sharma, S Bhatia, H Karanam, A Likhyani, I Abdelaziz, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Expressive Reasoning Graph Store: A Unified Framework for Managing RDF and Property Graph Databases",
+                    "author": [
+                        "S Neelam",
+                        "U Sharma",
+                        "S Bhatia",
+                        "H Karanam",
+                        "A Likhyani"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "K_mOIxsAAAAJ",
+                    "dkEtWZwAAAAJ",
+                    "8HVTWNkAAAAJ",
+                    "8HycjgoAAAAJ",
+                    "zHPCZ2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KClCvSOiWaQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExpressive%2BReasoning%2BGraph%2BStore:%2BA%2BUnified%2BFramework%2Bfor%2BManaging%2BRDF%2Band%2BProperty%2BGraph%2BDatabases%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KClCvSOiWaQJ&ei=4VVkYp6dJsLZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:KClCvSOiWaQJ:scholar.google.com/&scioq=Expressive+Reasoning+Graph+Store:+A+Unified+Framework+for+Managing+RDF+and+Property+Graph+Databases&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "s neelam",
+                "u sharma",
+                "s bhatia",
+                "h karanam",
+                "ankita likhyani",
+                "i abdelaziz"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 112,
+                    "since_2017": 104
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2014,
+                "citations": 3
+            },
+            {
+                "year": 2015,
+                "citations": 4
+            },
+            {
+                "year": 2016,
+                "citations": 9
+            },
+            {
+                "year": 2017,
+                "citations": 5
+            },
+            {
+                "year": 2018,
+                "citations": 8
+            },
+            {
+                "year": 2019,
+                "citations": 20
+            },
+            {
+                "year": 2020,
+                "citations": 47
+            },
+            {
+                "year": 2021,
+                "citations": 15
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=zHPCZ2AAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Srikanta Bedathur",
+            "link": "https://scholar.google.com/citations?user=ngfF2oAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ngfF2oAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ngfF2oAAAAAJ",
+            "affiliations": "IIT Delhi",
+            "email": "Verified email at cse.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ngfF2oAAAAAJ&citpid=3"
+        },
+        {
+            "name": "Sameep Mehta",
+            "link": "https://scholar.google.com/citations?user=NXA956gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=NXA956gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "NXA956gAAAAJ",
+            "affiliations": "IBM Research India",
+            "email": "Verified email at in.ibm.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=NXA956gAAAAJ&citpid=1"
+        },
+        {
+            "name": "Deepak P",
+            "link": "https://scholar.google.com/citations?user=YC60F-YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YC60F-YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YC60F-YAAAAJ",
+            "affiliations": "Queen's University Belfast, UK & IIT Madras, India",
+            "email": "Verified email at acm.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YC60F-YAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vikram Goyal",
+            "link": "https://scholar.google.com/citations?user=YJaVmSwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YJaVmSwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YJaVmSwAAAAJ",
+            "affiliations": "Professor",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ling Liu",
+            "link": "https://scholar.google.com/citations?user=VIwtdckAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VIwtdckAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VIwtdckAAAAJ",
+            "affiliations": "Georgia Institute of Technology",
+            "email": "Verified email at cc.gatech.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VIwtdckAAAAJ&citpid=3"
+        }
+    ]
+}

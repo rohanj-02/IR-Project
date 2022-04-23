@@ -1,0 +1,769 @@
+{
+    "search_metadata": {
+        "id": "62574c657f8361a7dcb6432d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7db8d200260467f9/62574c657f8361a7dcb6432d.json",
+        "created_at": "2022-04-13 22:19:17 UTC",
+        "processed_at": "2022-04-13 22:19:17 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=Q-ueZYoAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/7db8d200260467f9/62574c657f8361a7dcb6432d.html",
+        "total_time_taken": 0.68,
+        "total_articles": 16,
+        "total_co_authors": 2
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "Q-ueZYoAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Vijay Sharma",
+        "affiliations": "Senior Engineer at Qualcomm and Research Scholar at IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://www.vijaysoti.blogspot.com/",
+        "interests": [
+            {
+                "title": "RFID",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:rfid",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Arfid"
+            },
+            {
+                "title": "Chipless RFID",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:chipless_rfid",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achipless_rfid"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Q-ueZYoAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Chipless RFID tag based on open-loop resonator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "Q-ueZYoAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "2017 IEEE Asia Pacific Microwave Conference (APMC), 543-546, 2017",
+            "cited_by": {
+                "value": 31,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5655024568730084599",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5655024568730084599&engine=google_scholar&hl=en",
+                "cites_id": "5655024568730084599"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Chipless RFID tag based on open-loop resonator",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE Asia Pacific Microwave \u2026",
+                    "abstract": "A novel RFID tag employing open-loop resonators is presented in this paper. The resonators have been synthesized using coupled microstrip transmission line. The complete design consists of open-loop resonators based tag, and cross polarized circular patch antenna for transmitting and receiving purpose. The design of 8-bit data encoded tag and the antennas have been prototyped on Rogers 5880 substrate having dielectric constant of 2.2 and loss tangent of 0.0009 for the frequency band between 3.3 GHz and 5.8 GHz. The measured"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8251502/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:92RDN-Kuek4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChipless%2BRFID%2Btag%2Bbased%2Bon%2Bopen-loop%2Bresonator%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=92RDN-Kuek4J&ei=W0xkYqWTBaKUy9YP_JONiAY&json=",
+                "num_citations": 31,
+                "citedby_url": "/scholar?cites=5655024568730084599&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:92RDN-Kuek4J:scholar.google.com/&scioq=Chipless+RFID+tag+based+on+open-loop+resonator&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/322436392_Chipless_RFID_tag_based_on_open-loop_resonator/links/5a7c54d8458515d35331c2ba/Chipless-RFID-tag-based-on-open-loop-resonator.pdf"
+            }
+        },
+        {
+            "title": "Lightweight security protocol for chipless RFID in Internet of Things (IoT) applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "Q-ueZYoAAAAJ:9yKSN-GCB0IC",
+            "authors": "V Sharma, A Vithalkar, M Hashmi",
+            "publication": "2018 10th International Conference on Communication Systems & Networks \u2026, 2018",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13552233409272396792",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13552233409272396792&engine=google_scholar&hl=en",
+                "cites_id": "13552233409272396792"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lightweight security protocol for chipless RFID in Internet of Things (IoT) applications",
+                    "author": [
+                        "V Sharma",
+                        "A Vithalkar",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 10th International \u2026",
+                    "abstract": "The RFID based communication between objects within the framework of IoT is potentially very efficient in terms of power requirements and system complexity. The new design incorporating the emerging chipless RFID tags has the potential to make the system more efficient and simple. However, these systems are prone to privacy and security risks and these challenges associated with such systems have not been addressed appropriately in the broader IoT framework. In this context, a lightweight collision free algorithm based on n"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8328246/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "peOx9ukAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-LvcoHs0E7wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLightweight%2Bsecurity%2Bprotocol%2Bfor%2Bchipless%2BRFID%2Bin%2BInternet%2Bof%2BThings%2B(IoT)%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-LvcoHs0E7wJ&ei=XkxkYu_LG-iSy9YPp-OyiAE&json=",
+                "num_citations": 28,
+                "citedby_url": "/scholar?cites=13552233409272396792&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-LvcoHs0E7wJ:scholar.google.com/&scioq=Lightweight+security+protocol+for+chipless+RFID+in+Internet+of+Things+(IoT)+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/324179172_Lightweight_security_protocol_for_chipless_RFID_in_Internet_of_Things_IoT_applications/links/5b8ed81392851c6b7ebffbb4/Lightweight-security-protocol-for-chipless-RFID-in-Internet-of-Things-IoT-applications.pdf"
+            }
+        },
+        {
+            "title": "Slot resonator based novel orientation independent chipless RFID tag configurations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "Q-ueZYoAAAAJ:YsMSGLbcyi4C",
+            "authors": "V Sharma, S Malhotra, M Hashmi",
+            "publication": "IEEE Sensors Journal 19 (13), 5153-5160, 2019",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16822052395678804003",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16822052395678804003&engine=google_scholar&hl=en",
+                "cites_id": "16822052395678804003"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Slot resonator based novel orientation independent chipless RFID tag configurations",
+                    "author": [
+                        "V Sharma",
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Sensors Journal",
+                    "abstract": "The design of two novel orientation-independent slot resonator-based chipless RFID tags is proposed in this paper. These tags make use of multiple L-shaped slots of different lengths on a lossy substrate and are appropriate for item tracking and identifications. The data are encoded in the backscattered signal from the tag after its illumination. The first tag configuration includes multiple L-shaped slot resonators cascaded with each other. It exhibits wideband features and enables the addition of extra resonators for encoding of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8657787/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:I6hx3Ybvc-kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSlot%2Bresonator%2Bbased%2Bnovel%2Borientation%2Bindependent%2Bchipless%2BRFID%2Btag%2Bconfigurations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=I6hx3Ybvc-kJ&ei=akxkYuCLBu-Sy9YPs_mY8AM&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=16822052395678804003&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:I6hx3Ybvc-kJ:scholar.google.com/&scioq=Slot+resonator+based+novel+orientation+independent+chipless+RFID+tag+configurations&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Design, Analysis, and Realization of Chipless RFID Tag for Orientation Independent Configurations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:WF5omc3nYNoC",
+            "citation_id": "Q-ueZYoAAAAJ:WF5omc3nYNoC",
+            "authors": "M Hashmi, V Sharma",
+            "publication": "IET Journal of Engineering, 2019",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4225135982131284264",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4225135982131284264&engine=google_scholar&hl=en",
+                "cites_id": "4225135982131284264"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design, analysis, and realisation of chipless RFID tag for orientation independent configurations",
+                    "author": [
+                        "MS Hashmi",
+                        "V Sharma"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "The Journal of Engineering",
+                    "abstract": "The architectures of two innovative compact orientation independent chipless radio frequency identification device (RFID) tags for emerging applications such as the internet of things are presented. These tags, when illuminated, generate resonant frequencies in the radar cross-section backscattered spectrum, which are used to encode the data. These are based around L-type resonators, which can be read from front and back using linear polarisation waves as they do not have the ground plane. The first tag design consists of L"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/iel7/7864294/9104801/09104812.pdf",
+                "author_id": [
+                    "oEJfDLkAAAAJ",
+                    "Q-ueZYoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:KAmoPsqyojoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign,%2BAnalysis,%2Band%2BRealization%2Bof%2BChipless%2BRFID%2BTag%2Bfor%2BOrientation%2BIndependent%2BConfigurations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KAmoPsqyojoJ&ei=b0xkYvnfBbKO6rQPy-CRsA8&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=4225135982131284264&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:KAmoPsqyojoJ:scholar.google.com/&scioq=Design,+Analysis,+and+Realization+of+Chipless+RFID+Tag+for+Orientation+Independent+Configurations&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/7864294/9104801/09104812.pdf"
+            }
+        },
+        {
+            "title": "An emerging application centric RFID framework based on new web technology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "Q-ueZYoAAAAJ:zYLM7Y9cAGgC",
+            "authors": "V Sharma, S Malhotra, M Hashmi",
+            "publication": "2018 IEEE International Conference on RFID Technology & Application (RFID-TA \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5276918954131731126",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5276918954131731126&engine=google_scholar&hl=en",
+                "cites_id": "5276918954131731126"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An emerging application centric RFID framework based on new web technology",
+                    "author": [
+                        "V Sharma",
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE International \u2026",
+                    "abstract": "In the context of emerging applications such as IoT, an RFID framework that can dynamically incorporate, identify, and seamlessly regulate the RFID tags is considered exciting. Earlier RFID frameworks developed using the older web technologies were limited in their ability to provide complete information about the RFID tags and their respective locations. However, the new and emerging web technologies have transformed this scenario and now framework can be developed to include all the required flexibility and security for seamless"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8552742/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tjKMmdRhO0kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Bemerging%2Bapplication%2Bcentric%2BRFID%2Bframework%2Bbased%2Bon%2Bnew%2Bweb%2Btechnology%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tjKMmdRhO0kJ&ei=c0xkYpLkOJLeyQTE46-QAg&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=5276918954131731126&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tjKMmdRhO0kJ:scholar.google.com/&scioq=An+emerging+application+centric+RFID+framework+based+on+new+web+technology&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/329362661_An_Emerging_Application_Centric_RFID_Framework_Based_on_New_Web_Technology/links/5e1c5d8ca6fdcc28376e8ec5/An-Emerging-Application-Centric-RFID-Framework-Based-on-New-Web-Technology.pdf"
+            }
+        },
+        {
+            "title": "Simple chipless RFID tag configurations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:qjMakFHDy7sC",
+            "citation_id": "Q-ueZYoAAAAJ:qjMakFHDy7sC",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "2018 IEEE Asia-Pacific Conference on Antennas and Propagation (APCAP), 347-348, 2018",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7097581316758513841",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7097581316758513841&engine=google_scholar&hl=en",
+                "cites_id": "7097581316758513841"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Simple chipless RFID tag configurations",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE Asia-Pacific Conference on \u2026",
+                    "abstract": "Two unique configurations of chipless RFID tag are reported in this paper. They consist of integrated L-resonators and cross polarized transmitting and receiving circular patch antennas. The validations of the proposed designs have been carried out using 8-bit data encoded tags, for the frequency band of 3.3-5.8 GHz, and microstrip circular antenna prototypes on Rogers substrate. The measured power difference of more than 15dB between the presence and absence bits, can enable precise detection of bits. These"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8538137/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:sSjXXZqsf2IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSimple%2Bchipless%2BRFID%2Btag%2Bconfigurations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sSjXXZqsf2IJ&ei=eUxkYuywIaKUy9YP_JONiAY&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=7097581316758513841&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:sSjXXZqsf2IJ:scholar.google.com/&scioq=Simple+chipless+RFID+tag+configurations&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/329495491_Simple_Chipless_RFID_Tag_Configurations/links/5e1c5ca092851c8364c93816/Simple-Chipless-RFID-Tag-Configurations.pdf"
+            }
+        },
+        {
+            "title": "On the seamless integration and co-existence of chipless RFID in broad IoT framework",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "Q-ueZYoAAAAJ:LkGwnXOMwfcC",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "IEEE Access 9, 69839-69849, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1834979187951527912",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1834979187951527912&engine=google_scholar&hl=en",
+                "cites_id": "1834979187951527912"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the seamless integration and co-existence of chipless RFID in broad IoT framework",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Access",
+                    "abstract": "RFID has permeated in wide-ranging applications that may eventually fall under the broad IoT umbrella. However, the adaption of RFID for commercial purposes of IoT-centric applications still faces numerous technical challenges due to its high cost. The Chipless RFID can become a boon considering its significantly reduced cost and tag complexity in this context. In this article, therefore, different aspects of the chipless RFID are discussed and analyzed, and a potential road map is explored for the effective seamless integration of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9425585/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:6OcVbNkndxkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bthe%2Bseamless%2Bintegration%2Band%2Bco-existence%2Bof%2Bchipless%2BRFID%2Bin%2Bbroad%2BIoT%2Bframework%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6OcVbNkndxkJ&ei=fUxkYsfCHYuKmgGY1YjABQ&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=1834979187951527912&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:6OcVbNkndxkJ:scholar.google.com/&scioq=On+the+seamless+integration+and+co-existence+of+chipless+RFID+in+broad+IoT+framework&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09425585.pdf"
+            }
+        },
+        {
+            "title": "Orientation independent printable backscattering chipless RFID tags based on l-resonator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "Q-ueZYoAAAAJ:IjCSPb-OGe4C",
+            "authors": "V Sharma, S Malhotra, M Hashmi",
+            "publication": "2018 48th European Microwave Conference (EuMC), 989-992, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942377971415903612",
+                "serpapi_link": "https://serpapi.com/search.json?cites=942377971415903612&engine=google_scholar&hl=en",
+                "cites_id": "942377971415903612"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Orientation independent printable backscattering chipless RFID tags based on l-resonator",
+                    "author": [
+                        "V Sharma",
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 48th European \u2026",
+                    "abstract": "Two novel compact orientation independent (OI) chipless RFID tag designs have been proposed in this paper. In these designs, the variation in the length of the L-resonators generate distinct resonant frequencies for encoding of data. These tags are single sided with no ground plane and can be read from behind or front by a reader having a linear polarization. In one of the designs, the L-resonators have been placed in cascaded fashion and this in turn leads to reduced size of the tag but with increased the mutual coupling. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8541425/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fO1lpsX_Ew0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOrientation%2Bindependent%2Bprintable%2Bbackscattering%2Bchipless%2BRFID%2Btags%2Bbased%2Bon%2Bl-resonator%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fO1lpsX_Ew0J&ei=hExkYri2I--Sy9YPs_mY8AM&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=942377971415903612&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fO1lpsX_Ew0J:scholar.google.com/&scioq=Orientation+independent+printable+backscattering+chipless+RFID+tags+based+on+l-resonator&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/329240281_Orientation_Independent_Printable_Backscattering_Chipless_RFID_Tags_Based_on_L-Resonator/links/60aea9c2a6fdcc647ede9978/Orientation-Independent-Printable-Backscattering-Chipless-RFID-Tags-Based-on-L-Resonator.pdf"
+            }
+        },
+        {
+            "title": "Advances in the Design Techniques and Applications of Chipless RFIDs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:roLk4NBRz8UC",
+            "citation_id": "Q-ueZYoAAAAJ:roLk4NBRz8UC",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "IEEE Access 9, 79264-79277, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7233767833351409668",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7233767833351409668&engine=google_scholar&hl=en",
+                "cites_id": "7233767833351409668"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Advances in the Design Techniques and Applications of Chipless RFIDs",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Access",
+                    "abstract": "The recent emergence of Radio Frequency Identification (RFID) applications have attracted the attention of all the stakeholders, namely developers, manufacturers, and end-users. In essence, RFID has permeated the broad spectrum of item tracking, identification, and sensing. Alternatively, it is safe to say that RFID has revolutionized item tracking, sensing, and monitoring mechanisms. However, RFID's proliferation often faces a roadblock due to its associated cost due to silicon-based integrated circuits. This aspect can be addressed by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9440930/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:BNCOroSBY2QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdvances%2Bin%2Bthe%2BDesign%2BTechniques%2Band%2BApplications%2Bof%2BChipless%2BRFIDs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BNCOroSBY2QJ&ei=h0xkYrfxLc6E6rQP5-KmKA&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7233767833351409668&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:BNCOroSBY2QJ:scholar.google.com/&scioq=Advances+in+the+Design+Techniques+and+Applications+of+Chipless+RFIDs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09440930.pdf"
+            }
+        },
+        {
+            "title": "Received signal strength indicator analysis for item tracking using chipless RFID",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "Q-ueZYoAAAAJ:_FxGoFyzp5QC",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "2020 IEEE 10th International Conference on Consumer Electronics (ICCE-Berlin \u2026, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4768628719550636834",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4768628719550636834&engine=google_scholar&hl=en",
+                "cites_id": "4768628719550636834"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Received signal strength indicator analysis for item tracking using chipless RFID",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 10th International \u2026",
+                    "abstract": "The impact of RFID on a global scale can optimize the supply chain, monitor process behavior, and remotely track objects. RFID can also contribute to managing material handling, eg, automatic material sorting, minimize manual work, improve speed, and record the necessary parameters. This paper aims to identify the chipless RFID properties concerning operational factors, tracking, and localization. The readers' antenna transmitting power is adjusted based upon the Received Signal Strength Indicator (RSSI) value. Hence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9352171/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IqOKHo6SLUIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReceived%2Bsignal%2Bstrength%2Bindicator%2Banalysis%2Bfor%2Bitem%2Btracking%2Busing%2Bchipless%2BRFID%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IqOKHo6SLUIJ&ei=jExkYujbM_mQ6rQP5OqKqAo&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=4768628719550636834&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:IqOKHo6SLUIJ:scholar.google.com/&scioq=Received+signal+strength+indicator+analysis+for+item+tracking+using+chipless+RFID&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Power saving method in chipless RFID reader for IoT applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "Q-ueZYoAAAAJ:UeHWp8X0CEIC",
+            "authors": "V Sharma, A Vithalkar, M Hashmi",
+            "publication": "2018 IEEE Asia-Pacific Conference on Antennas and Propagation (APCAP), 374-375, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11826072391937022797",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11826072391937022797&engine=google_scholar&hl=en",
+                "cites_id": "11826072391937022797"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Power saving method in chipless RFID reader for IoT applications",
+                    "author": [
+                        "V Sharma",
+                        "A Vithalkar",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE Asia-Pacific \u2026",
+                    "abstract": "RFID technology is one of the enablers and key component in the broader Internet of Things (IoT) eco-system. However, power consumption is a major constraint in IoT devices and readers and apparently is a bottleneck in the deployment of such systems in IoT applications. A handshaking algorithm that reduces the power consumption of chipless RFID reader in noninterrogating scenarios is presented in this paper. The proposed algorithm is able to reduce the power consumption of the chipless RFID system by 70%."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8538088/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "peOx9ukAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Tdt16S6mHqQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPower%2Bsaving%2Bmethod%2Bin%2Bchipless%2BRFID%2Breader%2Bfor%2BIoT%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Tdt16S6mHqQJ&ei=mExkYufcL5yO6rQP_qe3mAs&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=11826072391937022797&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Tdt16S6mHqQJ:scholar.google.com/&scioq=Power+saving+method+in+chipless+RFID+reader+for+IoT+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/329495839_Power_Saving_Method_in_Chipless_RFID_Reader_for_IoT_Applications/links/5e20001f458515ba208a8682/Power-Saving-Method-in-Chipless-RFID-Reader-for-IoT-Applications.pdf"
+            }
+        },
+        {
+            "title": "Chipless RFID reader for wide range applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "Q-ueZYoAAAAJ:eQOLeE2rZwMC",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "2019 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia \u2026, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16153421908863134955",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16153421908863134955&engine=google_scholar&hl=en",
+                "cites_id": "16153421908863134955"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Chipless RFID reader for wide range applications",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE International Conference on \u2026",
+                    "abstract": "The paper presents a low-cost chipless RFID reader working in the frequency range of 4-8 GHz. The reader uses frequency the sweep technique to collect the information from the tag. Chipless tags have unique properties corresponding to the different resonant frequencies. The reader works with the super high frequency which makes the fabrication size of the tag small and cheap. The proposed reader is suitable for many large-scale applications such as inventory management in large warehouses where the number of objects is very high."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8942208/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:66zMQKR7LOAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChipless%2BRFID%2Breader%2Bfor%2Bwide%2Brange%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=66zMQKR7LOAJ&ei=nkxkYtfjMbKO6rQPy-CRsA8&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=16153421908863134955&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:66zMQKR7LOAJ:scholar.google.com/&scioq=Chipless+RFID+reader+for+wide+range+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/338369612_Chipless_RFID_Reader_for_Wide_Range_Applications/links/5e2be4f592851c3aadd7d3b5/Chipless-RFID-Reader-for-Wide-Range-Applications.pdf"
+            }
+        },
+        {
+            "title": "Design of LNA using on-chip inductor for Ku-band application",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "Q-ueZYoAAAAJ:2osOgNQ5qMEC",
+            "authors": "V Sharma, MS Hashmi",
+            "publication": "2017 International Conference on Multimedia, Signal Processing and \u2026, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6545143980122167769",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6545143980122167769&engine=google_scholar&hl=en",
+                "cites_id": "6545143980122167769"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design of LNA using on-chip inductor for Ku-band application",
+                    "author": [
+                        "V Sharma",
+                        "MS Hashmi"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 International Conference on \u2026",
+                    "abstract": "A simple LNA design scheme operating at Ku-Band (17 GHz) is presented in this paper. The concept has been validated in 0.09 pm CMOS process using on-chip inductors. It has been shown that the on-chip inductor technique reduces the contribution of spectral noise current due to inductor series resistance and also provides a good matching at the LNA input and output at Ku-Band. The on-chip inductor also allows fine control and adjustment of resonance frequency."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8364004/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2dn3ssUF1VoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Bof%2BLNA%2Busing%2Bon-chip%2Binductor%2Bfor%2BKu-band%2Bapplication%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2dn3ssUF1VoJ&ei=oUxkYuycI46pywTd4KPADw&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=6545143980122167769&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2dn3ssUF1VoJ:scholar.google.com/&scioq=Design+of+LNA+using+on-chip+inductor+for+Ku-band+application&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/325515991_Design_of_LNA_using_on-chip_inductor_for_Ku-band_application/links/5e1c5d22a6fdcc28376e8eab/Design-of-LNA-using-on-chip-inductor-for-Ku-band-application.pdf"
+            }
+        },
+        {
+            "title": "Effective blood bank management system based on chipless RFID",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:ufrVoPGSRksC",
+            "citation_id": "Q-ueZYoAAAAJ:ufrVoPGSRksC",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "2019 IEEE Indian Conference on Antennas and Propogation (InCAP), 1-4, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12994544032985411789",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12994544032985411789&engine=google_scholar&hl=en",
+                "cites_id": "12994544032985411789"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Effective blood bank management system based on chipless RFID",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Indian Conference on \u2026",
+                    "abstract": "An L-resonator based chipless RFID tag has been introduced in this paper for tracking and identification purposes in a blood bank management system. Four bits of data are being encoded in the unlicensed band between 5.1 to 5.9 GHz, where the first three bits are used to identify the blood group and the fourth bit is used for verification purposes. The proof of concept has been shown by first designing the tag and antenna using CST Microwave Studio and fabricating on a ROGERS RT 5880 and FR-4 substrate, respectively. The tag and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9134543/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zXBEMPPkVbQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEffective%2Bblood%2Bbank%2Bmanagement%2Bsystem%2Bbased%2Bon%2Bchipless%2BRFID%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zXBEMPPkVbQJ&ei=pUxkYuWiB5LeyQTE46-QAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=12994544032985411789&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:zXBEMPPkVbQJ:scholar.google.com/&scioq=Effective+blood+bank+management+system+based+on+chipless+RFID&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/342796037_Effective_Blood_Bank_Management_System_based_on_Chipless_RFID/links/60aea95592851c168e43a034/Effective-Blood-Bank-Management-System-based-on-Chipless-RFID.pdf"
+            }
+        },
+        {
+            "title": "Design of high gain and low noise figure on-chip LNA for Ku band application",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "Q-ueZYoAAAAJ:d1gkVwhDpl0C",
+            "authors": "V Sharma, MS Hashmi",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9021633134368153920",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9021633134368153920&engine=google_scholar&hl=en",
+                "cites_id": "9021633134368153920"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design of high gain and low noise figure on-chip LNA for Ku band application",
+                    "author": [
+                        "V Sharma",
+                        "MS Hashmi"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "Low Noise Amplifiers (LNA) are key components in the receiving end of nearly every communication system. Primary purpose of the LNA is to amplify the received signal while at the same time adding as little additional noise as possible. Its performance greatly affects the overall receiver performance. This thesis discusses design of narrow band low noise amplifiers for Ku band applications. The target of this thesis is to design a LNA at 17 GHz for Ku Band. It also addresses some of the main aspects of microwave LNA design for use in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/445",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QGHoe4lHM30J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Bof%2Bhigh%2Bgain%2Band%2Blow%2Bnoise%2Bfigure%2Bon-chip%2BLNA%2Bfor%2BKu%2Bband%2Bapplication%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QGHoe4lHM30J&ei=sUxkYteTO8LZmQHnraWYCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9021633134368153920&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QGHoe4lHM30J:scholar.google.com/&scioq=Design+of+high+gain+and+low+noise+figure+on-chip+LNA+for+Ku+band+application&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/445/Final%20Thesis_Vijay_MT14075.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Frequency generator demonstration using half mode Substrate Integrated Waveguide (SIW) structures for chipless Radio Frequency Identification (RFID) reader",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Q-ueZYoAAAAJ&pagesize=100&citation_for_view=Q-ueZYoAAAAJ:UebtZRa9Y70C",
+            "citation_id": "Q-ueZYoAAAAJ:UebtZRa9Y70C",
+            "authors": "V Sharma, M Hashmi",
+            "publication": "IET Circuits, Devices & Systems, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Frequency generator demonstration using half mode Substrate Integrated Waveguide (SIW) structures for chipless Radio Frequency Identification (RFID) reader",
+                    "author": [
+                        "V Sharma",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "IET Circuits, Devices & Systems",
+                    "abstract": "A frequency generator based on the forward coupler principle is proposed. The proposed design, intended for high\u2010frequency applications, uses Half\u2010Mode Substrate Integrated Waveguide structure to realise the forward coupler. It thus achieves compactness, requiring approximately half the area compared to Substrate Integrated Waveguide structures, and supports non Transverse Electromagnetic (TEM) functionality. The non\u2010TEM environment provides the flexibility to use the frequency generator for chipless Radio Frequency"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cds2.12113",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:O-L66zSAapYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFrequency%2Bgenerator%2Bdemonstration%2Busing%2Bhalf%2Bmode%2BSubstrate%2BIntegrated%2BWaveguide%2B(SIW)%2Bstructures%2Bfor%2Bchipless%2BRadio%2BFrequency%2BIdentification%2B(RFID)%2Breader%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=O-L66zSAapYJ&ei=tUxkYrTRAoySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "eprint_url": "/scholar?output=instlink&q=info:O-L66zSAapYJ:scholar.google.com/&hl=en&as_sdt=0,33&scillfp=12986069311022561799&oi=lle"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 129,
+                    "since_2017": 129
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2017,
+                "citations": 1
+            },
+            {
+                "year": 2018,
+                "citations": 14
+            },
+            {
+                "year": 2019,
+                "citations": 28
+            },
+            {
+                "year": 2020,
+                "citations": 22
+            },
+            {
+                "year": 2021,
+                "citations": 50
+            },
+            {
+                "year": 2022,
+                "citations": 14
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Mohammad S. Hashmi",
+            "link": "https://scholar.google.com/citations?user=oEJfDLkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oEJfDLkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oEJfDLkAAAAJ",
+            "affiliations": "IIIT Delhi, Nazarbayev University, University of Calgary, Cardiff University",
+            "email": "Verified email at ucalgary.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oEJfDLkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Amogh Vithalkar",
+            "link": "https://scholar.google.com/citations?user=peOx9ukAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=peOx9ukAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "peOx9ukAAAAJ",
+            "affiliations": "KTH Royal Institute of Technology | Graduate from IIIT-Delhi | Project Associate, IIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=peOx9ukAAAAJ&citpid=2"
+        }
+    ]
+}

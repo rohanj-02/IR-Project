@@ -1,0 +1,935 @@
+{
+    "search_metadata": {
+        "id": "62574cf0660dbd511cf3dbdd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/056324e3097248d6/62574cf0660dbd511cf3dbdd.json",
+        "created_at": "2022-04-13 22:21:36 UTC",
+        "processed_at": "2022-04-13 22:21:36 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=6KkNgOAAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/056324e3097248d6/62574cf0660dbd511cf3dbdd.html",
+        "total_time_taken": 0.16,
+        "total_articles": 17,
+        "total_co_authors": 6
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "6KkNgOAAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Anil Kumar Gundu",
+        "affiliations": "HKUST",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Spintronics and Novel Device Architectures",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:spintronics_and_novel_device_architectures",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspintronics_and_novel_device_architectures"
+            },
+            {
+                "title": "Neuromorphic Computing with MRAMs",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:neuromorphic_computing_with_mrams",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aneuromorphic_computing_with_mrams"
+            },
+            {
+                "title": "FinFET and Gate all around (GAA) technologies",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:finfet_and_gate_all_around_gaa_technologies",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afinfet_and_gate_all_around_gaa_technologies"
+            },
+            {
+                "title": "Re",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:re",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Are"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=6KkNgOAAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "Low leakage clock tree with dual-threshold-voltage split input\u2013output repeaters",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "6KkNgOAAAAAJ:LkGwnXOMwfcC",
+            "authors": "AK Gundu, V Kursun",
+            "publication": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems 27 (7 \u2026, 2019",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16251292016223055092",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16251292016223055092&engine=google_scholar&hl=en",
+                "cites_id": "16251292016223055092"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Low leakage clock tree with dual-threshold-voltage split input\u2013output repeaters",
+                    "author": [
+                        "AK Gundu",
+                        "V Kursun"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Transactions on Very Large Scale \u2026",
+                    "abstract": "Leakage power consumption of clock distribution networks (CDNs) is an important challenge in modern synchronous integrated circuits with billions of deeply scaled transistors. Multithreshold CMOS technology is commonly used to provide power reduction in standby mode while maintaining high performance in active mode. In this paper, a novel dual-threshold-voltage repeater circuit with split inputs-outputs (SPLIT-IOs) is employed for suppressing leakage currents in gated CDNs. Three floor planning strategies are"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8667421/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "-cFPhjoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9OwdWPwviOEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLow%2Bleakage%2Bclock%2Btree%2Bwith%2Bdual-threshold-voltage%2Bsplit%2Binput%25E2%2580%2593output%2Brepeaters%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9OwdWPwviOEJ&ei=n1dkYomFCMLZmQHnraWYCA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=16251292016223055092&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9OwdWPwviOEJ:scholar.google.com/&scioq=Low+leakage+clock+tree+with+dual-threshold-voltage+split+input%E2%80%93output+repeaters&hl=en&as_sdt=0,33",
+                "eprint_url": "https://xilirprojects.com/wp-content/uploads/2019/11/gundu2019.pdf"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "v kursun"
+            ]
+        },
+        {
+            "title": "Design of 6T, 5T and 4T SRAM cell on various performance metrics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "6KkNgOAAAAAJ:Y0pCki6q_DkC",
+            "authors": "W Singh, GA Kumar",
+            "publication": "2015 2nd International Conference on Computing for Sustainable Global \u2026, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13579701142368003299",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13579701142368003299&engine=google_scholar&hl=en",
+                "cites_id": "13579701142368003299"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design of 6T, 5T and 4T SRAM cell on various performance metrics",
+                    "author": [
+                        "W Singh",
+                        "GA Kumar"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 2nd International Conference on \u2026",
+                    "abstract": "As the technology is shrinking, a significant amount of attention is being paid on the design of high stability Static Random Access (SRAM) cells in terms of static Noise Margin (SNM) for different levels of cache memories. This paper presents a qualitative design of 6T, 5T and 4T Static Random Memory Access cell in terms of Read cell current, Write time, Static Noise Margin (Read and Hold), Write Noise Margin in 65nm CMOS technology. Simulation results shows that the 6T SRAM cell exhibits 173% higher SNM than 4T SRAM cell which indicates"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7100378/",
+                "author_id": [
+                    "h60AZKYAAAAJ",
+                    "6KkNgOAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:46TPmj3KdLwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Bof%2B6T,%2B5T%2Band%2B4T%2BSRAM%2Bcell%2Bon%2Bvarious%2Bperformance%2Bmetrics%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=46TPmj3KdLwJ&ei=oldkYtafJouKmgGY1YjABQ&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=13579701142368003299&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:46TPmj3KdLwJ:scholar.google.com/&scioq=Design+of+6T,+5T+and+4T+SRAM+cell+on+various+performance+metrics&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/39426864/2015.pdf"
+            },
+            "processed_authors": [
+                "wazir singh",
+                "ga kumar"
+            ]
+        },
+        {
+            "title": "A high speed low voltage latch type sense amplifier for non-volatile memory",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "6KkNgOAAAAAJ:u5HHmVD_uO8C",
+            "authors": "D Arora, AK Gundu, MS Hashmi",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-5, 2016",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=527566246808023422",
+                "serpapi_link": "https://serpapi.com/search.json?cites=527566246808023422&engine=google_scholar&hl=en",
+                "cites_id": "527566246808023422"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A high speed low voltage latch type sense amplifier for non-volatile memory",
+                    "author": [
+                        "D Arora",
+                        "AK Gundu",
+                        "MS Hashmi"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 20th International \u2026",
+                    "abstract": "A high speed low power modified latch type static sense amplifier design for current sensing in non-volatile memories is presented in this paper. The idea presented in this paper makes use of the fact that the scaling in technology introduces severe reliability issues in sensing circuits, due to device mismatches, which cause unpredictability in their performance metrics. In this paper, a detailed analysis on the proposed sense amplifier topology has been carried out by introducing variations in the threshold voltage of the devices to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8064841/",
+                "author_id": [
+                    "",
+                    "6KkNgOAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fnF60LRKUgcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhigh%2Bspeed%2Blow%2Bvoltage%2Blatch%2Btype%2Bsense%2Bamplifier%2Bfor%2Bnon-volatile%2Bmemory%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fnF60LRKUgcJ&ei=qFdkYsDaNIuKmgGY1YjABQ&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=527566246808023422&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fnF60LRKUgcJ:scholar.google.com/&scioq=A+high+speed+low+voltage+latch+type+sense+amplifier+for+non-volatile+memory&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Anil-Kumar-214/publication/320369054_A_high_speed_low_voltage_latch_type_sense_amplifier_for_non-volatile_memory/links/5fe1d88c45851553a0df8b98/A-high-speed-low-voltage-latch-type-sense-amplifier-for-non-volatile-memory.pdf"
+            },
+            "processed_authors": [
+                "d arora",
+                "anil kumar gundu",
+                "mohammad s. hashmi"
+            ]
+        },
+        {
+            "title": "Energy Efficient Clock Distribution with Low-Leakage Multi-Vt Buffers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:Se3iqnhoufwC",
+            "citation_id": "6KkNgOAAAAAJ:Se3iqnhoufwC",
+            "authors": "AK Gundu, V Kursun",
+            "publication": "29th International Symposium on Power and Timing Modeling, Optimization and \u2026, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9865038612692751491",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9865038612692751491&engine=google_scholar&hl=en",
+                "cites_id": "9865038612692751491"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy Efficient Clock Distribution with Low-Leakage Multi-Vt Buffers",
+                    "author": [
+                        "AK Gundu",
+                        "V Kursun"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 29th International Symposium on \u2026",
+                    "abstract": "A new low power clock distribution network with multi-threshold-voltage (multi-V t) repeaters is presented in this paper. A repeater circuit with two inputs and two outputs is employed for suppressing leakage currents in gated clock distribution networks. The standby leakage power consumption is reduced by 50.93% with the proposed clock tree as compared to the conventional 3 level H-tree operating with a power supply voltage of 0.8 V in a 45nm CMOS technology. In addition to providing significant power savings in idle clock distribution"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8862097/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "-cFPhjoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:g1QQ3Vmo54gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2BEfficient%2BClock%2BDistribution%2Bwith%2BLow-Leakage%2BMulti-Vt%2BBuffers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=g1QQ3Vmo54gJ&ei=tVdkYtOqKYuKmgGY1YjABQ&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=9865038612692751491&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:g1QQ3Vmo54gJ:scholar.google.com/&scioq=Energy+Efficient+Clock+Distribution+with+Low-Leakage+Multi-Vt+Buffers&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Anil-Kumar-214/publication/336414720_Energy_Efficient_Clock_Distribution_with_Low-Leakage_Multi-V_t_Buffers/links/5fa9194ea6fdcc06242026a3/Energy-Efficient-Clock-Distribution-with-Low-Leakage-Multi-V-t-Buffers.pdf"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "v kursun"
+            ]
+        },
+        {
+            "title": "Statistical analysis and parametric yield estimation of standard 6T SRAM cell for different capacities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "6KkNgOAAAAAJ:u-x6o8ySG0sC",
+            "authors": "AK Gundu, MS Hashmi, R Sharma, N Ansari",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 316-321, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3022084905769294654",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3022084905769294654&engine=google_scholar&hl=en",
+                "cites_id": "3022084905769294654"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Statistical analysis and parametric yield estimation of standard 6T SRAM cell for different capacities",
+                    "author": [
+                        "AK Gundu",
+                        "MS Hashmi",
+                        "R Sharma"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 28th IEEE \u2026",
+                    "abstract": "In advanced CMOS technologies large-scale integration has enabled larger embedded memory capacity in SoCs and it has also necessitated the Static Random Access Memory (SRAM) bitcell qualification requirement of the order of 0.1 ppb. This paper presents a qualitative statistical analysis of a 6T standard SRAM cell in read cycle with respect to Static Noise Margin (SNM) due to process parameter fluctuation. The Yield (Y) of SRAM is predicted for different capacities of SRAM array by modeling success/failure boundary"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7406974/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "oEJfDLkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:PttyyTWa8CkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStatistical%2Banalysis%2Band%2Bparametric%2Byield%2Bestimation%2Bof%2Bstandard%2B6T%2BSRAM%2Bcell%2Bfor%2Bdifferent%2Bcapacities%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PttyyTWa8CkJ&ei=uVdkYuieEPmQ6rQP5OqKqAo&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=3022084905769294654&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PttyyTWa8CkJ:scholar.google.com/&scioq=Statistical+analysis+and+parametric+yield+estimation+of+standard+6T+SRAM+cell+for+different+capacities&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "mohammad s. hashmi",
+                "r sharma",
+                "naushad ansari"
+            ]
+        },
+        {
+            "title": "A proposed low-offset sense amplifier for SRAM applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "6KkNgOAAAAAJ:zYLM7Y9cAGgC",
+            "authors": "AK Gundu, W Singh, SM Divi",
+            "publication": "2015 2nd International Conference on Signal Processing and Integrated \u2026, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18356025610700281590",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18356025610700281590&engine=google_scholar&hl=en",
+                "cites_id": "18356025610700281590"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A proposed low-offset sense amplifier for SRAM applications",
+                    "author": [
+                        "AK Gundu",
+                        "W Singh",
+                        "SM Divi"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 2nd International \u2026",
+                    "abstract": "Random variations play a critical role in determining SRAM yield, by affecting both the bitcell and the read Sense Amplifiers (SA). A low-offset sense amplifier capable of static random access memory (SRAM) applications has been presented in this work. Simulated results show that the proposed sense amplifier has very low offset of 31.284 mV compared to the conventional sense amplifiers."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7095420/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "h60AZKYAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:9lbD3Qm0vf4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bproposed%2Blow-offset%2Bsense%2Bamplifier%2Bfor%2BSRAM%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9lbD3Qm0vf4J&ei=vFdkYrnPG5GJmwGY-qmYDQ&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=18356025610700281590&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9lbD3Qm0vf4J:scholar.google.com/&scioq=A+proposed+low-offset+sense+amplifier+for+SRAM+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Wazir-Singh/publication/283118676_A_Proposed_Low-offset_Sense_Amplifier_for_SRAM_Applications/links/562df32708ae518e3482559a/A-Proposed-Low-offset-Sense-Amplifier-for-SRAM-Applications.pdf"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "wazir singh",
+                "sm divi"
+            ]
+        },
+        {
+            "title": "A new sense amplifier topology with improved performance for high speed sram applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "6KkNgOAAAAAJ:9yKSN-GCB0IC",
+            "authors": "AK Gundu, MS Hashmi, A Grover",
+            "publication": "2016 29th International Conference on VLSI Design and 2016 15th \u2026, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8620193338525344086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8620193338525344086&engine=google_scholar&hl=en",
+                "cites_id": "8620193338525344086"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A new sense amplifier topology with improved performance for high speed sram applications",
+                    "author": [
+                        "AK Gundu",
+                        "MS Hashmi",
+                        "A Grover"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 29th International \u2026",
+                    "abstract": "This paper reports a modified latch based Sense Amplifier (SA) and then provides a qualitative statistical comparison of its yield based on offset voltage and sensing delay in 28nm CMOS technology. A thorough comparative statistical analysis with regards to conventional latch based SA is also reported with respect to random do pant fluctuation. Influence of design parameter like sizing of the devices on sensing delay has been analyzed based on Design of Experiments (DoE). Furthermore, the effects of random variations on the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7434949/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "oEJfDLkAAAAJ",
+                    "uDOo1fUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VuH9bSsUoXcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bnew%2Bsense%2Bamplifier%2Btopology%2Bwith%2Bimproved%2Bperformance%2Bfor%2Bhigh%2Bspeed%2Bsram%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VuH9bSsUoXcJ&ei=v1dkYqGxObKO6rQPy-CRsA8&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=8620193338525344086&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VuH9bSsUoXcJ:scholar.google.com/&scioq=A+new+sense+amplifier+topology+with+improved+performance+for+high+speed+sram+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Anil-Kumar-214/publication/301709929_A_New_Sense_Amplifier_Topology_with_Improved_Performance_for_High_Speed_SRAM_Applications/links/5cb6ead992851c8d22f0c988/A-New-Sense-Amplifier-Topology-with-Improved-Performance-for-High-Speed-SRAM-Applications.pdf"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "mohammad s. hashmi",
+                "anuj grover"
+            ]
+        },
+        {
+            "title": "A positive level shifter for high speed symmetric switching in flash memories",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "6KkNgOAAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "R Sinha, MS Hashmi, GA Kumar",
+            "publication": "18th International Symposium on VLSI Design and Test, 1-5, 2014",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11885063730305534081",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11885063730305534081&engine=google_scholar&hl=en",
+                "cites_id": "11885063730305534081"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A positive level shifter for high speed symmetric switching in flash memories",
+                    "author": [
+                        "R Sinha",
+                        "MS Hashmi",
+                        "GA Kumar"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "\u2026 International Symposium on \u2026",
+                    "abstract": "In this paper, a novel positive level shifter is designed for high speed interfacing between the digital circuits operating at 1.2 V and the memory core circuits operating at high voltages in flash memories. The proposed design is also validated for a wide range of output voltage levels and has been optimized to perform efficiently across the different process corners and temperatures. For the targeted design of 1.2 V and 33 MHz input signal to 4V output signal, the level shifter has a symmetric switching speed with a rise time and fall time of 2ns and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6881064/",
+                "author_id": [
+                    "",
+                    "oEJfDLkAAAAJ",
+                    "6KkNgOAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:gYi9MX468KQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bpositive%2Blevel%2Bshifter%2Bfor%2Bhigh%2Bspeed%2Bsymmetric%2Bswitching%2Bin%2Bflash%2Bmemories%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=gYi9MX468KQJ&ei=w1dkYum5AqKUy9YP_JONiAY&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=11885063730305534081&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:gYi9MX468KQJ:scholar.google.com/&scioq=A+positive+level+shifter+for+high+speed+symmetric+switching+in+flash+memories&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r sinha",
+                "mohammad s. hashmi",
+                "ga kumar"
+            ]
+        },
+        {
+            "title": "Modeling and yield estimation of SRAM sub-system for different capacities subjected to parametric variations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "6KkNgOAAAAAJ:IjCSPb-OGe4C",
+            "authors": "P Sharma, AK Gundu, MS Hashmi",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-6, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17096376423733304884",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17096376423733304884&engine=google_scholar&hl=en",
+                "cites_id": "17096376423733304884"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Modeling and yield estimation of SRAM sub-system for different capacities subjected to parametric variations",
+                    "author": [
+                        "P Sharma",
+                        "AK Gundu"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 20th International \u2026",
+                    "abstract": "Process variations have become a major challenge with the advancement in CMOS technologies. The performance of memory sub-systems such as Static Random Access Memory (SRAMs) is heavily dependent on these variations. Also, the VLSI industry requires the SRAM bit cell to qualify in the order of less than 0.1 ppb to achieve higher Yield (Y). This paper proposes an efficient qualitative statistical analysis and Yield estimation method of SRAM sub-system which considers deviations due to variations in process parameters in bit"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8064840/",
+                "author_id": [
+                    "",
+                    "6KkNgOAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:NJ784saHQu0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DModeling%2Band%2Byield%2Bestimation%2Bof%2BSRAM%2Bsub-system%2Bfor%2Bdifferent%2Bcapacities%2Bsubjected%2Bto%2Bparametric%2Bvariations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NJ784saHQu0J&ei=y1dkYuTlO4OEmgHx-5DADA&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=17096376423733304884&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:NJ784saHQu0J:scholar.google.com/&scioq=Modeling+and+yield+estimation+of+SRAM+sub-system+for+different+capacities+subjected+to+parametric+variations&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "p sharma",
+                "anil kumar gundu",
+                "mohammad s. hashmi"
+            ]
+        },
+        {
+            "title": "An effective test methodology enabling detection of weak bits in SRAMs: Case study in 28nm FDSOI",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "6KkNgOAAAAAJ:UeHWp8X0CEIC",
+            "authors": "N Batra, AK Gundu, MS Hashmi, GS Visweswaran, A Grover",
+            "publication": "2016 20th International Symposium on VLSI Design and Test (VDAT), 1-6, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16817695297256284286",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16817695297256284286&engine=google_scholar&hl=en",
+                "cites_id": "16817695297256284286"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An effective test methodology enabling detection of weak bits in SRAMs: Case study in 28nm FDSOI",
+                    "author": [
+                        "N Batra",
+                        "AK Gundu",
+                        "MS Hashmi"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 Symposium on VLSI \u2026",
+                    "abstract": "In advanced technology nodes, device variations limit the SRAM performance and yield. Cell stability defined by the Static Noise Margin (SNM) of the SRAM cell primarily governs the performance with respect to yield in SRAMs. Variations in the scaled SRAMs increase the probability of cells becoming weak. To ensure reliability of SRAMs it is important to identify such cells post silicon. In this work, we propose a correlation based test methodology to detect the weak bits in SRAMs with respect to SNM. We present a case"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8064868/",
+                "author_id": [
+                    "",
+                    "6KkNgOAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fuC31cR0ZOkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Beffective%2Btest%2Bmethodology%2Benabling%2Bdetection%2Bof%2Bweak%2Bbits%2Bin%2BSRAMs:%2BCase%2Bstudy%2Bin%2B28nm%2BFDSOI%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fuC31cR0ZOkJ&ei=0VdkYpajO5yO6rQP_qe3mAs&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=16817695297256284286&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fuC31cR0ZOkJ:scholar.google.com/&scioq=An+effective+test+methodology+enabling+detection+of+weak+bits+in+SRAMs:+Case+study+in+28nm+FDSOI&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "n batra",
+                "anil kumar gundu",
+                "mohammad s. hashmi",
+                "gs visweswaran",
+                "anuj grover"
+            ]
+        },
+        {
+            "title": "Novel low leakage and energy efficient dual-pullup/dual-pulldown repeater",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "6KkNgOAAAAAJ:hqOjcs7Dif8C",
+            "authors": "AK Gundu, V Kursun",
+            "publication": "Integration, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8451637224923029970",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8451637224923029970&engine=google_scholar&hl=en",
+                "cites_id": "8451637224923029970"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Novel low leakage and energy efficient dual-pullup/dual-pulldown repeater",
+                    "author": [
+                        "AK Gundu",
+                        "V Kursun"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Integration",
+                    "abstract": "Transistor threshold voltage (V t) scaling causes higher power consumption by increasing the subthreshold leakage and short-circuit currents in CMOS circuits. Leakage currents are significant contributors to the overall power consumption of digital systems-on-chip as threshold voltage, channel length, and gate oxide thickness are reduced with CMOS technology scaling. A new dual-pullup/dual-pulldown (DPU/DPD) repeater is proposed in this paper for higher energy efficiency in low-voltage and low-frequency applications. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167926021000171",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "-cFPhjoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:0mEBAkc_SnUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNovel%2Blow%2Bleakage%2Band%2Benergy%2Befficient%2Bdual-pullup/dual-pulldown%2Brepeater%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0mEBAkc_SnUJ&ei=1VdkYtLnPM6E6rQP5-KmKA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=8451637224923029970&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:0mEBAkc_SnUJ:scholar.google.com/&scioq=Novel+low+leakage+and+energy+efficient+dual-pullup/dual-pulldown+repeater&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "v kursun"
+            ]
+        },
+        {
+            "title": "A regression based methodology to estimate SNM for improving yield of 6T SRAM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:qjMakFHDy7sC",
+            "citation_id": "6KkNgOAAAAAJ:qjMakFHDy7sC",
+            "authors": "AK Gundu, MS Hashmi, R Sharma",
+            "publication": "2016 IEEE 59th International Midwest Symposium on Circuits and Systems \u2026, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15492281889643182358",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15492281889643182358&engine=google_scholar&hl=en",
+                "cites_id": "15492281889643182358"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A regression based methodology to estimate SNM for improving yield of 6T SRAM",
+                    "author": [
+                        "AK Gundu",
+                        "MS Hashmi"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 IEEE 59th \u2026",
+                    "abstract": "The stability of SRAM cells in high density ICs during read cycle is an extremely critical performance metric for data retention. A frame work to identify the tradeoff between Yield and Static Noise Margin (SNM) in the region of high sigma tail end distributions is presented in this paper. For developing the framework, the sensitivity of SNM is observed for different device variations using Design of Experiments (DoE) method whereas estimation of yield for different targeted SNMs is done using Bivariate Linear (BL) model and Bivariate Nonlinear"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7869988/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FjlmCEyk_9YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bregression%2Bbased%2Bmethodology%2Bto%2Bestimate%2BSNM%2Bfor%2Bimproving%2Byield%2Bof%2B6T%2BSRAM%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FjlmCEyk_9YJ&ei=2VdkYu-IA8LZmQHnraWYCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=15492281889643182358&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FjlmCEyk_9YJ:scholar.google.com/&scioq=A+regression+based+methodology+to+estimate+SNM+for+improving+yield+of+6T+SRAM&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "mohammad s. hashmi",
+                "r sharma"
+            ]
+        },
+        {
+            "title": "A method to estimate effectiveness of weak bit test: Comparison of weak pMOS and WL boost based test-28nm FDSOI implementation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "6KkNgOAAAAAJ:d1gkVwhDpl0C",
+            "authors": "N Batra, S Kaushik, AK Gundu, MS Hashmi, GS Visweswaran, A Grover",
+            "publication": "2016 29th IEEE International System-on-Chip Conference (SOCC), 47-51, 2016",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8446713550663066879",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8446713550663066879&engine=google_scholar&hl=en",
+                "cites_id": "8446713550663066879"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A method to estimate effectiveness of weak bit test: Comparison of weak pMOS and WL boost based test-28nm FDSOI implementation",
+                    "author": [
+                        "N Batra",
+                        "S Kaushik",
+                        "AK Gundu"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 29th IEEE \u2026",
+                    "abstract": "With emerging deep submicron technology, device variations limit the SRAM performance and yield. Cell stability defined by the Static Noise Margin (SNM) of the SRAM cell among other figure of merits (FOMs) governs the yield in SRAMs. Variations in the scaled SRAMs increase the probability of cells becoming weak. To ensure reliability of SRAMs it is important to identify such cells post fabrication. In this work, we propose a correlation based test methodology to detect the weak bits in SRAMs with respect to SNM. The proposed"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7905432/",
+                "author_id": [
+                    "",
+                    "T9Ggus0AAAAJ",
+                    "6KkNgOAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_yTAwjjBOHUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bmethod%2Bto%2Bestimate%2Beffectiveness%2Bof%2Bweak%2Bbit%2Btest:%2BComparison%2Bof%2Bweak%2BpMOS%2Band%2BWL%2Bboost%2Bbased%2Btest-28nm%2BFDSOI%2Bimplementation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_yTAwjjBOHUJ&ei=4FdkYt3kAqKUy9YP_JONiAY&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=8446713550663066879&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_yTAwjjBOHUJ:scholar.google.com/&scioq=A+method+to+estimate+effectiveness+of+weak+bit+test:+Comparison+of+weak+pMOS+and+WL+boost+based+test-28nm+FDSOI+implementation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Anil-Kumar-214/publication/311913375_A_Method_to_Estimate_Effectiveness_of_Weak_Bit_Test_Comparison_of_Weak_pMOS_and_WL_Boost_Based_Test_-_28nm_FDSOI_Implementation/links/5b4818d70f7e9b4637d1d404/A-Method-to-Estimate-Effectiveness-of-Weak-Bit-Test-Comparison-of-Weak-pMOS-and-WL-Boost-Based-Test-28nm-FDSOI-Implementation.pdf"
+            },
+            "processed_authors": [
+                "n batra",
+                "s kaushik",
+                "anil kumar gundu",
+                "mohammad s. hashmi",
+                "gs visweswaran",
+                "anuj grover"
+            ]
+        },
+        {
+            "title": "5nm Gate-all-around Transistor Technology with 3D Stacked Nanosheets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:5nxA0vEk-isC",
+            "citation_id": "6KkNgOAAAAAJ:5nxA0vEk-isC",
+            "authors": "AK Gundu, V Kursun",
+            "publication": "IEEE Transactions on Electron Devices, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "5-nm Gate-All-Around Transistor Technology With 3-D Stacked Nanosheets",
+                    "author": [
+                        "AK Gundu",
+                        "V Kursun"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "IEEE Transactions on Electron Devices",
+                    "abstract": "A comprehensive computational study of gate-all-around (GAA) devices with 3-D stacked silicon nanosheets (also known as nanoribbons or nanowires) is presented in this article. Technology development guidelines are provided for low-power applications in 5-nm CMOS technology node and beyond. The 3-D stacked nanosheet devices lower the subthreshold swing, drain-induced barrier-lowering, and subthreshold leakage current by up to 20.75%, 38.89%, and 88.53%, respectively, when compared to a silicon-on-insulator (SOI) FinFET"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9701490/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "-cFPhjoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_9Pu-K518WwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D5nm%2BGate-all-around%2BTransistor%2BTechnology%2Bwith%2B3D%2BStacked%2BNanosheets%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_9Pu-K518WwJ&ei=5VdkYpaGNZyO6rQP_qe3mAs&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "v kursun"
+            ]
+        },
+        {
+            "title": "Optimization of 3D Stacked Nanosheets in 5nm Gate-All-Around Transistor Technology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:0EnyYjriUFMC",
+            "citation_id": "6KkNgOAAAAAJ:0EnyYjriUFMC",
+            "authors": "AK Gundu, V Kursun",
+            "publication": "34th IEEE International System-On-Chip Conference (SoCC)-2021, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Optimization of 3D Stacked Nanosheets in 5nm Gate-all-around Transistor Technology",
+                    "author": [
+                        "AK Gundu",
+                        "V Kursun"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE 34th International System-on \u2026",
+                    "abstract": "An optimization study of silicon gate-all-around (GAA) devices based on technology computer-aided design tools is presented in this paper. GAA technology guidelines and solutions are provided for low power applications in the 5 nm CMOS technology node. GAA device structure is optimized to achieve maximum electrostatics driven performance. Vertically stacked lateral nanosheet devices display superior performance and area scaling as compared to the conventional finFET and GAA technologies. Gate-all-around nanosheet"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9739517/",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "-cFPhjoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:iDU0yM0TQJQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOptimization%2Bof%2B3D%2BStacked%2BNanosheets%2Bin%2B5nm%2BGate-All-Around%2BTransistor%2BTechnology%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=iDU0yM0TQJQJ&ei=7FdkYqqiLJyO6rQP_qe3mAs&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/9739206/9739211/09739517.pdf"
+            },
+            "processed_authors": [
+                "anil kumar gundu",
+                "v kursun"
+            ]
+        },
+        {
+            "title": "Identification of weak bits in SRAM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:ufrVoPGSRksC",
+            "citation_id": "6KkNgOAAAAAJ:ufrVoPGSRksC",
+            "authors": "GA Kumar, MS Hashmi",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Identification of weak bits in SRAM",
+                    "author": [
+                        "GA Kumar",
+                        "MS Hashmi"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "Up to 70% of Systems on a Chip (SoC) area are occupied by embedded memories. In order to achieve higher robustness, embedded SRAMs (eSRAM) are often used in SOC applications. However, due to advancement in technology it is nearly impossible to guarantee the first silicon success in an IC. Furthermore in high density devices like SRAMs, device variations are very common because of continuous scaling down of length, width and threshold voltage of the transistor devices. In these variations, if the variations occurring in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/376",
+                "author_id": [
+                    "6KkNgOAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:PIsRPiWz8PkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIdentification%2Bof%2Bweak%2Bbits%2Bin%2BSRAM%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PIsRPiWz8PkJ&ei=8FdkYpTUDYyuyAT-mrWwCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:PIsRPiWz8PkJ:scholar.google.com/&scioq=Identification+of+weak+bits+in+SRAM&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/jspui/bitstream/handle/123456789/376/MT13154.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "ga kumar",
+                "mohammad s. hashmi"
+            ]
+        },
+        {
+            "title": "Track-wise list of papers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6KkNgOAAAAAJ&pagesize=100&citation_for_view=6KkNgOAAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "6KkNgOAAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Khandelwal, J Meena, L Garg, D Boolchandani, P Sharma, AK Gundu, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Track wise list of papers",
+                    "author": [
+                        "H TRIPATHI"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Track wise list of papers  Track wise List of Papers  Track ID Paper ID"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7918211/",
+                "author_id": [
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:B-Htzv--tFsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTrack-wise%2Blist%2Bof%2Bpapers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=B-Htzv--tFsJ&ei=81dkYo3zNIOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/7911086/7918202/07918211.pdf"
+            },
+            "processed_authors": [
+                "s khandelwal",
+                "j meena",
+                "l garg",
+                "d boolchandani",
+                "p sharma",
+                "anil kumar gundu"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 53,
+                    "since_2017": 47
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 5
+            },
+            {
+                "year": 2017,
+                "citations": 4
+            },
+            {
+                "year": 2018,
+                "citations": 6
+            },
+            {
+                "year": 2019,
+                "citations": 4
+            },
+            {
+                "year": 2020,
+                "citations": 18
+            },
+            {
+                "year": 2021,
+                "citations": 14
+            },
+            {
+                "year": 2022,
+                "citations": 1
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Mohammad S. Hashmi",
+            "link": "https://scholar.google.com/citations?user=oEJfDLkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oEJfDLkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oEJfDLkAAAAJ",
+            "affiliations": "IIIT Delhi, Nazarbayev University, University of Calgary, Cardiff University",
+            "email": "Verified email at ucalgary.ca",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oEJfDLkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Volkan Kursun",
+            "link": "https://scholar.google.com/citations?user=-cFPhjoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-cFPhjoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-cFPhjoAAAAJ",
+            "affiliations": "Professor, Norwegian University of Science and Technology",
+            "email": "Verified email at ntnu.no",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-cFPhjoAAAAJ&citpid=4"
+        },
+        {
+            "name": "Anuj Grover",
+            "link": "https://scholar.google.com/citations?user=uDOo1fUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uDOo1fUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "uDOo1fUAAAAJ",
+            "affiliations": "IIIT Delhi, STMicroelectronics, IIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uDOo1fUAAAAJ&citpid=1"
+        },
+        {
+            "name": "Wazir Singh",
+            "link": "https://scholar.google.com/citations?user=h60AZKYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h60AZKYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h60AZKYAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h60AZKYAAAAJ&citpid=2"
+        },
+        {
+            "name": "Gangaikondan Visweswaran",
+            "link": "https://scholar.google.com/citations?user=70avI0UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=70avI0UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "70avI0UAAAAJ",
+            "affiliations": "Emeritus Professor, P E S University",
+            "email": "Verified email at pes.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Naushad Ansari",
+            "link": "https://scholar.google.com/citations?user=SxuQKigAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SxuQKigAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SxuQKigAAAAJ",
+            "affiliations": "Nanyang Technological University, Singapore",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SxuQKigAAAAJ&citpid=2"
+        }
+    ]
+}

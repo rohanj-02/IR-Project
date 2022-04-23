@@ -1,0 +1,398 @@
+{
+    "search_metadata": {
+        "id": "62574c7de0ded49252de51e8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c7efa3c0f0032338/62574c7de0ded49252de51e8.json",
+        "created_at": "2022-04-13 22:19:41 UTC",
+        "processed_at": "2022-04-13 22:19:41 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=eZ4WZmIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/c7efa3c0f0032338/62574c7de0ded49252de51e8.html",
+        "total_time_taken": 0.09,
+        "total_articles": 6,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "eZ4WZmIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "ANISH MADAN",
+        "affiliations": "Associate ML Scientist @ Wadhwani AI | B.Tech, IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://anishmadan23.github.io/",
+        "interests": [
+            {
+                "title": "Computer Vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "Adversarial Robustness",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:adversarial_robustness",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aadversarial_robustness"
+            },
+            {
+                "title": "Meta-Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:meta_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ameta_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=eZ4WZmIAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "C3VQG: category consistent cyclic visual question generation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eZ4WZmIAAAAJ&pagesize=100&citation_for_view=eZ4WZmIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "eZ4WZmIAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Uppal, A Madan, S Bhagat, Y Yu, RR Shah",
+            "publication": "Proceedings of the 2nd ACM International Conference on Multimedia in Asia, 1-7, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10216008434460081466",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10216008434460081466&engine=google_scholar&hl=en",
+                "cites_id": "10216008434460081466"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "C3VQG: category consistent cyclic visual question generation",
+                    "author": [
+                        "S Uppal",
+                        "A Madan",
+                        "S Bhagat",
+                        "Y Yu"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 2nd \u2026",
+                    "abstract": "Visual Question Generation (VQG) is the task of generating natural questions based on an image. Popular methods in the past have explored image-to-sequence architectures trained with maximum likelihood which have demonstrated meaningful generated questions given an image and its associated ground-truth answer. VQG becomes more challenging if the image contains rich contextual information describing its different semantic categories. In this paper, we try to exploit the different visual cues and concepts in"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3444685.3446302",
+                "author_id": [
+                    "cjo5X3QAAAAJ",
+                    "eZ4WZmIAAAAJ",
+                    "SLRQlXEAAAAJ",
+                    "oqxXhPsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Oj1jXouNxo0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DC3VQG:%2Bcategory%2Bconsistent%2Bcyclic%2Bvisual%2Bquestion%2Bgeneration%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Oj1jXouNxo0J&ei=S1RkYuvbLI6pywTd4KPADw&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=10216008434460081466&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Oj1jXouNxo0J:scholar.google.com/&scioq=C3VQG:+category+consistent+cyclic+visual+question+generation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2005.07771"
+            }
+        },
+        {
+            "title": "REGroup: Rank-Aggregating Ensemble of Generative Classifiers for Robust Predictions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eZ4WZmIAAAAJ&pagesize=100&citation_for_view=eZ4WZmIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "eZ4WZmIAAAAJ:IjCSPb-OGe4C",
+            "authors": "L Tiwari, A Madan, S Anand, S Banerjee",
+            "publication": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer \u2026, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "REGroup: Rank-Aggregating Ensemble of Generative Classifiers for Robust Predictions",
+                    "author": [
+                        "L Tiwari",
+                        "A Madan",
+                        "S Anand"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Deep Neural Networks (DNNs) are often criticized for being susceptible to adversarial attacks. Most successful defense strategies adopt adversarial training or random input transformations that typically require retraining or fine-tuning the model to achieve reasonable performance. In this work, our investigations of intermediate representations of a pre-trained DNN lead to an interesting discovery pointing to intrinsic robustness to adversarial attacks. We find that we can learn a generative classifier by statistically"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://openaccess.thecvf.com/content/WACV2022/html/Tiwari_REGroup_Rank-Aggregating_Ensemble_of_Generative_Classifiers_for_Robust_Predictions_WACV_2022_paper.html",
+                "author_id": [
+                    "uHfnun4AAAAJ",
+                    "eZ4WZmIAAAAJ",
+                    "YmYvVEQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:MeJBuBSKIPUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DREGroup:%2BRank-Aggregating%2BEnsemble%2Bof%2BGenerative%2BClassifiers%2Bfor%2BRobust%2BPredictions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MeJBuBSKIPUJ&ei=VlRkYveQN7KO6rQPy-CRsA8&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:MeJBuBSKIPUJ:scholar.google.com/&scioq=REGroup:+Rank-Aggregating+Ensemble+of+Generative+Classifiers+for+Robust+Predictions&hl=en&as_sdt=0,33",
+                "eprint_url": "https://openaccess.thecvf.com/content/WACV2022/papers/Tiwari_REGroup_Rank-Aggregating_Ensemble_of_Generative_Classifiers_for_Robust_Predictions_WACV_2022_paper.pdf"
+            }
+        },
+        {
+            "title": "B-SMALL: A Bayesian Neural Network approach to Sparse Model-Agnostic Meta-Learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eZ4WZmIAAAAJ&pagesize=100&citation_for_view=eZ4WZmIAAAAJ:qjMakFHDy7sC",
+            "citation_id": "eZ4WZmIAAAAJ:qjMakFHDy7sC",
+            "authors": "A Madan, R Prasad",
+            "publication": "arXiv preprint arXiv:2101.00203, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distributed Few-Shot Learning for Intelligent Recognition of Communication Jamming",
+                    "author": [
+                        "M Liu",
+                        "Z Liu",
+                        "W Lu",
+                        "Y Chen",
+                        "X Gao"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Journal of Selected \u2026",
+                    "abstract": "as the model-agnostic meta-learning network input, and then train the distributed network  through  [25] A, Madan, R Prasad, \u201cB-small: a bayesian neural network approach to sparse"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9658166/",
+                "author_id": [
+                    "XRsveJYAAAAJ",
+                    "ODFLmIwAAAAJ",
+                    "",
+                    "WMbGRBwAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:DpARxV82Vu0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DB-SMALL:%2BA%2BBayesian%2BNeural%2BNetwork%2Bapproach%2Bto%2BSparse%2BModel-Agnostic%2BMeta-Learning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DpARxV82Vu0J&ei=X1RkYr3pPJqSy9YP8pKNsAE&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=17101916419942092814&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:DpARxV82Vu0J:scholar.google.com/&scioq=B-SMALL:+A+Bayesian+Neural+Network+approach+to+Sparse+Model-Agnostic+Meta-Learning&hl=en&as_sdt=0,33",
+                "eprint_url": "http://wrap.warwick.ac.uk/161185/1/WRAP-distributed-few-shot%20learning-intelligent-recognition-communication-jamming-Chen-2021.pdf"
+            }
+        },
+        {
+            "title": "Dissecting Deep Networks into an Ensemble of Generative Classifiers for Robust Predictions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eZ4WZmIAAAAJ&pagesize=100&citation_for_view=eZ4WZmIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "eZ4WZmIAAAAJ:9yKSN-GCB0IC",
+            "authors": "L Tiwari, A Madan, S Anand, S Banerjee",
+            "publication": "arXiv preprint arXiv:2006.10679, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dissecting Deep Networks into an Ensemble of Generative Classifiers for Robust Predictions",
+                    "author": [
+                        "L Tiwari",
+                        "A Madan",
+                        "S Anand",
+                        "S Banerjee"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv:2006.10679",
+                    "abstract": "Deep Neural Networks (DNNs) are often criticized for being susceptible to adversarial attacks. Most successful defense strategies adopt adversarial training or random input transformations that typically require retraining or fine-tuning the model to achieve reasonable performance. In this work, our investigations of intermediate representations of a pre-trained DNN lead to an interesting discovery pointing to intrinsic robustness to adversarial attacks. We find that we can learn a generative classifier by statistically"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2006.10679",
+                "author_id": [
+                    "uHfnun4AAAAJ",
+                    "eZ4WZmIAAAAJ",
+                    "YmYvVEQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:qOSNPaEaqVMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDissecting%2BDeep%2BNetworks%2Binto%2Ban%2BEnsemble%2Bof%2BGenerative%2BClassifiers%2Bfor%2BRobust%2BPredictions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qOSNPaEaqVMJ&ei=Y1RkYvXsHO-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:qOSNPaEaqVMJ:scholar.google.com/&scioq=Dissecting+Deep+Networks+into+an+Ensemble+of+Generative+Classifiers+for+Robust+Predictions&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.10679"
+            }
+        },
+        {
+            "title": "Robust deep learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eZ4WZmIAAAAJ&pagesize=100&citation_for_view=eZ4WZmIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "eZ4WZmIAAAAJ:u-x6o8ySG0sC",
+            "authors": "A Madan, S Anand",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Learning to reweight examples for robust deep learning",
+                    "author": [
+                        "M Ren",
+                        "W Zeng",
+                        "B Yang"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on machine learning",
+                    "abstract": "-learning algorithm for reweighting training examples and training more robust deep learning   Our method can be directly applied to any deep learning architecture and is expected to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://proceedings.mlr.press/v80/ren18a.html",
+                "author_id": [
+                    "XcQ9WqMAAAAJ",
+                    "qSo45J0AAAAJ",
+                    "DSKXnkkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XNnsnFEVBPgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobust%2Bdeep%2Blearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XNnsnFEVBPgJ&ei=alRkYpGSKpyO6rQP_qe3mAs&json=",
+                "num_citations": 772,
+                "citedby_url": "/scholar?cites=17871432661582272860&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XNnsnFEVBPgJ:scholar.google.com/&scioq=Robust+deep+learning&hl=en&as_sdt=0,33",
+                "eprint_url": "http://proceedings.mlr.press/v80/ren18a/ren18a.pdf"
+            }
+        },
+        {
+            "title": "Supplementary Material: REGroup: Rank-aggregating Ensemble of Generative Classifiers for Robust Predictions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=eZ4WZmIAAAAJ&pagesize=100&citation_for_view=eZ4WZmIAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "eZ4WZmIAAAAJ:UeHWp8X0CEIC",
+            "authors": "L Tiwari, A Madan, S Anand, S Banerjee",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Supplementary Material: REGroup: Rank-aggregating Ensemble of Generative Classifiers for Robust Predictions",
+                    "author": [
+                        "L Tiwari",
+                        "A Madan",
+                        "S Anand",
+                        "S Banerjee"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Table 1. Performance on EAD attacks. Top-1 (%) classification accuracy comparison between SoftMax (SMax) and REGroup.# S is the number of images for which the attacker is successfully able to generate adversarial examples and the accuracies are reported with respect to the# S samples, hence the 0% accuracies with the SoftMax (SMax)."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://openaccess.thecvf.com/content/WACV2022/supplemental/Tiwari_REGroup_Rank-Aggregating_Ensemble_WACV_2022_supplemental.pdf",
+                "author_id": [
+                    "uHfnun4AAAAJ",
+                    "eZ4WZmIAAAAJ",
+                    "YmYvVEQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:uX1yHpAzjm0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSupplementary%2BMaterial:%2BREGroup:%2BRank-aggregating%2BEnsemble%2Bof%2BGenerative%2BClassifiers%2Bfor%2BRobust%2BPredictions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uX1yHpAzjm0J&ei=blRkYt2oKrKO6rQPy-CRsA8&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:uX1yHpAzjm0J:scholar.google.com/&scioq=Supplementary+Material:+REGroup:+Rank-aggregating+Ensemble+of+Generative+Classifiers+for+Robust+Predictions&hl=en&as_sdt=0,33",
+                "eprint_url": "https://openaccess.thecvf.com/content/WACV2022/supplemental/Tiwari_REGroup_Rank-Aggregating_Ensemble_WACV_2022_supplemental.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2021,
+                "citations": 1
+            },
+            {
+                "year": 2022,
+                "citations": 3
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Shagun Uppal",
+            "link": "https://scholar.google.com/citations?user=cjo5X3QAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cjo5X3QAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cjo5X3QAAAAJ",
+            "affiliations": "Visiting Scholar @ CLVR Lab, USC | CSE Undergrad IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=cjo5X3QAAAAJ&citpid=1"
+        },
+        {
+            "name": "Sarthak Bhagat",
+            "link": "https://scholar.google.com/citations?user=SLRQlXEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SLRQlXEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SLRQlXEAAAAJ",
+            "affiliations": "Deep Learning Engineer @ Preimage",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SLRQlXEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Yi Yu",
+            "link": "https://scholar.google.com/citations?user=oqxXhPsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oqxXhPsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oqxXhPsAAAAJ",
+            "affiliations": "Digital Content and Media Sciences Research Division, National Institute of Informatics",
+            "email": "Verified email at nii.ac.jp",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oqxXhPsAAAAJ&citpid=17"
+        },
+        {
+            "name": "Saket Anand",
+            "link": "https://scholar.google.com/citations?user=YmYvVEQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YmYvVEQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YmYvVEQAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YmYvVEQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dr. Lokender Tiwari",
+            "link": "https://scholar.google.com/citations?user=uHfnun4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uHfnun4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "uHfnun4AAAAJ",
+            "affiliations": "Research Scientist @ TCS Research",
+            "email": "Verified email at tcs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uHfnun4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Ranjitha Prasad",
+            "link": "https://scholar.google.com/citations?user=ADJe1AsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ADJe1AsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ADJe1AsAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ADJe1AsAAAAJ&citpid=2"
+        }
+    ]
+}

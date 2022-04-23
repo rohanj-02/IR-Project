@@ -8,12 +8,13 @@ from scholarly import ProxyGenerator
 import copy 
 
 pg = ProxyGenerator()
-success = pg.ScraperAPI("81715ec6176c5b721005c1e1c0943dd6")
+# success = pg.ScraperAPI("81715ec6176c5b721005c1e1c0943dd6")
+success = pg.ScraperAPI("ca007cedd5337eeb898c34b77951b901")
 # success = pg.FreeProxies()
 print("Proxy connection status: ", success)
 scholarly.use_proxy(pg)
 
-IN_DIR = "./data/final"
+IN_DIR = "./data/final2"
 OUT_DIR = "./data/author_update"
 
 for doc_id in os.listdir(IN_DIR):

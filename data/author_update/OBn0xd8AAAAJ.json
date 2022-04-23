@@ -1,0 +1,2125 @@
+{
+    "search_metadata": {
+        "id": "62574c9147ccf13f4a2b0301",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/33f087edc921cf21/62574c9147ccf13f4a2b0301.json",
+        "created_at": "2022-04-13 22:20:01 UTC",
+        "processed_at": "2022-04-13 22:20:01 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=OBn0xd8AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/33f087edc921cf21/62574c9147ccf13f4a2b0301.html",
+        "total_time_taken": 0.83,
+        "total_articles": 47,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "OBn0xd8AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Alexander Fell",
+        "affiliations": "Singapore Institute of Technology",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.singaporetech.edu.sg/directory/faculty/alexander-fell",
+        "interests": [
+            {
+                "title": "Coarse Grain Reconfigurable Architectures (CGRAs)",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:coarse_grain_reconfigurable_architectures_cgras",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acoarse_grain_reconfigurable_architectures_cgras"
+            },
+            {
+                "title": "Network-on-Chip",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:network_on_chip",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anetwork_on_chip"
+            },
+            {
+                "title": "Embedded Systems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:embedded_systems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aembedded_systems"
+            },
+            {
+                "title": "FPGAs",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:fpgas",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Afpgas"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=OBn0xd8AAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Redefine: Runtime reconfigurable polymorphic asic",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "OBn0xd8AAAAJ:2osOgNQ5qMEC",
+            "authors": "M Alle, K Varadarajan, A Fell, N Joseph, S Das, P Biswas, J Chetia, A Rao, ...",
+            "publication": "ACM Transactions on Embedded Computing Systems (TECS) 9 (2), 1-48, 2009",
+            "cited_by": {
+                "value": 65,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11724137782749307381",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11724137782749307381&engine=google_scholar&hl=en",
+                "cites_id": "11724137782749307381"
+            },
+            "year": "2009",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Redefine: Runtime reconfigurable polymorphic asic",
+                    "author": [
+                        "M Alle",
+                        "K Varadarajan",
+                        "A Fell",
+                        "N Joseph",
+                        "S Das"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "ACM Transactions on \u2026",
+                    "abstract": "Emerging embedded applications are based on evolving standards (eg, MPEG2/4, H. 264/265, IEEE802. 11a/b/g/n). Since most of these applications run on handheld devices, there is an increasing need for a single chip solution that can dynamically interoperate between different standards and their derivatives. In order to achieve high resource utilization and low power dissipation, we propose REDEFINE, a polymorphic ASIC in which specialized hardware units are replaced with basic hardware units that can create the same"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/1596543.1596545",
+                "author_id": [
+                    "",
+                    "e2Ny_2MAAAAJ",
+                    "OBn0xd8AAAAJ",
+                    "",
+                    "yuFZ7DcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9SGCPjKBtKIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRedefine:%2BRuntime%2Breconfigurable%2Bpolymorphic%2Basic%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9SGCPjKBtKIJ&ei=l09kYrm3DYySyASZk6HgCA&json=",
+                "num_citations": 65,
+                "citedby_url": "/scholar?cites=11724137782749307381&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9SGCPjKBtKIJ:scholar.google.com/&scioq=Redefine:+Runtime+reconfigurable+polymorphic+asic&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Saptarsi-Das/publication/220094349_REDEFINE_Runtime_reconfigurable_polymorphic_ASIC/links/02e7e53216499af499000000/REDEFINE-Runtime-reconfigurable-polymorphic-ASIC.pdf"
+            }
+        },
+        {
+            "title": "Force-directed scheduling for data flow graph mapping on coarse-grained reconfigurable architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "OBn0xd8AAAAJ:YsMSGLbcyi4C",
+            "authors": "A Fell, ZE R\u00e1kossy, A Chattopadhyay",
+            "publication": "2014 International Conference on ReConFigurable Computing and FPGAs \u2026, 2014",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12342031390050575098",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12342031390050575098&engine=google_scholar&hl=en",
+                "cites_id": "12342031390050575098"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Force-directed scheduling for data flow graph mapping on coarse-grained reconfigurable architectures",
+                    "author": [
+                        "A Fell",
+                        "ZE R\u00e1kossy"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "\u2026 Computing and FPGAs \u2026",
+                    "abstract": "In terms of energy and flexibility, Coarse-Grained Reconfigurable Architectures (CGRA) are proven to be advantageous over fine-grained architectures, massively parallel GPUs and generic CPUs. However the key challenge of programmability is preventing wide-spread adoption. To exploit instruction level parallelism inherent to such architectures, optimal scheduling and mapping of algorithmic kernels is essential. Transforming an input algorithm in the form of a Data Flow Graph (DFG) into a CGRA schedule and mapping configuration is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7032519/",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:-mKviii0R6sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DForce-directed%2Bscheduling%2Bfor%2Bdata%2Bflow%2Bgraph%2Bmapping%2Bon%2Bcoarse-grained%2Breconfigurable%2Barchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-mKviii0R6sJ&ei=mk9kYoT4DeiSy9YPp-OyiAE&json=",
+                "num_citations": 26,
+                "citedby_url": "/scholar?cites=12342031390050575098&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-mKviii0R6sJ:scholar.google.com/&scioq=Force-directed+scheduling+for+data+flow+graph+mapping+on+coarse-grained+reconfigurable+architectures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Zoltan-Rakossy/publication/266318047_Force-Directed_Scheduling_for_Data_Flow_Graph_Mapping_on_Coarse-Grained_Reconfigurable_Architectures/links/54db273c0cf233119bc54d72/Force-Directed-Scheduling-for-Data-Flow-Graph-Mapping-on-Coarse-Grained-Reconfigurable-Architectures.pdf"
+            }
+        },
+        {
+            "title": "Compiling techniques for coarse grained runtime reconfigurable architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "OBn0xd8AAAAJ:u-x6o8ySG0sC",
+            "authors": "M Alle, K Varadarajan, A Fell, SK Nandy, R Narayan",
+            "publication": "International Workshop on Applied Reconfigurable Computing, 204-215, 2009",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=811805216541077684",
+                "serpapi_link": "https://serpapi.com/search.json?cites=811805216541077684&engine=google_scholar&hl=en",
+                "cites_id": "811805216541077684"
+            },
+            "year": "2009",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Compiling techniques for coarse grained runtime reconfigurable architectures",
+                    "author": [
+                        "M Alle",
+                        "K Varadarajan",
+                        "A Fell",
+                        "SK Nandy"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "\u2026 Workshop on Applied \u2026",
+                    "abstract": "In this paper we develop compilation techniques for the realization of applications described in a High Level Language (HLL) onto a Runtime Reconfigurable Architecture. The compiler determines Hyper Operations (HyperOps) that are subgraphs of a data flow graph (of an application) and comprise elementary operations that have strong producer-consumer relationship. These HyperOps are hosted on computation structures that are provisioned on demand at runtime. We also report compiler optimizations that collectively reduce the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-00641-8_21",
+                "author_id": [
+                    "",
+                    "e2Ny_2MAAAAJ",
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:tHC9FoscRAsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCompiling%2Btechniques%2Bfor%2Bcoarse%2Bgrained%2Bruntime%2Breconfigurable%2Barchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tHC9FoscRAsJ&ei=nU9kYou1FpqSy9YP8pKNsAE&json=",
+                "num_citations": 26,
+                "citedby_url": "/scholar?cites=811805216541077684&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tHC9FoscRAsJ:scholar.google.com/&scioq=Compiling+techniques+for+coarse+grained+runtime+reconfigurable+architectures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/S-Nandy/publication/221405440_Compiling_Techniques_for_Coarse_Grained_Runtime_Reconfigurable_Architectures/links/56668c8708ae4931cd6275b4/Compiling-Techniques-for-Coarse-Grained-Runtime-Reconfigurable-Architectures.pdf"
+            }
+        },
+        {
+            "title": "RECONNECT: A NoC for polymorphic ASICs using a low overhead single cycle router",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "OBn0xd8AAAAJ:u5HHmVD_uO8C",
+            "authors": "J Nimmy, CR Reddy, K Varadarajan, M Alle, A Fell, SK Nandy, R Narayan",
+            "publication": "2008 International Conference on Application-Specific Systems, Architectures \u2026, 2008",
+            "cited_by": {
+                "value": 24,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16382548281331707451",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16382548281331707451&engine=google_scholar&hl=en",
+                "cites_id": "16382548281331707451"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "RECONNECT: A NoC for polymorphic ASICs using a low overhead single cycle router",
+                    "author": [
+                        "J Nimmy",
+                        "CR Reddy",
+                        "K Varadarajan"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "2008 International \u2026",
+                    "abstract": "A polymorphic ASIC is a runtime reconfigurable hardware substrate comprising compute and communication elements. It is a ldquofuture proofrdquo custom hardware solution for multiple applications and their derivatives in a domain. Interoperability between application derivatives at runtime is achieved through hardware reconfiguration. In this paper we present the design of a single cycle Network on Chip (NoC) router that is responsible for effecting runtime reconfiguration of the hardware substrate. The router design is optimized to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/4580187/",
+                "author_id": [
+                    "",
+                    "",
+                    "e2Ny_2MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:O252CN2AWuMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRECONNECT:%2BA%2BNoC%2Bfor%2Bpolymorphic%2BASICs%2Busing%2Ba%2Blow%2Boverhead%2Bsingle%2Bcycle%2Brouter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=O252CN2AWuMJ&ei=oU9kYrXDFYuKmgGY1YjABQ&json=",
+                "num_citations": 24,
+                "citedby_url": "/scholar?cites=16382548281331707451&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:O252CN2AWuMJ:scholar.google.com/&scioq=RECONNECT:+A+NoC+for+polymorphic+ASICs+using+a+low+overhead+single+cycle+router&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/4356601_RECONNECT_A_NoC_for_polymorphic_ASICs_using_a_low_overhead_single_cycle_router/links/569366ab08ae0f920dce414a/RECONNECT-A-NoC-for-polymorphic-ASICs-using-a-low-overhead-single-cycle-router.pdf"
+            }
+        },
+        {
+            "title": "Synthesis of application accelerators on runtime reconfigurable hardware",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "OBn0xd8AAAAJ:d1gkVwhDpl0C",
+            "authors": "M Alle, K Varadarajan, RC Ramesh, J Nimmy, A Fell, A Rao, SK Nandy, ...",
+            "publication": "2008 International Conference on Application-Specific Systems, Architectures \u2026, 2008",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7408412552494021507",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7408412552494021507&engine=google_scholar&hl=en",
+                "cites_id": "7408412552494021507"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Synthesis of application accelerators on runtime reconfigurable hardware",
+                    "author": [
+                        "M Alle",
+                        "K Varadarajan",
+                        "RC Ramesh"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "2008 International \u2026",
+                    "abstract": "Application accelerators are predominantly ASICs. The cost of ASIC solutions are order of magnitudes higher than programmable processing cores. Despite this, ASIC solutions are preferred when both high performance and low power is the target. ASICs offer no flexibility in terms of it being able to cater to application derivatives, unless this has been provisioned for at the time of design. In this paper we define the architecture of Runtime Reconfigurable Hardware (RRH) as the platform for application acceleration. The proposed RRH is a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/4580147/",
+                "author_id": [
+                    "",
+                    "e2Ny_2MAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:g3vzDPf3z2YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSynthesis%2Bof%2Bapplication%2Baccelerators%2Bon%2Bruntime%2Breconfigurable%2Bhardware%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=g3vzDPf3z2YJ&ei=pE9kYquCEOHDywSSipaYAg&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=7408412552494021507&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:g3vzDPf3z2YJ:scholar.google.com/&scioq=Synthesis+of+application+accelerators+on+runtime+reconfigurable+hardware&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/S-Nandy/publication/221131154_Synthesis_of_Application_Accelerators_on_Runtime_Reconfigurable_Hardware/links/56668c8808ae15e74634d205/Synthesis-of-Application-Accelerators-on-Runtime-Reconfigurable-Hardware.pdf"
+            }
+        },
+        {
+            "title": "Generic routing rules and a scalable access enhancement for the network-on-chip reconnect",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "OBn0xd8AAAAJ:UeHWp8X0CEIC",
+            "authors": "A Fell, P Biswas, J Chetia, SK Nandy, R Narayan",
+            "publication": "2009 IEEE International SOC Conference (SOCC), 251-254, 2009",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9272085082773350129",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9272085082773350129&engine=google_scholar&hl=en",
+                "cites_id": "9272085082773350129"
+            },
+            "year": "2009",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Generic routing rules and a scalable access enhancement for the network-on-chip reconnect",
+                    "author": [
+                        "A Fell",
+                        "P Biswas",
+                        "J Chetia",
+                        "SK Nandy"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "2009 IEEE \u2026",
+                    "abstract": "RECONNECT is a network-on-chip using a honeycomb topology. In this paper we focus on properties of general rules applicable to a variety of routing algorithms for the NoC which take into account the missing links of the honeycomb topology when compared to a mesh. We also extend the original proposal and show a method to insert and extract data to and from the network. Access Routers at the boundary of the execution fabric establish connections to multiple periphery modules and create a torus to decrease the node"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/5398048/",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    "",
+                    "OK3ClmYAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:8Wbn1UEQrYAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGeneric%2Brouting%2Brules%2Band%2Ba%2Bscalable%2Baccess%2Benhancement%2Bfor%2Bthe%2Bnetwork-on-chip%2Breconnect%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=8Wbn1UEQrYAJ&ei=p09kYuP9L5LeyQTE46-QAg&json=",
+                "num_citations": 18,
+                "citedby_url": "/scholar?cites=9272085082773350129&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:8Wbn1UEQrYAJ:scholar.google.com/&scioq=Generic+routing+rules+and+a+scalable+access+enhancement+for+the+network-on-chip+reconnect&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/224107705_Generic_routing_rules_and_a_scalable_access_enhancement_for_the_Network-on-Chip_RECONNECT/links/569365c908ae0f920dce38c0/Generic-routing-rules-and-a-scalable-access-enhancement-for-the-Network-on-Chip-RECONNECT.pdf"
+            }
+        },
+        {
+            "title": "Streaming fft on redefine-v2: an application-architecture design space exploration",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:qjMakFHDy7sC",
+            "citation_id": "OBn0xd8AAAAJ:qjMakFHDy7sC",
+            "authors": "A Fell, M Alle, K Varadarajan, P Biswas, S Das, J Chetia, SK Nandy, ...",
+            "publication": "Proceedings of the 2009 international conference on Compilers, architecture \u2026, 2009",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18429416262824245656",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18429416262824245656&engine=google_scholar&hl=en",
+                "cites_id": "18429416262824245656"
+            },
+            "year": "2009",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Streaming fft on redefine-v2: an application-architecture design space exploration",
+                    "author": [
+                        "A Fell",
+                        "M Alle",
+                        "K Varadarajan",
+                        "P Biswas",
+                        "S Das"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In this paper we explore an implementation of a high-throughput, streaming application on REDEFINE-v2, which is an enhancement of REDEFINE. REDEFINE is a polymorphic ASIC combining the flexibility of a programmable solution with the execution speed of an ASIC. In REDEFINE Compute Elements are arranged in an 8x8 grid connected via a Network on Chip (NoC) called RECONNECT, to realize the various macrofunctional blocks of an equivalent ASIC."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/1629395.1629414",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    "",
+                    "e2Ny_2MAAAAJ",
+                    "",
+                    "yuFZ7DcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mDlyo3Jwwv8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStreaming%2Bfft%2Bon%2Bredefine-v2:%2Ban%2Bapplication-architecture%2Bdesign%2Bspace%2Bexploration%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mDlyo3Jwwv8J&ei=q09kYpWUM4yuyAT-mrWwCA&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=18429416262824245656&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mDlyo3Jwwv8J:scholar.google.com/&scioq=Streaming+fft+on+redefine-v2:+an+application-architecture+design+space+exploration&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/1629395.1629414"
+            }
+        },
+        {
+            "title": "RRC, N",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:mVmsd5A6BfQC",
+            "citation_id": "OBn0xd8AAAAJ:mVmsd5A6BfQC",
+            "authors": "M Alle, K Varadarajan, A Fell",
+            "publication": "Joseph, S. Das, P. Biswas, J. Chetia, A. Rao, SK Nandy, and R. Narayan \u2026, 2009",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2453088987581001977",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2453088987581001977&engine=google_scholar&hl=en",
+                "cites_id": "2453088987581001977"
+            },
+            "year": "2009",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Rrcn: A reinforced random convolutional network based reciprocal recommendation approach for online dating",
+                    "author": [
+                        "L Luo",
+                        "L Yang",
+                        "J Xin",
+                        "Y Fang",
+                        "X Zhang",
+                        "X Yang"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "RRCN against a number of both baselines and the state-of-the-art approaches on two real-world  datasets, and the promising results have demonstrated the superiority of RRCN  ) and N("
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2011.12586",
+                "author_id": [
+                    "RO46HpcAAAAJ",
+                    "zP4TaoYAAAAJ",
+                    "",
+                    "tArifqQAAAAJ",
+                    "AYg0RiQAAAAJ",
+                    "jdFgC_gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:0xTW_dOAwUYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRRC,%2BN%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0xTW_dOAwUYJ&ei=r09kYtTcJoySyASZk6HgCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5098497901145232595&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:0xTW_dOAwUYJ:scholar.google.com/&scioq=RRC,+N&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2011.12586"
+            }
+        },
+        {
+            "title": "TAD: time side-channel attack defense of obfuscated source code",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "OBn0xd8AAAAJ:Wp0gIr-vW9MC",
+            "authors": "A Fell, HT Pham, SK Lam",
+            "publication": "Proceedings of the 24th Asia and South Pacific Design Automation Conference \u2026, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3024035065576188372",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3024035065576188372&engine=google_scholar&hl=en",
+                "cites_id": "3024035065576188372"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "TAD: time side-channel attack defense of obfuscated source code",
+                    "author": [
+                        "A Fell",
+                        "HT Pham",
+                        "SK Lam"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the 24th Asia and South \u2026",
+                    "abstract": "Program obfuscation is widely used to protect commercial software against reverse-engineering. However, an adversary can still download, disassemble and analyze binaries of the obfuscated code executed on an embedded System-on-Chip (SoC), and by correlating execution times to input values, extract secret information from the program. In this paper, we show (1) the impact of widely-used obfuscation methods on timing leakage, and (2) that well-known software countermeasures to reduce timing leakage of programs"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3287624.3287694",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    "HsMFSVsAAAAJ",
+                    "V-ys2R0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:1Gn-v96H9ykJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTAD:%2Btime%2Bside-channel%2Battack%2Bdefense%2Bof%2Bobfuscated%2Bsource%2Bcode%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1Gn-v96H9ykJ&ei=tE9kYuffAouKmgGY1YjABQ&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=3024035065576188372&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:1Gn-v96H9ykJ:scholar.google.com/&scioq=TAD:+time+side-channel+attack+defense+of+obfuscated+source+code&hl=en&as_sdt=0,33",
+                "eprint_url": "https://siewkeilam.github.io/ei-research-group/Paper/2019A-Fell-ASPDAC.pdf"
+            }
+        },
+        {
+            "title": "DFGenTool: A dataflow graph generation tool for coarse grain reconfigurable architectures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:_kc_bZDykSQC",
+            "citation_id": "OBn0xd8AAAAJ:_kc_bZDykSQC",
+            "authors": "M Mukherjee, A Fell, A Guha",
+            "publication": "2017 30th International Conference on VLSI Design and 2017 16th \u2026, 2017",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1571722846158226455",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1571722846158226455&engine=google_scholar&hl=en",
+                "cites_id": "1571722846158226455"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "DFGenTool: A dataflow graph generation tool for coarse grain reconfigurable architectures",
+                    "author": [
+                        "M Mukherjee",
+                        "A Fell",
+                        "A Guha"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "\u2026 on VLSI Design and 2017 16th \u2026",
+                    "abstract": "In this paper, DFGenTool, a dataflow graph (DFG) generation tool, is presented, which converts loops in a sequential program given in a high-level language such as C, into a DFG. DFGenTool adapts DFGs for mapping to Coarse Grain Reconfigurable Architectures (CGRA) to enable a variety of CGRA implementations and compilers to be benchmarked against a standard set of DFGs. Several kernels have been converted and are presented in this paper as case studies. The output of DFGenTool is in DOT, a popular graph description"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7884759/",
+                "author_id": [
+                    "",
+                    "OBn0xd8AAAAJ",
+                    "4KGW5HQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:F4Sg6pnhzxUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDFGenTool:%2BA%2Bdataflow%2Bgraph%2Bgeneration%2Btool%2Bfor%2Bcoarse%2Bgrain%2Breconfigurable%2Barchitectures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=F4Sg6pnhzxUJ&ei=uk9kYr-qDKKUy9YP_JONiAY&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=1571722846158226455&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:F4Sg6pnhzxUJ:scholar.google.com/&scioq=DFGenTool:+A+dataflow+graph+generation+tool+for+coarse+grain+reconfigurable+architectures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/311901371_DFGenTool_A_Dataflow_Graph_Generation_Tool_for_Coarse_Grain_Reconfigurable_Architectures/links/5860b8da08ae329d61fb852c/DFGenTool-A-Dataflow-Graph-Generation-Tool-for-Coarse-Grain-Reconfigurable-Architectures.pdf"
+            }
+        },
+        {
+            "title": "Method and System on Chip (SoC) for Adapting a Reconfigurable Hardware for an Application at Runtime",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "OBn0xd8AAAAJ:zYLM7Y9cAGgC",
+            "authors": "SK Nandy, R Narayan, M Alle, K Vardarajan, A Fell, A Rao, R Reddy, ...",
+            "publication": "US Patent App. 13/002,329, 2011",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13993703906792976724",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13993703906792976724&engine=google_scholar&hl=en",
+                "cites_id": "13993703906792976724"
+            },
+            "year": "2011",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Method and System on Chip (SoC) for Adapting a Reconfigurable Hardware for an Application at Runtime",
+                    "author": [
+                        "SK Nandy",
+                        "R Narayan",
+                        "M Alle",
+                        "K Vardarajan"
+                    ],
+                    "pub_year": "2011",
+                    "venue": "US Patent App. 13 \u2026",
+                    "abstract": "A method and System on Chip (SoC) for adapting a reconfigurable hardware for an application at run time is provided. The method includes obtaining a plurality of application substructures corresponding to the application. An application substructure performs one or more of a plurality of functions of the application. The method further includes retrieving compute metadata and transport metadata corresponding to each application substructure. Compute metadata specifies functionality of an application substructure and transport"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20110099562A1/en",
+                "author_id": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:VDFkuI-fM8IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethod%2Band%2BSystem%2Bon%2BChip%2B(SoC)%2Bfor%2BAdapting%2Ba%2BReconfigurable%2BHardware%2Bfor%2Ban%2BApplication%2Bat%2BRuntime%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VDFkuI-fM8IJ&ei=vk9kYuqyHZLeyQTE46-QAg&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=13993703906792976724&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:VDFkuI-fM8IJ:scholar.google.com/&scioq=Method+and+System+on+Chip+(SoC)+for+Adapting+a+Reconfigurable+Hardware+for+an+Application+at+Runtime&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/fe/93/bd/5a20761bb736ca/US20110099562A1.pdf"
+            }
+        },
+        {
+            "title": "Ramesh Reddy C., Nimmy Joseph, Saptarsi Das, Prasenjit Biswas, Jugantor Chetia, Adarsh Rao, SK Nandy, and Ranjani Narayan. REDEFINE: Runtime reconfigurable polymorphic ASIC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "OBn0xd8AAAAJ:9yKSN-GCB0IC",
+            "authors": "M Alle, K Varadarajan, A Fell",
+            "publication": "ACM Transactions on Embedded Computing Systems 9 (2), 11, 2009",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9543361340911724337",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9543361340911724337&engine=google_scholar&hl=en",
+                "cites_id": "9543361340911724337"
+            },
+            "year": "2009",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Redefine: Runtime reconfigurable polymorphic asic",
+                    "author": [
+                        "M Alle",
+                        "K Varadarajan",
+                        "A Fell",
+                        "N Joseph",
+                        "S Das"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "ACM Transactions on \u2026",
+                    "abstract": "Emerging embedded applications are based on evolving standards (eg, MPEG2/4, H. 264/265, IEEE802. 11a/b/g/n). Since most of these applications run on handheld devices, there is an increasing need for a single chip solution that can dynamically interoperate between different standards and their derivatives. In order to achieve high resource utilization and low power dissipation, we propose REDEFINE, a polymorphic ASIC in which specialized hardware units are replaced with basic hardware units that can create the same"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/1596543.1596545",
+                "author_id": [
+                    "",
+                    "e2Ny_2MAAAAJ",
+                    "OBn0xd8AAAAJ",
+                    "",
+                    "yuFZ7DcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9SGCPjKBtKIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRamesh%2BReddy%2BC.,%2BNimmy%2BJoseph,%2BSaptarsi%2BDas,%2BPrasenjit%2BBiswas,%2BJugantor%2BChetia,%2BAdarsh%2BRao,%2BSK%2BNandy,%2Band%2BRanjani%2BNarayan.%2BREDEFINE:%2BRuntime%2Breconfigurable%2Bpolymorphic%2BASIC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9SGCPjKBtKIJ&ei=w09kYs7DJOiSy9YPp-OyiAE&json=",
+                "num_citations": 65,
+                "citedby_url": "/scholar?cites=11724137782749307381&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9SGCPjKBtKIJ:scholar.google.com/&scioq=Ramesh+Reddy+C.,+Nimmy+Joseph,+Saptarsi+Das,+Prasenjit+Biswas,+Jugantor+Chetia,+Adarsh+Rao,+SK+Nandy,+and+Ranjani+Narayan.+REDEFINE:+Runtime+reconfigurable+polymorphic+ASIC&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Saptarsi-Das/publication/220094349_REDEFINE_Runtime_reconfigurable_polymorphic_ASIC/links/02e7e53216499af499000000/REDEFINE-Runtime-reconfigurable-polymorphic-ASIC.pdf"
+            }
+        },
+        {
+            "title": "A 6T SRAM cell based pipelined 2R/1W memory design using 28nm UTBB-FDSOI",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:0EnyYjriUFMC",
+            "citation_id": "OBn0xd8AAAAJ:0EnyYjriUFMC",
+            "authors": "R Kaur, A Fell, H Rawat",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 310-315, 2015",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18349514998017255119",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18349514998017255119&engine=google_scholar&hl=en",
+                "cites_id": "18349514998017255119"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A 6T SRAM cell based pipelined 2R/1W memory design using 28nm UTBB-FDSOI",
+                    "author": [
+                        "R Kaur",
+                        "A Fell",
+                        "H Rawat"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 28th IEEE International System \u2026",
+                    "abstract": "Multi-port Static Random Access Memories (SRAM) are essential for shared data structures, especially in distributed, multi-core and multi-processing computing systems. This paper introduces an elementary multi-port memory design which can perform either dual-read or a single-write operation (2R/1W) by efficiently combining the 6 Transistor (6T) single-port SRAM (SP-SRAM). This new architecture offers a solution to the existing 8T dual-port (DP) cell problems including read-write stability issues. The design has been evaluated by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7406973/",
+                "author_id": [
+                    "",
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:z2aFuauSpv4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2B6T%2BSRAM%2Bcell%2Bbased%2Bpipelined%2B2R/1W%2Bmemory%2Bdesign%2Busing%2B28nm%2BUTBB-FDSOI%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=z2aFuauSpv4J&ei=x09kYrOaFfmQ6rQP5OqKqAo&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=18349514998017255119&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:z2aFuauSpv4J:scholar.google.com/&scioq=A+6T+SRAM+cell+based+pipelined+2R/1W+memory+design+using+28nm+UTBB-FDSOI&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289904955_A_6T_SRAM_cell_based_pipelined_2R1W_memory_design_using_28nm_UTBB-FDSOI/links/569367bc08ae0f920dce51e5/A-6T-SRAM-cell-based-pipelined-2R-1W-memory-design-using-28nm-UTBB-FDSOI.pdf"
+            }
+        },
+        {
+            "title": "RECONNECT: A flexible Router Architecture for Network-on-Chips",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "OBn0xd8AAAAJ:IjCSPb-OGe4C",
+            "authors": "A Fell",
+            "publication": "Indian Institute of Science Bangalore, 2012",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9617525109270298084",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9617525109270298084&engine=google_scholar&hl=en",
+                "cites_id": "9617525109270298084"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "RECONNECT: A flexible Router Architecture for Network-on-Chips",
+                    "author": [
+                        "A Fell"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "NA",
+                    "abstract": "In this thesis a Network on Chip (NoC) router implementation called RECONNECT realized in BSV, is presented. It is highly configurable in terms of flit size, the number of provided Input Port (IP)/Output Port (OP) pairs and support for configurations during runtime, to name a few. Depending on the amount of available IP/OP pairs, the router can be integrated into different topologies. Due to the ability to be configured during runtime, the router can even support multiple topologies. A developer is then able to choose among the available"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289916006_RECONNECT_A_flexible_Router_Architecture_for_Network-on-Chips/links/5693767708ae0f920dce79bc/RECONNECT-A-flexible-Router-Architecture-for-Network-on-Chips.pdf",
+                "author_id": [
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5L10jCFQeIUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRECONNECT:%2BA%2Bflexible%2BRouter%2BArchitecture%2Bfor%2BNetwork-on-Chips%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5L10jCFQeIUJ&ei=3U9kYqK1Ce-Sy9YPs_mY8AM&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=9617525109270298084&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5L10jCFQeIUJ:scholar.google.com/&scioq=RECONNECT:+A+flexible+Router+Architecture+for+Network-on-Chips&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289916006_RECONNECT_A_flexible_Router_Architecture_for_Network-on-Chips/links/5693767708ae0f920dce79bc/RECONNECT-A-flexible-Router-Architecture-for-Network-on-Chips.pdf"
+            }
+        },
+        {
+            "title": "Mythri Alle, Keshavan Varadarajan, Prasenjit Biswas, Saptarsi Das, Jugantor Chetia, SK Nandy, and Ranjani Narayan. Streaming fft on redefine-v2: an application-architecture \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:qUcmZB5y_30C",
+            "citation_id": "OBn0xd8AAAAJ:qUcmZB5y_30C",
+            "authors": "A Fell",
+            "publication": "CASES 9, 127-136, 0",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2894242980822195576",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2894242980822195576&engine=google_scholar&hl=en",
+                "cites_id": "2894242980822195576"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Streaming fft on redefine-v2: an application-architecture design space exploration",
+                    "author": [
+                        "A Fell",
+                        "M Alle",
+                        "K Varadarajan",
+                        "P Biswas",
+                        "S Das"
+                    ],
+                    "pub_year": "2009",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In this paper we explore an implementation of a high-throughput, streaming application on REDEFINE-v2, which is an enhancement of REDEFINE. REDEFINE is a polymorphic ASIC combining the flexibility of a programmable solution with the execution speed of an ASIC. In REDEFINE Compute Elements are arranged in an 8x8 grid connected via a Network on Chip (NoC) called RECONNECT, to realize the various macrofunctional blocks of an equivalent ASIC."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/1629395.1629414",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    "",
+                    "e2Ny_2MAAAAJ",
+                    "",
+                    "yuFZ7DcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:mDlyo3Jwwv8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMythri%2BAlle,%2BKeshavan%2BVaradarajan,%2BPrasenjit%2BBiswas,%2BSaptarsi%2BDas,%2BJugantor%2BChetia,%2BSK%2BNandy,%2Band%2BRanjani%2BNarayan.%2BStreaming%2Bfft%2Bon%2Bredefine-v2:%2Ban%2Bapplication-architecture%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mDlyo3Jwwv8J&ei=4k9kYt3lD4OEmgHx-5DADA&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=18429416262824245656&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mDlyo3Jwwv8J:scholar.google.com/&scioq=Mythri+Alle,+Keshavan+Varadarajan,+Prasenjit+Biswas,+Saptarsi+Das,+Jugantor+Chetia,+SK+Nandy,+and+Ranjani+Narayan.+Streaming+fft+on+redefine-v2:+an+application-architecture+%E2%80%A6&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/221148236_Streaming_FFT_on_REDEFINE-v2_an_application-architecture_design_space_exploration/links/5693660808aec14fa55e4979/Streaming-FFT-on-REDEFINE-v2-an-application-architecture-design-space-exploration.pdf"
+            }
+        },
+        {
+            "title": "Executable model based design methodology for fast prototyping of mobile network protocol: A case study on MIPI LLI",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "OBn0xd8AAAAJ:_FxGoFyzp5QC",
+            "authors": "RK Shah, T Kumar, A Fell, MS Dohadwala, R Malik",
+            "publication": "2017 4th International Conference on Signal Processing and Integrated \u2026, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15012572540703022736",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15012572540703022736&engine=google_scholar&hl=en",
+                "cites_id": "15012572540703022736"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Executable model based design methodology for fast prototyping of mobile network protocol: A case study on MIPI LLI",
+                    "author": [
+                        "RK Shah",
+                        "T Kumar",
+                        "A Fell"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 4th International \u2026",
+                    "abstract": "Upcoming mobile communication systems are more complex and comprise of sophisticated functionality to enhance their performance. To expedite their time to market, the RTL development and verification cycle time has to be improved. This paper puts an emphasis to improve the prototyping phase by using Model Based Design technique comprising of Simulink HDL coder, HDL verifier and rapid FPGA prototyping utilizing FPGA in loop co-simulation. As a case study, the MIPI Low Latency Interface (LLI) layer protocol is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8049972/",
+                "author_id": [
+                    "",
+                    "",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kB5jjS9fV9AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExecutable%2Bmodel%2Bbased%2Bdesign%2Bmethodology%2Bfor%2Bfast%2Bprototyping%2Bof%2Bmobile%2Bnetwork%2Bprotocol:%2BA%2Bcase%2Bstudy%2Bon%2BMIPI%2BLLI%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kB5jjS9fV9AJ&ei=7k9kYq7OJaKUy9YP_JONiAY&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=15012572540703022736&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kB5jjS9fV9AJ:scholar.google.com/&scioq=Executable+model+based+design+methodology+for+fast+prototyping+of+mobile+network+protocol:+A+case+study+on+MIPI+LLI&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Symmetric -Means for Deep Neural Network Compression and Hardware Acceleration on FPGAs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:hC7cP41nSMkC",
+            "citation_id": "OBn0xd8AAAAJ:hC7cP41nSMkC",
+            "authors": "A Jain, P Goel, S Aggarwal, A Fell, S Anand",
+            "publication": "IEEE Journal of Selected Topics in Signal Processing 14 (4), 737-749, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=89296723571246178",
+                "serpapi_link": "https://serpapi.com/search.json?cites=89296723571246178&engine=google_scholar&hl=en",
+                "cites_id": "89296723571246178"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Addnet: Deep neural networks using fpga-optimized multipliers",
+                    "author": [
+                        "J Faraone",
+                        "M Kumm",
+                        "M Hardieck",
+                        "P Zipf"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026 Transactions on Very \u2026",
+                    "abstract": "hardware tailored to the application. Optimizations via compression, quantization, and neural  network  weights which are typically and also approximately symmetric around zero. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8848603/",
+                "author_id": [
+                    "EXWzHR0AAAAJ",
+                    "WbvbgJQAAAAJ",
+                    "c2TVHj4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:czu3BLK4mswJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSymmetric%2B-Means%2Bfor%2BDeep%2BNeural%2BNetwork%2BCompression%2Band%2BHardware%2BAcceleration%2Bon%2BFPGAs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=czu3BLK4mswJ&ei=8k9kYpLDCY2ymgHg1rfQDQ&json=",
+                "num_citations": 26,
+                "citedby_url": "/scholar?cites=14743299404873546611&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:czu3BLK4mswJ:scholar.google.com/&scioq=Symmetric+-Means+for+Deep+Neural+Network+Compression+and+Hardware+Acceleration+on+FPGAs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1911.08097"
+            }
+        },
+        {
+            "title": "Cidpro: Custom instructions for dynamic program diversification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:4DMP91E08xMC",
+            "citation_id": "OBn0xd8AAAAJ:4DMP91E08xMC",
+            "authors": "TH Pham, A Fell, AK Biswas, SK Lam, N Veeranna",
+            "publication": "2018 28th International Conference on Field Programmable Logic and \u2026, 2018",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=837953546479690186",
+                "serpapi_link": "https://serpapi.com/search.json?cites=837953546479690186&engine=google_scholar&hl=en",
+                "cites_id": "837953546479690186"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cidpro: Custom instructions for dynamic program diversification",
+                    "author": [
+                        "TH Pham",
+                        "A Fell",
+                        "AK Biswas",
+                        "SK Lam"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 Conference on Field \u2026",
+                    "abstract": "Timing side-channel attacks pose a major threat to embedded systems due to their ease of accessibility. We propose CIDPro, a framework that relies on dynamic program diversification to mitigate timing side-channel leakage. The proposed framework integrates the widely used LLVM compiler infrastructure and the increasingly popular RISC-V FPGA soft-processor. The compiler automatically generates custom instructions in the security critical segments of the program, and the instructions execute on the RISC-V custom co"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8533498/",
+                "author_id": [
+                    "HsMFSVsAAAAJ",
+                    "OBn0xd8AAAAJ",
+                    "mAxaQesAAAAJ",
+                    "V-ys2R0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ymEzlE8CoQsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCidpro:%2BCustom%2Binstructions%2Bfor%2Bdynamic%2Bprogram%2Bdiversification%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ymEzlE8CoQsJ&ei=9k9kYsTVKeiSy9YPp-OyiAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=837953546479690186&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ymEzlE8CoQsJ:scholar.google.com/&scioq=Cidpro:+Custom+instructions+for+dynamic+program+diversification&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1809.01221"
+            }
+        },
+        {
+            "title": "Floorplan and congestion aware framework for optimal SRAM selection for memory subsystems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "OBn0xd8AAAAJ:hqOjcs7Dif8C",
+            "authors": "G Narang, A Fell, PR Gupta, A Grover",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 105-110, 2015",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1012808776386343674",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1012808776386343674&engine=google_scholar&hl=en",
+                "cites_id": "1012808776386343674"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Floorplan and congestion aware framework for optimal SRAM selection for memory subsystems",
+                    "author": [
+                        "G Narang",
+                        "A Fell",
+                        "PR Gupta"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 28th IEEE \u2026",
+                    "abstract": "Embedded memories are the key contributor to the chip area, dynamic power dissipation and also form a significant part of critical path for high performance advanced SoCs. Therefore, optimal selection of memory instances becomes imperative for SoC designers. While EDA tools have evolved over the past years to optimally select standard logic cells depending on the timing and the power constraints, optimal memory selection is largely a manual process. We propose a framework to optimize power, performance, and area (PPA)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7406922/",
+                "author_id": [
+                    "2ZpxZ4YAAAAJ",
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:-vLnTTc4Dg4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFloorplan%2Band%2Bcongestion%2Baware%2Bframework%2Bfor%2Boptimal%2BSRAM%2Bselection%2Bfor%2Bmemory%2Bsubsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-vLnTTc4Dg4J&ei=-k9kYrXtKeHDywSSipaYAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=1012808776386343674&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-vLnTTc4Dg4J:scholar.google.com/&scioq=Floorplan+and+congestion+aware+framework+for+optimal+SRAM+selection+for+memory+subsystems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289904792_Floorplan_and_Congestion_Aware_Framework_for_Optimal_SRAM_Selection_for_Memory_Subsystems/links/5693685408aec14fa55e67b4/Floorplan-and-Congestion-Aware-Framework-for-Optimal-SRAM-Selection-for-Memory-Subsystems.pdf"
+            }
+        },
+        {
+            "title": "Coyote: An Open Source Simulation Tool to Enable RISC-V in HPC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "OBn0xd8AAAAJ:_Qo2XoVZTnwC",
+            "authors": "B Perez, A Fell, JD Davis",
+            "publication": "2021 Design, Automation & Test in Europe Conference & Exhibition (DATE), 130-135, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13223104748942030517",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13223104748942030517&engine=google_scholar&hl=en",
+                "cites_id": "13223104748942030517"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coyote: An Open Source Simulation Tool to Enable RISC-V in HPC",
+                    "author": [
+                        "B Perez",
+                        "A Fell",
+                        "JD Davis"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 Design, Automation & Test in \u2026",
+                    "abstract": "The confluence of technology trends and economics has reincarnated computer architecture and specifically, software-hardware co-design. We are entering a new era of a completely open ecosystem, from applications to chips and everything in between. The software-hardware co-design of supercomputers for tomorrow requires flexible tools today that will take us to the Exascale and beyond. The MareNostrum Experimental Exascale Platform (MEEP) addresses this by proposing a flexible FPGA-based emulation platform, designed to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9474080/",
+                "author_id": [
+                    "Em8MDt0AAAAJ",
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:tXZ4zLXngbcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoyote:%2BAn%2BOpen%2BSource%2BSimulation%2BTool%2Bto%2BEnable%2BRISC-V%2Bin%2BHPC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tXZ4zLXngbcJ&ei=_k9kYpHsJKKUy9YP_JONiAY&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=13223104748942030517&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tXZ4zLXngbcJ:scholar.google.com/&scioq=Coyote:+An+Open+Source+Simulation+Tool+to+Enable+RISC-V+in+HPC&hl=en&as_sdt=0,33",
+                "eprint_url": "https://upcommons.upc.edu/bitstream/handle/2117/350176/DATE_2021_Coyote.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Computer program code obfuscation methods and systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:-f6ydRqryjwC",
+            "citation_id": "OBn0xd8AAAAJ:-f6ydRqryjwC",
+            "authors": "SK Lam, HT Pham, A Fell, V Nandeesha",
+            "publication": "US Patent App. 16/677,660, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11123516998788055205",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11123516998788055205&engine=google_scholar&hl=en",
+                "cites_id": "11123516998788055205"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Computer program code obfuscation methods and systems",
+                    "author": [
+                        "SK Lam",
+                        "HT Pham",
+                        "A Fell"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "US Patent App. 16 \u2026",
+                    "abstract": "Methods and systems for obfuscating computer program code are disclosed. In an embodiment, a method of generating obfuscated binary code from input source code for execution on a target processor comprises: generating a set of random obfuscation transform selections; and iteratively optimizing the obfuscation transform selections until a termination criterion is met. The obfuscation transformation selections may comprise indications of custom instructions which are executable on the co-processor in order to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20200151305A1/en",
+                "author_id": [
+                    "V-ys2R0AAAAJ",
+                    "HsMFSVsAAAAJ",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pQDIhcarXpoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComputer%2Bprogram%2Bcode%2Bobfuscation%2Bmethods%2Band%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pQDIhcarXpoJ&ei=AVBkYtHlNO-Sy9YPs_mY8AM&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=11123516998788055205&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pQDIhcarXpoJ:scholar.google.com/&scioq=Computer+program+code+obfuscation+methods+and+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/c8/46/b8/a007d486325a88/US20200151305A1.pdf"
+            }
+        },
+        {
+            "title": "A Parallel Architecture for High Frame Rate Stereo using Semi-Global Matching.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "OBn0xd8AAAAJ:qxL8FJ1GzNcC",
+            "authors": "A Jain, A Fell, S Anand",
+            "publication": "BMVC, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13314800770213619010",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13314800770213619010&engine=google_scholar&hl=en",
+                "cites_id": "13314800770213619010"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Parallel Architecture for High Frame Rate Stereo using Semi-Global Matching.",
+                    "author": [
+                        "A Jain",
+                        "A Fell",
+                        "S Anand"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "BMVC",
+                    "abstract": "Semi-Global Matching (SGM) is a popular algorithm to calculate depth maps in stereo images offering the best trade-off among accuracy, computational costs and high frame rates. This paper presents two architectural improvements in FPGA implementations of SGM to achieve high frame rates. First, a highly parallel, pipelined and scalable architecture is implemented which stores the intermediate values internally in the Block-RAMs of the FPGA, rendering external, off-chip memory obsolete. The architecture facilitates"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Akshay-Jain-31/publication/323702340_A_Parallel_Architecture_for_High_Frame_Rate_Stereo_using_Semi-Global_Matching/links/5aa6b1e80f7e9bbbff8c9c5f/A-Parallel-Architecture-for-High-Frame-Rate-Stereo-using-Semi-Global-Matching.pdf",
+                "author_id": [
+                    "6TSTsXsAAAAJ",
+                    "OBn0xd8AAAAJ",
+                    "YmYvVEQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QiWuc8Gsx7gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BParallel%2BArchitecture%2Bfor%2BHigh%2BFrame%2BRate%2BStereo%2Busing%2BSemi-Global%2BMatching.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QiWuc8Gsx7gJ&ei=B1BkYoW5DouKmgGY1YjABQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=13314800770213619010&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QiWuc8Gsx7gJ:scholar.google.com/&scioq=A+Parallel+Architecture+for+High+Frame+Rate+Stereo+using+Semi-Global+Matching.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Akshay-Jain-31/publication/323702340_A_Parallel_Architecture_for_High_Frame_Rate_Stereo_using_Semi-Global_Matching/links/5aa6b1e80f7e9bbbff8c9c5f/A-Parallel-Architecture-for-High-Frame-Rate-Stereo-using-Semi-Global-Matching.pdf"
+            }
+        },
+        {
+            "title": "Automated, inter-macro channel space adjustment and optimization for faster design closure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:ULOm3_A8WrAC",
+            "citation_id": "OBn0xd8AAAAJ:ULOm3_A8WrAC",
+            "authors": "P Kumar, A Fell, S Mathur",
+            "publication": "2017 30th IEEE International System-on-Chip Conference (SOCC), 74-79, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15340626602913058792",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15340626602913058792&engine=google_scholar&hl=en",
+                "cites_id": "15340626602913058792"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automated, inter-macro channel space adjustment and optimization for faster design closure",
+                    "author": [
+                        "P Kumar",
+                        "A Fell",
+                        "S Mathur"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 30th IEEE International \u2026",
+                    "abstract": "Achieving optimal floor-plans during the physical synthesis flow is an iterative and resource intensive process and its quality has a significant impact on subsequent synthesis stages in terms of runtime and quality of results. This problem intensifies due the abundance of macros in advance technology nodes which poses challenges in the physical design flow, especially in the floor-plan stage. It has resulted in an excessive number of channels among macros that need to be spaced carefully and optimized as they consume placement and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8226010/",
+                "author_id": [
+                    "JLeZlb8AAAAJ",
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:6E-KAp7a5NQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomated,%2Binter-macro%2Bchannel%2Bspace%2Badjustment%2Band%2Boptimization%2Bfor%2Bfaster%2Bdesign%2Bclosure%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=6E-KAp7a5NQJ&ei=ClBkYqn6PIuKmgGY1YjABQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=15340626602913058792&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:6E-KAp7a5NQJ:scholar.google.com/&scioq=Automated,+inter-macro+channel+space+adjustment+and+optimization+for+faster+design+closure&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/444/MT14060.pdf?sequence=3&isAllowed=y"
+            }
+        },
+        {
+            "title": "XMAT: A 6T XOR-MAT based 2R-1W SRAM for high bandwidth network applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:roLk4NBRz8UC",
+            "citation_id": "OBn0xd8AAAAJ:roLk4NBRz8UC",
+            "authors": "R Kaur, A Fell",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=452606715614366079",
+                "serpapi_link": "https://serpapi.com/search.json?cites=452606715614366079&engine=google_scholar&hl=en",
+                "cites_id": "452606715614366079"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "XMAT: A 6T XOR-MAT based 2R-1W SRAM for high bandwidth network applications",
+                    "author": [
+                        "R Kaur",
+                        "A Fell"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "System on Chips (SoC) targeted for high performance network applications such as Internet routers, require low latency memories combined with large storage capacities to maintain high throughputs and fast packet forwarding capabilities. To meet these demands, Dual Port SRAM (DP-SRAM) consisting of 8 transistors (T), are integrated into the SoC. However in contrast to 6T Single Port SRAMs (SP-SRAM), DP-SRAMs suffer from a limited performance, large area consumption, read-write instabilities and constraints regarding the memory"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/384",
+                "author_id": [
+                    "",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:f4km62j7RwYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DXMAT:%2BA%2B6T%2BXOR-MAT%2Bbased%2B2R-1W%2BSRAM%2Bfor%2Bhigh%2Bbandwidth%2Bnetwork%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=f4km62j7RwYJ&ei=EVBkYvLcNo6pywTd4KPADw&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=452606715614366079&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:f4km62j7RwYJ:scholar.google.com/&scioq=XMAT:+A+6T+XOR-MAT+based+2R-1W+SRAM+for+high+bandwidth+network+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/384/thesis.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Novel P-Skip determination algorithm without the reference frame",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:4TOpqqG69KYC",
+            "citation_id": "OBn0xd8AAAAJ:4TOpqqG69KYC",
+            "authors": "N Chitkara, A Fell",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4245949886768520348",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4245949886768520348&engine=google_scholar&hl=en",
+                "cites_id": "4245949886768520348"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Novel P-Skip determination algorithm without the reference frame",
+                    "author": [
+                        "N Chitkara",
+                        "A Fell"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "In this thesis a novel, low memory P-Skip mode decision algorithm for encoding video sequences is proposed. The existing algorithms for P-Skip estimation require reading the previous frames from the memory. The proposed algorithm saves signi cant memory by eliminating the need for storing the reference frame by maintaining an optimal'Similarity Metric (SM)'for each macroblock. P-Skip decision is taken on the basis of the correlation between the similarity metrics of co-located macroblocks in consecutive frames. A Weighted"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/368",
+                "author_id": [
+                    "",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nJzyDu2k7DoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNovel%2BP-Skip%2Bdetermination%2Balgorithm%2Bwithout%2Bthe%2Breference%2Bframe%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nJzyDu2k7DoJ&ei=FVBkYvnXI5qSy9YP8pKNsAE&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=4245949886768520348&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:nJzyDu2k7DoJ:scholar.google.com/&scioq=Novel+P-Skip+determination+algorithm+without+the+reference+frame&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/368/MT13129.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Method and System on Chip (SoC) for Adapting a Reconfigurable Hardware for an Application in Runtime",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:ufrVoPGSRksC",
+            "citation_id": "OBn0xd8AAAAJ:ufrVoPGSRksC",
+            "authors": "SK Nandy, R Narayan, M Alle, K Vardarajan, A Fell",
+            "publication": "US Patent App. 14/639,141, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10483006737828811866",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10483006737828811866&engine=google_scholar&hl=en",
+                "cites_id": "10483006737828811866"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Method and System on Chip (SoC) for Adapting a Reconfigurable Hardware for an Application in Runtime",
+                    "author": [
+                        "SK Nandy",
+                        "R Narayan",
+                        "M Alle"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "US Patent App. 14 \u2026",
+                    "abstract": "A method and System on Chip (SoC) for adapting a reconfigurable hardware for an application kernel at run time is provided. The method includes obtaining a plurality of Hyper-Operations corresponding to the application. A Hyper-Operation performs one or more of a plurality of MIMO functions of the application. The method further includes retrieving compute metadata and transport metadata corresponding to each Hyper-Operation. Compute metadata specifies functionality of a Hyper-Operation and transport metadata"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US20150309808A1/en",
+                "author_id": [
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:WhRQMhYfe5EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethod%2Band%2BSystem%2Bon%2BChip%2B(SoC)%2Bfor%2BAdapting%2Ba%2BReconfigurable%2BHardware%2Bfor%2Ban%2BApplication%2Bin%2BRuntime%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WhRQMhYfe5EJ&ei=IVBkYpe4FYOEmgHx-5DADA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=10483006737828811866&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WhRQMhYfe5EJ:scholar.google.com/&scioq=Method+and+System+on+Chip+(SoC)+for+Adapting+a+Reconfigurable+Hardware+for+an+Application+in+Runtime&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/22/88/e5/b02cea497eba14/US20150309808A1.pdf"
+            }
+        },
+        {
+            "title": "A deterministic, minimal routing algorithm for a toroidal, rectangular honeycomb topology using a 2-tupled relative address",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:UebtZRa9Y70C",
+            "citation_id": "OBn0xd8AAAAJ:UebtZRa9Y70C",
+            "authors": "A Fell, SK Nandy, R Narayan",
+            "publication": "2015 28th IEEE International System-on-Chip Conference (SOCC), 191-196, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13042837551668318778",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13042837551668318778&engine=google_scholar&hl=en",
+                "cites_id": "13042837551668318778"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A deterministic, minimal routing algorithm for a toroidal, rectangular honeycomb topology using a 2-tupled relative address",
+                    "author": [
+                        "A Fell",
+                        "SK Nandy",
+                        "R Narayan"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 28th IEEE International \u2026",
+                    "abstract": "The topology and channel width in Network-on-Chips (NoC) impacts the throughput and latency and therefore the area of deployment. In this paper an NoC based on a three dimensional, toroidal rectangular honeycomb topology using a two tupled (x, y) address, is discussed. It employs a minimal and deterministic routing algorithm utilizing Virtual Channels (VC) to be deadlock free. The performance of this topology is analyzed by integrating the NoC into a multi-core Coarse Grained Reconfigurable Architecture (CGRA)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7406938/",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:OtJQOqZ3AbUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bdeterministic,%2Bminimal%2Brouting%2Balgorithm%2Bfor%2Ba%2Btoroidal,%2Brectangular%2Bhoneycomb%2Btopology%2Busing%2Ba%2B2-tupled%2Brelative%2Baddress%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OtJQOqZ3AbUJ&ei=LFBkYu_GEuiSy9YPp-OyiAE&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=13042837551668318778&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:OtJQOqZ3AbUJ:scholar.google.com/&scioq=A+deterministic,+minimal+routing+algorithm+for+a+toroidal,+rectangular+honeycomb+topology+using+a+2-tupled+relative+address&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289905036_A_Deterministic_Minimal_Routing_Algorithm_for_a_Toroidal_Rectangular_Honeycomb_Topology_Using_a_2-tupled_Relative_Address/links/5693652d08ae0f920dce31cf/A-Deterministic-Minimal-Routing-Algorithm-for-a-Toroidal-Rectangular-Honeycomb-Topology-Using-a-2-tupled-Relative-Address.pdf"
+            }
+        },
+        {
+            "title": "Executable model based design methodology for fast prototyping of mobile network protocol: a case study on mipi lli",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:hFOr9nPyWt4C",
+            "citation_id": "OBn0xd8AAAAJ:hFOr9nPyWt4C",
+            "authors": "RK Shah, A Fell",
+            "publication": "IIIT Delhi, 2014",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2906704153605810578",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2906704153605810578&engine=google_scholar&hl=en",
+                "cites_id": "2906704153605810578"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Executable model based design methodology for fast prototyping of mobile network protocol: A case study on MIPI LLI",
+                    "author": [
+                        "RK Shah",
+                        "T Kumar",
+                        "A Fell"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 4th International \u2026",
+                    "abstract": "Upcoming mobile communication systems are more complex and comprise of sophisticated functionality to enhance their performance. To expedite their time to market, the RTL development and verification cycle time has to be improved. This paper puts an emphasis to improve the prototyping phase by using Model Based Design technique comprising of Simulink HDL coder, HDL verifier and rapid FPGA prototyping utilizing FPGA in loop co-simulation. As a case study, the MIPI Low Latency Interface (LLI) layer protocol is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8049972/",
+                "author_id": [
+                    "",
+                    "",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kB5jjS9fV9AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExecutable%2Bmodel%2Bbased%2Bdesign%2Bmethodology%2Bfor%2Bfast%2Bprototyping%2Bof%2Bmobile%2Bnetwork%2Bprotocol:%2Ba%2Bcase%2Bstudy%2Bon%2Bmipi%2Blli%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kB5jjS9fV9AJ&ei=OFBkYo_fAc6E6rQP5-KmKA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=15012572540703022736&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kB5jjS9fV9AJ:scholar.google.com/&scioq=Executable+model+based+design+methodology+for+fast+prototyping+of+mobile+network+protocol:+a+case+study+on+mipi+lli&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:RHpTSmoSYBkC",
+            "citation_id": "OBn0xd8AAAAJ:RHpTSmoSYBkC",
+            "authors": "TH Pham, B Marshall, A Fell, SK Lam, D Page",
+            "publication": "2021 IEEE 32nd International Conference on Application-specific Systems \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "XDIVINSA: eXtended DIVersifying INStruction Agent to Mitigate Power Side-Channel Leakage",
+                    "author": [
+                        "TH Pham",
+                        "B Marshall",
+                        "A Fell",
+                        "SK Lam"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE 32nd \u2026",
+                    "abstract": "Side-channel analysis (SCA) attacks pose a major threat to embedded systems due to their ease of accessibility. Realising SCA resilient cryptographic algorithms on embedded systems under tight intrinsic constraints, such as low area cost, limited computational ability, etc., is extremely challenging and often not possible. We propose a seamless and effective approach to realise a generic countermeasure against SCA attacks. XDIVINSA, an extended diversifying instruction agent, is introduced to realise the countermeasure at the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9516611/",
+                "author_id": [
+                    "HsMFSVsAAAAJ",
+                    "gLFOUQ0AAAAJ",
+                    "OBn0xd8AAAAJ",
+                    "V-ys2R0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:uU2_tpIQeF0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DXDIVINSA:%2BeXtended%2BDIVersifying%2BINStruction%2BAgent%2Bto%2BMitigate%2BPower%2BSide-Channel%2BLeakage%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uU2_tpIQeF0J&ei=PVBkYvDVDJqSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:uU2_tpIQeF0J:scholar.google.com/&scioq=XDIVINSA:+eXtended+DIVersifying+INStruction+Agent+to+Mitigate+Power+Side-Channel+Leakage&hl=en&as_sdt=0,33",
+                "eprint_url": "https://eprint.iacr.org/2021/1053.pdf"
+            }
+        },
+        {
+            "title": "The MareNostrum Experimental Exascale Platform (MEEP)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:HDshCWvjkbEC",
+            "citation_id": "OBn0xd8AAAAJ:HDshCWvjkbEC",
+            "authors": "A Fell, DJ Mazure, TC Garcia, B Perez, X Teruel, P Wilson, JD Davis",
+            "publication": "Supercomputing Frontiers and Innovations 8 (1), 62-81, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "The MareNostrum Experimental Exascale Platform (MEEP)",
+                    "author": [
+                        "A Fell",
+                        "DJ Mazure",
+                        "TC Garcia",
+                        "B Perez"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Supercomputing \u2026",
+                    "abstract": "Nascent Open Source Instruction Set Architectures such as OpenPOWER or RISC-V, allow software/hardware co-designers to fully utilize the underlying hardware, modify it or extend it based on their needs. In this paper, we introduce the vision of the MareNostrum Experimental Exascale Platform (MEEP), an Open Source platform enabling software and hardware stack experimentation targeting the High-Performance Computing (HPC) ecosystem. MEEP is built with state-of-the-art FPGAs that support PCIe and High Bandwidth"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://superfri.susu.ru/index.php/superfri/article/view/369",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    "",
+                    "",
+                    "Em8MDt0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:DfUF6jPMJR0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2BMareNostrum%2BExperimental%2BExascale%2BPlatform%2B(MEEP)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DfUF6jPMJR0J&ei=SVBkYr_LDIuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:DfUF6jPMJR0J:scholar.google.com/&scioq=The+MareNostrum+Experimental+Exascale+Platform+(MEEP)&hl=en&as_sdt=0,33",
+                "eprint_url": "https://superfri.susu.ru/index.php/superfri/article/download/369/385"
+            }
+        },
+        {
+            "title": "Time Side-Channel Attack Defense of Obfuscated Source Code",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:L8Ckcad2t8MC",
+            "citation_id": "OBn0xd8AAAAJ:L8Ckcad2t8MC",
+            "authors": "A Fell, T Hung, SKL Pham",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Time Side-Channel Attack Defense of Obfuscated Source Code",
+                    "author": [
+                        "A Fell",
+                        "T Hung",
+                        "SKL Pham"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "\u25b6 Obfuscation function O modifies the source code P such that  \u25b6 Impact on performance,  obfuscation strength and time side-channel attack mitigation depends highly on the input  program.  \u25b6 External factors such as periphery influence time side-channel leakage"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://pdfs.semanticscholar.org/30a4/ce70af48655e94a9470a4f871dcb67dfc353.pdf",
+                "author_id": [
+                    "OBn0xd8AAAAJ",
+                    "HsMFSVsAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Ds8uzL1rEF0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTime%2BSide-Channel%2BAttack%2BDefense%2Bof%2BObfuscated%2BSource%2BCode%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ds8uzL1rEF0J&ei=TVBkYoUO4cPLBJKKlpgC&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Ds8uzL1rEF0J:scholar.google.com/&scioq=Time+Side-Channel+Attack+Defense+of+Obfuscated+Source+Code&hl=en&as_sdt=0,33",
+                "eprint_url": "https://pdfs.semanticscholar.org/30a4/ce70af48655e94a9470a4f871dcb67dfc353.pdf"
+            }
+        },
+        {
+            "title": "Asynchronous 1R-1W dual-port SRAM by using single-port SRAM in 28nm UTBB-FDSOI technology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:aqlVkmm33-oC",
+            "citation_id": "OBn0xd8AAAAJ:aqlVkmm33-oC",
+            "authors": "H Rawat, K Bharath, A Fell",
+            "publication": "2017 30th IEEE International System-on-Chip Conference (SOCC), 1-6, 2017",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Asynchronous 1R-1W dual-port SRAM by using single-port SRAM in 28nm UTBB-FDSOI technology",
+                    "author": [
+                        "H Rawat",
+                        "K Bharath",
+                        "A Fell"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 30th IEEE International \u2026",
+                    "abstract": "With the advancement in technology nodes, the number of components operating in different clock domains in a System on Chip (SoC) increases. Asynchronous multi-port memory with dedicated write and read ports is used to allow data to cross clock domain boundaries. The dual-port memory architecture introduced in this paper, is based on the Single-Port SRAM (SP-SRAM) that can be generated in larger capacities with better performance statistics compared to the Dual-Port SRAM (DP-SRAM). The proposed design has been evaluated by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8225994/",
+                "author_id": [
+                    "",
+                    "",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jiX-jxO94eIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAsynchronous%2B1R-1W%2Bdual-port%2BSRAM%2Bby%2Busing%2Bsingle-port%2BSRAM%2Bin%2B28nm%2BUTBB-FDSOI%2Btechnology%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jiX-jxO94eIJ&ei=UVBkYvT5IIuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:jiX-jxO94eIJ:scholar.google.com/&scioq=Asynchronous+1R-1W+dual-port+SRAM+by+using+single-port+SRAM+in+28nm+UTBB-FDSOI+technology&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/322002175_Asynchronous_1R-1W_dual-port_SRAM_by_using_single-port_SRAM_in_28nm_UTBB-FDSOI_technology/links/5a7beaf6a6fdcce697d75fba/Asynchronous-1R-1W-dual-port-SRAM-by-using-single-port-SRAM-in-28nm-UTBB-FDSOI-technology.pdf"
+            }
+        },
+        {
+            "title": "A framework for video coding analyzer",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:YOwf2qJgpHMC",
+            "citation_id": "OBn0xd8AAAAJ:YOwf2qJgpHMC",
+            "authors": "S Jain, A Fell, AS Motra",
+            "publication": "2016 IEEE Annual India Conference (INDICON), 1-6, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A framework for video coding analyzer",
+                    "author": [
+                        "S Jain",
+                        "A Fell",
+                        "AS Motra"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 IEEE Annual India Conference \u2026",
+                    "abstract": "A video analyzer is a comprehensive bitstream analysis tool which accelerates development and debugging of video bitstreams while ensuring compliance with industry standards. There are many conventional analyzers present for different video standards like H. 264, HEVC which are compliant only with the respective video sequence format. In this work, a generalized analyzer with integrated encoder is proposed which is flexible enough to incorporate any video codec, as it is video syntax independent. In a case study, the analyzer"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7838913/",
+                "author_id": [
+                    "",
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:DmyZH2u7x9EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bframework%2Bfor%2Bvideo%2Bcoding%2Banalyzer%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DmyZH2u7x9EJ&ei=VVBkYuDjJqKUy9YP_JONiAY&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:DmyZH2u7x9EJ:scholar.google.com/&scioq=A+framework+for+video+coding+analyzer&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/438/MT14070_SAKSHI%20JAIN.pdf?sequence=3"
+            }
+        },
+        {
+            "title": "Asynchronous 1R-1W dual-port SRAM by using single-port SRAM",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:M3ejUd6NZC8C",
+            "citation_id": "OBn0xd8AAAAJ:M3ejUd6NZC8C",
+            "authors": "K Bharath, A Fell",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Asynchronous 1R-1W dual-port SRAM by using single-port SRAM",
+                    "author": [
+                        "K Bharath",
+                        "A Fell"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "NA",
+                    "abstract": "With the advancement in technology nodes, the number of components operating in different clock domains on System on Chip (SoC) increases. To support the processing of data between these components, the demand of an asynchronous multi-port memory on SoC is rising. This paper introduces an asynchronous multi-port memory with dedicated write and read ports. The memory architecture is based on the Single-Port SRAM (SP-SRAM) that can be generated in larger capacities with good performance compared to the Dual-Port SRAM"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/525",
+                "author_id": [
+                    "",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:15RR2Z88kQYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAsynchronous%2B1R-1W%2Bdual-port%2BSRAM%2Bby%2Busing%2Bsingle-port%2BSRAM%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=15RR2Z88kQYJ&ei=WVBkYrKRMJqSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:15RR2Z88kQYJ:scholar.google.com/&scioq=Asynchronous+1R-1W+dual-port+SRAM+by+using+single-port+SRAM&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/525/MT14059%20-%20K%20Bharath.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Floorplan aware framework for optimal SRAM selection for memory subsystems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Se3iqnhoufwC",
+            "citation_id": "OBn0xd8AAAAJ:Se3iqnhoufwC",
+            "authors": "G Narang, A Fell",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Floorplan aware framework for optimal SRAM selection for memory subsystems",
+                    "author": [
+                        "G Narang",
+                        "A Fell"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "Embedded memories are the key contributor to the chip area, dynamic power dissipation and also form a signicant part of critical path for high performance advanced SoCs. Therefore, optimal selection of memory instances becomes imperative for SoC designers. While EDA tools have evolved over the past years to optimally select standard logic cells depending on the tim-ing and the power constraints, optimal memory selection is largely a manual process. In this thesis, a framework has been proposed to optimize power"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/366",
+                "author_id": [
+                    "2ZpxZ4YAAAAJ",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:f8-HjR22ht0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFloorplan%2Baware%2Bframework%2Bfor%2Boptimal%2BSRAM%2Bselection%2Bfor%2Bmemory%2Bsubsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=f8-HjR22ht0J&ei=XFBkYq6FLuiSy9YPp-OyiAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:f8-HjR22ht0J:scholar.google.com/&scioq=Floorplan+aware+framework+for+optimal+SRAM+selection+for+memory+subsystems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/366/MT13125.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Methodological framework for automation of hardware software co-validation of an IP",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:LkGwnXOMwfcC",
+            "citation_id": "OBn0xd8AAAAJ:LkGwnXOMwfcC",
+            "authors": "A Jain, A Fell",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Methodological framework for automation of hardware software co-validation of an IP",
+                    "author": [
+                        "A Jain",
+                        "A Fell"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "The VLSI industry is witnessing rapid changes driven by the growing mar-ket requirements. In order to maintain their competitive quotient, reducing the time to market of their IC products has become a prime concern of the semiconductor companies. The reason is the direct impact of the time to market on the pro t margins of a company. The product development cycle includes formation of the product speci cations, design implementation and design veri cation. The process of verifying a new product design consumes a signi cant"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/362",
+                "author_id": [
+                    "",
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-HW-19lblQIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethodological%2Bframework%2Bfor%2Bautomation%2Bof%2Bhardware%2Bsoftware%2Bco-validation%2Bof%2Ban%2BIP%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-HW-19lblQIJ&ei=X1BkYub-OZLeyQTE46-QAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:-HW-19lblQIJ:scholar.google.com/&scioq=Methodological+framework+for+automation+of+hardware+software+co-validation+of+an+IP&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/362/MT13121.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Technical demonstrations session",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:ZeXyd9-uunAC",
+            "citation_id": "OBn0xd8AAAAJ:ZeXyd9-uunAC",
+            "authors": "S Gao, J Watson, HA Andrade, S Skalicky, AG Schmidt, EGT Bostelmann, ...",
+            "publication": "2014 International Conference on ReConFigurable Computing and FPGAs \u2026, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Technical Demonstrations Session",
+                    "author": [
+                        "E Sousa",
+                        "A Chakraborty",
+                        "A Tanase"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 International \u2026",
+                    "abstract": "In the realm of heterogeneous Multi-Processor System-on-Chip (MPSoC) architectures,  Coarse-Grained Reconfigurable Arrays (CGRAs) have emerged as a low-power and highly"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8279818/",
+                "author_id": [
+                    "aSl-k_4AAAAJ",
+                    "",
+                    "3KJJeRwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:MiicVEt8gD0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTechnical%2Bdemonstrations%2Bsession%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MiicVEt8gD0J&ei=Y1BkYv2EPO-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:MiicVEt8gD0J:scholar.google.com/&scioq=Technical+demonstrations+session&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/8268902/8279767/08279818.pdf"
+            }
+        },
+        {
+            "title": "Method and system on chip (SoC) for adapting a runtime reconfigurable hardware to decode a video stream",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "OBn0xd8AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "SK Nandy, R Narayan, M Alle, K Vardarajan, A Fell, A Rao, R Reddy, ...",
+            "publication": "US Patent 8,891,614, 2014",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Method and system on chip (SoC) for adapting a runtime reconfigurable hardware to decode a video stream",
+                    "author": [
+                        "SK Nandy",
+                        "R Narayan",
+                        "M Alle",
+                        "K Vardarajan"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "US Patent \u2026",
+                    "abstract": "A method and System on Chip (SoC) for adapting a runtime reconfigurable hardware to decode a video stream, wherein the video stream is of one of a plurality of video types is disclosed. The method includes determining a video type of the video stream and identifying at least one functional block of a set of functional blocks in the runtime reconfigurable hardware in response to determining the video type. A functional block of the set of functional blocks corresponds to a decoding sub function of the video type. Thereafter, the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US8891614B2/en",
+                "author_id": [
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Yfhx8zZ9jH8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMethod%2Band%2Bsystem%2Bon%2Bchip%2B(SoC)%2Bfor%2Badapting%2Ba%2Bruntime%2Breconfigurable%2Bhardware%2Bto%2Bdecode%2Ba%2Bvideo%2Bstream%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Yfhx8zZ9jH8J&ei=Z1BkYoq3Js6E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Yfhx8zZ9jH8J:scholar.google.com/&scioq=Method+and+system+on+chip+(SoC)+for+adapting+a+runtime+reconfigurable+hardware+to+decode+a+video+stream&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/84/1e/d7/1fa52dbb796136/US8891614.pdf"
+            }
+        },
+        {
+            "title": "Article 11 (48 pages): REDEFINE: Runtime Reconfigurable Polymorphic ASIC",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "OBn0xd8AAAAJ:Y0pCki6q_DkC",
+            "authors": "M Alle, K Varadarajan, A Fell, R Reddy C, N Joseph, S Das, P Biswas, ...",
+            "publication": "ACM Transactions on Embedded Computer Systems 9 (2), 2010",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2010",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Article 11 (48 pages): REDEFINE: Runtime Reconfigurable Polymorphic ASIC",
+                    "author": [
+                        "M Alle",
+                        "K Varadarajan",
+                        "A Fell",
+                        "R Reddy C",
+                        "N Joseph"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    "e2Ny_2MAAAAJ",
+                    "OBn0xd8AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:4AnrNwUfT9YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DArticle%2B11%2B(48%2Bpages):%2BREDEFINE:%2BRuntime%2BReconfigurable%2BPolymorphic%2BASIC%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4AnrNwUfT9YJ&ei=alBkYsW2He-Sy9YPs_mY8AM&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "PISA",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "OBn0xd8AAAAJ:W7OEmFMy1HYC",
+            "authors": "A FELL",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2005",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Systemic insecticides (neonicotinoids and fipronil): trends, uses, mode of action and metabolites",
+                    "author": [
+                        "",
+                        "EAD Mitchell",
+                        "CA Morrissey",
+                        "DA Noome",
+                        "L Pisa"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "\u2026 Science and Pollution \u2026",
+                    "abstract": "Since their discovery in the late 1980s, neonicotinoid pesticides have become the most  widely used class of insecticides worldwide, with large-scale applications ranging from plant"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s11356-014-3470-y",
+                "author_id": [
+                    "",
+                    "eGdlGVwAAAAJ",
+                    "GzeHDMwAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:usQ7G5dLnbIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPISA%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=usQ7G5dLnbIJ&ei=bVBkYt69JJqSy9YP8pKNsAE&json=",
+                "num_citations": 1151,
+                "citedby_url": "/scholar?cites=12870526422463792314&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:usQ7G5dLnbIJ:scholar.google.com/&scioq=PISA&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/article/10.1007/s11356-014-3470-y"
+            }
+        },
+        {
+            "title": "2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP)| 978-1-6654-2701-2/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109/ASAP52443 \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:4JMBOYKVnBMC",
+            "citation_id": "OBn0xd8AAAAJ:4JMBOYKVnBMC",
+            "authors": "T Aarrestad, S Agarwal, NB Agostini, V Amatya, J Anderson, C Axenie, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "2021 IEEE 32nd International Conference on Application-specific Systems, Architectures and Processors (ASAP)| 978-1-6654-2701-2/21/$31.00\u00a9 2021 IEEE| DOI \u2026",
+                    "author": [
+                        "T Aarrestad",
+                        "S Agarwal",
+                        "NB Agostini",
+                        "V Amatya"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Presents an index of the authors whose articles are published in the conference  proceedings record.  Use of this website signifies your agreement to the IEEE Terms and  Conditions A not-for-profit organization, IEEE is the world\u2019s largest technical professional  organization dedicated to advancing technology for the benefit of humanity."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.computer.org/csdl/proceedings-article/asap/2021/270100a275/1wiR07JrHA4",
+                "author_id": [
+                    "",
+                    "cW4m5DEAAAAJ",
+                    "g4oB31kAAAAJ",
+                    "5NZNsOMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:NI4nFqVxPgoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D2021%2BIEEE%2B32nd%2BInternational%2BConference%2Bon%2BApplication-specific%2BSystems,%2BArchitectures%2Band%2BProcessors%2B(ASAP)%257C%2B978-1-6654-2701-2/21/%252431.00%25C2%25A9%2B2021%2BIEEE%257C%2BDOI:%2B10.1109/ASAP52443%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NI4nFqVxPgoJ&ei=cVBkYrLKFs6E6rQP5-KmKA&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "At the conclusion of the third volume, too, the Editors would like to express their gratitude for the support they got in the evaluation of research papers submitted for \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:TQgYirikUcIC",
+            "citation_id": "OBn0xd8AAAAJ:TQgYirikUcIC",
+            "authors": "EJ Baum, JJ Beauchamp, JC Bezdek, L Borgman, J Breen, WH Chan, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "At the conclusion of the third volume, too, the Editors would like to express their gratitude for the support they got in the evaluation of research papers \u2026",
+                    "author": [
+                        "EJ Baum",
+                        "JJ Beauchamp",
+                        "JC Bezdek",
+                        "L Borgman"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    "",
+                    "kXy4LAMAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:-B2NPfS712MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAt%2Bthe%2Bconclusion%2Bof%2Bthe%2Bthird%2Bvolume,%2Btoo,%2Bthe%2BEditors%2Bwould%2Blike%2Bto%2Bexpress%2Btheir%2Bgratitude%2Bfor%2Bthe%2Bsupport%2Bthey%2Bgot%2Bin%2Bthe%2Bevaluation%2Bof%2Bresearch%2Bpapers%2Bsubmitted%2Bfor%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-B2NPfS712MJ&ei=dFBkYvKvDpGJmwGY-qmYDQ&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Technical Program Committee of CyberSciTech 2020",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:mB3voiENLucC",
+            "citation_id": "OBn0xd8AAAAJ:mB3voiENLucC",
+            "authors": "D Gligoroski, M Garau, D Palma, R Olimid, N Amelina, N Mital, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Technical Program Committee of CyberSciTech 2020",
+                    "author": [
+                        "D Gligoroski",
+                        "M Garau",
+                        "D Palma",
+                        "R Olimid",
+                        "N Amelina"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Technical Program Committee of CyberSciTech 2020 Abstract: Provides a listing of  current committee members and society officers.  A not-for-profit organization, IEEE is the  world's largest technical professional organization dedicated to advancing technology for  the benefit of humanity."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9251173/",
+                "author_id": [
+                    "M_ldcuoAAAAJ",
+                    "0zOAmDoAAAAJ",
+                    "",
+                    "",
+                    "r_EwA48AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9n-Gj1gaxcEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTechnical%2BProgram%2BCommittee%2Bof%2BCyberSciTech%2B2020%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9n-Gj1gaxcEJ&ei=d1BkYuqwM5LeyQTE46-QAg&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "2017 4th International Conference on Signal Processing and Integrated Networks (SPIN) 2-3 February 2017, Noida, India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:IWHjjKOFINEC",
+            "citation_id": "OBn0xd8AAAAJ:IWHjjKOFINEC",
+            "authors": "A Roy, A Kumar, A Swarnkar, AK Verma, A Venkatesan, AG Mir, A Gupta, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "2017 4th International Conference on Signal Processing and Integrated Networks (SPIN) 2-3 February 2017, Noida, India",
+                    "author": [
+                        "A Roy",
+                        "A Kumar",
+                        "A Swarnkar",
+                        "AK Verma",
+                        "A Venkatesan"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "2017 4th International Conference on Signal Processing and Integrated Networks (SPIN)  2-3 February 2017, Noida, India"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8050026/",
+                "author_id": [
+                    "",
+                    "C5v1eZ4AAAAJ",
+                    "",
+                    "1MPDi6kAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:2Sy5A9a2fLIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D2017%2B4th%2BInternational%2BConference%2Bon%2BSignal%2BProcessing%2Band%2BIntegrated%2BNetworks%2B(SPIN)%2B2-3%2BFebruary%2B2017,%2BNoida,%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2Sy5A9a2fLIJ&ei=e1BkYqmgMOHDywSSipaYAg&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/8045885/8049898/08050026.pdf"
+            }
+        },
+        {
+            "title": "List of External Reviewers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:7PzlFSSx8tAC",
+            "citation_id": "OBn0xd8AAAAJ:7PzlFSSx8tAC",
+            "authors": "S Mallala, K Karanjkar, A Fell, W Meiqing, KB Herath, S Behroozi, Y Lee, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "List of External Reviewers",
+                    "author": [
+                        "S Mallala",
+                        "K Karanjkar",
+                        "A Fell",
+                        "W Meiqing",
+                        "KB Herath"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "List of External Reviewers  List of External Reviewers  VLSID & ES 2019, | 32,nd,  International Conference on VLSI Design and , , 18,th, International Conference on"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.computer.org/csdl/proceedings-article/vlsid/2019/040900z039/1a3wWcqjH1e",
+                "author_id": [
+                    "",
+                    "",
+                    "OBn0xd8AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:lLGGDNJQcNUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DList%2Bof%2BExternal%2BReviewers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lLGGDNJQcNUJ&ei=f1BkYuOkOIuKmgGY1YjABQ&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Network on Chip Routers in a Dual Honeycomb Network",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:QIV2ME_5wuYC",
+            "citation_id": "OBn0xd8AAAAJ:QIV2ME_5wuYC",
+            "authors": "A FELL",
+            "publication": "Fachhochschule K\u00f6ln, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Network on Chip Routers in a Dual Honeycomb Network",
+                    "author": [
+                        "A FELL"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Multiheterogeneous and multi core architectures that allow a real parallel execution of programs, are the answers to the demand for more computation power. A multiheterogeneous differs from a multi core architecture in such a way that the cores of the first type are not identical, but optimized for several purposes. The Cell Broadband Engine (CBE), a collaborative development of Sony, Toshiba and IBM and built into the PlayStation 3, consists of one so called Power Processing Element (PPE) and 8 Synergistic Processing"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289923477_Network_on_Chip_Routers_in_a_Dual_Honeycomb_Network/links/5ba215b8299bf13e603c13b9/Network-on-Chip-Routers-in-a-Dual-Honeycomb-Network.pdf",
+                "author_id": [
+                    "OBn0xd8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fhrCsWyhbxUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNetwork%2Bon%2BChip%2BRouters%2Bin%2Ba%2BDual%2BHoneycomb%2BNetwork%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fhrCsWyhbxUJ&ei=hlBkYrGmD8LZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:fhrCsWyhbxUJ:scholar.google.com/&scioq=Network+on+Chip+Routers+in+a+Dual+Honeycomb+Network&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289923477_Network_on_Chip_Routers_in_a_Dual_Honeycomb_Network/links/5ba215b8299bf13e603c13b9/Network-on-Chip-Routers-in-a-Dual-Honeycomb-Network.pdf"
+            }
+        },
+        {
+            "title": "REDEFINE: Optimizations for Achieving High Throughput",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBn0xd8AAAAJ&pagesize=100&citation_for_view=OBn0xd8AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "OBn0xd8AAAAJ:MXK_kJrjxJIC",
+            "authors": "K Varadarajan, G Garga, M Alle, A Fell, R Narayan, SK Nandy",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "REDEFINE: Optimizations for Achieving High Throughput",
+                    "author": [
+                        "K Varadarajan",
+                        "G Garga",
+                        "M Alle",
+                        "A Fell",
+                        "R Narayan"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "REDEFINE is a runtime reconfigurable hardware platform. In this paper, we trace the development of a runtime reconfigurable hardware from a general purpose processor, by eliminating certain characteristics such as: Register files and Bypass network. We instead allow explicit write backs to the reservation stations as in Transport Triggered Architecture (TTA), but use a dataflow paradigm unlike TTA. The compiler and hardware requirements for such a reconfigurable platform are detailed. The performance comparison of REDEFINE"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289915905_REDEFINE_Optimizations_for_Achieving_High_Throughput/links/56936f2b08aed0aed81789cd/REDEFINE-Optimizations-for-Achieving-High-Throughput.pdf",
+                "author_id": [
+                    "e2Ny_2MAAAAJ",
+                    "",
+                    "",
+                    "OBn0xd8AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Lt_HG4y89c0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DREDEFINE:%2BOptimizations%2Bfor%2BAchieving%2BHigh%2BThroughput%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Lt_HG4y89c0J&ei=jlBkYsigKZyO6rQP_qe3mAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Lt_HG4y89c0J:scholar.google.com/&scioq=REDEFINE:+Optimizations+for+Achieving+High+Throughput&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Alexander-Fell/publication/289915905_REDEFINE_Optimizations_for_Achieving_High_Throughput/links/56936f2b08aed0aed81789cd/REDEFINE-Optimizations-for-Achieving-High-Throughput.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 265,
+                    "since_2017": 101
+                }
+            },
+            {
+                "h_index": {
+                    "all": 8,
+                    "since_2017": 5
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 8,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2008,
+                "citations": 3
+            },
+            {
+                "year": 2009,
+                "citations": 29
+            },
+            {
+                "year": 2010,
+                "citations": 24
+            },
+            {
+                "year": 2011,
+                "citations": 15
+            },
+            {
+                "year": 2012,
+                "citations": 8
+            },
+            {
+                "year": 2013,
+                "citations": 11
+            },
+            {
+                "year": 2014,
+                "citations": 23
+            },
+            {
+                "year": 2015,
+                "citations": 21
+            },
+            {
+                "year": 2016,
+                "citations": 25
+            },
+            {
+                "year": 2017,
+                "citations": 18
+            },
+            {
+                "year": 2018,
+                "citations": 20
+            },
+            {
+                "year": 2019,
+                "citations": 19
+            },
+            {
+                "year": 2020,
+                "citations": 19
+            },
+            {
+                "year": 2021,
+                "citations": 21
+            },
+            {
+                "year": 2022,
+                "citations": 3
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=OBn0xd8AAAAJ",
+        "available": 4,
+        "not_available": 0
+    },
+    "co_authors": []
+}

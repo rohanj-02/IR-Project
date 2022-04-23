@@ -1,0 +1,235 @@
+{
+    "search_metadata": {
+        "id": "62574cb9e815af3e3eef71e4",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9b05b8d0858b391a/62574cb9e815af3e3eef71e4.json",
+        "created_at": "2022-04-13 22:20:41 UTC",
+        "processed_at": "2022-04-13 22:20:41 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=7F63SjIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/9b05b8d0858b391a/62574cb9e815af3e3eef71e4.html",
+        "total_time_taken": 0.67,
+        "total_articles": 3,
+        "total_co_authors": 2
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "7F63SjIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Akansha Gautam",
+        "affiliations": "Student at IIITD",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Natural Language Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:natural_language_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing"
+            },
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=7F63SjIAAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "Fake news detection system using xlnet model with topic distributions: Constraint@ aaai2021 shared task",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7F63SjIAAAAJ&pagesize=100&citation_for_view=7F63SjIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "7F63SjIAAAAJ:u-x6o8ySG0sC",
+            "authors": "A Gautam, V Venktesh, S Masud",
+            "publication": "International Workshop on\u200b Combating On\u200b line Ho\u200b st\u200b ile Posts in\u200b Regional \u2026, 2021",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17611558572141119135",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17611558572141119135&engine=google_scholar&hl=en",
+                "cites_id": "17611558572141119135"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fake news detection system using xlnet model with topic distributions: Constraint@ aaai2021 shared task",
+                    "author": [
+                        "A Gautam",
+                        "V Venktesh",
+                        "S Masud"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 Workshop on\u200b Combating On\u200b line Ho \u2026",
+                    "abstract": "With the ease of access to information, and its rapid dissemination over the internet (both velocity and volume), it has become challenging to filter out truthful information from fake ones. The research community is now faced with the task of automatic detection of fake news, which carries real-world socio-political impact. One such research contribution came in the form of the Constraint@ AAA12021 Shared Task on COVID19 Fake News Detection in English. In this paper, we shed light on a novel method we proposed as a part of this shared"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-73696-5_18",
+                "author_id": [
+                    "7F63SjIAAAAJ",
+                    "FrDPEc0AAAAJ",
+                    "jxe2vbQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nwZ1GTbTaPQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFake%2Bnews%2Bdetection%2Bsystem%2Busing%2Bxlnet%2Bmodel%2Bwith%2Btopic%2Bdistributions:%2BConstraint%2540%2Baaai2021%2Bshared%2Btask%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nwZ1GTbTaPQJ&ei=PWdkYoO1OJyO6rQP_qe3mAs&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=17611558572141119135&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:nwZ1GTbTaPQJ:scholar.google.com/&scioq=Fake+news+detection+system+using+xlnet+model+with+topic+distributions:+Constraint%40+aaai2021+shared+task&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2101.11425"
+            },
+            "processed_authors": [
+                "akansha gautam",
+                "v venktesh",
+                "s masud"
+            ]
+        },
+        {
+            "title": "SGG: spinbot, grammarly and GloVe based fake news detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7F63SjIAAAAJ&pagesize=100&citation_for_view=7F63SjIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "7F63SjIAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Gautam, KR Jerripothula",
+            "publication": "2020 IEEE Sixth International Conference on Multimedia Big Data (BigMM), 174-182, 2020",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=443461853734695091",
+                "serpapi_link": "https://serpapi.com/search.json?cites=443461853734695091&engine=google_scholar&hl=en",
+                "cites_id": "443461853734695091"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "SGG: spinbot, grammarly and GloVe based fake news detection",
+                    "author": [
+                        "A Gautam",
+                        "KR Jerripothula"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE Sixth International \u2026",
+                    "abstract": "Recently, news consumption using online news portals has increased exponentially due to several reasons, such as low cost and easy accessibility. However, such online platforms inadvertently also become the cause of spreading false information across the web. They are being misused quite frequently as a medium to disseminate misinformation and hoaxes. Such malpractices call for a robust automatic fake news detection system that can keep us at bay from such misinformation and hoaxes. We propose a robust yet simple fake news"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232537/",
+                "author_id": [
+                    "7F63SjIAAAAJ",
+                    "QgTEe-gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:s_BK1zR-JwYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSGG:%2Bspinbot,%2Bgrammarly%2Band%2BGloVe%2Bbased%2Bfake%2Bnews%2Bdetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=s_BK1zR-JwYJ&ei=QmdkYuCHAfmQ6rQP5OqKqAo&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=443461853734695091&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:s_BK1zR-JwYJ:scholar.google.com/&scioq=SGG:+spinbot,+grammarly+and+GloVe+based+fake+news+detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2008.06854"
+            },
+            "processed_authors": [
+                "akansha gautam",
+                "koteswar rao jerripothula"
+            ]
+        },
+        {
+            "title": "Robust fake news detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7F63SjIAAAAJ&pagesize=100&citation_for_view=7F63SjIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "7F63SjIAAAAJ:9yKSN-GCB0IC",
+            "authors": "A Gautam, KR Jerripothula",
+            "publication": "IIIT-Delhi, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robust fake news detection over time and attack",
+                    "author": [
+                        "BD Horne",
+                        "J N\u00f8rregaard",
+                        "S Adali"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "ACM Transactions on Intelligent \u2026",
+                    "abstract": "In this study, we examine the impact of time on state-of-the-art news veracity classifiers. We  show that, as time progresses, classification performance for both unreliable and hyper-"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3363818",
+                "author_id": [
+                    "T47ya5QAAAAJ",
+                    "pCsDJKkAAAAJ",
+                    "Jk3gxBEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WCLXoiMBYoMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobust%2Bfake%2Bnews%2Bdetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WCLXoiMBYoMJ&ei=RWdkYvzhEO-Sy9YPs_mY8AM&json=",
+                "num_citations": 32,
+                "citedby_url": "/scholar?cites=9467130619253695064&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WCLXoiMBYoMJ:scholar.google.com/&scioq=Robust+fake+news+detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://par.nsf.gov/servlets/purl/10166364"
+            },
+            "processed_authors": [
+                "akansha gautam",
+                "koteswar rao jerripothula"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 22,
+                    "since_2017": 22
+                }
+            },
+            {
+                "h_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2020,
+                "citations": 1
+            },
+            {
+                "year": 2021,
+                "citations": 14
+            },
+            {
+                "year": 2022,
+                "citations": 7
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Koteswar Rao JERRIPOTHULA",
+            "link": "https://scholar.google.com/citations?user=QgTEe-gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=QgTEe-gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "QgTEe-gAAAAJ",
+            "affiliations": "Faculty, IIIT-Delhi \u2605 PhD'17, NTU Singapore \u2605 BTech'12, IIT Roorkee",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QgTEe-gAAAAJ&citpid=18"
+        },
+        {
+            "name": "Sarah Masud",
+            "link": "https://scholar.google.com/citations?user=jxe2vbQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=jxe2vbQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "jxe2vbQAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jxe2vbQAAAAJ&citpid=5"
+        }
+    ]
+}

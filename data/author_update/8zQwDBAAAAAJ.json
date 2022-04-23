@@ -1,0 +1,411 @@
+{
+    "search_metadata": {
+        "id": "62574ca3fdca3ee3f5854dda",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/2f2c740a509056e0/62574ca3fdca3ee3f5854dda.json",
+        "created_at": "2022-04-13 22:20:19 UTC",
+        "processed_at": "2022-04-13 22:20:19 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=8zQwDBAAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/2f2c740a509056e0/62574ca3fdca3ee3f5854dda.html",
+        "total_time_taken": 5.99,
+        "total_articles": 8,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "8zQwDBAAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sambhav Malhotra",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Wireless Power Transfer",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_power_transfer",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_power_transfer"
+            },
+            {
+                "title": "Chipless RFID",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:chipless_rfid",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Achipless_rfid"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8zQwDBAAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Slot resonator based novel orientation independent chipless RFID tag configurations",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "8zQwDBAAAAAJ:d1gkVwhDpl0C",
+            "authors": "V Sharma, S Malhotra, M Hashmi",
+            "publication": "IEEE Sensors Journal 19 (13), 5153-5160, 2019",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16822052395678804003",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16822052395678804003&engine=google_scholar&hl=en",
+                "cites_id": "16822052395678804003"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Slot resonator based novel orientation independent chipless RFID tag configurations",
+                    "author": [
+                        "V Sharma",
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Sensors Journal",
+                    "abstract": "The design of two novel orientation-independent slot resonator-based chipless RFID tags is proposed in this paper. These tags make use of multiple L-shaped slots of different lengths on a lossy substrate and are appropriate for item tracking and identifications. The data are encoded in the backscattered signal from the tag after its illumination. The first tag configuration includes multiple L-shaped slot resonators cascaded with each other. It exhibits wideband features and enables the addition of extra resonators for encoding of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8657787/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:I6hx3Ybvc-kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSlot%2Bresonator%2Bbased%2Bnovel%2Borientation%2Bindependent%2Bchipless%2BRFID%2Btag%2Bconfigurations%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=I6hx3Ybvc-kJ&ei=CFNkYrTELOiSy9YPp-OyiAE&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=16822052395678804003&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:I6hx3Ybvc-kJ:scholar.google.com/&scioq=Slot+resonator+based+novel+orientation+independent+chipless+RFID+tag+configurations&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "An emerging application centric RFID framework based on new web technology",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "8zQwDBAAAAAJ:u-x6o8ySG0sC",
+            "authors": "V Sharma, S Malhotra, M Hashmi",
+            "publication": "2018 IEEE International Conference on RFID Technology & Application (RFID-TA \u2026, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5276918954131731126",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5276918954131731126&engine=google_scholar&hl=en",
+                "cites_id": "5276918954131731126"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An emerging application centric RFID framework based on new web technology",
+                    "author": [
+                        "V Sharma",
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE International \u2026",
+                    "abstract": "In the context of emerging applications such as IoT, an RFID framework that can dynamically incorporate, identify, and seamlessly regulate the RFID tags is considered exciting. Earlier RFID frameworks developed using the older web technologies were limited in their ability to provide complete information about the RFID tags and their respective locations. However, the new and emerging web technologies have transformed this scenario and now framework can be developed to include all the required flexibility and security for seamless"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8552742/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tjKMmdRhO0kJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Bemerging%2Bapplication%2Bcentric%2BRFID%2Bframework%2Bbased%2Bon%2Bnew%2Bweb%2Btechnology%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tjKMmdRhO0kJ&ei=DFNkYvX1AouKmgGY1YjABQ&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=5276918954131731126&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tjKMmdRhO0kJ:scholar.google.com/&scioq=An+emerging+application+centric+RFID+framework+based+on+new+web+technology&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/329362661_An_Emerging_Application_Centric_RFID_Framework_Based_on_New_Web_Technology/links/5e1c5d8ca6fdcc28376e8ec5/An-Emerging-Application-Centric-RFID-Framework-Based-on-New-Web-Technology.pdf"
+            }
+        },
+        {
+            "title": "Near-field WPT using defected ground structures for UHF RFID applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "8zQwDBAAAAAJ:2osOgNQ5qMEC",
+            "authors": "S Malhotra, M Hashmi",
+            "publication": "2019 IEEE International Conference on RFID Technology and Applications (RFID \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11074498837562999456",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11074498837562999456&engine=google_scholar&hl=en",
+                "cites_id": "11074498837562999456"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Near-field WPT using defected ground structures for UHF RFID applications",
+                    "author": [
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE International Conference on \u2026",
+                    "abstract": "Wireless Power Transfer (WPT) has gained importance in the 21st century for its potential applications in Radio Frequency Identification (RFID), and Internet of Things (IoT) based wireless sensors. This technology removes the need for batteries on the RFID tag, thereby increasing its shelf life and reducing its cost. There are mainly two types of wireless power transfer-near-field (\u2248 mm, cm) and far-field (\u2248 km). In this work, a compact H-shaped Defected Ground Structure (DGS) has been used to design a notch filter and a WPT system"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8892021/",
+                "author_id": [
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oEJrfgSGsJkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNear-field%2BWPT%2Busing%2Bdefected%2Bground%2Bstructures%2Bfor%2BUHF%2BRFID%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oEJrfgSGsJkJ&ei=ElNkYrqnBIuKmgGY1YjABQ&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=11074498837562999456&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:oEJrfgSGsJkJ:scholar.google.com/&scioq=Near-field+WPT+using+defected+ground+structures+for+UHF+RFID+applications&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Orientation independent printable backscattering chipless RFID tags based on l-resonator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "8zQwDBAAAAAJ:u5HHmVD_uO8C",
+            "authors": "V Sharma, S Malhotra, M Hashmi",
+            "publication": "2018 48th European Microwave Conference (EuMC), 989-992, 2018",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942377971415903612",
+                "serpapi_link": "https://serpapi.com/search.json?cites=942377971415903612&engine=google_scholar&hl=en",
+                "cites_id": "942377971415903612"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Orientation independent printable backscattering chipless RFID tags based on l-resonator",
+                    "author": [
+                        "V Sharma",
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 48th European \u2026",
+                    "abstract": "Two novel compact orientation independent (OI) chipless RFID tag designs have been proposed in this paper. In these designs, the variation in the length of the L-resonators generate distinct resonant frequencies for encoding of data. These tags are single sided with no ground plane and can be read from behind or front by a reader having a linear polarization. In one of the designs, the L-resonators have been placed in cascaded fashion and this in turn leads to reduced size of the tag but with increased the mutual coupling. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8541425/",
+                "author_id": [
+                    "Q-ueZYoAAAAJ",
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fO1lpsX_Ew0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOrientation%2Bindependent%2Bprintable%2Bbackscattering%2Bchipless%2BRFID%2Btags%2Bbased%2Bon%2Bl-resonator%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fO1lpsX_Ew0J&ei=FVNkYoOZBeHDywSSipaYAg&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=942377971415903612&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fO1lpsX_Ew0J:scholar.google.com/&scioq=Orientation+independent+printable+backscattering+chipless+RFID+tags+based+on+l-resonator&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Vijay-Sharma-46/publication/329240281_Orientation_Independent_Printable_Backscattering_Chipless_RFID_Tags_Based_on_L-Resonator/links/60aea9c2a6fdcc647ede9978/Orientation-Independent-Printable-Backscattering-Chipless-RFID-Tags-Based-on-L-Resonator.pdf"
+            }
+        },
+        {
+            "title": "Dual-band wpt system using semi-h dgs for biomedical applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:qjMakFHDy7sC",
+            "citation_id": "8zQwDBAAAAAJ:qjMakFHDy7sC",
+            "authors": "S Malhotra, S Verma, V Bohara, M Hashmi",
+            "publication": "2019 IEEE Asia-Pacific Microwave Conference (APMC), 720-722, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=395522076237880201",
+                "serpapi_link": "https://serpapi.com/search.json?cites=395522076237880201&engine=google_scholar&hl=en",
+                "cites_id": "395522076237880201"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Dual-band wpt system using semi-h dgs for biomedical applications",
+                    "author": [
+                        "S Malhotra",
+                        "S Verma",
+                        "V Bohara"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Asia-Pacific \u2026",
+                    "abstract": "A dual-band wireless power transfer (WPT) system utilizing semi-H shaped Defected Ground Structure (DGS) for biomedical applications is presented in this paper. The proposed design uses magnetic resonance coupling to achieve medium-range power transfer. The semi-H design increases the inductance of the circuit, which results in higher efficiency. To reduce the overall size of the prototype, the DGS is loaded with external surface mounted chip (SMD) capacitors. The design and optimization is backed up by an"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9038176/",
+                "author_id": [
+                    "8zQwDBAAAAAJ",
+                    "",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:idv7ljstfQUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDual-band%2Bwpt%2Bsystem%2Busing%2Bsemi-h%2Bdgs%2Bfor%2Bbiomedical%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=idv7ljstfQUJ&ei=GFNkYvXAIfmQ6rQP5OqKqAo&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=395522076237880201&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:idv7ljstfQUJ:scholar.google.com/&scioq=Dual-band+wpt+system+using+semi-h+dgs+for+biomedical+applications&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Measurements and Characterization of a Newly Developed Novel Miniature WIPT System",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "8zQwDBAAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Verma, D Rano, S Malhotra, MS Hashmi",
+            "publication": "IEEE Transactions on Instrumentation and Measurement 70, 1-11, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Measurements and Characterization of a Newly Developed Novel Miniature WIPT System",
+                    "author": [
+                        "S Verma",
+                        "D Rano",
+                        "S Malhotra"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "This article reports, for the first time, the design and experimental evaluation of a compact wireless information and power transfer (WIPT) system operating at radio frequency (RF). The design of WIPT system is facilitated by the development of a novel tri-band defected ground structure (DGS) based bandstop filter (BSF) operating at three different frequencies of 300, 433, and 700 MHz. Then, two similar BSFs are arranged in a back-to-back configuration to achieve near-field resonant inductive coupling for transfer of information and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9422364/",
+                "author_id": [
+                    "",
+                    "Vp3FmOsAAAAJ",
+                    "8zQwDBAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qGylHKHHRigJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMeasurements%2Band%2BCharacterization%2Bof%2Ba%2BNewly%2BDeveloped%2BNovel%2BMiniature%2BWIPT%2BSystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qGylHKHHRigJ&ei=JlNkYtCzNo6pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:qGylHKHHRigJ:scholar.google.com/&scioq=Measurements+and+Characterization+of+a+Newly+Developed+Novel+Miniature+WIPT+System&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Analysis of DGS filters using \u03c0\u2010circuit model",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "8zQwDBAAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Malhotra, M Hashmi",
+            "publication": "Engineering Reports 2 (7), e12196, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Analysis of DGS filters using \u03c0\u2010circuit model",
+                    "author": [
+                        "S Malhotra",
+                        "M Hashmi"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Engineering Reports",
+                    "abstract": "The design and analysis of two defected ground structures (DGS)\u2010based filters have been proposed in this article. The first is a multifrequency bandstop filter (BSF) which utilizes a semi\u2010H defect in the ground plane. This structure is then prototyped on a Rogers 4350B substrate of overall size 45 mm\u00d7 15 mm with an external SMD capacitors employed to control the resonance of the circuit for the stopband frequencies of 433, 700, and 915 MHz. An equivalent \u03c0\u2010circuit is modified to validate this multiband filter. The second filter is a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/eng2.12196",
+                "author_id": [
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WOhuSVRuL0AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Bof%2BDGS%2Bfilters%2Busing%2B%25CF%2580%25E2%2580%2590circuit%2Bmodel%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WOhuSVRuL0AJ&ei=LVNkYvr4F46pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:WOhuSVRuL0AJ:scholar.google.com/&scioq=Analysis+of+DGS+filters+using+%CF%80%E2%80%90circuit+model&hl=en&as_sdt=0,33",
+                "eprint_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/eng2.12196"
+            }
+        },
+        {
+            "title": "16 Bit retransmission based chipless RFID tag",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=8zQwDBAAAAAJ&pagesize=100&citation_for_view=8zQwDBAAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "8zQwDBAAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Malhotra, MS Hashmi, S Biswas, S Saurabh",
+            "publication": "IIITD-Delhi, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "16 Bit retransmission based chipless RFID tag",
+                    "author": [
+                        "S Malhotra",
+                        "MS Hashmi",
+                        "S Biswas",
+                        "S Saurabh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "NA",
+                    "abstract": "A 16-bit Chipless RFID tags have been proposed in this report. The design will be fabricated on a Rogers RT 5880 board with a dielectric constant of 2.2 and a loss tangent of 0.0009. The tag is based on the concept of re-transmission and therefore require an external set of monopole patch antennas as part of the system. The design employ the use of L resonators with various, de ned lengths which in turn resonate at di erent frequencies. The presence or absence of a resonator at a particular frequency is encoded as a 1 or 0. These tags are"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/738",
+                "author_id": [
+                    "8zQwDBAAAAAJ",
+                    "oEJfDLkAAAAJ",
+                    "",
+                    "V7XGG2AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2tc3GmEJnFcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D16%2BBit%2Bretransmission%2Bbased%2Bchipless%2BRFID%2Btag%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2tc3GmEJnFcJ&ei=MFNkYvXCLpqSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:2tc3GmEJnFcJ:scholar.google.com/&scioq=16+Bit+retransmission+based+chipless+RFID+tag&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/738/2014158_SAMBHAV%20MALHOTRA.pdf?sequence=1&isAllowed=y"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 43,
+                    "since_2017": 43
+                }
+            },
+            {
+                "h_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2019,
+                "citations": 6
+            },
+            {
+                "year": 2020,
+                "citations": 13
+            },
+            {
+                "year": 2021,
+                "citations": 17
+            },
+            {
+                "year": 2022,
+                "citations": 7
+            }
+        ]
+    },
+    "co_authors": []
+}

@@ -1,0 +1,703 @@
+{
+    "search_metadata": {
+        "id": "62574c730a90c7e15a297ce0",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/19fda3fdbee251f5/62574c730a90c7e15a297ce0.json",
+        "created_at": "2022-04-13 22:19:31 UTC",
+        "processed_at": "2022-04-13 22:19:31 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=svepziAAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/19fda3fdbee251f5/62574c730a90c7e15a297ce0.html",
+        "total_time_taken": 0.15,
+        "total_articles": 13,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "svepziAAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Gunjan Singh",
+        "affiliations": "Ph. D Student, Indraprastha Institute of Information Technology, Delhi, India",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Semantic Web",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:semantic_web",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Asemantic_web"
+            },
+            {
+                "title": "Knowledge Graphs and Reasoning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:knowledge_graphs_and_reasoning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aknowledge_graphs_and_reasoning"
+            },
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Reinforcement Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:reinforcement_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Areinforcement_learning"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "OWL2Bench: a benchmark for OWL 2 reasoners",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "svepziAAAAAJ:9yKSN-GCB0IC",
+            "authors": "G Singh, S Bhatia, R Mutharaju",
+            "publication": "International Semantic Web Conference, 81-96, 2020",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=884783541291752395",
+                "serpapi_link": "https://serpapi.com/search.json?cites=884783541291752395&engine=google_scholar&hl=en",
+                "cites_id": "884783541291752395"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "OWL2Bench: a benchmark for OWL 2 reasoners",
+                    "author": [
+                        "G Singh",
+                        "S Bhatia",
+                        "R Mutharaju"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "International Semantic Web Conference",
+                    "abstract": "There are several existing ontology reasoners that span a wide spectrum in terms of their performance and the expressivity that they support. In order to benchmark these reasoners to find and improve the performance bottlenecks, we ideally need several real-world ontologies that span the wide spectrum in terms of their size and expressivity. This is often not the case. One of the potential reasons for the ontology developers to not build ontologies that vary in terms of size and expressivity, is the performance bottleneck of the reasoners. To"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-62466-8_6",
+                "author_id": [
+                    "svepziAAAAAJ",
+                    "8HVTWNkAAAAJ",
+                    "69pEM_YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:y5vOafFhRwwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOWL2Bench:%2Ba%2Bbenchmark%2Bfor%2BOWL%2B2%2Breasoners%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=y5vOafFhRwwJ&ei=Kk9kYun5I5GJmwGY-qmYDQ&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=884783541291752395&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:y5vOafFhRwwJ:scholar.google.com/&scioq=OWL2Bench:+a+benchmark+for+OWL+2+reasoners&hl=en&as_sdt=0,33",
+                "eprint_url": "https://gunjansingh1.github.io/files/owl2bench.pdf"
+            },
+            "processed_authors": [
+                "gunjan singh",
+                "s bhatia",
+                "raghava mutharaju"
+            ]
+        },
+        {
+            "title": "Neuro-Symbolic Techniques for Description Logic Reasoning (Student Abstract)",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "svepziAAAAAJ:UeHWp8X0CEIC",
+            "authors": "G Singh, S Mondal, S Bhatia, R Mutharaju",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 35 (18), 15891 \u2026, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6236957386575117899",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6236957386575117899&engine=google_scholar&hl=en",
+                "cites_id": "6236957386575117899"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Neuro-Symbolic Techniques for Description Logic Reasoning (Student Abstract)",
+                    "author": [
+                        "G Singh",
+                        "S Mondal",
+                        "S Bhatia"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "With the goal to find scalable reasoning approaches, neurosymbolic techniques have gained significant attention. However, the existing approaches do not take into account the inference capabilities of ontology languages that are based on expressive description logic (such as OWL 2). To fill this gap, we propose two approaches: an ontology-based embedding model for theories in EL++ description logic and a reinforcement learning-based solution for efficient tableau-based reasoning on description logic. We describe promising"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://gunjansingh1.github.io/files/AAAI.pdf",
+                "author_id": [
+                    "svepziAAAAAJ",
+                    "7UOxpuUAAAAJ",
+                    "8HVTWNkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:S_4OwrIfjlYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNeuro-Symbolic%2BTechniques%2Bfor%2BDescription%2BLogic%2BReasoning%2B(Student%2BAbstract)%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=S_4OwrIfjlYJ&ei=Lk9kYvqNHe-Sy9YPs_mY8AM&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=6236957386575117899&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:S_4OwrIfjlYJ:scholar.google.com/&scioq=Neuro-Symbolic+Techniques+for+Description+Logic+Reasoning+(Student+Abstract)&hl=en&as_sdt=0,33",
+                "eprint_url": "https://gunjansingh1.github.io/files/AAAI.pdf"
+            },
+            "processed_authors": [
+                "gunjan singh",
+                "s mondal",
+                "s bhatia",
+                "raghava mutharaju"
+            ]
+        },
+        {
+            "title": "A Benchmark for OWL 2 DL Reasoners",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "svepziAAAAAJ:u-x6o8ySG0sC",
+            "authors": "G Singh, S Bhatia, R Mutharaju",
+            "publication": "Proceedings of the 7th ACM IKDD CoDS and 25th COMAD, 353-353, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15426054906142507627",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15426054906142507627&engine=google_scholar&hl=en",
+                "cites_id": "15426054906142507627"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "OWL2Bench: a benchmark for OWL 2 reasoners",
+                    "author": [
+                        "G Singh",
+                        "S Bhatia",
+                        "R Mutharaju"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "International Semantic Web Conference",
+                    "abstract": "reasoning over the OWL 2 language constructs. We evaluate the performance of six  reasoners  and two SPARQL query engines that support OWL 2 reasoning using our benchmark. We"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-62466-8_6",
+                "author_id": [
+                    "svepziAAAAAJ",
+                    "8HVTWNkAAAAJ",
+                    "69pEM_YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:y5vOafFhRwwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BBenchmark%2Bfor%2BOWL%2B2%2BDL%2BReasoners%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=y5vOafFhRwwJ&ei=MU9kYpSjGZyO6rQP_qe3mAs&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=884783541291752395&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:y5vOafFhRwwJ:scholar.google.com/&scioq=A+Benchmark+for+OWL+2+DL+Reasoners&hl=en&as_sdt=0,33",
+                "eprint_url": "https://gunjansingh1.github.io/files/owl2bench.pdf"
+            },
+            "processed_authors": [
+                "gunjan singh",
+                "s bhatia",
+                "raghava mutharaju"
+            ]
+        },
+        {
+            "title": "Towards a Concurrent Approximate Description Logic Reasoner",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "svepziAAAAAJ:u5HHmVD_uO8C",
+            "authors": "RK Yadav, G Singh, R Mutharaju, S Bhatia",
+            "publication": "ISWC Satellites, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14141044607398072838",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14141044607398072838&engine=google_scholar&hl=en",
+                "cites_id": "14141044607398072838"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Towards a Concurrent Approximate Description Logic Reasoner",
+                    "author": [
+                        "RK Yadav",
+                        "G Singh",
+                        "R Mutharaju",
+                        "S Bhatia"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "ISWC Satellites",
+                    "abstract": "Ontologies are used in a variety of applications in domains such as healthcare, geoscience, IoT, and e-commerce. Many commonly used ontologies are manually constructed, and may not be large in size but could be very expressive. With the advances in automated knowledge base construction and ontology learning [2], it is becoming increasingly common to build very large ontologies. OWL 2 knowledge representation language, a W3C standard, provides several profiles such as OWL 2 Full, OWL 2 DL, OWL 2 EL, OWL 2 QL, and OWL 2"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://openreview.net/pdf?id=390nVvk87KL",
+                "author_id": [
+                    "",
+                    "svepziAAAAAJ",
+                    "69pEM_YAAAAJ",
+                    "8HVTWNkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:BlLq4CUVP8QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2Ba%2BConcurrent%2BApproximate%2BDescription%2BLogic%2BReasoner%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BlLq4CUVP8QJ&ei=NU9kYqSeBY6pywTd4KPADw&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=14141044607398072838&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:BlLq4CUVP8QJ:scholar.google.com/&scioq=Towards+a+Concurrent+Approximate+Description+Logic+Reasoner&hl=en&as_sdt=0,33",
+                "eprint_url": "https://openreview.net/pdf?id=390nVvk87KL"
+            },
+            "processed_authors": [
+                "rk yadav",
+                "gunjan singh",
+                "raghava mutharaju",
+                "s bhatia"
+            ]
+        },
+        {
+            "title": "Germplasm and management strategies for enhancing productivity of salt-affected areas",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "svepziAAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "AM Ismail, MJ Thomson, T Paris, RK Singh, G Gregorio, S Haefele, ...",
+            "publication": "CGIAR Challenge Program on Water and Food, 145, 2008",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=284092928329017391",
+                "serpapi_link": "https://serpapi.com/search.json?cites=284092928329017391&engine=google_scholar&hl=en",
+                "cites_id": "284092928329017391"
+            },
+            "year": "2008",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Germplasm and management strategies for enhancing productivity of salt-affected areas",
+                    "author": [
+                        "AM Ismail",
+                        "MJ Thomson",
+                        "T Paris"
+                    ],
+                    "pub_year": "2008",
+                    "venue": "\u2026 Program on Water \u2026",
+                    "abstract": "The productivity of salt-affected coastal and inland areas is seriously hindered by salt stress, and disproportionately affects poor farmers. Our work involves identification of rice and non-rice crops and varieties tolerant to salt stress; unraveling the underlying mechanisms of tolerance, transferring tolerance into suitable varieties, and evaluating them in partnership with farmers. Conventional and modern breeding strategies are used including the development and use of molecular markers, to greatly speed the breeding process. Through"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://cgspace.cgiar.org/bitstream/handle/10568/56165/IFWF2_proceedings_Volume%20II.pdf?sequence=1&isAllowed=y#page=153",
+                "author_id": [
+                    "x9VzkQcAAAAJ",
+                    "ZoZohG4AAAAJ",
+                    "MqiZ6UUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:L2hAXANN8QMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGermplasm%2Band%2Bmanagement%2Bstrategies%2Bfor%2Benhancing%2Bproductivity%2Bof%2Bsalt-affected%2Bareas%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=L2hAXANN8QMJ&ei=OE9kYsHCFYySyASZk6HgCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=284092928329017391&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:L2hAXANN8QMJ:scholar.google.com/&scioq=Germplasm+and+management+strategies+for+enhancing+productivity+of+salt-affected+areas&hl=en&as_sdt=0,33",
+                "eprint_url": "https://cgspace.cgiar.org/bitstream/handle/10568/56165/IFWF2_proceedings_Volume%20II.pdf?sequence=1&isAllowed=y#page=153"
+            },
+            "processed_authors": [
+                "am ismail",
+                "mj thomson",
+                "t paris",
+                "rk singh",
+                "g gregorio",
+                "s haefele"
+            ]
+        },
+        {
+            "title": "Echocardiographic global longitudinal strain as a marker of myocardial fibrosis predicts outcomes in aortic stenosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "svepziAAAAAJ:eQOLeE2rZwMC",
+            "authors": "C Chin, TT Le, G Singh, J Yip, SC Chai, QW Yong, E Lee, D Yeo, E Tay, ...",
+            "publication": "European Heart Journal 42 (Supplement_1), ehab724. 1599, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Echocardiographic global longitudinal strain as a marker of myocardial fibrosis predicts outcomes in aortic stenosis",
+                    "author": [
+                        "C Chin",
+                        "TT Le",
+                        "G Singh",
+                        "J Yip",
+                        "SC Chai"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "European Heart \u2026",
+                    "abstract": "Background Left ventricular global longitudinal strain (LV-GLS) by speckle tracking echocardiography (STE) reflects intrinsic myocardial function, influenced by interstitial abnormalities. Cardiovascular magnetic resonance (CMR) detects myocardial fibrosis non-invasively, but it is limited for widespread use. We aim to establish LV-GLS as a marker of replacement myocardial fibrosis on CMR and validate the prognostic value of LV-GLS thresholds associated with fibrosis. Methods LV-GLS thresholds of replacement fibrosis"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://academic.oup.com/eurheartj/article-abstract/42/Supplement_1/ehab724.1599/6393099",
+                "author_id": [
+                    "n6wAnY8AAAAJ",
+                    "",
+                    "nK3RdOIAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:9z8pASei6goJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEchocardiographic%2Bglobal%2Blongitudinal%2Bstrain%2Bas%2Ba%2Bmarker%2Bof%2Bmyocardial%2Bfibrosis%2Bpredicts%2Boutcomes%2Bin%2Baortic%2Bstenosis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9z8pASei6goJ&ei=PE9kYofvHe-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:9z8pASei6goJ:scholar.google.com/&scioq=Echocardiographic+global+longitudinal+strain+as+a+marker+of+myocardial+fibrosis+predicts+outcomes+in+aortic+stenosis&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "c chin",
+                "tt le",
+                "gunjan singh",
+                "j yip",
+                "sc chai",
+                "qw yong",
+                "e lee",
+                "d yeo",
+                "e tay"
+            ]
+        },
+        {
+            "title": "Content Prioritization Based Self-Embedding for Image Restoration",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "svepziAAAAAJ:d1gkVwhDpl0C",
+            "authors": "G Singh, A Anjum, S Islam",
+            "publication": "7th International Conference on Signal Processing and Integrated Networks \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Content Prioritization Based Self-Embedding for Image Restoration",
+                    "author": [
+                        "G Singh",
+                        "A Anjum",
+                        "S Islam"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 7th International Conference \u2026",
+                    "abstract": "To deal with the trade-off between Self-Embedded Image Quality, Reconstruction Reference Quality and Tolerable Tampering Rate (TTR) for authentication into digital image authentication schemes, Content prioritization based selfembedding has been proposed in this paper. Image content is prioritized on a scale of 0 to 3 prior to performing the embedding. Self-embedding into each block would then be performed on the basis of its assigned priority. Higher the priority value of a block, lesser would be the embedded"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9071122/",
+                "author_id": [
+                    "svepziAAAAAJ",
+                    "QZQ0JuEAAAAJ",
+                    "b89nKTEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:27jrBWZ_MKkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DContent%2BPrioritization%2BBased%2BSelf-Embedding%2Bfor%2BImage%2BRestoration%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=27jrBWZ_MKkJ&ei=QE9kYo67MfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:27jrBWZ_MKkJ:scholar.google.com/&scioq=Content+Prioritization+Based+Self-Embedding+for+Image+Restoration&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "gunjan singh",
+                "a anjum",
+                "s islam"
+            ]
+        },
+        {
+            "title": "OWL2Bench: Towards a Customizable Benchmark for OWL 2 Reasoners",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "svepziAAAAAJ:2osOgNQ5qMEC",
+            "authors": "G Singh, A Kumar, K Bhagat, S Bhatia, R Mutharaju",
+            "publication": "ISWC (Demos/Industry), 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "OWL2Bench: Towards a Customizable Benchmark for OWL 2 Reasoners",
+                    "author": [
+                        "G Singh",
+                        "A Kumar",
+                        "K Bhagat",
+                        "S Bhatia"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "ISWC (Demos \u2026",
+                    "abstract": "In the past decade, there has been remarkable progress towards the development of reasoners 3 that involve expressive ontology languages such as OWL 2 [3]. However, they still do not scale well on expressive language profiles (OWL 2 DL). To build better quality reasoners, developers need to find and improve the performance bottlenecks of their existing systems [11]. A reasoner benchmark aids the reasoner developers to evaluate their system's performance and deal with the limitations. Furthermore, it paves the way for further"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://openreview.net/pdf?id=wRPLxfOJ-mf",
+                "author_id": [
+                    "svepziAAAAAJ",
+                    "",
+                    "Kgc3p5wAAAAJ",
+                    "8HVTWNkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:W2bTPtUg9BEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOWL2Bench:%2BTowards%2Ba%2BCustomizable%2BBenchmark%2Bfor%2BOWL%2B2%2BReasoners%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W2bTPtUg9BEJ&ei=RE9kYsa9G5LeyQTE46-QAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:W2bTPtUg9BEJ:scholar.google.com/&scioq=OWL2Bench:+Towards+a+Customizable+Benchmark+for+OWL+2+Reasoners&hl=en&as_sdt=0,33",
+                "eprint_url": "https://openreview.net/pdf?id=wRPLxfOJ-mf"
+            },
+            "processed_authors": [
+                "gunjan singh",
+                "a kumar",
+                "k bhagat",
+                "s bhatia",
+                "raghava mutharaju"
+            ]
+        },
+        {
+            "title": "Modelling of detention period of coal wagon rakes in medium capacity thermal power plants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "svepziAAAAAJ:IjCSPb-OGe4C",
+            "authors": "RK Yadav, GN Singh",
+            "publication": "International Journal of Management, IT and Engineering 9 (5), 83-99, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Modelling of detention period of coal wagon rakes in medium capacity thermal power plants",
+                    "author": [
+                        "RK Yadav",
+                        "GN Singh"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "International Journal of Management, IT \u2026",
+                    "abstract": "The function of any industrial unit largely depends on its material handling system. The material handling system of the unit primarily deals with receipt of raw materials from the source, in-house handling for their proper use and processing required, if any, delivery of the products to the distributors and the end users and carrying out bye products and waste materials/affluents to ecologically safer destination. The coal based thermal power plants, which lead production of effectively usable form and efficiently transmissible nature of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.indianjournals.com/ijor.aspx?target=ijor:ijmie&volume=9&issue=5&article=007",
+                "author_id": [
+                    "",
+                    "svepziAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:NbGfCWkR6XYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DModelling%2Bof%2Bdetention%2Bperiod%2Bof%2Bcoal%2Bwagon%2Brakes%2Bin%2Bmedium%2Bcapacity%2Bthermal%2Bpower%2Bplants%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NbGfCWkR6XYJ&ei=TU9kYoXdL4OEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:NbGfCWkR6XYJ:scholar.google.com/&scioq=Modelling+of+detention+period+of+coal+wagon+rakes+in+medium+capacity+thermal+power+plants&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "rk yadav",
+                "gn singh"
+            ]
+        },
+        {
+            "title": "Phosphorous Sorption as Affected by P Sources in Soils Varying in Organic Matter Content",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "svepziAAAAAJ:W7OEmFMy1HYC",
+            "authors": "G Singh, KN Sharma, D Kumar",
+            "publication": "ANNALS OF BIOLOGY 23 (1), 5, 2007",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2007",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Phosphorous Sorption as Affected by P Sources in Soils Varying in Organic Matter Content",
+                    "author": [
+                        "G Singh",
+                        "KN Sharma",
+                        "D Kumar"
+                    ],
+                    "pub_year": "2007",
+                    "venue": "ANNALS OF \u2026",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "_RClkA4AAAAJ",
+                    "",
+                    "1o6y0YMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:m38Qth0dgjMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPhosphorous%2BSorption%2Bas%2BAffected%2Bby%2BP%2BSources%2Bin%2BSoils%2BVarying%2Bin%2BOrganic%2BMatter%2BContent%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=m38Qth0dgjMJ&ei=WE9kYr69OfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "gunjan singh",
+                "kn sharma",
+                "d kumar"
+            ]
+        },
+        {
+            "title": "Topworking overgrown plum stock with Flordasun peach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "svepziAAAAAJ:YsMSGLbcyi4C",
+            "authors": "G Singh, KK Sharma",
+            "publication": "Punjab horticultural journal, 1978",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1978",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Topworking overgrown plum stock with Flordasun peach",
+                    "author": [
+                        "G Singh",
+                        "KK Sharma"
+                    ],
+                    "pub_year": "1978",
+                    "venue": "Punjab horticultural journal",
+                    "abstract": "Topworking overgrown plum stock with Flordasun peach  Topworking overgrown plum  stock with Flordasun peach [1978]  \"Topworking overgrown plum stock with Flordasun  peach\"@eng"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://agris.fao.org/agris-search/search.do?recordID=US201301390624",
+                "author_id": [
+                    "_RClkA4AAAAJ",
+                    "GUCicrUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:v3n12KtMmbQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTopworking%2Bovergrown%2Bplum%2Bstock%2Bwith%2BFlordasun%2Bpeach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=v3n12KtMmbQJ&ei=YE9kYuqbEcLZmQHnraWYCA&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "gunjan singh",
+                "kk sharma"
+            ]
+        },
+        {
+            "title": "TOWARDS INTEGRATING CONVENTIONAL AND MOLECULAR APPROACHES FOR DEVELOPING SALT TOLERANT RICE VARIETIES: AN INDIAN PERSPECTIVE",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "svepziAAAAAJ:Y0pCki6q_DkC",
+            "authors": "RK GAUTAM, RK SINGH, V VERMA, S SINGH, B PANESAR, NK SINGH, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "TOWARDS INTEGRATING CONVENTIONAL AND MOLECULAR APPROACHES FOR DEVELOPING SALT TOLERANT RICE VARIETIES: AN INDIAN \u2026",
+                    "author": [
+                        "RK GAUTAM",
+                        "RK SINGH",
+                        "V VERMA",
+                        "S SINGH"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    "Aqock6MAAAAJ",
+                    "",
+                    "VBj6NyUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CzUfIJjbnlwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTOWARDS%2BINTEGRATING%2BCONVENTIONAL%2BAND%2BMOLECULAR%2BAPPROACHES%2BFOR%2BDEVELOPING%2BSALT%2BTOLERANT%2BRICE%2BVARIETIES:%2BAN%2BINDIAN%2BPERSPECTIVE%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CzUfIJjbnlwJ&ei=bU9kYoX8PMLZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:CzUfIJjbnlwJ:scholar.google.com/&scioq=TOWARDS+INTEGRATING+CONVENTIONAL+AND+MOLECULAR+APPROACHES+FOR+DEVELOPING+SALT+TOLERANT+RICE+VARIETIES:+AN+INDIAN+PERSPECTIVE&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "rk gautam",
+                "rk singh",
+                "v verma",
+                "shikha singh",
+                "b panesar",
+                "nk singh"
+            ]
+        },
+        {
+            "title": "Chemical and Biological Sensors Non-Invasive Oxygen Determination in Intelligent Packaging Using a Smartphone.............. P. Escobedo Araque, I. P\u00e9rez de Vargas Sansalvador \u2026",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=svepziAAAAAJ&pagesize=100&citation_for_view=svepziAAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "svepziAAAAAJ:zYLM7Y9cAGgC",
+            "authors": "L Wang, W Lu, G Jing, T Cui, R Zafar, S Nawaz, G Singh, A d\u2019Alessandro, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Non-invasive oxygen determination in intelligent packaging using a smartphone",
+                    "author": [
+                        "PE Araque",
+                        "IMP de Vargas Sansalvador"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Sensors \u2026",
+                    "abstract": "for oxygen determination in intelligent packaging is proposed. In the presented scheme, an  oxygen  A smartphone is used for simultaneous excitation and reading of the membrane, thus"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8333790/",
+                "author_id": [
+                    "LUP3HWAAAAAJ",
+                    "L_ifJrgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-3fpfgqvzl4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DChemical%2Band%2BBiological%2BSensors%2BNon-Invasive%2BOxygen%2BDetermination%2Bin%2BIntelligent%2BPackaging%2BUsing%2Ba%2BSmartphone..............%2BP.%2BEscobedo%2BAraque,%2BI.%2BP%25C3%25A9rez%2Bde%2BVargas%2BSansalvador%2B%25E2%2580%25A6%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-3fpfgqvzl4J&ei=ck9kYsCADeiSy9YPp-OyiAE&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=6831590144381384699&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-3fpfgqvzl4J:scholar.google.com/&scioq=Chemical+and+Biological+Sensors+Non-Invasive+Oxygen+Determination+in+Intelligent+Packaging+Using+a+Smartphone..............+P.+Escobedo+Araque,+I.+P%C3%A9rez+de+Vargas+Sansalvador+%E2%80%A6&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "l wang",
+                "w lu",
+                "g jing",
+                "t cui",
+                "r zafar",
+                "s nawaz",
+                "gunjan singh",
+                "a d\u2019alessandro"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 12,
+                    "since_2017": 11
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2009,
+                "citations": 1
+            },
+            {
+                "year": 2010,
+                "citations": 4
+            },
+            {
+                "year": 2011,
+                "citations": 6
+            },
+            {
+                "year": 2012,
+                "citations": 1
+            }
+        ]
+    },
+    "co_authors": []
+}

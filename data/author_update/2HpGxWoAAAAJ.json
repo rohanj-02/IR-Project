@@ -1,0 +1,779 @@
+{
+    "search_metadata": {
+        "id": "62574cb15f22037a81e7c852",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/062878ac099d125b/62574cb15f22037a81e7c852.json",
+        "created_at": "2022-04-13 22:20:33 UTC",
+        "processed_at": "2022-04-13 22:20:33 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=2HpGxWoAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/062878ac099d125b/62574cb15f22037a81e7c852.html",
+        "total_time_taken": 0.64,
+        "total_articles": 14,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "2HpGxWoAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Neha Jain",
+        "affiliations": "PhD student, IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://sites.google.com/a/iiitd.ac.in/neha-jain/home",
+        "interests": [
+            {
+                "title": "Compressive sensing in wireless technologies",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:compressive_sensing_in_wireless_technologies",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acompressive_sensing_in_wireless_technologies"
+            },
+            {
+                "title": "Energy Harvesting",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:energy_harvesting",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aenergy_harvesting"
+            },
+            {
+                "title": "Cooperative Spectrum sharing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:cooperative_spectrum_sharing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acooperative_spectrum_sharing"
+            },
+            {
+                "title": "Massive MIMO",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:massive_mimo",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amassive_mimo"
+            },
+            {
+                "title": "5G",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:5g",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3A5g"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=2HpGxWoAAAAJ&citpid=4"
+    },
+    "articles": [
+        {
+            "title": "Energy harvesting and spectrum sharing protocol for wireless sensor networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "2HpGxWoAAAAJ:4JMBOYKVnBMC",
+            "authors": "N Jain, VA Bohara",
+            "publication": "IEEE Wireless Communications Letters 4 (6), 697-700, 2015",
+            "cited_by": {
+                "value": 53,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16329854517810282601",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16329854517810282601&engine=google_scholar&hl=en",
+                "cites_id": "16329854517810282601"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy harvesting and spectrum sharing protocol for wireless sensor networks",
+                    "author": [
+                        "N Jain",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "IEEE Wireless Communications Letters",
+                    "abstract": "In this letter, a novel approach for solving the power and spectrum issues in wireless sensor network (WSN) has been proposed. Typically, a deployed sensor node is programmed to periodically send the data to the central base station (CBS). Moreover, most of the sensor nodes are deployed in a hostile environment where replacing a power supply may not be feasible. In the proposed work, we intend to solve the dual problem of spectrum and power for WSN by utilizing techniques such as cooperative spectrum sharing (CSS) and RF (radio"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7286751/",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:acDjJypMn-IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Bharvesting%2Band%2Bspectrum%2Bsharing%2Bprotocol%2Bfor%2Bwireless%2Bsensor%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=acDjJypMn-IJ&ei=Tk5kYrCmMpGJmwGY-qmYDQ&json=",
+                "num_citations": 54,
+                "citedby_url": "/scholar?cites=16329854517810282601&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:acDjJypMn-IJ:scholar.google.com/&scioq=Energy+harvesting+and+spectrum+sharing+protocol+for+wireless+sensor+networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/Letter2015EHCSS.pdf"
+            }
+        },
+        {
+            "title": "iDEG: Integrated data and energy gathering framework for practical wireless sensor networks using compressive sensing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:maZDTaKrznsC",
+            "citation_id": "2HpGxWoAAAAJ:maZDTaKrznsC",
+            "authors": "N Jain, VA Bohara, A Gupta",
+            "publication": "IEEE Sensors Journal 19 (3), 1040-1051, 2018",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4073471502213000340",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4073471502213000340&engine=google_scholar&hl=en",
+                "cites_id": "4073471502213000340"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "iDEG: Integrated data and energy gathering framework for practical wireless sensor networks using compressive sensing",
+                    "author": [
+                        "N Jain",
+                        "VA Bohara",
+                        "A Gupta"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Sensors Journal",
+                    "abstract": "Minimizing the energy consumption through efficient data gathering as well as energy harvesting both are open research problems in the context of practical wireless sensor networks (WSNs). Although the number of approaches has been proposed to cater the above, they are limited in terms of computational complexity, energy efficiency, and the ease of implementation. In this paper, we propose an integrated data and energy gathering framework, named hereby as \u201ciDEG,\u201d for practical WSNs. The proposed work is based on"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8515268/",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "VWCf3JEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:lCwVxL_ghzgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DiDEG:%2BIntegrated%2Bdata%2Band%2Benergy%2Bgathering%2Bframework%2Bfor%2Bpractical%2Bwireless%2Bsensor%2Bnetworks%2Busing%2Bcompressive%2Bsensing%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lCwVxL_ghzgJ&ei=Uk5kYtqjAcLZmQHnraWYCA&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=4073471502213000340&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:lCwVxL_ghzgJ:scholar.google.com/&scioq=iDEG:+Integrated+data+and+energy+gathering+framework+for+practical+wireless+sensor+networks+using+compressive+sensing&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "A hybrid spectrum sharing protocol for energy harvesting wireless sensor nodes",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:r0BpntZqJG4C",
+            "citation_id": "2HpGxWoAAAAJ:r0BpntZqJG4C",
+            "authors": "M Peer, N Jain, VA Bohara",
+            "publication": "2016 IEEE 17th International Workshop on Signal Processing Advances in \u2026, 2016",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16402266788366396086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16402266788366396086&engine=google_scholar&hl=en",
+                "cites_id": "16402266788366396086"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A hybrid spectrum sharing protocol for energy harvesting wireless sensor nodes",
+                    "author": [
+                        "M Peer",
+                        "N Jain",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 IEEE 17th International \u2026",
+                    "abstract": "In this paper, we propose a hybrid time switching and power splitting spectrum sharing protocol for energy harvesting wireless sensor nodes. Specifically, we use an approach of simultaneous energy harvesting and spectrum access to alleviate the major concerns of wireless sensor nodes such as limited power and spectrum. In the developed framework, an energy constrained sensor node adopts a time switching and power splitting based relaying protocol to harvest energy and spectrum from primary user. In exchange, it helps the primary"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7536840/",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "2HpGxWoAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tirEt72OoOMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhybrid%2Bspectrum%2Bsharing%2Bprotocol%2Bfor%2Benergy%2Bharvesting%2Bwireless%2Bsensor%2Bnodes%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tirEt72OoOMJ&ei=V05kYpHbKZyO6rQP_qe3mAs&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=16402266788366396086&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tirEt72OoOMJ:scholar.google.com/&scioq=A+hybrid+spectrum+sharing+protocol+for+energy+harvesting+wireless+sensor+nodes&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "PCI-MDR: Missing data recovery in wireless sensor networks using partial canonical identity matrix",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "2HpGxWoAAAAJ:M3NEmzRMIkIC",
+            "authors": "N Jain, A Gupta, VA Bohara",
+            "publication": "IEEE Wireless Communications Letters 8 (3), 673-676, 2018",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5727612796310798883",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5727612796310798883&engine=google_scholar&hl=en",
+                "cites_id": "5727612796310798883"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "PCI-MDR: Missing data recovery in wireless sensor networks using partial canonical identity matrix",
+                    "author": [
+                        "N Jain",
+                        "A Gupta",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "IEEE Wireless Communications \u2026",
+                    "abstract": "Data loss in wireless sensor networks (WSNs) is quite prevalent. Since sensor nodes are employed for various critical applications, accurate recovery of missing data is important. Researchers have exploited different characteristics of WSN data, such as low rank, spatial, and temporal correlation for missing data recovery. However, the performance of existing methods is dependent on various factors. For instance, correct rank estimation is required for exploiting the low-rank behavior of WSNs, whereas correlation information among the nodes"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8540863/",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "VWCf3JEAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:I0IW932RfE8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPCI-MDR:%2BMissing%2Bdata%2Brecovery%2Bin%2Bwireless%2Bsensor%2Bnetworks%2Busing%2Bpartial%2Bcanonical%2Bidentity%2Bmatrix%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=I0IW932RfE8J&ei=Wk5kYsWWLIuKmgGY1YjABQ&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=5727612796310798883&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:I0IW932RfE8J:scholar.google.com/&scioq=PCI-MDR:+Missing+data+recovery+in+wireless+sensor+networks+using+partial+canonical+identity+matrix&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1810.03401"
+            }
+        },
+        {
+            "title": "Bit error rate and outage analysis of an interference cancellation technique for cooperative spectrum sharing cognitive radio systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "2HpGxWoAAAAJ:j3f4tGmQtD8C",
+            "authors": "N Jain, A Vashistha, VA Bohara",
+            "publication": "IET communications 10 (12), 1436-1443, 2016",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16254903354764167530",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16254903354764167530&engine=google_scholar&hl=en",
+                "cites_id": "16254903354764167530"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Bit error rate and outage analysis of an interference cancellation technique for cooperative spectrum sharing cognitive radio systems",
+                    "author": [
+                        "N Jain",
+                        "A Vashistha",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "IET communications",
+                    "abstract": "In this study, an overlay spectrum sharing scheme has been proposed for a cognitive radio system. To achieve the desired quality of service for the licenced (ie primary) system and spectrum access for unlicenced (ie secondary) system, a three-phase cooperative decode and forward relaying is used. Furthermore, space-time block coding is used in order to cancel the interference at primary as well as secondary receiver. It has been shown that the proposed scheme helps in achieving diversity gain of three and two for primary and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/iel7/4105970/7547493/07547517.pdf",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "26wZhtkAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:agkGn3oEleEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBit%2Berror%2Brate%2Band%2Boutage%2Banalysis%2Bof%2Ban%2Binterference%2Bcancellation%2Btechnique%2Bfor%2Bcooperative%2Bspectrum%2Bsharing%2Bcognitive%2Bradio%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=agkGn3oEleEJ&ei=Xk5kYqu_HZqSy9YP8pKNsAE&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=16254903354764167530&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:agkGn3oEleEJ:scholar.google.com/&scioq=Bit+error+rate+and+outage+analysis+of+an+interference+cancellation+technique+for+cooperative+spectrum+sharing+cognitive+radio+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/ocss.pdf"
+            }
+        },
+        {
+            "title": "Gender voice recognition through speech analysis with higher accuracy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "2HpGxWoAAAAJ:JV2RwH3_ST0C",
+            "authors": "N Jain, D Kaushik, A Majumdar",
+            "publication": "Proceedings of the 8th International Conference on Advance Computing and \u2026, 2014",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4412269596547910295",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4412269596547910295&engine=google_scholar&hl=en",
+                "cites_id": "4412269596547910295"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Gender voice recognition through speech analysis with higher accuracy",
+                    "author": [
+                        "N Jain",
+                        "D Kaushik",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Proceedings of the 8th International \u2026",
+                    "abstract": "Gender Voice recognition is actually a very important branch of research in the field of acoustics and speech processing. The human voice exhibits very interesting aspects which have been analyzed and discussed in this paper. This paper is about an investigation on speech signals to devise a gender classifier. Gender classification by speech analysis basically aims to predict the gender of the speaker by analyzing different parameters of the voice sample. A database consisting of 200 voice samples of celebrities, both male and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.academia.edu/download/34893189/final_report.pdf",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:l4p-I9KHOz0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGender%2Bvoice%2Brecognition%2Bthrough%2Bspeech%2Banalysis%2Bwith%2Bhigher%2Baccuracy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=l4p-I9KHOz0J&ei=YU5kYozwFu-Sy9YPs_mY8AM&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=4412269596547910295&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:l4p-I9KHOz0J:scholar.google.com/&scioq=Gender+voice+recognition+through+speech+analysis+with+higher+accuracy&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/34893189/final_report.pdf"
+            }
+        },
+        {
+            "title": "esampling: Energy harvesting adcs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:vDijr-p_gm4C",
+            "citation_id": "2HpGxWoAAAAJ:vDijr-p_gm4C",
+            "authors": "N Jain, N Shlezinger, B Tiwari, YC Eldar, A Gupta, VA Bohara, ...",
+            "publication": "arXiv preprint arXiv:2007.08275, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14591192291148166119",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14591192291148166119&engine=google_scholar&hl=en",
+                "cites_id": "14591192291148166119"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "esampling: Energy harvesting adcs",
+                    "author": [
+                        "N Jain",
+                        "N Shlezinger",
+                        "B Tiwari",
+                        "YC Eldar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "the concept of eSampling ADCs, which extend the structure of S/H ADCs without altering its   how S/H ADCs can be extended into eSampling ADCs which harvest energy in addition to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2007.08275",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "84Z9R2EAAAAJ",
+                    "",
+                    "vyX6kpwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5_NN0xRUfsoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Desampling:%2BEnergy%2Bharvesting%2Badcs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5_NN0xRUfsoJ&ei=ZU5kYuuTDLKO6rQPy-CRsA8&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=14591192291148166119&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5_NN0xRUfsoJ:scholar.google.com/&scioq=esampling:+Energy+harvesting+adcs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2007.08275"
+            }
+        },
+        {
+            "title": "Experimental results for energy harvesting by exploiting inherent inadequacies of sampling process for IoT applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:zLWjf1WUPmwC",
+            "citation_id": "2HpGxWoAAAAJ:zLWjf1WUPmwC",
+            "authors": "N Jain, NA Sah, VA Bohara, A Gupta",
+            "publication": "2020 IEEE International Conference on Communications Workshops (ICC \u2026, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4800354607839009959",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4800354607839009959&engine=google_scholar&hl=en",
+                "cites_id": "4800354607839009959"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Experimental results for energy harvesting by exploiting inherent inadequacies of sampling process for IoT applications",
+                    "author": [
+                        "N Jain",
+                        "NA Sah",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE International \u2026",
+                    "abstract": "Senor nodes either deployed for environment monitoring or health monitoring are battery operated, and thus energy constrained. This paper proposes a novel method for energy harvesting for the Internet of things (IoT) based applications by exploiting the inherent inadequacies of the sampling process. The sensor nodes generate a continuous-time signal corresponding to the sensed parameters, which sampled and digitized for further processing. However, the traditional sampling process discarded most of the input signal"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9145405/",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "qWHDl30AAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:p1wnHBVJnkIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExperimental%2Bresults%2Bfor%2Benergy%2Bharvesting%2Bby%2Bexploiting%2Binherent%2Binadequacies%2Bof%2Bsampling%2Bprocess%2Bfor%2BIoT%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=p1wnHBVJnkIJ&ei=aU5kYv2DBYuKmgGY1YjABQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=4800354607839009959&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:p1wnHBVJnkIJ:scholar.google.com/&scioq=Experimental+results+for+energy+harvesting+by+exploiting+inherent+inadequacies+of+sampling+process+for+IoT+applications&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "D2D user selection for simultaneous spectrum sharing and energy harvesting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:evX43VCCuoAC",
+            "citation_id": "2HpGxWoAAAAJ:evX43VCCuoAC",
+            "authors": "M Peer, VA Bohara, N Jain",
+            "publication": "arXiv preprint arXiv:1705.02138, 2017",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16755097658294655372",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16755097658294655372&engine=google_scholar&hl=en",
+                "cites_id": "16755097658294655372"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "D2D user selection for simultaneous spectrum sharing and energy harvesting",
+                    "author": [
+                        "M Peer",
+                        "VA Bohara",
+                        "N Jain"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "arXiv preprint arXiv:1705.02138",
+                    "abstract": "This paper presents a device-to-device (D2D) user selection protocol wherein multiple D2D pairs coexist with a cellular network. In the developed framework, certain D2D users harvest energy and share the spectrum of the cellular users by adopting a hybrid time switching and power splitting protocol. The D2D user which harvests the maximum energy and achieves the desired target rate for the cellular communication is selected to serve as a decode-and-forward (DF) relay for the cellular user. The proposed work analyzes the impact of increase"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1705.02138",
+                "author_id": [
+                    "ydUFaQIAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "2HpGxWoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jNmhQ4wQhugJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DD2D%2Buser%2Bselection%2Bfor%2Bsimultaneous%2Bspectrum%2Bsharing%2Band%2Benergy%2Bharvesting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jNmhQ4wQhugJ&ei=bU5kYtzLBqKUy9YP_JONiAY&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=16755097658294655372&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jNmhQ4wQhugJ:scholar.google.com/&scioq=D2D+user+selection+for+simultaneous+spectrum+sharing+and+energy+harvesting&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1705.02138"
+            }
+        },
+        {
+            "title": "Energy harvesting via analog-to-digital conversion",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:epqYDVWIO7EC",
+            "citation_id": "2HpGxWoAAAAJ:epqYDVWIO7EC",
+            "authors": "N Jain, N Shlezinger, YC Eldar, A Gupta, VA Bohara",
+            "publication": "2020 28th European Signal Processing Conference (EUSIPCO), 2299-2303, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13296026757364960646",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13296026757364960646&engine=google_scholar&hl=en",
+                "cites_id": "13296026757364960646"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy harvesting via analog-to-digital conversion",
+                    "author": [
+                        "N Jain",
+                        "N Shlezinger",
+                        "YC Eldar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2020 28th European \u2026",
+                    "abstract": "Analog-to-digital converters (ADCs) allow physical signals to be processed using digital hardware. A common ADC architecture is based on sample-and-hold (S/H) circuits, where the acquired signal is observed in repeated intervals of fixed duration, referred to as the sampling time, and is not utilized for the entire duration. In this paper, we extend the structure of S/H ADCs, allowing them to harvest energy from the observed signal by modifying the circuitry during hold time of the sampling process of an ADC. This harvested"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9287427/",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "84Z9R2EAAAAJ",
+                    "vyX6kpwAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:hs3T9OP5hLgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2Bharvesting%2Bvia%2Banalog-to-digital%2Bconversion%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hs3T9OP5hLgJ&ei=dE5kYoHfL42ymgHg1rfQDQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=13296026757364960646&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:hs3T9OP5hLgJ:scholar.google.com/&scioq=Energy+harvesting+via+analog-to-digital+conversion&hl=en&as_sdt=0,33",
+                "eprint_url": "https://eurasip.org/Proceedings/Eusipco/Eusipco2020/pdfs/0002299.pdf"
+            }
+        },
+        {
+            "title": "PCI-MF: Partial canonical identity and matrix factorization framework for channel estimation in mmwave massive mimo systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:uWiczbcajpAC",
+            "citation_id": "2HpGxWoAAAAJ:uWiczbcajpAC",
+            "authors": "N Jain, VA Bohara, A Gupta",
+            "publication": "IEEE Open Journal of Signal Processing 1, 135-145, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5945131665748851917",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5945131665748851917&engine=google_scholar&hl=en",
+                "cites_id": "5945131665748851917"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "PCI-MF: Partial canonical identity and matrix factorization framework for channel estimation in mmwave massive mimo systems",
+                    "author": [
+                        "N Jain",
+                        "VA Bohara",
+                        "A Gupta"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Open Journal of Signal \u2026",
+                    "abstract": "Beamforming using massive number of antennas in millimeter wave (mmWave) communication is a promising solution for providing gigabits-per-second data rates in cellular networks. However, perfect channel state information (CSI) estimation is a key requirement, which is not practically feasible in massive multiple-input-multiple-output (MIMO) systems. Hence, compressive sensing (CS) and matrix completion methods have been proposed in the literature to reduce the channel estimation overhead. In this paper, a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9178952/",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "VWCf3JEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zfziV8BZgVIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPCI-MF:%2BPartial%2Bcanonical%2Bidentity%2Band%2Bmatrix%2Bfactorization%2Bframework%2Bfor%2Bchannel%2Bestimation%2Bin%2Bmmwave%2Bmassive%2Bmimo%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zfziV8BZgVIJ&ei=ek5kYpetOYOEmgHx-5DADA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5945131665748851917&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:zfziV8BZgVIJ:scholar.google.com/&scioq=PCI-MF:+Partial+canonical+identity+and+matrix+factorization+framework+for+channel+estimation+in+mmwave+massive+mimo+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/8782710/8818473/09178952.pdf"
+            }
+        },
+        {
+            "title": "TS-MC: Two stage matrix completion algorithm for wireless sensor networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:ZuybSZzF8UAC",
+            "citation_id": "2HpGxWoAAAAJ:ZuybSZzF8UAC",
+            "authors": "N Jain, A Gupta, VA Bohara",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216078891750209930",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14216078891750209930&engine=google_scholar&hl=en",
+                "cites_id": "14216078891750209930"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "TS-MC: Two stage matrix completion algorithm for wireless sensor networks",
+                    "author": [
+                        "N Jain",
+                        "A Gupta",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "ICASSP 2019-2019 IEEE \u2026",
+                    "abstract": "Wireless sensor network (WSN) data is prone to huge losses and corruption. Hence, the existing matrix completion algorithms experience high estimation errors in such scenarios. Therefore, a robust matrix completion algorithm is required for WSN data to meet the above challenges. This paper proposes a robust\" two stage matrix completion (TS-MC)\" algorithm to recover data from missing and corrupted values. The proposed TS-MC algorithm consists of two stages. For the first stage, two different methods have been proposed for recovering"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8682390/",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "VWCf3JEAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ijmzmW6oScUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTS-MC:%2BTwo%2Bstage%2Bmatrix%2Bcompletion%2Balgorithm%2Bfor%2Bwireless%2Bsensor%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ijmzmW6oScUJ&ei=f05kYqG7EJGJmwGY-qmYDQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=14216078891750209930&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ijmzmW6oScUJ:scholar.google.com/&scioq=TS-MC:+Two+stage+matrix+completion+algorithm+for+wireless+sensor+networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Cooperative spectrum sharing using transmit antenna selection for cognitive radio systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "2HpGxWoAAAAJ:iH-uZ7U-co4C",
+            "authors": "N Jain, S Sharma, A Vashistha, VA Bohara, N Gupta",
+            "publication": "International Conference on Cognitive Radio Oriented Wireless Networks, 780-789, 2015",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5111028196228682362",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5111028196228682362&engine=google_scholar&hl=en",
+                "cites_id": "5111028196228682362"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Cooperative spectrum sharing using transmit antenna selection for cognitive radio systems",
+                    "author": [
+                        "N Jain",
+                        "S Sharma",
+                        "A Vashistha",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "\u2026 Conference on Cognitive \u2026",
+                    "abstract": "In this paper, a spectrum sharing scheme that utilizes the two-phase cooperative decode-and-forward relaying protocol is proposed. The cooperation between primary (ie licensed) and secondary (ie unlicensed) system helps in achieving the desired target rate for the primary system and spectrum access for cognitive (ie secondary) system. In the proposed scheme, secondary transmitter which is equipped with multiple antennas uses transmit antenna selection to improve the primary's performance by reducing the interference level of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-24540-9_65",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "qUCavcMAAAAJ",
+                    "26wZhtkAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:elI3qRAF7kYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCooperative%2Bspectrum%2Bsharing%2Busing%2Btransmit%2Bantenna%2Bselection%2Bfor%2Bcognitive%2Bradio%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=elI3qRAF7kYJ&ei=jE5kYtz7FoOEmgHx-5DADA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5111028196228682362&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:elI3qRAF7kYJ:scholar.google.com/&scioq=Cooperative+spectrum+sharing+using+transmit+antenna+selection+for+cognitive+radio+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/74701617/Cooperative_Spectrum_Sharing_using_Trans20211115-32353-1nes2jx.pdf"
+            }
+        },
+        {
+            "title": "Sparse Signal Recovery and Energy Harvesting for Potential 5G Applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2HpGxWoAAAAJ&pagesize=100&citation_for_view=2HpGxWoAAAAJ:k_IJM867U9cC",
+            "citation_id": "2HpGxWoAAAAJ:k_IJM867U9cC",
+            "authors": "N Jain, VA Bohara, A Gupta",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Sparse Signal Recovery and Energy Harvesting for Potential 5G Applications",
+                    "author": [
+                        "N Jain",
+                        "VA Bohara",
+                        "A Gupta"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the 24th Annual \u2026",
+                    "abstract": "In this paper, a new protocol for simultaneous wireless information and power transfer (SWIPT) has been proposed, which randomly switches the signal for information decoding (ID) and energy harvesting (EH). However, the information decoder recovers the complete data by utilizing the sparse behaviour of the real world signal, thus not compromising the system performance, unlike the conventional SWIPT protocols such as time switching and power splitting."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3241539.3267750",
+                "author_id": [
+                    "2HpGxWoAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "VWCf3JEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ywAdKQ3dKwYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSparse%2BSignal%2BRecovery%2Band%2BEnergy%2BHarvesting%2Bfor%2BPotential%2B5G%2BApplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ywAdKQ3dKwYJ&ei=kk5kYuG-AY2ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ywAdKQ3dKwYJ:scholar.google.com/&scioq=Sparse+Signal+Recovery+and+Energy+Harvesting+for+Potential+5G+Applications&hl=en&as_sdt=0,33"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 103,
+                    "since_2017": 95
+                }
+            },
+            {
+                "h_index": {
+                    "all": 5,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 7
+            },
+            {
+                "year": 2017,
+                "citations": 8
+            },
+            {
+                "year": 2018,
+                "citations": 20
+            },
+            {
+                "year": 2019,
+                "citations": 24
+            },
+            {
+                "year": 2020,
+                "citations": 22
+            },
+            {
+                "year": 2021,
+                "citations": 18
+            },
+            {
+                "year": 2022,
+                "citations": 3
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=2HpGxWoAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Vivek Bohara",
+            "link": "https://scholar.google.com/citations?user=6oR0lYkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6oR0lYkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6oR0lYkAAAAJ",
+            "affiliations": "Associate Professor IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6oR0lYkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Anubha Gupta",
+            "link": "https://scholar.google.com/citations?user=VWCf3JEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=VWCf3JEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "VWCf3JEAAAAJ",
+            "affiliations": "IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=VWCf3JEAAAAJ&citpid=1"
+        },
+        {
+            "name": "Ankush Vashistha",
+            "link": "https://scholar.google.com/citations?user=26wZhtkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=26wZhtkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "26wZhtkAAAAJ",
+            "affiliations": "Researcher, NTU, Singapore",
+            "email": "Verified email at ntu.edu.sg",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Nir Shlezinger",
+            "link": "https://scholar.google.com/citations?user=84Z9R2EAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=84Z9R2EAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "84Z9R2EAAAAJ",
+            "affiliations": "Ben-Gurion University of the Negev",
+            "email": "Verified email at post.bgu.ac.il",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=84Z9R2EAAAAJ&citpid=1"
+        },
+        {
+            "name": "Yonina Eldar",
+            "link": "https://scholar.google.com/citations?user=vyX6kpwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=vyX6kpwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "vyX6kpwAAAAJ",
+            "affiliations": "Math and Computer Science, Weizmann",
+            "email": "Verified email at weizmann.ac.il",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=vyX6kpwAAAAJ&citpid=4"
+        },
+        {
+            "name": "Naveen Gupta",
+            "link": "https://scholar.google.com/citations?user=lgQc0ssAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lgQc0ssAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "lgQc0ssAAAAJ",
+            "affiliations": "Asst. Professor, BITS Pilani, Goa campus",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lgQc0ssAAAAJ&citpid=6"
+        },
+        {
+            "name": "Shubha Sharma",
+            "link": "https://scholar.google.com/citations?user=qUCavcMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=qUCavcMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "qUCavcMAAAAJ",
+            "affiliations": "Nanyang Technological University, Singapore",
+            "email": "Verified email at ntu.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=qUCavcMAAAAJ&citpid=3"
+        }
+    ]
+}

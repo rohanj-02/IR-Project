@@ -1,0 +1,2389 @@
+{
+    "search_metadata": {
+        "id": "6256e28c92564109f43d85f3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a4b802617e1b1b9d/6256e28c92564109f43d85f3.json",
+        "created_at": "2022-04-13 14:47:40 UTC",
+        "processed_at": "2022-04-13 14:47:40 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=FKuAjBcAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a4b802617e1b1b9d/6256e28c92564109f43d85f3.html",
+        "total_time_taken": 0.84,
+        "total_articles": 49,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "FKuAjBcAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Sayan Basu Roy",
+        "affiliations": "Assistant Professor, ECE, IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://sites.google.com/iiitd.ac.in/dr-sayan-basu-roy/home",
+        "interests": [
+            {
+                "title": "Adaptive Control",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:adaptive_control",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aadaptive_control"
+            },
+            {
+                "title": "Learning Control",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:learning_control",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alearning_control"
+            },
+            {
+                "title": "Nonlinear Control",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:nonlinear_control",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anonlinear_control"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=FKuAjBcAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Combined MRAC for unknown MIMO LTI systems with parameter convergence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "FKuAjBcAAAAJ:Y0pCki6q_DkC",
+            "authors": "SB Roy, S Bhasin, IN Kar",
+            "publication": "IEEE Transactions on Automatic Control 63 (1), 283-290, 2017",
+            "cited_by": {
+                "value": 85,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7214361945396922349",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7214361945396922349&engine=google_scholar&hl=en",
+                "cites_id": "7214361945396922349"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Combined MRAC for unknown MIMO LTI systems with parameter convergence",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Transactions on Automatic \u2026",
+                    "abstract": "This work proposes a novel combined model reference adaptive controller (MRAC) for unknown multi input multi output (MIMO) LTI systems with guaranteed parameter convergence. An online plant-parameter identification method is developed in conjunction with a direct control-parameter update law to ensure exponential convergence (after a tunable finite time) of tracking error as well as plant and control-parameter estimation errors to zero. Unlike the restrictive persistence of excitation (PE) condition required in classical"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7974796/",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:7cd6TPePHmQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCombined%2BMRAC%2Bfor%2Bunknown%2BMIMO%2BLTI%2Bsystems%2Bwith%2Bparameter%2Bconvergence%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7cd6TPePHmQJ&ei=auViYufpOvmQ6rQPzKCxuAY&json=",
+                "num_citations": 85,
+                "citedby_url": "/scholar?cites=7214361945396922349&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7cd6TPePHmQJ:scholar.google.com/&scioq=Combined+MRAC+for+unknown+MIMO+LTI+systems+with+parameter+convergence&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Adaptive\u2013robust control of Euler\u2013Lagrange systems with linearly parametrizable uncertainty bound",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "FKuAjBcAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Roy, SB Roy, IN Kar",
+            "publication": "IEEE Transactions on Control Systems Technology 26 (5), 1842-1850, 2017",
+            "cited_by": {
+                "value": 77,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3481170698932001922",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3481170698932001922&engine=google_scholar&hl=en",
+                "cites_id": "3481170698932001922"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive\u2013robust control of Euler\u2013Lagrange systems with linearly parametrizable uncertainty bound",
+                    "author": [
+                        "S Roy",
+                        "SB Roy",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Transactions on Control Systems \u2026",
+                    "abstract": "This brief proposes a new adaptive-robust control (ARC) architecture for a class of uncertain Euler-Lagrange (EL) systems where the upper bound of the uncertainty satisfies linear in the parameters structure. Conventional ARC strategies either require structural knowledge of the system or presume that the overall uncertainties or its time derivative are norm bounded by a constant. Due to the unmodeled dynamics and modeling imperfection, true structural knowledge of the system is not always available. Furthermore, for the class of systems under"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8016628/",
+                "author_id": [
+                    "tUKoUgMAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ghxXgE6aTzAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%25E2%2580%2593robust%2Bcontrol%2Bof%2BEuler%25E2%2580%2593Lagrange%2Bsystems%2Bwith%2Blinearly%2Bparametrizable%2Buncertainty%2Bbound%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ghxXgE6aTzAJ&ei=beViYqOFM--Sy9YPmNWywAs&json=",
+                "num_citations": 77,
+                "citedby_url": "/scholar?cites=3481170698932001922&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ghxXgE6aTzAJ:scholar.google.com/&scioq=Adaptive%E2%80%93robust+control+of+Euler%E2%80%93Lagrange+systems+with+linearly+parametrizable+uncertainty+bound&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1708.01442"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "sb roy",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Overcoming the underestimation and overestimation problems in adaptive sliding mode control",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:Zph67rFs4hoC",
+            "citation_id": "FKuAjBcAAAAJ:Zph67rFs4hoC",
+            "authors": "S Roy, SB Roy, J Lee, S Baldi",
+            "publication": "IEEE/ASME Transactions on Mechatronics 24 (5), 2031-2039, 2019",
+            "cited_by": {
+                "value": 48,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1673218785324587087",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1673218785324587087&engine=google_scholar&hl=en",
+                "cites_id": "1673218785324587087"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Overcoming the underestimation and overestimation problems in adaptive sliding mode control",
+                    "author": [
+                        "S Roy",
+                        "SB Roy",
+                        "J Lee",
+                        "S Baldi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE/ASME Transactions on \u2026",
+                    "abstract": "Underestimation and overestimation problems are commonly observed in conventional adaptive sliding mode control (ASMC). These problems refer to the fact that the adaptive controller gain unnecessarily increases when the states are approaching the sliding surface (overestimation) or improperly decreases when the states are getting far from it (underestimation). In this paper, we propose a novel ASMC strategy that overcomes such issues. In contrast to the state of the art, the proposed strategy is effective even when an a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8771172/",
+                "author_id": [
+                    "tUKoUgMAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "FJkKPJ4AAAAJ",
+                    "ok1eCzUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:T1jIwp53OBcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOvercoming%2Bthe%2Bunderestimation%2Band%2Boverestimation%2Bproblems%2Bin%2Badaptive%2Bsliding%2Bmode%2Bcontrol%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=T1jIwp53OBcJ&ei=cOViYuLmMoyuyASD3KfABw&json=",
+                "num_citations": 48,
+                "citedby_url": "/scholar?cites=1673218785324587087&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:T1jIwp53OBcJ:scholar.google.com/&scioq=Overcoming+the+underestimation+and+overestimation+problems+in+adaptive+sliding+mode+control&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "sb roy",
+                "j lee",
+                "s baldi"
+            ]
+        },
+        {
+            "title": "A UGES switched MRAC architecture using initial excitation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:qjMakFHDy7sC",
+            "citation_id": "FKuAjBcAAAAJ:qjMakFHDy7sC",
+            "authors": "SB Roy, S Bhasin, IN Kar",
+            "publication": "IFAC-PapersOnLine 50 (1), 7044-7051, 2017",
+            "cited_by": {
+                "value": 29,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7543622281441113639",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7543622281441113639&engine=google_scholar&hl=en",
+                "cites_id": "7543622281441113639"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A UGES switched MRAC architecture using initial excitation",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IFAC-PapersOnLine",
+                    "abstract": "This work proposes a novel switched model reference adaptive control (MRAC) architecture, ensuring parameter convergence without requiring the assumption of persistence of excitation (PE). Previous results which ensure parameter convergence with PE suffer from the disadvantage that the condition cannot be verified online as it relies on the future behaviour of the signal. Further, the PE requirement is often imposed by adding perturbation in the reference/input signal, which may deteriorate tracking performance, and thus renders"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S2405896317318840",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:J_YERX9UsGgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BUGES%2Bswitched%2BMRAC%2Barchitecture%2Busing%2Binitial%2Bexcitation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=J_YERX9UsGgJ&ei=c-ViYsWNNMLZmQHc1ovQAg&json=",
+                "num_citations": 29,
+                "citedby_url": "/scholar?cites=7543622281441113639&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:J_YERX9UsGgJ:scholar.google.com/&scioq=A+UGES+switched+MRAC+architecture+using+initial+excitation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Parameter convergence via a novel PI-like composite adaptive controller for uncertain Euler-Lagrange systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "FKuAjBcAAAAJ:UeHWp8X0CEIC",
+            "authors": "SB Roy, S Bhasin, IN Kar",
+            "publication": "2016 IEEE 55th Conference on Decision and Control (CDC), 1261-1266, 2016",
+            "cited_by": {
+                "value": 26,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7855426180160364040",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7855426180160364040&engine=google_scholar&hl=en",
+                "cites_id": "7855426180160364040"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Parameter convergence via a novel PI-like composite adaptive controller for uncertain Euler-Lagrange systems",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 IEEE 55th Conference on \u2026",
+                    "abstract": "This work proposes a novel PI-like composite adaptive control architecture for the uncertain Euler-Lagrange (EL) systems. The composite adaptive law is strategically designed to be proportional to the parameter estimation error in addition to the tracking error, leading to parameter convergence. Unlike conventional adaptive control laws which require the regressor function to be persistently exciting (PE) for parameter convergence, the proposed method guarantees parameter convergence from a milder initially exciting (IE) condition on"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7798439/",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:CB7Ds30UBG0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DParameter%2Bconvergence%2Bvia%2Ba%2Bnovel%2BPI-like%2Bcomposite%2Badaptive%2Bcontroller%2Bfor%2Buncertain%2BEuler-Lagrange%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CB7Ds30UBG0J&ei=duViYvLmNIyuyASD3KfABw&json=",
+                "num_citations": 26,
+                "citedby_url": "/scholar?cites=7855426180160364040&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:CB7Ds30UBG0J:scholar.google.com/&scioq=Parameter+convergence+via+a+novel+PI-like+composite+adaptive+controller+for+uncertain+Euler-Lagrange+systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Composite adaptive control of uncertain Euler\u2010Lagrange systems with parameter convergence without PE condition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "FKuAjBcAAAAJ:_FxGoFyzp5QC",
+            "authors": "S Basu Roy, S Bhasin, IN Kar",
+            "publication": "Asian Journal of Control 22 (1), 1-10, 2020",
+            "cited_by": {
+                "value": 21,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5117938655912280086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5117938655912280086&engine=google_scholar&hl=en",
+                "cites_id": "5117938655912280086"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Composite adaptive control of uncertain Euler\u2010Lagrange systems with parameter convergence without PE condition",
+                    "author": [
+                        "S Basu Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Asian Journal of Control",
+                    "abstract": "This work proposes a novel composite adaptive controller for uncertain Euler\u2010Lagrange (EL) systems. The composite adaptive law is strategically designed to be proportional to the parameter estimation error in addition to the tracking error, leading to parameter convergence. Unlike conventional adaptive control laws which require the regressor function to be persistently exciting (PE) for parameter convergence, the proposed method guarantees parameter convergence from a milder initially exciting (IE) condition on the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1877",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:FkDkbxeSBkcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComposite%2Badaptive%2Bcontrol%2Bof%2Buncertain%2BEuler%25E2%2580%2590Lagrange%2Bsystems%2Bwith%2Bparameter%2Bconvergence%2Bwithout%2BPE%2Bcondition%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FkDkbxeSBkcJ&ei=euViYoKjDJGJmwGIxre4DA&json=",
+                "num_citations": 21,
+                "citedby_url": "/scholar?cites=5117938655912280086&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FkDkbxeSBkcJ:scholar.google.com/&scioq=Composite+adaptive+control+of+uncertain+Euler%E2%80%90Lagrange+systems+with+parameter+convergence+without+PE+condition&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "in kar"
+            ]
+        },
+        {
+            "title": "A new design methodology of adaptive sliding mode control for a class of nonlinear systems with state dependent uncertainty bound",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "FKuAjBcAAAAJ:LkGwnXOMwfcC",
+            "authors": "S Roy, SB Roy, IN Kar",
+            "publication": "2018 15th International Workshop on Variable Structure Systems (VSS), 414-419, 2018",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8279192764888454363",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8279192764888454363&engine=google_scholar&hl=en",
+                "cites_id": "8279192764888454363"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A new design methodology of adaptive sliding mode control for a class of nonlinear systems with state dependent uncertainty bound",
+                    "author": [
+                        "S Roy",
+                        "SB Roy",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 15th International Workshop on \u2026",
+                    "abstract": "In this paper, a new Adaptive Sliding Mode Control (ASMC) framework is proposed for the tracking control of a class of uncertain nonlinear systems where system states are present explicitly in the upper bound of the overall (or lumped) system uncertainty. Conventional ASMC strategies presume that either the overall (or lumped) uncertainty of the system or its time derivative is norm bounded by a constant. However, such assumption restricts the evaluation of the states a priori for the class of systems that has been considered in this"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8460363/",
+                "author_id": [
+                    "tUKoUgMAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:2xQpYvSZ5XIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bnew%2Bdesign%2Bmethodology%2Bof%2Badaptive%2Bsliding%2Bmode%2Bcontrol%2Bfor%2Ba%2Bclass%2Bof%2Bnonlinear%2Bsystems%2Bwith%2Bstate%2Bdependent%2Buncertainty%2Bbound%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2xQpYvSZ5XIJ&ei=feViYuySIKmTy9YPsu-CuAM&json=",
+                "num_citations": 20,
+                "citedby_url": "/scholar?cites=8279192764888454363&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2xQpYvSZ5XIJ:scholar.google.com/&scioq=A+new+design+methodology+of+adaptive+sliding+mode+control+for+a+class+of+nonlinear+systems+with+state+dependent+uncertainty+bound&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "sb roy",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Initial excitation-based iterative algorithm for approximate optimal control of completely unknown LTI systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "FKuAjBcAAAAJ:hqOjcs7Dif8C",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "publication": "IEEE Transactions on Automatic Control 64 (12), 5230-5237, 2019",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12009317718159983311",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12009317718159983311&engine=google_scholar&hl=en",
+                "cites_id": "12009317718159983311"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Initial excitation-based iterative algorithm for approximate optimal control of completely unknown LTI systems",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Transactions on Automatic \u2026",
+                    "abstract": "This paper proposes an approximate/adaptive optimal control (AOC) design for completely unknown continuous-time linear time invariant systems, without requiring the restrictive persistence of excitation (PE) condition for parameter convergence. The proposed AOC algorithm utilizes two layers of filtering-the first layer filters strategically eliminate the need for state derivative information, while the second layer filters provide suitable algebraic relations for iteratively obtaining the optimal policy under a milder online-verifiable initial excitation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8695788/",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zwK7KdaqqaYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInitial%2Bexcitation-based%2Biterative%2Balgorithm%2Bfor%2Bapproximate%2Boptimal%2Bcontrol%2Bof%2Bcompletely%2Bunknown%2BLTI%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zwK7KdaqqaYJ&ei=geViYr_NLY2ymgHnvp6ICA&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=12009317718159983311&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:zwK7KdaqqaYJ:scholar.google.com/&scioq=Initial+excitation-based+iterative+algorithm+for+approximate+optimal+control+of+completely+unknown+LTI+systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Direct adaptive optimal control for uncertain continuous-time LTI systems without persistence of excitation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "FKuAjBcAAAAJ:IjCSPb-OGe4C",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "publication": "IEEE Transactions on Circuits and Systems II: Express Briefs 65 (12), 1993-1997, 2018",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13653668636841015753",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13653668636841015753&engine=google_scholar&hl=en",
+                "cites_id": "13653668636841015753"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Direct adaptive optimal control for uncertain continuous-time LTI systems without persistence of excitation",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on Circuits and Systems II: Express \u2026",
+                    "abstract": "This brief presents a novel direct adaptive optimal controller design for uncertain continuous-time linear time-invariant systems. The optimal gain parameter, obtained from the Riccati equation, is continuously estimated without using knowledge of the system dynamics, rather information rich past, and current data along the system trajectory is used for parameter estimation. This approach guarantees parameter convergence to the close neighborhood of the optimal controller by relaxing the restrictive persistence of excitation condition, typically"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8274940/",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:yfnM80iTe70J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDirect%2Badaptive%2Boptimal%2Bcontrol%2Bfor%2Buncertain%2Bcontinuous-time%2BLTI%2Bsystems%2Bwithout%2Bpersistence%2Bof%2Bexcitation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yfnM80iTe70J&ei=huViYrbJEI6pywSdh6agAg&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=13653668636841015753&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yfnM80iTe70J:scholar.google.com/&scioq=Direct+adaptive+optimal+control+for+uncertain+continuous-time+LTI+systems+without+persistence+of+excitation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Data-driven adaptive LQR for completely unknown LTI systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "FKuAjBcAAAAJ:d1gkVwhDpl0C",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "publication": "IFAC-PapersOnLine 50 (1), 4156-4161, 2017",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3588684959426388999",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3588684959426388999&engine=google_scholar&hl=en",
+                "cites_id": "3588684959426388999"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Data-driven adaptive LQR for completely unknown LTI systems",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IFAC-PapersOnLine",
+                    "abstract": "In this paper, a data-driven on-policy optimal control design is proposed for continuous-time linear time invariant (LTI) systems with completely unknown dynamics. An online system identifier and control gain parameter estimator, which use past and current data together with standard gradient descent update laws, facilitate the design of an adaptive optimal controller that guarantees parameter convergence without the need of persistence of excitation (PE). Unlike the classical approach of enforcing the restrictive PE condition on the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S2405896317312582",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:B6Rl-fSRzTEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData-driven%2Badaptive%2BLQR%2Bfor%2Bcompletely%2Bunknown%2BLTI%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=B6Rl-fSRzTEJ&ei=lOViYtX1G5GJmwGIxre4DA&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=3588684959426388999&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:B6Rl-fSRzTEJ:scholar.google.com/&scioq=Data-driven+adaptive+LQR+for+completely+unknown+LTI+systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Memory-based data-driven MRAC architecture ensuring parameter convergence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "FKuAjBcAAAAJ:zYLM7Y9cAGgC",
+            "authors": "SB Roy, S Bhasin, IN Kar",
+            "publication": "arXiv preprint arXiv:1602.00482, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13981452578164379611",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13981452578164379611&engine=google_scholar&hl=en",
+                "cites_id": "13981452578164379611"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Memory-based data-driven MRAC architecture ensuring parameter convergence",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "arXiv preprint arXiv:1602.00482",
+                    "abstract": "Convergence of controller parameters in standard model reference adaptive control (MRAC) requires the system states to be persistently exciting (PE), a restrictive condition to be verified online. A recent data-driven approach, concurrent learning, uses information-rich past data concurrently with the standard parameter update laws to guarantee parameter convergence without the need of the PE condition. This method guarantees exponential convergence of both the tracking and the controller parameter estimation errors to zero"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1602.00482",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:2w91_QoZCMIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMemory-based%2Bdata-driven%2BMRAC%2Barchitecture%2Bensuring%2Bparameter%2Bconvergence%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2w91_QoZCMIJ&ei=o-ViYoOQO_mQ6rQPzKCxuAY&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=13981452578164379611&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2w91_QoZCMIJ:scholar.google.com/&scioq=Memory-based+data-driven+MRAC+architecture+ensuring+parameter+convergence&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1602.00482"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "in kar"
+            ]
+        },
+        {
+            "title": "A singularity-free hierarchical nonlinear quad-rotorcraft control using saturation and barrier lyapunov function",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:_kc_bZDykSQC",
+            "citation_id": "FKuAjBcAAAAJ:_kc_bZDykSQC",
+            "authors": "R Dasgupta, SB Roy, OS Patil, S Bhasin",
+            "publication": "2019 American Control Conference (ACC), 3075-3080, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13469570961566018426",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13469570961566018426&engine=google_scholar&hl=en",
+                "cites_id": "13469570961566018426"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A singularity-free hierarchical nonlinear quad-rotorcraft control using saturation and barrier lyapunov function",
+                    "author": [
+                        "R Dasgupta",
+                        "SB Roy",
+                        "OS Patil"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 American Control \u2026",
+                    "abstract": "A singularity-free nonlinear hierarchical control framework is proposed in this paper for control of a quad-rotorcraft unmanned aerial vehicle (UAV). A saturation control scheme with hyperbolic tangent function is designed for the position loop controller to ensure non-singular command attitude extraction and the effect of nonlinear coupling between the position and attitude subsystem is subsequently analyzed. The problem of sign-ambiguity commonly appears in reference attitude is overcome using arc tangent function by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8814632/",
+                "author_id": [
+                    "63ds8_oAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "EtkfNQMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:eisPuWyH7boJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bsingularity-free%2Bhierarchical%2Bnonlinear%2Bquad-rotorcraft%2Bcontrol%2Busing%2Bsaturation%2Band%2Bbarrier%2Blyapunov%2Bfunction%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=eisPuWyH7boJ&ei=p-ViYragEamTy9YPsu-CuAM&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=13469570961566018426&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:eisPuWyH7boJ:scholar.google.com/&scioq=A+singularity-free+hierarchical+nonlinear+quad-rotorcraft+control+using+saturation+and+barrier+lyapunov+function&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r dasgupta",
+                "sayan basu roy",
+                "os patil",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "memory-efficient filter-based approximate optimal regulation of unknown LTI systems using initial excitation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:Se3iqnhoufwC",
+            "citation_id": "FKuAjBcAAAAJ:Se3iqnhoufwC",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "publication": "2018 IEEE Conference on Decision and Control (CDC), 1638-1643, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15883502191207218744",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15883502191207218744&engine=google_scholar&hl=en",
+                "cites_id": "15883502191207218744"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "memory-efficient filter-based approximate optimal regulation of unknown LTI systems using initial excitation",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE Conference on Decision \u2026",
+                    "abstract": "This paper proposes a memory-efficient approximate/adaptive optimal control (AOC) design of completely unknown continuous-time (CT) linear time invariant (LTI) systems, without requiring the restrictive persistence of excitation (PE) condition for parameter convergence. The AOC algorithm utilizes two layers of filtering-the first layer filters strategically eliminate the need for state derivative information, while the second layer filters provide suitable algebraic relations for iteratively obtaining the optimal policy under a milder online-verifiable"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8619001/",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OH4LqBaJbdwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dmemory-efficient%2Bfilter-based%2Bapproximate%2Boptimal%2Bregulation%2Bof%2Bunknown%2BLTI%2Bsystems%2Busing%2Binitial%2Bexcitation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OH4LqBaJbdwJ&ei=quViYp_vK5yO6rQP-viEEA&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=15883502191207218744&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:OH4LqBaJbdwJ:scholar.google.com/&scioq=memory-efficient+filter-based+approximate+optimal+regulation+of+unknown+LTI+systems+using+initial+excitation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Switched MRAC with improved performance using semi-initial excitation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:WF5omc3nYNoC",
+            "citation_id": "FKuAjBcAAAAJ:WF5omc3nYNoC",
+            "authors": "SB Roy, S Bhasin",
+            "publication": "2018 Annual American Control Conference (ACC), 74-79, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8785434842746841489",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8785434842746841489&engine=google_scholar&hl=en",
+                "cites_id": "8785434842746841489"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Switched MRAC with improved performance using semi-initial excitation",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 Annual American Control Conference \u2026",
+                    "abstract": "This work generalizes the recently developed initial excitation (IE) based adaptive control by introducing the notion of semi-initial excitation (semi-IE), a still relaxed version of IE. Typically, classical adaptive controllers guarantee Lyapunov stability of the overall error dynamics (tracking error+ parameter estimation error) and asymptotic convergence of tracking error to zero, while requiring a restrictive condition of persistence of excitation (PE) for parameter convergence. The authors' recent work on a new adaptive control architecture"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8431588/",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:kelDN3Ei7HkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSwitched%2BMRAC%2Bwith%2Bimproved%2Bperformance%2Busing%2Bsemi-initial%2Bexcitation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kelDN3Ei7HkJ&ei=sOViYr7VCZWMy9YPt8OamA0&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=8785434842746841489&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:kelDN3Ei7HkJ:scholar.google.com/&scioq=Switched+MRAC+with+improved+performance+using+semi-initial+excitation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Memory-efficient filter based novel policy iteration technique for adaptive LQR",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "FKuAjBcAAAAJ:eQOLeE2rZwMC",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "publication": "2018 Annual American Control Conference (ACC), 4963-4968, 2018",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5001645074538815292",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5001645074538815292&engine=google_scholar&hl=en",
+                "cites_id": "5001645074538815292"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Memory-efficient filter based novel policy iteration technique for adaptive LQR",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 Annual American Control \u2026",
+                    "abstract": "This paper proposes a novel memory-efficient double-filtered policy iteration (PI) algorithm for adaptive optimal control of continuous-time (CT) linear time invariant (LTI) systems. The first layer filters strategically eliminate the need for state derivative information, while the second layer filters provide suitable algebraic relation for solving the intermediate policies under the excitation assumption. Unlike past literature, the proposed method does not require memory intensive delayed-window integrals and intelligent data-storage, and hence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8431061/",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:PN93CLJpaUUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMemory-efficient%2Bfilter%2Bbased%2Bnovel%2Bpolicy%2Biteration%2Btechnique%2Bfor%2Badaptive%2BLQR%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PN93CLJpaUUJ&ei=teViYtmuCIOEmgH1zZjACQ&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=5001645074538815292&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PN93CLJpaUUJ:scholar.google.com/&scioq=Memory-efficient+filter+based+novel+policy+iteration+technique+for+adaptive+LQR&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Policy iteration-based indirect adaptive optimal control for completely unknown continuous-time LTI systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "FKuAjBcAAAAJ:u5HHmVD_uO8C",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "publication": "2017 IEEE Symposium Series on Computational Intelligence (SSCI), 1-7, 2017",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2339654438164286182",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2339654438164286182&engine=google_scholar&hl=en",
+                "cites_id": "2339654438164286182"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Policy iteration-based indirect adaptive optimal control for completely unknown continuous-time LTI systems",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 IEEE Symposium Series on \u2026",
+                    "abstract": "This paper proposes a novel indirect adaptive optimal controller (AOC) for completely unknown continuous-time (CT) linear time invariant (LTI) systems using the policy iteration (PI) technique. The algorithm builds on the Kleinman's method of iteratively solving the algebraic Riccati equation (ARE). However, the actual system and control matrices information, required by the Kleinman's algorithm, is replaced by their CT online estimates using uniform sampling. A gradient-based online system identifier is developed using a low"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8285349/",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5sryw1AfeCAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPolicy%2Biteration-based%2Bindirect%2Badaptive%2Boptimal%2Bcontrol%2Bfor%2Bcompletely%2Bunknown%2Bcontinuous-time%2BLTI%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5sryw1AfeCAJ&ei=uuViYvSTLLKO6rQPxdeOqA4&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=2339654438164286182&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5sryw1AfeCAJ:scholar.google.com/&scioq=Policy+iteration-based+indirect+adaptive+optimal+control+for+completely+unknown+continuous-time+LTI+systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Robust gradient-based adaptive control of nonlinearly parametrized plants",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "FKuAjBcAAAAJ:YsMSGLbcyi4C",
+            "authors": "SB Roy, S Bhasin, IN Kar",
+            "publication": "IEEE control systems letters 1 (2), 352-357, 2017",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18415050869620011983",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18415050869620011983&engine=google_scholar&hl=en",
+                "cites_id": "18415050869620011983"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robust gradient-based adaptive control of nonlinearly parametrized plants",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE control systems letters",
+                    "abstract": "Most of the contributions in adaptive control literature assume that the system dynamics is linearly parametrizable, and a certainty equivalence principle is exploited to guarantee global stability and asymptotic convergence of tracking error to zero. Although linear-in-the-parameters (LIP) assumption is reasonable for a large class of dynamics, there exists a considerable number of real world systems, involving complex dynamics, where nonlinear parametrizations are inevitable. Previous research has shown that classical gradient-based"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7947188/",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:z_Ny5DJnj_8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobust%2Bgradient-based%2Badaptive%2Bcontrol%2Bof%2Bnonlinearly%2Bparametrized%2Bplants%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=z_Ny5DJnj_8J&ei=v-ViYsryOpyO6rQP-viEEA&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=18415050869620011983&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:z_Ny5DJnj_8J:scholar.google.com/&scioq=Robust+gradient-based+adaptive+control+of+nonlinearly+parametrized+plants&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Robustness analysis of initial excitation based adaptive control",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:mVmsd5A6BfQC",
+            "citation_id": "FKuAjBcAAAAJ:mVmsd5A6BfQC",
+            "authors": "SB Roy, S Bhasin",
+            "publication": "2019 IEEE 58th Conference on Decision and Control (CDC), 7055-7062, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16849599662507726145",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16849599662507726145&engine=google_scholar&hl=en",
+                "cites_id": "16849599662507726145"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Robustness analysis of initial excitation based adaptive control",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE 58th Conference on Decision \u2026",
+                    "abstract": "This work studies the robustness property of the recently proposed initial excitation (IE) based adaptive controllers in the presence of unmodeled bounded disturbance in the dynamics. The IE-based adaptive controllers have been shown to guarantee parameter convergence without requiring the restrictive persistence of excitation (PE) condition, typically required in classical adaptive controllers for parameter convergence. Unlike classical approaches, the IE-based adaptive controller ensures exponential convergence of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9029970/",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QZVQu57N1ekJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRobustness%2Banalysis%2Bof%2Binitial%2Bexcitation%2Bbased%2Badaptive%2Bcontrol%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QZVQu57N1ekJ&ei=xeViYu2bAu-Sy9YPmNWywAs&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=16849599662507726145&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QZVQu57N1ekJ:scholar.google.com/&scioq=Robustness+analysis+of+initial+excitation+based+adaptive+control&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Novel model reference adaptive control architecture using semi\u2010initial excitation\u2010based switched parameter estimator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "FKuAjBcAAAAJ:YOwf2qJgpHMC",
+            "authors": "S Basu Roy, S Bhasin",
+            "publication": "International Journal of Adaptive Control and Signal Processing 33 (12 \u2026, 2019",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17401881272557092647",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17401881272557092647&engine=google_scholar&hl=en",
+                "cites_id": "17401881272557092647"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Novel model reference adaptive control architecture using semi\u2010initial excitation\u2010based switched parameter estimator",
+                    "author": [
+                        "S Basu Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026 Journal of Adaptive Control and Signal \u2026",
+                    "abstract": "This paper is a generalization of the recently developed techniques of initial excitation (IE)\u2013based adaptive control with an introduction to the definition of semi\u2010initial excitation (semi\u2010IE), a still more relaxed notion than IE. Classical adaptive controllers typically ensure Lyapunov stability of the extended error dynamics (tracking error+ parameter estimation error) and asymptotic tracking, while requiring a stringent condition of persistence of excitation (PE) for parameter convergence. Of late, the authors have proposed a new"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.3046",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:J79JetHmf_EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNovel%2Bmodel%2Breference%2Badaptive%2Bcontrol%2Barchitecture%2Busing%2Bsemi%25E2%2580%2590initial%2Bexcitation%25E2%2580%2590based%2Bswitched%2Bparameter%2Bestimator%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=J79JetHmf_EJ&ei=zeViYqL9CJGJmwGIxre4DA&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=17401881272557092647&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:J79JetHmf_EJ:scholar.google.com/&scioq=Novel+model+reference+adaptive+control+architecture+using+semi%E2%80%90initial+excitation%E2%80%90based+switched+parameter+estimator&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Lyapunov-based hierarchical control design of a quad-rotorcraft with singularity avoidance",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "FKuAjBcAAAAJ:ULOm3_A8WrAC",
+            "authors": "R Dasgupta, SB Roy, S Bhasin",
+            "publication": "2019 18th European Control Conference (ECC), 2707-2712, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11388475144835276115",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11388475144835276115&engine=google_scholar&hl=en",
+                "cites_id": "11388475144835276115"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lyapunov-based hierarchical control design of a quad-rotorcraft with singularity avoidance",
+                    "author": [
+                        "R Dasgupta",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 18th European Control \u2026",
+                    "abstract": "A hierarchical framework is proposed for tracking control of a quad-rotorcraft. A nonlinear position controller commands the required thrust to move the vehicle along the reference trajectory while a nonlinear attitude controller computes the torque to achieve the desired orientation. The underlying principle behind hierarchical control is to design a thrust input such that the vehicle tracks the desired position and compute guided attitude from the thrust input so that designed rotor torques drives the vehicle orientation to the desired one. A"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8796162/",
+                "author_id": [
+                    "63ds8_oAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:U51FNc79C54J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLyapunov-based%2Bhierarchical%2Bcontrol%2Bdesign%2Bof%2Ba%2Bquad-rotorcraft%2Bwith%2Bsingularity%2Bavoidance%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=U51FNc79C54J&ei=0uViYqWZFoOEmgH1zZjACQ&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=11388475144835276115&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:U51FNc79C54J:scholar.google.com/&scioq=Lyapunov-based+hierarchical+control+design+of+a+quad-rotorcraft+with+singularity+avoidance&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r dasgupta",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "An EEG-based cognitive failure detection in driving using two-stage motor intension classifier",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "FKuAjBcAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "A Saha, SB Roy, A Konar, R Janarthanan",
+            "publication": "Proceedings of The 2014 International Conference on Control, Instrumentation \u2026, 2014",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14143811642445872533",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14143811642445872533&engine=google_scholar&hl=en",
+                "cites_id": "14143811642445872533"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An EEG-based cognitive failure detection in driving using two-stage motor intension classifier",
+                    "author": [
+                        "A Saha",
+                        "SB Roy",
+                        "A Konar"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "Proceedings of The \u2026",
+                    "abstract": "Cognitive failure of drivers during driving becomes nowadays the most alarming issue for traffic fatalities, and hence, it is important to intend correct motor actions during driving to avoid accidents. This paper proposes a novel two-stage motor intension classifier to detect the correct motor planning of the drivers during car driving. Common spatial pattern filters are introduced here for feature extraction as well as artifact removal from the raw electroencephalographic signals. Experiments undertaken further confirm that the basic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/6959084/",
+                "author_id": [
+                    "lrXiTkkAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "s1F23CAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:lT0FbsDpSMQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2BEEG-based%2Bcognitive%2Bfailure%2Bdetection%2Bin%2Bdriving%2Busing%2Btwo-stage%2Bmotor%2Bintension%2Bclassifier%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lT0FbsDpSMQJ&ei=2OViYv-uNoySyATlkbrQCA&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=14143811642445872533&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:lT0FbsDpSMQJ:scholar.google.com/&scioq=An+EEG-based+cognitive+failure+detection+in+driving+using+two-stage+motor+intension+classifier&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/55551087/CIEC2014.pdf"
+            },
+            "processed_authors": [
+                "a saha",
+                "sayan basu roy",
+                "a konar",
+                "r janarthanan"
+            ]
+        },
+        {
+            "title": "Barrier lyapunov function based trajectory tracking controller for autonomous vehicles with guaranteed safety bounds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:L8Ckcad2t8MC",
+            "citation_id": "FKuAjBcAAAAJ:L8Ckcad2t8MC",
+            "authors": "Y Kumar, SB Roy, PB Sujit",
+            "publication": "2020 International Conference on Unmanned Aircraft Systems (ICUAS), 722-728, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7138743997578645014",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7138743997578645014&engine=google_scholar&hl=en",
+                "cites_id": "7138743997578645014"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Barrier lyapunov function based trajectory tracking controller for autonomous vehicles with guaranteed safety bounds",
+                    "author": [
+                        "Y Kumar",
+                        "SB Roy",
+                        "PB Sujit"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 International Conference on \u2026",
+                    "abstract": "Accurate trajectory tracking is essential in many applications involving autonomous vehicles. However, due to the coupled nonlinear dynamics of the vehicle and external disturbances, this may not be the case. This paper presents a Barrier Lyapunov Function (BLF) based trajectory tracking controller design technique for autonomous vehicles with task-specific constrained state requirements. A BLF candidate is introduced based on the constraints and using the Lyapunov direct method a controller is designed which guarantees that the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9214007/",
+                "author_id": [
+                    "9LEfPQ4AAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "qqwyAwoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Fo4g1tfpEWMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBarrier%2Blyapunov%2Bfunction%2Bbased%2Btrajectory%2Btracking%2Bcontroller%2Bfor%2Bautonomous%2Bvehicles%2Bwith%2Bguaranteed%2Bsafety%2Bbounds%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Fo4g1tfpEWMJ&ei=4-ViYrWgD4yuyASD3KfABw&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7138743997578645014&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Fo4g1tfpEWMJ:scholar.google.com/&scioq=Barrier+lyapunov+function+based+trajectory+tracking+controller+for+autonomous+vehicles+with+guaranteed+safety+bounds&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "y kumar",
+                "sayan basu roy",
+                "pb sujit"
+            ]
+        },
+        {
+            "title": "A singularity-free robust hierarchical quad-rotorcraft control exploiting first order drag effects",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "FKuAjBcAAAAJ:3fE2CSJIrl8C",
+            "authors": "R Dasgupta, SB Roy, S Bhasin",
+            "publication": "2019 IEEE Aerospace Conference, 1-20, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9004765970461502388",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9004765970461502388&engine=google_scholar&hl=en",
+                "cites_id": "9004765970461502388"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A singularity-free robust hierarchical quad-rotorcraft control exploiting first order drag effects",
+                    "author": [
+                        "R Dasgupta",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Aerospace \u2026",
+                    "abstract": "Dynamic response and performance of a quad-rotorcraft is influenced mostly by first order drag-like effects over a wide envelope of operating conditions, however, they are hard to model. A robust controller is designed to achieve satisfactory tracking performance in the presence of drag effects considering them as nonlinear model uncertainties in the dynamics. Majority of the work on robust stabilization is for fully actuated attitude and altitude subsystem where the coupling between position and attitude systems is not considered"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8741653/",
+                "author_id": [
+                    "63ds8_oAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tCvi2vBa93wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bsingularity-free%2Brobust%2Bhierarchical%2Bquad-rotorcraft%2Bcontrol%2Bexploiting%2Bfirst%2Border%2Bdrag%2Beffects%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tCvi2vBa93wJ&ei=5-ViYruaLpLeyQTms5KQBg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=9004765970461502388&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tCvi2vBa93wJ:scholar.google.com/&scioq=A+singularity-free+robust+hierarchical+quad-rotorcraft+control+exploiting+first+order+drag+effects&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r dasgupta",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "A switched adaptive observer design without persistence of excitation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:5nxA0vEk-isC",
+            "citation_id": "FKuAjBcAAAAJ:5nxA0vEk-isC",
+            "authors": "A Katiyar, SB Roy, S Bhasin",
+            "publication": "2019 Fifth Indian Control Conference (ICC), 318-323, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7712302402017686542",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7712302402017686542&engine=google_scholar&hl=en",
+                "cites_id": "7712302402017686542"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A switched adaptive observer design without persistence of excitation",
+                    "author": [
+                        "A Katiyar",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 Fifth Indian Control \u2026",
+                    "abstract": "An adaptive observer is proposed using a switched parameter estimator which requires a mild initial excitation (IE) condition on the regressor. Unlike traditional adaptive observer designs which need a stringent persistence of excitation (PE) condition on the regressor for convergence of states and the unknown system parameters, IE is less restrictive. Unlike PE, the IE condition is online verifiable, since it does not rely on the future behavior of the signal. A two-layer low-pass filter design is proposed, where the first-layer provides a parametrized"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8715558/",
+                "author_id": [
+                    "TB1dsP4AAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:DvSnUCyaB2sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bswitched%2Badaptive%2Bobserver%2Bdesign%2Bwithout%2Bpersistence%2Bof%2Bexcitation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DvSnUCyaB2sJ&ei=9eViYoShFJWMy9YPt8OamA0&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=7712302402017686542&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:DvSnUCyaB2sJ:scholar.google.com/&scioq=A+switched+adaptive+observer+design+without+persistence+of+excitation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a katiyar",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Relaxing persistence of excitation for parameter convergence in adaptive control: an initial excitation based approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:UebtZRa9Y70C",
+            "citation_id": "FKuAjBcAAAAJ:UebtZRa9Y70C",
+            "authors": "SB Roy",
+            "publication": "IIT, Delhi, 2019",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15275940147538387261",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15275940147538387261&engine=google_scholar&hl=en",
+                "cites_id": "15275940147538387261"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Relaxing persistence of excitation for parameter convergence in adaptive control: an initial excitation based approach",
+                    "author": [
+                        "SB Roy"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "Classical adaptive controllers typically guarantee global Lyapunov stability (in the  extended state space including tracking and parameter estimation error), and asymptotic  convergence of tracking error to zero, however, parameter convergence is only ensured if a  restrictive condition of persistence of excitation (PE) is satisfied by the regressor signal. The  PE condition is stringent since it depends on the future behaviour of the signal, while making  it difficult to be verified online. Typically, a  This dissertation proposes a novel variant of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://eprint.iitd.ac.in/bitstream/handle/2074/8067/TH-5852.pdf?sequence=1",
+                "author_id": [
+                    "FKuAjBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:PWEn-KAK_9MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRelaxing%2Bpersistence%2Bof%2Bexcitation%2Bfor%2Bparameter%2Bconvergence%2Bin%2Badaptive%2Bcontrol:%2Ban%2Binitial%2Bexcitation%2Bbased%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PWEn-KAK_9MJ&ei=-eViYoKXIcLZmQHc1ovQAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=15275940147538387261&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PWEn-KAK_9MJ:scholar.google.com/&scioq=Relaxing+persistence+of+excitation+for+parameter+convergence+in+adaptive+control:+an+initial+excitation+based+approach&hl=en&as_sdt=0,33",
+                "eprint_url": "http://eprint.iitd.ac.in/bitstream/handle/2074/8067/TH-5852.pdf?sequence=1"
+            },
+            "processed_authors": [
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Closed-loop reference model based distributed model reference adaptive control for multi-agent systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "FKuAjBcAAAAJ:ZeXyd9-uunAC",
+            "authors": "R Goel, SB Roy",
+            "publication": "2021 American Control Conference (ACC), 1082-1087, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5736127157560544378",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5736127157560544378&engine=google_scholar&hl=en",
+                "cites_id": "5736127157560544378"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Closed-loop reference model based distributed model reference adaptive control for multi-agent systems",
+                    "author": [
+                        "R Goel",
+                        "SB Roy"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 American Control Conference (ACC)",
+                    "abstract": "This paper confluences ideas from distributed model reference adaptive control (MRAC) architecture for multi-agent systems and closed-loop reference model (CRM) based MRAC algorithm. The concept of CRM is recently proposed in literature for single-agent MRAC problems, where the reference model (leader) gets feedback from the plant (agent/follower) to facilitate improved transient performance. This work coins the concept of CRM based distributed MRAC, where it is assumed that the leader/reference model is connected only to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9483063/",
+                "author_id": [
+                    "UcvbFvoAAAAJ",
+                    "FKuAjBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:egzeLELRmk8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClosed-loop%2Breference%2Bmodel%2Bbased%2Bdistributed%2Bmodel%2Breference%2Badaptive%2Bcontrol%2Bfor%2Bmulti-agent%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=egzeLELRmk8J&ei=_eViYvTzHJWMy9YPt8OamA0&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=5736127157560544378&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:egzeLELRmk8J:scholar.google.com/&scioq=Closed-loop+reference+model+based+distributed+model+reference+adaptive+control+for+multi-agent+systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r goel",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Initial excitation based adaptive observer with multiple switching",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "FKuAjBcAAAAJ:Wp0gIr-vW9MC",
+            "authors": "A Katiyar, SB Roy, S Bhasin",
+            "publication": "2019 IEEE 58th Conference on Decision and Control (CDC), 2910-2915, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14532316740393994597",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14532316740393994597&engine=google_scholar&hl=en",
+                "cites_id": "14532316740393994597"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Initial excitation based adaptive observer with multiple switching",
+                    "author": [
+                        "A Katiyar",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE 58th Conference on \u2026",
+                    "abstract": "Adaptive observer design deals with online estimation of states using input-output information of a dynamical system in the presence of parametric uncertainty in the dynamics. It works with the principle of simultaneous estimation of states and the uncertain parameters using suitable online update routines to ensure stability of the estimation error dynamics. Conventional adaptive observers rely on the richness of input-output signals to satisfy the persistence of excitation (PE) condition for parameter convergence. The PE condition is"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9029872/",
+                "author_id": [
+                    "TB1dsP4AAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ZYmlchQprckJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DInitial%2Bexcitation%2Bbased%2Badaptive%2Bobserver%2Bwith%2Bmultiple%2Bswitching%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZYmlchQprckJ&ei=AuZiYvTWG5WMy9YPt8OamA0&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=14532316740393994597&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ZYmlchQprckJ:scholar.google.com/&scioq=Initial+excitation+based+adaptive+observer+with+multiple+switching&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a katiyar",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Collaborative system identification via consensus-based novel pi-like parameter estimator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "FKuAjBcAAAAJ:qxL8FJ1GzNcC",
+            "authors": "T Garg, SB Roy",
+            "publication": "2019 IEEE Symposium Series on Computational Intelligence (SSCI), 1285-1291, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6172752100419593894",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6172752100419593894&engine=google_scholar&hl=en",
+                "cites_id": "6172752100419593894"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Collaborative system identification via consensus-based novel pi-like parameter estimator",
+                    "author": [
+                        "T Garg",
+                        "SB Roy"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Symposium Series on \u2026",
+                    "abstract": "This work proposes a consensus-based novel PI-like parameter estimator for collaborative system identification. Conventional online parameter estimation algorithms, which are used for system identification, require a restrictive condition of persistence of excitation (PE) for the estimates to converge to the true parameters. Some recent works have shown that collaborative system identification using multiple agents can relax the PE condition to a milder condition of collective persistence of excitation (C-PE) for parameter convergence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9002750/",
+                "author_id": [
+                    "",
+                    "FKuAjBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pmYOqFQFqlUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCollaborative%2Bsystem%2Bidentification%2Bvia%2Bconsensus-based%2Bnovel%2Bpi-like%2Bparameter%2Bestimator%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pmYOqFQFqlUJ&ei=CeZiYpGLI--Sy9YPmNWywAs&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=6172752100419593894&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pmYOqFQFqlUJ:scholar.google.com/&scioq=Collaborative+system+identification+via+consensus-based+novel+pi-like+parameter+estimator&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "t garg",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Distributed composite adaptive synchronization of multiple uncertain Euler-Lagrange systems using cooperative initial excitation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:IWHjjKOFINEC",
+            "citation_id": "FKuAjBcAAAAJ:IWHjjKOFINEC",
+            "authors": "T Garg, SB Roy",
+            "publication": "2020 59th IEEE Conference on Decision and Control (CDC), 5816-5821, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9234662189845241256",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9234662189845241256&engine=google_scholar&hl=en",
+                "cites_id": "9234662189845241256"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distributed composite adaptive synchronization of multiple uncertain Euler-Lagrange systems using cooperative initial excitation",
+                    "author": [
+                        "T Garg",
+                        "SB Roy"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 59th IEEE Conference on Decision and \u2026",
+                    "abstract": "This work proposes a distributed composite adaptive synchronization algorithm for multiple uncertain EulerLagrange (EL) systems, where parameter convergence is achieved under a relaxed mathematical condition as compared to the state-of-the-art. Classical adaptive controllers require an analytical condition, called persistence of excitation (PE), to ensure parameter convergence, which results in better transient performance and robustness to disturbance. The PE condition is extended to Cooperative-PE (C-PE) condition for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9303732/",
+                "author_id": [
+                    "",
+                    "FKuAjBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qN10llUcKIAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistributed%2Bcomposite%2Badaptive%2Bsynchronization%2Bof%2Bmultiple%2Buncertain%2BEuler-Lagrange%2Bsystems%2Busing%2Bcooperative%2Binitial%2Bexcitation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qN10llUcKIAJ&ei=E-ZiYs77D--Sy9YPmNWywAs&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=9234662189845241256&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qN10llUcKIAJ:scholar.google.com/&scioq=Distributed+composite+adaptive+synchronization+of+multiple+uncertain+Euler-Lagrange+systems+using+cooperative+initial+excitation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "t garg",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "A Non-singular Hierarchical Trajectory Tracking Control of a Quadrotor without Attitude Rate Measurement",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:9ZlFYXVOiuMC",
+            "citation_id": "FKuAjBcAAAAJ:9ZlFYXVOiuMC",
+            "authors": "R Dasgupta, SB Roy, S Bhasin",
+            "publication": "2020 European Control Conference (ECC), 1921-1928, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17050588278963409484",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17050588278963409484&engine=google_scholar&hl=en",
+                "cites_id": "17050588278963409484"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A Non-singular Hierarchical Trajectory Tracking Control of a Quadrotor without Attitude Rate Measurement",
+                    "author": [
+                        "R Dasgupta",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 European Control \u2026",
+                    "abstract": "A hierarchical tracking controller of a quadrotorcraft is proposed where a non-singular attitude tracking is achieved without measuring attitude rate of the vehicle. A differential filter that avoids the need for measurement of attitude rate is used in the design and asymptotic convergence of tracking error is obtained. The overall control design follows a control hierarchy where the position and attitude controller is developed considering the effect of nonlinear coupling between the position and attitude dynamics."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9143598/",
+                "author_id": [
+                    "63ds8_oAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TJINq7Pbn-wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2BNon-singular%2BHierarchical%2BTrajectory%2BTracking%2BControl%2Bof%2Ba%2BQuadrotor%2Bwithout%2BAttitude%2BRate%2BMeasurement%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TJINq7Pbn-wJ&ei=G-ZiYt69FoyuyASD3KfABw&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=17050588278963409484&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:TJINq7Pbn-wJ:scholar.google.com/&scioq=A+Non-singular+Hierarchical+Trajectory+Tracking+Control+of+a+Quadrotor+without+Attitude+Rate+Measurement&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r dasgupta",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Combined cooperative adaptive cruise control using collective initial excitation based distributed parameter estimator",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "FKuAjBcAAAAJ:R3hNpaxXUhUC",
+            "authors": "T Garg, SB Roy",
+            "publication": "IFAC-PapersOnLine 53 (2), 13855-13862, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7395058895180134908",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7395058895180134908&engine=google_scholar&hl=en",
+                "cites_id": "7395058895180134908"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Combined cooperative adaptive cruise control using collective initial excitation based distributed parameter estimator",
+                    "author": [
+                        "T Garg",
+                        "SB Roy"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IFAC-PapersOnLine",
+                    "abstract": "In cooperative adaptive cruise control (CACC), autonomous vehicles are grouped into a string of platoon and, the main objective is to automatically adapt their speed using on-board sensors and communication with the preceding vehicle to maintain a desired inter-vehicle distance. Cruise control is achieved in the presence of parametric uncertainty in the vehicle dynamics using principles of adaptive control. This work proposes a novel combined CACC strategy for an uncertain homogeneous platoon with guaranteed parameter convergence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S2405896320312416",
+                "author_id": [
+                    "",
+                    "FKuAjBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_PlNbOKGoGYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCombined%2Bcooperative%2Badaptive%2Bcruise%2Bcontrol%2Busing%2Bcollective%2Binitial%2Bexcitation%2Bbased%2Bdistributed%2Bparameter%2Bestimator%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_PlNbOKGoGYJ&ei=H-ZiYtmoLJLeyQTms5KQBg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=7395058895180134908&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_PlNbOKGoGYJ:scholar.google.com/&scioq=Combined+cooperative+adaptive+cruise+control+using+collective+initial+excitation+based+distributed+parameter+estimator&hl=en&as_sdt=0,33",
+                "eprint_url": "http://ifatwww.et.uni-magdeburg.de/ifac2020/media/pdfs/3508.pdf"
+            },
+            "processed_authors": [
+                "t garg",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Barrier Lyapunov Function Based Controller Design for Euler-Lagrange Systems with Reduced Control Effort",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:7PzlFSSx8tAC",
+            "citation_id": "FKuAjBcAAAAJ:7PzlFSSx8tAC",
+            "authors": "T Garg, SB Roy",
+            "publication": "IFAC-PapersOnLine 53 (1), 459-464, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=678015085531988314",
+                "serpapi_link": "https://serpapi.com/search.json?cites=678015085531988314&engine=google_scholar&hl=en",
+                "cites_id": "678015085531988314"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Barrier Lyapunov Function Based Controller Design for Euler-Lagrange Systems with Reduced Control Effort",
+                    "author": [
+                        "T Garg",
+                        "SB Roy"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IFAC-PapersOnLine",
+                    "abstract": "In this paper, a novel nonlinear controller is designed for Euler-Lagrange (EL) systems while satisfying user-defined safety-constraints in position variables. The EL systems, which are highly popular for modeling a variety of non-linear mechanical plants like aircraft, spacecraft, quad-rotors, robotic manipulators, etc., critically demand safety-constraint satisfaction during trajectory tracking applications. Barrier Lyapunov Function (BLF) is widely used for systematically designing the controller to prevent safety-constraint violation during trajectory"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S2405896320300963",
+                "author_id": [
+                    "",
+                    "FKuAjBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WoF9xSDLaAkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBarrier%2BLyapunov%2BFunction%2BBased%2BController%2BDesign%2Bfor%2BEuler-Lagrange%2BSystems%2Bwith%2BReduced%2BControl%2BEffort%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WoF9xSDLaAkJ&ei=JeZiYuiVA4ySyATlkbrQCA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=678015085531988314&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WoF9xSDLaAkJ:scholar.google.com/&scioq=Barrier+Lyapunov+Function+Based+Controller+Design+for+Euler-Lagrange+Systems+with+Reduced+Control+Effort&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "t garg",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Supplement to \u201cInitial excitation based iterative algorithm for approximate optimal control of completely unknown LTI systems\u201d in IEEE Transaction on Automatic Control",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "FKuAjBcAAAAJ:kNdYIx-mwKoC",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7766682183795195637",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7766682183795195637&engine=google_scholar&hl=en",
+                "cites_id": "7766682183795195637"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Initial excitation-based iterative algorithm for approximate optimal control of completely unknown LTI systems",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Transactions on Automatic \u2026",
+                    "abstract": "This paper proposes an approximate/adaptive optimal control (AOC) design for completely unknown continuous-time linear time invariant systems, without requiring the restrictive persistence of excitation (PE) condition for parameter convergence. The proposed AOC algorithm utilizes two layers of filtering-the first layer filters strategically eliminate the need for state derivative information, while the second layer filters provide suitable algebraic relations for iteratively obtaining the optimal policy under a milder online-verifiable initial excitation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8695788/",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:zwK7KdaqqaYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSupplement%2Bto%2B%25E2%2580%259CInitial%2Bexcitation%2Bbased%2Biterative%2Balgorithm%2Bfor%2Bapproximate%2Boptimal%2Bcontrol%2Bof%2Bcompletely%2Bunknown%2BLTI%2Bsystems%25E2%2580%259D%2Bin%2BIEEE%2BTransaction%2Bon%2BAutomatic%2BControl%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=zwK7KdaqqaYJ&ei=KOZiYo3PJoOEmgH1zZjACQ&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=12009317718159983311&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:zwK7KdaqqaYJ:scholar.google.com/&scioq=Supplement+to+%E2%80%9CInitial+excitation+based+iterative+algorithm+for+approximate+optimal+control+of+completely+unknown+LTI+systems%E2%80%9D+in+IEEE+Transaction+on+Automatic+Control&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Supplement to \u201cComposite adaptive control of uncertain euler\u2010lagrange systems with parameter convergence without pe condition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "FKuAjBcAAAAJ:W7OEmFMy1HYC",
+            "authors": "SB Roy, S Bhasin, IN Kar",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9885277746247378857",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9885277746247378857&engine=google_scholar&hl=en",
+                "cites_id": "9885277746247378857"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Composite adaptive control of uncertain Euler\u2010Lagrange systems with parameter convergence without PE condition",
+                    "author": [
+                        "S Basu Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Asian Journal of Control",
+                    "abstract": "This work proposes a novel composite adaptive controller for uncertain Euler\u2010Lagrange (EL) systems. The composite adaptive law is strategically designed to be proportional to the parameter estimation error in addition to the tracking error, leading to parameter convergence. Unlike conventional adaptive control laws which require the regressor function to be persistently exciting (PE) for parameter convergence, the proposed method guarantees parameter convergence from a milder initially exciting (IE) condition on the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.1877",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:FkDkbxeSBkcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSupplement%2Bto%2B%25E2%2580%259CComposite%2Badaptive%2Bcontrol%2Bof%2Buncertain%2Beuler%25E2%2580%2590lagrange%2Bsystems%2Bwith%2Bparameter%2Bconvergence%2Bwithout%2Bpe%2Bcondition%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FkDkbxeSBkcJ&ei=K-ZiYsneM-HDywTjooCQBQ&json=",
+                "num_citations": 21,
+                "citedby_url": "/scholar?cites=5117938655912280086&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FkDkbxeSBkcJ:scholar.google.com/&scioq=Supplement+to+%E2%80%9CComposite+adaptive+control+of+uncertain+euler%E2%80%90lagrange+systems+with+parameter+convergence+without+pe+condition&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Improving adaptive differential evolution with controlled mutation strategy",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "FKuAjBcAAAAJ:2osOgNQ5qMEC",
+            "authors": "SB Roy, M Dan, P Mitra",
+            "publication": "International Conference on Swarm, Evolutionary, and Memetic Computing, 636-643, 2012",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5927128418811330444",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5927128418811330444&engine=google_scholar&hl=en",
+                "cites_id": "5927128418811330444"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Improving adaptive differential evolution with controlled mutation strategy",
+                    "author": [
+                        "SB Roy",
+                        "M Dan",
+                        "P Mitra"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "International Conference on Swarm \u2026",
+                    "abstract": "In this paper we have proposed a DE variant, abbreviated by ADE_CM, to improve optimization performance of DE by imposing controlled mutation strategy. We also incorporated the concept of selective pressure to choose the random vectors in the selection of donor vector for each population. Basically we used DE/rand/1 and DE/target-to-best/1 schemes (with modifications using selective pressure) in the selection of donor using controlled mutation. The control parameter for mutation, linearly decreasing with generation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-35380-2_74",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "",
+                    "8PbgiPkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jD9fxeRjQVIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImproving%2Badaptive%2Bdifferential%2Bevolution%2Bwith%2Bcontrolled%2Bmutation%2Bstrategy%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jD9fxeRjQVIJ&ei=L-ZiYq-BKJWMy9YPt8OamA0&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5927128418811330444&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jD9fxeRjQVIJ:scholar.google.com/&scioq=Improving+adaptive+differential+evolution+with+controlled+mutation+strategy&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "m dan",
+                "p mitra"
+            ]
+        },
+        {
+            "title": "Online Adaptive Identification of Switched Affine Systems Using a Two-Tier Filter Architecture with Memory",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:2P1L_qKh6hAC",
+            "citation_id": "FKuAjBcAAAAJ:2P1L_qKh6hAC",
+            "authors": "P Patel, SB Roy, S Bhasin",
+            "publication": "arXiv preprint arXiv:2204.03338, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Online Adaptive Identification of Switched Affine Systems Using a Two-Tier Filter Architecture with Memory",
+                    "author": [
+                        "P Patel",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2204.03338",
+                    "abstract": "This work proposes an online adaptive identification method for multi-input multi-output (MIMO) switched affine systems with guaranteed parameter convergence. A family of online parameter estimators is used that is equipped with a dual-layer low pass filter architecture to facilitate parameter learning and identification of each subsystem. The filters capture information about the unknown parameters in the form of a prediction error which is used in the parameter estimation algorithm. A salient feature of the proposed method that"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2204.03338",
+                "author_id": [
+                    "J1K4g0UAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:DloFONPpQ0UJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOnline%2BAdaptive%2BIdentification%2Bof%2BSwitched%2BAffine%2BSystems%2BUsing%2Ba%2BTwo-Tier%2BFilter%2BArchitecture%2Bwith%2BMemory%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DloFONPpQ0UJ&ei=M-ZiYoLaB4ySyATlkbrQCA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2204.03338"
+            },
+            "processed_authors": [
+                "p patel",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Finite excitation based robust adaptive observer for MIMO LTI systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:r0BpntZqJG4C",
+            "citation_id": "FKuAjBcAAAAJ:r0BpntZqJG4C",
+            "authors": "A Katiyar, S Basu Roy, S Bhasin",
+            "publication": "International Journal of Adaptive Control and Signal Processing 36 (2), 180-197, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Finite excitation based robust adaptive observer for MIMO LTI systems",
+                    "author": [
+                        "A Katiyar",
+                        "S Basu Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "International Journal of \u2026",
+                    "abstract": "The article addresses the problem of a robust adaptive observer design for multi\u2010input multi\u2010output linear time\u2010invariant plants subjected to bounded disturbances in the system dynamics and the output relation. An adaptive observer design is proposed based on the finite excitation leading to a switched estimation strategy thus relaxing persistence of excitation (PE) condition. The novel finite persistence excitation (f\u2010PE) condition introduced in this work is significantly milder than the PE condition in terms of excitation requirement"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.3322",
+                "author_id": [
+                    "TB1dsP4AAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:1BOPTSuz0CkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFinite%2Bexcitation%2Bbased%2Brobust%2Badaptive%2Bobserver%2Bfor%2BMIMO%2BLTI%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1BOPTSuz0CkJ&ei=N-ZiYr-ECMLZmQHc1ovQAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:1BOPTSuz0CkJ:scholar.google.com/&scioq=Finite+excitation+based+robust+adaptive+observer+for+MIMO+LTI+systems&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a katiyar",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Closed-Loop Reference Model based Distributed MRAC using Cooperative Initial Excitation and Distributed Reference Input Estimation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:RGFaLdJalmkC",
+            "citation_id": "FKuAjBcAAAAJ:RGFaLdJalmkC",
+            "authors": "R Goel, T Garg, SB Roy",
+            "publication": "IEEE Transactions on Control of Network Systems, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Closed-Loop Reference Model based Distributed MRAC using Cooperative Initial Excitation and Distributed Reference Input Estimation",
+                    "author": [
+                        "R Goel",
+                        "T Garg",
+                        "SB Roy"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "IEEE Transactions on Control of \u2026",
+                    "abstract": "This paper proposes a novel closed-loop reference model (CRM) architecture for a distributed model reference adaptive control (DMRAC) algorithm, called CRM-DMRAC. The idea of CRM has been recently conceptualized in the literature for a single agent system where the reference model (leader) receives feedback from the plant (follower) while enabling the use of high gain tuners without adding more transients in the parameter estimation. In this paper, a CRM formulation is proposed where the leader receives"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9672681/",
+                "author_id": [
+                    "UcvbFvoAAAAJ",
+                    "",
+                    "FKuAjBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:YWHpUpfXywsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClosed-Loop%2BReference%2BModel%2Bbased%2BDistributed%2BMRAC%2Busing%2BCooperative%2BInitial%2BExcitation%2Band%2BDistributed%2BReference%2BInput%2BEstimation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=YWHpUpfXywsJ&ei=OeZiYuWmOoOEmgH1zZjACQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:YWHpUpfXywsJ:scholar.google.com/&scioq=Closed-Loop+Reference+Model+based+Distributed+MRAC+using+Cooperative+Initial+Excitation+and+Distributed+Reference+Input+Estimation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "r goel",
+                "t garg",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Adaptive Fault-Tolerant Control of Uncertain Euler-Lagrange Systems With Time-Varying Actuator Faults",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:70eg2SAEIzsC",
+            "citation_id": "FKuAjBcAAAAJ:70eg2SAEIzsC",
+            "authors": "P Patel, SB Roy, S Bhasin",
+            "publication": "2021 Seventh Indian Control Conference (ICC), 52-56, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive Fault-Tolerant Control of Uncertain Euler-Lagrange Systems With Time-Varying Actuator Faults",
+                    "author": [
+                        "P Patel",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 Seventh Indian Control \u2026",
+                    "abstract": "In this paper, the command tracking problem for uncertain Euler-Lagrange (EL) systems with multiple partial loss of effectiveness (PLOE) actuator faults is considered. Compared to the existing fault-tolerant controllers for Euler-Lagrange systems, the proposed adaptive controller accounts for parametric uncertainties in both the system parameters and multiple time-varying actuator fault parameters. The closed-loop fault-tolerant system is treated as a switched dynamical system, and a switched system stability is established using multiple"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9703171/",
+                "author_id": [
+                    "J1K4g0UAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:47WhlAVgaagJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%2BFault-Tolerant%2BControl%2Bof%2BUncertain%2BEuler-Lagrange%2BSystems%2BWith%2BTime-Varying%2BActuator%2BFaults%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=47WhlAVgaagJ&ei=PeZiYrjVKc6E6rQPz8uiuAc&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "p patel",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Velocity Estimator Augmented Image-Based Visual Servoing for Moving Targets with Time-Varying 3-D Motion",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:35N4QoGY0k4C",
+            "citation_id": "FKuAjBcAAAAJ:35N4QoGY0k4C",
+            "authors": "Y Kumar, SB Roy, PB Sujit",
+            "publication": "2021 60th IEEE Conference on Decision and Control (CDC), 5187-5192, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Velocity Estimator Augmented Image-Based Visual Servoing for Moving Targets with Time-Varying 3-D Motion",
+                    "author": [
+                        "Y Kumar",
+                        "SB Roy",
+                        "PB Sujit"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 60th IEEE Conference on \u2026",
+                    "abstract": "This paper presents a novel image-based visual servoing (IBVS) technique for moving targets. A target velocity estimation law is designed using dynamic surface-like filters and incorporated in the control law to compensate for the uncertainties due to the unknown target motion. Rigorous Lyapunov analysis is performed to show that the errors converge exponentially to an ultimate bound for time-varying target motion and asymptotically to zero if the target velocity is constant. The simulation results considering a realistic environment"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9683178/",
+                "author_id": [
+                    "9LEfPQ4AAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "qqwyAwoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:NWrFxoad_p8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DVelocity%2BEstimator%2BAugmented%2BImage-Based%2BVisual%2BServoing%2Bfor%2BMoving%2BTargets%2Bwith%2BTime-Varying%2B3-D%2BMotion%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NWrFxoad_p8J&ei=QuZiYr6pLqmTy9YPsu-CuAM&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "y kumar",
+                "sayan basu roy",
+                "pb sujit"
+            ]
+        },
+        {
+            "title": "Adaptive\u2013robust control of autonomous underwater vehicle with unknown system dynamics",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:dhFuZR0502QC",
+            "citation_id": "FKuAjBcAAAAJ:dhFuZR0502QC",
+            "authors": "S Roy, SB Roy, IN Kar",
+            "publication": "Autonomous Underwater Vehicles: Design and Practice, 79, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive robust control of autonomous underwater vehicle",
+                    "author": [
+                        "S Pezeshki",
+                        "AR Ghiasi",
+                        "MA Badamchizadeh"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Journal of Control \u2026",
+                    "abstract": "Since hydrodynamic coefficients of autonomous underwater vehicle are varied with change of operating conditions which make it difficult to model it accurately, thus an adaptive fuzzy sliding mode control scheme is proposed for position tracking problem. Moreover, an innovative neural network compensator is designed to completely counteract effects of uncertainties and external disturbances. To diminish tracking error and enhance reaching time, three fuzzy logic systems are exploited; the first and second fuzzy logic systems are"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s40313-016-0237-3",
+                "author_id": [
+                    "H-A5uUYAAAAJ",
+                    "vbJaB38AAAAJ",
+                    "edtNtXAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:z44BQUC6VI8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%25E2%2580%2593robust%2Bcontrol%2Bof%2Bautonomous%2Bunderwater%2Bvehicle%2Bwith%2Bunknown%2Bsystem%2Bdynamics%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=z44BQUC6VI8J&ei=ReZiYo_xIcLZmQHc1ovQAg&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=10328084630598684367&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:z44BQUC6VI8J:scholar.google.com/&scioq=Adaptive%E2%80%93robust+control+of+autonomous+underwater+vehicle+with+unknown+system+dynamics&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "sb roy",
+                "in kar"
+            ]
+        },
+        {
+            "title": "Non-singular Trajectory Tracking Control of a Pitch-Constrained Quad-Rotorcraft using Integral Barrier Lyapunov Function",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:QIV2ME_5wuYC",
+            "citation_id": "FKuAjBcAAAAJ:QIV2ME_5wuYC",
+            "authors": "R Dasgupta, SB Roy, S Bhasin",
+            "publication": "2020 American Control Conference (ACC), 3788-3795, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": "",
+            "processed_authors": [
+                "r dasgupta",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Barrier-Lyapunov Function based Dynamic Surface Control of Quad-Rotorcraft",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:TQgYirikUcIC",
+            "citation_id": "FKuAjBcAAAAJ:TQgYirikUcIC",
+            "authors": "R Dasgupta, SB Roy, S Bhasin",
+            "publication": "IFAC-PapersOnLine 53 (2), 9378-9383, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Barrier-Lyapunov Function based Dynamic Surface Control of Quad-Rotorcraft",
+                    "author": [
+                        "R Dasgupta",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IFAC-PapersOnLine",
+                    "abstract": "A novel framework is proposed in this paper for control of a quad-rotorcraft where hierarchical design is constructed via barrier Lyapunov function (BLF) combined with dynamic surface control (DSC). DSC solves the requirement of higher order differentiability of reference pose and avoiding the complexity that arises due to the \u201cexplosion of terms\u201d coming out from repeated derivatives of reference attitude and desired thrust vector. BLF satisfies attitude constraint in real-time and thereby ensures non-singularity of velocity"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S2405896320330883",
+                "author_id": [
+                    "63ds8_oAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:yq24PSWp010J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBarrier-Lyapunov%2BFunction%2Bbased%2BDynamic%2BSurface%2BControl%2Bof%2BQuad-Rotorcraft%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yq24PSWp010J&ei=UuZiYo-pBpWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:yq24PSWp010J:scholar.google.com/&scioq=Barrier-Lyapunov+Function+based+Dynamic+Surface+Control+of+Quad-Rotorcraft&hl=en&as_sdt=0,33",
+                "eprint_url": "http://ifatwww.et.uni-magdeburg.de/ifac2020/media/pdfs/2942.pdf"
+            },
+            "processed_authors": [
+                "r dasgupta",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Filter based Explorized Policy Iteration Algorithm for On-Policy Approximate LQR",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:aqlVkmm33-oC",
+            "citation_id": "FKuAjBcAAAAJ:aqlVkmm33-oC",
+            "authors": "SK Jha, SB Roy, S Bhasin",
+            "publication": "2019 IEEE Symposium Series on Computational Intelligence (SSCI), 133-140, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Filter based Explorized Policy Iteration Algorithm for On-Policy Approximate LQR",
+                    "author": [
+                        "SK Jha",
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE Symposium Series on \u2026",
+                    "abstract": "A filter-based policy iteration (PI) algorithm has been proposed to design an adaptive optimal controller (AOC) for uncertain continuous linear time invariant (LTI) systems. A novel two-layered filtering architecture is introduced in the PI algorithm-the first layer filters tactically eliminate the need for state derivative knowledge and finite window integrals (FWI), while the second layer filters provide suitable algebraic relations which obviates the requirement of\" intelligent\" data-storage. In addition to promising the intermediate policies to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9002891/",
+                "author_id": [
+                    "ssjshtEAAAAJ",
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CCMwedg9gpYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFilter%2Bbased%2BExplorized%2BPolicy%2BIteration%2BAlgorithm%2Bfor%2BOn-Policy%2BApproximate%2BLQR%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CCMwedg9gpYJ&ei=W-ZiYtr3MJWMy9YPt8OamA0&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:CCMwedg9gpYJ:scholar.google.com/&scioq=Filter+based+Explorized+Policy+Iteration+Algorithm+for+On-Policy+Approximate+LQR&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "sk jha",
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        },
+        {
+            "title": "Memory-Based Data-Driven MRAC Architecture Ensuring Parameter Convergence",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:4TOpqqG69KYC",
+            "citation_id": "FKuAjBcAAAAJ:4TOpqqG69KYC",
+            "authors": "S Basu Roy, S Bhasin, I Narayan Kar",
+            "publication": "arXiv e-prints, arXiv: 1602.00482, 2016",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Memory-based data-driven MRAC architecture ensuring parameter convergence",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin",
+                        "IN Kar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "arXiv preprint arXiv:1602.00482",
+                    "abstract": "Convergence of controller parameters in standard model reference adaptive control (MRAC) requires the system states to be persistently exciting (PE), a restrictive condition to be verified online. A recent data-driven approach, concurrent learning, uses information-rich past data concurrently with the standard parameter update laws to guarantee parameter convergence without the need of the PE condition. This method guarantees exponential convergence of both the tracking and the controller parameter estimation errors to zero"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1602.00482",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:2w91_QoZCMIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMemory-Based%2BData-Driven%2BMRAC%2BArchitecture%2BEnsuring%2BParameter%2BConvergence%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2w91_QoZCMIJ&ei=YOZiYuKCFYySyATlkbrQCA&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=13981452578164379611&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2w91_QoZCMIJ:scholar.google.com/&scioq=Memory-Based+Data-Driven+MRAC+Architecture+Ensuring+Parameter+Convergence&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1602.00482"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin",
+                "i narayan kar"
+            ]
+        },
+        {
+            "title": "The Question of Social Change and Joint Forest Management: Case Studies from Andhra Pradesh and West Bengal",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:lSLTfruPkqcC",
+            "citation_id": "FKuAjBcAAAAJ:lSLTfruPkqcC",
+            "authors": "SB Roy, G YADAV, D MUKHOPADHYAY",
+            "publication": "Journal of the Indian Anthropological Society 35, 271-279, 2000",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2000",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Joint forest management in India: experiences of two decades",
+                    "author": [
+                        "P Bhattacharya",
+                        "L Pradhan",
+                        "G Yadav"
+                    ],
+                    "pub_year": "2010",
+                    "venue": "Resources, Conservation and \u2026",
+                    "abstract": "Pradesh, Chhattisgarh, Jharkhand, Orissa, and West Bengal,  During the period from the  initial issue of the JFM resolution  West Bengal, Madhya Pradesh, Orissa and Andhra Pradesh"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0921344909002274",
+                "author_id": [
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:p-wi7QZMrw8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DThe%2BQuestion%2Bof%2BSocial%2BChange%2Band%2BJoint%2BForest%2BManagement:%2BCase%2BStudies%2Bfrom%2BAndhra%2BPradesh%2Band%2BWest%2BBengal%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=p-wi7QZMrw8J&ei=beZiYoqRIoOEmgH1zZjACQ&json=",
+                "num_citations": 126,
+                "citedby_url": "/scholar?cites=1130205624125287591&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:p-wi7QZMrw8J:scholar.google.com/&scioq=The+Question+of+Social+Change+and+Joint+Forest+Management:+Case+Studies+from+Andhra+Pradesh+and+West+Bengal&hl=en&as_sdt=0,33",
+                "eprint_url": "/scholar?output=instlink&q=info:p-wi7QZMrw8J:scholar.google.com/&hl=en&as_sdt=0,33&scillfp=903020431873591044&oi=lle"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "g yadav",
+                "d mukhopadhyay"
+            ]
+        },
+        {
+            "title": "Bagdah Experience",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:vV6vV6tmYwMC",
+            "citation_id": "FKuAjBcAAAAJ:vV6vV6tmYwMC",
+            "authors": "HK DWIVEDI, SB ROY",
+            "publication": "Learning to Share: Experiences and Reflections on PRA and Community \u2026, 1997",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1997",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "From Lexington to Baghdad and beyond: war and politics in the American experience",
+                    "author": [
+                        "DM Snow",
+                        "DM Drew"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "NA",
+                    "abstract": "Decisions about when, where, and why to commit the United States to the use of force, and  how to conduct warfare and ultimately end it, are hotly debated not only contemporaneously"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.taylorfrancis.com/books/mono/10.4324/9781315704180/lexington-baghdad-beyond-donald-snow-dennis-drew",
+                "author_id": [
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:4lt1MFI4dRkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBagdah%2BExperience%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4lt1MFI4dRkJ&ei=deZiYvidPJWMy9YPt8OamA0&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=1834434348874816482&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:4lt1MFI4dRkJ:scholar.google.com/&scioq=Bagdah+Experience&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "hk dwivedi",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Special Issue on \u201cRecent Advances in Robust Adaptive Control\u201d",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:RYcK_YlVTxYC",
+            "citation_id": "FKuAjBcAAAAJ:RYcK_YlVTxYC",
+            "authors": "S Baldi, E Kosmatopoulos, S Roy, S Yuan, SB Roy, L Li",
+            "publication": "International Journal of Adaptive Control and Signal Processing, 0",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Special Issue on \u201cRecent Advances in Robust Adaptive Control\u201d",
+                    "author": [
+                        "S Baldi",
+                        "E Kosmatopoulos",
+                        "S Roy",
+                        "S Yuan"
+                    ],
+                    "pub_year": "NA",
+                    "venue": "International Journal of \u2026",
+                    "abstract": "As compared to conventional adaptive control, robust adaptive control aims to provide robustness against unmodeled dynamics, coupling effects, and other endogenous and exogenous disturbances. Robust adaptive control has been an active research area over more than three decades, and has flourished in many application domains. Despite the advances, some bottlenecks still need to be circumvented for further progressing in the field. This special issue collects recent advances in robust adaptive control from theoretical and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/acs.3376",
+                "author_id": [
+                    "ok1eCzUAAAAJ",
+                    "LIRR8B8AAAAJ",
+                    "tUKoUgMAAAAJ",
+                    "ttpk5FcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2np7VJvTLeQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpecial%2BIssue%2Bon%2B%25E2%2580%259CRecent%2BAdvances%2Bin%2BRobust%2BAdaptive%2BControl%25E2%2580%259D%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2np7VJvTLeQJ&ei=guZiYvSaIvmQ6rQPzKCxuAY&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "s baldi",
+                "e kosmatopoulos",
+                "sayan basu roy",
+                "s yuan",
+                "sb roy",
+                "l li"
+            ]
+        },
+        {
+            "title": "Two-Tier Filter-based Experience Replay for Neuro-Adaptive Control with Inherent Robustness",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FKuAjBcAAAAJ&pagesize=100&citation_for_view=FKuAjBcAAAAJ:ns9cj8rnVeAC",
+            "citation_id": "FKuAjBcAAAAJ:ns9cj8rnVeAC",
+            "authors": "SB Roy, S Bhasin",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Two-Tier Filter-based Experience Replay for Neuro-Adaptive Control with Inherent Robustness",
+                    "author": [
+                        "SB Roy",
+                        "S Bhasin"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Neural network (NN)-based adaptive control is popularly used for controlling nonlinear dynamical systems with unstructured uncertainty. NN structures are embedded in the feedback loop with a real-time tuning mechanism to ensure desired tracking performance. Due to the presence of approximation error, neuro-adaptive controllers are affected by the phenomenon of parameter drift in the absence of persistence of excitation (PE) condition, and thereby require robust modifications like projection, \u03c3-modification etc. to guarantee"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://web.iitd.ac.in/~sbhasin/docs/IE_based_Nero_Adaptive_Control.pdf",
+                "author_id": [
+                    "FKuAjBcAAAAJ",
+                    "JNCqasoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JGdEQJT72O4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTwo-Tier%2BFilter-based%2BExperience%2BReplay%2Bfor%2BNeuro-Adaptive%2BControl%2Bwith%2BInherent%2BRobustness%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JGdEQJT72O4J&ei=iuZiYqblGZGJmwGIxre4DA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:JGdEQJT72O4J:scholar.google.com/&scioq=Two-Tier+Filter-based+Experience+Replay+for+Neuro-Adaptive+Control+with+Inherent+Robustness&hl=en&as_sdt=0,33",
+                "eprint_url": "http://web.iitd.ac.in/~sbhasin/docs/IE_based_Nero_Adaptive_Control.pdf"
+            },
+            "processed_authors": [
+                "sayan basu roy",
+                "s bhasin"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 443,
+                    "since_2017": 438
+                }
+            },
+            {
+                "h_index": {
+                    "all": 10,
+                    "since_2017": 10
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 10,
+                    "since_2017": 10
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 2
+            },
+            {
+                "year": 2016,
+                "citations": 2
+            },
+            {
+                "year": 2017,
+                "citations": 7
+            },
+            {
+                "year": 2018,
+                "citations": 31
+            },
+            {
+                "year": 2019,
+                "citations": 129
+            },
+            {
+                "year": 2020,
+                "citations": 106
+            },
+            {
+                "year": 2021,
+                "citations": 115
+            },
+            {
+                "year": 2022,
+                "citations": 50
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=FKuAjBcAAAAJ",
+        "available": 0,
+        "not_available": 3
+    },
+    "co_authors": [
+        {
+            "name": "Shubhendu Bhasin",
+            "link": "https://scholar.google.com/citations?user=JNCqasoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=JNCqasoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "JNCqasoAAAAJ",
+            "affiliations": "Indian Institute of Technology Delhi",
+            "email": "Verified email at ee.iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=JNCqasoAAAAJ&citpid=1"
+        },
+        {
+            "name": "I. N. Kar",
+            "link": "https://scholar.google.com/citations?user=6yXLSeEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6yXLSeEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6yXLSeEAAAAJ",
+            "affiliations": "Professor of Electrical Engineering, IIT Delhi",
+            "email": "Verified email at ee.iitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Spandan Roy",
+            "link": "https://scholar.google.com/citations?user=tUKoUgMAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tUKoUgMAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tUKoUgMAAAAJ",
+            "affiliations": "Assistant Professor, Robotics Research Center, IIIT Hyderabad",
+            "email": "Verified email at iiit.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tUKoUgMAAAAJ&citpid=9"
+        },
+        {
+            "name": "Sumit Kumar Jha",
+            "link": "https://scholar.google.com/citations?user=ssjshtEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ssjshtEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ssjshtEAAAAJ",
+            "affiliations": "Motilal Nehru National Institute of Technology Allahabad, Prayagraj",
+            "email": "Verified email at mnnit.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ssjshtEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Ranjan Dasgupta",
+            "link": "https://scholar.google.com/citations?user=63ds8_oAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=63ds8_oAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "63ds8_oAAAAJ",
+            "affiliations": "TCS Research",
+            "email": "Verified email at tcs.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=63ds8_oAAAAJ&citpid=2"
+        },
+        {
+            "name": "Simone Baldi",
+            "link": "https://scholar.google.com/citations?user=ok1eCzUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ok1eCzUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ok1eCzUAAAAJ",
+            "affiliations": "Professor at Southeast University / Visiting prof. at TU Delft",
+            "email": "Verified email at tudelft.nl",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ok1eCzUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jinoh Lee",
+            "link": "https://scholar.google.com/citations?user=FJkKPJ4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FJkKPJ4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FJkKPJ4AAAAJ",
+            "affiliations": "Researcher, German Aerospace Center (DLR), Institute of Robotics and Mechatronics",
+            "email": "Verified email at dlr.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FJkKPJ4AAAAJ&citpid=27"
+        }
+    ]
+}

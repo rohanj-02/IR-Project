@@ -1,0 +1,287 @@
+{
+    "search_metadata": {
+        "id": "62574cd60a90c7e1ef1dc117",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c90db3ef207328e6/62574cd60a90c7e1ef1dc117.json",
+        "created_at": "2022-04-13 22:21:10 UTC",
+        "processed_at": "2022-04-13 22:21:10 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=nZsLfXQAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/c90db3ef207328e6/62574cd60a90c7e1ef1dc117.html",
+        "total_time_taken": 0.98,
+        "total_articles": 4,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "nZsLfXQAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Harshit Singh Chhabra",
+        "affiliations": "Indraprastha Institute of Information Technology",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "Deep Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:deep_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adeep_learning"
+            },
+            {
+                "title": "Computer Vision",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computer_vision",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acomputer_vision"
+            },
+            {
+                "title": "Natural Language Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:natural_language_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing"
+            }
+        ],
+        "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_128.png"
+    },
+    "articles": [
+        {
+            "title": "A hybrid deep learning approach for automatic fish classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nZsLfXQAAAAJ&pagesize=100&citation_for_view=nZsLfXQAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "nZsLfXQAAAAJ:u5HHmVD_uO8C",
+            "authors": "HS Chhabra, AK Srivastava, R Nijhawan",
+            "publication": "Proceedings of ICETIT 2019, 427-436, 2020",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9324989950252882670",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9324989950252882670&engine=google_scholar&hl=en",
+                "cites_id": "9324989950252882670"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A hybrid deep learning approach for automatic fish classification",
+                    "author": [
+                        "HS Chhabra",
+                        "AK Srivastava",
+                        "R Nijhawan"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of ICETIT 2019",
+                    "abstract": "Fishes are the one of the most important group of cold blooded vertebrates. They have great nutritional, economical, medicinal and industrial importance. Fish provides many nutrients and micronutrients that are essential to the overall development of body and are an important part of a healthy diet. So it is of utmost importance that we should be able to identify the most important species of fishes and differentiate between them. This differentiation can be very useful to people like doctors, marine biologists or the people"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-30577-2_37",
+                "author_id": [
+                    "nZsLfXQAAAAJ",
+                    "",
+                    "2HwQks8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7hrpLvQEaYEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bhybrid%2Bdeep%2Blearning%2Bapproach%2Bfor%2Bautomatic%2Bfish%2Bclassification%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7hrpLvQEaYEJ&ei=LlhkYq6pGrKO6rQPy-CRsA8&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=9324989950252882670&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7hrpLvQEaYEJ:scholar.google.com/&scioq=A+hybrid+deep+learning+approach+for+automatic+fish+classification&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "harshit singh chhabra",
+                "ak srivastava",
+                "r nijhawan"
+            ]
+        },
+        {
+            "title": "An Integrated Deep Learning Framework of Tomato Leaf Disease Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nZsLfXQAAAAJ&pagesize=100&citation_for_view=nZsLfXQAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "nZsLfXQAAAAJ:u-x6o8ySG0sC",
+            "authors": "J Khurana, A Sharma, HS Chhabra, R Nijhawan",
+            "publication": "International Journal of Innovative Technology and Exploring Engineering \u2026, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17106527794243959654",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17106527794243959654&engine=google_scholar&hl=en",
+                "cites_id": "17106527794243959654"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An Integrated Deep Learning Framework of Tomato Leaf Disease Detection",
+                    "author": [
+                        "J Khurana",
+                        "A Sharma",
+                        "HS Chhabra",
+                        "R Nijhawan"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    "",
+                    "nZsLfXQAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ZvtBBGWYZu0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2BIntegrated%2BDeep%2BLearning%2BFramework%2Bof%2BTomato%2BLeaf%2BDisease%2BDetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZvtBBGWYZu0J&ei=MlhkYtSgDKKUy9YP_JONiAY&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=17106527794243959654&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ZvtBBGWYZu0J:scholar.google.com/&scioq=An+Integrated+Deep+Learning+Framework+of+Tomato+Leaf+Disease+Detection&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "j khurana",
+                "anuradha sharma",
+                "harshit singh chhabra",
+                "r nijhawan"
+            ]
+        },
+        {
+            "title": "OdoriFy: A conglomerate of artificial intelligence\u2013driven prediction engines for olfactory decoding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nZsLfXQAAAAJ&pagesize=100&citation_for_view=nZsLfXQAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "nZsLfXQAAAAJ:d1gkVwhDpl0C",
+            "authors": "R Gupta, A Mittal, V Agrawal, S Gupta, K Gupta, RR Jain, P Garg, ...",
+            "publication": "Journal of Biological Chemistry 297 (2), 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4405531189421701869",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4405531189421701869&engine=google_scholar&hl=en",
+                "cites_id": "4405531189421701869"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "OdoriFy: A conglomerate of artificial intelligence\u2013driven prediction engines for olfactory decoding",
+                    "author": [
+                        "R Gupta",
+                        "A Mittal",
+                        "V Agrawal",
+                        "S Gupta",
+                        "K Gupta"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Journal of Biological \u2026",
+                    "abstract": "The molecular mechanisms of olfaction, or the sense of smell, are relatively underexplored compared with other sensory systems, primarily because of its underlying molecular complexity and the limited availability of dedicated predictive computational tools. Odorant receptors (ORs) allow the detection and discrimination of a myriad of odorant molecules and therefore mediate the first step of the olfactory signaling cascade. To date, odorant (or agonist) information for the majority of these receptors is still unknown, limiting our"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.jbc.org/article/S0021-9258(21)00756-0/abstract",
+                "author_id": [
+                    "l0D70PQAAAAJ",
+                    "7slj9U0AAAAJ",
+                    "BIRtscAAAAAJ",
+                    "",
+                    "sU_VfPUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7XpieEaXIz0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOdoriFy:%2BA%2Bconglomerate%2Bof%2Bartificial%2Bintelligence%25E2%2580%2593driven%2Bprediction%2Bengines%2Bfor%2Bolfactory%2Bdecoding%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7XpieEaXIz0J&ei=NVhkYratCI2ymgHg1rfQDQ&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=4405531189421701869&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7XpieEaXIz0J:scholar.google.com/&scioq=OdoriFy:+A+conglomerate+of+artificial+intelligence%E2%80%93driven+prediction+engines+for+olfactory+decoding&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.jbc.org/article/S0021-9258(21)00756-0/abstract"
+            },
+            "processed_authors": [
+                "richa gupta",
+                "aayushi mittal",
+                "v agrawal",
+                "s gupta",
+                "k gupta",
+                "rr jain",
+                "parth garg"
+            ]
+        },
+        {
+            "title": "Comprehensive Saliency Fusion for Object Co-segmentation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=nZsLfXQAAAAJ&pagesize=100&citation_for_view=nZsLfXQAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "nZsLfXQAAAAJ:9yKSN-GCB0IC",
+            "authors": "HS Chhabra, KR Jerripothula",
+            "publication": "2021 IEEE International Symposium on Multimedia (ISM), 107-110, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Comprehensive Saliency Fusion for Object Co-segmentation",
+                    "author": [
+                        "HS Chhabra",
+                        "KR Jerripothula"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE International \u2026",
+                    "abstract": "Object co-segmentation has drawn significant attention in recent years, thanks to its clarity on the expected foreground, the shared object in a group of images. Saliency fusion has been one of the promising ways to carry it out. However, prior works either fuse saliency maps of the same image or saliency maps of different images to extract the expected foregrounds. Also, they rely on hand-crafted saliency extraction and correspondence processes in most cases. This paper revisits the problem and proposes fusing saliency"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9666132/",
+                "author_id": [
+                    "nZsLfXQAAAAJ",
+                    "QgTEe-gAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:FggDqvlGccwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DComprehensive%2BSaliency%2BFusion%2Bfor%2BObject%2BCo-segmentation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FggDqvlGccwJ&ei=OlhkYpjeFKKUy9YP_JONiAY&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:FggDqvlGccwJ:scholar.google.com/&scioq=Comprehensive+Saliency+Fusion+for+Object+Co-segmentation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Koteswar-Jerripothula/publication/357729354_Comprehensive_Saliency_Fusion_for_Object_Co-segmentation/links/61dd1e57034dda1b9eebe58f/Comprehensive-Saliency-Fusion-for-Object-Co-segmentation.pdf"
+            },
+            "processed_authors": [
+                "harshit singh chhabra",
+                "koteswar rao jerripothula"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 19,
+                    "since_2017": 19
+                }
+            },
+            {
+                "h_index": {
+                    "all": 2,
+                    "since_2017": 2
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2020,
+                "citations": 2
+            },
+            {
+                "year": 2021,
+                "citations": 11
+            },
+            {
+                "year": 2022,
+                "citations": 6
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=nZsLfXQAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": []
+}

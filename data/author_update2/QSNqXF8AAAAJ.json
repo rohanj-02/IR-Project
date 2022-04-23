@@ -1,0 +1,195 @@
+{
+    "search_metadata": {
+        "id": "62574c9094fb032e9601de89",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/209cfe09f8044cff/62574c9094fb032e9601de89.json",
+        "created_at": "2022-04-13 22:20:00 UTC",
+        "processed_at": "2022-04-13 22:20:00 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=QSNqXF8AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/209cfe09f8044cff/62574c9094fb032e9601de89.html",
+        "total_time_taken": 0.14,
+        "total_articles": 2,
+        "total_co_authors": 2
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "QSNqXF8AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Shagun Kapur",
+        "affiliations": "Graduate Student, UC San Diego",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "flexible electronics",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:flexible_electronics",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aflexible_electronics"
+            },
+            {
+                "title": "wearable sensors",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wearable_sensors",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awearable_sensors"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QSNqXF8AAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Resistive random access memory: a review of device challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QSNqXF8AAAAJ&pagesize=100&citation_for_view=QSNqXF8AAAAJ:u5HHmVD_uO8C",
+            "citation_id": "QSNqXF8AAAAJ:u5HHmVD_uO8C",
+            "authors": "V Gupta, S Kapur, S Saurabh, A Grover",
+            "publication": "IETE Technical Review 37 (4), 377-390, 2020",
+            "cited_by": {
+                "value": 38,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2837120439642329325",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2837120439642329325&engine=google_scholar&hl=en",
+                "cites_id": "2837120439642329325"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Resistive random access memory: a review of device challenges",
+                    "author": [
+                        "V Gupta",
+                        "S Kapur",
+                        "S Saurabh",
+                        "A Grover"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IETE Technical Review",
+                    "abstract": "With scaling, existing charge-based memory technologies exhibit limitations due to charge leaking away easily in a smaller device. Therefore, non-charge based memory technologies such as Resistive Random Access Memory (RRAM) become promising for future applications. RRAM is not only more scalable, but is typically faster and consumes less power than the existing memory technologies. However, RRAM suffers from higher impact of variations and reliability issues. In this review paper, we explain the basic aspects of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/02564602.2019.1629341",
+                "author_id": [
+                    "",
+                    "QSNqXF8AAAAJ",
+                    "V7XGG2AAAAAJ",
+                    "uDOo1fUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7ZDhFQJ6XycJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DResistive%2Brandom%2Baccess%2Bmemory:%2Ba%2Breview%2Bof%2Bdevice%2Bchallenges%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7ZDhFQJ6XycJ&ei=i09kYvGeCouKmgGY1YjABQ&json=",
+                "num_citations": 38,
+                "citedby_url": "/scholar?cites=2837120439642329325&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7ZDhFQJ6XycJ:scholar.google.com/&scioq=Resistive+random+access+memory:+a+review+of+device+challenges&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "viresh gupta",
+                "shagun kapur",
+                "sneh saurabh",
+                "anuj grover"
+            ]
+        },
+        {
+            "title": "Multilevel rram design using confinement of conducting Filament",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QSNqXF8AAAAJ&pagesize=100&citation_for_view=QSNqXF8AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "QSNqXF8AAAAJ:u-x6o8ySG0sC",
+            "authors": "S Kapur, V Gupta, S Saurabh, A Grover",
+            "publication": "IIITD-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multilevel rram design using confinement of conducting Filament",
+                    "author": [
+                        "S Kapur",
+                        "V Gupta",
+                        "S Saurabh",
+                        "A Grover"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "There are several types of electronic memory employed across the globe for a huge variety of applications. These include fast, volatile technologies such as SRAM and DRAM, and slower, non-volatile technologies such as NAND and NOR Flash. These memories, however, are limited in their scaling opportunities by their internal charge-based operation. There are multiple upcoming memories including RRAM, PCRAM, FeRAM, MRAM, etc. which attempt to combine non-volatility with speed while being non-charge based. Out of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/734",
+                "author_id": [
+                    "QSNqXF8AAAAJ",
+                    "",
+                    "V7XGG2AAAAAJ",
+                    "uDOo1fUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:O0XkbpsZYrQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMultilevel%2Brram%2Bdesign%2Busing%2Bconfinement%2Bof%2Bconducting%2BFilament%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=O0XkbpsZYrQJ&ei=kk9kYtmuKoySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:O0XkbpsZYrQJ:scholar.google.com/&scioq=Multilevel+rram+design+using+confinement+of+conducting+Filament&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/734/2015175%2C%202015187_SHAGUN%2C%20VARSHITA.pdf?sequence=1&isAllowed=y"
+            },
+            "processed_authors": [
+                "shagun kapur",
+                "viresh gupta",
+                "sneh saurabh",
+                "anuj grover"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 38,
+                    "since_2017": 38
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2020,
+                "citations": 12
+            },
+            {
+                "year": 2021,
+                "citations": 16
+            },
+            {
+                "year": 2022,
+                "citations": 8
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Sneh Saurabh",
+            "link": "https://scholar.google.com/citations?user=V7XGG2AAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=V7XGG2AAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "V7XGG2AAAAAJ",
+            "affiliations": "IIIT, Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=V7XGG2AAAAAJ&citpid=1"
+        },
+        {
+            "name": "Anuj Grover",
+            "link": "https://scholar.google.com/citations?user=uDOo1fUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uDOo1fUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "uDOo1fUAAAAJ",
+            "affiliations": "IIIT Delhi, STMicroelectronics, IIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uDOo1fUAAAAJ&citpid=1"
+        }
+    ]
+}

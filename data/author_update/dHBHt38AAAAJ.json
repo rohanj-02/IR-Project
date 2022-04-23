@@ -1,0 +1,316 @@
+{
+    "search_metadata": {
+        "id": "62574c972f542e587f019921",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/74e411c24a6ada6d/62574c972f542e587f019921.json",
+        "created_at": "2022-04-13 22:20:07 UTC",
+        "processed_at": "2022-04-13 22:20:07 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=dHBHt38AAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/74e411c24a6ada6d/62574c972f542e587f019921.html",
+        "total_time_taken": 0.49,
+        "total_articles": 5,
+        "total_co_authors": 3
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "dHBHt38AAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Neeraj Pandey",
+        "affiliations": "IIIT-Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "ISAR imaging",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:isar_imaging",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aisar_imaging"
+            },
+            {
+                "title": "Automotive Radar",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:automotive_radar",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aautomotive_radar"
+            },
+            {
+                "title": "Radar Signal Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:radar_signal_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aradar_signal_processing"
+            },
+            {
+                "title": "Compressive Sensing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:compressive_sensing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acompressive_sensing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=dHBHt38AAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Database of simulated inverse synthetic aperture radar images for short range automotive radar",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "dHBHt38AAAAJ:IjCSPb-OGe4C",
+            "authors": "N Pandey, G Duggal, SS Ram",
+            "publication": "2020 IEEE International Radar Conference (RADAR), 238-243, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1409790043532319755",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1409790043532319755&engine=google_scholar&hl=en",
+                "cites_id": "1409790043532319755"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Database of simulated inverse synthetic aperture radar images for short range automotive radar",
+                    "author": [
+                        "N Pandey",
+                        "G Duggal",
+                        "SS Ram"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE International Radar \u2026",
+                    "abstract": "Inverse synthetic aperture radar (ISAR) images of dynamic targets have been used for automatic target recognition purposes. Limited experimental data of ISAR images of automotive targets are currently available to the radar community. In this paper, we propose an electromagnetic simulation model for generating ISAR images of dynamic automotive targets for a short-range automotive radar. Further, we provide an open-source database of approximately 750 ISAR images for each of five common automotive targets-two cars, truck"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9114780/",
+                "author_id": [
+                    "dHBHt38AAAAJ",
+                    "OklRZKgAAAAJ",
+                    "dwRa-dIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:C1ygQJOUkBMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDatabase%2Bof%2Bsimulated%2Binverse%2Bsynthetic%2Baperture%2Bradar%2Bimages%2Bfor%2Bshort%2Brange%2Bautomotive%2Bradar%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=C1ygQJOUkBMJ&ei=FmFkYprLKfmQ6rQP5OqKqAo&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=1409790043532319755&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:C1ygQJOUkBMJ:scholar.google.com/&scioq=Database+of+simulated+inverse+synthetic+aperture+radar+images+for+short+range+automotive+radar&hl=en&as_sdt=0,33",
+                "eprint_url": "http://essrg.iiitd.edu.in/wp-content/uploads/2021/07/Database_Of_Simulated_Inverse_Synthetic_Aperture_Radar_Images_For_Short_Range_Automotive_Radar.pdf"
+            }
+        },
+        {
+            "title": "Classification of automotive targets using inverse synthetic aperture radar images",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "dHBHt38AAAAJ:zYLM7Y9cAGgC",
+            "authors": "N Pandey, SS Ram",
+            "publication": "IEEE Transactions on Intelligent Vehicles, 2022",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13992187506619758190",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13992187506619758190&engine=google_scholar&hl=en",
+                "cites_id": "13992187506619758190"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Classification of automotive targets using inverse synthetic aperture radar images",
+                    "author": [
+                        "N Pandey",
+                        "SS Ram"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "IEEE Transactions on Intelligent Vehicles",
+                    "abstract": "Traditionally, point cloud representations or Doppler spectrograms have been generated from short-range automotive radars for dynamic object detection and classification. In this work, we propose using inverse synthetic aperture radar (ISAR) images obtained from range compensated turning targets for the classification of different types of vehicles. We experimentally demonstrate that ISAR images of automotive targets provide rich features such as the dimensions, trajectory, and the number of wheels of the vehicles for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9695280/",
+                "author_id": [
+                    "dHBHt38AAAAJ",
+                    "dwRa-dIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bra6Smc8LsIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClassification%2Bof%2Bautomotive%2Btargets%2Busing%2Binverse%2Bsynthetic%2Baperture%2Bradar%2Bimages%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bra6Smc8LsIJ&ei=GmFkYv71IIOEmgHx-5DADA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=13992187506619758190&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bra6Smc8LsIJ:scholar.google.com/&scioq=Classification+of+automotive+targets+using+inverse+synthetic+aperture+radar+images&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2101.12535"
+            }
+        },
+        {
+            "title": "Clutter mitigation in range enhanced radar images using sparsity based denoising autoencoders",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:u-x6o8ySG0sC",
+            "citation_id": "dHBHt38AAAAJ:u-x6o8ySG0sC",
+            "authors": "S Vishwakarma, N Pandey, SS Ram",
+            "publication": "2019 International Radar Conference (RADAR), 1-6, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15202564431638582191",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15202564431638582191&engine=google_scholar&hl=en",
+                "cites_id": "15202564431638582191"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Clutter mitigation in range enhanced radar images using sparsity based denoising autoencoders",
+                    "author": [
+                        "S Vishwakarma",
+                        "N Pandey"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 International Radar \u2026",
+                    "abstract": "Complex propagation channels in indoor environments introduce considerable clutter and distortions to frontal radar images. Autoencoders, when provided with corrupted and corresponding clean images during training, can learn how to mitigate clutter in these images during testing. The main advantage is that an analytical framework of the channel is not required. On the other hand, the algorithm relies on the availability of a large database of correctly labelled training data-the target scenarios in cluttered environments must be"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9079020/",
+                "author_id": [
+                    "oCapOJEAAAAJ",
+                    "dHBHt38AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:r1POzs1b-tIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClutter%2Bmitigation%2Bin%2Brange%2Benhanced%2Bradar%2Bimages%2Busing%2Bsparsity%2Bbased%2Bdenoising%2Bautoencoders%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=r1POzs1b-tIJ&ei=HmFkYvfYFouKmgGY1YjABQ&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=15202564431638582191&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:r1POzs1b-tIJ:scholar.google.com/&scioq=Clutter+mitigation+in+range+enhanced+radar+images+using+sparsity+based+denoising+autoencoders&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Shobha-Ram/publication/340971628_Clutter_Mitigation_in_Range_Enhanced_Radar_Images_Using_Sparsity_Based_Denoising_Autoencoders/links/5fc7cc3f92851c00f8454e71/Clutter-Mitigation-in-Range-Enhanced-Radar-Images-Using-Sparsity-Based-Denoising-Autoencoders.pdf"
+            }
+        },
+        {
+            "title": "Automated Parking Test Using ISAR Images from Automotive Radar",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "dHBHt38AAAAJ:Tyk-4Ss8FVUC",
+            "authors": "N Pandey, SS Ram",
+            "publication": "2021 IEEE International Conference on Autonomous Systems (ICAS), 1-5, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automated Parking Test Using ISAR Images from Automotive Radar",
+                    "author": [
+                        "N Pandey",
+                        "SS Ram"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE International Conference on \u2026",
+                    "abstract": "Automated driving tests using cameras have been researched for expediting the training and testing of car drivers. We propose an automated parking test using millimeter-wave automotive radars. The advantage is that these radars can be operated even in low visibility conditions. We propose generating high-resolution inverse synthetic aperture radar (ISAR) images of a vehicle under test (VUT) parking into a designated parking slot from an externally mounted radar. The trajectory of the motion is estimated from the ISAR data using"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9551189/",
+                "author_id": [
+                    "dHBHt38AAAAJ",
+                    "dwRa-dIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IOhNP93bz78J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomated%2BParking%2BTest%2BUsing%2BISAR%2BImages%2Bfrom%2BAutomotive%2BRadar%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IOhNP93bz78J&ei=KWFkYubSKu-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:IOhNP93bz78J:scholar.google.com/&scioq=Automated+Parking+Test+Using+ISAR+Images+from+Automotive+Radar&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Neeraj-Pandey-16/publication/355675743_AUTOMATED_PARKING_TEST_USING_ISAR_IMAGES_FROM_AUTOMOTIVE_RADAR/links/617951a4eef53e51e1f45a3d/AUTOMATED-PARKING-TEST-USING-ISAR-IMAGES-FROM-AUTOMOTIVE-RADAR.pdf"
+            }
+        },
+        {
+            "title": "Dataset of simulated inverse synthetic aperture radar (ISAR) images of automotive targets",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=dHBHt38AAAAJ&pagesize=100&citation_for_view=dHBHt38AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "dHBHt38AAAAJ:W7OEmFMy1HYC",
+            "authors": "N Pandey, SS Ram",
+            "publication": "Short Link: http://ieee-dataport.org/4036, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Database of simulated inverse synthetic aperture radar images for short range automotive radar",
+                    "author": [
+                        "N Pandey",
+                        "G Duggal",
+                        "SS Ram"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 Radar Conference (RADAR)",
+                    "abstract": "dynamic automotive targets for a short-range automotive radar database of approximately  750 ISAR images for each of five common automotive targets - two cars, truck, bicycle, and auto"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9114780/",
+                "author_id": [
+                    "dHBHt38AAAAJ",
+                    "OklRZKgAAAAJ",
+                    "dwRa-dIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:C1ygQJOUkBMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDataset%2Bof%2Bsimulated%2Binverse%2Bsynthetic%2Baperture%2Bradar%2B(ISAR)%2Bimages%2Bof%2Bautomotive%2Btargets%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=C1ygQJOUkBMJ&ei=L2FkYrniAZqSy9YP8pKNsAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=1409790043532319755&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:C1ygQJOUkBMJ:scholar.google.com/&scioq=Dataset+of+simulated+inverse+synthetic+aperture+radar+(ISAR)+images+of+automotive+targets&hl=en&as_sdt=0,33",
+                "eprint_url": "http://essrg.iiitd.edu.in/wp-content/uploads/2021/07/Database_Of_Simulated_Inverse_Synthetic_Aperture_Radar_Images_For_Short_Range_Automotive_Radar.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 5,
+                    "since_2017": 5
+                }
+            },
+            {
+                "h_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2021,
+                "citations": 4
+            },
+            {
+                "year": 2022,
+                "citations": 1
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Shobha Sundar Ram",
+            "link": "https://scholar.google.com/citations?user=dwRa-dIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=dwRa-dIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "dwRa-dIAAAAJ",
+            "affiliations": "Associate Professor",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=dwRa-dIAAAAJ&citpid=5"
+        },
+        {
+            "name": "Gaurav Duggal",
+            "link": "https://scholar.google.com/citations?user=OklRZKgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=OklRZKgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "OklRZKgAAAAJ",
+            "affiliations": "Virginia Tech, IIIT Delhi, BITS Hyderabad",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=OklRZKgAAAAJ&citpid=1"
+        },
+        {
+            "name": "Shelly Vishwakarma",
+            "link": "https://scholar.google.com/citations?user=oCapOJEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=oCapOJEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "oCapOJEAAAAJ",
+            "affiliations": "University College London (UCL)",
+            "email": "Verified email at ucl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oCapOJEAAAAJ&citpid=3"
+        }
+    ]
+}

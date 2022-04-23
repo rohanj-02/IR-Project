@@ -1,0 +1,1635 @@
+{
+    "search_metadata": {
+        "id": "62574cc537014c2f321e9103",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/1a187df635011556/62574cc537014c2f321e9103.json",
+        "created_at": "2022-04-13 22:20:53 UTC",
+        "processed_at": "2022-04-13 22:20:53 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=AEhI7SMAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/1a187df635011556/62574cc537014c2f321e9103.html",
+        "total_time_taken": 1.28,
+        "total_articles": 32,
+        "total_co_authors": 20
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "AEhI7SMAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Siddhartha Asthana",
+        "affiliations": "Mastercard",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "http://siddasthana.wordpress.com/",
+        "interests": [
+            {
+                "title": "HCI",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:hci",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Ahci"
+            },
+            {
+                "title": "Ubiquitous Computing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:ubiquitous_computing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aubiquitous_computing"
+            },
+            {
+                "title": "Data Science",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:data_science",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Adata_science"
+            },
+            {
+                "title": "Mobile Systems",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mobile_systems",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amobile_systems"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=AEhI7SMAAAAJ&citpid=2"
+    },
+    "articles": [
+        {
+            "title": "A real-time ivr platform for community radio",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:hFOr9nPyWt4C",
+            "citation_id": "AEhI7SMAAAAJ:hFOr9nPyWt4C",
+            "authors": "K Kazakos, S Asthana, M Balaam, M Duggal, A Holden, L Jamir, ...",
+            "publication": "Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems \u2026, 2016",
+            "cited_by": {
+                "value": 56,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6001848587306826238",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6001848587306826238&engine=google_scholar&hl=en",
+                "cites_id": "6001848587306826238"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A real-time ivr platform for community radio",
+                    "author": [
+                        "K Kazakos",
+                        "S Asthana",
+                        "M Balaam",
+                        "M Duggal"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Interactive Voice Response (IVR) platforms have been widely deployed in resource-limited settings. These systems tend to afford asynchronous push interactions, and within the context of health, provide medication reminders, descriptions of symptoms and tips on self-management. Here, we present the development of an IVR system for resource-limited settings that enables real-time, synchronous interaction. Inspired by community radio, and calls for health systems that are truly local, we developed\" Sehat ki Vaani\". Sehat ki"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2858036.2858585",
+                "author_id": [
+                    "P3fwxPQAAAAJ",
+                    "AEhI7SMAAAAJ",
+                    "kzZWAf0AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:_nkasn3ZSlMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Breal-time%2Bivr%2Bplatform%2Bfor%2Bcommunity%2Bradio%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_nkasn3ZSlMJ&ei=WFpkYtOuLoyuyAT-mrWwCA&json=",
+                "num_citations": 57,
+                "citedby_url": "/scholar?cites=6001848587306826238&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_nkasn3ZSlMJ:scholar.google.com/&scioq=A+real-time+ivr+platform+for+community+radio&hl=en&as_sdt=0,33",
+                "eprint_url": "https://dl.acm.org/doi/pdf/10.1145/2858036.2858585"
+            }
+        },
+        {
+            "title": "Airavat: An Automated System to Increase Transparency and Accountability in Social Welfare Schemes in India",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "AEhI7SMAAAAJ:Y0pCki6q_DkC",
+            "authors": "V Srinivasan, V Vardhan, S Kar, S Asthana, R Narayanan, P Singh, ...",
+            "publication": "International Conference on Information and Communication Technologies and \u2026, 2013",
+            "cited_by": {
+                "value": 28,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1902885927959224088",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1902885927959224088&engine=google_scholar&hl=en",
+                "cites_id": "1902885927959224088"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Airavat: An automated system to increase transparency and accountability in social welfare schemes in India",
+                    "author": [
+                        "V Srinivasan",
+                        "V Vardhan",
+                        "S Kar",
+                        "S Asthana"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Activist groups have taken up information dissemination and feedback collection as a means of rights advocacy in India. However, it is not easy given the difficulty in procuring and disseminating information at a large scale. Beneficiaries are often not able to help themselves as information systems are administration facing, because of poor literacy and the inability to access the Internet. Further, beneficiaries are not well informed of their rights and entitlements under different government schemes to know how and when to file"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2517899.2517937",
+                "author_id": [
+                    "Xiow7ukAAAAJ",
+                    "",
+                    "",
+                    "AEhI7SMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GF8ZaKtoaBoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAiravat:%2BAn%2BAutomated%2BSystem%2Bto%2BIncrease%2BTransparency%2Band%2BAccountability%2Bin%2BSocial%2BWelfare%2BSchemes%2Bin%2BIndia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GF8ZaKtoaBoJ&ei=XFpkYoTaMcLZmQHnraWYCA&json=",
+                "num_citations": 28,
+                "citedby_url": "/scholar?cites=1902885927959224088&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GF8ZaKtoaBoJ:scholar.google.com/&scioq=Airavat:+An+Automated+System+to+Increase+Transparency+and+Accountability+in+Social+Welfare+Schemes+in+India&hl=en&as_sdt=0,33",
+                "eprint_url": "http://vglab.cse.iitd.ernet.in/~aseth/airavat.pdf"
+            }
+        },
+        {
+            "title": "Adaptive Framework for Data Transmission over GSM Voice Channel for Developing Regions",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:hC7cP41nSMkC",
+            "citation_id": "AEhI7SMAAAAJ:hC7cP41nSMkC",
+            "authors": "S Asthana, P Singh, S Jain",
+            "publication": "Proceedings of 7th IFIP International Conference on New Technologies \u2026, 2015",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16894220872828726169,12121193726211396930",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16894220872828726169%2C12121193726211396930&engine=google_scholar&hl=en",
+                "cites_id": "16894220872828726169,12121193726211396930"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adaptive framework for data transmission over GSM voice channel for developing regions",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "S Jain"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "2015 7th International Conference \u2026",
+                    "abstract": "Lack of data connectivity and ubiquity of voice network in several rural and remote areas of developing nation has encouraged the research community to build a mechanism for sending data on voice channel for low data rate application such as m-health, micro-financing, etc. Several attempts to send data over GSM voice channel have been explored in the past. The data rate for transmission varies from 100 bps to 3-4 kbps depending upon permissible error rate in different domains. The past techniques use only single voice"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7266471/",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:mSvy2V9UdOoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdaptive%2BFramework%2Bfor%2BData%2BTransmission%2Bover%2BGSM%2BVoice%2BChannel%2Bfor%2BDeveloping%2BRegions%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mSvy2V9UdOoJ&ei=YFpkYv20DrKO6rQPy-CRsA8&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=16894220872828726169&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:mSvy2V9UdOoJ:scholar.google.com/&scioq=Adaptive+Framework+for+Data+Transmission+over+GSM+Voice+Channel+for+Developing+Regions&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Tring! tring!-an exploration and analysis of interactive voice response systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "AEhI7SMAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Asthana, P Singh, P Kumaraguru, A Singh, V Naik",
+            "publication": "4th International Conference on Human Computer Interaction 4, 2012",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1519724021115645652,9073712729546118626",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1519724021115645652%2C9073712729546118626&engine=google_scholar&hl=en",
+                "cites_id": "1519724021115645652,9073712729546118626"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Tring! tring!-an exploration and analysis of interactive voice response systems",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "P Kumaraguru"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "\u2026 Conference on Human \u2026",
+                    "abstract": "In developing regions like India, voice based telecommunication services are one of the most appropriate medium for information dissemination as they overcome prevalent low literacy rate. However, voice based Interactive Voice Response (IVR) systems are still not exploited to their full potential and are commonly considered as frustrating to use. We did a real world experiment to investigate the usability issues of a voice based system. In this paper, we report analysis of our experimental IVR and interface difficulties as experienced"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Pushpendra-Singh-16/publication/268406391_Tring_Tring_-An_Exploration_and_Analysis_of_Interactive_Voice_Response_Systems/links/562f075508aef25a24445899/Tring-Tring-An-Exploration-and-Analysis-of-Interactive-Voice-Response-Systems.pdf",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "MfzQyP8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:1O45A_IkFxUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTring!%2Btring!-an%2Bexploration%2Band%2Banalysis%2Bof%2Binteractive%2Bvoice%2Bresponse%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1O45A_IkFxUJ&ei=Y1pkYrHFGZGJmwGY-qmYDQ&json=",
+                "num_citations": 22,
+                "citedby_url": "/scholar?cites=1519724021115645652&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:1O45A_IkFxUJ:scholar.google.com/&scioq=Tring!+tring!-an+exploration+and+analysis+of+interactive+voice+response+systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pushpendra-Singh-16/publication/268406391_Tring_Tring_-An_Exploration_and_Analysis_of_Interactive_Voice_Response_Systems/links/562f075508aef25a24445899/Tring-Tring-An-Exploration-and-Analysis-of-Interactive-Voice-Response-Systems.pdf"
+            }
+        },
+        {
+            "title": "Design and evaluation of adaptive interfaces for ivr systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "AEhI7SMAAAAJ:zYLM7Y9cAGgC",
+            "authors": "S Asthana, P Singh, A Singh",
+            "publication": "CHI'13 Extended Abstracts on Human Factors in Computing Systems, 1713-1718, 2013",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11284069743558745750",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11284069743558745750&engine=google_scholar&hl=en",
+                "cites_id": "11284069743558745750"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Design and evaluation of adaptive interfaces for ivr systems",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "CHI'13 Extended Abstracts on Human \u2026",
+                    "abstract": "Dialing a telephone number of an organization and coming across an automated system attending the call, instead of a human, has become common. These automated applications are known as Interactive Voice Response (IVR) systems. In developing nations, IVR systems are mostly touch-tone (key-press) because of under-supported speech technologies for non-English native languages and accents. Optimizing such IVR systems is crucial as they are often considered as time consuming and frustrating and further becomes more challenging"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2468356.2468663",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ll6NbaURmZwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDesign%2Band%2Bevaluation%2Bof%2Badaptive%2Binterfaces%2Bfor%2Bivr%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ll6NbaURmZwJ&ei=Z1pkYs_WCJqSy9YP8pKNsAE&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=11284069743558745750&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ll6NbaURmZwJ:scholar.google.com/&scioq=Design+and+evaluation+of+adaptive+interfaces+for+ivr+systems&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Survival analysis: objective assessment of wait time in HCI",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:IWHjjKOFINEC",
+            "citation_id": "AEhI7SMAAAAJ:IWHjjKOFINEC",
+            "authors": "S Asthana, P Singh, P Gupta",
+            "publication": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing \u2026, 2015",
+            "cited_by": {
+                "value": 18,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12005718900291353153",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12005718900291353153&engine=google_scholar&hl=en",
+                "cites_id": "12005718900291353153"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Survival analysis: objective assessment of wait time in HCI",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "P Gupta"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 33rd Annual ACM \u2026",
+                    "abstract": "Waiting for the completion of a system process is an everyday experience. While waiting, system provides feedback to the user about ongoing process through temporal metaphors (Progress bar, Busy icons, etc.). One of the key performance requirement for temporal metaphors is to retain the user till the process completes. Researchers have evaluated these metaphors through subjective means, and objective assessment has not been well explored. In this paper, we present survival analysis as objective assessment method to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2702123.2702428",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:QToPFbvhnKYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSurvival%2Banalysis:%2Bobjective%2Bassessment%2Bof%2Bwait%2Btime%2Bin%2BHCI%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QToPFbvhnKYJ&ei=alpkYt-UKM6E6rQP5-KmKA&json=",
+                "num_citations": 18,
+                "citedby_url": "/scholar?cites=12005718900291353153&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QToPFbvhnKYJ:scholar.google.com/&scioq=Survival+analysis:+objective+assessment+of+wait+time+in+HCI&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pushpendra-Singh-16/publication/283255305_Survival_Analysis_Objective_assessment_of_Wait_Time_in_HCI/links/562f1d6908ae518e34838d4f/Survival-Analysis-Objective-assessment-of-Wait-Time-in-HCI.pdf"
+            }
+        },
+        {
+            "title": "MVoice: A Mobile Based Generic ICT Tool",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "AEhI7SMAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "S Asthana, P Singh",
+            "publication": "International Conference on Information and Communication Technologies and \u2026, 2013",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5099259426479475082",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5099259426479475082&engine=google_scholar&hl=en",
+                "cites_id": "5099259426479475082"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mvoice: a mobile based generic ict tool",
+                    "author": [
+                        "S Asthana",
+                        "P Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the Sixth International Conference \u2026",
+                    "abstract": "After studying existing tools, we have developed a generic mobile-based ICT tool, named  MVoice, which can serve in multiple contexts with minimal configuration changes. Our tool can"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2517899.2517940",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ignfbG41xEYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMVoice:%2BA%2BMobile%2BBased%2BGeneric%2BICT%2BTool%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ignfbG41xEYJ&ei=blpkYte2O-HDywSSipaYAg&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=5099259426479475082&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ignfbG41xEYJ:scholar.google.com/&scioq=MVoice:+A+Mobile+Based+Generic+ICT+Tool&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pushpendra-Singh-16/publication/262157329_MVoice_a_mobile_based_generic_ICT_tool/links/562f1e1d08aef25a24445a10/MVoice-a-mobile-based-generic-ICT-tool.pdf"
+            }
+        },
+        {
+            "title": "Exploring the usability of interactive voice response system's design",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "AEhI7SMAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Asthana, P Singh, A Singh",
+            "publication": "Proceedings of the 3rd ACM Symposium on Computing for Development, 1-2, 2013",
+            "cited_by": {
+                "value": 15,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2537569946812467989",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2537569946812467989&engine=google_scholar&hl=en",
+                "cites_id": "2537569946812467989"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploring the usability of interactive voice response system's design",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the 3rd ACM Symposium \u2026",
+                    "abstract": "In this work, we propose a 3-Dimensional information space to study the usability of different designs of Interactive Voice Response system (IVR). We study three different system design of IVR through real world experiment and control lab studies. Relative position of each system design is investigated in the proposed information space."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2442882.2442924",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Fct2CGxCNyMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploring%2Bthe%2Busability%2Bof%2Binteractive%2Bvoice%2Bresponse%2Bsystem%2527s%2Bdesign%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Fct2CGxCNyMJ&ei=clpkYreYGIyuyAT-mrWwCA&json=",
+                "num_citations": 15,
+                "citedby_url": "/scholar?cites=2537569946812467989&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Fct2CGxCNyMJ:scholar.google.com/&scioq=Exploring+the+usability+of+interactive+voice+response+system%27s+design&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Pushpendra-Singh-16/publication/262275701_Exploring_the_usability_of_interactive_voice_response_system's_design/links/5635ae0908ae75884113af02/Exploring-the-usability-of-interactive-voice-response-systems-design.pdf"
+            }
+        },
+        {
+            "title": "A usability study of adaptive interfaces for interactive voice response system",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "AEhI7SMAAAAJ:d1gkVwhDpl0C",
+            "authors": "S Asthana, P Singh, A Singh",
+            "publication": "Proceedings of the 3rd ACM Symposium on Computing for Development, 1-2, 2013",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11052272856006638901",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11052272856006638901&engine=google_scholar&hl=en",
+                "cites_id": "11052272856006638901"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A usability study of adaptive interfaces for interactive voice response system",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the 3rd ACM Symposium \u2026",
+                    "abstract": "Navigation problems in such IVR systems results in time consuming interaction. In this  work, we propose and evaluate two approaches of adaptive user interface to enable faster  access to information in key-press based IVR systems.  In this work, we propose and  investigate performance of two approaches for adaptive user interface in IVR system in  order to reduce navigation time. Our"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2442882.2442922",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Nb335pqPYZkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Busability%2Bstudy%2Bof%2Badaptive%2Binterfaces%2Bfor%2Binteractive%2Bvoice%2Bresponse%2Bsystem%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Nb335pqPYZkJ&ei=dlpkYtm_JbKO6rQPy-CRsA8&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=11052272856006638901&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Nb335pqPYZkJ:scholar.google.com/&scioq=A+usability+study+of+adaptive+interfaces+for+interactive+voice+response+system&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Assessing Designs of Interactive Voice Response Systems for Better Usability",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "AEhI7SMAAAAJ:W7OEmFMy1HYC",
+            "authors": "S Asthana, P Singh, A Singh",
+            "publication": "HCI International 2013, Las Vegas, NV, USA, July 21-26, 2013, 183-192, 2013",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3416638066157351985",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3416638066157351985&engine=google_scholar&hl=en",
+                "cites_id": "3416638066157351985"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Assessing designs of interactive voice response systems for better usability",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "\u2026 of Design, User Experience, and Usability",
+                    "abstract": "Interactive Voice Response Systems (IVR) have emerged as a popular medium to access information over phones. Despite the low usability of IVR systems, they are widely used by commercial organizations due to high reach of phones. Several studies have focused on improving the usability and design of IVR systems. An IVR can be designed in several ways which can have one or more features like touch-tone, speech recognition, content searching etc. However, selecting an appropriate design requires comparison of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-642-39229-0_21",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "23sEH38AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:MfRiEzhWai8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAssessing%2BDesigns%2Bof%2BInteractive%2BVoice%2BResponse%2BSystems%2Bfor%2BBetter%2BUsability%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MfRiEzhWai8J&ei=elpkYqnSAfmQ6rQP5OqKqAo&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=3416638066157351985&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:MfRiEzhWai8J:scholar.google.com/&scioq=Assessing+Designs+of+Interactive+Voice+Response+Systems+for+Better+Usability&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-39229-0_21.pdf"
+            }
+        },
+        {
+            "title": "Mocktell: Exploring challenges of user emulation in interactive voice response testing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "AEhI7SMAAAAJ:UeHWp8X0CEIC",
+            "authors": "S Asthana, P Singh, A Singh",
+            "publication": "Proceedings of the 4th ACM/SPEC International Conference on Performance \u2026, 2013",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15949298513509584668",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15949298513509584668&engine=google_scholar&hl=en",
+                "cites_id": "15949298513509584668"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mocktell: Exploring challenges of user emulation in interactive voice response testing",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "Proceedings of the 4th ACM/SPEC \u2026",
+                    "abstract": "Increasing use of telephone devices has made the Interactive Voice Response (IVR), a technology for accessing information over phone, popular among the commercial organizations. IVR systems are used for critical applications like flight reservation, tele-banking, etc. which requires to have well tested IVR systems. Manual testing of an IVR application requires dialing number, listening and responding to voice prompts through key-press or speech."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2479871.2479939",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:HI9nun5KV90J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMocktell:%2BExploring%2Bchallenges%2Bof%2Buser%2Bemulation%2Bin%2Binteractive%2Bvoice%2Bresponse%2Btesting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=HI9nun5KV90J&ei=fFpkYsOlIrKO6rQPy-CRsA8&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=15949298513509584668&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:HI9nun5KV90J:scholar.google.com/&scioq=Mocktell:+Exploring+challenges+of+user+emulation+in+interactive+voice+response+testing&hl=en&as_sdt=0,33",
+                "eprint_url": "http://research.spec.org/icpe_proceedings/2013/p427.pdf"
+            }
+        },
+        {
+            "title": "Maareech: Usability testing tool for voice response system using xml based user models",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:qUcmZB5y_30C",
+            "citation_id": "AEhI7SMAAAAJ:qUcmZB5y_30C",
+            "authors": "S Asthana, P Singh",
+            "publication": "Design, User Experience, and Usability: Design Discourse, 101-112, 2015",
+            "cited_by": {
+                "value": 10,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8297475255234669118",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8297475255234669118&engine=google_scholar&hl=en",
+                "cites_id": "8297475255234669118"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Maareech: Usability testing tool for voice response system using xml based user models",
+                    "author": [
+                        "S Asthana",
+                        "P Singh"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Design, User Experience, and Usability: Design \u2026",
+                    "abstract": "Interactive Voice Response Systems (IVRS) are popular voice-based systems to access information over the telephone. In developing regions, HCI researchers have shown keen interest in IVRS due to high affordability and reach among rural, poor, and illiterate users. However, IVRS are also notorious for their usability issues. This makes researchers thrive for more usable IVRS. The lack of automated usability testing tools for voice-based systems makes researchers depend on human subjects for testing their proposed IVR"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-20886-2_10",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:PirbYMiNJnMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMaareech:%2BUsability%2Btesting%2Btool%2Bfor%2Bvoice%2Bresponse%2Bsystem%2Busing%2Bxml%2Bbased%2Buser%2Bmodels%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PirbYMiNJnMJ&ei=gVpkYubyAYOEmgHx-5DADA&json=",
+                "num_citations": 10,
+                "citedby_url": "/scholar?cites=8297475255234669118&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PirbYMiNJnMJ:scholar.google.com/&scioq=Maareech:+Usability+testing+tool+for+voice+response+system+using+xml+based+user+models&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-319-20886-2_10"
+            }
+        },
+        {
+            "title": "Data driven usability: A case for adaptive interfaces in voice based menu systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:-f6ydRqryjwC",
+            "citation_id": "AEhI7SMAAAAJ:-f6ydRqryjwC",
+            "authors": "S Asthana, P Singh",
+            "publication": "Proceedings of the 15th New Zealand Conference on Human-Computer Interaction \u2026, 2015",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6971989628087080194",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6971989628087080194&engine=google_scholar&hl=en",
+                "cites_id": "6971989628087080194"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Data driven usability: A case for adaptive interfaces in voice based menu systems",
+                    "author": [
+                        "S Asthana",
+                        "P Singh"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Proceedings of the 15th New Zealand Conference \u2026",
+                    "abstract": "Interactive Voice Response (IVR) systems provide access to information over the phone by responding to a pre-defined menu either through key presses or voice commands. Despite being in use for a long period, IVR systems are still considered time-consuming and frustrating to use. In this work, we show that a significant portion of the call duration goes in selecting the correct menu option. Since the menu options are presented sequentially, more time is required to access menu options appearing later in the sequence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2808047.2808052",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ApXWp6B7wWAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData%2Bdriven%2Busability:%2BA%2Bcase%2Bfor%2Badaptive%2Binterfaces%2Bin%2Bvoice%2Bbased%2Bmenu%2Bsystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ApXWp6B7wWAJ&ei=hFpkYpWSCIOEmgHx-5DADA&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=6971989628087080194&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ApXWp6B7wWAJ:scholar.google.com/&scioq=Data+driven+usability:+A+case+for+adaptive+interfaces+in+voice+based+menu+systems&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Exploring adverse effects of adaptive voice menu",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "AEhI7SMAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Asthana, P Singh, A Singh",
+            "publication": "CHI'13 Extended Abstracts on Human Factors in Computing Systems, 775-780, 2013",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5135461570325913545",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5135461570325913545&engine=google_scholar&hl=en",
+                "cites_id": "5135461570325913545"
+            },
+            "year": "2013",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploring adverse effects of adaptive voice menu",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "A Singh"
+                    ],
+                    "pub_year": "2013",
+                    "venue": "CHI'13 Extended Abstracts on Human \u2026",
+                    "abstract": "Menus are one of the effective user interfaces which is used for navigation in many systems like desktop applications, voice system, etc. Placement of each menu item in the menu tree is known as menu configuration. Deciding optimal configuration in a menu based system is a challenging task. This task to decide the optimal configuration dynamically can be done through adaptive interfaces. Adaptive interfaces play significant role when optimality varies with time. However, the negative impacts of adaptive interfaces on the users familiar with the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/2468356.2468494",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "23sEH38AAAAJ",
+                    "Yipk0X4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:yR_y4BbTREcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploring%2Badverse%2Beffects%2Bof%2Badaptive%2Bvoice%2Bmenu%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yR_y4BbTREcJ&ei=iFpkYq2jDpGJmwGY-qmYDQ&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=5135461570325913545&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:yR_y4BbTREcJ:scholar.google.com/&scioq=Exploring+adverse+effects+of+adaptive+voice+menu&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Deep Learning-Based Time Series Forecasting",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "AEhI7SMAAAAJ:_Qo2XoVZTnwC",
+            "authors": "K Agarwal, L Dheekollu, G Dhama, A Arora, S Asthana, T Bhowmik",
+            "publication": "Deep Learning Applications, Volume 3, 151-169, 2022",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8234397022164276024",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8234397022164276024&engine=google_scholar&hl=en",
+                "cites_id": "8234397022164276024"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Deep learning-based approach for time series forecasting with application to electricity load",
+                    "author": [
+                        "JF Torres",
+                        "AM Fern\u00e1ndez",
+                        "A Troncoso"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "\u2026 Work-Conference on \u2026",
+                    "abstract": "to predict times series using deep learning. In particular, the method can be used for arbitrary  time  This section reviews relevant works in the context of time series forecasting and deep"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-319-59773-7_21",
+                "author_id": [
+                    "gdz_O7MAAAAJ",
+                    "",
+                    "IoCksAQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5xAj03Y5vkUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDeep%2BLearning-Based%2BTime%2BSeries%2BForecasting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5xAj03Y5vkUJ&ei=jFpkYuLUDZyO6rQP_qe3mAs&json=",
+                "num_citations": 40,
+                "citedby_url": "/scholar?cites=5025517416703267047&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:5xAj03Y5vkUJ:scholar.google.com/&scioq=Deep+Learning-Based+Time+Series+Forecasting&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Jose-Torres-92/publication/316008454_Deep_Learning-Based_Approach_for_Time_Series_Forecasting_with_Application_to_Electricity_Load/links/59da508b0f7e9b12b36d85e8/Deep-Learning-Based-Approach-for-Time-Series-Forecasting-with-Application-to-Electricity-Load.pdf"
+            }
+        },
+        {
+            "title": "Exploring Generative Data Augmentation in Multivariate Time Series Forecasting: Opportunities and Challenges",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:k_IJM867U9cC",
+            "citation_id": "AEhI7SMAAAAJ:k_IJM867U9cC",
+            "authors": "A Debnath, G Waghmare, H Wadhwa, S Asthana, A Arora",
+            "publication": "Solar-Energy 137, 52,560, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2136100127721421401",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2136100127721421401&engine=google_scholar&hl=en",
+                "cites_id": "2136100127721421401"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploring Generative Data Augmentation in Multivariate Time Series Forecasting: Opportunities and Challenges",
+                    "author": [
+                        "A Debnath",
+                        "G Waghmare",
+                        "H Wadhwa",
+                        "S Asthana"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Solar \u2026",
+                    "abstract": "In multivariate time series (MTS), each time point constitutes multiple time-dependent variables. Short-term and long-term correlation of these variables is a significant characteristic of MTS, and is a key challenge while modelling the same. While classical auto-regressive models are heavily used to model MTS, neural models are more flexible and efficient. However, neural models rely on a large amount of labelled data for training. Availability of labelled time series data could be a bottleneck in real-world scenarios. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_7.pdf",
+                "author_id": [
+                    "9_SZhIYAAAAJ",
+                    "QtutNncAAAAJ",
+                    "0e73swcAAAAJ",
+                    "AEhI7SMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WXqApb_zpB0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploring%2BGenerative%2BData%2BAugmentation%2Bin%2BMultivariate%2BTime%2BSeries%2BForecasting:%2BOpportunities%2Band%2BChallenges%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WXqApb_zpB0J&ei=lFpkYraqEaKUy9YP_JONiAY&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=2136100127721421401&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WXqApb_zpB0J:scholar.google.com/&scioq=Exploring+Generative+Data+Augmentation+in+Multivariate+Time+Series+Forecasting:+Opportunities+and+Challenges&hl=en&as_sdt=0,33",
+                "eprint_url": "https://kdd-milets.github.io/milets2021/papers/MiLeTS2021_paper_7.pdf"
+            }
+        },
+        {
+            "title": "Building efficient mobile systems and applications for supporting information exchange in resource limited settings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:HDshCWvjkbEC",
+            "citation_id": "AEhI7SMAAAAJ:HDshCWvjkbEC",
+            "authors": "S Asthana, P Singh",
+            "publication": "IIIT-Delhi, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10721480005113636956",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10721480005113636956&engine=google_scholar&hl=en",
+                "cites_id": "10721480005113636956"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Building efficient mobile systems and applications for supporting information exchange in resource limited settings",
+                    "author": [
+                        "S Asthana",
+                        "P Singh"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "NA",
+                    "abstract": "Enabling support for information exchange has a great impact on the development of different sections of the society. Mobile phones using telecommunication services have enabled such support in several scenarios including healthcare, agriculture, and physical safety. In many scenarios, mobile phones are also the preferred technological medium like reaching out to police or hospital for assistance in emergency situations. In several geographies such as rural areas of developing regions, mobile phones are the only possible"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/514",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XGhAg0JZypQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBuilding%2Befficient%2Bmobile%2Bsystems%2Band%2Bapplications%2Bfor%2Bsupporting%2Binformation%2Bexchange%2Bin%2Bresource%2Blimited%2Bsettings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XGhAg0JZypQJ&ei=olpkYpW2DuiSy9YPp-OyiAE&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=10721480005113636956&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XGhAg0JZypQJ:scholar.google.com/&scioq=Building+efficient+mobile+systems+and+applications+for+supporting+information+exchange+in+resource+limited+settings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/514/PhD1009.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Context-aware IVR: challenges and opportunities",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "AEhI7SMAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Asthana, P Singh, A Singh, V Naik",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16966647128219503451",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16966647128219503451&engine=google_scholar&hl=en",
+                "cites_id": "16966647128219503451"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Context-aware IVR: challenges and opportunities",
+                    "author": [
+                        "S Asthana",
+                        "P Singh",
+                        "A Singh",
+                        "V Naik"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "NA",
+                    "abstract": "Voice based telecommunication services are emerging as most appropriate medium for information dissemination in developing regions, as they overcome prevalent low literacy rate and are more reachable than any other medium like internet. However, present-day Interactive Voice Response (IVR) systems are not able to capture user requirements and present a rigid interface to its users, and thus the IVR systems are commonly considered as frustrating to use. In this paper, we are proposing an architecture to build context-aware IVR"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/jspui/handle/123456789/29",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ",
+                    "Yipk0X4AAAAJ",
+                    "HF7IPeQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:W8vsgqujdesJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DContext-aware%2BIVR:%2Bchallenges%2Band%2Bopportunities%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W8vsgqujdesJ&ei=plpkYsbfDeHDywSSipaYAg&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=16966647128219503451&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:W8vsgqujdesJ:scholar.google.com/&scioq=Context-aware+IVR:+challenges+and+opportunities&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/29/IIITD-TR-2011-008.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "Extracting joint topic-sentiment models from text inputs",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:r0BpntZqJG4C",
+            "citation_id": "AEhI7SMAAAAJ:r0BpntZqJG4C",
+            "authors": "S Roy, MV Varma, S Asthana, M Gupta, A Chaturvedi",
+            "publication": "US Patent 11,238,243, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Extracting joint topic-sentiment models from text inputs",
+                    "author": [
+                        "S Roy",
+                        "MV Varma",
+                        "S Asthana",
+                        "M Gupta"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "US Patent \u2026",
+                    "abstract": "There is a need for solutions for more effective and efficient natural language processing systems for short texts. This need can be addressed, for example, by a system configured to obtain an initial term-topic correlation data object for a plurality of digital documents, obtain a user-defined term-topic correlation data object for the plurality of digital documents, generate a refined term-topic correlation data object and a refined document-sentiment correlation data object for the plurality of digital documents based at least in part on the initial term-topic"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US11238243B2/en",
+                "author_id": [
+                    "JD8T25MAAAAJ",
+                    "",
+                    "AEhI7SMAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:lCuLCfxEWYMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExtracting%2Bjoint%2Btopic-sentiment%2Bmodels%2Bfrom%2Btext%2Binputs%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lCuLCfxEWYMJ&ei=qlpkYovLEIuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:lCuLCfxEWYMJ:scholar.google.com/&scioq=Extracting+joint+topic-sentiment+models+from+text+inputs&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/a9/52/1d/1e6839b3e1dab1/US11238243.pdf"
+            }
+        },
+        {
+            "title": "Modeling approaches for Silent Attrition prediction in Payment networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:JV2RwH3_ST0C",
+            "citation_id": "AEhI7SMAAAAJ:JV2RwH3_ST0C",
+            "authors": "L Dheekollu, H Wadhwa, S Vimal, A Gupta, S Asthana, A Arora, S Gupta",
+            "publication": "2021 20th IEEE International Conference on Machine Learning and Applications \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Modeling approaches for Silent Attrition prediction in Payment networks",
+                    "author": [
+                        "L Dheekollu",
+                        "H Wadhwa",
+                        "S Vimal"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 20th IEEE \u2026",
+                    "abstract": "Predicting customer attrition (churn) is a well known problem in industries that provide services, like financial institutions, telecommunications, e-commerce, and retail. There are two kinds of attrition-active and passive (silent). Active attrition is usually associated with subscription-based business models, commonly seen in telecommunications and internet industries like Netflix. In industries like finance, retail, and ecommerce, we see the other kind of attrition-silent attrition where customers stop doing business without formal notice. This"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9680145/",
+                "author_id": [
+                    "",
+                    "0e73swcAAAAJ",
+                    "llq-pDsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5iorHdz2KdsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DModeling%2Bapproaches%2Bfor%2BSilent%2BAttrition%2Bprediction%2Bin%2BPayment%2Bnetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5iorHdz2KdsJ&ei=rVpkYpKMCIySyASZk6HgCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:5iorHdz2KdsJ:scholar.google.com/&scioq=Modeling+approaches+for+Silent+Attrition+prediction+in+Payment+networks&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Temporal Debiasing using Adversarial Loss based GNN architecture for Crypto Fraud Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:M3NEmzRMIkIC",
+            "citation_id": "AEhI7SMAAAAJ:M3NEmzRMIkIC",
+            "authors": "A Singh, A Gupta, H Wadhwa, S Asthana, A Arora",
+            "publication": "2021 20th IEEE International Conference on Machine Learning and Applications \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Temporal Debiasing using Adversarial Loss based GNN architecture for Crypto Fraud Detection",
+                    "author": [
+                        "A Singh",
+                        "A Gupta",
+                        "H Wadhwa"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 20th IEEE \u2026",
+                    "abstract": "The tremendous rise of cryptocurrency in the payment domain has unlocked huge opportunities but also raised numerous challenges in parallel involving cybercriminal activities like money laundering, terrorist financing, illegal and risky services, etc, owing to its anonymous and decentralized setup. The demand for building a more transparent cryptocurrency network, resilient to such activities, has risen extensively as more financial institutions look to incorporate it into their network. While a plethora of traditional machine"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9680261/",
+                "author_id": [
+                    "",
+                    "",
+                    "0e73swcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5A8-S-dUQG0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTemporal%2BDebiasing%2Busing%2BAdversarial%2BLoss%2Bbased%2BGNN%2Barchitecture%2Bfor%2BCrypto%2BFraud%2BDetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5A8-S-dUQG0J&ei=sVpkYv2EFZyO6rQP_qe3mAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:5A8-S-dUQG0J:scholar.google.com/&scioq=Temporal+Debiasing+using+Adversarial+Loss+based+GNN+architecture+for+Crypto+Fraud+Detection&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:TFP_iSt0sucC",
+            "citation_id": "AEhI7SMAAAAJ:TFP_iSt0sucC",
+            "authors": "M Gramopadhye, S Singh, K Agarwal, N Srivasatava, AM Singh, ...",
+            "publication": "International Conference on Artificial Neural Networks, 16-29, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds",
+                    "author": [
+                        "M Gramopadhye",
+                        "S Singh",
+                        "K Agarwal"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 Conference on Artificial \u2026",
+                    "abstract": "Payment networks like Mastercard or Visa process billions of transactions every year. A significant number of these transactions are fraudulent that cause huge losses to financial institutions. Conventional fraud detection methods fail to capture higher-order interactions between payment entities ie, cards and merchants, which could be crucial to detect out-of-pattern, possibly fraudulent transactions. Several works have focused on capturing these interactions by representing the transaction data either as a bipartite graph or homogeneous"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2",
+                "author_id": [
+                    "ch7sOcUAAAAJ",
+                    "x8LmoJIAAAAJ",
+                    "ZOdmj38AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:X6t3ChT7j0gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCuRL:%2BCoupled%2BRepresentation%2BLearning%2Bof%2BCards%2Band%2BMerchants%2Bto%2BDetect%2BTransaction%2BFrauds%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=X6t3ChT7j0gJ&ei=t1pkYv7iDIOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:X6t3ChT7j0gJ:scholar.google.com/&scioq=CuRL:+Coupled+Representation+Learning+of+Cards+and+Merchants+to+Detect+Transaction+Frauds&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Natural language processing using joint topic-sentiment detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:iH-uZ7U-co4C",
+            "citation_id": "AEhI7SMAAAAJ:iH-uZ7U-co4C",
+            "authors": "S Roy, S Asthana, A Miglani, S Jindal, S Das, A Chaturvedi",
+            "publication": "US Patent 11,120,229, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Natural language processing using joint topic-sentiment detection",
+                    "author": [
+                        "S Roy",
+                        "S Asthana",
+                        "A Miglani",
+                        "S Jindal",
+                        "S Das"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "US Patent \u2026",
+                    "abstract": "There is a need for solutions for more effective and efficient natural language processing systems. This need can be addressed, for example, by a system configured to obtain a term correlation data object for a plurality of digital documents; determine, based at least in part on the term correlation data object, a term-topic correlation data object for the plurality of digital documents; determine, based at least in part on the term-topic correlation data object, a document-topic correlation data object for the plurality of digital documents; determine"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US11120229B2/en",
+                "author_id": [
+                    "JD8T25MAAAAJ",
+                    "AEhI7SMAAAAJ",
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:tsXTGcbU-gEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNatural%2Blanguage%2Bprocessing%2Busing%2Bjoint%2Btopic-sentiment%2Bdetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tsXTGcbU-gEJ&ei=uVpkYv6UNZGJmwGY-qmYDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:tsXTGcbU-gEJ:scholar.google.com/&scioq=Natural+language+processing+using+joint+topic-sentiment+detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/3f/92/79/c4b7ad9dec204c/US11120229.pdf"
+            }
+        },
+        {
+            "title": "Adversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:blknAaTinKkC",
+            "citation_id": "AEhI7SMAAAAJ:blknAaTinKkC",
+            "authors": "A Debnath, N Gupta, G Waghmare, H Wadhwa, S Asthana, A Arora",
+            "publication": "Joint European Conference on Machine Learning and Knowledge Discovery in \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Adversarial Generation of Temporal Data: A Critique on Fidelity of Synthetic Data",
+                    "author": [
+                        "A Debnath",
+                        "N Gupta",
+                        "G Waghmare",
+                        "H Wadhwa"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "\u2026 Conference on Machine \u2026",
+                    "abstract": "Generative modelling for temporal data has seen a paradigm shift from autoregressive to adversarial models. Adversarial generation algorithms have proven to be more efficient in capturing the complex temporal correlations that the simplistic autoregressive model could not. Albeit, high-fidelity remains a concern even for adversarial modelling. The generation of high-fidelity data requires the model to have three strengths: capture feature correlations, model long-term dependencies, and scalability in dimensions. This paper analyzes these"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-93736-2_24",
+                "author_id": [
+                    "9_SZhIYAAAAJ",
+                    "",
+                    "QtutNncAAAAJ",
+                    "0e73swcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:1vl42CEp1ZcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAdversarial%2BGeneration%2Bof%2BTemporal%2BData:%2BA%2BCritique%2Bon%2BFidelity%2Bof%2BSynthetic%2BData%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1vl42CEp1ZcJ&ei=vVpkYoX9DYOEmgHx-5DADA&json=",
+                "num_citations": 0
+            }
+        },
+        {
+            "title": "Natural language processing using joint sentiment-topic modeling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:j3f4tGmQtD8C",
+            "citation_id": "AEhI7SMAAAAJ:j3f4tGmQtD8C",
+            "authors": "A Sengupta, S Roy, S Asthana, G Ranjan",
+            "publication": "US Patent 11,068,666, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Natural language processing using joint sentiment-topic modeling",
+                    "author": [
+                        "A Sengupta",
+                        "S Roy",
+                        "S Asthana",
+                        "G Ranjan"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "US Patent 11,068,666",
+                    "abstract": "There is a need for more effective and efficient natural language processing (NLP) solutions. This need can be addressed by, for example, solutions for performing NLP analysis by utilizing joint topic-sentiment (JST) modeling. In one example, a method comprises receiving a per-document topic distribution for a digital document, wherein the per-document topic distribution comprises a per-document topic correlation indication for each candidate topic designation; receiving a per-document topic-sentiment distribution for the digital document"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US11068666B2/en",
+                "author_id": [
+                    "90EGfboAAAAJ",
+                    "JD8T25MAAAAJ",
+                    "AEhI7SMAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ptn3GYZLwucJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNatural%2Blanguage%2Bprocessing%2Busing%2Bjoint%2Bsentiment-topic%2Bmodeling%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ptn3GYZLwucJ&ei=wVpkYofIEu-Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ptn3GYZLwucJ:scholar.google.com/&scioq=Natural+language+processing+using+joint+sentiment-topic+modeling&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/21/27/ae/6f27ad806ca9f2/US11068666.pdf"
+            }
+        },
+        {
+            "title": "Data reconciliation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:bEWYMUwI8FkC",
+            "citation_id": "AEhI7SMAAAAJ:bEWYMUwI8FkC",
+            "authors": "S Raamadhurai, AD Sharma, S Asthana, S Venkatasubramaniyan, ...",
+            "publication": "US Patent 10,997,507, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Data reconciliation\u2014progress and challenges",
+                    "author": [
+                        "CM Crowe"
+                    ],
+                    "pub_year": "1996",
+                    "venue": "Journal of process control",
+                    "abstract": "In the absence of gross errors, and with data from a steady state, data reconciliation is  of  the original data. However, gross errors are not revealed until after the reconciliation has been"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/0959152496000121",
+                "author_id": [
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:FeLLa8a0908J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DData%2Breconciliation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FeLLa8a0908J&ei=xVpkYsX-EoOEmgHx-5DADA&json=",
+                "num_citations": 307,
+                "citedby_url": "/scholar?cites=5762273012548887061&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:FeLLa8a0908J:scholar.google.com/&scioq=Data+reconciliation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Cameron-Crowe/publication/222620617_Data_Reconciliation-Progress_and_Challenges/links/5aea41350f7e9b837d3c36dc/Data-Reconciliation-Progress-and-Challenges.pdf"
+            }
+        },
+        {
+            "title": "MeDML: Med-Dynamic Meta Learning-A multi-layered representation to identify provider fraud in healthcare",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:4JMBOYKVnBMC",
+            "citation_id": "AEhI7SMAAAAJ:4JMBOYKVnBMC",
+            "authors": "N Kumar, D Chaurasiya, A Singh, S Asthana, K Agarwal, A Arora",
+            "publication": "The International FLAIRS Conference Proceedings 34, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MeDML: Med-Dynamic Meta Learning-A multi-layered representation to identify provider fraud in healthcare",
+                    "author": [
+                        "N Kumar",
+                        "D Chaurasiya",
+                        "A Singh"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "The International \u2026",
+                    "abstract": "Every year, health insurance fraud costs taxpayers billions of dollars and puts patient's health and welfare at risk. Existing solutions to detect fraudulent providers (hospitals, physicians, etc.) aim to find unusual pattern at claim level features but fail to harness provider-provider and provider-patient interaction information."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://journals.flvc.org/FLAIRS/article/view/128525",
+                "author_id": [
+                    "eHLni4sAAAAJ",
+                    "",
+                    "TBydN8kAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:V6mwQOUdu4gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMeDML:%2BMed-Dynamic%2BMeta%2BLearning-A%2Bmulti-layered%2Brepresentation%2Bto%2Bidentify%2Bprovider%2Bfraud%2Bin%2Bhealthcare%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=V6mwQOUdu4gJ&ei=yFpkYunnG42ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:V6mwQOUdu4gJ:scholar.google.com/&scioq=MeDML:+Med-Dynamic+Meta+Learning-A+multi-layered+representation+to+identify+provider+fraud+in+healthcare&hl=en&as_sdt=0,33",
+                "eprint_url": "https://journals.flvc.org/FLAIRS/article/download/128525/130049"
+            }
+        },
+        {
+            "title": "Pandemic spread prediction and healthcare preparedness through financial and mobility data",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:RHpTSmoSYBkC",
+            "citation_id": "AEhI7SMAAAAJ:RHpTSmoSYBkC",
+            "authors": "N Mulay, V Bishnoi, H Charotia, S Asthana, G Dhama, A Arora",
+            "publication": "2020 19th IEEE International Conference on Machine Learning and Applications \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Pandemic spread prediction and healthcare preparedness through financial and mobility data",
+                    "author": [
+                        "N Mulay",
+                        "V Bishnoi",
+                        "H Charotia"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 19th IEEE \u2026",
+                    "abstract": "The pandemics like Coronavirus disease 2019 (COVID-19) require Governments and health professionals to make time-sensitive, critical decisions about travel restrictions and resource allocations. This paper identifies various factors that affect the spread of the disease using transaction data and proposes a model to predict the degree of spread of the disease and thus the number of medical resources required in upcoming weeks. We perform a region-wise analysis of these factors to identify the control measures that affect the minimal set of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9356320/",
+                "author_id": [
+                    "NTDYPsoAAAAJ",
+                    "v3NO13IAAAAJ",
+                    "N9O_E6AAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jiLd3Tk52NgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPandemic%2Bspread%2Bprediction%2Band%2Bhealthcare%2Bpreparedness%2Bthrough%2Bfinancial%2Band%2Bmobility%2Bdata%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jiLd3Tk52NgJ&ei=y1pkYqKYEs6E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:jiLd3Tk52NgJ:scholar.google.com/&scioq=Pandemic+spread+prediction+and+healthcare+preparedness+through+financial+and+mobility+data&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aiforpublichealth.github.io/papers/ICLR-AI4PH_paper_29.pdf"
+            }
+        },
+        {
+            "title": "Detecting fake pro\ufb01les on online Matrimony",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:R3hNpaxXUhUC",
+            "citation_id": "AEhI7SMAAAAJ:R3hNpaxXUhUC",
+            "authors": "V Garg, P Kumaraguru, AB Buduru, S Asthana",
+            "publication": "IIIT-Delhi, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Detecting fake pro\ufb01les on online Matrimony",
+                    "author": [
+                        "V Garg",
+                        "P Kumaraguru",
+                        "AB Buduru",
+                        "S Asthana"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "NA",
+                    "abstract": "In a diverse country like India, socio-economic factors like religion, caste, language, income along with other common physical, professional based factors, play a vital role while searching for a spouse. With the surge of Internet connectivity, online matrimonial websites have become hugely popular to cater such needs. Most of the users registered on these portals have genuine intention of \ufb01nding their desired life partner, however due to various factors, it attracts few pro\ufb01les with no genuine intention for the same. Such pro\ufb01les are also"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/808",
+                "author_id": [
+                    "",
+                    "MfzQyP8AAAAJ",
+                    "TmGAyPYAAAAJ",
+                    "AEhI7SMAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ixBz_aCuX28J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDetecting%2Bfake%2Bpro%25EF%25AC%2581les%2Bon%2Bonline%2BMatrimony%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ixBz_aCuX28J&ei=zlpkYpLMF86E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ixBz_aCuX28J:scholar.google.com/&scioq=Detecting+fake+pro%EF%AC%81les+on+online+Matrimony&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/808/MT17064_final_thesis.pdf?sequence=1"
+            }
+        },
+        {
+            "title": "Automated testing of interactive voice response applications",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:ZeXyd9-uunAC",
+            "citation_id": "AEhI7SMAAAAJ:ZeXyd9-uunAC",
+            "authors": "S Asthana, P Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2014",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automated testing of interactive voice response applications",
+                    "author": [
+                        "S Asthana",
+                        "P Singh"
+                    ],
+                    "pub_year": "2014",
+                    "venue": "NA",
+                    "abstract": "Dialing a telephone number of an organization and coming across an automated system attending the call, instead of a human, has become common. These automated applications are known as Interactive Voice Response (IVR) systems. IVR system provides 24x7 connectivity to an organization and many critical applications like customer care services and call routing run on IVR. Thus, it is important to have well tested IVR applications with all the necessary optimization tested by the IVR developers. A variety of tools available to test"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://repository.iiitd.edu.in/xmlui/handle/123456789/125",
+                "author_id": [
+                    "AEhI7SMAAAAJ",
+                    "FniYr_MAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:xC-GYoKUB-MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomated%2Btesting%2Bof%2Binteractive%2Bvoice%2Bresponse%2Bapplications%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xC-GYoKUB-MJ&ei=0VpkYrWLLY2ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:xC-GYoKUB-MJ:scholar.google.com/&scioq=Automated+testing+of+interactive+voice+response+applications&hl=en&as_sdt=0,33",
+                "eprint_url": "https://repository.iiitd.edu.in/xmlui/bitstream/handle/123456789/125/IIITD-TR-2014-001.pdf?sequence=1&isAllowed=y"
+            }
+        },
+        {
+            "title": "2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)| 978-1-6654-4337-1/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109/ICMLA52953. 2021.00282",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:maZDTaKrznsC",
+            "citation_id": "AEhI7SMAAAAJ:maZDTaKrznsC",
+            "authors": "N Abbas, CT Abdallah, MM Abdelrahman, A Hameed, M Sharafath, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)| 978-1-6654-4337-1/21/$31.00\u00a9 2021 IEEE| DOI: 10.1109 \u2026",
+                    "author": [
+                        "N Abbas",
+                        "CT Abdallah",
+                        "MM Abdelrahman",
+                        "A Hameed"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Author Index Page 1 Author Index Abbas, Nadine 415 Abdallah, Chaouki 1209 Abdallah,  Chaouki T. 415 Abdelrahman, Mohamed Maher 746 Abdul Hameed, Mohammed Sharafath  89 Abel, Marie-H\u00e9l\u00e8ne 1704, 1710 Abujar, Sheikh 1235 Adams, Stephen 1100 Adesso,  Michele Franco 754 Adeyemo, Victor Elijah 455 Adigun, Olaoluwa 704, 1407 Adler, Antonia  730 Adluru, Mohan Vamsi 1761 Afifi, Muhanad 1478 Agarwal, Vibhav 1112 Agu, Emmanuel  345, 1010, 1482 Ahmad, Wasim 449 Ahmed, Khandaker Mamun 1146 Akbas, Esra 930, 1333"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9680070/",
+                "author_id": [
+                    "16AjXSUAAAAJ",
+                    "7eh93zUAAAAJ",
+                    "",
+                    "38lKcFgAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:M2tVP_HcDQkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D2021%2B20th%2BIEEE%2BInternational%2BConference%2Bon%2BMachine%2BLearning%2Band%2BApplications%2B(ICMLA)%257C%2B978-1-6654-4337-1/21/%252431.00%25C2%25A9%2B2021%2BIEEE%257C%2BDOI:%2B10.1109/ICMLA52953.%2B2021.00282%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=M2tVP_HcDQkJ&ei=1FpkYpPyNZyO6rQP_qe3mAs&json=",
+                "num_citations": 0,
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/9679834/9679948/09680070.pdf"
+            }
+        },
+        {
+            "title": "Intent2Vec: Representation learning of cardholder and merchant intent from temporal interaction sequences for Fraud detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AEhI7SMAAAAJ&pagesize=100&citation_for_view=AEhI7SMAAAAJ:isC4tDSrTZIC",
+            "citation_id": "AEhI7SMAAAAJ:isC4tDSrTZIC",
+            "authors": "N Kumar, SJ Shaju, K Kayathwal, K Agarwal, A Singh, D Chaurasia, ...",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Intent2Vec: Representation learning of cardholder and merchant intent from temporal interaction sequences for Fraud detection",
+                    "author": [
+                        "N Kumar",
+                        "SJ Shaju",
+                        "K Kayathwal",
+                        "K Agarwal",
+                        "A Singh"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Fraud detection has been a challenging problem for financial institutions as it causes a loss of $24.2 billion per annum globally. This paper focuses on transaction fraud, the most prevalent type of fraud in the payment industry. The ability to detect and decline potential fraudulent transactions in real-time is crucial to guarantee a robust and secure environment for both, cardholders and merchants. Conventional fraud detection techniques predominantly use rule-based methods or extensive manual feature engineering for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://asea2021.github.io/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_4.pdf",
+                "author_id": [
+                    "eHLni4sAAAAJ",
+                    "YpGaU6oAAAAJ",
+                    "_Jy_UN4AAAAJ",
+                    "ZOdmj38AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:q3nteH3d-00J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntent2Vec:%2BRepresentation%2Blearning%2Bof%2Bcardholder%2Band%2Bmerchant%2Bintent%2Bfrom%2Btemporal%2Binteraction%2Bsequences%2Bfor%2BFraud%2Bdetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=q3nteH3d-00J&ei=3FpkYqPRB--Sy9YPs_mY8AM&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:q3nteH3d-00J:scholar.google.com/&scioq=Intent2Vec:+Representation+learning+of+cardholder+and+merchant+intent+from+temporal+interaction+sequences+for+Fraud+detection&hl=en&as_sdt=0,33",
+                "eprint_url": "https://asea2021.github.io/ijcai-asea2021/assets/pdfs/ASEA_2021_paper_4.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 259,
+                    "since_2017": 213
+                }
+            },
+            {
+                "h_index": {
+                    "all": 11,
+                    "since_2017": 9
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 12,
+                    "since_2017": 9
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2013,
+                "citations": 11
+            },
+            {
+                "year": 2014,
+                "citations": 9
+            },
+            {
+                "year": 2015,
+                "citations": 16
+            },
+            {
+                "year": 2016,
+                "citations": 9
+            },
+            {
+                "year": 2017,
+                "citations": 21
+            },
+            {
+                "year": 2018,
+                "citations": 12
+            },
+            {
+                "year": 2019,
+                "citations": 132
+            },
+            {
+                "year": 2020,
+                "citations": 28
+            },
+            {
+                "year": 2021,
+                "citations": 15
+            },
+            {
+                "year": 2022,
+                "citations": 5
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=AEhI7SMAAAAJ",
+        "available": 1,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Pushpendra Singh",
+            "link": "https://scholar.google.com/citations?user=FniYr_MAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=FniYr_MAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "FniYr_MAAAAJ",
+            "affiliations": "IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=FniYr_MAAAAJ&citpid=3"
+        },
+        {
+            "name": "Amarjeet Singh",
+            "link": "https://scholar.google.com/citations?user=Yipk0X4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Yipk0X4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Yipk0X4AAAAJ",
+            "affiliations": "UCLA IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ponnurangam Kumaraguru \"PK\"",
+            "link": "https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MfzQyP8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "MfzQyP8AAAAJ",
+            "affiliations": "#ProfGiri Computer Science @ IIIT Hyderabad, Alumni @ Carnegie Mellon & @ BITS Pilani",
+            "email": "Verified email at iiit.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MfzQyP8AAAAJ&citpid=4"
+        },
+        {
+            "name": "Ankur Arora",
+            "link": "https://scholar.google.com/citations?user=xEtA2J0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xEtA2J0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "xEtA2J0AAAAJ",
+            "affiliations": "MasterCard | IIM Bangalore",
+            "email": "Verified email at mastercard.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Konstantinos Kazakos",
+            "link": "https://scholar.google.com/citations?user=P3fwxPQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=P3fwxPQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "P3fwxPQAAAAJ",
+            "affiliations": "Senior User Experience Researcher at Google",
+            "email": "Verified email at google.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=P3fwxPQAAAAJ&citpid=6"
+        },
+        {
+            "name": "Madeline Balaam",
+            "link": "https://scholar.google.com/citations?user=kzZWAf0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=kzZWAf0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "kzZWAf0AAAAJ",
+            "affiliations": "Associate Professor in Interaction Design, KTH",
+            "email": "Verified email at kth.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=kzZWAf0AAAAJ&citpid=1"
+        },
+        {
+            "name": "GVS Murthy",
+            "link": "https://scholar.google.com/citations?user=16dytPYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=16dytPYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "16dytPYAAAAJ",
+            "affiliations": "Professor Public Health Foundation of India",
+            "email": "Verified email at iiphh.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=16dytPYAAAAJ&citpid=1"
+        },
+        {
+            "name": "Deepika Yadav",
+            "link": "https://scholar.google.com/citations?user=B0sB5H4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=B0sB5H4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "B0sB5H4AAAAJ",
+            "affiliations": "Stockholm University, Sweden",
+            "email": "Verified email at dsv.su.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=B0sB5H4AAAAJ&citpid=11"
+        },
+        {
+            "name": "Peter Wright",
+            "link": "https://scholar.google.com/citations?user=TerQeJEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TerQeJEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "TerQeJEAAAAJ",
+            "affiliations": "Professor of Social Computing University of Newcastle",
+            "email": "Verified email at ncl.ac.uk",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TerQeJEAAAAJ&citpid=2"
+        },
+        {
+            "name": "Dr. Nanda Kishore Kannuri",
+            "link": "https://scholar.google.com/citations?user=7KHUVdYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7KHUVdYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7KHUVdYAAAAJ",
+            "affiliations": "Additional Professor, Indian Institute of Public Health, Hyderabad.PHFI",
+            "email": "Verified email at iiphh.org",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7KHUVdYAAAAJ&citpid=3"
+        },
+        {
+            "name": "Peter Phillimore",
+            "link": "https://scholar.google.com/citations?user=Pw0ARRUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Pw0ARRUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Pw0ARRUAAAAJ",
+            "affiliations": "Professor of Social Anthropology, University of Newcastle",
+            "email": "Verified email at ncl.ac.uk",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Patrick Olivier",
+            "link": "https://scholar.google.com/citations?user=YULFeN0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=YULFeN0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "YULFeN0AAAAJ",
+            "affiliations": "Monash University",
+            "email": "Verified email at monash.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=YULFeN0AAAAJ&citpid=1"
+        },
+        {
+            "name": "Vinayak Naik",
+            "link": "https://scholar.google.com/citations?user=HF7IPeQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=HF7IPeQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "HF7IPeQAAAAJ",
+            "affiliations": "Head of CS Dept, Head of Computing Center, Professor of CS, and Professor in APPCAIR at BITS Pilani",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HF7IPeQAAAAJ&citpid=3"
+        },
+        {
+            "name": "Vivek Srinivasan",
+            "link": "https://scholar.google.com/citations?user=Xiow7ukAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Xiow7ukAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Xiow7ukAAAAJ",
+            "affiliations": "Program on Liberation Technology, Stanford University",
+            "email": "Verified email at stanford.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Xiow7ukAAAAJ&citpid=3"
+        },
+        {
+            "name": "Aaditeshwar Seth",
+            "link": "https://scholar.google.com/citations?user=XpOIYBoAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XpOIYBoAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XpOIYBoAAAAJ",
+            "affiliations": "Computer Science, IIT Delhi",
+            "email": "Verified email at cse.iitd.ernet.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Dipanjan Chakraborty",
+            "link": "https://scholar.google.com/citations?user=TA4ThtAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=TA4ThtAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "TA4ThtAAAAAJ",
+            "affiliations": "Assistant Professor, BITS Pilani Hyderabad; Researcher, Gram Vaani; PhD, IIT Delhi",
+            "email": "Verified email at hyderabad.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=TA4ThtAAAAAJ&citpid=4"
+        },
+        {
+            "name": "Kushagra Agarwal",
+            "link": "https://scholar.google.com/citations?user=ZOdmj38AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ZOdmj38AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ZOdmj38AAAAJ",
+            "affiliations": "Mastercard",
+            "email": "Verified email at mastercard.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Gaurav Dhama",
+            "link": "https://scholar.google.com/citations?user=Q7OntRAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Q7OntRAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Q7OntRAAAAAJ",
+            "affiliations": "Mastercard, IIT Kanpur",
+            "email": "Verified email at mastercard.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "TANMOY BHOWMIK",
+            "link": "https://scholar.google.com/citations?user=aJL75sEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=aJL75sEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "aJL75sEAAAAJ",
+            "affiliations": "Director of AI",
+            "email": "Verified email at mastercard.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=aJL75sEAAAAJ&citpid=1"
+        },
+        {
+            "name": "VIKAS BISHNOI",
+            "link": "https://scholar.google.com/citations?user=v3NO13IAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=v3NO13IAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "v3NO13IAAAAJ",
+            "affiliations": "Senior Specialist, Mastercard",
+            "email": "Verified email at mastercard.com",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

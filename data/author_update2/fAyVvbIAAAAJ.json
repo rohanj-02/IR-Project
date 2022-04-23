@@ -1,0 +1,994 @@
+{
+    "search_metadata": {
+        "id": "62574c570b506296b307335b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/865478a671d63402/62574c570b506296b307335b.json",
+        "created_at": "2022-04-13 22:19:03 UTC",
+        "processed_at": "2022-04-13 22:19:03 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=fAyVvbIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/865478a671d63402/62574c570b506296b307335b.html",
+        "total_time_taken": 1.58,
+        "total_articles": 16,
+        "total_co_authors": 12
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "fAyVvbIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Tanya Shreedhar",
+        "affiliations": "Ph.D. Student-IIIT Delhi | Visiting Researcher-TUM",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.edu.in/~tanyas/",
+        "interests": [
+            {
+                "title": "Wireless Networks",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_networks",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_networks"
+            },
+            {
+                "title": "Transport Protocols",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:transport_protocols",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atransport_protocols"
+            },
+            {
+                "title": "Age of Information",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:age_of_information",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aage_of_information"
+            },
+            {
+                "title": "MPTCP",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:mptcp",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amptcp"
+            },
+            {
+                "title": "QUIC",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:quic",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aquic"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=fAyVvbIAAAAJ&citpid=5"
+    },
+    "articles": [
+        {
+            "title": "QAware: A cross-layer approach to MPTCP scheduling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "fAyVvbIAAAAJ:d1gkVwhDpl0C",
+            "authors": "T Shreedhar, N Mohan, SK Kaul, J Kangasharju",
+            "publication": "2018 IFIP Networking Conference (IFIP Networking) and Workshops, 1-9, 2018",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=595872916369770912",
+                "serpapi_link": "https://serpapi.com/search.json?cites=595872916369770912&engine=google_scholar&hl=en",
+                "cites_id": "595872916369770912"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "QAware: A cross-layer approach to MPTCP scheduling",
+                    "author": [
+                        "T Shreedhar",
+                        "N Mohan",
+                        "SK Kaul"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IFIP Networking \u2026",
+                    "abstract": "Multipath TCP (MPTCP) allows applications to transparently use all available network interfaces by creating a TCP subflow per interface. One critical component of MPTCP is the scheduler that decides which subflow to use for each packet. Existing schedulers typically use estimates of end-to-end path properties, such as delay and bandwidth, for making the scheduling decisions. In this paper, we show that these scheduling decisions can be significantly improved by including readily available local information from the device driver"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8696843/",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "c-Ub9FYAAAAJ",
+                    "XGNQPRsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oAl_p0L3RAgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DQAware:%2BA%2Bcross-layer%2Bapproach%2Bto%2BMPTCP%2Bscheduling%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oAl_p0L3RAgJ&ei=lWBkYundJ4uKmgGY1YjABQ&json=",
+                "num_citations": 22,
+                "citedby_url": "/scholar?cites=595872916369770912&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:oAl_p0L3RAgJ:scholar.google.com/&scioq=QAware:+A+cross-layer+approach+to+MPTCP+scheduling&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1808.04390"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "n mohan",
+                "sanjit krishnan kaul",
+                "j kangasharju"
+            ]
+        },
+        {
+            "title": "An age control transport protocol for delivering fresh updates in the Internet-of-Things",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "fAyVvbIAAAAJ:Y0pCki6q_DkC",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "2019 IEEE 20th International Symposium on\" A World of Wireless, Mobile and \u2026, 2019",
+            "cited_by": {
+                "value": 20,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14102530284372950765",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14102530284372950765&engine=google_scholar&hl=en",
+                "cites_id": "14102530284372950765"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An age control transport protocol for delivering fresh updates in the Internet-of-Things",
+                    "author": [
+                        "T Shreedhar",
+                        "SK Kaul",
+                        "RD Yates"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE 20th International \u2026",
+                    "abstract": "Internet-of-Things (IoT) applications have sources sense and send their measurement updates over the Internet to a monitor (control station) for real-time monitoring and actuation. Ideally, these updates would be delivered fresh, at a high rate constrained only by the supported sensing rate. However, such a rate may lead to network congestion related delays in delivery of updates at the monitor that make the freshest update at the monitor unacceptably old for the application. Alternately, at low rates, while updates arrive at the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8793011/",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "0ZA7y4UAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:7f48QpNAtsMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2Bage%2Bcontrol%2Btransport%2Bprotocol%2Bfor%2Bdelivering%2Bfresh%2Bupdates%2Bin%2Bthe%2BInternet-of-Things%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7f48QpNAtsMJ&ei=mGBkYquWL6KUy9YP_JONiAY&json=",
+                "num_citations": 20,
+                "citedby_url": "/scholar?cites=14102530284372950765&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:7f48QpNAtsMJ:scholar.google.com/&scioq=An+age+control+transport+protocol+for+delivering+fresh+updates+in+the+Internet-of-Things&hl=en&as_sdt=0,33",
+                "eprint_url": "https://par.nsf.gov/servlets/purl/10157006"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "sanjit krishnan kaul",
+                "rd yates"
+            ]
+        },
+        {
+            "title": "ACP: Age Control Protocol for Minimizing Age of Information over the Internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "fAyVvbIAAAAJ:2osOgNQ5qMEC",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16649569367130899730",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16649569367130899730&engine=google_scholar&hl=en",
+                "cites_id": "16649569367130899730"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Acp: Age control protocol for minimizing age of information over the internet",
+                    "author": [
+                        "T Shreedhar",
+                        "SK Kaul",
+                        "RD Yates"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the 24th Annual \u2026",
+                    "abstract": "Real-time monitoring is characterized by a source repeatedly sending updates over the Internet to a monitor, which desires the sensed information at it to be as fresh (of small age) as possible, given network constraints. We propose the Age Control Protocol (ACP), which, in a network-transparent manner, enables a source to keep the age at the monitor small. We evaluate it using simulations and real-world experiments."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3241539.3267740",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "0ZA7y4UAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:EgUQTyAnD-cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DACP:%2BAge%2BControl%2BProtocol%2Bfor%2BMinimizing%2BAge%2Bof%2BInformation%2Bover%2Bthe%2BInternet%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=EgUQTyAnD-cJ&ei=o2BkYsrzCMLZmQHnraWYCA&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=16649569367130899730&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:EgUQTyAnD-cJ:scholar.google.com/&scioq=ACP:+Age+Control+Protocol+for+Minimizing+Age+of+Information+over+the+Internet&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~tanyas/documents/Papers/2018/acp_mobicom.pdf"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "sanjit krishnan kaul",
+                "rd yates"
+            ]
+        },
+        {
+            "title": "ACP: An End-to-End Transport Protocol for Delivering Fresh Updates in the Internet-of-Things",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "fAyVvbIAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "CoRR, 2019",
+            "cited_by": {
+                "value": 13,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18080991870164882869",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18080991870164882869&engine=google_scholar&hl=en",
+                "cites_id": "18080991870164882869"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Acp: An end-to-end transport protocol for delivering fresh updates in the internet-of-things",
+                    "author": [
+                        "T Shreedhar",
+                        "SK Kaul",
+                        "RD Yates"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv:1811.03353",
+                    "abstract": "The next generation of networks must support billions of connected devices in the Internet-of-Things (IoT). To support IoT applications, sources sense and send their measurement updates over the Internet to a monitor (control station) for real-time monitoring and actuation. Ideally, these updates would be delivered at a high rate, only constrained by the sensing rate supported by the sources. However, given network constraints, such a rate may lead to delays in delivery of updates at the monitor that make the freshest update at the monitor"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1811.03353",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "0ZA7y4UAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:tVXnB0-W7PoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DACP:%2BAn%2BEnd-to-End%2BTransport%2BProtocol%2Bfor%2BDelivering%2BFresh%2BUpdates%2Bin%2Bthe%2BInternet-of-Things%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tVXnB0-W7PoJ&ei=p2BkYo7mOo2ymgHg1rfQDQ&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=18080991870164882869&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:tVXnB0-W7PoJ:scholar.google.com/&scioq=ACP:+An+End-to-End+Transport+Protocol+for+Delivering+Fresh+Updates+in+the+Internet-of-Things&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1811.03353"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "sanjit krishnan kaul",
+                "rd yates"
+            ]
+        },
+        {
+            "title": "Beyond QUIC v1 -- A First Look at Recent Transport Layer IETF Standardization Efforts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:W7OEmFMy1HYC",
+            "citation_id": "fAyVvbIAAAAJ:W7OEmFMy1HYC",
+            "authors": "M Kosek, T Shreedhar, V Bajpai",
+            "publication": "IEEE Communications Magazine, 2021",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9660070065480754188",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9660070065480754188&engine=google_scholar&hl=en",
+                "cites_id": "9660070065480754188"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Beyond quic v1: A first look at recent transport layer ietf standardization efforts",
+                    "author": [
+                        "M Kosek",
+                        "T Shreedhar",
+                        "V Bajpai"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Communications \u2026",
+                    "abstract": "The transport layer is ossified. With most of the research and deployment efforts in the past decade focusing on the Transmission Control Protocol (TCP) and its extensions, the QUIC standardization by the Internet Engineering Task Force (IETF) is to be finalized in early 2021. In addition to addressing the most urgent issues of TCP, QUIC ensures its future extendibility and is destined to drastically change the transport protocol landscape. In this work, we present a first look at emerging protocols and their IETF standardization efforts"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9433515/",
+                "author_id": [
+                    "",
+                    "fAyVvbIAAAAJ",
+                    "ksAaiuUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:DGRdFot2D4YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBeyond%2BQUIC%2Bv1%2B--%2BA%2BFirst%2BLook%2Bat%2BRecent%2BTransport%2BLayer%2BIETF%2BStandardization%2BEfforts%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=DGRdFot2D4YJ&ei=s2BkYsXwCKKUy9YP_JONiAY&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=9660070065480754188&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:DGRdFot2D4YJ:scholar.google.com/&scioq=Beyond+QUIC+v1+--+A+First+Look+at+Recent+Transport+Layer+IETF+Standardization+Efforts&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2102.07527"
+            },
+            "processed_authors": [
+                "m kosek",
+                "tanya shreedhar",
+                "v bajpai"
+            ]
+        },
+        {
+            "title": "Hierarchical Cluster based NoC design using Wireless Interconnects for Coherence Support",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "fAyVvbIAAAAJ:u5HHmVD_uO8C",
+            "authors": "T Shreedhar, S Deb",
+            "publication": "2016 29th International Conference on VLSI Design and 2016 15th \u2026, 2016",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3958876767942742516",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3958876767942742516&engine=google_scholar&hl=en",
+                "cites_id": "3958876767942742516"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Hierarchical Cluster based NoC design using Wireless Interconnects for Coherence Support",
+                    "author": [
+                        "T Shreedhar",
+                        "S Deb"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "\u2026 Conference on VLSI Design and 2016 \u2026",
+                    "abstract": "Efficient and low latency solution to cache coherence problem in shared memory multicore systems on Network-on-Chip (NoC) is a crucial issue for improving system performance and scalability. The existing works utilize planar metal/dielectric interconnects to solve this problem. However, as the number of cores on chip increase, such solutions face high latency due to increase in long-range multi-hop communication between distant cores. In this paper, we propose a novel multicore hierarchical cluster based architecture that utilizes"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7434928/",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "e3z7tT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9BHGBnLB8DYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHierarchical%2BCluster%2Bbased%2BNoC%2Bdesign%2Busing%2BWireless%2BInterconnects%2Bfor%2BCoherence%2BSupport%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9BHGBnLB8DYJ&ei=t2BkYu_wHO-Sy9YPs_mY8AM&json=",
+                "num_citations": 8,
+                "citedby_url": "/scholar?cites=3958876767942742516&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9BHGBnLB8DYJ:scholar.google.com/&scioq=Hierarchical+Cluster+based+NoC+design+using+Wireless+Interconnects+for+Coherence+Support&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~tanyas/documents/hierarchical-cluster.pdf"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "sujay deb"
+            ]
+        },
+        {
+            "title": "Redesigning MPTCP for Edge Clouds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "fAyVvbIAAAAJ:9yKSN-GCB0IC",
+            "authors": "N Mohan, T Shreedhar, A Zavodavoski, O Waltari, J Kangasharju, ...",
+            "publication": "Proceedings of the 24th Annual International Conference on Mobile Computing \u2026, 2018",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2906975435950260299",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2906975435950260299&engine=google_scholar&hl=en",
+                "cites_id": "2906975435950260299"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Redesigning mptcp for edge clouds",
+                    "author": [
+                        "N Mohan",
+                        "T Shreedhar",
+                        "A Zavodavoski"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the 24th \u2026",
+                    "abstract": "We focus on redesigning MPTCP to incorporate network reliability and reduce time delays   ReceiverAssisted MPTCP (RAMPTCP) is an extension to MPTCP which enables the sender"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3241539.3267738",
+                "author_id": [
+                    "c-Ub9FYAAAAJ",
+                    "fAyVvbIAAAAJ",
+                    "tFfpjgIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:SwCa1sGmVygJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRedesigning%2BMPTCP%2Bfor%2BEdge%2BClouds%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SwCa1sGmVygJ&ei=u2BkYtHFBYuKmgGY1YjABQ&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=2906975435950260299&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:SwCa1sGmVygJ:scholar.google.com/&scioq=Redesigning+MPTCP+for+Edge+Clouds&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Nitinder-Mohan/publication/328327675_Poster_Redesigning_MPTCP_for_Edge_Clouds/links/5c2cdf81a6fdccfc70781b56/Poster-Redesigning-MPTCP-for-Edge-Clouds.pdf"
+            },
+            "processed_authors": [
+                "n mohan",
+                "tanya shreedhar",
+                "a zavodavoski",
+                "o waltari",
+                "j kangasharju"
+            ]
+        },
+        {
+            "title": "Is two greater than one?: Analyzing Multipath TCP over Dual-LTE in the Wild",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "fAyVvbIAAAAJ:IjCSPb-OGe4C",
+            "authors": "N Mohan, T Shreedhar, A Zavodovski, J Kangasharju, SK Kaul",
+            "publication": "CoRR, 2019",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1760327378509228085",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1760327378509228085&engine=google_scholar&hl=en",
+                "cites_id": "1760327378509228085"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Is two greater than one?: Analyzing Multipath TCP over Dual-LTE in the Wild",
+                    "author": [
+                        "N Mohan",
+                        "T Shreedhar",
+                        "A Zavodovski"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Multipath TCP (MPTCP) is a standardized TCP extension which allows end-hosts to simultaneously exploit all of their network interfaces. The recent proliferation of dual-SIM mobile phones makes multi-LTE MPTCP setup an attractive option. We perform extensive measurements of MPTCP over two LTE connections in low and high-speed mobility scenarios over five months, both in controlled and in-the-wild environments. Our findings indicate that MPTCP performance decreases at high speeds due to increased frequency of"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1909.02601",
+                "author_id": [
+                    "c-Ub9FYAAAAJ",
+                    "fAyVvbIAAAAJ",
+                    "tFfpjgIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:NehvlGzwbRgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIs%2Btwo%2Bgreater%2Bthan%2Bone%253F:%2BAnalyzing%2BMultipath%2BTCP%2Bover%2BDual-LTE%2Bin%2Bthe%2BWild%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NehvlGzwbRgJ&ei=vmBkYtyQBuiSy9YPp-OyiAE&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=1760327378509228085&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:NehvlGzwbRgJ:scholar.google.com/&scioq=Is+two+greater+than+one%3F:+Analyzing+Multipath+TCP+over+Dual-LTE+in+the+Wild&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1909.02601"
+            },
+            "processed_authors": [
+                "n mohan",
+                "tanya shreedhar",
+                "a zavodovski",
+                "j kangasharju",
+                "sanjit krishnan kaul"
+            ]
+        },
+        {
+            "title": "More than the sum of its parts: Exploiting cross-layer and joint-flow information in MPTCP",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:UebtZRa9Y70C",
+            "citation_id": "fAyVvbIAAAAJ:UebtZRa9Y70C",
+            "authors": "T Shreedhar, N Mohan, SK Kaul, J Kangasharju",
+            "publication": "CoRR, 2017",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1926702103037404986",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1926702103037404986&engine=google_scholar&hl=en",
+                "cites_id": "1926702103037404986"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "More than the sum of its parts: Exploiting cross-layer and joint-flow information in MPTCP",
+                    "author": [
+                        "T Shreedhar",
+                        "N Mohan",
+                        "SK Kaul"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Multipath TCP (MPTCP) is an extension to TCP which aggregates multiple parallel connections over available network interfaces. MPTCP bases its scheduling decisions on the individual RTT values observed at the subflows, but does not attempt to perform any kind of joint optimization over the subflows. Using the MPTCP scheduler as an example, in this paper we demonstrate that exploiting cross-layer information and optimizing scheduling decisions jointly over the multiple flows, can lead to significant performance gains. While our"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1711.07565",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "c-Ub9FYAAAAJ",
+                    "XGNQPRsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OueKx1oFvRoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMore%2Bthan%2Bthe%2Bsum%2Bof%2Bits%2Bparts:%2BExploiting%2Bcross-layer%2Band%2Bjoint-flow%2Binformation%2Bin%2BMPTCP%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OueKx1oFvRoJ&ei=wWBkYuiWLYuKmgGY1YjABQ&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=1926702103037404986&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:OueKx1oFvRoJ:scholar.google.com/&scioq=More+than+the+sum+of+its+parts:+Exploiting+cross-layer+and+joint-flow+information+in+MPTCP&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1711.07565"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "n mohan",
+                "sanjit krishnan kaul",
+                "j kangasharju"
+            ]
+        },
+        {
+            "title": "Evaluating QUIC Performance over Web, Cloud Storage and Video Workloads",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:roLk4NBRz8UC",
+            "citation_id": "fAyVvbIAAAAJ:roLk4NBRz8UC",
+            "authors": "T Shreedhar, R Panda, S Podanev, V Bajpai",
+            "publication": "IEEE Transactions on Network and Service Management (TNSM), 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18149204344594360666",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18149204344594360666&engine=google_scholar&hl=en",
+                "cites_id": "18149204344594360666"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Evaluating quic performance over web, cloud storage and video workloads",
+                    "author": [
+                        "T Shreedhar",
+                        "R Panda",
+                        "S Podanev"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Transactions on \u2026",
+                    "abstract": "QUIC was launched in 2013 with a goal to provide reliable, connection-oriented and end-to-end encrypted transport and is recently standardized in May 2021 by the Internet Engineering Task Force (IETF). This work evaluates QUIC performance over the web, cloud storage, and video workloads and compares them to traditional TLS/TCP. To this end, we have designed tests (quic_perf, tls_perf and video) and conducted measurements from 2018\u20132021 using multiple vantage points: an educational network, a high-bandwidth low-RTT"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9646248/",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:WumFWzHt3vsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEvaluating%2BQUIC%2BPerformance%2Bover%2BWeb,%2BCloud%2BStorage%2Band%2BVideo%2BWorkloads%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WumFWzHt3vsJ&ei=xmBkYtvHFOHDywSSipaYAg&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=18149204344594360666&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WumFWzHt3vsJ:scholar.google.com/&scioq=Evaluating+QUIC+Performance+over+Web,+Cloud+Storage+and+Video+Workloads&hl=en&as_sdt=0,33",
+                "eprint_url": "https://vaibhavbajpai.com/documents/papers/proceedings/quic-tnsm-2022.pdf"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "r panda",
+                "s podanev",
+                "v bajpai"
+            ]
+        },
+        {
+            "title": "Distributed Ledgers for Distributed Edge: Are we there yet?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "fAyVvbIAAAAJ:_FxGoFyzp5QC",
+            "authors": "L Eichhorn, T Shreedhar, A Zavodovski, N Mohan",
+            "publication": "Proceedings of the Interdisciplinary Workshop on (de) Centralization in the \u2026, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14825188676404166192",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14825188676404166192&engine=google_scholar&hl=en",
+                "cites_id": "14825188676404166192"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Distributed Ledgers for Distributed Edge: Are we there yet?",
+                    "author": [
+                        "L Eichhorn",
+                        "T Shreedhar",
+                        "A Zavodovski"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Edge computing has received significant attention from both academic and industrial research circles. The paradigm aims to decentralize the existing cloud infrastructure by incorporating resources co-located alongside its client. Researchers have also proposed solutions for a fully decentralized crowdsourced compute paradigm enabled by Distributed Ledger Technologies (DLTs). This paper investigates the rationale behind DLTs over crowdsourced resource marketplaces to support the requirements of latency-critical"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3488663.3493687",
+                "author_id": [
+                    "",
+                    "fAyVvbIAAAAJ",
+                    "tFfpjgIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ML420Y2mvc0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDistributed%2BLedgers%2Bfor%2BDistributed%2BEdge:%2BAre%2Bwe%2Bthere%2Byet%253F%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ML420Y2mvc0J&ei=z2BkYuG2EuHDywSSipaYAg&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=14825188676404166192&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ML420Y2mvc0J:scholar.google.com/&scioq=Distributed+Ledgers+for+Distributed+Edge:+Are+we+there+yet%3F&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~tanyas/documents/Papers/2021/Tanya_iwci.pdf"
+            },
+            "processed_authors": [
+                "l eichhorn",
+                "tanya shreedhar",
+                "a zavodovski",
+                "n mohan"
+            ]
+        },
+        {
+            "title": "An Empirical Study of Ageing in the Cloud",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "fAyVvbIAAAAJ:YsMSGLbcyi4C",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "IEEE INFOCOM, 2021",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=263260982128948745",
+                "serpapi_link": "https://serpapi.com/search.json?cites=263260982128948745&engine=google_scholar&hl=en",
+                "cites_id": "263260982128948745"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An empirical study of ageing in the cloud",
+                    "author": [
+                        "T Shreedhar",
+                        "SK Kaul",
+                        "RD Yates"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE INFOCOM 2021-IEEE \u2026",
+                    "abstract": "We quantify, over inter-continental paths, the ageing of TCP packets, throughput and delay for different TCP congestion control algorithms containing a mix of loss-based, delay-based and hybrid congestion control algorithms. In comparing these TCP variants to ACP+, an improvement over ACP, we shed better light on the ability of ACP+ to deliver timely updates over fat pipes and long paths. ACP+ estimates the network conditions on the end-to-end path and adapts the rate of status updates to minimize age. It achieves similar average age"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9484567/",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "0ZA7y4UAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:CTYE63dKpwMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2BEmpirical%2BStudy%2Bof%2BAgeing%2Bin%2Bthe%2BCloud%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CTYE63dKpwMJ&ei=0WBkYqe1O5qSy9YP8pKNsAE&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=263260982128948745&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:CTYE63dKpwMJ:scholar.google.com/&scioq=An+Empirical+Study+of+Ageing+in+the+Cloud&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2103.07797"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "sanjit krishnan kaul",
+                "rd yates"
+            ]
+        },
+        {
+            "title": "From Single Lane to Highways: Analyzing the Adoption of Multipath TCP in the Internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "fAyVvbIAAAAJ:eQOLeE2rZwMC",
+            "authors": "F Aschenbrenner, T Shreedhar, O Gasser, N Mohan, J Ott",
+            "publication": "IFIP Networking Conference (Networking) 2021, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=127048159726746427",
+                "serpapi_link": "https://serpapi.com/search.json?cites=127048159726746427&engine=google_scholar&hl=en",
+                "cites_id": "127048159726746427"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "From single lane to highways: Analyzing the adoption of multipath tcp in the internet",
+                    "author": [
+                        "F Aschenbrenner",
+                        "T Shreedhar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IFIP \u2026",
+                    "abstract": "Multipath TCP (MPTCP) extends traditional TCP to enable simultaneous use of multiple connection endpoints at the source and destination. MPTCP has been under active development since its standardization in 2013, and more recently in February 2020, MPTCP was upstreamed to the Linux kernel. In this paper, we provide the first broad analysis of MPTCPv0 in the Internet. We probe the entire IPv4 address space and an IPv6 hitlist to detect MPTCP-enabled systems operational on port 80 and 443. Our scans reveal a steady"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9472785/",
+                "author_id": [
+                    "",
+                    "fAyVvbIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:OzvhzaBdwwEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFrom%2BSingle%2BLane%2Bto%2BHighways:%2BAnalyzing%2Bthe%2BAdoption%2Bof%2BMultipath%2BTCP%2Bin%2Bthe%2BInternet%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OzvhzaBdwwEJ&ei=1WBkYqW1Is6E6rQP5-KmKA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=127048159726746427&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:OzvhzaBdwwEJ:scholar.google.com/&scioq=From+Single+Lane+to+Highways:+Analyzing+the+Adoption+of+Multipath+TCP+in+the+Internet&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2106.07351"
+            },
+            "processed_authors": [
+                "f aschenbrenner",
+                "tanya shreedhar",
+                "o gasser",
+                "n mohan",
+                "j ott"
+            ]
+        },
+        {
+            "title": "Coexistence of Age Sensitive Traffic and High Throughput Flows: Does Prioritization Help?",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "fAyVvbIAAAAJ:hqOjcs7Dif8C",
+            "authors": "T Shreedhar, SK Kaul, RD Yates",
+            "publication": "IEEE INFOCOM, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence of Age Sensitive Traffic and High Throughput Flows: Does Prioritization Help?",
+                    "author": [
+                        "T Shreedhar",
+                        "SK Kaul",
+                        "RD Yates"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv:2203.00647",
+                    "abstract": "We study the coexistence of high throughput traffic flows with status update flows that require timely delivery of updates. A mix of these flows share an end-to-end path that includes a WiFi access network followed by paths over the Internet to a server in the cloud. Using real-world experiments, we show that commonly used methods of prioritization (DSCP at the IP layer and EDCA at the 802.11 MAC layer) in networks are highly effective in isolating status update flows from the impact of high throughput flows in the absence of WiFi access"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2203.00647",
+                "author_id": [
+                    "fAyVvbIAAAAJ",
+                    "",
+                    "0ZA7y4UAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GSjdR1qtjywJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bof%2BAge%2BSensitive%2BTraffic%2Band%2BHigh%2BThroughput%2BFlows:%2BDoes%2BPrioritization%2BHelp%253F%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GSjdR1qtjywJ&ei=2WBkYrTXEoOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2203.00647"
+            },
+            "processed_authors": [
+                "tanya shreedhar",
+                "sanjit krishnan kaul",
+                "rd yates"
+            ]
+        },
+        {
+            "title": "Impact of Evolving Protocols and COVID-19 on Internet Traffic Shares",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:Se3iqnhoufwC",
+            "citation_id": "fAyVvbIAAAAJ:Se3iqnhoufwC",
+            "authors": "L Schumann, TV Doan, T Shreedhar, R Mok, V Bajpai",
+            "publication": "CoRR, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Impact of Evolving Protocols and COVID-19 on Internet Traffic Shares",
+                    "author": [
+                        "L Schumann",
+                        "TV Doan",
+                        "T Shreedhar",
+                        "R Mok"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "The rapid deployment of new Internet protocols over the last few years and the COVID-19 pandemic more recently (2020) has resulted in a change in the Internet traffic composition. Consequently, an updated microscopic view of traffic shares is needed to understand how the Internet is evolving to capture both such shorter-and longer-term events. Toward this end, we observe traffic composition at a research network in Japan and a Tier-1 ISP in the USA. We analyze the traffic traces passively captured at two inter-domain links: MAWI"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2201.00142",
+                "author_id": [
+                    "",
+                    "wG3ulroAAAAJ",
+                    "fAyVvbIAAAAJ",
+                    "6uNNqBYAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Qt6dfO3mjXgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DImpact%2Bof%2BEvolving%2BProtocols%2Band%2BCOVID-19%2Bon%2BInternet%2BTraffic%2BShares%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Qt6dfO3mjXgJ&ei=5WBkYtSQOcLZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:Qt6dfO3mjXgJ:scholar.google.com/&scioq=Impact+of+Evolving+Protocols+and+COVID-19+on+Internet+Traffic+Shares&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2201.00142"
+            },
+            "processed_authors": [
+                "l schumann",
+                "tv doan",
+                "tanya shreedhar",
+                "r mok",
+                "v bajpai"
+            ]
+        },
+        {
+            "title": "TRANSPORT LAYER INNOVATIONS FOR FUTURE NETWORKS",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fAyVvbIAAAAJ&pagesize=100&citation_for_view=fAyVvbIAAAAJ:WF5omc3nYNoC",
+            "citation_id": "fAyVvbIAAAAJ:WF5omc3nYNoC",
+            "authors": "M Welzl, S Islam, M Gundersen, A Fischer, M Kosek, T Shreedhar, ...",
+            "publication": "IEEE Communications Magazine, 2, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "TRANSPORT LAYER INNOVATIONS FOR FUTURE NETWORKS",
+                    "author": [
+                        "M Welzl",
+                        "S Islam",
+                        "M Gundersen"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE \u2026",
+                    "abstract": "IEEE COMMUNICATIONS MAGAZINE (ISSN 0163-6804) is published monthly by The Institute of Electrical and Electronics Engineers, Inc. Headquarters address: IEEE, 3 Park Avenue, 17th Floor, New York, NY 10016-5997, USA; tel:+ 1 (212) 705-8900; http://www. comsoc. org/commag. Responsibility for the contents rests upon authors of signed articles and not the IEEE or its members. Unless otherwise specified, the IEEE neither endorses nor sanctions any positions or actions espoused in IEEE Communications Magazine."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9433604/",
+                "author_id": [
+                    "b_O2oSYAAAAJ",
+                    "r4nOI6IAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:7FU7XcNoggoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTRANSPORT%2BLAYER%2BINNOVATIONS%2BFOR%2BFUTURE%2BNETWORKS%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=7FU7XcNoggoJ&ei=6WBkYqDlI4uKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:7FU7XcNoggoJ:scholar.google.com/&scioq=TRANSPORT+LAYER+INNOVATIONS+FOR+FUTURE+NETWORKS&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/35/9433508/09433604.pdf"
+            },
+            "processed_authors": [
+                "m welzl",
+                "s islam",
+                "m gundersen",
+                "a fischer",
+                "m kosek",
+                "tanya shreedhar"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 107,
+                    "since_2017": 103
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 1
+            },
+            {
+                "year": 2018,
+                "citations": 3
+            },
+            {
+                "year": 2019,
+                "citations": 27
+            },
+            {
+                "year": 2020,
+                "citations": 14
+            },
+            {
+                "year": 2021,
+                "citations": 40
+            },
+            {
+                "year": 2022,
+                "citations": 18
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=fAyVvbIAAAAJ",
+        "available": 2,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Sanjit Krishnan Kaul",
+            "link": "https://scholar.google.com/citations?user=XGNQPRsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=XGNQPRsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "XGNQPRsAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology (IIIT-Delhi),",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=XGNQPRsAAAAJ&citpid=1"
+        },
+        {
+            "name": "Nitinder Mohan",
+            "link": "https://scholar.google.com/citations?user=c-Ub9FYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=c-Ub9FYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "c-Ub9FYAAAAJ",
+            "affiliations": "Postdoctoral Fellow, Technical University of Munich",
+            "email": "Verified email at in.tum.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=c-Ub9FYAAAAJ&citpid=10"
+        },
+        {
+            "name": "Roy Yates",
+            "link": "https://scholar.google.com/citations?user=0ZA7y4UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=0ZA7y4UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "0ZA7y4UAAAAJ",
+            "affiliations": "Professor of Electrical and Computer Engineering, Rutgers University",
+            "email": "Verified email at rutgers.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=0ZA7y4UAAAAJ&citpid=2"
+        },
+        {
+            "name": "Jussi Kangasharju",
+            "link": "https://scholar.google.com/citations?user=RHUM7P0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=RHUM7P0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "RHUM7P0AAAAJ",
+            "affiliations": "Professor of Computer Science, University of Helsinki",
+            "email": "Verified email at helsinki.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=RHUM7P0AAAAJ&citpid=4"
+        },
+        {
+            "name": "Aleksandr Zavodovski",
+            "link": "https://scholar.google.com/citations?user=tFfpjgIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tFfpjgIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tFfpjgIAAAAJ",
+            "affiliations": "Postdoc at Uppsala University",
+            "email": "Verified email at it.uu.se",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=tFfpjgIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Vaibhav Bajpai",
+            "link": "https://scholar.google.com/citations?user=ksAaiuUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=ksAaiuUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "ksAaiuUAAAAJ",
+            "affiliations": "CISPA Helmholtz Center for Information Security",
+            "email": "Verified email at cispa.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ksAaiuUAAAAJ&citpid=5"
+        },
+        {
+            "name": "Sujay Deb",
+            "link": "https://scholar.google.com/citations?user=e3z7tT0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=e3z7tT0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "e3z7tT0AAAAJ",
+            "affiliations": "Associate Professor, IIIT Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=e3z7tT0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Otto Waltari",
+            "link": "https://scholar.google.com/citations?user=xyRC54gAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=xyRC54gAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "xyRC54gAAAAJ",
+            "affiliations": "Doctoral Student",
+            "email": "Verified email at helsinki.fi",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Oliver Gasser",
+            "link": "https://scholar.google.com/citations?user=of4JfvsAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=of4JfvsAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "of4JfvsAAAAJ",
+            "affiliations": "Max Planck Institute for Informatics",
+            "email": "Verified email at mpi-inf.mpg.de",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=of4JfvsAAAAJ&citpid=4"
+        },
+        {
+            "name": "J\u00f6rg Ott",
+            "link": "https://scholar.google.com/citations?user=h16ode4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=h16ode4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "h16ode4AAAAJ",
+            "affiliations": "Professor, Chair of Connected Mobility, Technische Universit\u00e4t M\u00fcnchen",
+            "email": "Verified email at netlab.tkk.fi",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=h16ode4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Ricky K. P. Mok",
+            "link": "https://scholar.google.com/citations?user=6uNNqBYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6uNNqBYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6uNNqBYAAAAJ",
+            "affiliations": "CAIDA/UCSD",
+            "email": "Verified email at caida.org",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Trinh Viet Doan",
+            "link": "https://scholar.google.com/citations?user=wG3ulroAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=wG3ulroAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "wG3ulroAAAAJ",
+            "affiliations": "Technical University of Munich",
+            "email": "Verified email at in.tum.de",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

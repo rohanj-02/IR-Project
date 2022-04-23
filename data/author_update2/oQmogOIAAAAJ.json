@@ -1,0 +1,1040 @@
+{
+    "search_metadata": {
+        "id": "62574c60af63049f5fdc453a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/a7fbf2ede0dd3afc/62574c60af63049f5fdc453a.json",
+        "created_at": "2022-04-13 22:19:12 UTC",
+        "processed_at": "2022-04-13 22:19:12 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=oQmogOIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/a7fbf2ede0dd3afc/62574c60af63049f5fdc453a.html",
+        "total_time_taken": 0.1,
+        "total_articles": 20,
+        "total_co_authors": 5
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "oQmogOIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Shikha Singh",
+        "affiliations": "PhD Scholar, IIIT-DELHI",
+        "email": "Verified email at iiitd.ac.in",
+        "interests": [
+            {
+                "title": "Machine Learning",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:machine_learning",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amachine_learning"
+            },
+            {
+                "title": "NILM",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:nilm",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anilm"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=oQmogOIAAAAJ&citpid=3"
+    },
+    "articles": [
+        {
+            "title": "Deep Sparse Coding for Non Intrusive Load Monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "oQmogOIAAAAJ:u5HHmVD_uO8C",
+            "authors": "S Singh, M Angshul",
+            "publication": "Transactions on Smart Grid, 2017",
+            "cited_by": {
+                "value": 120,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5928930822396981045",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5928930822396981045&engine=google_scholar&hl=en",
+                "cites_id": "5928930822396981045"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Deep sparse coding for non\u2013intrusive load monitoring",
+                    "author": [
+                        "S Singh",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Transactions on Smart Grid",
+                    "abstract": "Energy disaggregation is the task of segregating the aggregate energy of the entire building (as logged by the smart-meter) into the energy consumed by individual appliances. This is a single channel (the only channel being the smart-meter) blind source (different electrical appliances) separation problem. The traditional way to address this is via stochastic finite state machines (eg, factorial hidden Markov model). In recent times, dictionary learning-based approaches have shown promise in addressing the disaggregation problem. The"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7847445/",
+                "author_id": [
+                    "oQmogOIAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:NS_WjivLR1IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDeep%2BSparse%2BCoding%2Bfor%2BNon%2BIntrusive%2BLoad%2BMonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=NS_WjivLR1IJ&ei=DVlkYubqAo6pywTd4KPADw&json=",
+                "num_citations": 120,
+                "citedby_url": "/scholar?cites=5928930822396981045&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:NS_WjivLR1IJ:scholar.google.com/&scioq=Deep+Sparse+Coding+for+Non+Intrusive+Load+Monitoring&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1912.12128"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "m angshul"
+            ]
+        },
+        {
+            "title": "Analysis co-sparse coding for energy disaggregation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "oQmogOIAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Singh, A Majumdar",
+            "publication": "IEEE Transactions on Smart Grid 10 (1), 462-470, 2017",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2874914817921539159",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2874914817921539159&engine=google_scholar&hl=en",
+                "cites_id": "2874914817921539159"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Analysis co-sparse coding for energy disaggregation",
+                    "author": [
+                        "S Singh",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Transactions on Smart Grid",
+                    "abstract": "Energy disaggregation is the task of segregating the aggregate energy of the entire building (as logged by the smartmeter) into the energy consumed by individual appliances. This is a single channel (the only channel being the smart-meter) blind source (different electrical appliances) separation problem. In recent times dictionary learning-based approaches have shown promise in addressing the disaggregation problem. The usual technique is to learn a dictionary for every device and use the learned dictionaries as basis for blind source"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8016423/",
+                "author_id": [
+                    "oQmogOIAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:V1y4gcu_5ScJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAnalysis%2Bco-sparse%2Bcoding%2Bfor%2Benergy%2Bdisaggregation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=V1y4gcu_5ScJ&ei=EFlkYtTZJ_mQ6rQP5OqKqAo&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=2874914817921539159&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:V1y4gcu_5ScJ:scholar.google.com/&scioq=Analysis+co-sparse+coding+for+energy+disaggregation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1912.12130"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Non-intrusive load monitoring via multi-label sparse representation-based classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:hqOjcs7Dif8C",
+            "citation_id": "oQmogOIAAAAJ:hqOjcs7Dif8C",
+            "authors": "S Singh, A Majumdar",
+            "publication": "IEEE Transactions on Smart Grid 11 (2), 1799-1801, 2019",
+            "cited_by": {
+                "value": 23,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16993731578883301679",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16993731578883301679&engine=google_scholar&hl=en",
+                "cites_id": "16993731578883301679"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Non-intrusive load monitoring via multi-label sparse representation-based classification",
+                    "author": [
+                        "S Singh",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "IEEE Transactions on Smart Grid",
+                    "abstract": "This work follows the approach of multi-label classification for non-intrusive load monitoring (NILM). We modify the popular sparse representation based classification (SRC) approach (developed for single label classification) to solve multi-label classification problems. Results on benchmark REDD and Pecan Street dataset shows significant improvement over state-of-the-art techniques with small volume of training data."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8818331/",
+                "author_id": [
+                    "oQmogOIAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:L2Gtl9Xc1esJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNon-intrusive%2Bload%2Bmonitoring%2Bvia%2Bmulti-label%2Bsparse%2Brepresentation-based%2Bclassification%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=L2Gtl9Xc1esJ&ei=HVlkYr3XA4ySyASZk6HgCA&json=",
+                "num_citations": 23,
+                "citedby_url": "/scholar?cites=16993731578883301679&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:L2Gtl9Xc1esJ:scholar.google.com/&scioq=Non-intrusive+load+monitoring+via+multi-label+sparse+representation-based+classification&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1912.07360"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Multi label restricted boltzmann machine for non-intrusive load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:UebtZRa9Y70C",
+            "citation_id": "oQmogOIAAAAJ:UebtZRa9Y70C",
+            "authors": "S Verma, S Singh, A Majumdar",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and \u2026, 2019",
+            "cited_by": {
+                "value": 16,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16570154567550756025",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16570154567550756025&engine=google_scholar&hl=en",
+                "cites_id": "16570154567550756025"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi label restricted boltzmann machine for non-intrusive load monitoring",
+                    "author": [
+                        "S Verma",
+                        "S Singh",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "ICASSP 2019-2019 IEEE \u2026",
+                    "abstract": "Increasing population indicates that energy demands need to be managed in the residential sector. Prior studies have reflected that the customers tend to reduce a significant amount of energy consumption if they are provided with appliance-level feedback. This observation has increased the relevance of load monitoring in today's tech-savvy world. Most of the previously proposed solutions claim to perform load monitoring without intrusion, but they are not completely non-intrusive. These methods require historical appliance-level data for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8682860/",
+                "author_id": [
+                    "SIpoREUAAAAJ",
+                    "oQmogOIAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ueQtaMkD9eUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti%2Blabel%2Brestricted%2Bboltzmann%2Bmachine%2Bfor%2Bnon-intrusive%2Bload%2Bmonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ueQtaMkD9eUJ&ei=IVlkYvvIEJqSy9YP8pKNsAE&json=",
+                "num_citations": 16,
+                "citedby_url": "/scholar?cites=16570154567550756025&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ueQtaMkD9eUJ:scholar.google.com/&scioq=Multi+label+restricted+boltzmann+machine+for+non-intrusive+load+monitoring&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1910.08149"
+            },
+            "processed_authors": [
+                "s verma",
+                "shikha singh",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Deep blind compressed sensing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "oQmogOIAAAAJ:9yKSN-GCB0IC",
+            "authors": "S Singh, V Singhal, A Majumdar",
+            "publication": "arXiv preprint arXiv:1612.07453, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16737703085842614262",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16737703085842614262&engine=google_scholar&hl=en",
+                "cites_id": "16737703085842614262"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Semi-supervised deep blind compressed sensing for analysis and reconstruction of biomedical signals from compressive measurements",
+                    "author": [
+                        "V Singhal",
+                        "A Majumdar",
+                        "RK Ward"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "IEEE Access",
+                    "abstract": "deep blind compressed sensing [15]. This work proposes to extend this rudimentary concept  to a deep  The reconstruction quality is better than compressed sensing based solutions as"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8219376/",
+                "author_id": [
+                    "fHsGt4cAAAAJ",
+                    "nwNIkAUAAAAJ",
+                    "dqsw1u8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:M-amKeaRzZ8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDeep%2Bblind%2Bcompressed%2Bsensing%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=M-amKeaRzZ8J&ei=L1lkYqqGHPmQ6rQP5OqKqAo&json=",
+                "num_citations": 23,
+                "citedby_url": "/scholar?cites=11515020239983535667&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:M-amKeaRzZ8J:scholar.google.com/&scioq=Deep+blind+compressed+sensing&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/6514899/08219376.pdf"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "vanika singhal",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Greedy deep disaggregating sparse coding",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "oQmogOIAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Singh, M Gulati, A Majumdar",
+            "publication": "Proc. NILM2016 3rd International Workshop on Non-Intrusive Load Monitoring 4, 2016",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10589037290403599017",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10589037290403599017&engine=google_scholar&hl=en",
+                "cites_id": "10589037290403599017"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Greedy deep disaggregating sparse coding",
+                    "author": [
+                        "S Singh",
+                        "M Gulati",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Proc. NILM2016 3rd International \u2026",
+                    "abstract": "This is the first study combining deep learning with sparse coding (dictionary learning) to solve the energy disaggregation problem. In the first layer, we learn a disaggregating dictionary. In subsequent layers, we learn sparsifying dictionaries. The first layer is learnt from the smart-meter data; subsequent layers are learnt from features obtained from the previous layer. For disaggregation, instead of using a single level of dictionary as the basis for each device, we use the multiple level dictionaries. Experimental results show that by"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://salsa.iiitd.edu.in/contents/megha/NILM%20paper%202%20ENERGY%20PROCEDIA.pdf",
+                "author_id": [
+                    "oQmogOIAAAAJ",
+                    "2L-TGfcAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:qRLf_0_R85IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGreedy%2Bdeep%2Bdisaggregating%2Bsparse%2Bcoding%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qRLf_0_R85IJ&ei=M1lkYo6jC4uKmgGY1YjABQ&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=10589037290403599017&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:qRLf_0_R85IJ:scholar.google.com/&scioq=Greedy+deep+disaggregating+sparse+coding&hl=en&as_sdt=0,33",
+                "eprint_url": "http://salsa.iiitd.edu.in/contents/megha/NILM%20paper%202%20ENERGY%20PROCEDIA.pdf"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "m gulati",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Multi-label LSTM autoencoder for non-intrusive appliance load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:3fE2CSJIrl8C",
+            "citation_id": "oQmogOIAAAAJ:3fE2CSJIrl8C",
+            "authors": "S Verma, S Singh, A Majumdar",
+            "publication": "Electric Power Systems Research 199, 107414, 2021",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1328756770117810765",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1328756770117810765&engine=google_scholar&hl=en",
+                "cites_id": "1328756770117810765"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-label LSTM autoencoder for non-intrusive appliance load monitoring",
+                    "author": [
+                        "S Verma",
+                        "S Singh",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Electric Power Systems Research",
+                    "abstract": "This work follows the multi-label classification based paradigm for non-intrusive load monitoring (NILM). Power consumption signals used for NILM are inherently time varying. However prior multi-label classification techniques could not model this dynamical behaviour. They used off-the-shelf algorithms for classifying static signals on NILM problems. This is the first work that shows how to account for the temporal variability of input signals in a multi-label classification framework. Results on benchmark datasets like REDD"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0378779621003953",
+                "author_id": [
+                    "SIpoREUAAAAJ",
+                    "oQmogOIAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TXrECz6xcBIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-label%2BLSTM%2Bautoencoder%2Bfor%2Bnon-intrusive%2Bappliance%2Bload%2Bmonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TXrECz6xcBIJ&ei=NVlkYtrYMe-Sy9YPs_mY8AM&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=1328756770117810765&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:TXrECz6xcBIJ:scholar.google.com/&scioq=Multi-label+LSTM+autoencoder+for+non-intrusive+appliance+load+monitoring&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "s verma",
+                "shikha singh",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Multi-label consistent convolutional transform learning: Application to non-intrusive load monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:8k81kl-MbHgC",
+            "citation_id": "oQmogOIAAAAJ:8k81kl-MbHgC",
+            "authors": "S Singh, J Maggu, A Majumdar, E Chouzenoux, G Chierchia",
+            "publication": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and \u2026, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12395362053095133532",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12395362053095133532&engine=google_scholar&hl=en",
+                "cites_id": "12395362053095133532"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-label consistent convolutional transform learning: Application to non-intrusive load monitoring",
+                    "author": [
+                        "S Singh",
+                        "J Maggu",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "ICASSP 2020-2020 \u2026",
+                    "abstract": "Convolutional transform learning is an unsupervised framework we introduced recently, for feature generation based on learnt convolutions. In this work, we propose a supervised formulation for convolutional transform so as to address the multi-label classification problem. Unlike the simple multiclass classification, in multi-label problems, each sample can correspond to multiple classes simultaneously, making the problem quite challenging. We propose to make use of a label consistency penalty and develop a suitable minimization"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9054453/",
+                "author_id": [
+                    "oQmogOIAAAAJ",
+                    "LjKj7cAAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:XJEXJR0sBawJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-label%2Bconsistent%2Bconvolutional%2Btransform%2Blearning:%2BApplication%2Bto%2Bnon-intrusive%2Bload%2Bmonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XJEXJR0sBawJ&ei=QVlkYt6hN-iSy9YPp-OyiAE&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=12395362053095133532&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:XJEXJR0sBawJ:scholar.google.com/&scioq=Multi-label+consistent+convolutional+transform+learning:+Application+to+non-intrusive+load+monitoring&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "jyoti maggu",
+                "angshul majumdar",
+                "e chouzenoux",
+                "g chierchia"
+            ]
+        },
+        {
+            "title": "How to train your neural network with dictionary learning",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "oQmogOIAAAAJ:UeHWp8X0CEIC",
+            "authors": "V Singhal, S Singh, A Majumdar",
+            "publication": "2017 Data Compression Conference (DCC), 460-460, 2017",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1785867208381454886",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1785867208381454886&engine=google_scholar&hl=en",
+                "cites_id": "1785867208381454886"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "How to train your neural network with dictionary learning",
+                    "author": [
+                        "V Singhal",
+                        "S Singh",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "2017 Data Compression \u2026",
+                    "abstract": "Currently there are two predominant ways to train deep neural networks. The first one uses restricted Boltzmann machine (RBM) and the second one auto encoders. RBMs are stacked in layers to form deep belief network (DBN), the final representation layer is attached to the target to complete the deep neural network. Auto encoders are nested one inside the other to form stacked auto encoders, once the stcaked auto encoder is learnt the decoder portion is detached and the target attached to the deepest layer of the encoder to form the deep"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7923743/",
+                "author_id": [
+                    "fHsGt4cAAAAJ",
+                    "oQmogOIAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JlqYm8OsyBgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHow%2Bto%2Btrain%2Byour%2Bneural%2Bnetwork%2Bwith%2Bdictionary%2Blearning%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JlqYm8OsyBgJ&ei=RllkYpP3Ce-Sy9YPs_mY8AM&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=1785867208381454886&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:JlqYm8OsyBgJ:scholar.google.com/&scioq=How+to+train+your+neural+network+with+dictionary+learning&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "vanika singhal",
+                "shikha singh",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Multi-Label Deep Blind Compressed Sensing for Low-Frequency Non-Intrusive Load Monitoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:kNdYIx-mwKoC",
+            "citation_id": "oQmogOIAAAAJ:kNdYIx-mwKoC",
+            "authors": "S Singh, A Majumdar",
+            "publication": "IEEE Transactions on Smart Grid 13 (1), 4-7, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-Label Deep Blind Compressed Sensing for Low-Frequency Non-Intrusive Load Monitoring",
+                    "author": [
+                        "S Singh",
+                        "A Majumdar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Transactions on Smart Grid",
+                    "abstract": "Current non-intrusive load monitoring (NILM) algorithms are reasonably accurate when the sampling rate is high. However, in practical scenarios, when the sampling frequency is low, the performance of most algorithms deteriorates. This work proposes a solution for low-frequency NILM. We propose to modify the smart-meter such that it can transmit at low frequency using principles of compressed sensing (CS). From such CS samples, we propose to detect the state of the appliance by using a multi-label consistent version of deep"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9547409/",
+                "author_id": [
+                    "oQmogOIAAAAJ",
+                    "nwNIkAUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:VsRGHj-UkOcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-Label%2BDeep%2BBlind%2BCompressed%2BSensing%2Bfor%2BLow-Frequency%2BNon-Intrusive%2BLoad%2BMonitoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VsRGHj-UkOcJ&ei=S1lkYvrENYOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:VsRGHj-UkOcJ:scholar.google.com/&scioq=Multi-Label+Deep+Blind+Compressed+Sensing+for+Low-Frequency+Non-Intrusive+Load+Monitoring&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "angshul majumdar"
+            ]
+        },
+        {
+            "title": "Periodontal disease in special needs patients: A review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:4TOpqqG69KYC",
+            "citation_id": "oQmogOIAAAAJ:4TOpqqG69KYC",
+            "authors": "N Chand, SC Verma, VA Pant, S Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Periodontal disease in special needs patients: A review",
+                    "author": [
+                        "N Chand",
+                        "SC Verma",
+                        "VA Pant",
+                        "S Singh"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "NA",
+                    "abstract": "Individuals with intellectual and developmental disabilities (I/DD) are at risk for oral illness and have a difficult time getting routine and preventive dental care. It comes third in terms of unmet requirements, after residential services and career options for this group of people. Oral health has a detrimental impact on one's general health and quality of life. Significantly higher incidence of dental caries, periodontal disease, poor oral hygiene, low expectations, fear of treatment, and lack of information among persons and caregivers are all factors"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.oraljournal.com/pdf/2021/vol7issue3/PartC/7-3-19-616.pdf",
+                "author_id": [
+                    "",
+                    "",
+                    "",
+                    "oQmogOIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bPse6DXnTO0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPeriodontal%2Bdisease%2Bin%2Bspecial%2Bneeds%2Bpatients:%2BA%2Breview%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bPse6DXnTO0J&ei=VVlkYvHvFpGJmwGY-qmYDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:bPse6DXnTO0J:scholar.google.com/&scioq=Periodontal+disease+in+special+needs+patients:+A+review&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.oraljournal.com/pdf/2021/vol7issue3/PartC/7-3-19-616.pdf"
+            },
+            "processed_authors": [
+                "n chand",
+                "sc verma",
+                "va pant",
+                "shikha singh"
+            ]
+        },
+        {
+            "title": "Soft tissue periodontal surgeries: A review",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:Zph67rFs4hoC",
+            "citation_id": "oQmogOIAAAAJ:Zph67rFs4hoC",
+            "authors": "S Singh, VA Pant, PK Singh, N Singh, N Chand",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Periodontal soft tissue root coverage procedures: a systematic review from the AAP Regeneration Workshop",
+                    "author": [
+                        "L Chambrone",
+                        "DN Tatakis"
+                    ],
+                    "pub_year": "2015",
+                    "venue": "Journal of periodontology",
+                    "abstract": ") used in this review have been published previously. The  review project, an overview of  SRs, 6 an updated set of meta-analysis of randomized clinical trials (RCTs), and an SR review"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aap.onlinelibrary.wiley.com/doi/abs/10.1902/jop.2015.130674",
+                "author_id": [
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:ibhUGsY9bFcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSoft%2Btissue%2Bperiodontal%2Bsurgeries:%2BA%2Breview%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ibhUGsY9bFcJ&ei=WVlkYv68IpGJmwGY-qmYDQ&json=",
+                "num_citations": 394,
+                "citedby_url": "/scholar?cites=6299477899839060105&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ibhUGsY9bFcJ:scholar.google.com/&scioq=Soft+tissue+periodontal+surgeries:+A+review&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Dimitris-Tatakis/publication/271701517_Periodontal_Soft_Tissue_Root_Coverage_Procedures_A_Systematic_Review_From_the_AAP_Regeneration_Workshop/links/54d0cfd10cf298d656690438/Periodontal-Soft-Tissue-Root-Coverage-Procedures-A-Systematic-Review-From-the-AAP-Regeneration-Workshop.pdf"
+            },
+            "processed_authors": [
+                "shikha singh",
+                "va pant",
+                "pk singh",
+                "n singh",
+                "n chand"
+            ]
+        },
+        {
+            "title": "Integrated Livestock Development in Tribal Area",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:ULOm3_A8WrAC",
+            "citation_id": "oQmogOIAAAAJ:ULOm3_A8WrAC",
+            "authors": "SC Mehta, S Singh, R Singh, C Bhakat, N Chand",
+            "publication": "National Research Centre on Camel, Bikaner, India, 2012",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2012",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Integrated Livestock Development in Tribal Area",
+                    "author": [
+                        "SC Mehta",
+                        "S Singh",
+                        "R Singh",
+                        "C Bhakat",
+                        "N Chand"
+                    ],
+                    "pub_year": "2012",
+                    "venue": "NA",
+                    "abstract": "\u00d1f\" k \u00e7/kku Hkkjr ns'k dh vFkZO; oLFkk esa i'kq/ku O; olk; viuh egRoiw. kZ Hkwfedk fuHkk jgk gSA i'kq/ku ds; ksxnku ds vUrxZr nqX/k] ekal, oa v. Mk mRiknu esa Hkkjr dk fo'o esa \u00d8e'k% \u00e7Fke] ikapoka, oa NBk LFkku gS rFkk Hkfo\"; esa bl mRikndrk esa of) djus gsrq gekjk ns'k fujUrj \u00e7xfr djrs gq, \u00e7; Ru'khy gSA o\" kZ 2007 dh i'kq x. kuk ds vuqlkj Hkkjr esa xk; o HkSalksa dh la [; k 305 fefy; u gS ftlesa fd yxHkx vk/ks ls T; knk \u00bc56 \u00e7fr'kr\u00bd nw/k HkSalksa ls \u00e7kIr gksrk gS tks fd la [; k dh rqyuk esa yxHkx vk/ks ls Hkh de gSA bl laiw. kZ i'kq/ku O; oLFkk esa xk;]"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://krishi.icar.gov.in/jspui/bitstream/123456789/29415/2/TSP%20Book.pdf",
+                "author_id": [
+                    "Lm2fwf0AAAAJ",
+                    "75X8lscAAAAJ",
+                    "dwnWhaoAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:lJN22_6R96cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntegrated%2BLivestock%2BDevelopment%2Bin%2BTribal%2BArea%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lJN22_6R96cJ&ei=XVlkYri3CuHDywSSipaYAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:lJN22_6R96cJ:scholar.google.com/&scioq=Integrated+Livestock+Development+in+Tribal+Area&hl=en&as_sdt=0,33",
+                "eprint_url": "http://krishi.icar.gov.in/jspui/bitstream/123456789/29415/2/TSP%20Book.pdf"
+            },
+            "processed_authors": [
+                "sc mehta",
+                "shikha singh",
+                "r singh",
+                "c bhakat",
+                "n chand"
+            ]
+        },
+        {
+            "title": "Exploration and physico-chemical evaluation of Citrus germalism collected from Kumaon region of Uttarakhand",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:KlAtU1dfN6UC",
+            "citation_id": "oQmogOIAAAAJ:KlAtU1dfN6UC",
+            "authors": "KK Misra, SK Verma, SC Singh",
+            "publication": "PROGRESSIVE HORTICULTURE 38 (2), 144, 2006",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2006",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Exploration and physico-chemical evaluation of Citrus germalism collected from Kumaon region of Uttarakhand",
+                    "author": [
+                        "KK Misra",
+                        "SK Verma",
+                        "SC Singh"
+                    ],
+                    "pub_year": "2006",
+                    "venue": "\u2026",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    "",
+                    "SPZ28BEAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:JQn6vTQCOUcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExploration%2Band%2Bphysico-chemical%2Bevaluation%2Bof%2BCitrus%2Bgermalism%2Bcollected%2Bfrom%2BKumaon%2Bregion%2Bof%2BUttarakhand%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JQn6vTQCOUcJ&ei=Y1lkYtqlAfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "kk misra",
+                "sk verma",
+                "sc singh"
+            ]
+        },
+        {
+            "title": "Performance studies on manually operated fertilizer broadcaster.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "oQmogOIAAAAJ:Wp0gIr-vW9MC",
+            "authors": "S Singh, SR Verma, M Singh",
+            "publication": "Journal of Research Punjab Agricultural University, 1983",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1983",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance studies on manually operated fertilizer broadcaster.",
+                    "author": [
+                        "S Singh",
+                        "SR Verma",
+                        "M Singh"
+                    ],
+                    "pub_year": "1983",
+                    "venue": "Journal of Research Punjab Agricultural \u2026",
+                    "abstract": "Performance studies on manually operated fertilizer broadcaster.  Journal of Research  Punjab Agricultural University  \"Performance studies on manually operated fertilizer  broadcaster.\"@eng"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://agris.fao.org/agris-search/search.do?recordID=IN19830934530",
+                "author_id": [
+                    "-L50fhsAAAAJ",
+                    "WSbJ95cAAAAJ",
+                    "kaY6JaAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fp5rRLlbsOkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2Bstudies%2Bon%2Bmanually%2Boperated%2Bfertilizer%2Bbroadcaster.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fp5rRLlbsOkJ&ei=Z1lkYpHGMYySyASZk6HgCA&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "shikha singh",
+                "sr verma",
+                "maneet singh"
+            ]
+        },
+        {
+            "title": "Safe operations of sprayers and dusters [India].",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:4DMP91E08xMC",
+            "citation_id": "oQmogOIAAAAJ:4DMP91E08xMC",
+            "authors": "S Singh, SR Verma",
+            "publication": "Progressive Farming, 1977",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1977",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Safe operations of sprayers and dusters [India].",
+                    "author": [
+                        "S Singh",
+                        "SR Verma"
+                    ],
+                    "pub_year": "1977",
+                    "venue": "Progressive Farming",
+                    "abstract": "Safe operations of sprayers and dusters [India].  [Corporate Author] Punjab Agricultural  Univ., Ludhiana (India). Dept. of Farm Power and Machinery [Corporate Author]  \"Safe  operations of sprayers and dusters [India].\"@eng"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://agris.fao.org/agris-search/search.do?recordID=IN19780230807",
+                "author_id": [
+                    "-L50fhsAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:RgsCtdIzvOMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSafe%2Boperations%2Bof%2Bsprayers%2Band%2Bdusters%2B%255BIndia%255D.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=RgsCtdIzvOMJ&ei=fVlkYq66NYOEmgHx-5DADA&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "shikha singh",
+                "sr verma"
+            ]
+        },
+        {
+            "title": "Ileocystoplasty in a case of contracted urinary bladder following tuberculosis",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "oQmogOIAAAAJ:qxL8FJ1GzNcC",
+            "authors": "SS VERMA, S SINGH",
+            "publication": "Journal of the Indian Medical Association 29 (8), 333, 1957",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1957",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Ileocystoplasty in a case of contracted urinary bladder following tuberculosis",
+                    "author": [
+                        "SS VERMA",
+                        "S SINGH"
+                    ],
+                    "pub_year": "1957",
+                    "venue": "Journal of the Indian Medical \u2026",
+                    "abstract": "Ileocystoplasty in a case of contracted urinary bladder following tuberculosis   Tuberculosis, Urogenital / complications* Urinary Bladder Diseases*"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://pubmed.ncbi.nlm.nih.gov/13481394/",
+                "author_id": [
+                    "",
+                    "-L50fhsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:TK3BKLCX_oUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIleocystoplasty%2Bin%2Ba%2Bcase%2Bof%2Bcontracted%2Burinary%2Bbladder%2Bfollowing%2Btuberculosis%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TK3BKLCX_oUJ&ei=gVlkYr3JCKKUy9YP_JONiAY&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "ss verma",
+                "shikha singh"
+            ]
+        },
+        {
+            "title": "Congenital absence of the vagina treated by McIndoe's operation.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:aqlVkmm33-oC",
+            "citation_id": "oQmogOIAAAAJ:aqlVkmm33-oC",
+            "authors": "SS VERMA, S SINGH",
+            "publication": "J Indian Med Assoc, 1956",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "1956",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Congenital absence of the vagina treated by McIndoe's operation.",
+                    "author": [
+                        "SS VERMA",
+                        "S SINGH"
+                    ],
+                    "pub_year": "1956",
+                    "venue": "J Indian Med Assoc",
+                    "abstract": "(instance:\" regional\") AND (year_cluster:(\" 2002\") AND pais_afiliacao:(\"^ iUnited States^ eEstados\"))(instance:\" regional\") AND (year_cluster:(\" 2002\") AND pais_afiliacao:(\"^ iUnited States^ eEstados\"))(instance:\" regional\") AND (year_cluster:(\" 2002\") AND pais_afiliacao:(\"^ iUnited States^ eEstados\"))(instance:\" regional\") AND (year_cluster:(\" 2002\") AND pais_afiliacao:(\"^ iUnited States^ eEstados\"))"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://pesquisa.bvsalud.org/portal/resource/pt/sea-96950",
+                "author_id": [
+                    "",
+                    "-L50fhsAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:gCjCsjJrFaQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCongenital%2Babsence%2Bof%2Bthe%2Bvagina%2Btreated%2Bby%2BMcIndoe%2527s%2Boperation.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=gCjCsjJrFaQJ&ei=hVlkYomiOOiSy9YPp-OyiAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:gCjCsjJrFaQJ:scholar.google.com/&scioq=Congenital+absence+of+the+vagina+treated+by+McIndoe%27s+operation.&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "ss verma",
+                "shikha singh"
+            ]
+        },
+        {
+            "title": "STUDY OF ELECTRICAL CONDUCTIVITY OF SISAL FIBER/POLYPROPYLENE/CENOSPHERE COMPOSITES",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:M3ejUd6NZC8C",
+            "citation_id": "oQmogOIAAAAJ:M3ejUd6NZC8C",
+            "authors": "J Sharma, MN Bapat, S Singh, N Chand",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "STUDY OF ELECTRICAL CONDUCTIVITY OF SISAL FIBER/POLYPROPYLENE/CENOSPHERE COMPOSITES",
+                    "author": [
+                        "J Sharma",
+                        "MN Bapat",
+                        "S Singh",
+                        "N Chand"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "This paper reports the dc conductivity behaviour of power plant cenosphere obtained from flyash filled chopped sisal fibre reinforced polypropylene composites. Treated and untreated cenosphere with different concentration were loaded with chopped sisal in polypropylene. The loading of the polypropylene with the chopped sisal fiber and cenosphere increases the dc conductivity \u03c3dc. dc conductivity increases on increase of cenosphere content from 0.02 to 0.08 weight%. The activation energy values for untreated composites (2, 4, 6, 8 phr) are"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ijrbat.in/upload_papers/10032014015722Sharma%20J.pdf",
+                "author_id": [
+                    "",
+                    "",
+                    "75X8lscAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:GgHlUV8htmMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSTUDY%2BOF%2BELECTRICAL%2BCONDUCTIVITY%2BOF%2BSISAL%2BFIBER/POLYPROPYLENE/CENOSPHERE%2BCOMPOSITES%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GgHlUV8htmMJ&ei=jVlkYv2JBfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:GgHlUV8htmMJ:scholar.google.com/&scioq=STUDY+OF+ELECTRICAL+CONDUCTIVITY+OF+SISAL+FIBER/POLYPROPYLENE/CENOSPHERE+COMPOSITES&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ijrbat.in/upload_papers/10032014015722Sharma%20J.pdf"
+            },
+            "processed_authors": [
+                "j sharma",
+                "mn bapat",
+                "shikha singh",
+                "n chand"
+            ]
+        },
+        {
+            "title": "Revision of Inhancing production from Thu, 24/09/2009-18: 20",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQmogOIAAAAJ&pagesize=100&citation_for_view=oQmogOIAAAAJ:YOwf2qJgpHMC",
+            "citation_id": "oQmogOIAAAAJ:YOwf2qJgpHMC",
+            "authors": "SK Verma, SB Singh",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Revision of Inhancing production from Thu, 24/09/2009-18: 20",
+                    "author": [
+                        "SK Verma",
+                        "SB Singh"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "Fertilizer, water, energy and other agro-chemicals are the major inputs in intensive cropping. Indiscriminate and injudicious use of these inputs for achieving potential yield of crops has not only enhanced the cost of cropping but also threatened the degradation of environment. High cost and limited availability of these monetary inputs, and concern about the environment necessitate that such inputs are used in the most efficient manner. There is a greater emphasis on crop diversification which resulted in adverse effect such as"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "http://agropedia.iitk.ac.in/node/3705/revisions/5181/view",
+                "author_id": [
+                    "QKKeDOMAAAAJ",
+                    "oQmogOIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_e3bcQhPsLwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DRevision%2Bof%2BInhancing%2Bproduction%2Bfrom%2BThu,%2B24/09/2009-18:%2B20%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_e3bcQhPsLwJ&ei=kVlkYszxJMLZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:_e3bcQhPsLwJ:scholar.google.com/&scioq=Revision+of+Inhancing+production+from+Thu,+24/09/2009-18:+20&hl=en&as_sdt=0,33",
+                "eprint_url": "http://agropedia.iitk.ac.in/node/3705/revisions/5181/view"
+            },
+            "processed_authors": [
+                "sk verma",
+                "sb singh"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 211,
+                    "since_2017": 210
+                }
+            },
+            {
+                "h_index": {
+                    "all": 6,
+                    "since_2017": 6
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 6
+            },
+            {
+                "year": 2018,
+                "citations": 26
+            },
+            {
+                "year": 2019,
+                "citations": 36
+            },
+            {
+                "year": 2020,
+                "citations": 61
+            },
+            {
+                "year": 2021,
+                "citations": 68
+            },
+            {
+                "year": 2022,
+                "citations": 13
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Angshul Majumdar",
+            "link": "https://scholar.google.com/citations?user=nwNIkAUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=nwNIkAUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "nwNIkAUAAAAJ",
+            "affiliations": "Associate Professor, Indraprastha Institute of Information Technology",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nwNIkAUAAAAJ&citpid=2"
+        },
+        {
+            "name": "SAGAR VERMA",
+            "link": "https://scholar.google.com/citations?user=SIpoREUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=SIpoREUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "SIpoREUAAAAJ",
+            "affiliations": "Centralesupelec",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=SIpoREUAAAAJ&citpid=2"
+        },
+        {
+            "name": "Manoj Gulati",
+            "link": "https://scholar.google.com/citations?user=2L-TGfcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=2L-TGfcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "2L-TGfcAAAAJ",
+            "affiliations": "Singapore Management University, Singapore [earlier IIIT-Delhi and UW Seattle]",
+            "email": "Verified email at smu.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=2L-TGfcAAAAJ&citpid=4"
+        },
+        {
+            "name": "Emilie Chouzenoux",
+            "link": "https://scholar.google.com/citations?user=s6RMliwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=s6RMliwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "s6RMliwAAAAJ",
+            "affiliations": "Full researcher, Inria Saclay, France",
+            "email": "Verified email at centralesupelec.fr",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=s6RMliwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Giovanni Chierchia",
+            "link": "https://scholar.google.com/citations?user=4znhuFcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4znhuFcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4znhuFcAAAAJ",
+            "affiliations": "Assistant professor, Universit\u00e9 Paris Est, ESIEE Paris",
+            "email": "Verified email at esiee.fr",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        }
+    ]
+}

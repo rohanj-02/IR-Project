@@ -1,0 +1,1995 @@
+{
+    "search_metadata": {
+        "id": "62574cf910d74436fafe209e",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f7c34343434b29a9/62574cf910d74436fafe209e.json",
+        "created_at": "2022-04-13 22:21:45 UTC",
+        "processed_at": "2022-04-13 22:21:45 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=Y7rIA24AAAAJ&hl&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/f7c34343434b29a9/62574cf910d74436fafe209e.html",
+        "total_time_taken": 1.37,
+        "total_articles": 39,
+        "total_co_authors": 18
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "Y7rIA24AAAAJ&hl",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Yaman Kumar Singla",
+        "affiliations": "Research Scientist at Adobe Media Data Science Research (MDSR), Google PhD Fellow",
+        "email": "Verified email at adobe.com",
+        "website": "https://sites.google.com/view/yaman-kumar/home",
+        "interests": [
+            {
+                "title": "Artificial Intelligence",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:artificial_intelligence",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aartificial_intelligence"
+            },
+            {
+                "title": "Natural Language Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:natural_language_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Anatural_language_processing"
+            },
+            {
+                "title": "Speech Language Processing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:speech_language_processing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aspeech_language_processing"
+            },
+            {
+                "title": "Causality",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:causality",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Acausality"
+            },
+            {
+                "title": "Marketing",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:marketing",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Amarketing"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Y7rIA24AAAAJ&citpid=4"
+    },
+    "articles": [
+        {
+            "title": "Keyphrase extraction as sequence labeling using contextualized embeddings",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:ULOm3_A8WrAC",
+            "citation_id": "Y7rIA24AAAAJ:ULOm3_A8WrAC",
+            "authors": "D Sahrawat, D Mahata, H Zhang, M Kulkarni, A Sharma, R Gosangi, ...",
+            "publication": "European Conference on Information Retrieval, 328-335, 2020",
+            "cited_by": {
+                "value": 54,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7886963745352067704,3100696967215673891,9662747076239862662",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7886963745352067704%2C3100696967215673891%2C9662747076239862662&engine=google_scholar&hl=en",
+                "cites_id": "7886963745352067704,3100696967215673891,9662747076239862662"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Keyphrase extraction as sequence labeling using contextualized embeddings",
+                    "author": [
+                        "D Sahrawat",
+                        "D Mahata",
+                        "H Zhang",
+                        "M Kulkarni"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 on Information Retrieval",
+                    "abstract": "In this paper, we formulate keyphrase extraction from scholarly articles as a sequence labeling task solved using a BiLSTM-CRF, where the words in the input text are represented using deep contextualized embeddings. We evaluate the proposed architecture using both contextualized and fixed word embedding models on three different benchmark datasets, and compare with existing popular unsupervised and supervised techniques. Our results quantify the benefits of:(a) using contextualized embeddings over fixed word"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-45442-5_41",
+                "author_id": [
+                    "d20OKwkAAAAJ",
+                    "8F1SwO0AAAAJ",
+                    "",
+                    "ycBuNT0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:eCoYTr0fdG0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKeyphrase%2Bextraction%2Bas%2Bsequence%2Blabeling%2Busing%2Bcontextualized%2Bembeddings%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=eCoYTr0fdG0J&ei=5VZkYrajNaKUy9YP_JONiAY&json=",
+                "num_citations": 30,
+                "citedby_url": "/scholar?cites=7886963745352067704&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:eCoYTr0fdG0J:scholar.google.com/&scioq=Keyphrase+extraction+as+sequence+labeling+using+contextualized+embeddings&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-030-45442-5_41"
+            }
+        },
+        {
+            "title": "Mind your language: Abuse and offense detection for code-switched languages",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:2osOgNQ5qMEC",
+            "citation_id": "Y7rIA24AAAAJ:2osOgNQ5qMEC",
+            "authors": "R Kapoor, Y Kumar, K Rajput, RR Shah, P Kumaraguru, R Zimmermann",
+            "publication": "Proceedings of the AAAI conference on artificial intelligence 33 (01), 9951-9952, 2019",
+            "cited_by": {
+                "value": 27,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7648096128691012673",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7648096128691012673&engine=google_scholar&hl=en",
+                "cites_id": "7648096128691012673"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mind your language: Abuse and offense detection for code-switched languages",
+                    "author": [
+                        "R Kapoor",
+                        "Y Kumar",
+                        "K Rajput",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In multilingual societies like the Indian subcontinent, use of code-switched languages is much popular and convenient for the users. In this paper, we study offense and abuse detection in the code-switched pair of Hindi and English (ie, Hinglish), the pair that is the most spoken. The task is made difficult due to non-fixed grammar, vocabulary, semantics and spellings of Hinglish language. We apply transfer learning and make a LSTM based model for hate speech classification. This model surpasses the performance shown by the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5112",
+                "author_id": [
+                    "8eJoJ0MAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QQSrXuh-I2oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMind%2Byour%2Blanguage:%2BAbuse%2Band%2Boffense%2Bdetection%2Bfor%2Bcode-switched%2Blanguages%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QQSrXuh-I2oJ&ei=6lZkYqqFKZGJmwGY-qmYDQ&json=",
+                "num_citations": 27,
+                "citedby_url": "/scholar?cites=7648096128691012673&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QQSrXuh-I2oJ:scholar.google.com/&scioq=Mind+your+language:+Abuse+and+offense+detection+for+code-switched+languages&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5112/4985"
+            }
+        },
+        {
+            "title": "Get it scored using autosas\u2014an automated system for scoring short answers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:UeHWp8X0CEIC",
+            "citation_id": "Y7rIA24AAAAJ:UeHWp8X0CEIC",
+            "authors": "Y Kumar, S Aggarwal, D Mahata, RR Shah, P Kumaraguru, ...",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 9662-9669, 2019",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3585415598409113900",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3585415598409113900&engine=google_scholar&hl=en",
+                "cites_id": "3585415598409113900"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Get it scored using autosas\u2014an automated system for scoring short answers",
+                    "author": [
+                        "Y Kumar",
+                        "S Aggarwal",
+                        "D Mahata",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In the era of MOOCs, online exams are taken by millions of candidates, where scoring short answers is an integral part. It becomes intractable to evaluate them by human graders. Thus, a generic automated system capable of grading these responses should be designed and deployed. In this paper, we present a fast, scalable, and accurate approach towards automated Short Answer Scoring (SAS). We propose and explain the design and development of a system for SAS, namely AutoSAS. Given a question along with its graded"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5031",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "",
+                    "8F1SwO0AAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:LOFRi330wTEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DGet%2Bit%2Bscored%2Busing%2Bautosas%25E2%2580%2594an%2Bautomated%2Bsystem%2Bfor%2Bscoring%2Bshort%2Banswers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LOFRi330wTEJ&ei=71ZkYsWzPLKO6rQPy-CRsA8&json=",
+                "num_citations": 25,
+                "citedby_url": "/scholar?cites=3585415598409113900&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:LOFRi330wTEJ:scholar.google.com/&scioq=Get+it+scored+using+autosas%E2%80%94an+automated+system+for+scoring+short+answers&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5031/4904"
+            }
+        },
+        {
+            "title": "Harnessing AI for Speech Reconstruction using Multi-view Silent Video Feed",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:d1gkVwhDpl0C",
+            "citation_id": "Y7rIA24AAAAJ:d1gkVwhDpl0C",
+            "authors": "Y Kumar, M Aggarwal, P Nawal, S Satoh, RR Shah, R Zimmerman",
+            "publication": "Proceedings of the 26th ACM International Conference on Multimedia, 1976\u20131983, 2018",
+            "cited_by": {
+                "value": 25,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14107956357102661943,5144434310071778887",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14107956357102661943%2C5144434310071778887&engine=google_scholar&hl=en",
+                "cites_id": "14107956357102661943,5144434310071778887"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Harnessing ai for speech reconstruction using multi-view silent video feed",
+                    "author": [
+                        "Y Kumar",
+                        "M Aggarwal",
+                        "P Nawal",
+                        "S Satoh"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "Proceedings of the 26th \u2026",
+                    "abstract": "Speechreading or lipreading is the technique of understanding and getting phonetic features from a speaker's visual features such as movement of lips, face, teeth and tongue. It has a wide range of multimedia applications such as in surveillance, Internet telephony, and as an aid to a person with hearing impairments. However, most of the work in speechreading has been limited to text generation from silent videos. Recently, research has started venturing into generating (audio) speech from silent video sequences but there"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3240508.3241911",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "",
+                    "",
+                    "7aEF5cQAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:N3HRQ4-HycMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHarnessing%2BAI%2Bfor%2BSpeech%2BReconstruction%2Busing%2BMulti-view%2BSilent%2BVideo%2BFeed%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=N3HRQ4-HycMJ&ei=_VZkYs7lC_mQ6rQP5OqKqAo&json=",
+                "num_citations": 25,
+                "citedby_url": "/scholar?cites=14107956357102661943&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:N3HRQ4-HycMJ:scholar.google.com/&scioq=Harnessing+AI+for+Speech+Reconstruction+using+Multi-view+Silent+Video+Feed&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1807.00619.pdf?ref=https://githubhelp.com"
+            }
+        },
+        {
+            "title": "Lipper: Synthesizing thy speech using multi-view lipreading",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:_FxGoFyzp5QC",
+            "citation_id": "Y7rIA24AAAAJ:_FxGoFyzp5QC",
+            "authors": "Y Kumar, R Jain, KM Salik, RR Shah, Y Yin, R Zimmermann",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 2588-2595, 2019",
+            "cited_by": {
+                "value": 22,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16033564299771104110",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16033564299771104110&engine=google_scholar&hl=en",
+                "cites_id": "16033564299771104110"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lipper: Synthesizing thy speech using multi-view lipreading",
+                    "author": [
+                        "Y Kumar",
+                        "R Jain",
+                        "KM Salik",
+                        "RR Shah",
+                        "Y Yin"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Lipreading has a lot of potential applications such as in the domain of surveillance and video conferencing. Despite this, most of the work in building lipreading systems has been limited to classifying silent videos into classes representing text phrases. However, there are multiple problems associated with making lipreading a text-based classification task like its dependence on a particular language and vocabulary mapping. Thus, in this paper we propose a multi-view lipreading to audio system, namely Lipper, which models it as a"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4106",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "",
+                    "7FVfj60AAAAJ",
+                    "WAChZv4AAAAJ",
+                    "TRfTdBAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:bss9-8epgt4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLipper:%2BSynthesizing%2Bthy%2Bspeech%2Busing%2Bmulti-view%2Blipreading%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bss9-8epgt4J&ei=CVdkYryGLJqSy9YP8pKNsAE&json=",
+                "num_citations": 22,
+                "citedby_url": "/scholar?cites=16033564299771104110&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:bss9-8epgt4J:scholar.google.com/&scioq=Lipper:+Synthesizing+thy+speech+using+multi-view+lipreading&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ojs.aaai.org/index.php/AAAI/article/view/4106/3984"
+            }
+        },
+        {
+            "title": "MIDAS at SemEval-2019 Task 6: Identifying Offensive Posts and Targeted Offense from Twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:WF5omc3nYNoC",
+            "citation_id": "Y7rIA24AAAAJ:WF5omc3nYNoC",
+            "authors": "D Mahata, H Zhang, K Uppal, Y Kumar, R Shah, S Shahid, L Mehnaz, ...",
+            "publication": "Proceedings of the 13th International Workshop on Semantic Evaluation, 683-690, 2019",
+            "cited_by": {
+                "value": 19,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10721354118773927332",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10721354118773927332&engine=google_scholar&hl=en",
+                "cites_id": "10721354118773927332"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MIDAS at SemEval-2019 task 6: Identifying offensive posts and targeted offense from twitter",
+                    "author": [
+                        "D Mahata",
+                        "H Zhang",
+                        "K Uppal",
+                        "Y Kumar"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In this paper we present our approach and the system description for Sub Task A and Sub Task B of SemEval 2019 Task 6: Identifying and Categorizing Offensive Language in Social Media. Sub Task A involves identifying if a given tweet is offensive and Sub Task B involves detecting if an offensive tweet is targeted towards someone (group or an individual). Our models for Sub Task A is based on an ensemble of Convolutional Neural Network and Bidirectional LSTM, whereas for Sub Task B, we rely on a set of heuristics derived from the"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aclanthology.org/S19-2122/",
+                "author_id": [
+                    "8F1SwO0AAAAJ",
+                    "",
+                    "",
+                    "Y7rIA24AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:pO2wUMTmyZQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMIDAS%2Bat%2BSemEval-2019%2BTask%2B6:%2BIdentifying%2BOffensive%2BPosts%2Band%2BTargeted%2BOffense%2Bfrom%2BTwitter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pO2wUMTmyZQJ&ei=DVdkYonoBsLZmQHnraWYCA&json=",
+                "num_citations": 19,
+                "citedby_url": "/scholar?cites=10721354118773927332&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:pO2wUMTmyZQJ:scholar.google.com/&scioq=MIDAS+at+SemEval-2019+Task+6:+Identifying+Offensive+Posts+and+Targeted+Offense+from+Twitter&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aclanthology.org/S19-2122/"
+            }
+        },
+        {
+            "title": "What all do audio transformer models hear? Probing Acoustic Representations for Language Delivery and its Structure",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:7PzlFSSx8tAC",
+            "citation_id": "Y7rIA24AAAAJ:7PzlFSSx8tAC",
+            "authors": "J Shah, YK Singla, C Chen, RR Shah",
+            "publication": "arXiv preprint arXiv:2101.00387, 2021",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16084748072463016752",
+                "serpapi_link": "https://serpapi.com/search.json?cites=16084748072463016752&engine=google_scholar&hl=en",
+                "cites_id": "16084748072463016752"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "What all do audio transformer models hear? probing acoustic representations for language delivery and its structure",
+                    "author": [
+                        "J Shah",
+                        "YK Singla",
+                        "C Chen",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv:2101.00387",
+                    "abstract": "In recent times, BERT based transformer models have become an inseparable part of the'tech stack'of text processing models. Similar progress is being observed in the speech domain with a multitude of models observing state-of-the-art results by using audio transformer models to encode speech. This begs the question of what are these audio transformer models learning. Moreover, although the standard methodology is to choose the last layer embedding for any downstream task, but is it the optimal choice? We try to answer"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2101.00387",
+                "author_id": [
+                    "WfQ1Hf0AAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "LtEcKBcAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:MKPOuCaBON8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DWhat%2Ball%2Bdo%2Baudio%2Btransformer%2Bmodels%2Bhear%253F%2BProbing%2BAcoustic%2BRepresentations%2Bfor%2BLanguage%2BDelivery%2Band%2Bits%2BStructure%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MKPOuCaBON8J&ei=EFdkYrTaN86E6rQP5-KmKA&json=",
+                "num_citations": 13,
+                "citedby_url": "/scholar?cites=16084748072463016752&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:MKPOuCaBON8J:scholar.google.com/&scioq=What+all+do+audio+transformer+models+hear%3F+Probing+Acoustic+Representations+for+Language+Delivery+and+its+Structure&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2101.00387"
+            }
+        },
+        {
+            "title": "MyLipper: A Personalized System for Speech Reconstruction using Multi-view Visual Feeds",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:IjCSPb-OGe4C",
+            "citation_id": "Y7rIA24AAAAJ:IjCSPb-OGe4C",
+            "authors": "Y Kumar, R Jain, M Salik, R ratn Shah, R Zimmermann, Y Yin",
+            "publication": "2018 IEEE International Symposium on Multimedia (ISM), 159-166, 2018",
+            "cited_by": {
+                "value": 12,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13664213934619588023",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13664213934619588023&engine=google_scholar&hl=en",
+                "cites_id": "13664213934619588023"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mylipper: A personalized system for speech reconstruction using multi-view visual feeds",
+                    "author": [
+                        "Y Kumar",
+                        "R Jain",
+                        "M Salik",
+                        "R ratn Shah"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on Multimedia (ISM)",
+                    "abstract": "Lipreading is the task of looking at, perceiving, and interpreting spoken symbols. It has a wide range of applications such as in surveillance, Internet telephony, speech reconstruction for silent movies and as an aid to a person with speech as well as hearing impairments. However, most of the work in lipreading literature has been limited to the classification of speech videos into text classes formed of phrases, words and sentences. Even this has been based on a highly constrained lexicon of words which, then subsequently translates to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8603277/",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "",
+                    "7FVfj60AAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:t3Xxay0Kob0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMyLipper:%2BA%2BPersonalized%2BSystem%2Bfor%2BSpeech%2BReconstruction%2Busing%2BMulti-view%2BVisual%2BFeeds%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=t3Xxay0Kob0J&ei=FFdkYpfIJ5yO6rQP_qe3mAs&json=",
+                "num_citations": 12,
+                "citedby_url": "/scholar?cites=13664213934619588023&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:t3Xxay0Kob0J:scholar.google.com/&scioq=MyLipper:+A+Personalized+System+for+Speech+Reconstruction+using+Multi-view+Visual+Feeds&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Yaman-Singla/publication/330247449_MyLipper_A_Personalized_System_for_Speech_Reconstruction_using_Multi-view_Visual_Feeds/links/617bb79c0be8ec17a9435058/MyLipper-A-Personalized-System-for-Speech-Reconstruction-using-Multi-view-Visual-Feeds.pdf"
+            }
+        },
+        {
+            "title": "Mobivsr: A visual speech recognition solution for mobile devices",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:hqOjcs7Dif8C",
+            "citation_id": "Y7rIA24AAAAJ:hqOjcs7Dif8C",
+            "authors": "N Shrivastava, A Saxena, Y Kumar, RR Shah, D Mahata, A Stent",
+            "publication": "arXiv preprint arXiv:1905.03968, 2019",
+            "cited_by": {
+                "value": 11,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9672566578001246355",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9672566578001246355&engine=google_scholar&hl=en",
+                "cites_id": "9672566578001246355"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Mobivsr: A visual speech recognition solution for mobile devices",
+                    "author": [
+                        "N Shrivastava",
+                        "A Saxena",
+                        "Y Kumar",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Visual speech recognition (VSR) is the task of recognizing spoken language from video input only, without any audio. VSR has many applications as an assistive technology, especially if it could be deployed in mobile devices and embedded systems. The need of intensive computational resources and large memory footprint are two of the major obstacles in developing neural network models for VSR in a resource constrained environment. We propose a novel end-to-end deep neural network architecture for word level VSR called"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1905.03968",
+                "author_id": [
+                    "ThzX1xUAAAAJ",
+                    "Dv1czY4AAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:k3gUJA7cO4YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMobivsr:%2BA%2Bvisual%2Bspeech%2Brecognition%2Bsolution%2Bfor%2Bmobile%2Bdevices%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=k3gUJA7cO4YJ&ei=F1dkYrKlJO-Sy9YPs_mY8AM&json=",
+                "num_citations": 11,
+                "citedby_url": "/scholar?cites=9672566578001246355&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:k3gUJA7cO4YJ:scholar.google.com/&scioq=Mobivsr:+A+visual+speech+recognition+solution+for+mobile+devices&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1905.03968"
+            }
+        },
+        {
+            "title": "Calling out bluff: attacking the robustness of automatic scoring systems with simple adversarial testing",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:4DMP91E08xMC",
+            "citation_id": "Y7rIA24AAAAJ:4DMP91E08xMC",
+            "authors": "Y Kumar, M Bhatia, A Kabra, JJ Li, D Jin, RR Shah",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12089391456246819975,4909552162654218799,4512588481945185814",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12089391456246819975%2C4909552162654218799%2C4512588481945185814&engine=google_scholar&hl=en",
+                "cites_id": "12089391456246819975,4909552162654218799,4512588481945185814"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Calling out bluff: attacking the robustness of automatic scoring systems with simple adversarial testing",
+                    "author": [
+                        "Y Kumar",
+                        "M Bhatia",
+                        "A Kabra",
+                        "JJ Li",
+                        "D Jin",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "NA",
+                    "abstract": "A significant progress has been made in deep-learning based Automatic Essay Scoring (AES) systems in the past two decades. The performance commonly measured by the standard performance metrics like Quadratic Weighted Kappa (QWK), and accuracy points to the same. However, testing on common-sense adversarial examples of these AES systems reveal their lack of natural language understanding capability. Inspired by common student behaviour during examinations, we propose a task agnostic adversarial evaluation"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://onikle.com/articles/293757",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "F1efoLgAAAAJ",
+                    "bMie1tIAAAAJ",
+                    "tJGm3-YAAAAJ",
+                    "x5QTK9YAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:h-w7JHolxqcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCalling%2Bout%2Bbluff:%2Battacking%2Bthe%2Brobustness%2Bof%2Bautomatic%2Bscoring%2Bsystems%2Bwith%2Bsimple%2Badversarial%2Btesting%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=h-w7JHolxqcJ&ei=G1dkYoXjBO-Sy9YPs_mY8AM&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=12089391456246819975&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:h-w7JHolxqcJ:scholar.google.com/&scioq=Calling+out+bluff:+attacking+the+robustness+of+automatic+scoring+systems+with+simple+adversarial+testing&hl=en&as_sdt=0,33"
+            }
+        },
+        {
+            "title": "Multi-modal Automated Speech Scoring using Attention Fusion",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:_kc_bZDykSQC",
+            "citation_id": "Y7rIA24AAAAJ:_kc_bZDykSQC",
+            "authors": "MS Grover, Y Kumar, S Sarin, P Vafaee, M Hama, RR Shah",
+            "publication": "arXiv preprint arXiv:2005.08182, 2020",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9354328578437130929,9642956738071006395",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9354328578437130929%2C9642956738071006395&engine=google_scholar&hl=en",
+                "cites_id": "9354328578437130929,9642956738071006395"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Multi-modal automated speech scoring using attention fusion",
+                    "author": [
+                        "MS Grover",
+                        "Y Kumar",
+                        "S Sarin",
+                        "P Vafaee"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "In this study, we propose a novel multi-modal end-to-end neural approach for automated assessment of non-native English speakers' spontaneous speech using attention fusion. The pipeline employs Bi-directional Recurrent Convolutional Neural Networks and Bi-directional Long Short-Term Memory Neural Networks to encode acoustic and lexical cues from spectrograms and transcriptions, respectively. Attention fusion is performed on these learned predictive features to learn complex interactions between different modalities before"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2005.08182",
+                "author_id": [
+                    "33le3NEAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "dW_5jKMAAAAJ",
+                    "1nJuBxIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:saoH3kdA0YEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMulti-modal%2BAutomated%2BSpeech%2BScoring%2Busing%2BAttention%2BFusion%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=saoH3kdA0YEJ&ei=HldkYpfOIo6pywTd4KPADw&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=9354328578437130929&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:saoH3kdA0YEJ:scholar.google.com/&scioq=Multi-modal+Automated+Speech+Scoring+using+Attention+Fusion&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2005.08182"
+            }
+        },
+        {
+            "title": "MIDAS@ SMM4H-2019: Identifying Adverse Drug Reactions and Personal Health Experience Mentions from Twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:Se3iqnhoufwC",
+            "citation_id": "Y7rIA24AAAAJ:Se3iqnhoufwC",
+            "authors": "S Anand, D Mahata, H Zhang, S Shahid, L Mehnaz, Y Kumar, RR Shah",
+            "publication": "ACL 2019, 127, 2019",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12558334714906385885",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12558334714906385885&engine=google_scholar&hl=en",
+                "cites_id": "12558334714906385885"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MIDAS@ SMM4H-2019: identifying adverse drug reactions and personal health experience mentions from twitter",
+                    "author": [
+                        "D Mahata",
+                        "S Anand",
+                        "H Zhang",
+                        "S Shahid"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In this paper, we present our approach and the system description for the Social Media Mining for Health Applications (SMM4H) Shared Task 1, 2 and 4 (2019). Our main contribution is to show the effectiveness of Transfer Learning approaches like BERT and ULMFiT, and how they generalize for the classification tasks like identification of adverse drug reaction mentions and reporting of personal health problems in tweets. We show the use of stacked embeddings combined with BLSTM+ CRF tagger for identifying spans"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aclanthology.org/W19-3223/",
+                "author_id": [
+                    "8F1SwO0AAAAJ",
+                    "o7aZlRYAAAAJ",
+                    "IlpiFuAAAAAJ",
+                    "K2iDQygAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:3Z1z5OIqSK4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMIDAS%2540%2BSMM4H-2019:%2BIdentifying%2BAdverse%2BDrug%2BReactions%2Band%2BPersonal%2BHealth%2BExperience%2BMentions%2Bfrom%2BTwitter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=3Z1z5OIqSK4J&ei=IldkYqPjEMLZmQHnraWYCA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=12558334714906385885&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:3Z1z5OIqSK4J:scholar.google.com/&scioq=MIDAS%40+SMM4H-2019:+Identifying+Adverse+Drug+Reactions+and+Personal+Health+Experience+Mentions+from+Twitter&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aclanthology.org/W19-3223/"
+            }
+        },
+        {
+            "title": "Hush-Hush Speak: Speech Reconstruction Using Silent Videos.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:UebtZRa9Y70C",
+            "citation_id": "Y7rIA24AAAAJ:UebtZRa9Y70C",
+            "authors": "S Uttam, Y Kumar, D Sahrawat, M Aggarwal, RR Shah, D Mahata, A Stent",
+            "publication": "INTERSPEECH, 136-140, 2019",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5907354381183888630",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5907354381183888630&engine=google_scholar&hl=en",
+                "cites_id": "5907354381183888630"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Hush-Hush Speak: Speech Reconstruction Using Silent Videos.",
+                    "author": [
+                        "S Uttam",
+                        "Y Kumar",
+                        "D Sahrawat",
+                        "M Aggarwal"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "\u2026",
+                    "abstract": "Speech Reconstruction is the task of recreation of speech using silent videos as input. In the literature, it is also referred to as lipreading. In this paper, we design an encoder-decoder architecture which takes silent videos as input and outputs an audio spectrogram of the reconstructed speech. The model, despite being a speaker-independent model, achieves comparable results on speech reconstruction to the current state-of-the-art speaker-dependent model. We also perform user studies to infer speech intelligibility. Additionally"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/3269.pdf",
+                "author_id": [
+                    "",
+                    "Y7rIA24AAAAJ",
+                    "d20OKwkAAAAJ",
+                    "PBcyY2wAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:9izQ3IIj-1EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHush-Hush%2BSpeak:%2BSpeech%2BReconstruction%2BUsing%2BSilent%2BVideos.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9izQ3IIj-1EJ&ei=JVdkYv-hKo2ymgHg1rfQDQ&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=5907354381183888630&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:9izQ3IIj-1EJ:scholar.google.com/&scioq=Hush-Hush+Speak:+Speech+Reconstruction+Using+Silent+Videos.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.academia.edu/download/70035658/da5db1ced6058824ce0c8fe9cb6e1d20c24e.pdf"
+            }
+        },
+        {
+            "title": "IceBreaker: Solving Cold Start Problem for Video Recommendation Engines",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:9yKSN-GCB0IC",
+            "citation_id": "Y7rIA24AAAAJ:9yKSN-GCB0IC",
+            "authors": "Y Kumar, A Sharma, A Khaund, A Kumar, P Kumaraguru, RR Shah, ...",
+            "publication": "2018 IEEE International Symposium on Multimedia (ISM), 217-222, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2859068684361473334",
+                "serpapi_link": "https://serpapi.com/search.json?cites=2859068684361473334&engine=google_scholar&hl=en",
+                "cites_id": "2859068684361473334"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "IceBreaker: Solving cold start problem for video recommendation engines",
+                    "author": [
+                        "Y Kumar",
+                        "A Sharma",
+                        "A Khaund",
+                        "A Kumar"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "\u2026 on multimedia (ISM)",
+                    "abstract": "Internet has brought about a tremendous increase in content of all forms and, in that, video content constitutes the major backbone of the total content being published as well as watched. Thus it becomes imperative for video recommendation engines to look for novel and innovative ways to recommend the newly added videos to their users. However, the problem with new videos is that they lack any sort of metadata and user interaction so as to be able to rate the videos for the consumers. To this effect, this paper introduces the several"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8603293/",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "dQScRJsAAAAJ",
+                    "pKJBTfYAAAAJ",
+                    "gsHhV5kAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Nh3PB9JzrScJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIceBreaker:%2BSolving%2BCold%2BStart%2BProblem%2Bfor%2BVideo%2BRecommendation%2BEngines%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Nh3PB9JzrScJ&ei=KVdkYv3-B4yuyAT-mrWwCA&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=2859068684361473334&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Nh3PB9JzrScJ:scholar.google.com/&scioq=IceBreaker:+Solving+Cold+Start+Problem+for+Video+Recommendation+Engines&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1808.05636"
+            }
+        },
+        {
+            "title": "Kiki Kills: Identifying Dangerous Challenge Videos from Social Media",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:qjMakFHDy7sC",
+            "citation_id": "Y7rIA24AAAAJ:qjMakFHDy7sC",
+            "authors": "N Baghel, Y Kumar, P Nanda, RR Shah, D Mahata, R Zimmermann",
+            "publication": "arXiv preprint arXiv:1812.00399, 2018",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6030797444256962579",
+                "serpapi_link": "https://serpapi.com/search.json?cites=6030797444256962579&engine=google_scholar&hl=en",
+                "cites_id": "6030797444256962579"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Kiki kills: Identifying dangerous challenge videos from social media",
+                    "author": [
+                        "N Baghel",
+                        "Y Kumar",
+                        "P Nanda",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "There has been upsurge in the number of people participating in challenges made popular through social media channels. One of the examples of such a challenge is the Kiki Challenge, in which people step out of their moving cars and dance to the tunes of the song,'Kiki, Do you love me?'. Such an action makes the people taking the challenge prone to accidents and can also create nuisance for the others traveling on the road. In this work, we introduce the prevalence of such challenges in social media and show how the machine"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1812.00399",
+                "author_id": [
+                    "",
+                    "Y7rIA24AAAAJ",
+                    "",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ExhFsVKysVMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DKiki%2BKills:%2BIdentifying%2BDangerous%2BChallenge%2BVideos%2Bfrom%2BSocial%2BMedia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ExhFsVKysVMJ&ei=LFdkYp3MOJqSy9YP8pKNsAE&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=6030797444256962579&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:ExhFsVKysVMJ:scholar.google.com/&scioq=Kiki+Kills:+Identifying+Dangerous+Challenge+Videos+from+Social+Media&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1812.00399"
+            }
+        },
+        {
+            "title": "audino: A Modern Annotation Tool for Audio and Speech",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:qxL8FJ1GzNcC",
+            "citation_id": "Y7rIA24AAAAJ:qxL8FJ1GzNcC",
+            "authors": "MS Grover, P Bamdev, Y Kumar, M Hama, RR Shah",
+            "publication": "arXiv preprint arXiv:2006.05236, 2020",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14061005196262911036,4768428433134488809",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14061005196262911036%2C4768428433134488809&engine=google_scholar&hl=en",
+                "cites_id": "14061005196262911036,4768428433134488809"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "audino: A modern annotation tool for audio and speech",
+                    "author": [
+                        "MS Grover",
+                        "P Bamdev",
+                        "Y Kumar",
+                        "M Hama"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "In this paper, we introduce a collaborative and modern annotation tool for audio and speech: audino. The tool allows annotators to define and describe temporal segmentation in audios. These segments can be labelled and transcribed easily using a dynamically generated form. An admin can centrally control user roles and project assignment through the admin dashboard. The dashboard also enables describing labels and their values. The annotations can easily be exported in JSON format for further processing. The tool allows"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2006.05236",
+                "author_id": [
+                    "33le3NEAAAAJ",
+                    "7UIln54AAAAJ",
+                    "Y7rIA24AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:PCwsRLq5IsMJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Daudino:%2BA%2BModern%2BAnnotation%2BTool%2Bfor%2BAudio%2Band%2BSpeech%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PCwsRLq5IsMJ&ei=MFdkYqv4EeiSy9YPp-OyiAE&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=14061005196262911036&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:PCwsRLq5IsMJ:scholar.google.com/&scioq=audino:+A+Modern+Annotation+Tool+for+Audio+and+Speech&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.05236"
+            }
+        },
+        {
+            "title": "Harnessing gans for zero-shot learning of new classes in visual speech recognition",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:Zph67rFs4hoC",
+            "citation_id": "Y7rIA24AAAAJ:Zph67rFs4hoC",
+            "authors": "Y Kumar, D Sahrawat, S Maheshwari, D Mahata, A Stent, Y Yin, RR Shah, ...",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 34 (03), 2645-2652, 2020",
+            "cited_by": {
+                "value": 8,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15628742074697934169,9292698889521707106",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15628742074697934169%2C9292698889521707106&engine=google_scholar&hl=en",
+                "cites_id": "15628742074697934169,9292698889521707106"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Harnessing gans for zero-shot learning of new classes in visual speech recognition",
+                    "author": [
+                        "Y Kumar",
+                        "D Sahrawat",
+                        "S Maheshwari"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Visual Speech Recognition (VSR) is the process of recognizing or interpreting speech by watching the lip movements of the speaker. Recent machine learning based approaches model VSR as a classification problem; however, the scarcity of training data leads to error-prone systems with very low accuracies in predicting unseen classes. To solve this problem, we present a novel approach to zero-shot learning by generating new classes using Generative Adversarial Networks (GANs), and show how the addition of unseen class"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5649",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "d20OKwkAAAAJ",
+                    "a-rBHD8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:WWWSwBxy5NgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHarnessing%2Bgans%2Bfor%2Bzero-shot%2Blearning%2Bof%2Bnew%2Bclasses%2Bin%2Bvisual%2Bspeech%2Brecognition%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WWWSwBxy5NgJ&ei=M1dkYq-yA_mQ6rQP5OqKqAo&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=15628742074697934169&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:WWWSwBxy5NgJ:scholar.google.com/&scioq=Harnessing+gans+for+zero-shot+learning+of+new+classes+in+visual+speech+recognition&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5649/5505"
+            }
+        },
+        {
+            "title": "My Teacher Thinks The World Is Flat! Interpreting Automatic Essay Scoring Mechanism",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:dhFuZR0502QC",
+            "citation_id": "Y7rIA24AAAAJ:dhFuZR0502QC",
+            "authors": "S Parekh, YK Singla, C Chen, JJ Li, RR Shah",
+            "publication": "arXiv preprint arXiv:2012.13872, 2020",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14894213824163436505",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14894213824163436505&engine=google_scholar&hl=en",
+                "cites_id": "14894213824163436505"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "My teacher thinks the world is flat! interpreting automatic essay scoring mechanism",
+                    "author": [
+                        "S Parekh",
+                        "YK Singla",
+                        "C Chen",
+                        "JJ Li"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Significant progress has been made in deep-learning based Automatic Essay Scoring (AES) systems in the past two decades. However, little research has been put to understand and interpret the black-box nature of these deep-learning based scoring models. Recent work shows that automated scoring systems are prone to even common-sense adversarial samples. Their lack of natural language understanding capability raises questions on the models being actively used by millions of candidates for life-changing decisions. With"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2012.13872",
+                "author_id": [
+                    "Kg63DSwAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "LtEcKBcAAAAJ",
+                    "tJGm3-YAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:2Vf5ZY_gss4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMy%2BTeacher%2BThinks%2BThe%2BWorld%2BIs%2BFlat!%2BInterpreting%2BAutomatic%2BEssay%2BScoring%2BMechanism%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2Vf5ZY_gss4J&ei=OFdkYpGEOZqSy9YP8pKNsAE&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=14894213824163436505&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:2Vf5ZY_gss4J:scholar.google.com/&scioq=My+Teacher+Thinks+The+World+Is+Flat!+Interpreting+Automatic+Essay+Scoring+Mechanism&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2012.13872"
+            }
+        },
+        {
+            "title": "Lipper: Speaker independent speech synthesis using multi-view lipreading",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:Y0pCki6q_DkC",
+            "citation_id": "Y7rIA24AAAAJ:Y0pCki6q_DkC",
+            "authors": "KM Salik, S Aggarwal, Y Kumar, RR Shah, R Jain, R Zimmermann",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence 33 (01), 10023 \u2026, 2019",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8603291481651525880",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8603291481651525880&engine=google_scholar&hl=en",
+                "cites_id": "8603291481651525880"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lipper: Speaker independent speech synthesis using multi-view lipreading",
+                    "author": [
+                        "KM Salik",
+                        "S Aggarwal",
+                        "Y Kumar",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "Lipreading is the process of understanding and interpreting speech by observing a speaker's lip movements. In the past, most of the work in lipreading has been limited to classifying silent videos to a fixed number of text classes. However, this limits the applications of the lipreading since human language cannot be bound to a fixed set of words or languages. The aim of this work is to reconstruct intelligible acoustic speech signals from silent videos from various poses of a person which Lipper has never seen before. Lipper"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ojs.aaai.org/index.php/AAAI/article/view/5148",
+                "author_id": [
+                    "7FVfj60AAAAJ",
+                    "",
+                    "Y7rIA24AAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-Lj7NgUIZXcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLipper:%2BSpeaker%2Bindependent%2Bspeech%2Bsynthesis%2Busing%2Bmulti-view%2Blipreading%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-Lj7NgUIZXcJ&ei=RldkYvigJO-Sy9YPs_mY8AM&json=",
+                "num_citations": 7,
+                "citedby_url": "/scholar?cites=8603291481651525880&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:-Lj7NgUIZXcJ:scholar.google.com/&scioq=Lipper:+Speaker+independent+speech+synthesis+using+multi-view+lipreading&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ojs.aaai.org/index.php/AAAI/article/download/5148/5021"
+            }
+        },
+        {
+            "title": "BHAAV (\u092d\u093e\u0935)-A Emotion Analysis Dataset from Hindi Stories",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:kNdYIx-mwKoC",
+            "citation_id": "Y7rIA24AAAAJ:kNdYIx-mwKoC",
+            "authors": "Y Kumar, D Mahata, S Aggarwal, A Chugh, R Maheshwari, RR Shah",
+            "cited_by": {
+                "value": 7,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1092052871408833372,13652243815984517287",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1092052871408833372%2C13652243815984517287&engine=google_scholar&hl=en",
+                "cites_id": "1092052871408833372,13652243815984517287"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "BHAAV (\u092d\u093e\u0935)-A Emotion Analysis Dataset from Hindi Stories",
+                    "author": [
+                        "Y Kumar",
+                        "D Mahata",
+                        "S Aggarwal",
+                        "A Chugh"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "In this paper, we introduce the first and largest Hindi text corpus, named BHAAV (\u092d\u093e\u0935), which means emotions in Hindi, for analyzing emotions that a writer expresses through his characters in a story, as perceived by a narrator/reader. The corpus consists of 20,304 sentences collected from 230 different short stories spanning across 18 genres such as \u0947\u0930\u0923\u093e\u0926\u093e\u092f\u0915 (Inspirational) and \u0930\u0939 \u092f\u092e\u092f\u0940 (Mystery). Each sentence has been annotated into one of the five emotion categories (anger, joy, suspense, sad, and neutral), by three"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.researchgate.net/profile/Debanjan-Mahata/publication/336372128_BHAAV-_A_Text_Corpus_for_Emotion_Analysis_from_Hindi_Stories/links/5df8f8c8299bf10bc363356c/BHAAV-A-Text-Corpus-for-Emotion-Analysis-from-Hindi-Stories.pdf",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "8F1SwO0AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:p9DH_mqDdr0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBHAAV%2B(%25E0%25A4%25AD%25E0%25A4%25BE%25E0%25A4%25B5)-A%2BEmotion%2BAnalysis%2BDataset%2Bfrom%2BHindi%2BStories%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=p9DH_mqDdr0J&ei=T1dkYvfDBoOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:p9DH_mqDdr0J:scholar.google.com/&scioq=BHAAV+(%E0%A4%AD%E0%A4%BE%E0%A4%B5)-A+Emotion+Analysis+Dataset+from+Hindi+Stories&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Debanjan-Mahata/publication/336372128_BHAAV-_A_Text_Corpus_for_Emotion_Analysis_from_Hindi_Stories/links/5df8f8c8299bf10bc363356c/BHAAV-A-Text-Corpus-for-Emotion-Analysis-from-Hindi-Stories.pdf"
+            }
+        },
+        {
+            "title": "Towards Modelling Coherence in Spoken Discourse",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:L8Ckcad2t8MC",
+            "citation_id": "Y7rIA24AAAAJ:L8Ckcad2t8MC",
+            "authors": "R Patil, YK Singla, RR Shah, M Hama, R Zimmermann",
+            "publication": "arXiv preprint arXiv:2101.00056, 2020",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17084351804474062472",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17084351804474062472&engine=google_scholar&hl=en",
+                "cites_id": "17084351804474062472"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Towards Modelling Coherence in Spoken Discourse",
+                    "author": [
+                        "R Patil",
+                        "YK Singla",
+                        "RR Shah",
+                        "M Hama"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "While there has been significant progress towards modelling coherence in written discourse, the work in modelling spoken discourse coherence has been quite limited. Unlike the coherence in text, coherence in spoken discourse is also dependent on the prosodic and acoustic patterns in speech. In this paper, we model coherence in spoken discourse with audio-based coherence models. We perform experiments with four coherence-related tasks with spoken discourses. In our experiments, we evaluate machine-generated speech"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2101.00056",
+                "author_id": [
+                    "79uJMXsAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "WAChZv4AAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:iPZ6C3PPF-0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTowards%2BModelling%2BCoherence%2Bin%2BSpoken%2BDiscourse%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=iPZ6C3PPF-0J&ei=WFdkYu2YNpGJmwGY-qmYDQ&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=17084351804474062472&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:iPZ6C3PPF-0J:scholar.google.com/&scioq=Towards+Modelling+Coherence+in+Spoken+Discourse&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2101.00056"
+            }
+        },
+        {
+            "title": "Suggestion Mining from Online Reviews using ULMFiT",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:YsMSGLbcyi4C",
+            "citation_id": "Y7rIA24AAAAJ:YsMSGLbcyi4C",
+            "authors": "S Anand, D Mahata, K Aggarwal, L Mehnaz, S Shahid, H Zhang, Y Kumar, ...",
+            "publication": "arXiv preprint arXiv:1904.09076, 2019",
+            "cited_by": {
+                "value": 5,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17248319659849523712",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17248319659849523712&engine=google_scholar&hl=en",
+                "cites_id": "17248319659849523712"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Suggestion mining from online reviews using ulmfit",
+                    "author": [
+                        "S Anand",
+                        "D Mahata",
+                        "K Aggarwal",
+                        "L Mehnaz"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "In this paper we present our approach and the system description for Sub Task A of SemEval 2019 Task 9: Suggestion Mining from Online Reviews and Forums. Given a sentence, the task asks to predict whether the sentence consists of a suggestion or not. Our model is based on Universal Language Model Fine-tuning for Text Classification. We apply various pre-processing techniques before training the language and the classification model. We further provide detailed analysis of the results obtained using the trained model"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1904.09076",
+                "author_id": [
+                    "o7aZlRYAAAAJ",
+                    "8F1SwO0AAAAJ",
+                    "7GG0zxUAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:AKK3WVhXXu8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSuggestion%2BMining%2Bfrom%2BOnline%2BReviews%2Busing%2BULMFiT%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AKK3WVhXXu8J&ei=XFdkYtiLObKO6rQPy-CRsA8&json=",
+                "num_citations": 5,
+                "citedby_url": "/scholar?cites=17248319659849523712&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:AKK3WVhXXu8J:scholar.google.com/&scioq=Suggestion+Mining+from+Online+Reviews+using+ULMFiT&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1904.09076"
+            }
+        },
+        {
+            "title": "Speaker-Conditioned Hierarchical Modeling for Automated Speech Scoring",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:IWHjjKOFINEC",
+            "citation_id": "Y7rIA24AAAAJ:IWHjjKOFINEC",
+            "authors": "YK Singla, A Gupta, S Bagga, C Chen, B Krishnamurthy, RR Shah",
+            "publication": "Proceedings of the 30th ACM International Conference on Information \u2026, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1481725271964792478",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1481725271964792478&engine=google_scholar&hl=en",
+                "cites_id": "1481725271964792478"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Speaker-Conditioned Hierarchical Modeling for Automated Speech Scoring",
+                    "author": [
+                        "YK Singla",
+                        "A Gupta",
+                        "S Bagga",
+                        "C Chen"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Proceedings of the 30th \u2026",
+                    "abstract": "Automatic Speech Scoring (ASS) is the computer-assisted evaluation of a candidate's speaking proficiency in a language. ASS systems face many challenges like open grammar, variable pronunciations, and unstructured or semi-structured content. Recent deep learning approaches have shown some promise in this domain. However, most of these approaches focus on extracting features from single audio, making them suffer from the lack of speaker-specific context required to model such a complex task. We propose"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://dl.acm.org/doi/abs/10.1145/3459637.3482395",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "9IsbNcEAAAAJ",
+                    "0JBiPIoAAAAJ",
+                    "LtEcKBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:njYuykglkBQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpeaker-Conditioned%2BHierarchical%2BModeling%2Bfor%2BAutomated%2BSpeech%2BScoring%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=njYuykglkBQJ&ei=YVdkYuegEI6pywTd4KPADw&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=1481725271964792478&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:njYuykglkBQJ:scholar.google.com/&scioq=Speaker-Conditioned+Hierarchical+Modeling+for+Automated+Speech+Scoring&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2109.00928"
+            }
+        },
+        {
+            "title": "An Annotated Dataset of Discourse Modes in Hindi Stories",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:YOwf2qJgpHMC",
+            "citation_id": "Y7rIA24AAAAJ:YOwf2qJgpHMC",
+            "authors": "S Dhanwal, H Dutta, H Nankani, N Shrivastava, Y Kumar, JJ Li, D Mahata, ...",
+            "publication": "Proceedings of The 12th Language Resources and Evaluation Conference, 1191-1196, 2020",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4634467783355893586",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4634467783355893586&engine=google_scholar&hl=en",
+                "cites_id": "4634467783355893586"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An annotated dataset of discourse modes in Hindi stories",
+                    "author": [
+                        "S Dhanwal",
+                        "H Dutta",
+                        "H Nankani"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In this paper, we present a new corpus consisting of sentences from Hindi short stories annotated for five different discourse modes argumentative, narrative, descriptive, dialogic and informative. We present a detailed account of the entire data collection and annotation processes. The annotations have a very high inter-annotator agreement (0.87 k-alpha). We analyze the data in terms of label distributions, part of speech tags, and sentence lengths. We characterize the performance of various classification algorithms on this dataset and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aclanthology.org/2020.lrec-1.149/",
+                "author_id": [
+                    "",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Uofr_eTvUEAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2BAnnotated%2BDataset%2Bof%2BDiscourse%2BModes%2Bin%2BHindi%2BStories%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Uofr_eTvUEAJ&ei=ZFdkYp2DKfmQ6rQP5OqKqAo&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=4634467783355893586&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Uofr_eTvUEAJ:scholar.google.com/&scioq=An+Annotated+Dataset+of+Discourse+Modes+in+Hindi+Stories&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aclanthology.org/2020.lrec-1.149/"
+            }
+        },
+        {
+            "title": "AES Systems Are Both Overstable And Oversensitive: Explaining Why And Proposing Defenses",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:mB3voiENLucC",
+            "citation_id": "Y7rIA24AAAAJ:mB3voiENLucC",
+            "authors": "YK Singla, S Parekh, S Singh, JJ Li, RR Shah, C Chen",
+            "publication": "arXiv preprint arXiv:2109.11728, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9402477260788391787,5668687418986054173",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9402477260788391787%2C5668687418986054173&engine=google_scholar&hl=en",
+                "cites_id": "9402477260788391787,5668687418986054173"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "AES Systems Are Both Overstable And Oversensitive: Explaining Why And Proposing Defenses",
+                    "author": [
+                        "YK Singla",
+                        "S Parekh",
+                        "S Singh",
+                        "JJ Li",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Deep-learning based Automatic Essay Scoring (AES) systems are being actively used by states and language testing agencies alike to evaluate millions of candidates for life-changing decisions ranging from college applications to visa approvals. However, little research has been put to understand and interpret the black-box nature of deep-learning based scoring algorithms. Previous studies indicate that scoring models can be easily fooled. In this paper, we explore the reason behind their surprising adversarial brittleness"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2109.11728",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "Kg63DSwAAAAJ",
+                    "3Unw6gkAAAAJ",
+                    "tJGm3-YAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:a9_6kUBPfIIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAES%2BSystems%2BAre%2BBoth%2BOverstable%2BAnd%2BOversensitive:%2BExplaining%2BWhy%2BAnd%2BProposing%2BDefenses%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=a9_6kUBPfIIJ&ei=Z1dkYpTYMYOEmgHx-5DADA&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=9402477260788391787&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:a9_6kUBPfIIJ:scholar.google.com/&scioq=AES+Systems+Are+Both+Overstable+And+Oversensitive:+Explaining+Why+And+Proposing+Defenses&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2109.11728"
+            }
+        },
+        {
+            "title": "Touchless typing using head movement-based gestures",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:KlAtU1dfN6UC",
+            "citation_id": "Y7rIA24AAAAJ:KlAtU1dfN6UC",
+            "authors": "S Rustagi, A Garg, PR Anand, R Kumar, Y Kumar, RR Shah",
+            "publication": "2020 IEEE Sixth International Conference on Multimedia Big Data (BigMM), 112-119, 2020",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1811847537923198302",
+                "serpapi_link": "https://serpapi.com/search.json?cites=1811847537923198302&engine=google_scholar&hl=en",
+                "cites_id": "1811847537923198302"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Touchless typing using head movement-based gestures",
+                    "author": [
+                        "S Rustagi",
+                        "A Garg",
+                        "PR Anand",
+                        "R Kumar"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE Sixth \u2026",
+                    "abstract": "In this paper, we propose a novel touchless typing interface that makes use of an on-screen QWERTY keyboard and a smartphone camera. The keyboard was divided into nine color-coded clusters. The user moved their head toward clusters, which contained the letters that they wanted to type. A front-facing smartphone camera recorded the head movements. A bidirectional GRU based model which used pre-trained embedding rich in head pose features was employed to translate the recordings into cluster sequences. The model"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9232570/",
+                "author_id": [
+                    "",
+                    "",
+                    "Ka5T27wAAAAJ",
+                    "5cX99iUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Xg0Udbz5JBkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DTouchless%2Btyping%2Busing%2Bhead%2Bmovement-based%2Bgestures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Xg0Udbz5JBkJ&ei=a1dkYrskso7qtA_L4JGwDw&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=1811847537923198302&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Xg0Udbz5JBkJ:scholar.google.com/&scioq=Touchless+typing+using+head+movement-based+gestures&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2001.09134"
+            }
+        },
+        {
+            "title": "\" Notic My Speech\"--Blending Speech Patterns With Multimedia",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:aqlVkmm33-oC",
+            "citation_id": "Y7rIA24AAAAJ:aqlVkmm33-oC",
+            "authors": "D Sahrawat, Y Kumar, S Aggarwal, Y Yin, RR Shah, R Zimmermann",
+            "publication": "arXiv preprint arXiv:2006.08599, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3269185139299066877",
+                "serpapi_link": "https://serpapi.com/search.json?cites=3269185139299066877&engine=google_scholar&hl=en",
+                "cites_id": "3269185139299066877"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "\" Notic My Speech\"--Blending Speech Patterns With Multimedia",
+                    "author": [
+                        "D Sahrawat",
+                        "Y Kumar",
+                        "S Aggarwal",
+                        "Y Yin"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Speech as a natural signal is composed of three parts-visemes (visual part of speech), phonemes (spoken part of speech), and language (the imposed structure). However, video as a medium for the delivery of speech and a multimedia construct has mostly ignored the cognitive aspects of speech delivery. For example, video applications like transcoding and compression have till now ignored the fact how speech is delivered and heard. To close the gap between speech understanding and multimedia video applications, in this paper, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2006.08599",
+                "author_id": [
+                    "d20OKwkAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "31nC1SkAAAAJ",
+                    "TRfTdBAAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:_SPoNJB6Xi0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3D%2522%2BNotic%2BMy%2BSpeech%2522--Blending%2BSpeech%2BPatterns%2BWith%2BMultimedia%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_SPoNJB6Xi0J&ei=bldkYpT4O5qSy9YP8pKNsAE&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=3269185139299066877&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:_SPoNJB6Xi0J:scholar.google.com/&scioq=%22+Notic+My+Speech%22--Blending+Speech+Patterns+With+Multimedia&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2006.08599"
+            }
+        },
+        {
+            "title": "Identifying Offensive Posts and Targeted Offense from Twitter",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:W7OEmFMy1HYC",
+            "citation_id": "Y7rIA24AAAAJ:W7OEmFMy1HYC",
+            "authors": "H Zhang, D Mahata, S Shahid, L Mehnaz, S Anand, Y Singla, RR Shah, ...",
+            "publication": "arXiv preprint arXiv:1904.09072, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13745337057193602877",
+                "serpapi_link": "https://serpapi.com/search.json?cites=13745337057193602877&engine=google_scholar&hl=en",
+                "cites_id": "13745337057193602877"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Identifying offensive posts and targeted offense from twitter",
+                    "author": [
+                        "H Zhang",
+                        "D Mahata",
+                        "S Shahid",
+                        "L Mehnaz"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "In this paper we present our approach and the system description for Sub-task A and Sub Task B of SemEval 2019 Task 6: Identifying and Categorizing Offensive Language in Social Media. Sub-task A involves identifying if a given tweet is offensive or not, and Sub Task B involves detecting if an offensive tweet is targeted towards someone (group or an individual). Our models for Sub-task A is based on an ensemble of Convolutional Neural Network, Bidirectional LSTM with attention, and Bidirectional LSTM+ Bidirectional GRU"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/1904.09072",
+                "author_id": [
+                    "IlpiFuAAAAAJ",
+                    "8F1SwO0AAAAJ",
+                    "K2iDQygAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:Pa8JRDo_wb4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIdentifying%2BOffensive%2BPosts%2Band%2BTargeted%2BOffense%2Bfrom%2BTwitter%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Pa8JRDo_wb4J&ei=cldkYon6I_mQ6rQP5OqKqAo&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=13745337057193602877&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Pa8JRDo_wb4J:scholar.google.com/&scioq=Identifying+Offensive+Posts+and+Targeted+Offense+from+Twitter&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1904.09072"
+            }
+        },
+        {
+            "title": "Automated Speech Scoring System Under The Lens",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:_Qo2XoVZTnwC",
+            "citation_id": "Y7rIA24AAAAJ:_Qo2XoVZTnwC",
+            "authors": "P Bamdev, MS Grover, YK Singla, P Vafaee, M Hama, RR Shah",
+            "publication": "International Journal of Artificial Intelligence in Education, 1-36, 2022",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15975456888654944258,18092043571988471086",
+                "serpapi_link": "https://serpapi.com/search.json?cites=15975456888654944258%2C18092043571988471086&engine=google_scholar&hl=en",
+                "cites_id": "15975456888654944258,18092043571988471086"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Automated Speech Scoring System Under The Lens",
+                    "author": [
+                        "P Bamdev",
+                        "MS Grover",
+                        "YK Singla",
+                        "P Vafaee"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "International Journal of \u2026",
+                    "abstract": "English proficiency assessments have become a necessary metric for filtering and selecting prospective candidates for both academia and industry. With the rise in demand for such assessments, it has become increasingly necessary to have the automated human-interpretable results to prevent inconsistencies and ensure meaningful feedback to the second language learners. Feature-based classical approaches have been more interpretable in understanding what the scoring model learns. Therefore, in this work, we"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s40593-022-00291-5",
+                "author_id": [
+                    "7UIln54AAAAJ",
+                    "33le3NEAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "1nJuBxIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:AljYDGY5tN0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAutomated%2BSpeech%2BScoring%2BSystem%2BUnder%2BThe%2BLens%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=AljYDGY5tN0J&ei=dldkYoLZHYOEmgHx-5DADA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=15975456888654944258&as_sdt=5,33&sciodt=0,33&hl=en"
+            }
+        },
+        {
+            "title": "MINIMAL: Mining Models for Universal Adversarial Triggers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:4JMBOYKVnBMC",
+            "citation_id": "Y7rIA24AAAAJ:4JMBOYKVnBMC",
+            "authors": "YK Singla, S Parekh, S Singh, B Krishnamurthy, RR Shah, C Chen",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14298873151452332487,17067134479959486528",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14298873151452332487%2C17067134479959486528&engine=google_scholar&hl=en",
+                "cites_id": "14298873151452332487,17067134479959486528"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "MINIMAL: Mining Models for Universal Adversarial Triggers",
+                    "author": [
+                        "YK Singla",
+                        "S Parekh",
+                        "S Singh",
+                        "B Krishnamurthy"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "NA",
+                    "abstract": "It is well known that natural language models are vulnerable to adversarial attacks, which are mostly input-specific in nature. Recently, it has been shown that there also exist input-agnostic attacks in NLP models, special text sequences called universal adversarial triggers. However, existing methods to craft universal triggers are data intensive. They require large amounts of data samples to generate adversarial triggers, which are typically inaccessible by attackers. For instance, previous works take 3000 data samples per class for the SNLI"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.aaai.org/AAAI22Papers/AAAI-6870.SinglaY.pdf",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "Kg63DSwAAAAJ",
+                    "",
+                    "n8iUBg8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:QHDOS2Kk2uwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMINIMAL:%2BMining%2BModels%2Bfor%2BUniversal%2BAdversarial%2BTriggers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QHDOS2Kk2uwJ&ei=eVdkYvaJG46pywTd4KPADw&json=",
+                "num_citations": 0,
+                "eprint_url": "https://www.aaai.org/AAAI22Papers/AAAI-6870.SinglaY.pdf"
+            }
+        },
+        {
+            "title": "Using Sampling to Estimate and Improve Performance of Automated Scoring Systems with Guarantees",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:TQgYirikUcIC",
+            "citation_id": "Y7rIA24AAAAJ:TQgYirikUcIC",
+            "authors": "YK Singla, S Krishna, RR Shah, C Chen",
+            "publication": "arXiv preprint arXiv:2111.08906, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8019878568546545548",
+                "serpapi_link": "https://serpapi.com/search.json?cites=8019878568546545548&engine=google_scholar&hl=en",
+                "cites_id": "8019878568546545548"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Using Sampling to Estimate and Improve Performance of Automated Scoring Systems with Guarantees",
+                    "author": [
+                        "YK Singla",
+                        "S Krishna",
+                        "RR Shah",
+                        "C Chen"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv:2111.08906",
+                    "abstract": "Automated Scoring (AS), the natural language processing task of scoring essays and speeches in an educational testing setting, is growing in popularity and being deployed across contexts from government examinations to companies providing language proficiency services. However, existing systems either forgo human raters entirely, thus harming the reliability of the test, or score every response by both human and machine thereby increasing costs. We target the spectrum of possible solutions in between, making"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2111.08906",
+                "author_id": [
+                    "Y7rIA24AAAAJ",
+                    "4eN3g0YAAAAJ",
+                    "WAChZv4AAAAJ",
+                    "LtEcKBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:jC_8IxFVTG8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DUsing%2BSampling%2Bto%2BEstimate%2Band%2BImprove%2BPerformance%2Bof%2BAutomated%2BScoring%2BSystems%2Bwith%2BGuarantees%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jC_8IxFVTG8J&ei=fldkYpOdCoOEmgHx-5DADA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=8019878568546545548&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:jC_8IxFVTG8J:scholar.google.com/&scioq=Using+Sampling+to+Estimate+and+Improve+Performance+of+Automated+Scoring+Systems+with+Guarantees&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2111.08906"
+            }
+        },
+        {
+            "title": "Learning based methods for code runtime complexity prediction",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:MXK_kJrjxJIC",
+            "citation_id": "Y7rIA24AAAAJ:MXK_kJrjxJIC",
+            "authors": "J Sikka, K Satya, Y Kumar, S Uppal, RR Shah, R Zimmermann",
+            "publication": "European Conference on Information Retrieval, 313-325, 2020",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4675775987391946089",
+                "serpapi_link": "https://serpapi.com/search.json?cites=4675775987391946089&engine=google_scholar&hl=en",
+                "cites_id": "4675775987391946089"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Learning based methods for code runtime complexity prediction",
+                    "author": [
+                        "J Sikka",
+                        "K Satya",
+                        "Y Kumar",
+                        "S Uppal",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 on Information Retrieval",
+                    "abstract": "Predicting the runtime complexity of a programming code is an arduous task. In fact, even for humans, it requires a subtle analysis and comprehensive knowledge of algorithms to predict time complexity with high fidelity, given any code. As per Turing's Halting problem proof, estimating code complexity is mathematically impossible. Nevertheless, an approximate solution to such a task can help developers to get real-time feedback for the efficiency of their code. In this work, we model this problem as a machine learning task and check its"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-3-030-45439-5_21",
+                "author_id": [
+                    "",
+                    "Hkn2sAYAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "cjo5X3QAAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:aV3MuXyx40AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLearning%2Bbased%2Bmethods%2Bfor%2Bcode%2Bruntime%2Bcomplexity%2Bprediction%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=aV3MuXyx40AJ&ei=gVdkYudeg4SaAfH7kMAM&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=4675775987391946089&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:aV3MuXyx40AJ:scholar.google.com/&scioq=Learning+based+methods+for+code+runtime+complexity+prediction&hl=en&as_sdt=0,33",
+                "eprint_url": "https://link.springer.com/chapter/10.1007/978-3-030-45439-5_21"
+            }
+        },
+        {
+            "title": "MIDAS at SemEval-2019 Task 9: Suggestion Mining from Online Reviews using ULMFit",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:ufrVoPGSRksC",
+            "citation_id": "Y7rIA24AAAAJ:ufrVoPGSRksC",
+            "authors": "S Anand, D Mahata, K Aggarwal, L Mehnaz, S Shahid, H Zhang, Y Kumar, ...",
+            "publication": "Proceedings of the 13th International Workshop on Semantic Evaluation, 1213-1217, 2019",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12762365820434251424",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12762365820434251424&engine=google_scholar&hl=en",
+                "cites_id": "12762365820434251424"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Midas at semeval-2019 task 9: Suggestion mining from online reviews using ulmfit",
+                    "author": [
+                        "S Anand",
+                        "D Mahata",
+                        "K Aggarwal"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Proceedings of the \u2026",
+                    "abstract": "In this paper we present our approach to tackle the Suggestion Mining from Online Reviews and Forums Sub-Task A. Given a review, we are asked to predict whether the review consists of a suggestion or not. Our model is based on Universal Language Model Fine-tuning for Text Classification. We apply various pre-processing techniques before training the language and the classification model. We further provide analysis of the model. Our team ranked 10th out of 34 participants, achieving an F1 score of 0.7011."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://aclanthology.org/S19-2213/",
+                "author_id": [
+                    "o7aZlRYAAAAJ",
+                    "8F1SwO0AAAAJ",
+                    "7GG0zxUAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:oP6RhBgIHbEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMIDAS%2Bat%2BSemEval-2019%2BTask%2B9:%2BSuggestion%2BMining%2Bfrom%2BOnline%2BReviews%2Busing%2BULMFit%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oP6RhBgIHbEJ&ei=hVdkYsmfAqKUy9YP_JONiAY&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=12762365820434251424&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:oP6RhBgIHbEJ:scholar.google.com/&scioq=MIDAS+at+SemEval-2019+Task+9:+Suggestion+Mining+from+Online+Reviews+using+ULMFit&hl=en&as_sdt=0,33",
+                "eprint_url": "https://aclanthology.org/S19-2213/"
+            }
+        },
+        {
+            "title": "Span Classification with Structured Information for Disfluency Detection in Spoken Utterances",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:j3f4tGmQtD8C",
+            "citation_id": "Y7rIA24AAAAJ:j3f4tGmQtD8C",
+            "authors": "S Ghosh, S Kumar, YK Singla, RR Shah, S Umesh",
+            "publication": "arXiv preprint arXiv:2203.16028, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Span Classification with Structured Information for Disfluency Detection in Spoken Utterances",
+                    "author": [
+                        "S Ghosh",
+                        "S Kumar",
+                        "YK Singla",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Existing approaches in disfluency detection focus on solving a token-level classification task for identifying and removing disfluencies in text. Moreover, most works focus on leveraging only contextual information captured by the linear sequences in text, thus ignoring the structured information in text which is efficiently captured by dependency trees. In this paper, building on the span classification paradigm of entity recognition, we propose a novel architecture for detecting disfluencies in transcripts from spoken utterances, incorporating"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2203.16028",
+                "author_id": [
+                    "5HKZJHAAAAAJ",
+                    "jiJ2DcEAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:nZXYZIBVwSsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpan%2BClassification%2Bwith%2BStructured%2BInformation%2Bfor%2BDisfluency%2BDetection%2Bin%2BSpoken%2BUtterances%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nZXYZIBVwSsJ&ei=iVdkYvv6F5qSy9YP8pKNsAE&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2203.16028"
+            }
+        },
+        {
+            "title": "LDKP: A Dataset for Identifying Keyphrases from Long Scientific Documents",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:RHpTSmoSYBkC",
+            "citation_id": "Y7rIA24AAAAJ:RHpTSmoSYBkC",
+            "authors": "D Mahata, N Agarwal, D Gautam, A Kumar, S Parekh, YK Singla, ...",
+            "publication": "arXiv preprint arXiv:2203.15349, 2022",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2022",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "LDKP: A Dataset for Identifying Keyphrases from Long Scientific Documents",
+                    "author": [
+                        "D Mahata",
+                        "N Agarwal",
+                        "D Gautam",
+                        "A Kumar"
+                    ],
+                    "pub_year": "2022",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Identifying keyphrases (KPs) from text documents is a fundamental task in natural language processing and information retrieval. Vast majority of the benchmark datasets for this task are from the scientific domain containing only the document title and abstract information. This limits keyphrase extraction (KPE) and keyphrase generation (KPG) algorithms to identify keyphrases from human-written summaries that are often very short (approx 8 sentences). This presents three challenges for real-world applications: human-written"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2203.15349",
+                "author_id": [
+                    "8F1SwO0AAAAJ",
+                    "",
+                    "",
+                    "qjFFoE0AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vM8KTxFHPd0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLDKP:%2BA%2BDataset%2Bfor%2BIdentifying%2BKeyphrases%2Bfrom%2BLong%2BScientific%2BDocuments%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vM8KTxFHPd0J&ei=jVdkYpnSDMLZmQHnraWYCA&json=",
+                "num_citations": 0,
+                "eprint_url": "https://arxiv.org/pdf/2203.15349"
+            }
+        },
+        {
+            "title": "Perception Point: Identifying Critical Learning Periods in Speech for Bilingual Networks",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:hFOr9nPyWt4C",
+            "citation_id": "Y7rIA24AAAAJ:hFOr9nPyWt4C",
+            "authors": "A Saraswat, M Bhatia, YK Singla, C Chen, RR Shah",
+            "publication": "arXiv preprint arXiv:2110.06507, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Perception Point: Identifying Critical Learning Periods in Speech for Bilingual Networks",
+                    "author": [
+                        "A Saraswat",
+                        "M Bhatia",
+                        "YK Singla",
+                        "C Chen"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "arXiv preprint arXiv \u2026",
+                    "abstract": "Recent studies in speech perception have been closely linked to fields of cognitive psychology, phonology, and phonetics in linguistics. During perceptual attunement, a critical and sensitive developmental trajectory has been examined in bilingual and monolingual infants where they can best discriminate common phonemes. In this paper, we compare and identify these cognitive aspects on deep neural-based visual lip-reading models. We conduct experiments on the two most extensive public visual speech recognition datasets for"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://arxiv.org/abs/2110.06507",
+                "author_id": [
+                    "zLS3GHoAAAAJ",
+                    "F1efoLgAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "LtEcKBcAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:C25-KKhihwoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerception%2BPoint:%2BIdentifying%2BCritical%2BLearning%2BPeriods%2Bin%2BSpeech%2Bfor%2BBilingual%2BNetworks%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=C25-KKhihwoJ&ei=kVdkYvbOFpLeyQTE46-QAg&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:C25-KKhihwoJ:scholar.google.com/&scioq=Perception+Point:+Identifying+Critical+Learning+Periods+in+Speech+for+Bilingual+Networks&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2110.06507"
+            }
+        },
+        {
+            "title": "Lifi: Towards linguistically informed frame interpolation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:Wp0gIr-vW9MC",
+            "citation_id": "Y7rIA24AAAAJ:Wp0gIr-vW9MC",
+            "authors": "AN Mathur, D Batra, YK Singla, RR Shah, C Chen, R Zimmermann",
+            "publication": "ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Lifi: Towards linguistically informed frame interpolation",
+                    "author": [
+                        "AN Mathur",
+                        "D Batra",
+                        "YK Singla",
+                        "RR Shah"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "ICASSP 2021-2021 \u2026",
+                    "abstract": "Here we explore the problem of speech video interpolation. With close to 70% of web traffic, such content today forms the primary form of online communication and entertainment. Despite high performance on conventional metrics like MSE, PSNR, and SSIM, we find that the state-of-the-art frame interpolation models fail to produce faithful speech interpolation. For instance, we observe the lips stay static while the person is still speaking for most interpolated frames. With this motivation, using the information of words, sub-words, and"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9413998/",
+                "author_id": [
+                    "6gzQDwQAAAAJ",
+                    "IzZcF24AAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "WAChZv4AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:ooleXuvlzDgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLifi:%2BTowards%2Blinguistically%2Binformed%2Bframe%2Binterpolation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ooleXuvlzDgJ&ei=lVdkYpiiBY6pywTd4KPADw&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:ooleXuvlzDgJ:scholar.google.com/&scioq=Lifi:+Towards+linguistically+informed+frame+interpolation&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2010.16078"
+            }
+        },
+        {
+            "title": "Pose-invariant visual speech recognition using a single view input",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:QIV2ME_5wuYC",
+            "citation_id": "Y7rIA24AAAAJ:QIV2ME_5wuYC",
+            "authors": "Y Kumar",
+            "publication": "US Patent 10,937,428, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Pose-invariant visual speech recognition using a single view input",
+                    "author": [
+                        "Y Kumar"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "US Patent 10,937,428",
+                    "abstract": "A pose-invariant visual speech recognition system obtains a single view input of a speaker, such as a single video stream captured by a single camera. The single view input provides a particular pose of the speaker, which refers to a view angle, relative to the lens or image capture component of the camera that captured the video of the speaker, at which the speaker's face is captured. The pose of the speaker is used to select a visual speech recognition model to use to generate a text label that is the words spoken by the speaker"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://patents.google.com/patent/US10937428B2/en",
+                "author_id": [
+                    "Y7rIA24AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:q7SGcW1dZ74J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPose-invariant%2Bvisual%2Bspeech%2Brecognition%2Busing%2Ba%2Bsingle%2Bview%2Binput%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=q7SGcW1dZ74J&ei=mVdkYsOhHfmQ6rQP5OqKqAo&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:q7SGcW1dZ74J:scholar.google.com/&scioq=Pose-invariant+visual+speech+recognition+using+a+single+view+input&hl=en&as_sdt=0,33",
+                "eprint_url": "https://patentimages.storage.googleapis.com/c7/ff/d3/c6f5110774dc33/US10937428.pdf"
+            }
+        },
+        {
+            "title": "Classification, Regression or Ordinal Regression? Assessing oral proficiency of non-native English speakers and interpreting results.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Y7rIA24AAAAJ&pagesize=100&citation_for_view=Y7rIA24AAAAJ:e5wmG9Sq2KIC",
+            "citation_id": "Y7rIA24AAAAJ:e5wmG9Sq2KIC",
+            "authors": "P Bamdev, MS Grover, Y Kumar, P Vafayee, M Hama, RR Shah",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Classification, Regression or Ordinal Regression? Assessing oral proficiency of non-native English speakers and interpreting results.",
+                    "author": [
+                        "P Bamdev",
+                        "MS Grover",
+                        "Y Kumar",
+                        "P Vafayee",
+                        "M Hama"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": "With the rise in demand for English proficiency assessments for both the academia and the  industry, it has become increasingly necessary to have the human-level interpretation of the  results to prevent bias and ensure meaningful feedback to the second language learners.   analyze and assess multiple classical models to choose the best formulation of the spontaneous  speech scoring task among regression, classification and ordinal regression. identify the  feature groups that correlate strongly with the proficiency levels via an ablation study."
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://manrajsingh.in/research/wiml_poster.pdf",
+                "author_id": [
+                    "7UIln54AAAAJ",
+                    "33le3NEAAAAJ",
+                    "Y7rIA24AAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:A21gwOKmltUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DClassification,%2BRegression%2Bor%2BOrdinal%2BRegression%253F%2BAssessing%2Boral%2Bproficiency%2Bof%2Bnon-native%2BEnglish%2Bspeakers%2Band%2Binterpreting%2Bresults.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=A21gwOKmltUJ&ei=nFdkYta7FIuKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:A21gwOKmltUJ:scholar.google.com/&scioq=Classification,+Regression+or+Ordinal+Regression%3F+Assessing+oral+proficiency+of+non-native+English+speakers+and+interpreting+results.&hl=en&as_sdt=0,33",
+                "eprint_url": "https://manrajsingh.in/research/wiml_poster.pdf"
+            }
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 331,
+                    "since_2017": 331
+                }
+            },
+            {
+                "h_index": {
+                    "all": 9,
+                    "since_2017": 9
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 9,
+                    "since_2017": 9
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 3
+            },
+            {
+                "year": 2019,
+                "citations": 42
+            },
+            {
+                "year": 2020,
+                "citations": 77
+            },
+            {
+                "year": 2021,
+                "citations": 157
+            },
+            {
+                "year": 2022,
+                "citations": 51
+            }
+        ]
+    },
+    "public_access": {
+        "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Y7rIA24AAAAJ",
+        "available": 5,
+        "not_available": 0
+    },
+    "co_authors": [
+        {
+            "name": "Rajiv Ratn SHAH",
+            "link": "https://scholar.google.com/citations?user=WAChZv4AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=WAChZv4AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "WAChZv4AAAAJ",
+            "affiliations": "Assistant Professor, IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=WAChZv4AAAAJ&citpid=3"
+        },
+        {
+            "name": "Roger Zimmermann",
+            "link": "https://scholar.google.com/citations?user=IDREwXEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=IDREwXEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "IDREwXEAAAAJ",
+            "affiliations": "Professor of Computer Science, National University of Singapore",
+            "email": "Verified email at comp.nus.edu.sg",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IDREwXEAAAAJ&citpid=4"
+        },
+        {
+            "name": "Debanjan Mahata",
+            "link": "https://scholar.google.com/citations?user=8F1SwO0AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=8F1SwO0AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "8F1SwO0AAAAJ",
+            "affiliations": "Director of AI @ Moody's Analytics, Adjunct Faculty @ IIIT-Delhi",
+            "email": "Verified email at moodys.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=8F1SwO0AAAAJ&citpid=3"
+        },
+        {
+            "name": "Amanda Stent",
+            "link": "https://scholar.google.com/citations?user=cXa9QOYAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=cXa9QOYAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "cXa9QOYAAAAJ",
+            "affiliations": "Researcher",
+            "email": "Verified email at colby.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Chen Changyou",
+            "link": "https://scholar.google.com/citations?user=LtEcKBcAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=LtEcKBcAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "LtEcKBcAAAAJ",
+            "affiliations": "Assistant Professor at University at Buffalo",
+            "email": "Verified email at buffalo.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=LtEcKBcAAAAJ&citpid=1"
+        },
+        {
+            "name": "Dhruva Sahrawat",
+            "link": "https://scholar.google.com/citations?user=d20OKwkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=d20OKwkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "d20OKwkAAAAJ",
+            "affiliations": "PhD Student, University of Maryland at College Park",
+            "email": "Verified email at umd.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=d20OKwkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Junyi Jessy Li",
+            "link": "https://scholar.google.com/citations?user=tJGm3-YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=tJGm3-YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "tJGm3-YAAAAJ",
+            "affiliations": "The University of Texas at Austin",
+            "email": "Verified email at austin.utexas.edu",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Ponnurangam Kumaraguru \"PK\"",
+            "link": "https://scholar.google.com/citations?user=MfzQyP8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=MfzQyP8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "MfzQyP8AAAAJ",
+            "affiliations": "#ProfGiri Computer Science @ IIIT Hyderabad, Alumni @ Carnegie Mellon & @ BITS Pilani",
+            "email": "Verified email at iiit.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MfzQyP8AAAAJ&citpid=4"
+        },
+        {
+            "name": "Swapnil Parekh",
+            "link": "https://scholar.google.com/citations?user=Kg63DSwAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Kg63DSwAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Kg63DSwAAAAJ",
+            "affiliations": "MS @NYU",
+            "email": "Verified email at nyu.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Kg63DSwAAAAJ&citpid=1"
+        },
+        {
+            "name": "Payman Vafaee",
+            "link": "https://scholar.google.com/citations?user=1nJuBxIAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=1nJuBxIAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "1nJuBxIAAAAJ",
+            "affiliations": "Faculty in Applied Linguistics at Teachers College, Columbia University",
+            "email": "Verified email at tc.columbia.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1nJuBxIAAAAJ&citpid=2"
+        },
+        {
+            "name": "Shin'ichi Satoh",
+            "link": "https://scholar.google.com/citations?user=7aEF5cQAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=7aEF5cQAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "7aEF5cQAAAAJ",
+            "affiliations": "National Institute of Informatics",
+            "email": "Verified email at nii.ac.jp",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7aEF5cQAAAAJ&citpid=2"
+        },
+        {
+            "name": "Balaji Krishnamurthy",
+            "link": "https://scholar.google.com/citations?user=n8iUBg8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=n8iUBg8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "n8iUBg8AAAAJ",
+            "affiliations": "Adobe Inc",
+            "email": "Verified email at adobe.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=n8iUBg8AAAAJ&citpid=1"
+        },
+        {
+            "name": "Somesh Singh",
+            "link": "https://scholar.google.com/citations?user=3Unw6gkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3Unw6gkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "3Unw6gkAAAAJ",
+            "affiliations": "BITS Pilani, Goa Campus",
+            "email": "Verified email at goa.bits-pilani.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3Unw6gkAAAAJ&citpid=2"
+        },
+        {
+            "name": "Akash Kumar",
+            "link": "https://scholar.google.com/citations?user=gsHhV5kAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=gsHhV5kAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "gsHhV5kAAAAJ",
+            "affiliations": "PhD student, University of Central Florida",
+            "email": "Verified email at knights.ucf.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=gsHhV5kAAAAJ&citpid=2"
+        },
+        {
+            "name": "Sriram Krishna",
+            "link": "https://scholar.google.com/citations?user=4eN3g0YAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=4eN3g0YAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "4eN3g0YAAAAJ",
+            "affiliations": "Software Engineer @ Samsung Research | Research Assistant, MIDAS @ IIIT-Delhi",
+            "email": "Verified email at samsung.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4eN3g0YAAAAJ&citpid=1"
+        },
+        {
+            "name": "Anish Acharya",
+            "link": "https://scholar.google.com/citations?user=uBmgGMAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uBmgGMAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "uBmgGMAAAAAJ",
+            "affiliations": "UT Austin",
+            "email": "Verified email at utexas.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uBmgGMAAAAAJ&citpid=8"
+        },
+        {
+            "name": "Sreyan Ghosh",
+            "link": "https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5HKZJHAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "5HKZJHAAAAAJ",
+            "affiliations": "Software Engineer at Cisco Systems, Bangalore, Research Collaborator at MIDAS@IIITD, IITM",
+            "email": "Verified email at cisco.com",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5HKZJHAAAAAJ&citpid=1"
+        },
+        {
+            "name": "Rajesh Kumar",
+            "link": "https://scholar.google.com/citations?user=5cX99iUAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=5cX99iUAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "5cX99iUAAAAJ",
+            "affiliations": "Assistant Professor, Hofstra University, USA",
+            "email": "Verified email at hofstra.edu",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=5cX99iUAAAAJ&citpid=82"
+        }
+    ]
+}

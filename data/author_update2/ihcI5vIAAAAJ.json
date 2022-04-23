@@ -1,0 +1,567 @@
+{
+    "search_metadata": {
+        "id": "62574cdff26ac69264b9098a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/eb068690dc68ffde/62574cdff26ac69264b9098a.json",
+        "created_at": "2022-04-13 22:21:19 UTC",
+        "processed_at": "2022-04-13 22:21:19 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=ihcI5vIAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/eb068690dc68ffde/62574cdff26ac69264b9098a.html",
+        "total_time_taken": 0.21,
+        "total_articles": 11,
+        "total_co_authors": 0
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "ihcI5vIAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Rakesh Chaturvedi",
+        "affiliations": "Indraprastha Institute of Information Technology Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://sites.google.com/site/rakeshchaturvedieconomics/",
+        "interests": [
+            {
+                "title": "Game Theory",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:game_theory",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Agame_theory"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ihcI5vIAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Coexistence of age and throughput optimizing networks: A game theoretic approach",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "ihcI5vIAAAAJ:Y0pCki6q_DkC",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi",
+            "publication": "2019 IEEE 30th Annual International Symposium on Personal, Indoor and Mobile \u2026, 2019",
+            "cited_by": {
+                "value": 14,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11237571783950625148",
+                "serpapi_link": "https://serpapi.com/search.json?cites=11237571783950625148&engine=google_scholar&hl=en",
+                "cites_id": "11237571783950625148"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence of age and throughput optimizing networks: A game theoretic approach",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE 30th Annual \u2026",
+                    "abstract": "Real-time monitoring applications have Internet-of-Things (IoT) devices sense and communicate information (status updates) to a monitoring facility. Such applications desire the status updates available at the monitor to be fresh and would like to minimize the age of delivered updates. Networks of such devices may share wireless spectrum with WiFi networks. Often, they use a CSMA/CA based medium access similar to WiFi. However, unlike them, a WiFi network would like to provide high throughputs for its users. We model"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8904150/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:fGlUkP_f85sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bof%2Bage%2Band%2Bthroughput%2Boptimizing%2Bnetworks:%2BA%2Bgame%2Btheoretic%2Bapproach%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=fGlUkP_f85sJ&ei=clRkYrmCFuiSy9YPp-OyiAE&json=",
+                "num_citations": 14,
+                "citedby_url": "/scholar?cites=11237571783950625148&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:fGlUkP_f85sJ:scholar.google.com/&scioq=Coexistence+of+age+and+throughput+optimizing+networks:+A+game+theoretic+approach&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1901.07226"
+            },
+            "processed_authors": [
+                "sneihil gopal",
+                "sanjit krishnan kaul",
+                "rakesh chaturvedi"
+            ]
+        },
+        {
+            "title": "A non-cooperative multiple access game for timely updates",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "ihcI5vIAAAAJ:YsMSGLbcyi4C",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi, S Roy",
+            "publication": "IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops \u2026, 2020",
+            "cited_by": {
+                "value": 9,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14908236644012638234",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14908236644012638234&engine=google_scholar&hl=en",
+                "cites_id": "14908236644012638234"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A non-cooperative multiple access game for timely updates",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE INFOCOM 2020 \u2026",
+                    "abstract": "We consider a network of selfish nodes that would like to minimize the age of their updates at the other nodes. The nodes send their updates over a shared spectrum using a CSMA/CA based access mechanism. We model the resulting competition as a non-cooperative one-shot multiple access game and investigate equilibrium strategies for two distinct medium access settings (a) collisions are shorter than successful transmissions and (b) collisions are longer. We investigate competition in a CSMA/CA slot, where a node may choose to transmit"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9162886/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GsDVkT2y5M4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bnon-cooperative%2Bmultiple%2Baccess%2Bgame%2Bfor%2Btimely%2Bupdates%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GsDVkT2y5M4J&ei=dlRkYva2C--Sy9YPs_mY8AM&json=",
+                "num_citations": 9,
+                "citedby_url": "/scholar?cites=14908236644012638234&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GsDVkT2y5M4J:scholar.google.com/&scioq=A+non-cooperative+multiple+access+game+for+timely+updates&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/2001.08850"
+            },
+            "processed_authors": [
+                "sneihil gopal",
+                "sanjit krishnan kaul",
+                "rakesh chaturvedi",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Efficient coalitional bargaining with noncontingent offers",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "ihcI5vIAAAAJ:UeHWp8X0CEIC",
+            "authors": "R Chaturvedi",
+            "publication": "Games and Economic Behavior 100, 125-141, 2016",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9332404330871900565",
+                "serpapi_link": "https://serpapi.com/search.json?cites=9332404330871900565&engine=google_scholar&hl=en",
+                "cites_id": "9332404330871900565"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Efficient coalitional bargaining with noncontingent offers",
+                    "author": [
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "Games and Economic Behavior",
+                    "abstract": "A new feature pertaining to proposer's ability to implement offers is introduced in the extensive form bargaining mechanism studied in Okada (1996). This mechanism is used to analyze the coalitional setting of strictly supermodular games. The new feature in the mechanism is that the proposer has a choice to implement his proposal with any subset of responders who have accepted it. Thus the institutional feature of 'every responder has veto power'is relaxed here. It is shown that for all sufficiently high discount factors \u03b4, there exists"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0899825616301075",
+                "author_id": [
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:lcnvMUtcg4EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEfficient%2Bcoalitional%2Bbargaining%2Bwith%2Bnoncontingent%2Boffers%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lcnvMUtcg4EJ&ei=elRkYr2lLuiSy9YPp-OyiAE&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=9332404330871900565&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:lcnvMUtcg4EJ:scholar.google.com/&scioq=Efficient+coalitional+bargaining+with+noncontingent+offers&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.isid.ac.in/~epu/acegd2015/papers/RakeshChaturvedi.pdf"
+            },
+            "processed_authors": [
+                "rakesh chaturvedi"
+            ]
+        },
+        {
+            "title": "Coexistence of Age and Throughput Optimizing Networks: A Spectrum Sharing Game",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:WF5omc3nYNoC",
+            "citation_id": "ihcI5vIAAAAJ:WF5omc3nYNoC",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi, S Roy",
+            "publication": "IEEE/ACM Transactions on Networking, 2021",
+            "cited_by": {
+                "value": 3,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14831096950788939289",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14831096950788939289&engine=google_scholar&hl=en",
+                "cites_id": "14831096950788939289"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence of age and throughput optimizing networks: A spectrum sharing game",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE/ACM Transactions \u2026",
+                    "abstract": "We investigate the coexistence of an age optimizing network (AON) and a throughput optimizing network (TON) that share a common spectrum band. We consider two modes of long run coexistence:(a) networks compete with each other for spectrum access, causing them to interfere and (b) networks cooperate to achieve non-interfering access. To model competition, we define a non-cooperative stage game parameterized by the average age of the AON at the beginning of the stage, derive its mixed strategy Nash equilibrium (MSNE)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9393507/",
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:GV4nJRmk0s0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bof%2BAge%2Band%2BThroughput%2BOptimizing%2BNetworks:%2BA%2BSpectrum%2BSharing%2BGame%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GV4nJRmk0s0J&ei=f1RkYovsDY2ymgHg1rfQDQ&json=",
+                "num_citations": 3,
+                "citedby_url": "/scholar?cites=14831096950788939289&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:GV4nJRmk0s0J:scholar.google.com/&scioq=Coexistence+of+Age+and+Throughput+Optimizing+Networks:+A+Spectrum+Sharing+Game&hl=en&as_sdt=0,33",
+                "eprint_url": "https://arxiv.org/pdf/1909.02863"
+            },
+            "processed_authors": [
+                "sneihil gopal",
+                "sanjit krishnan kaul",
+                "rakesh chaturvedi",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Fairness and partial coercion in land assembly",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "ihcI5vIAAAAJ:9yKSN-GCB0IC",
+            "authors": "R Chaturvedi",
+            "publication": "Games and Economic Behavior 120, 325-335, 2020",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5735355709004811143",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5735355709004811143&engine=google_scholar&hl=en",
+                "cites_id": "5735355709004811143"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Fairness and partial coercion in land assembly",
+                    "author": [
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "Games and Economic Behavior",
+                    "abstract": "A holdout problem arises in a land assembly environment in which one buyer is interested in a large landmass characterized by fragmented ownership among many landowners. A simple holdout-resolving mechanism is obtained that asymptotically (as the number of landowners increase) solves a mechanism design problem with two novel criteria. One, a partial coercion constraint that respects property rights only in an 'aggregate'sense; and two, a fairness constraint that requires the terms of trade (per unit area) to be the same for every"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0899825620300129",
+                "author_id": [
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:h4u9T6ETmE8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DFairness%2Band%2Bpartial%2Bcoercion%2Bin%2Bland%2Bassembly%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=h4u9T6ETmE8J&ei=hFRkYqCQEvmQ6rQP5OqKqAo&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=5735355709004811143&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:h4u9T6ETmE8J:scholar.google.com/&scioq=Fairness+and+partial+coercion+in+land+assembly&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "rakesh chaturvedi"
+            ]
+        },
+        {
+            "title": "Experimental Analysis of a Land Assembly Mechanism",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:ufrVoPGSRksC",
+            "citation_id": "ihcI5vIAAAAJ:ufrVoPGSRksC",
+            "authors": "R Chaturvedi, K Kanjilal",
+            "publication": "Journal of Behavioral and Experimental Economics 91, 2021",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10915561757223562059",
+                "serpapi_link": "https://serpapi.com/search.json?cites=10915561757223562059&engine=google_scholar&hl=en",
+                "cites_id": "10915561757223562059"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Experimental analysis of a land assembly mechanism",
+                    "author": [
+                        "R Chaturvedi",
+                        "K Kanjilal"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Journal of Behavioral and Experimental \u2026",
+                    "abstract": "Market mechanisms for land assembly problems suffer from a holdout problem and coercive legal solutions like eminent domain introduce new inefficiencies. A new mechanism that is not fully market-based but attempts price discovery is proposed, experimentally studied and is shown to improve efficiency. The mechanism is fully specified by two parameters-a percentile value of the empirical distribution of ask-prices that serves as a trading threshold for the buyer and a quantum of penalty to be applied to landowners who bid relatively very"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S2214804321000203",
+                "author_id": [
+                    "ihcI5vIAAAAJ",
+                    "GQtexFoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Sysmx5Xde5cJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DExperimental%2BAnalysis%2Bof%2Ba%2BLand%2BAssembly%2BMechanism%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Sysmx5Xde5cJ&ei=hlRkYuGqJpqSy9YP8pKNsAE&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=10915561757223562059&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Sysmx5Xde5cJ:scholar.google.com/&scioq=Experimental+Analysis+of+a+Land+Assembly+Mechanism&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "rakesh chaturvedi",
+                "kiriti kanjilal"
+            ]
+        },
+        {
+            "title": "Stability and Efficiency in a Model of Production and Pillage",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:LkGwnXOMwfcC",
+            "citation_id": "ihcI5vIAAAAJ:LkGwnXOMwfcC",
+            "authors": "R Chaturvedi",
+            "publication": "Indian Economic Review, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Stability and efficiency in a model of production and pillage",
+                    "author": [
+                        "R Chaturvedi"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Indian Economic Review",
+                    "abstract": "A collective choice model of an environment where a society must allocate but cannot legally enforce property rights over an indivisible productive asset is studied. Coalitions are heterogeneous in their productive abilities and power. As such, a coalition may either produce wealth from the asset or pillage the asset from less powerful coalitions. For a wide class of production and pillage technologies, a subset of the set of efficient states is supported as a Consistent Set of Chwe (Journal of Economic Theory 63: 299\u2013325, 1994). In"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/article/10.1007/s41775-021-00125-6",
+                "author_id": [
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:v-0VTPXXXsEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DStability%2Band%2BEfficiency%2Bin%2Ba%2BModel%2Bof%2BProduction%2Band%2BPillage%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=v-0VTPXXXsEJ&ei=iVRkYozcIeiSy9YPp-OyiAE&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:v-0VTPXXXsEJ:scholar.google.com/&scioq=Stability+and+Efficiency+in+a+Model+of+Production+and+Pillage&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "rakesh chaturvedi"
+            ]
+        },
+        {
+            "title": "An Economic Model of the Last-Mile Internet",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:_FxGoFyzp5QC",
+            "citation_id": "ihcI5vIAAAAJ:_FxGoFyzp5QC",
+            "authors": "R Chaturvedi, S Dutta, K Kanjilal",
+            "publication": "Journal of Economic Behavior and Organization 191, 620-638, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "An economic model of the last-mile internet",
+                    "author": [
+                        "R Chaturvedi",
+                        "S Dutta",
+                        "K Kanjilal"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "Journal of Economic Behavior & \u2026",
+                    "abstract": "Pricing decisions of an internet service provider (ISP) are studied in a model based on complementarity between broadband connection and content, congestion externalities on consumer side and oligopolistic externalities on content provider side. When consumers face two-part tariffs from the ISP, the equilibrium is sensitive to usage price level but is invariant to its structure on two sides. With nonlinear pricing, the markup of content providers affects consumer prices while congestion externalities and elasticity of content demand"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167268121004108",
+                "author_id": [
+                    "ihcI5vIAAAAJ",
+                    "",
+                    "GQtexFoAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:umR2F23KQMwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DAn%2BEconomic%2BModel%2Bof%2Bthe%2BLast-Mile%2BInternet%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=umR2F23KQMwJ&ei=jFRkYsH9Fc6E6rQP5-KmKA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:umR2F23KQMwJ:scholar.google.com/&scioq=An+Economic+Model+of+the+Last-Mile+Internet&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.isid.ac.in/~epu/Internet.pdf"
+            },
+            "processed_authors": [
+                "rakesh chaturvedi",
+                "s dutta",
+                "kiriti kanjilal"
+            ]
+        },
+        {
+            "title": "Coexistence of Age and Throughput Optimizing Networks: Competition vs Cooperation.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "ihcI5vIAAAAJ:IjCSPb-OGe4C",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi, S Roy",
+            "publication": "CoRR, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Coexistence of Age and Throughput Optimizing Networks: Competition vs Cooperation.",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi",
+                        "S Roy"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "DDPIAM4AAAAJ",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ",
+                    "acdy608AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:IulAuAqB6ooJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCoexistence%2Bof%2BAge%2Band%2BThroughput%2BOptimizing%2BNetworks:%2BCompetition%2Bvs%2BCooperation.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=IulAuAqB6ooJ&ei=j1RkYrq5IoySyASZk6HgCA&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "sneihil gopal",
+                "sanjit krishnan kaul",
+                "rakesh chaturvedi",
+                "sayan basu roy"
+            ]
+        },
+        {
+            "title": "Spectrum Sharing between DSRC and WiFi: A Repeated Game Approach.",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "ihcI5vIAAAAJ:u-x6o8ySG0sC",
+            "authors": "S Gopal, SK Kaul, R Chaturvedi",
+            "publication": "CoRR, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Spectrum Sharing between DSRC and WiFi: A Repeated Game Approach.",
+                    "author": [
+                        "S Gopal",
+                        "SK Kaul",
+                        "R Chaturvedi"
+                    ],
+                    "venue": "NA",
+                    "pub_year": "NA",
+                    "abstract": ""
+                },
+                "filled": false,
+                "gsrank": 1,
+                "author_id": [
+                    "",
+                    "XGNQPRsAAAAJ",
+                    "ihcI5vIAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Y548zoffkAYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpectrum%2BSharing%2Bbetween%2BDSRC%2Band%2BWiFi:%2BA%2BRepeated%2BGame%2BApproach.%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Y548zoffkAYJ&ei=k1RkYoCzGo6pywTd4KPADw&json=",
+                "num_citations": 0
+            },
+            "processed_authors": [
+                "sneihil gopal",
+                "sanjit krishnan kaul",
+                "rakesh chaturvedi"
+            ]
+        },
+        {
+            "title": "Essays in Bargaining and Contracts",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ihcI5vIAAAAJ&pagesize=100&citation_for_view=ihcI5vIAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "ihcI5vIAAAAJ:eQOLeE2rZwMC",
+            "authors": "R Chaturvedi",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2015",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Internal bargaining, labor contracts, and a Marshallian theory of the firm",
+                    "author": [
+                        "H Miyazaki"
+                    ],
+                    "pub_year": "1984",
+                    "venue": "The American Economic Review",
+                    "abstract": "Frequently in those exercises, pertinent characteristics of bargained contracts were derived  from the efficiency and uniqueness of the bargaining outcome, combined with intuitive"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://www.jstor.org/stable/1804014",
+                "author_id": [
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:i-JbRtX5dZ8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEssays%2Bin%2BBargaining%2Band%2BContracts%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=i-JbRtX5dZ8J&ei=l1RkYtf2GoyuyAT-mrWwCA&json=",
+                "num_citations": 62,
+                "citedby_url": "/scholar?cites=11490364718709465739&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:i-JbRtX5dZ8J:scholar.google.com/&scioq=Essays+in+Bargaining+and+Contracts&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "rakesh chaturvedi"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 33,
+                    "since_2017": 31
+                }
+            },
+            {
+                "h_index": {
+                    "all": 3,
+                    "since_2017": 3
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 1,
+                    "since_2017": 1
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2015,
+                "citations": 1
+            },
+            {
+                "year": 2016,
+                "citations": 1
+            },
+            {
+                "year": 2017,
+                "citations": 1
+            },
+            {
+                "year": 2018,
+                "citations": 7
+            },
+            {
+                "year": 2019,
+                "citations": 19
+            },
+            {
+                "year": 2020,
+                "citations": 3
+            }
+        ]
+    },
+    "co_authors": []
+}

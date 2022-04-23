@@ -1,0 +1,749 @@
+{
+    "search_metadata": {
+        "id": "62574cbe5119a62c6c10a290",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0d9a456634431c23/62574cbe5119a62c6c10a290.json",
+        "created_at": "2022-04-13 22:20:46 UTC",
+        "processed_at": "2022-04-13 22:20:46 UTC",
+        "google_scholar_author_url": "https://scholar.google.com/citations?user=wH9Q3RkAAAAJ&hl=en&cstart=0&pagesize=100",
+        "raw_html_file": "https://serpapi.com/searches/0d9a456634431c23/62574cbe5119a62c6c10a290.html",
+        "total_time_taken": 0.23,
+        "total_articles": 13,
+        "total_co_authors": 7
+    },
+    "search_parameters": {
+        "engine": "google_scholar_author",
+        "author_id": "wH9Q3RkAAAAJ",
+        "hl": "en",
+        "start": 0,
+        "num": "100"
+    },
+    "author": {
+        "name": "Mohd Hamza Naim Shaikh",
+        "affiliations": "IIIT Delhi",
+        "email": "Verified email at iiitd.ac.in",
+        "website": "https://www.iiitd.edu.in/~wirocomm/",
+        "interests": [
+            {
+                "title": "Wireless Communication",
+                "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:wireless_communication",
+                "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Awireless_communication"
+            }
+        ],
+        "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wH9Q3RkAAAAJ&citpid=1"
+    },
+    "articles": [
+        {
+            "title": "Performance Analysis of a Full-Duplex MIMO Decode-and-Forward Relay System With Self-Energy Recycling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:Y0pCki6q_DkC",
+            "citation_id": "wH9Q3RkAAAAJ:Y0pCki6q_DkC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava",
+            "publication": "IEEE Access 8, 226248-226266, 2020",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7841804380766449875",
+                "serpapi_link": "https://serpapi.com/search.json?cites=7841804380766449875&engine=google_scholar&hl=en",
+                "cites_id": "7841804380766449875"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance analysis of a full-duplex MIMO decode-and-forward relay system with self-energy recycling",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Access",
+                    "abstract": "This paper analyzes the performance of the full-duplex (FD) multiple-input-multiple-output (MIMO) decode-and-forward (DF) relay system in the presence of self-energy recycling (S-ER). Specifically, this work proposes an antenna allocation scheme for S-ER as well as analytically evaluates the performance of this proposed scheme in terms of spectral efficiency (SE), energy efficiency (EE), outage and symbol error rate (SER). Since, the self-interference (SI) is a major bottleneck in achieving the true potentials of FD communication"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9298754/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:07CvYYmv02wJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2BAnalysis%2Bof%2Ba%2BFull-Duplex%2BMIMO%2BDecode-and-Forward%2BRelay%2BSystem%2BWith%2BSelf-Energy%2BRecycling%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=07CvYYmv02wJ&ei=L2NkYqq1OuiSy9YPp-OyiAE&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=7841804380766449875&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:07CvYYmv02wJ:scholar.google.com/&scioq=Performance+Analysis+of+a+Full-Duplex+MIMO+Decode-and-Forward+Relay+System+With+Self-Energy+Recycling&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/6287639/8948470/09298754.pdf"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "a srivastava"
+            ]
+        },
+        {
+            "title": "Energy Efficiency Evaluation for Downlink Full-Duplex Nonlinear MU-MIMO-OFDM System With Self-Energy Recycling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:qjMakFHDy7sC",
+            "citation_id": "wH9Q3RkAAAAJ:qjMakFHDy7sC",
+            "authors": "MHN Shaikh, VA Bohara, P Aggarwal, A Srivastava",
+            "publication": "IEEE Systems Journal 14 (3), 3313-3324, 2020",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14622916017472716342",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14622916017472716342&engine=google_scholar&hl=en",
+                "cites_id": "14622916017472716342"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy efficiency evaluation for downlink full-duplex nonlinear MU-MIMO-OFDM system with self-energy recycling",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara",
+                        "P Aggarwal"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "IEEE Systems \u2026",
+                    "abstract": "Energy-efficient wireless system design has gained considerable attraction owing to the widespread proliferation of wireless devices. The next-generation wireless systems should also be spectrally efficient to sustain the tremendous demand for wireless services. Full-duplex (FD) systems have the potential to double the spectral efficiency (SE) of current half-duplex communication systems. The major challenge in FD systems is the suppression of strong self-interference (SI) imposed by the transmit signal on its receiving antennas"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8966489/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "lbv6kwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:Nr7UcaQI78oJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2BEfficiency%2BEvaluation%2Bfor%2BDownlink%2BFull-Duplex%2BNonlinear%2BMU-MIMO-OFDM%2BSystem%2BWith%2BSelf-Energy%2BRecycling%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Nr7UcaQI78oJ&ei=PGNkYvHtOuiSy9YPp-OyiAE&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=14622916017472716342&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:Nr7UcaQI78oJ:scholar.google.com/&scioq=Energy+Efficiency+Evaluation+for+Downlink+Full-Duplex+Nonlinear+MU-MIMO-OFDM+System+With+Self-Energy+Recycling&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "priya aggarwal",
+                "a srivastava"
+            ]
+        },
+        {
+            "title": "EMD Analysis of EEG Signals for Seizure Detection",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:d1gkVwhDpl0C",
+            "citation_id": "wH9Q3RkAAAAJ:d1gkVwhDpl0C",
+            "authors": "MHN Shaikh, O Farooq, G Chandel",
+            "publication": "Advances in System Optimization and Control, 189-196, 2017",
+            "cited_by": {
+                "value": 6,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17460554121128065967",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17460554121128065967&engine=google_scholar&hl=en",
+                "cites_id": "17460554121128065967"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "EMD analysis of EEG signals for seizure detection",
+                    "author": [
+                        "MHN Shaikh",
+                        "O Farooq",
+                        "G Chandel"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "Advances in System Optimization and \u2026",
+                    "abstract": "The Electroencephalogram (EEG) is the electrical signals which contain the information related to activities within the brain. Neurological disorders such as epilepsy can be diagnosed effectively by analyzing EEG signals. In the present work, the empirical mode decomposition (EMD) is applied to EEG recordings for the automated detection of seizures in epileptic patients. For this purpose, intrinsic mode functions (IMFs) from the EMD are processed to extract the features from normal and seizure EEG signals. The extracted"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://link.springer.com/chapter/10.1007/978-981-13-0665-5_16",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "Cse3HLAAAAAJ",
+                    "-pZtbM8AAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:rztSk3ZZUPIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEMD%2BAnalysis%2Bof%2BEEG%2BSignals%2Bfor%2BSeizure%2BDetection%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rztSk3ZZUPIJ&ei=QWNkYoPtDpqSy9YP8pKNsAE&json=",
+                "num_citations": 6,
+                "citedby_url": "/scholar?cites=17460554121128065967&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:rztSk3ZZUPIJ:scholar.google.com/&scioq=EMD+Analysis+of+EEG+Signals+for+Seizure+Detection&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "o farooq",
+                "g chandel"
+            ]
+        },
+        {
+            "title": "Performance Analysis of Intelligent Reflecting Surface-Assisted Wireless System With Non-Ideal Transceiver",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:YsMSGLbcyi4C",
+            "citation_id": "wH9Q3RkAAAAJ:YsMSGLbcyi4C",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava, G Ghatak",
+            "publication": "IEEE Open Journal of the Communications Society 2, 671-686, 2021",
+            "cited_by": {
+                "value": 4,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18370352364583655232",
+                "serpapi_link": "https://serpapi.com/search.json?cites=18370352364583655232&engine=google_scholar&hl=en",
+                "cites_id": "18370352364583655232"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance analysis of intelligent reflecting surface-assisted wireless system with non-ideal transceiver",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "IEEE Open Journal of \u2026",
+                    "abstract": "Intelligent Reflecting Surfaces (IRSs) have recently emerged as a promising solution for realizing the smart radio environment concept by leveraging the characteristics of metamaterials and large antenna arrays. However, the existing works on IRS do not account for the transceiver impairments while analyzing the performance of IRS assisted wireless systems. This paper investigates the impact of transceiver hardware imperfections on the performance of IRS-assisted wireless systems. Specifically, we have analyzed the spectral"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9388920/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:QBfEMSWa8P4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2BAnalysis%2Bof%2BIntelligent%2BReflecting%2BSurface-Assisted%2BWireless%2BSystem%2BWith%2BNon-Ideal%2BTransceiver%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QBfEMSWa8P4J&ei=R2NkYuDMJ--Sy9YPs_mY8AM&json=",
+                "num_citations": 4,
+                "citedby_url": "/scholar?cites=18370352364583655232&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:QBfEMSWa8P4J:scholar.google.com/&scioq=Performance+Analysis+of+Intelligent+Reflecting+Surface-Assisted+Wireless+System+With+Non-Ideal+Transceiver&hl=en&as_sdt=0,33",
+                "eprint_url": "https://ieeexplore.ieee.org/iel7/8782661/9309127/09388920.pdf"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "a srivastava",
+                "g ghatak"
+            ]
+        },
+        {
+            "title": "On EE-SE Trade-Off for Downlink Full Duplex MISO Systems with Self-Energy Recycling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:2osOgNQ5qMEC",
+            "citation_id": "wH9Q3RkAAAAJ:2osOgNQ5qMEC",
+            "authors": "MHN Shaikh, VA Bohara, P Aggarwal, A Srivastava",
+            "publication": "2019 IEEE 89th Vehicular Technology Conference (VTC2019-Spring), 1-5, 2019",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14581754818918138022",
+                "serpapi_link": "https://serpapi.com/search.json?cites=14581754818918138022&engine=google_scholar&hl=en",
+                "cites_id": "14581754818918138022"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On EE-SE trade-off for downlink full duplex MISO systems with self-energy recycling",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara",
+                        "P Aggarwal"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE 89th \u2026",
+                    "abstract": "Energy efficiency (EE) and spectral efficiency (SE) are among the key performance metrics for any wireless standards. In this work, we study the trade-off between EE-SE for supporting the downlink data rate as well as opportunistically harvesting the ambient radio frequency (RF) energy. The goal is to maximize EE while maintaining the requisite data rate for the downlink. We consider a case of downlink full duplex multi-input single-output (MISO) system where the transmitter having multiple antennas is transmitting to a user equipped"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8746392/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    "lbv6kwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:psB0F8DMXMoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2BEE-SE%2BTrade-Off%2Bfor%2BDownlink%2BFull%2BDuplex%2BMISO%2BSystems%2Bwith%2BSelf-Energy%2BRecycling%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=psB0F8DMXMoJ&ei=S2NkYpieLKKUy9YP_JONiAY&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=14581754818918138022&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:psB0F8DMXMoJ:scholar.google.com/&scioq=On+EE-SE+Trade-Off+for+Downlink+Full+Duplex+MISO+Systems+with+Self-Energy+Recycling&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Mohd-Hamza-Shaikh/publication/332875095_On_EE-SE_trade-off_for_Downlink_Full_Duplex_MISO_Systems_with_Self-Energy_Recycling/links/5ccfe8e0a6fdccc9dd901f78/On-EE-SE-trade-off-for-Downlink-Full-Duplex-MISO-Systems-with-Self-Energy-Recycling.pdf"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "priya aggarwal",
+                "a srivastava"
+            ]
+        },
+        {
+            "title": "A simple approach of ECG beat classification",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:u5HHmVD_uO8C",
+            "citation_id": "wH9Q3RkAAAAJ:u5HHmVD_uO8C",
+            "authors": "A Mohammad, F Azeem, M Noman, MHN Shaikh",
+            "publication": "2016 3rd International Conference on Signal Processing and Integrated \u2026, 2016",
+            "cited_by": {
+                "value": 2,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17271468662308385490",
+                "serpapi_link": "https://serpapi.com/search.json?cites=17271468662308385490&engine=google_scholar&hl=en",
+                "cites_id": "17271468662308385490"
+            },
+            "year": "2016",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "A simple approach of ECG beat classification",
+                    "author": [
+                        "A Mohammad",
+                        "F Azeem",
+                        "M Noman"
+                    ],
+                    "pub_year": "2016",
+                    "venue": "2016 3rd International \u2026",
+                    "abstract": "The automatic processing of ECG for classification of heartbeat is presented in this paper. This work gives ability to the classifier to classify the beats to one of the four classes as recommended by ANSI/AAMI EC57: 1998 standard. The beats are normal, ventricular, supraventricular and fusion. The data obtained from MIT-BIH database. Six hundred beats have chosen from each class. The accuracy, sensitivity, specificity and predictivity for supraventricular beats are 96%, 90.8%, 97.7% and 92.8% respectively. For ventricular beats"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/7566775/",
+                "author_id": [
+                    "-3X9IkgAAAAJ",
+                    "",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:0rIufj2VsO8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DA%2Bsimple%2Bapproach%2Bof%2BECG%2Bbeat%2Bclassification%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0rIufj2VsO8J&ei=T2NkYuXYFbKO6rQPy-CRsA8&json=",
+                "num_citations": 2,
+                "citedby_url": "/scholar?cites=17271468662308385490&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:0rIufj2VsO8J:scholar.google.com/&scioq=A+simple+approach+of+ECG+beat+classification&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "a mohammad",
+                "f azeem",
+                "m noman",
+                "mohd hamza naim shaikh"
+            ]
+        },
+        {
+            "title": "On the Spectral Content of Nonlinear Carrier Aggregated Windowed OFDM Systems",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:9yKSN-GCB0IC",
+            "citation_id": "wH9Q3RkAAAAJ:9yKSN-GCB0IC",
+            "authors": "MHN Shaikh, A Agarwal, P Aggarwal, VA Bohara",
+            "publication": "2018 IEEE International Conference on Advanced Networks and \u2026, 2018",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5888559336975674279",
+                "serpapi_link": "https://serpapi.com/search.json?cites=5888559336975674279&engine=google_scholar&hl=en",
+                "cites_id": "5888559336975674279"
+            },
+            "year": "2018",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "On the spectral content of nonlinear carrier aggregated windowed OFDM systems",
+                    "author": [
+                        "MHN Shaikh",
+                        "A Agarwal",
+                        "P Aggarwal"
+                    ],
+                    "pub_year": "2018",
+                    "venue": "2018 IEEE \u2026",
+                    "abstract": "Orthogonal frequency division multiplexing (OFDM) and its variants have become the most favorable multi-carrier modulation scheme in various wireless communications standards, such as long-term evolution (LTE), LTE-Advanced, 5G New Radio (5G). They are also bound to play a crucial role in shaping the standards of next-generation cellular networks. However, the slow spectral sidelobe decay rate of OFDM makes it vulnerable to larger out-of-band (OOB) emission, especially in the presence of nonlinear high power amplifiers (HPA)"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8710162/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "",
+                    "lbv6kwkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:p6s-n4RduFEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOn%2Bthe%2BSpectral%2BContent%2Bof%2BNonlinear%2BCarrier%2BAggregated%2BWindowed%2BOFDM%2BSystems%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=p6s-n4RduFEJ&ei=U2NkYtf6MM6E6rQP5-KmKA&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=5888559336975674279&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:p6s-n4RduFEJ:scholar.google.com/&scioq=On+the+Spectral+Content+of+Nonlinear+Carrier+Aggregated+Windowed+OFDM+Systems&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.researchgate.net/profile/Mohd-Hamza-Shaikh/publication/332267848_On_the_Spectral_Content_of_Nonlinear_Carrier_Aggregated_Windowed_OFDM_Systems/links/5cab09f2a6fdcca26d0663d6/On-the-Spectral-Content-of-Nonlinear-Carrier-Aggregated-Windowed-OFDM-Systems.pdf"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "a agarwal",
+                "priya aggarwal",
+                "vivek bohara"
+            ]
+        },
+        {
+            "title": "Seizure detection in neonatal EEG signals using EMD based features",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:u-x6o8ySG0sC",
+            "citation_id": "wH9Q3RkAAAAJ:u-x6o8ySG0sC",
+            "authors": "G Chandel, O Farooq, MHN Shaikh, PPM Shanir",
+            "publication": "2017 International Conference on Multimedia, Signal Processing and \u2026, 2017",
+            "cited_by": {
+                "value": 1,
+                "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12190651104868758974",
+                "serpapi_link": "https://serpapi.com/search.json?cites=12190651104868758974&engine=google_scholar&hl=en",
+                "cites_id": "12190651104868758974"
+            },
+            "year": "2017",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Seizure detection in neonatal EEG signals using EMD based features",
+                    "author": [
+                        "G Chandel",
+                        "O Farooq",
+                        "MHN Shaikh"
+                    ],
+                    "pub_year": "2017",
+                    "venue": "\u2026 on Multimedia, Signal \u2026",
+                    "abstract": "In this paper, an algorithm for epileptic seizure detection using empirical mode decomposition (EMD) method is proposed. The EMD technique decomposes EEG signals into intrinsic mode functions (IMF). Further, statistical features representing seizure and non-seizure EEG activities were computed over these IMFs. The useful features were selected using t-test score and fed to artificial neural network (ANN) classifier to recognizing seizure and non-seizure EEG. The scalp EEG signals recorded from neonatal subjects are used to"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/8363980/",
+                "author_id": [
+                    "-pZtbM8AAAAJ",
+                    "Cse3HLAAAAAJ",
+                    "wH9Q3RkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:vvVsTpfkLakJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSeizure%2Bdetection%2Bin%2Bneonatal%2BEEG%2Bsignals%2Busing%2BEMD%2Bbased%2Bfeatures%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=vvVsTpfkLakJ&ei=V2NkYuDgAqKUy9YP_JONiAY&json=",
+                "num_citations": 1,
+                "citedby_url": "/scholar?cites=12190651104868758974&as_sdt=5,33&sciodt=0,33&hl=en",
+                "url_related_articles": "/scholar?q=related:vvVsTpfkLakJ:scholar.google.com/&scioq=Seizure+detection+in+neonatal+EEG+signals+using+EMD+based+features&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "g chandel",
+                "o farooq",
+                "mohd hamza naim shaikh",
+                "ppm shanir"
+            ]
+        },
+        {
+            "title": "Intelligent Reflecting Surfaces Versus Full-Duplex Relaying: Performance Comparison for Non-Ideal Transmitter Case",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:eQOLeE2rZwMC",
+            "citation_id": "wH9Q3RkAAAAJ:eQOLeE2rZwMC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava, G Ghatak",
+            "publication": "2021 IEEE 32nd Annual International Symposium on Personal, Indoor and Mobile \u2026, 2021",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2021",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Intelligent Reflecting Surfaces Versus Full-Duplex Relaying: Performance Comparison for Non-Ideal Transmitter Case",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2021",
+                    "venue": "2021 IEEE 32nd \u2026",
+                    "abstract": "An intelligent reflecting surface (IRS) comprises of an array of discrete reflective elements (REs) possessing re-configurable scattering properties. IRS has the capability to beamform and relays the received radio signal from the transmitter to the desired receiver. This has made the IRS a promising candidate technology for the beyond fifth-generation (5G) cellular standards. In this work, the performance of an IRS-assisted wireless communication system is investigated and compared with the full-duplex (FD) relay-assisted system in the presence"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9569598/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:oRadhsOUEIoJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DIntelligent%2BReflecting%2BSurfaces%2BVersus%2BFull-Duplex%2BRelaying:%2BPerformance%2BComparison%2Bfor%2BNon-Ideal%2BTransmitter%2BCase%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=oRadhsOUEIoJ&ei=WmNkYuudH4uKmgGY1YjABQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:oRadhsOUEIoJ:scholar.google.com/&scioq=Intelligent+Reflecting+Surfaces+Versus+Full-Duplex+Relaying:+Performance+Comparison+for+Non-Ideal+Transmitter+Case&hl=en&as_sdt=0,33",
+                "eprint_url": "https://www.iiitd.edu.in/~wirocomm/resources/Hamza_PIMRC_2021.pdf"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "a srivastava",
+                "g ghatak"
+            ]
+        },
+        {
+            "title": "Performance Enhancement in Full-Duplex AF Relay System through Smart Antenna Allocation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:Tyk-4Ss8FVUC",
+            "citation_id": "wH9Q3RkAAAAJ:Tyk-4Ss8FVUC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava",
+            "publication": "2020 IEEE 3rd 5G World Forum (5GWF), 303-308, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Performance Enhancement in Full-Duplex AF Relay System through Smart Antenna Allocation",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE 3rd 5G World \u2026",
+                    "abstract": "Energy efficiency (EE) and spectral efficiency (SE) are two crucial performance metrics for next-generation wireless standards. In this work, the SE and EE of a full-duplex (FD) relay system based on the amplify-and-forward (AF) scheme is investigated. Specifically, it has been shown that residual self-interference (RSI) due to imperfect self-interference cancellation (SIC) impacts the SE and EE of the FD relay system. A smart antenna allocation (AA) scheme has been proposed that enhances the SE and the EE of the FD relay system"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9221287/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:5Ti3A63o09MJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPerformance%2BEnhancement%2Bin%2BFull-Duplex%2BAF%2BRelay%2BSystem%2Bthrough%2BSmart%2BAntenna%2BAllocation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=5Ti3A63o09MJ&ei=XmNkYtGlMZyO6rQP_qe3mAs&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:5Ti3A63o09MJ:scholar.google.com/&scioq=Performance+Enhancement+in+Full-Duplex+AF+Relay+System+through+Smart+Antenna+Allocation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "a srivastava"
+            ]
+        },
+        {
+            "title": "EE Enhancement in FD MIMO Relay System through Adaptive Antenna Allocation and Self-Energy Recycling",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:zYLM7Y9cAGgC",
+            "citation_id": "wH9Q3RkAAAAJ:zYLM7Y9cAGgC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava, G Ghatak",
+            "publication": "2020 IEEE International Conference on Communications Workshops (ICC \u2026, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "EE Enhancement in FD MIMO Relay System through Adaptive Antenna Allocation and Self-Energy Recycling",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara",
+                        "A Srivastava"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "2020 IEEE \u2026",
+                    "abstract": "In this work, the energy efficiency (EE) of a decode-and-forward (DF) full-duplex (FD) multiple-input multiple-output (MIMO) relay system is investigated, that employs adaptive antenna allocation (AAA) and self-energy recycling (S-ER). The proposed AAA scheme enhances the EE of the FD relay system by allocating antennas, in an adaptive manner, for information transmission and reception while simultaneously facilitating S-ER at the FD relay. Specifically, the proposed scheme presents a distribution of antennas for transmission"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9145112/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ",
+                    ""
+                ],
+                "url_scholarbib": "/scholar?q=info:-aRFgS-WgYwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEE%2BEnhancement%2Bin%2BFD%2BMIMO%2BRelay%2BSystem%2Bthrough%2BAdaptive%2BAntenna%2BAllocation%2Band%2BSelf-Energy%2BRecycling%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-aRFgS-WgYwJ&ei=Y2NkYt2rEoOEmgHx-5DADA&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:-aRFgS-WgYwJ:scholar.google.com/&scioq=EE+Enhancement+in+FD+MIMO+Relay+System+through+Adaptive+Antenna+Allocation+and+Self-Energy+Recycling&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "a srivastava",
+                "g ghatak"
+            ]
+        },
+        {
+            "title": "Spectral Analysis of a Nonlinear WOLA-OFDM System with DPD",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:UeHWp8X0CEIC",
+            "citation_id": "wH9Q3RkAAAAJ:UeHWp8X0CEIC",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava",
+            "publication": "2020 National Conference on Communications (NCC), 1-4, 2020",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2020",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Spectral Analysis of a Nonlinear WOLA-OFDM System with DPD",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2020",
+                    "venue": "\u2026 National Conference on \u2026",
+                    "abstract": "Orthogonal frequency division multiplexing (OFDM) has been a universal choice for modulation scheme for most of the wireless standards such as long-term evolution (LTE). However, OFDM is prone to large out-of-band (OOB) emission due to slower decay of its side-lobes. Weighted overlap and add OFDM (WOLA-OFDM) have been proposed for mitigating the out-of-band (OOB) emission by improving faster sidelobe decay. However, the presence of nonlinear high power amplifier (HPA) worsens the OOB performance of OFDM"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9056066/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:-kJMc3PIjVIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSpectral%2BAnalysis%2Bof%2Ba%2BNonlinear%2BWOLA-OFDM%2BSystem%2Bwith%2BDPD%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-kJMc3PIjVIJ&ei=Z2NkYvOBNY2ymgHg1rfQDQ&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:-kJMc3PIjVIJ:scholar.google.com/&scioq=Spectral+Analysis+of+a+Nonlinear+WOLA-OFDM+System+with+DPD&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "a srivastava"
+            ]
+        },
+        {
+            "title": "Energy Efficiency Enhancement in Full-Duplex Relay System through Adaptive Antenna Allocation",
+            "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wH9Q3RkAAAAJ&pagesize=100&citation_for_view=wH9Q3RkAAAAJ:IjCSPb-OGe4C",
+            "citation_id": "wH9Q3RkAAAAJ:IjCSPb-OGe4C",
+            "authors": "MHN Shaikh, VA Bohara, A Srivastava",
+            "publication": "2019 IEEE International Conference on Advanced Networks and \u2026, 2019",
+            "cited_by": {
+                "value": null,
+                "link": "https://scholar.google.com"
+            },
+            "year": "2019",
+            "info": {
+                "container_type": "Publication",
+                "source": "PUBLICATION_SEARCH_SNIPPET",
+                "bib": {
+                    "title": "Energy Efficiency Enhancement in Full-Duplex Relay System through Adaptive Antenna Allocation",
+                    "author": [
+                        "MHN Shaikh",
+                        "VA Bohara"
+                    ],
+                    "pub_year": "2019",
+                    "venue": "2019 IEEE International \u2026",
+                    "abstract": "Energy efficiency (EE) is one of the crucial parameter for designing the next generation wireless communication standard. This paper investigates the impact of antenna allocation on the EE of a full-duplex (FD) decode-and-forward (DF) relay system. Further, a scheme based on antenna allocation (AA) is proposed that enhances the EE of the FD relay system. Since the complete mitigation of self-interference (SI) in the FD system is inevitable, the SI impacts the reception at the relay, whereas the transmission from relay is relatively"
+                },
+                "filled": false,
+                "gsrank": 1,
+                "pub_url": "https://ieeexplore.ieee.org/abstract/document/9117956/",
+                "author_id": [
+                    "wH9Q3RkAAAAJ",
+                    "6oR0lYkAAAAJ"
+                ],
+                "url_scholarbib": "/scholar?q=info:I_RCwg2BtksJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+                "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DEnergy%2BEfficiency%2BEnhancement%2Bin%2BFull-Duplex%2BRelay%2BSystem%2Bthrough%2BAdaptive%2BAntenna%2BAllocation%26hl%3Den%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=I_RCwg2BtksJ&ei=a2NkYqDGOLKO6rQPy-CRsA8&json=",
+                "num_citations": 0,
+                "url_related_articles": "/scholar?q=related:I_RCwg2BtksJ:scholar.google.com/&scioq=Energy+Efficiency+Enhancement+in+Full-Duplex+Relay+System+through+Adaptive+Antenna+Allocation&hl=en&as_sdt=0,33"
+            },
+            "processed_authors": [
+                "mohd hamza naim shaikh",
+                "vivek bohara",
+                "a srivastava"
+            ]
+        }
+    ],
+    "cited_by": {
+        "table": [
+            {
+                "citations": {
+                    "all": 28,
+                    "since_2017": 28
+                }
+            },
+            {
+                "h_index": {
+                    "all": 4,
+                    "since_2017": 4
+                }
+            },
+            {
+                "i10_index": {
+                    "all": 0,
+                    "since_2017": 0
+                }
+            }
+        ],
+        "graph": [
+            {
+                "year": 2018,
+                "citations": 1
+            },
+            {
+                "year": 2019,
+                "citations": 5
+            },
+            {
+                "year": 2020,
+                "citations": 4
+            },
+            {
+                "year": 2021,
+                "citations": 12
+            },
+            {
+                "year": 2022,
+                "citations": 6
+            }
+        ]
+    },
+    "co_authors": [
+        {
+            "name": "Vivek Bohara",
+            "link": "https://scholar.google.com/citations?user=6oR0lYkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=6oR0lYkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "6oR0lYkAAAAJ",
+            "affiliations": "Associate Professor IIIT-Delhi",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=6oR0lYkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Parag Aggarwal",
+            "link": "https://scholar.google.com/citations?user=lbv6kwkAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=lbv6kwkAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "lbv6kwkAAAAJ",
+            "affiliations": "Wipro Limited",
+            "email": "Verified email at iiitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=lbv6kwkAAAAJ&citpid=3"
+        },
+        {
+            "name": "Gourab Ghatak",
+            "link": "https://scholar.google.com/citations?user=uBv4V8UAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=uBv4V8UAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "uBv4V8UAAAAJ",
+            "affiliations": "Indian Institute of Technology Delhi (IIT Delhi)",
+            "email": "Verified email at iitd.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=uBv4V8UAAAAJ&citpid=3"
+        },
+        {
+            "name": "Omar Farooq",
+            "link": "https://scholar.google.com/citations?user=Cse3HLAAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=Cse3HLAAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "Cse3HLAAAAAJ",
+            "affiliations": "Electronics Engineering, Biomedical and Human Factor Engineering, Aligarh Muslim University",
+            "email": "Verified email at amu.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Cse3HLAAAAAJ&citpid=3"
+        },
+        {
+            "name": "Garima Chandel",
+            "link": "https://scholar.google.com/citations?user=-pZtbM8AAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-pZtbM8AAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-pZtbM8AAAAJ",
+            "affiliations": "ITS Engineering College, Greater Noida",
+            "email": "Verified email at its.edu.in",
+            "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+        },
+        {
+            "name": "Mohammad Fazle Azeem",
+            "link": "https://scholar.google.com/citations?user=-3X9IkgAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=-3X9IkgAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "-3X9IkgAAAAJ",
+            "affiliations": "Electrical Engineering, College of Engineering, King Khalid University, Abha, Aseer Province, Saudi",
+            "email": "Verified email at kku.edu.sa",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-3X9IkgAAAAJ&citpid=2"
+        },
+        {
+            "name": "MUHAMMED SHANIR P. P.",
+            "link": "https://scholar.google.com/citations?user=3Zc85QEAAAAJ&hl=en",
+            "serpapi_link": "https://serpapi.com/search.json?author_id=3Zc85QEAAAAJ&engine=google_scholar_author&hl=en&num=100&start=0",
+            "author_id": "3Zc85QEAAAAJ",
+            "affiliations": "Assistant Professor",
+            "email": "Verified email at tkmce.ac.in",
+            "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3Zc85QEAAAAJ&citpid=5"
+        }
+    ]
+}
