@@ -146,6 +146,7 @@ l = []
 
 with open('authorData.json', 'r') as f:
     data = json.load(f)
+    
 objList = []
 newList = []
 count = 0
@@ -173,7 +174,7 @@ for paper in data:
         # print(paper, data[paper])
     objList.append(temp)
 # rlist = sorted(rlist, key = rlist.count,reverse = True)
-# print(result)
+# print(result)``
 # print(len(objList), count)
 # rdict={}
 # for i in rlist:
@@ -186,9 +187,13 @@ ctr = 0
 for combo in objList:
     for i in range(len(combo)-1):
         for j in range(i+1,len(combo)):
-            G.addEdge(combo[i],combo[j])
+            if(combo[i].authorCategory == 'iiitd'):                    
+                G.addEdge(combo[i],combo[j])
+            elif(combo[j].authorCategory == 'iiitd'):                    
+                G.addEdge(combo[j],combo[i])
 
-
+with open ('graph3.txt','w') as f:
+    f.write(str(G.graph))
 
 # print(G.graph)
 
