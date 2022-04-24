@@ -2,20 +2,28 @@ import json
 import os
 import networkx as nx
 import matplotlib
-
+import pickle
 
 class Author:
 
-    def __init__(self, name, authorType, authorCategory, penNames, articles=None):
+    def __init__(self, name, authorType, authorCategory, penNames, articles=None, domain={}):
         self.name = name
         self.authorType = authorType
         self.articles = articles
         self.authorCategory = authorCategory
         self.penNames = penNames
+        self.domains = domain
+
+    def add_domain(self, sdomain):
+        if sdomain in self.domains.keys():
+            self.domains[sdomain] += 1
+        else:
+            self.domains[sdomain] = 1
 
     def printAuthor(self):
         print('Name =', self.name, 'Type =', self.authorType, 'Category =', self.authorCategory, 'NameList =',
-              self.penNames)
+              self.penNames, 'Domains =',self.domains)
+
 
     def __str__(self):
         return f'{self.name}'  # ,Type :{self.authorType}, Category: {self.authorCategory}, NameList: {self.penNames}'
@@ -145,18 +153,19 @@ l = []
 # for i in aList:
 #     i.printAuthor()
 
-with open('authorData.json', 'r') as f:
+with open('publicationData.json', 'r') as f:
     data = json.load(f)
 
 objList = []
 newList = []
+domainList = []
 count = 0
 rlist = []
 for paper in data:
-    data[paper] = [i.lower() for i in data[paper]]
+    data[paper]["authors"] = [i.lower() for i in data[paper]["authors"]]
     temp = []
     c = 0
-    for i in data[paper]:
+    for i in data[paper]["authors"]:
         f = 0
         for stat in aList:
             if i in stat.penNames:
@@ -171,9 +180,16 @@ for paper in data:
             aList.append(Author(i, 'unknown', 'non_iiitd', [i]))
             temp.append(aList[len(aList) - 1])
     if c == 0:
-        rlist += data[paper]
+        rlist += data[paper]["authors"]
         # print(paper, data[paper])
     objList.append(temp)
+    domainList.append(data[paper]['domain'])
+# print(domainList[5])
+ctr=0
+for i in range(len(objList)):
+    for author in objList[i]:
+        for domain in domainList[i]:
+            author.add_domain(domain)
 # rlist = sorted(rlist, key = rlist.count,reverse = True)
 # print(result)``
 # print(len(objList), count)
@@ -185,6 +201,9 @@ for paper in data:
 #         rdict[i]=1
 # print(rdict)
 ctr = 0
+print(len(objList), len(domainList))
+for i in aList:
+    i.printAuthor()
 for combo in objList:
     for i in range(len(combo) - 1):
         for j in range(i + 1, len(combo)):
@@ -208,7 +227,6 @@ for combo in objList:
 #             ddict[G.graph[a][b]]+=1
 # print(ddict)
 
-
 # Convert The Graph to NetorkX Graph
 G_=nx.Graph()
 for author in G.graph:
@@ -219,6 +237,6 @@ for i in G.graph:
     for j in G.graph[i]:
         G_.add_edge(i.name,j.name,weight=G.graph[i][j])
 
-import pickle 
-with open('data/graph.pkl','wb') as f:
+import pickle
+with open('graph.pkl','wb') as f:
     pickle.dump(G_,f)
