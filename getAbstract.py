@@ -1,7 +1,7 @@
 import os
 import json
 
-filepath='C:\\Users\\gitsa\\Documents\\GitHub\\IR-Project\\data\\author_update\\'
+filepath='C:\\Users\\gitsa\\Documents\\GitHub\\IR-Project\\data\\author_update2\\'
 # filepath2='C:\\Users\\gitsa\\Documents\\GitHub\\IR-Project\\data\\final2\\'
 
 authorsData=os.listdir(filepath)
@@ -51,9 +51,6 @@ for i in range(len(publications)):
     data[publications[i]]={'authors':diffAuthors[i],'abstract':abstracts[i]}
 with open('publicationData.json','w') as f:
     json.dump(data,f,indent=4)
-
-
-
 
 
 
