@@ -1,0 +1,108 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 100%;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"id": "anubha gupta", "label": "anubha gupta", "shape": "dot", "size": 10}, {"id": "anuradha sharma", "label": "anuradha sharma", "shape": "dot", "size": 10}, {"id": "aayushi mittal", "label": "aayushi mittal", "shape": "dot", "size": 10}, {"id": "gaurav gupta", "label": "gaurav gupta", "shape": "dot", "size": 10}, {"id": "amarjeet singh", "label": "amarjeet singh", "shape": "dot", "size": 10}, {"id": "gunjan singh", "label": "gunjan singh", "shape": "dot", "size": 10}, {"id": "rajiv ratn shah", "label": "rajiv ratn shah", "shape": "dot", "size": 10}, {"id": "neha jain", "label": "neha jain", "shape": "dot", "size": 10}, {"id": "vivek bohara", "label": "vivek bohara", "shape": "dot", "size": 10}, {"id": "naushad ansari", "label": "naushad ansari", "shape": "dot", "size": 10}, {"id": "priya aggarwal", "label": "priya aggarwal", "shape": "dot", "size": 10}, {"id": "jaspreet kaur dhanjal", "label": "jaspreet kaur dhanjal", "shape": "dot", "size": 10}, {"id": "anuj grover", "label": "anuj grover", "shape": "dot", "size": 10}, {"id": "shobha sundar ram", "label": "shobha sundar ram", "shape": "dot", "size": 10}, {"id": "bijendra jain", "label": "bijendra jain", "shape": "dot", "size": 10}, {"id": "ponnurangam kumaraguru", "label": "ponnurangam kumaraguru", "shape": "dot", "size": 10}, {"id": "kuldeep yadav", "label": "kuldeep yadav", "shape": "dot", "size": 10}, {"id": "aman parnami", "label": "aman parnami", "shape": "dot", "size": 10}, {"id": "sneh saurabh", "label": "sneh saurabh", "shape": "dot", "size": 10}, {"id": "richa gupta", "label": "richa gupta", "shape": "dot", "size": 10}, {"id": "ojaswa sharma", "label": "ojaswa sharma", "shape": "dot", "size": 10}, {"id": "shiv gehlot", "label": "shiv gehlot", "shape": "dot", "size": 10}, {"id": "shivam sharma", "label": "shivam sharma", "shape": "dot", "size": 10}, {"id": "akanksha farswan", "label": "akanksha farswan", "shape": "dot", "size": 10}, {"id": "sri harsha gade", "label": "sri harsha gade", "shape": "dot", "size": 10}, {"id": "vikram goyal", "label": "vikram goyal", "shape": "dot", "size": 10}, {"id": "mukesh mohania", "label": "mukesh mohania", "shape": "dot", "size": 10}, {"id": "swapna r. purandare", "label": "swapna r. purandare", "shape": "dot", "size": 10}, {"id": "rahul purandare", "label": "rahul purandare", "shape": "dot", "size": 10}, {"id": "siddhartha asthana", "label": "siddhartha asthana", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"from": "anubha gupta", "label": 12, "to": "anuradha sharma", "weight": 12}, {"from": "anubha gupta", "label": 4, "to": "aayushi mittal", "weight": 4}, {"from": "anubha gupta", "label": 14, "to": "gaurav gupta", "weight": 14}, {"from": "anubha gupta", "label": 3, "to": "amarjeet singh", "weight": 3}, {"from": "anubha gupta", "label": 5, "to": "gunjan singh", "weight": 5}, {"from": "anubha gupta", "label": 3, "to": "rajiv ratn shah", "weight": 3}, {"from": "anubha gupta", "label": 17, "to": "neha jain", "weight": 17}, {"from": "anubha gupta", "label": 28, "to": "vivek bohara", "weight": 28}, {"from": "anubha gupta", "label": 19, "to": "naushad ansari", "weight": 19}, {"from": "anubha gupta", "label": 22, "to": "priya aggarwal", "weight": 22}, {"from": "anubha gupta", "label": 2, "to": "jaspreet kaur dhanjal", "weight": 2}, {"from": "anubha gupta", "label": 2, "to": "anuj grover", "weight": 2}, {"from": "anubha gupta", "label": 2, "to": "shobha sundar ram", "weight": 2}, {"from": "anubha gupta", "label": 2, "to": "bijendra jain", "weight": 2}, {"from": "anubha gupta", "label": 19, "to": "ponnurangam kumaraguru", "weight": 19}, {"from": "anubha gupta", "label": 2, "to": "kuldeep yadav", "weight": 2}, {"from": "anubha gupta", "label": 2, "to": "aman parnami", "weight": 2}, {"from": "anubha gupta", "label": 3, "to": "sneh saurabh", "weight": 3}, {"from": "anubha gupta", "label": 43, "to": "richa gupta", "weight": 43}, {"from": "anubha gupta", "label": 3, "to": "ojaswa sharma", "weight": 3}, {"from": "anubha gupta", "label": 13, "to": "shiv gehlot", "weight": 13}, {"from": "anubha gupta", "label": 19, "to": "shivam sharma", "weight": 19}, {"from": "anubha gupta", "label": 18, "to": "akanksha farswan", "weight": 18}, {"from": "anubha gupta", "label": 2, "to": "sri harsha gade", "weight": 2}, {"from": "anubha gupta", "label": 14, "to": "vikram goyal", "weight": 14}, {"from": "anubha gupta", "label": 14, "to": "mukesh mohania", "weight": 14}, {"from": "anubha gupta", "label": 2, "to": "swapna r. purandare", "weight": 2}, {"from": "anubha gupta", "label": 2, "to": "rahul purandare", "weight": 2}, {"from": "anubha gupta", "label": 2, "to": "siddhartha asthana", "weight": 2}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
