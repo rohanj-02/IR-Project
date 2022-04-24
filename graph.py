@@ -12,7 +12,7 @@ class Author:
         self.articles = articles
         self.authorCategory = authorCategory
         self.penNames = penNames
-        self.domains = domain
+        self.domains = {}
 
     def add_domain(self, sdomain):
         if sdomain in self.domains.keys():
@@ -202,14 +202,13 @@ for i in range(len(objList)):
 # print(rdict)
 ctr = 0
 print(len(objList), len(domainList))
-for i in aList:
-    i.printAuthor()
+cc=0
 for combo in objList:
     for i in range(len(combo) - 1):
         for j in range(i + 1, len(combo)):
-            if (combo[i].authorCategory == 'iiitd'):
+            if combo[i].authorCategory == 'iiitd':
                 G.addEdge(combo[i], combo[j])
-            elif (combo[j].authorCategory == 'iiitd'):
+            elif combo[j].authorCategory == 'iiitd':
                 G.addEdge(combo[j], combo[i])
 
 # with open ('graph3.txt','w') as f:
