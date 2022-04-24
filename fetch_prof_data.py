@@ -14,7 +14,7 @@ API_KEYS = [
 API_KEY = API_KEYS[0]
 
 # load author ids
-with open("./faculty_data.json", "r") as f:
+with open("jsonFiles/faculty_data.json", "r") as f:
     faculty_data = json.load(f)
 
 author_ids = [v for k, v in faculty_data.items()]

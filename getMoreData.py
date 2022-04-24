@@ -22,7 +22,7 @@ for file in authorsData:
 for author in coauthors:
     if author[0] not  in authorList:
         newauthors[author[0]] = author[1]
-with open('new_data.json','w') as jsonfile:
+with open('jsonFiles/new_data.json', 'w') as jsonfile:
     json.dump(newauthors,jsonfile,indent=4)
 
 

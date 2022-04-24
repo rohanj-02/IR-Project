@@ -1,7 +1,6 @@
 import json
 import os
 import networkx as nx
-import matplotlib
 import pickle
 
 class Author:
@@ -152,7 +151,7 @@ l = []
 # for i in aList:
 #     i.printAuthor()
 
-with open('publicationData.json', 'r') as f:
+with open('jsonFiles/publicationData.json', 'r') as f:
     data = json.load(f)
 
 objList = []
@@ -190,16 +189,7 @@ for i in range(len(objList)):
     for author in objList[i]:
         for domain in domainList[i]:
             author.add_domain(domain)
-# rlist = sorted(rlist, key = rlist.count,reverse = True)
-# print(result)``
-# print(len(objList), count)
-# rdict={}
-# for i in rlist:
-#     if i in rdict.keys():
-#         rdict[i]+=1
-#     else:
-#         rdict[i]=1
-# print(rdict)
+
 ctr = 0
 print(len(objList), len(domainList))
 cc=0
@@ -211,22 +201,7 @@ for combo in objList:
             elif combo[j].authorCategory == 'iiitd':
                 G.addEdge(combo[j], combo[i])
 
-# with open ('graph3.txt','w') as f:
-#     f.write(str(G.graph))
 
-# print(G.graph)
-
-
-# ddict={1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,9:0,10:0,11:0,12:0,13:0,14:0,15:0,16:0,17:0,18:0,19:0,20:0,}
-# for a in G.graph:
-#     for b in G.graph[a]:
-#         if G.graph[a][b]>20:
-#             print(a.name,b.name)
-#         else:
-#             ddict[G.graph[a][b]]+=1
-# print(ddict)
-
-# Convert The Graph to NetorkX Graph
 G_=nx.Graph()
 for author in G.graph:
     G_.add_node(author.name,articles=author.articles,authorCategory=author.authorCategory,
@@ -235,6 +210,76 @@ for i in G.graph:
     for j in G.graph[i]:
         G_.add_edge(i.name,j.name,weight=G.graph[i][j])
 
-import pickle
-with open('graph.pkl','wb') as f:
+
+with open('Models/graph.pkl', 'wb') as f:
     pickle.dump(G_,f)
+
+CN=Graph()
+count=0
+for combo in objList:
+    if 'computer networks' in domainList[count]:
+        for i in range(len(combo) - 1):
+            for j in range(i + 1, len(combo)):
+                if combo[i].authorCategory == 'iiitd':
+                    CN.addEdge(combo[i], combo[j])
+                elif combo[j].authorCategory == 'iiitd':
+                    CN.addEdge(combo[j], combo[i])
+    count += 1
+
+G_CN=nx.Graph()
+for author in CN.graph:
+    G_CN.add_node(author.name,articles=author.articles,authorCategory=author.authorCategory,
+                authorType=author.authorType,penNames=author.penNames,domains=author.domains)
+for i in CN.graph:
+    for j in CN.graph[i]:
+        G_CN.add_edge(i.name,j.name,weight=CN.graph[i][j])
+
+
+with open('Models/graphComputerNetworks.pkl', 'wb') as f:
+    pickle.dump(G_CN,f)
+
+Maths = Graph()
+count = 0
+for combo in objList:
+    if 'mathematics' in domainList[count]:
+        for i in range(len(combo) - 1):
+            for j in range(i + 1, len(combo)):
+                if combo[i].authorCategory == 'iiitd':
+                    Maths.addEdge(combo[i], combo[j])
+                elif combo[j].authorCategory == 'iiitd':
+                    Maths.addEdge(combo[j], combo[i])
+    count += 1
+
+G_Math = nx.Graph()
+for author in Maths.graph:
+    G_Math.add_node(author.name, articles=author.articles, authorCategory=author.authorCategory,
+                  authorType=author.authorType, penNames=author.penNames, domains=author.domains)
+for i in Maths.graph:
+    for j in Maths.graph[i]:
+        G_Math.add_edge(i.name, j.name, weight=Maths.graph[i][j])
+
+with open('Models/graphMathematics.pkl', 'wb') as f:
+    pickle.dump(G_Math, f)
+
+IP = Graph()
+count = 0
+for combo in objList:
+    if 'image processing' in domainList[count]:
+        for i in range(len(combo) - 1):
+            for j in range(i + 1, len(combo)):
+                if combo[i].authorCategory == 'iiitd':
+                    IP.addEdge(combo[i], combo[j])
+                elif combo[j].authorCategory == 'iiitd':
+                    IP.addEdge(combo[j], combo[i])
+    count += 1
+
+G_IP = nx.Graph()
+for author in IP.graph:
+    G_IP.add_node(author.name, articles=author.articles, authorCategory=author.authorCategory,
+                  authorType=author.authorType, penNames=author.penNames, domains=author.domains)
+for i in IP.graph:
+    for j in IP.graph[i]:
+        G_IP.add_edge(i.name, j.name, weight=IP.graph[i][j])
+
+with open('Models/graphImageProcessing.pkl', 'wb') as f:
+    pickle.dump(G_IP, f)

@@ -156,7 +156,7 @@ l = []
 # for i in aList:
 #     i.printAuthor()
 
-with open('authorData.json', 'r') as f:
+with open('jsonFiles/authorData.json', 'r') as f:
     data = json.load(f)
 objList = []
 newList = []
@@ -226,7 +226,7 @@ for article in all_articles:
 print("Unique articles: ", len(unique_articles))
 print("All articles: ", len(all_articles))
 
-with open("unique_articles.json", "w") as f:
+with open("jsonFiles/unique_articles.json", "w") as f:
     json.dump(unique_articles, f, indent = 4)
 # for paper in data:
 #     data[paper] = [i.lower() for i in data[paper]]

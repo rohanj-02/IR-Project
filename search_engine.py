@@ -3,7 +3,7 @@ from tqdm import tqdm
 
 def getPaperList():
     # read json file
-    with open('unique_articles.json') as json_file:
+    with open('jsonFiles/unique_articles.json') as json_file:
         papers = json.load(json_file)
     res = []
     for paper in papers:

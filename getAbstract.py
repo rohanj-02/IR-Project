@@ -49,7 +49,7 @@ print(len(publications),len(allAuthors),len(diffAuthors))
 data={}
 for i in range(len(publications)):
     data[publications[i]]={'authors':diffAuthors[i],'abstract':abstracts[i]}
-with open('publicationData.json','w') as f:
+with open('jsonFiles/publicationData.json', 'w') as f:
     json.dump(data,f,indent=4)
 
 
