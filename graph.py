@@ -117,7 +117,7 @@ for file in facultyData:
     else:
         print('Not Processed')
     aList.append(Author(name.lower(), 'faculty', 'iiitd', nlist, author['articles']))
-
+aList.append(Author('ritu gupta', 'unknown', 'non_iiitd', ['r gupta','ritu gupta','ritu g']))
 for file in studentData:
     with open(filepath2 + file, "r") as f:
         author = json.load(f)
@@ -148,7 +148,6 @@ for file in studentData:
     else:
         print('Not Processed')
     aList.append(Author(name.lower(), 'student', 'iiitd', nlist, author['articles']))
-
 l = []
 # for i in aList:
 #     i.printAuthor()
@@ -232,7 +231,6 @@ G_=nx.Graph()
 for author in G.graph:
     G_.add_node(author.name,articles=author.articles,authorCategory=author.authorCategory,
                 authorType=author.authorType,penNames=author.penNames)
-
 for i in G.graph:
     for j in G.graph[i]:
         G_.add_edge(i.name,j.name,weight=G.graph[i][j])
