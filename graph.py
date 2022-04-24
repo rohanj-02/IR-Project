@@ -230,7 +230,7 @@ for combo in objList:
 G_=nx.Graph()
 for author in G.graph:
     G_.add_node(author.name,articles=author.articles,authorCategory=author.authorCategory,
-                authorType=author.authorType,penNames=author.penNames)
+                authorType=author.authorType,penNames=author.penNames,domains=author.domains)
 for i in G.graph:
     for j in G.graph[i]:
         G_.add_edge(i.name,j.name,weight=G.graph[i][j])
