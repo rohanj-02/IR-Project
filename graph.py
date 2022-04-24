@@ -2,7 +2,7 @@ import json
 import os
 import networkx as nx
 import matplotlib
-
+import pickle
 
 class Author:
 
@@ -193,8 +193,8 @@ for combo in objList:
             elif (combo[j].authorCategory == 'iiitd'):
                 G.addEdge(combo[j], combo[i])
 
-# with open ('graph3.txt','w') as f:
-#     f.write(str(G.graph))
+with open ('graph3.txt','w') as f:
+    f.write(str(G.graph))
 
 # print(G.graph)
 
@@ -208,3 +208,16 @@ for combo in objList:
 #             ddict[G.graph[a][b]]+=1
 # print(ddict)
 
+# Convert The Graph to NetorkX Graph
+G_=nx.Graph()
+for author in G.graph:
+    G_.add_node(author.name,articles=author.articles,authorCategory=author.authorCategory,
+                authorType=author.authorType,penNames=author.penNames)
+
+for i in G.graph:
+    for j in G.graph[i]:
+        G_.add_edge(i.name,j.name,weight=G.graph[i][j])
+
+import pickle 
+with open('graph.pkl','wb') as f:
+    pickle.dump(G_,f)
