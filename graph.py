@@ -79,7 +79,7 @@ for file in facultyData:
     elif name == 'Ponnurangam Kumaraguru "PK"':
         name = 'Ponnurangam Kumaraguru'
     elif name == "Richa Gupta (Ph.D.)":
-        name = 'Richa Gupta'
+        name = 'Richa GGupta'
     nlist = [name.lower()]
     name = name.lower()
     temp = name.split(' ')
@@ -186,6 +186,7 @@ for paper in data:
     domainList.append(data[paper]['domain'])
 # print(domainList[5])
 ctr=0
+
 for i in range(len(objList)):
     for author in objList[i]:
         for domain in domainList[i]:
