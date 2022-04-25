@@ -1,0 +1,48 @@
+.scrollable{
+  max-height:150px;  
+  overflow-x:hidden; 
+  overflow-y:auto;  
+}
+
+.scrollable ul li{
+    color: rgb(158, 32, 32);
+    list-style-type: none;
+}
+
+.scrollable ul li:hover{
+  color: rgb(32, 158, 64);
+}
+
+#search-input
+{
+   border:solid 1px green;
+   height: 20px;
+   line-height: 20px;
+   vertical-align: middle
+}
+#search-button
+{
+   border: solid 1px;
+   background-color: green;
+   height: 22px;
+   line-height: 22px;
+   vertical-align: middle
+}
+
+#search-button:hover
+{
+   border: solid 1px red;
+   background-color: green;
+   height: 22px;
+   line-height: 22px;
+   vertical-align: middle
+}
+
+#search-button:disabled{
+  border: solid 1px;
+  background-color: gray;
+   color: black;
+   height: 22px;
+   line-height: 22px;
+   vertical-align: middle
+}

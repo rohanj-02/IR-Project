@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Search Bar</title>
+    <link rel="stylesheet" href="static/styles.css">
+    
+</head>
+<body style="background-color: rgb(16, 20, 32); font-family: Ubuntu;">
+    <div class='form' style="text-align: center;">
+    <form action="/" method = "post">
+    <div class="search-wrapper">
+        <label for="search">Search</label>
+        <input name="search-input" type="search" id="search-input" value="{{selected}}" data-search>
+        <input type="submit" value="Submit" id="search-button" search-button> 
+    </div>
+    <div class="scrollable">
+        <ul id="domains-list">
+        {% for domain in domains %}
+        <li>{{domain}}</li>
+        {% endfor %}
+        </ul>
+    </div>
+    </form>
+    </div>
+    <script type="text/javascript" src="static/script.js"></script>
+</body>
+</html>
