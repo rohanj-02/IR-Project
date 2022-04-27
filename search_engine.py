@@ -6,6 +6,7 @@ import string
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+import pickle 
 
 
 def getPaperList():
@@ -88,11 +89,14 @@ def makePostingsList(doc_list):
     return postings_list
 
 
+
 doc_list = PAPERS
 num_docs = len(doc_list)
-postings = makePostingsList(doc_list)
-vocab = postings.keys()
+postings = pickle.load(open("Models/postings.p", "rb"))
 
+# postings = makePostingsList(doc_list)
+# pickle.dump(postings, open("Models/postings.p", "wb"))
+vocab = postings.keys()
 
 def get_papers(query):
     """
@@ -226,6 +230,10 @@ def getTfIdfArticles(query):
     return final_score, top_docs
 
 
-res = get_papers('networks')
+# res = get_papers('networks')
+# pickle.dump(res, open("Models/res.p", "wb"))
+res = pickle.load(open("Models/res.p", "rb"))
+
+
 print(len(res))
 print(get_prof_freq(res))
