@@ -3,8 +3,9 @@ import os
 import networkx as nx
 import matplotlib
 
+
 class Author:
-    
+
     def __init__(self, name, authorType, authorCategory, penNames, articles=None):
         self.name = name
         self.authorType = authorType
@@ -15,9 +16,10 @@ class Author:
     def printAuthor(self):
         print('Name =', self.name, 'Type =', self.authorType, 'Category =', self.authorCategory, 'NameList =',
               self.penNames)
-    
+
     def __str__(self):
-        return f'{self.name}'#    ,Type :{self.authorType}, Category: {self.authorCategory}, NameList: {self.penNames}'
+        # ,Type :{self.authorType}, Category: {self.authorCategory}, NameList: {self.penNames}'
+        return f'{self.name}'
 
     def __repr__(self):
         return str(self)
@@ -54,11 +56,11 @@ class Graph:
 
 
 G = Graph()
-fpath = "data/author_update/"
-OUT_DIR = "data/author_update2/"
+fpath = "../data/author_update/"
+OUT_DIR = "../data/author_update2/"
 allData = os.listdir(fpath)
-filepath = 'data/final/'
-filepath2 = 'data/final2/'
+filepath = '../data/final/'
+filepath2 = '../data/final2/'
 facultyData = os.listdir(filepath)
 studentData = os.listdir(filepath2)
 facultyList = []
@@ -82,11 +84,11 @@ for file in facultyData:
     nlist = [name.lower()]
     name = name.lower()
     temp = name.split(' ')
-    if name=='raghava mutharaju':
+    if name == 'raghava mutharaju':
         nlist.append('vr mutharaju')
-    if name=='vivek bohara':
+    if name == 'vivek bohara':
         nlist.append('va bohara')
-    if name=='sanat biswas':
+    if name == 'sanat biswas':
         nlist.append('sk biswas')
     if name == 'bijendra jain':
         nlist.append('bn jain')
@@ -115,7 +117,8 @@ for file in facultyData:
         nlist.append(temp[0][0] + temp[1][0] + temp[2][0] + ' ' + temp[3])
     else:
         print('Not Processed')
-    aList.append(Author(name.lower(), 'faculty', 'iiitd', nlist, author['articles']))
+    aList.append(Author(name.lower(), 'faculty',
+                 'iiitd', nlist, author['articles']))
 
 for file in studentData:
     if os.path.exists(fpath + file):
@@ -150,19 +153,21 @@ for file in studentData:
         nlist.append(temp[0][0] + temp[1][0] + temp[2][0] + ' ' + temp[3])
     else:
         print('Not Processed')
-    aList.append(Author(name.lower(), 'student', 'iiitd', nlist, author['articles']))
+    aList.append(Author(name.lower(), 'student',
+                 'iiitd', nlist, author['articles']))
 
 l = []
 # for i in aList:
 #     i.printAuthor()
 
-with open('jsonFiles/authorData.json', 'r') as f:
+with open('../jsonFiles/authorData.json', 'r') as f:
     data = json.load(f)
 objList = []
 newList = []
 count = 0
-rlist=[]
+rlist = []
 all_authors = []
+
 
 def saveAuthorNames(pubs_data, filep):
     global count
@@ -198,16 +203,19 @@ def saveAuthorNames(pubs_data, filep):
                         newList.append(Author(i, 'unknown', 'non_iiitd', [i]))
                         temp.append(newList[len(newList) - 1])
                 if c == 0:
-                    rlist+=data[paper]
+                    rlist += data[paper]
                 # temp has to be saved.
-                author['articles'][author['articles'].index(pub)]["processed_authors"] = list(map(lambda x: x.name, temp))
+                author['articles'][author['articles'].index(
+                    pub)]["processed_authors"] = list(map(lambda x: x.name, temp))
             else:
-                author['articles'][author['articles'].index(pub)]["processed_authors"] = []
-        #save the author data
+                author['articles'][author['articles'].index(
+                    pub)]["processed_authors"] = []
+        # save the author data
         authors.append(author)
         with open(OUT_DIR + file, "w") as f:
-            json.dump(author, f, indent = 4)
+            json.dump(author, f, indent=4)
     return authors
+
 
 all_authors.extend(saveAuthorNames(facultyData, filepath))
 all_authors.extend(saveAuthorNames(studentData, filepath2))
@@ -226,8 +234,8 @@ for article in all_articles:
 print("Unique articles: ", len(unique_articles))
 print("All articles: ", len(all_articles))
 
-with open("jsonFiles/unique_articles.json", "w") as f:
-    json.dump(unique_articles, f, indent = 4)
+with open("../jsonFiles/unique_articles.json", "w") as f:
+    json.dump(unique_articles, f, indent=4)
 # for paper in data:
 #     data[paper] = [i.lower() for i in data[paper]]
 #     temp = []
@@ -270,9 +278,7 @@ with open("jsonFiles/unique_articles.json", "w") as f:
 #             G.addEdge(combo[i],combo[j])
 
 
-
 # print(G.graph)
-
 
 
 # ddict={1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,9:0,10:0,11:0,12:0,13:0,14:0,15:0,16:0,17:0,18:0,19:0,20:0,}
@@ -285,8 +291,6 @@ with open("jsonFiles/unique_articles.json", "w") as f:
 # print(ddict)
 
 
-
-
 # Convert The Graph to NetorkX Graph
 # G_=nx.Graph()
 # for author in G.graph:
@@ -297,7 +301,6 @@ with open("jsonFiles/unique_articles.json", "w") as f:
 #     for j in G.graph[i]:
 #         G_.add_edge(i.name,j.name,weight=G.graph[i][j])
 
-# import pickle 
+# import pickle
 # with open('data/graph.pkl','wb') as f:
 #     pickle.dump(G_,f)
-

@@ -1,9 +1,9 @@
 import os
 import json
 
-OUT_DIR = "./data"
+OUT_DIR = "../data"
 
-with open("jsonFiles/faculty_data.json", "r") as f:
+with open("../jsonFiles/faculty_data.json", "r") as f:
     faculty_data = json.load(f)
 
 author_ids = [v for k, v in faculty_data.items()]

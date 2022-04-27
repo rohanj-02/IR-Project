@@ -5,7 +5,7 @@ import os
 from tqdm import tqdm
 from scholarly import scholarly
 from scholarly import ProxyGenerator
-import copy 
+import copy
 
 pg = ProxyGenerator()
 # success = pg.ScraperAPI("81715ec6176c5b721005c1e1c0943dd6")
@@ -14,8 +14,8 @@ success = pg.ScraperAPI("ca007cedd5337eeb898c34b77951b901")
 print("Proxy connection status: ", success)
 scholarly.use_proxy(pg)
 
-IN_DIR = "./data/final2"
-OUT_DIR = "./data/author_update"
+IN_DIR = "../data/final2"
+OUT_DIR = "../data/author_update"
 
 for doc_id in os.listdir(IN_DIR):
     if os.path.exists(f"{OUT_DIR}/{doc_id}"):
@@ -48,7 +48,7 @@ for doc_id in os.listdir(IN_DIR):
             #     soup = BeautifulSoup(req.content, "lxml")
             #     table = soup.find(id="gsc_oci_table")
             #     i += 1
-                
+
             # fields = table.find_all(class_="gs_scl")
             # for field in fields:
             #     key = field.find(class_="gsc_oci_field").text
@@ -58,7 +58,7 @@ for doc_id in os.listdir(IN_DIR):
             # for key in TO_DELETE:
             #     if key in meta:
             #         del meta[key]
-        except Exception as e: 
+        except Exception as e:
             print(e)
             print(article['link'])
         print(meta)

@@ -3,7 +3,7 @@ import os
 import json
 from tqdm import tqdm
 
-OUT_DIR = "./data"
+OUT_DIR = "../data"
 API_KEYS = [
     'b4e0fce698af7831793b240383c8f879213b2137a177e2d683620ca081f342a3'
     '70c1ee921bb0a2b35a6922a33ee673ca0cf0381811f116fe8f4beb7097d326a1',
@@ -14,7 +14,7 @@ API_KEYS = [
 API_KEY = API_KEYS[0]
 
 # load author ids
-with open("jsonFiles/faculty_data.json", "r") as f:
+with open("../jsonFiles/faculty_data.json", "r") as f:
     faculty_data = json.load(f)
 
 author_ids = [v for k, v in faculty_data.items()]
