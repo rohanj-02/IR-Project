@@ -33,13 +33,17 @@ with open("AllDomains.pkl","rb") as file:
 
 @app.route('/',methods = ['GET','POST'])
 def home():
-    selected = domains[0]
+    selected_domain = domains[0]
     print("hello")
+    groups = []
     if request.method=='POST':
         domain = request.form['search-input']
-        selected = domain
-        print(get_domain_networks(selected))
-    return render_template('index.html',domains=domains,selected=selected)
+        model = request.form['model']   
+        selected_domain = domain
+        groups = get_domain_networks(selected_domain,model)
+        groups=[','.join(group) for group in groups]
+
+    return render_template('index.html',domains=domains,selected_domain=selected_domain,groups=groups)
 
 
 

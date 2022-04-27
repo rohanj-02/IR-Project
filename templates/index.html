@@ -9,10 +9,16 @@
 <body style="background-color: rgb(16, 20, 32); font-family: Ubuntu;">
     <div class='form' style="text-align: center;">
     <form action="/" method = "post">
-        
+    <div class="select-type">
+        <select name="model" action="/">
+            <option value="true">Homogeneous</option>
+            <option value="false">Hetrogenous</option>
+        </select>
+    </div> 
+    <br>
     <div class="search-wrapper">
         <label for="search">Search</label>
-        <input name="search-input" type="search" id="search-input" value="{{selected}}" data-search>
+        <input name="search-input" type="search" id="search-input" value="{{selected_domain}}" data-search>
         <input type="submit" value="Submit" id="search-button" search-button> 
     </div>
     <div class="scrollable">
@@ -23,6 +29,16 @@
         </ul>
     </div>
     </form>
+    </div>
+    <br>
+    <div class = "groups-table">
+        <table style="text-align:center; margin:auto;">
+            {% for group in groups %} 
+            <tr>
+                <td style="color:rgb(36, 116, 47)">{{group}}</td>
+            </tr>
+            {% endfor %}
+        </table>
     </div>
     <script type="text/javascript" src="static/script.js"></script>
 </body>
