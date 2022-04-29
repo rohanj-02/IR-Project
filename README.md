@@ -92,6 +92,10 @@ It extracts the domain of the research publication based on the abstract and tit
 
 ## metrics.ipynb
 
+It evaluates the scoes of researcher on the new metric which we propose.
+
+## metrics.ipynb
+
 It generates the metrics for the homogenous and heterogenous graph that we have made.
 
 ## search_engine.py
