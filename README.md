@@ -90,9 +90,9 @@ This file contains the graph generation code. A graph is first generated using o
 
 It extracts the domain of the research publication based on the abstract and title of the paper.
 
-## metrics.ipynb
+## newMetric.py
 
-It evaluates the scoes of researcher on the new metric which we propose.
+It evaluates the scoes of researcher on the new metric which we have proposed.
 
 ## metrics.ipynb
 
